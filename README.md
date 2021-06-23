@@ -23,7 +23,7 @@ Documents created within this repository are directly connected to pages in the 
 - Markdown: Using Markdown formatting
 - HTML: Using Basic HTML Formatting
 
-### Page METADATA
+### Page Metadata
 
 Each page requires METADATA at the start of the file.
 
