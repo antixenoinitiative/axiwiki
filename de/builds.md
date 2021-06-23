@@ -2,10 +2,10 @@
 title: Recommended Builds
 description: Anti-Xeno Ship Builds
 published: true
-date: 2021-06-10T08:08:07.372Z
-tags: 
+date: 2021-06-23T10:01:06.084Z
+tags: builds
 editor: markdown
-dateCreated: 2021-06-10T08:08:05.460Z
+dateCreated: 2021-06-08T12:52:54.657Z
 ---
 
 
@@ -144,7 +144,7 @@ Shield:
 Armour: ⭐⭐⭐⭐
 Firepower: ⭐⭐⭐⭐⭐
 
-Recommendation: A great upgrade from the shieldless build
+Recommendation: A great upgrade from the shielded build
 
 [Coriolis Shieldless Build](https://s.orbis.zone/eu9v)
 

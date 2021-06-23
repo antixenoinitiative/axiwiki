@@ -1,33 +1,32 @@
 ---
-title: Home
-description: Anti-Xeno Initiative Wiki Home
+title: Hauptseite
+description: Willkommen im Wiki der Anti-Xeno Initiative, Deiner Quelle für Alles rum um Anti-Xeno!
 published: true
-date: 2021-06-10T08:06:10.760Z
+date: 2021-06-23T13:00:50.155Z
 tags: 
 editor: markdown
-dateCreated: 2021-06-10T08:05:30.964Z
+dateCreated: 2021-06-08T12:40:49.911Z
 ---
 
-# Welcome
+![home.jpg](/img/home.jpg)
 
-Welcome to the Anti-Xeno Initiative Wiki. This is the primary repository of information gathered by the Anti-Xeno Initiative, here you will find tutorials, guides and all kinds of data regarding Thargoid Combat in Elite: Dangerous.
+# Willkommen!
 
-> This Wiki is a Work-In-Progress and not yet complete, Please find the current active wiki [here](https://www.antixenoinitiative.com/wiki).
-{.is-warning}
+Willkommen im Wiki der Anti-Xeno Initiative, die Hauptquelle für Informationen gesammelt von der Anti-Xeno Initiative. Hier findest du Einführungen, Anleitungen und alle möglichen Daten rund um den Kampf gegen Thargoiden in Elite Dangerous.
 
-# Wiki Migration Progress 
-The following section is a checklist of pages and content that has been successfully migrated from the Old AXI Wiki 
 
-## Phase 1: Ship Builds 
-- [x] Ship Build Guide 
-- [x] All Builds 
-- [x] Speedrun Builds 
-- [x] Weapons 
-- [x] Modules 
-- [ ] Unlocking Guardian Gear
-- [ ] Convergence 
-- [x] Lasers 
-- [x] Common Mistakes 
-- [x] Synthesis 
-- [ ] Engineering and Materials 
-- [x] Ship Build Theory
+# Erkunden
+
+Fange am besten mit der **Suchleiste** oben auf der Seite an.
+
+![](/img/2021-06-21_15_15_32-home___anti-xeno_initiative_wiki_-_beta.png)
+
+Oder benutze die Navigationleiste ouf der **linken Seite** um das Wiki zu durchstöbern.
+
+![](/img/2021-06-21_15_17_34-home___anti-xeno_initiative_wiki_-_beta.png)
+
+Das **Wiki der Anti-Xeno Initiative** hat viele Tehmen. Falls du etwas nicht findest, lass uns im Channel **\#website-discussion** im [AXI Discord](https://discord.gg/antixenoinitiative) wissen.
+
+# Beitragen
+
+Du möchtest Teil des Projekts **Wiki der Anti-Xeno Initiative** werden? Werde Mitglied im [AXI Discord](https://discord.gg/antixenoinitiative) und frage nach, wie du zum Editor werden kannst!
