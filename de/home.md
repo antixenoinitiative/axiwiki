@@ -1,6 +1,6 @@
 ---
-title: Home
-description: Welcome to the Anti-Xeno Initiative Wiki. Your complete repository for Anti-Xeno Combat.
+title: Hauptseite
+description: Willkommen im Wiki der Anti-Xeno Initiative, Deiner Quelle für Alles rum um Anti-Xeno!
 published: true
 date: 2021-06-23T13:00:50.155Z
 tags: 
@@ -10,23 +10,23 @@ dateCreated: 2021-06-08T12:40:49.911Z
 
 ![home.jpg](/img/home.jpg)
 
-# Welcome!
+# Willkommen!
 
-Welcome to the Anti-Xeno Initiative Wiki. This is the primary repository of information gathered by the Anti-Xeno Initiative, here you will find tutorials, guides and all kinds of data regarding Thargoid Combat in Elite: Dangerous.
+Willkommen im Wiki der Anti-Xeno Initiative, die Hauptquelle für Informationen gesammelt von der Anti-Xeno Initiative. Hier findest du Einführungen, Anleitungen und alle möglichen Daten rund um den Kampf gegen Thargoiden in Elite Dangerous.
 
 
-# Explore
+# Erkunden
 
-Use the **search bar** at the top of this page to get started
+Fange am besten mit der **Suchleiste** oben auf der Seite an.
 
 ![](/img/2021-06-21_15_15_32-home___anti-xeno_initiative_wiki_-_beta.png)
 
-Or use the Navigation bar on the **left-hand** side to browse through the wiki.
+Oder benutze die Navigationleiste ouf der **linken Seite** um das Wiki zu durchstöbern.
 
 ![](/img/2021-06-21_15_17_34-home___anti-xeno_initiative_wiki_-_beta.png)
 
-The **Anti-Xeno Initiative Wiki** has many topics, if you can't find sometihing, let us know in the **#website-discussion** channel in the AXI Discord.
+Das **Wiki der Anti-Xeno Initiative** hat viele Tehmen. Falls du etwas nicht findest, lass uns im Channel **\#website-discussion** im [AXI Discord](https://discord.gg/antixenoinitiative) wissen.
 
-# Contribute
+# Beitragen
 
-Want to take part in the **Anti-Xeno Initiative Wiki** project? join us in the [AXI discord](https://discord.gg/bqmDxdm) and ask about becoming an editor!
+Du möchtest Teil des Projekts **Wiki der Anti-Xeno Initiative** werden? Werde Mitglied im [AXI Discord](https://discord.gg/antixenoinitiative) und frage nach, wie du zum Editor werden kannst!
