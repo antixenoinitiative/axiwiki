@@ -29,4 +29,4 @@ The **Anti-Xeno Initiative Wiki** has many topics, if you can't find sometihing,
 
 # Contribute
 
-Want to take part in the **Anti-Xeno Initiative Wiki** project? join us in the [AXI discord](https://discord.gg/bqmDxdm) and ask about becoming an editor!
+Want to take part in the **Anti-Xeno Initiative Wiki** project? join us in the [AXI discord](https://discord.gg/antixenoinitiative) and ask about becoming an editor!

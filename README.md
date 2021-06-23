@@ -14,7 +14,7 @@ This is the Official Wiki Repository for the AXI wiki. This page will act as a h
 
 Wiki: https://wiki.antixenoinitiative.com/
 
-Join us in the discussion in the [Anti-Xeno Initiative Discord](https://discord.gg/bqmDxdm)
+Join us in the discussion in the [Anti-Xeno Initiative Discord](https://discord.gg/antixenoinitiative)
 
 ## How this repository works
 
