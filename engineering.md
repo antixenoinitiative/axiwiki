@@ -9,7 +9,7 @@ dateCreated: 2021-06-15T05:40:06.134Z
 ---
 
 # Engineering Materials Guide
-This is a general guide on gathering and collecting materials for engineering your ship in Elite: Dangerous.
+This is a general guide on gathering and collecting materials for engineering your ship in Elite Dangerous.
 
 > This guide is primarily focussed on gathering materials. For information on how to engineer your ship, see our [Ship Build Theory](/en/shipbuildtheory) page.
 {.is-info}
