@@ -57,6 +57,6 @@ dateCreated: 2021-06-17T03:18:38.671Z
 
 The GitHub repository will syncronize all changes (bi-directionally) with the AXI Wiki every 5 minutes. If a urgent change is needed contact Mgram#6610 on the AXI Discord.
 
-### MASTER Pages
+## Translation
 
 All Pages are based on the MASTER Pages in the root directory, these pages are all written in English. For Translations the MASTER pages are copied to the respective language folders (de/ru/etc), the pages are then translated by means of GitHub commits from our translators.
