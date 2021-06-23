@@ -51,8 +51,8 @@ Threat Levels:
 
 ## Guaranteed Interceptor Signals
 If a NHSS has a **Salvage** icon next to it in the navigation panel, you will ALWAYS get a solo Interceptor based of the list above. For example, here is a guaranteed **Basilisk** signal source. Additionally, this instance is slightly different, as it only includes small debris and no green cloud.
-![nhss.png](/nhss.png)
+![nhss.png](/img/nhss.png)
 Note: The small canister symbol on the left.
 
 ## NHSS Spawn Table
-![nhsstable.png](/nhsstable.png)
+![nhsstable.png](/img/nhsstable.png)

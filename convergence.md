@@ -19,12 +19,12 @@ You can place weapons in hardpoints that are physically close together to improv
 
 ## Good Convergence
 These hardpoints have a very tight convergence. 
-![](/convergegood.png)
+![](/img/convergegood.png)
 
 ## Bad Convergence
 The outer hardpoints on the cutter have very poor convergence. 
-![convergebad.png](/convergebad.png)
+![convergebad.png](/img/convergebad.png)
 
 ## Other Examples
 Corvette vs Anaconda Convergence
-![convergence.jpg](/convergence.jpg)
+![convergence.jpg](/img/convergence.jpg)

@@ -98,5 +98,5 @@ When trading you will always lose some value. You will lose even more if you tra
 
 **Ideally you want to gather materials at the highest grade possible and trade downwards.**
 
-![convert1.png](/convert1.png)
-![convert2.png](/convert2.png)
+![convert1.png](/img/convert1.png)
+![convert2.png](/img/convert2.png)

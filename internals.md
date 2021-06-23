@@ -83,7 +83,7 @@ The Xeno Scanner allows you to identify details of Xeno Vessel that would not be
 
 In a wing, only one person requires a scanner, your ship will share the data with your wing once the scan is complete.
 
-![xenoscan.png](/xenoscan.png)
+![xenoscan.png](/img/xenoscan.png)
 
 ##### Key
 1. Remaining Hearts

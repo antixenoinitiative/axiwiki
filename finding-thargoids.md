@@ -27,6 +27,6 @@ Thargoids can be found in various locations, such as:
 
 ## Activity Map
 
-![thargoidmap.png](/thargoidmap.png)
+![thargoidmap.png](/img/thargoidmap.png)
 
 [Click here for a full sized image](https://cdn.discordapp.com/attachments/625989888432537611/854310144946208808/Thargoid_Activity_Map_v0.5.png)

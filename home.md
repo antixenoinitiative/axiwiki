@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-06-08T12:40:49.911Z
 ---
 
-![home.jpg](/home.jpg)
+![home.jpg](/img/home.jpg)
 
 # Welcome!
 

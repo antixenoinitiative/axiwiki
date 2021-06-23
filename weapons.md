@@ -20,7 +20,7 @@ Some builds will also include Thermal Vent Beam Lasers which allow pilots to eas
 
 For detailed stats on AX weapons, see the [AX Balance Research Spreadsheet](https://docs.google.com/spreadsheets/d/1kNZwBn16nYcrqpaua08VQb_ea3PF9SYcO-1IWivPZsA/edit#gid=1860633931)
 
-![weaponsgraph.png](/weaponsgraph.png)
+![weaponsgraph.png](/img/weaponsgraph.png)
 
 ## Remote Release Flak Launcher
 

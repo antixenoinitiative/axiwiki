@@ -22,10 +22,10 @@ Thargoid Hearts are immune to damage by default. However you can make the hearts
 ## {.tabset}
 
 ### Exerted Cyclops Heart
-![clopsheart.png](/clopsheart.png =400x)
+![clopsheart.png](/img/clopsheart.png =400x)
 
 ### Exerted Hydra Heart
-![hydraheart.png](/hydraheart.png =400x)
+![hydraheart.png](/img/hydraheart.png =400x)
 
 ## Destroying the Heart
 
@@ -39,7 +39,7 @@ The Heart has a very small hit-box and you must be very precise in-order to deal
 
 Thargoid Hearts are located in the petals of the Interceptor. They spawn in a semi-consistent pattern for each variant however they will be exerted in a random pattern for each kill.
 
-You can sub-target the hearts if you use a Xeno-Scanner on the Interceptor and complete a full-scan. This will also allow you to see the status of all hearts in the contacts panel.![heart_location.png](/heart_location.png)
+You can sub-target the hearts if you use a Xeno-Scanner on the Interceptor and complete a full-scan. This will also allow you to see the status of all hearts in the contacts panel.![heart_location.png](/img/heart_location.png)
 
 # Collecting Hearts
 

@@ -21,11 +21,11 @@ You can detect if a Thargoid has an active shield in two different ways, with a 
 
 ## {.tabset}
 ### With a Scanner
-![withscanner.png](/withscanner.png =500x){.align-center}
+![withscanner.png](/img/withscanner.png =500x){.align-center}
 The Shield will appear around the hologram when targeting the Interceptor and in the contacts panel can show you the remaining shield percentage.
 
 ### Without a Scanner
-![withoutscanner.png](/withoutscanner.png =500x){.align-center}
+![withoutscanner.png](/img/withoutscanner.png =500x){.align-center}
 Without a scanner you can identify if the Thargoid has a shield by looking for the blue “shield ping” whenever you deal damage to the Interceptor. If the ping appears, then the Interceptor still has a shield. 
 
 ## Decay
@@ -42,7 +42,7 @@ Dealing damage to Thargoids with a beam will accelerate the shield degeneration.
 ## Breaking Shields
 When an Interceptors shield breaks, you can identify it by a large green particle effect that explodes outwards from the Interceptor. 
 
-![shieldbreak.jpg](/shieldbreak.jpg =500x){.align-center}
+![shieldbreak.jpg](/img/shieldbreak.jpg =500x){.align-center}
 
 ## Panic Shields
 Under several conditions, the Interceptor can deploy shields independently of hearts being destroyed. Since these conditions usually involve massive damage, we refer to these shields as 'panic' shields.

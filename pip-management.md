@@ -21,4 +21,4 @@ When firing gauss, make sure you keep 3-4 pips in WEP to reduce the amount of he
 
 Another example of the benefits: Transferring 4 pips to sys right before impact of the interceptor cannon leads to a 60% increase to shield damage resistance, which translates to an ~2.6x increase in shield strength. Using macros can allow you to quickly switch from 4-0-2 to 0-2-4, to maintain maximum recharge rate on your gauss, keep your engine constantly boosting, and ensure your shields are always at peak resistance. Always avoid running out of systems energy as this will prevent you from firing a heatsink.
 
-![pips.png](/pips.png){.align-center}
+![pips.png](/img/pips.png){.align-center}

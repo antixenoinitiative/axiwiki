@@ -40,42 +40,42 @@ Swarms will user various formations, these can tell us information about it's be
 
 # {.tabset}
 ## Ball Formation
-![embeddedimage_(1).png](/embeddedimage_(1).png)
+![embeddedimage_(1).png](/img/embeddedimage_(1).png)
 Left to Right: Cyclops Ball, Medusa Ball
 
 This is the Cyclops’ only non-missile formation, and it is also used by the other variants (though more rarely as they prefer their more advanced formations). This formation is easiest to destroy, requiring only a very few well placed shots in the center of the ball.
 
 
 ## Ring Formation
-![embeddedimage_(2).png](/embeddedimage_(2).png)
+![embeddedimage_(2).png](/img/embeddedimage_(2).png)
 Left to Right: Medusa Ring, Hydra Ring
 
 The dreaded ring formation is the preferred formation with the Medusae and Hydrae. It is significantly more difficult to destroy, with flak shells detonating in the center doing no damage whatsoever. Widely offset flak (such as on the Cutter’s wings) or manually aiming away from the reticle are necessary to deal with this form.
 
 
 ## Cone/Spiral Formation
-![embeddedimage_(3).png](/embeddedimage_(3).png)
+![embeddedimage_(3).png](/img/embeddedimage_(3).png)
 Left to Right: Basilisk Cone, Medusa Cone
 
 The Cone or Spiral formation is first used by the Basilisk and it is not uncommon with stronger variants. Much like the Ball formation, this one is easy to destroy, with only several shots at the tip of the spiral needed.
 
 
 ## Death Wall Formation
-![embeddedimage_(4).png](/embeddedimage_(4).png)
+![embeddedimage_(4).png](/img/embeddedimage_(4).png)
 Left to Right: Cyclops Death Wall, Medusa Death Wall
 
 The Death Wall (Flat Spiral) is the Cyclops’ only missile formation, and it is also used by the other variants (though more rarely as they prefer their more advanced formations)
 
 
 ## Death Spiral Formation
-![embeddedimage_(5).png](/embeddedimage_(5).png)
+![embeddedimage_(5).png](/img/embeddedimage_(5).png)
 Left to Right: Basilisk Death Spiral, Hydra Death Spiral
 
 The Death Spiral is a missile formation first used by the Basilisk, and it is not uncommon with stronger variants. Unlike the regular Cone/Spiral, this formation has a gap at the center so is more difficult to destroy. Flak shells detonating at the center will cause less damage (but still kill at least a few Thargons)
 
 
 ## Ring of Death Formation
-![embeddedimage_(6).png](/embeddedimage_(6).png)
+![embeddedimage_(6).png](/img/embeddedimage_(6).png)
 Left to Right: Medusa Ring Of Death, Hydra Ring Of Death
 
 The Ring of Death is used commonly by the Medusa and Hydra, and attempting to destroy this ring is not recommended. It would cost too much time and ammunition - instead the missiles should be baited and the swarm destroyed in a simpler formation.

@@ -31,7 +31,7 @@ Also:
 - SLF will not aggro the interceptor
 - The swarm will destroy a SLF in 4-5 hits, due to phasing damage.
 
-![slf.gif](/slf.gif){.align-center}
+![slf.gif](/img/slf.gif){.align-center}
 
 ## Flechette VS Flak
 Remote Release Flak Launcher and Remote Release Flechette Launcher are easily mixed up…
