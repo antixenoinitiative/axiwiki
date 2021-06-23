@@ -1,11 +1,11 @@
 ---
 title: Finding Thargoids
-description: How to find Thargoids in Elite: Dangerous
+description: 
 published: true
-date: 2021-06-15T11:22:39.700Z
-tags: thargoids, interceptors, scouts
+date: 2021-06-23T13:47:05.208Z
+tags: 
 editor: markdown
-dateCreated: 2021-06-15T10:50:27.574Z
+dateCreated: 2021-06-23T13:43:01.322Z
 ---
 
 # Finding Thargoids
