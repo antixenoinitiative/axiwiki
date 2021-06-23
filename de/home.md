@@ -12,7 +12,7 @@ dateCreated: 2021-06-08T12:40:49.911Z
 
 # Willkommen!
 
-Willkommen im Wiki der Anti-Xeno Initiative, die Hauptquelle für Informationen gesammelt von der Anti-Xeno Initiative. Hier findest du Einführungen, Anleitungen und alle möglichen Daten rund um den Kampf gegen Thargoiden in Elite Dangerous.
+Willkommen im Wiki der Anti-Xeno Initiative, der Hauptquelle für Informationen gesammelt von der Anti-Xeno Initiative. Hier findest du Einführungen, Anleitungen und alle möglichen Daten rund um den Kampf gegen Thargoiden in Elite Dangerous.
 
 
 # Erkunden
@@ -25,7 +25,7 @@ Oder benutze die Navigationleiste ouf der **linken Seite** um das Wiki zu durchs
 
 ![](/img/2021-06-21_15_17_34-home___anti-xeno_initiative_wiki_-_beta.png)
 
-Das **Wiki der Anti-Xeno Initiative** hat viele Tehmen. Falls du etwas nicht findest, lass uns im Channel **\#website-discussion** im [AXI Discord](https://discord.gg/antixenoinitiative) wissen.
+Das **Wiki der Anti-Xeno Initiative** hat viele Tehmen. Falls du etwas nicht findest, lass uns im Channel **\#website-discussion** im [AXI Discord](https://discord.gg/bqmDxdm) wissen.
 
 # Beitragen
 
