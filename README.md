@@ -53,7 +53,7 @@ dateCreated: 2021-06-17T03:18:38.671Z
 -->
 ```
 
-### GitHub Sync
+### GitHub Sync to Wiki
 
 The GitHub repository will syncronize all changes (bi-directionally) with the AXI Wiki every 5 minutes. If a urgent change is needed contact Mgram#6610 on the AXI Discord.
 
