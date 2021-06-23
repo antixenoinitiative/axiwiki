@@ -24,7 +24,7 @@ Thargoids will proceed to collect various bits of cargo if they are not actively
 *If a Thargoid is encountered at the same time as scouts, it will become immediately hostile towards any player present.*
 
 ## Mechanics
-Thargoid Interceptors are very complicated to fight, unlike most NPC’s in Elite: Dangerous. You simply cannot go into a Thargoid fight guns-blazing as there are specific actions you must perform in order to actually reduce the Thargoids health and eventually kill it.
+Thargoid Interceptors are very complicated to fight, unlike most NPC’s in Elite Dangerous. You simply cannot go into a Thargoid fight guns-blazing as there are specific actions you must perform in order to actually reduce the Thargoids health and eventually kill it.
 
 Thargoid fights follow a very specific pattern and every action is almost 100% predictable. All Thargoid Interceptors share the same base mechanics that are the same on all variants, the only variation is how often they occur or the damage and effect.
 

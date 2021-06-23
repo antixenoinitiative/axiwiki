@@ -16,7 +16,7 @@ dateCreated: 2021-06-15T10:10:09.264Z
 
 *Humanity clashed with the Thargoids in the 32nd century, but details of the conflict remained scarce for many years, and it proved difficult to differentiate authentic accounts of Thargoid encounters from the sensationalist media stories of the time.*
 
-*Entry from Elite: Dangerous Codex*
+*Entry from Elite Dangerous Codex*
 
 [**Learn more about the Thargoids on the official Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
 
