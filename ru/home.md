@@ -17,11 +17,11 @@ Welcome to the Anti-Xeno Initiative Wiki. This is the primary repository of info
 
 # Explore
 
-Use the **search bar** at the top of this page to get started
+Use the **Search bar** at the **top** of this page to get started
 
 ![](/img/2021-06-21_15_15_32-home___anti-xeno_initiative_wiki_-_beta.png)
 
-Or use the Navigation bar on the **left-hand** side to browse through the wiki.
+Or use the **Navigation bar** on the **left-hand** side to browse through the wiki.
 
 ![](/img/2021-06-21_15_17_34-home___anti-xeno_initiative_wiki_-_beta.png)
 
