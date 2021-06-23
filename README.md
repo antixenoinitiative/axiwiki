@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-06-23T11:45:35.407Z
 ---
 
-# Welcome to the Anti-Xeno Initiative Wiki
+# Welcome to the Anti-Xeno Initiative Wiki Repository
 This is the Official Wiki Repository for the AXI wiki. This page will act as a home for all development and changes done to the Wiki.
 
 Wiki: https://wiki.antixenoinitiative.com/
