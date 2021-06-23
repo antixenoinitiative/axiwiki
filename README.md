@@ -27,7 +27,8 @@ Documents created within this repository are directly connected to pages in the 
 Each page requires METADATA at the start of the file.
 
 Markdown METADATA Example
-```---
+```md
+---
 title: README
 description: 
 published: true
@@ -39,7 +40,8 @@ dateCreated: 2021-06-23T11:45:35.407Z
 ```
 
 HTML METADATA Example
-```<!--
+```html
+<!--
 title: Basic Combat Guide
 description: The fundamental concepts of AX combat and how to fight an Interceptor.
 published: true
