@@ -19,8 +19,8 @@ Join us in the discussion in the [Anti-Xeno Initiative Discord](https://discord.
 
 Documents created within this repository are directly connected to pages in the AXI wiki. Pages can be created in the following formats:
 
-Markdown: Using Markdown formatting
-HTML: Using Basic HTML Formatting
+- Markdown: Using Markdown formatting
+- HTML: Using Basic HTML Formatting
 
 *NOTE: Look at the existing pages to make sure you inclulde the page METADATA in each page
 
