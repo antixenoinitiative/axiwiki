@@ -29,4 +29,4 @@ Das **Wiki der Anti-Xeno Initiative** hat viele Tehmen. Falls du etwas nicht fin
 
 # Beitragen
 
-Du möchtest Teil des Projekts **Wiki der Anti-Xeno Initiative** werden? Werde Mitglied im [AXI Discord](https://discord.gg/antixenoinitiative) und frage nach, wie du zum Editor werden kannst!
+Du möchtest Teil des Projekts **Wiki der Anti-Xeno Initiative** werden? Werde Mitglied im [AXI Discord](https://discord.gg/bqmDxdm) und frage nach, wie du zum Editor werden kannst!
