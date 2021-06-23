@@ -22,7 +22,33 @@ Documents created within this repository are directly connected to pages in the 
 - Markdown: Using Markdown formatting
 - HTML: Using Basic HTML Formatting
 
-*NOTE: Look at the existing pages to make sure you inclulde the page METADATA in each page
+### Page METADATA
+
+Each page requires METADATA at the start of the file.
+
+Markdown METADATA Example
+```---
+title: README
+description: 
+published: true
+date: 2021-06-23T11:45:38.074Z
+tags: 
+editor: markdown
+dateCreated: 2021-06-23T11:45:35.407Z
+---
+```
+
+HTML METADATA Example
+```<!--
+title: Basic Combat Guide
+description: The fundamental concepts of AX combat and how to fight an Interceptor.
+published: true
+date: 2021-06-17T04:27:27.194Z
+tags: combat, thargoids, interceptors
+editor: code
+dateCreated: 2021-06-17T03:18:38.671Z
+-->
+```
 
 ### GitHub Sync
 
