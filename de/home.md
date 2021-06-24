@@ -12,7 +12,7 @@ dateCreated: 2021-06-08T12:40:49.911Z
 
 # Willkommen!
 
-Willkommen im Wiki der Anti-Xeno Initiative, Deiner Quelle für Alles rum um Anti-Xeno! This is the primary repository of information gathered by the Anti-Xeno Initiative, here you will find tutorials, guides and all kinds of data regarding Thargoid Combat in Elite Dangerous.
+Willkommen im Wiki der Anti-Xeno Initiative, Deiner Quelle für Alles rum um Anti-Xeno! Dies ist das primäre Informationsarchiv der Anti-Xeno-Initiative, Hier finden Sie Tutorials, Führer und alle Arten von Daten zum Thargoid Combat in Elite Dangerous.
 
 
 # Erkunden

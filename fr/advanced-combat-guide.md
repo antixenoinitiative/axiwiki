@@ -9,7 +9,7 @@ dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
 # Guide de combat thargoïde avancé
-The purpose of this doctrine is to introduce new or veteran commanders to a specific fighting style and ship build that works against all four Thargoid Interceptor variants. The entry cost of this doctrine is designed to be as minimal as possible to allow any commander the ability to engage in Thargoid Interceptor combat against any of the variants. The tactics and maneuvers involved also carry over through all four Interceptor variants with only one additional maneuver needed for Basilisks due to their speed.
+Le but de cette doctrine est d'introduire des commandants nouveaux ou vétérans dans un style de combat spécifique et de construction de vaisseau qui fonctionne contre les quatre variantes Thargoïd Interceptor. The entry cost of this doctrine is designed to be as minimal as possible to allow any commander the ability to engage in Thargoid Interceptor combat against any of the variants. The tactics and maneuvers involved also carry over through all four Interceptor variants with only one additional maneuver needed for Basilisks due to their speed.
 
 For this doctrine to be effective a commander must have a basic understanding of flying with flight assist off. This doctrine is not designed for flight assist on combat, since it would interfere with many maneuvers within this doctrine.
 
