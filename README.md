@@ -9,12 +9,14 @@ dateCreated: 2021-06-23T11:45:35.407Z
 ---
 
 ![](img/home.jpg)
-# Welcome to the Anti-Xeno Initiative Wiki Repository
+# Welcome to the AXI Wiki Repository
 This is the Official Wiki Repository for the AXI wiki. This page will act as a home for all development and changes done to the Wiki.
 
 Wiki: https://wiki.antixenoinitiative.com/
 
 Join us in the discussion in the [Anti-Xeno Initiative Discord](https://discord.gg/bqmDxdm)
+
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bqmDxdm)
 
 ## How this repository works
 
