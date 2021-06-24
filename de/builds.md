@@ -12,8 +12,9 @@ dateCreated: 2021-06-08T12:52:54.657Z
 # Recommended Builds
 Thargoid Hunting requires specialised ship builds as Thargoids have special resistances and deal special damage types that will typically cause issues on any standard combat build. As such, we have put together the following guide to help you make the correct decisions to lead you towards building the most effective vessel for hunting down alien ships. These ship builds are designed to give you a balance of firepower and survivability, while also being forgiving enough to make a few mistakes.
 
-> Please see our [Ship Build Theory](/en/shipbuildtheory) page for a more in-depth explanation behind the outfitting decisions.
-{.is-info}
+> Please see our [Ship Build Theory](/en/shipbuildtheory) page for a more in-depth explanation behind the outfitting decisions. 
+> 
+> {.is-info}
 
 ## Ship Build Types
 
@@ -26,11 +27,11 @@ Thargoid Interceptors are very tough and powerful enemies that will require equa
 These are the most common types of builds used for Anti-Xeno Combat.
 
 -   **Fast Shielded Builds** (Bi-Weave Hybrids) - Ships with good speed and small shields that regenerate quickly (Beginner)
-    
+
 -   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage (Moderate)
-    
+
 -   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically (Moderate/Advanced)
-    
+
 
 ## Beginner Builds
 
@@ -46,10 +47,10 @@ The most commonly recommended and best all-round AX ship for anyone interested i
 
 Type: **Bi-Weave Hybrid**
 
-- Speed: ⭐⭐⭐⭐⭐  
-- Agility: ⭐⭐⭐  
-- Shield: ⭐⭐⭐⭐  
-- Armour: ⭐⭐⭐  
+- Speed: ⭐⭐⭐⭐⭐
+- Agility: ⭐⭐⭐
+- Shield: ⭐⭐⭐⭐
+- Armour: ⭐⭐⭐
 - Firepower: ⭐⭐⭐⭐
 
 Recommendation: Best starting ship for new pilots in AX.
@@ -72,7 +73,7 @@ Type: **Bi-Weave Hybrid**
 - Speed: ⭐⭐⭐⭐⭐
 - Agility: ⭐⭐⭐⭐⭐
 - Shield: ⭐⭐
-- Armour:	⭐⭐⭐⭐
+- Armour:   ⭐⭐⭐⭐
 - Firepower: ⭐⭐⭐
 
 Recommendation: Good upgrade path for confident pilots. More potential in the long run.
@@ -117,11 +118,7 @@ The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-d
 
 Type: **Cold**
 
-Speed: ⭐⭐⭐⭐⭐
-Agility: ⭐⭐⭐⭐⭐
-Shield:
-Armour: ⭐⭐⭐⭐
-Firepower: ⭐⭐⭐
+Speed: ⭐⭐⭐⭐⭐ Agility: ⭐⭐⭐⭐⭐ Shield: Armour: ⭐⭐⭐⭐ Firepower: ⭐⭐⭐
 
 Recommendation: Unarguably the best ship and build style for AX combat.
 
@@ -138,11 +135,8 @@ A shieldless version of the beginner Krait MK.II. The shieldless Krait, while no
 
 Type: **Cold Orbiter**
 
-Speed: ⭐⭐⭐⭐⭐
-Agility: ⭐⭐⭐
-Shield:		
-Armour: ⭐⭐⭐⭐
-Firepower: ⭐⭐⭐⭐⭐
+Speed: ⭐⭐⭐⭐⭐ Agility: ⭐⭐⭐ Shield:     
+Armour: ⭐⭐⭐⭐ Firepower: ⭐⭐⭐⭐⭐
 
 Recommendation: A great upgrade from the shielded build
 
