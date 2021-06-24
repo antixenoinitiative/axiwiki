@@ -1,22 +1,20 @@
 ---
 title: README
-description: ''
+description:
 published: false
-date: '2021-06-23 11:45:38 +0000'
-tags: ''
+date: 2021-06-23 11:45:38 +0000
+tags:
 editor: markdown
-dateCreated: '2021-06-23 11:45:35 +0000'
+dateCreated: 2021-06-23 11:45:35 +0000
 ---
 
 ![](img/home.jpg)
-
 # Bienvenue dans le référentiel Wiki de l'Initiative Anti-Xeno
-
 Il s'agit du référentiel Wiki officiel du wiki AXI. Cette page servira de foyer pour tous les développements et modifications apportés au Wiki.
 
 Wiki : https://wiki.antixenoinitiative.com/
 
-Rejoignez-nous dans la discussion sur le [Discord Anti-Xeno Initiative](https://discord.gg/bqmDxdm)
+Rejoignez-nous dans la discussion sur le [Discord Anti-Xeno Initiative](https://discord.gg/bqmDxdm) [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bqmDxdm)
 
 ## Comment fonctionne ce référentiel
 
@@ -30,7 +28,6 @@ Les documents créés dans ce référentiel sont directement connectés aux page
 Chaque page requiert METADATA au début du fichier.
 
 Exemple de MÉTADONNÉES Markdown
-
 ```
 ---
 title: README
@@ -44,7 +41,6 @@ dateCreated: 2021-06-23T11:45:35.407Z
 ```
 
 Exemple de métadonnées HTML
-
 ```
 <!--
 title: Basic Combat Guide
