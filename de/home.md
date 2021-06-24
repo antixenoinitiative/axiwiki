@@ -29,3 +29,28 @@ Das **Wiki der Anti-Xeno Initiative** hat viele Tehmen. Falls du etwas nicht fin
 
 # Beitragen
 Du möchtest Teil des Projekts **Wiki der Anti-Xeno Initiative** werden? Werde Mitglied im [AXI Discord](https://discord.gg/bqmDxdm) und frage nach, wie du zum Editor werden kannst!
+
+# Credits
+
+A big thanks to our content and development team! ❤️
+
+**Content Creators**
+- CMDR Aranionros Stormrage
+- CMDR Mechan
+- CMDR Aterius
+- CMDR EuanAB
+- CMDR Avasa Siuu
+- CMDR Maligno
+
+**Translators**
+- CMDR alterNERDtive
+- CMDR Trex63
+- CMDR Xarionn
+- CMDR St4n2012
+- CMDR Trebiscotti
+
+**Developers**
+- CMDR Willhof
+- CMDR Sanctified
+
+And to everyone else in the Anti-Xeno Initiative who has helped make this project possible!
