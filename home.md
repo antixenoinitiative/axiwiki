@@ -44,7 +44,7 @@ A big thanks to our content and development team! ❤️
 - CMDR Maligno
 
 **Translators**
-- CMDR AlterNERDtive
+- CMDR alterNERDtive
 - CMDR Trex63
 - CMDR Xarionn
 - CMDR St4n2012
