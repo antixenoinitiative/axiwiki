@@ -29,3 +29,28 @@ The **Anti-Xeno Initiative Wiki** has many topics, if you can't find sometihing,
 
 # Contribute
 !\[https://github.com/antixenoinitiative/axiwiki\](/img/github.png =250x) Want to take part in the **Anti-Xeno Initiative Wiki** project? Head to our [GitHub Repository](https://github.com/antixenoinitiative/axiwiki) or join us in the [AXI discord](https://discord.gg/bqmDxdm).
+
+# Credits
+
+A big thanks to our content and development team! ❤️
+
+**Content Creators**
+- CMDR Aranionros Stormrage
+- CMDR Mechan
+- CMDR Aterius
+- CMDR EuanAB
+- CMDR Avasa Siuu
+- CMDR Maligno
+
+**Translators**
+- CMDR alterNERDtive
+- CMDR Trex63
+- CMDR Xarionn
+- CMDR St4n2012
+- CMDR Trebiscotti
+
+**Developers**
+- CMDR Willhof
+- CMDR Sanctified
+
+And to everyone else in the Anti-Xeno Initiative who has helped make this project possible!
