@@ -1,6 +1,6 @@
 ---
-title: Finding Thargoids
-description: How to find Thargoids in Elite Dangerous
+title: Thargoids finden
+description: Wie man Thargoids in Elite Dangerous findet
 published: true
 date: 2021-06-15T11:22:39.700Z
 tags: thargoids, interceptors, scouts
@@ -9,7 +9,7 @@ dateCreated: 2021-06-15T10:50:27.574Z
 ---
 
 # Thargoids finden
-Thargoids are an elusive bunch but there are certain tricks and hotspots that can help you find what you are looking for. The most consistent means is to find Thargoids in **Non-Human Signal Sources (NHSS)** in either the Pleiades Region, Coalsack Nedula or the Witch Head Nebula. However, you can also find Thargoids at a few static locations across human space.
+Thargoiden sind ein schwer fassbarer Haufen, aber es gibt bestimmte Tricks und Hotspots, durch die man sie finden kann. Das konsequenteste Mittel ist das Auffinden von Thargoiden in <strong x-id=“1“> nicht-menschlichen Signalquellen ( auf englisch: Non-Human Signal Sources also: NHSS)</strong> entweder in der Pleiades-Region, im Coalsack-Nebula oder im Witch Head Nebula. Thargoids können auch in ein paar statischen orten im menschlichen Raum gefunden werden.
 
 > ## Current Active Regions
 > 
