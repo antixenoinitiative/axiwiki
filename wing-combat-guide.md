@@ -2,7 +2,7 @@
 title: Wing Combat Guide
 description: How to fight thargoids in a wing of multiple pilots.
 published: true
-date: 2021-06-24T23:50:08.804Z
+date: 2021-06-24T23:51:14.907Z
 tags: combat, thargoids, interceptors, wing
 editor: markdown
 dateCreated: 2021-06-17T05:36:40.698Z
@@ -22,7 +22,7 @@ Wing fights are any fight in which more than one Player CMDR is present. This in
 -   Coordination & communication
 -   Bug management
 
-## **Aggro Management**
+## Aggro Management
 
 In solo fights, the ship always has the aggro of the Interceptor, whereas in wing fights the Interceptor always focuses on one ship at a time. This is important to note for 2 main reasons:
 
@@ -35,7 +35,7 @@ If you need to go repair/rearm at a station or megaship during an Interceptor fi
 
 If the Invincible Heart Bug is present and you notice you’re not dealing any damage to the Heart, stop firing at the Interceptor. If you have aggro try to position yourself in such a way that the Interceptor is facing your wingmates so they can get a clear shot.
 
-## **Swarm Management**
+## Swarm Management
 
 The swarm also focuses on one ship or fighter at a time by following them. However, the swarm will still fire on all ships and fighters currently in range. In wing fights, it is usually considered the responsibility of the ship which has the aggro of the swarm to take it out and **only** that ship should engage it while the rest deal with the Interceptor. If the ship that currently has aggro of the swarm is not equipped with Flak, it’s a good idea for one of the wingmates to try and pull its aggro with a beam. If the swarm breaks off its target the person who lost aggro should call it out (especially if it’s a large swarm or in a missile formation)
 
@@ -45,7 +45,7 @@ You can sometimes pull aggro of the swarm by firing on it with a laser or moving
 
 In wing fights, the shield of the Interceptor can be taken down significantly faster by multiple ships firing their Thermal Vent Beam lasers (TV beams) on the Interceptor while shields are present. Ramming is also viable, but great care should be taken since there are circumstances where ramming the Interceptor can trigger the "heart cycle reset" bug. This is closely related to the current aggro target.
 
-## **Distance Management**
+## Distance Management
 
 In solo fights, the ship can kite the Interceptor for long distances without much concern. In wing fights, however, one should always consider the wingmates when flying at high speed in one direction when holding the aggro of the Interceptor. Slower ships may have trouble catching up.
 
@@ -53,11 +53,11 @@ When the shield is down and when performing the attack run, it is possible to ca
 
 When exerting the hearts, all pilots should open fire on the Interceptor in a coordinated manner and avoid increasing the Interceptor's distance from other firing ships unnecessarily. Similarly, pilots should avoid pulling the Interceptor away from others when the heart is exerted unless they are absolutely confident that they can destroy it while it is still in exerted state.
 
-## **Interceptor Scan**
+## Interceptor Scan
 
 The Thargoid Interceptor scan is shared across all CMDRs in the wing, so in wing fights it is enough for only one CMDR to have a Xeno scanner and scan the Interceptor, unless seeing the number of remaining Thargons in the swarm is desired. The scan can also be distributed to other wings by having a CMDR with scan data join a wing which did not have the scan beforehand.
 
-## **Post Heart Destruction Phase**
+## Post Heart Destruction Phase
 
 After the Interceptor loses a heart, it will deploy a shield and enter the caustic missile phase. Caustic missiles will only be launched if the Interceptor’s **current target** is detected. This means that as long as the person who has aggro remains cold, or outside of 3km, there won’t be any caustic missiles or EMP.
 
@@ -83,7 +83,7 @@ During this phase there is an opportunity for ships to recover their shields, ei
 
 Shield "healing" lasers or the Regeneration sequence & Concordant sequence experimental effects can be useful in wing fights. It's possible to significantly regenerate a wingmate's shields with them. This is especially true for ships with Prismatic shields, which rarely get more than 50% shield strength in solo fights after the shield has dropped below that limit.
 
-## **Coordination & Communication**
+## Coordination & Communication
 
 Communication is key in wing fights. Optimally, all pilots involved in the fight should be on voice comms or at the very least, have a common text channel in-game which they are actively monitoring. Listening on the voice comms with the mic muted is a valid option even if you cannot speak and must type instead.
 
@@ -100,11 +100,11 @@ When the final heart has been destroyed, even a Hydra can be relatively easily d
 
 Please consider your wingmates when performing the final attack run and make sure all pilots have landed shots on the Interceptor before its hull reaches 0%, in order to ensure everyone gets the reward for the joint effort to kill it. This is again one point where communication is key.
 
-## **Bug Management**
+## Bug Management
 
 Every pilot engaged in a wing fight should try and limit the occurrence of AX related bugs manifesting during the fight. Recommended actions:
 
 -   Drop in on the signal source simultaneously (use the nav lock function)
 -   Avoid ramming unless you know what you are doing
--   Enable manual port forwarding instead of UPnP if possible ([Port Forwarding Mega Guide](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FEliteDangerous%2Fcomments%2Fda2qh3%2Felitedangerous_port_forwarding_mega_guide%2F&sa=D&sntz=1&usg=AFQjCNELWTCKUxljYlfh0924YEwqiy87Xw))
+-   Enable manual port forwarding instead of UPnP if possible ([Port Forwarding Mega Guide](https://www.reddit.com/r/EliteDangerous/comments/da2qh3/elitedangerous_port_forwarding_mega_guide/))
 -   Communication
