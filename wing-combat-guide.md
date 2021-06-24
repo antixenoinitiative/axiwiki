@@ -2,7 +2,7 @@
 title: Wing Combat Guide
 description: How to fight thargoids in a wing of multiple pilots.
 published: true
-date: 2021-06-24T23:51:14.907Z
+date: 2021-06-24T23:51:31.755Z
 tags: combat, thargoids, interceptors, wing
 editor: markdown
 dateCreated: 2021-06-17T05:36:40.698Z
@@ -41,7 +41,7 @@ The swarm also focuses on one ship or fighter at a time by following them. Howev
 
 You can sometimes pull aggro of the swarm by firing on it with a laser or moving very close to it, but this does not happen immediately and is not guaranteed to work, but it can sometimes be useful to take aggro off a wingmate who is in danger or is unable to destroy the swarm.
 
-## **Handling Shield Decay**
+## Handling Shield Decay
 
 In wing fights, the shield of the Interceptor can be taken down significantly faster by multiple ships firing their Thermal Vent Beam lasers (TV beams) on the Interceptor while shields are present. Ramming is also viable, but great care should be taken since there are circumstances where ramming the Interceptor can trigger the "heart cycle reset" bug. This is closely related to the current aggro target.
 
