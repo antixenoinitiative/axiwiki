@@ -48,6 +48,7 @@ A big thanks to our content and development team! ❤️
 - CMDR Trex63
 - CMDR Xarionn
 - CMDR St4n2012
+- CMDR Trebiscotti
 
 **Developers**
 - CMDR Willhof
