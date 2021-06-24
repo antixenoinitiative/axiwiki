@@ -9,11 +9,11 @@ dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
 # Advanced Thargoid Combat Guide
-The purpose of this doctrine is to introduce new or veteran commanders to a specific fighting style and ship build that works against all four Thargoid Interceptor variants. The entry cost of this doctrine is designed to be as minimal as possible to allow any commander the ability to engage in Thargoid Interceptor combat against any of the variants. The tactics and maneuvers involved also carry over through all four Interceptor variants with only one additional maneuver needed for Basilisks due to their speed.
+Lo scopo di questa dottrina è quello di introdurre comandanti nuovi o veterani a un modo particolare di combattere e costruire navi contro tutte e 4 le varianti di thargoid. Il costo iniziale di questa dottrina e' pensato per essere il piu' basso possible per consentire a chiunque di poter combattere qualsiasi variante di thargoid. Le diverse tattiche e manovre si applicano a tutte e 4 le varianti, con una sola manovra in piu' che serve per i basilisk.
 
-For this doctrine to be effective a commander must have a basic understanding of flying with flight assist off. This doctrine is not designed for flight assist on combat, since it would interfere with many maneuvers within this doctrine.
+Affinché questa dottrina sia efficace, un comandante deve avere una comprensione di base di come volare senza flight assist. Questa dottrina non e' stata studiata per essere usata con faon, visto che questo andrebbe a interferire con molte manovre che vi serviranno.
 
-This doctrine is centered around a combat loop - essentially you are repeating the same tactics for all hearts (Save for the initial engagement) allowing any commander to refine their abilities in the specific motions of this doctrine.
+Questa dottrina è basata su un loop continuo - essenzialmente si sta ripetendo la stessa tattica per tutti i cuori (aparte per l'inizio) permettendo a qualsiasi comandante di affinare le loro capacità nei movimenti specifici.
 
 This doctrine also allows for minimal focus on pip management due to the fact that it concerns flying without a shield, allowing you to set your power priorities and focus elsewhere.
 
