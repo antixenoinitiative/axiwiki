@@ -59,4 +59,4 @@ The GitHub repository will syncronize all changes (bi-directionally) with the AX
 
 ## Translation
 
-All Pages are based on the MASTER Pages in the root directory, these pages are all written in English. For Translations the MASTER pages are copied to the respective language folders (de/ru/etc), the pages are then translated by means of GitHub commits from our translators.
+Translation is managed through GitLocalize, translate pages and submit pull requests via https://gitlocalize.com/repo/6221
