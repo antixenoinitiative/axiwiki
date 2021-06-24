@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
 ---
 
-# Finding Thargoids
+# Thargoids finden
 Thargoids are an elusive bunch but there are certain tricks and hotspots that can help you find what you are looking for. The most consistent means is to find Thargoids in **Non-Human Signal Sources (NHSS)** in either the Pleiades Region, Coalsack Nedula or the Witch Head Nebula. However, you can also find Thargoids at a few static locations across human space.
 
 > ## Current Active Regions
