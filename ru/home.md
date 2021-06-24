@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Главная
 description: Welcome to the Anti-Xeno Initiative Wiki. Your complete repository for Anti-Xeno Combat.
 published: true
 date: 2021-06-23T13:00:50.155Z
