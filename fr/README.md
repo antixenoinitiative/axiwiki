@@ -59,4 +59,4 @@ Le référentiel GitHub synchronisera toutes les modifications (bidirectionnelle
 
 ## Traduction
 
-La traduction est gérée via GitLocalize, traduisez les pages et soumettez des demandes d'extraction via https://gitlocalize.com/repo/6221
+Translation is managed through Crowdin, translate pages here: https://crowdin.com/project/axiwiki
