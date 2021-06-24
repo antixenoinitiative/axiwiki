@@ -33,7 +33,7 @@ Thargoid fights follow a very specific pattern and every action is almost 100% p
 {.is-info}
 
 ## **Cyclops**
-![cyclops-small.png](/img/cyclops-small.png =250x){.align-right} Weakest Variant of the Thargoid Interceptors, the cyclops variant is still a formidable foe. Presenting in a grey/cyan coloring, the cyclops interceptor has the most basic interceptor appearance and is also the most commonly found Interceptor. First actively encountered in 3303, Cyclops variants could be found crashed into various planets and would sometimes actively hyperdict pilots out of hyperspace.
+![cyclops-small.png](/img/Cyclops-small.png =250x){.align-right} Weakest Variant of the Thargoid Interceptors, the cyclops variant is still a formidable foe. Presenting in a grey/cyan coloring, the cyclops interceptor has the most basic interceptor appearance and is also the most commonly found Interceptor. First actively encountered in 3303, Cyclops variants could be found crashed into various planets and would sometimes actively hyperdict pilots out of hyperspace.
 
 Cyclops variant interceptors are quick to kill and pose relatively little threat to a more experienced AX pilot, however they can still pack a punch albeit lesser than the other variants. The Cyclops variant is often considered the baseline Thargoid Variant of which other are often compared to.
 
