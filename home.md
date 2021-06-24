@@ -41,6 +41,7 @@ A big thanks to our content and development team! ❤️
 - CMDR Aterius
 - CMDR EuanAB
 - CMDR Avasa Siuu
+- CMDR Maligno
 
 **Translators**
 - CMDR AlterNERDtive
