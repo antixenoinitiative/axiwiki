@@ -59,4 +59,4 @@ The GitHub repository will syncronize all changes (bi-directionally) with the AX
 
 ## Translation
 
-Translation is managed through GitLocalize, translate pages and submit pull requests via https://gitlocalize.com/repo/6221
+Translation is managed through Crowdin, translate pages here: https://crowdin.com/project/axiwiki
