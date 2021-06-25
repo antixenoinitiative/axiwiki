@@ -16,37 +16,37 @@ Bei planetarischen Gefechten wird ein Interceptor keinen Schwarm einsetzen.
 
 **Der Thargon Schwarm verfügt über zwei Methoden, um Schaden zu Verursachen:**
 
-- **ätzende Geschosse** die Schutzschilde schwer beschädigen, sie durchdringen und Schaden am Rumpf verursachen. Gegen Schutzschildlose Ziele sind diese Geschosse sehr ungenau und der Schwarm wird die meisten seiner Schüsse verfehlen. Die Wärmesignatur scheint ihre Genauigkeit nicht zu beeinflussen, aber deinen Flugvektor rapide zu verändern oder das Schiff zu rollen kann behilflich sein. Dieser ätzende Geschoss Angriff hat eine maximale Reichweite von etwa 2km. Despite the name, these do not apply caustic stacks but rather deal caustic damage, which is effected by modules such as the Guardian Hull Reinforcement Package.
-- **Kamikaze missiles** that kill the Thargon, but inflict massive hull and module damage. The missiles are fast (roughly 600m/s) but short-lived. Against an unshielded target, these will do tremendous damage, but a shielded build with 4 pips to SYS should survive a regular missile volley with relative ease. Without shields these can potentially 1-shot modules even through a Guardian Module Reinforcement Package. These missiles appear to do collision damage, as they do not interrupt synthesis or reboots. This attack triggers within 3km range, and only if the swarm is in missile formation.
+- **Kaustische Geschosse** die Schutzschilde schwer beschädigen, sie durchdringen und Schaden am Rumpf verursachen. Gegen Schutzschildlose Ziele sind diese Geschosse sehr ungenau und der Schwarm wird die meisten seiner Schüsse verfehlen. Die Wärmesignatur scheint ihre Genauigkeit nicht zu beeinflussen, aber deinen Flugvektor rapide zu verändern oder das Schiff zu rollen kann behilflich sein. Dieser kaustische Geschoss Angriff hat eine maximale Reichweite von etwa 2km. Ungeachtet des Namens, verursachen diese Geschosse keinen kaustischen Effekt, sondern Direktschaden von kaustischer Art, welcher von Widerständen, die Guardian Module geben können, beeinflusst wird.
+- **Kamikaze Flügkörper** die den Thargon selbst zerstören, aber massiven Rumpf- und Modulschaden verursachen. Die Flugkörper sind schnell (ca. 600m/s) aber kurzlebig. Gegen ein Schutzschildloses Ziel verursachen diese vernichtenden Schaden. Ein Schiff mit Schutzschilden und 4 Punkten in SYS sollte gegen solch eine Salve jedoch solide bestehen. Ohne Schutzschilde besteht die Gefahr, dass solch eine Salve Module, sogar trotz Guardian Modul Widerstände, sofort zerstört. Der durch die Flugkörperist verursachte Schaden ist anscheinden reiner Kollisionsschaden, da weder Synthese noch Neustarts unterbrochen werden. Dieser Angriff wird nur innerhalb von 3km und während Flugkörper-Formation des Schwarms ausgelöst.
 
-If a non-aggressive Interceptor’s personal space is invaded (500m), it will deploy a warning swarm as well as glow red and ‘threaten’ the pilot who got too close. This swarm will not immediately attack, but instead will circle around the Interceptor, ready to engage at a moment’s notice. If the threat backs away, the Interceptor will recall the swarm and continue its previous actions. If it does not, the swarm will detach and the battle begins.
+Falls in den persönlichen Bereich (500m) eines nicht-agressiven Interceptors eingedrungen wird, wird dieser einen Warn-Schwarm freisetzen, rot leuchten und den Piloten bedrohen. Dieser Schwarm wird nicht sofort angreifen, sondern um den Interceptor kreisen, jederzeit bereit zum Angriff. Falls die Bedrohung weicht, ruft der Interceptor den Schwarm zurück und nimmt seine vorherige Beschäftigung wieder auf. Andernfalls löst sich der Schwarm und die Schlacht beginnt.
 
-If a non-aggressive Interceptor is shot or rammed, a hostile swarm will immediately be deployed and the interceptor will attack.
+Falls ein nicht-agressiver Interceptor gerammt oder beschossen wird, wird sofort ein feindlicher Schwarm freigesetzt und der Interceptor wird angreifen.
 
-# Deployment Mechanisms
-The Thargoid Interceptor will always try to deploy a swarm when it enters combat, furthermore it will do the following:
+# Einsatz Mechanismen
+Der Thargoid Interceptor wird am Anfang eines Kampfes immer versuchen einen Schwarm freizusetzen. Außerdem kann er das folgende tun:
 # {.tabset}
-## Banking
-In addition to the first swarm launched at the start of the fight, the Interceptor can deploy another one for every heart it loses (only one may be deployed at a time). If there is an existing swarm and a heart is destroyed, the Interceptor will ‘bank’ one swarm (and only one, it can’t bank multiple) and release it immediately upon the destruction of the existing one.
+## Aufbewahren
+Zusaützlich zum anfänglich freigesetzten Schwarm, kann der Interceptor bei jedem Verlusst eines Herzens einen neuen freisetzen (Es kann nur einen freien Schwarm gleichzeitig geben). Falls bereits ein freier Schwarm existiert wenn ein Herz zerstört wird, kann der Interceptor den nächsten Schwarm aufbewahren (nur einen, nicht mehrere) und wird diesen nach Zerstörung des vorherigen Schwarms direkt freisetzen.
 
-## Refills
-The Interceptor may send out a ‘refill’ call at any time, usually if the swarm is low in number, which will cause the swarm to respond with a screeching sound and return to the Interceptor completely refilling its numbers. This does not count against the banked swarm, and there doesn’t have to be a banked swarm for a refill to happen.
+## Auffüllen
+Der Interceptor kann jederzeit einen Ruf zum Auffüllen machen, normalerweise wenn der Schwarm nur noch gering bestückt ist. Dies führt zu einer kreischenden Antwort des Schwarms und der Rückkehr zum Interceptor, für komplettes Auffüllen seiner Anzahl. Dies zieht in keiner Weise von einem möglich aufbewahrten Schwarm.
 
-## Enrage
-After some time passes without a heart being destroyed, the Interceptor will enter an ‘enraged’ state. The timer for this is 6 minutes for the Cyclops, 7 minutes for the Basilisk and Medusa, and 8 minutes for the Hydra. The timer starts the moment the Interceptor enters combat, and is reset every time a heart is destroyed. Upon triggering the enrage, replacement swarms are immediately released upon one’s destruction and if a Thargon Missile attack is triggered the entire swarm will turn into missiles at the same time. This attack is usually fatal unless avoided.
+## Wütend
+Nach einiger vergangener Zeit ohne Zerstörung eines Herzens, wird der Interceptor in einen wütenden Status wechseln. Die Zeitspanne beträgt 6 Minuten beim Cyclops, 7 Minuten beim Basilisk und der Medusa, und 8 Minuten bei der Hydra. Die Zeitspanne beginnt in dem Moment in dem der Interceptor in den Kampf tritt und setzt sich bei jeder Zerstörung eines Herzens zurück. In wütendem Zustand werden nach Zerstörung sofort neue freigesetzt und falls ein Thargon Geschoss Angriff ausgelöst wird, wird der komplette Schwarm zeitgleich zu Kamikaze Flugkörpern. Dieser Angriff ist normalerweise, falls nicht ausgewichen, fatal.
 
-# Formations
-Swarms will user various formations, these can tell us information about it's behaviour and how it will react.
+# Formationen
+Schwärme nutzen eine Anzahl verschiedener Formationen, diese geben uns Anzeichen über sein Verhalten und seine Reaktionsweisen.
 
 # {.tabset}
-## Ball Formation
-![embeddedimage_(1).png](/img/embeddedimage_(1).png) Left to Right: Cyclops Ball, Medusa Ball
+## Kugel Formation
+![embeddedimage_(1).png](/img/embeddedimage_(1).png) Links nach Rechts: Cyclops Kugel, Medusa Kugel
 
-This is the Cyclops’ only non-missile formation, and it is also used by the other variants (though more rarely as they prefer their more advanced formations). This formation is easiest to destroy, requiring only a very few well placed shots in the center of the ball.
+Dies ist die einzige nicht-Flügkörper formation des Cyclopses, sie wird auch von anderen Verianten genutzt (durch die Auswahl fortgeschrittener Formationen aber nur selten). Die Formation ist die am einfachsten zu zerstörende, nur wenige gut platzierte Schüsse in den Mittelpunkt der Kugel.
 
 
 ## Ring Formation
-![embeddedimage_(2).png](/img/embeddedimage_(2).png) Left to Right: Medusa Ring, Hydra Ring
+![embeddedimage_(2).png](/img/embeddedimage_(2).png) Links nach Rechts: Medusa Ring, Hydra Ring
 
 The dreaded ring formation is the preferred formation with the Medusae and Hydrae. It is significantly more difficult to destroy, with flak shells detonating in the center doing no damage whatsoever. Widely offset flak (such as on the Cutter’s wings) or manually aiming away from the reticle are necessary to deal with this form.
 
