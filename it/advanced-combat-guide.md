@@ -8,12 +8,12 @@ editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
-# Advanced Thargoid Combat Guide
-Lo scopo di questa dottrina è quello di introdurre comandanti nuovi o veterani a un modo particolare di combattere e costruire navi contro tutte e 4 le varianti di thargoid. Il costo iniziale di questa dottrina e' pensato per essere il piu' basso possible per consentire a chiunque di poter combattere qualsiasi variante di thargoid. Le diverse tattiche e manovre si applicano a tutte e 4 le varianti, con una sola manovra in piu' che serve per i basilisk.
+# Guida al combattimento avanzato
+Lo scopo di questo metodo è quello di introdurre comandanti nuovi o veterani a un modo particolare di combattere e costruire navi contro tutte e 4 le varianti di thargoid. Il costo iniziale e' pensato per essere il piu' basso possible per consentire a chiunque di poter combattere qualsiasi variante di thargoid. In più, le diverse tattiche e manovre si applicano a tutte e 4 le varianti, con una sola manovra in piu' che serve per i basilisk.
 
-Affinché questa dottrina sia efficace, un comandante deve avere una comprensione di base di come volare senza flight assist. Questa dottrina non e' stata studiata per essere usata con faon, visto che questo andrebbe a interferire con molte manovre che vi serviranno.
+Affinché questo metodo sia efficace, un comandante deve avere una comprensione di base di come volare senza flight assist. Usare il flight assist andra' a interferire con le manovre che fanno parte di questo metodo, e pertanto e' molto difficile applicarlo con flight assist on.
 
-Questa dottrina è basata su un loop continuo - essenzialmente si sta ripetendo la stessa tattica per tutti i cuori (aparte per l'inizio) permettendo a qualsiasi comandante di affinare le loro capacità nei movimenti specifici.
+Questo metodo è basato su un loop continuo - essenzialmente si sta ripetendo la stessa tattica per tutti i cuori (aparte per l'inizio) permettendo a qualsiasi comandante di affinare le loro capacità nei movimenti specifici.
 
 This doctrine also allows for minimal focus on pip management due to the fact that it concerns flying without a shield, allowing you to set your power priorities and focus elsewhere.
 
