@@ -1,5 +1,5 @@
 ---
-title: Erweiterter Gefechts guide
+title: Fortgeschrittener Gefechtsleitfaden
 description: Basiert auf der Odysseus-Doktrin von CMDR Avasa Siuu
 published: true
 date: 2021-06-17T04:01:30.341Z
@@ -8,17 +8,17 @@ editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
-# Erweiterter Gefechts guide
-Der Zweck dieser Doktrin ist die Einführung neuer oder Veteranenkommandeure in einen bestimmten Kampfstil und Schiffsbau, welcher gegen alle vier Thargoids funktioniert. The entry cost of this doctrine is designed to be as minimal as possible to allow any commander the ability to engage in Thargoid Interceptor combat against any of the variants. The tactics and maneuvers involved also carry over through all four Interceptor variants with only one additional maneuver needed for Basilisks due to their speed.
+# Fortgeschrittener Thargoid Gefechtsleitfaden
+Der Zweck dieses Leitfadens ist die Einführung neuer oder Veteranen-kommandeure in einen bestimmten Kampfstil und Schiffsbau, welcher gegen alle vier Thargoid Interceptor Varianten funktioniert. Die Startkosten dieses Leitfadens sollen so gering wie möglich sein, um jedem Kommandanten die Möglichkeit zu geben, am Thargoid Interceptor Kampf teilzunehmen. Die enthaltenen Taktiken und Manöver umfassen alle vier Interceptor Varianten mit nur einem zusätzlichen Manöver für Basilisken aufgrund ihrer Geschwindigkeit.
 
-For this doctrine to be effective a commander must have a basic understanding of flying with flight assist off. This doctrine is not designed for flight assist on combat, since it would interfere with many maneuvers within this doctrine.
+Zum Nutzen dieses Leitfadens muss der Pilot über grundlegendes Wissen zum Fliegen ohne Flugassistenten (F/A off) verfügen. Dieser Leitfaden ist nicht für den Flug mit Flugassistenten ausgelegt, da dieser mehrere Flugmanöver beinträchtigen würde.
 
-This doctrine is centered around a combat loop - essentially you are repeating the same tactics for all hearts (Save for the initial engagement) allowing any commander to refine their abilities in the specific motions of this doctrine.
+Diese Leitfaden zentriert sich um eine Kampfschleife - im Wesentlichen wiederholst du die gleiche Taktik für alle Herzen (ausgenommen beim Start des Kampfes), die es jedem Kommandanten erlaubt, seine Fähigkeiten in den spezifischen Bewegungen dieses Leitfadens zu verfeinern.
 
-This doctrine also allows for minimal focus on pip management due to the fact that it concerns flying without a shield, allowing you to set your power priorities and focus elsewhere.
+Dieser Leitfaden gibt auch einen kleinen Blick auf das Punkte-Management, da es wichtig für das Fliegen ohne Schutzschild ist, so kann die Energie-Priorität auf das momentane Ziel ausgerichtet werden.
 
-# Ship Loadout
-This doctrine centers itself around the Chieftain as its primary ship. The Challenger may also be used as a substitute with minor changes to its hardpoints. (Challenger build guide under construction) Ships such as the Krait MKII, Krait Phantom or FAS may also be used but due to the cheap entry cost of the Chieftain, its hard point layout and maneuverability, it is the primary focus for this doctrine.
+# Schiffs Ausstattung
+Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der Challenger kann auch als Alternative, mit geringfügigen Änderungen an seiner Bewaffnung, verwendet werden. (Challenger Ausstattung im Bau) Schiffe wie der Krait MKII, Krait Phantom oder FAS können auch verwendet werden, aber wegen der niedrigen Eintrittskosten des Chieftains, seiner Bewaffnungs Auslegung und Manövrierbarkeit, ist er der Hauptfokus für diesen Leitfaden.
 
 ## Intern (Basis)
 - Millitär-Komposit (Heavy Duty/Deep Plate)
@@ -45,16 +45,16 @@ This doctrine centers itself around the Chieftain as its primary ship. The Chall
 - 1D Guardian Gausskanone x2 (In den zwei kleinen slots links und rechts am Schiff)
 - 1G Strahlenlaser (Long Range/Thermal Vent in dem mittleren kleinen slot)
 
-## Utility
+## Werkzeuge
 - 3x OI Kühlkörperwerfer (Ammo Capacity)
 - Xeno Scanner/Kühlkörperwerfer (Kommt auf den Kommandanten an, ob er die Leben des Thargoids und die Größe des Schwarms sehen will.)
 
-If you have no preference for the Xeno Scanner especially for the lower variants having the 4th heat sink slot will ensure you should never need to synthesize heat sinks on the lower Interceptor variants.
+Wenn man nicht zu viel Wert auf den Xeno-Scanner legt, kann man mit einem 4ten Kühlkörperwerfer sicherstellen, dass man bei den niedrigeren Interceptor Varianten nie synthetitisieren muss.
 
-# Engineering
-The purpose of the engineers listed is to minimize the needed engineers for entry level commanders into this doctrine while also allowing the more experienced commanders to utilize further engineers to maximize their ship. The engineers needed for the modifications are as follows:
+# Ingenieure
+Der Zweck der aufgelisteten Ingenieure ist es, die notwendigen Ingenieure für Einsteiger in diesen Leitfaden zu minimieren und gleichzeitig den erfahreneren Kommandanten die Möglichkeit zu geben, weitere Ingenieure zu nutzen, um ihr Schiff zu auszubauen. Die für die Änderungen erforderlichen Ingenieure sind wie folgt:
 
-## Minimum Engineers:
+## Notwendige Ingeniere
 - Der Dweller (Wyrd) - G5 Energieverteiler (Charge Enhanced/Super Conduits)
 - Selene Jean (Kuk) - G5 Rumpfhüllenverstärkung (Heavy Duty/Deep Plate)
 - G5 Panzerung (Heavy Duty/Deep Plate)
@@ -67,11 +67,11 @@ The purpose of the engineers listed is to minimize the needed engineers for entr
 - Felicity Farseer (Deciat) - G5 Frame Shift Antrieb engineering
 - Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensoren engineering
 
-VIDEO: [Guide zum Ingenieure freischalten von CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
+VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
-# Purpose of Ship and Engineering
-- With the fitting and engineers listed this is the baseline of the doctrine needed to fully utilize the fitting of the ship with the engineers available for each module. If utilizing all engineers you are fully maximizing the capabilities of the Chieftain to allow you to engage all Interceptor variants efficiently and effectively.
-- The speed of the Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 500 m/s which is more than needed to engage any Interceptor variant. Basilisks requires an additional maneuver to combat due to its speed. See Basilisk Considerations
+# Zweck des Schiffes und Ingenieurwesens
+- Mit der Montage und den aufgelisteten Ingenieuren ist dies der Grundstein des Leitfadens, der notwendig ist, um die Ausstattung des Schiffes mit den für jedes Modul verfügbaren Ingenieursarbeiten vollständig auszunutzen. Mit dem Einsatz aller Ingenieure maximiert man die Fähigkeiten des Chieftains, damit man alle Interceptor Varianten effizient und effektiv einsetzen kann.
+- Die Geschwindigkeit des Chieftains, mit den empfohlenen Einstellungen, ermöglicht es, eine minimale Schubgeschwindigkeit von 500 m/s zu erreichen, was mehr ist als erforderlich um jede Interceptor Variante zu bekämpfen. Basilisken benötigen aufgrund ihrer Geschwindigkeit ein zusätzliches Manöver. Siehe Basilisk Anpassungen
 
 - The purpose of using a repair limpet controller instead of a shield generator is to allow commanders to repair their ship in case of a mistake. The Thargon swarm also does more phasing damage to ships that are shielded compared to those that are unshielded providing a bit of an advantage against the swarm and for power purposes of the ship. Synthesis of limpets may be needed dependent on damage received especially with the higher variants
 
@@ -87,7 +87,7 @@ VIDEO: [Guide zum Ingenieure freischalten von CMDR Exigeous](https://www.youtube
 
 - Heat sinks may be needed if your heat is above 15% after a heart is destroyed. Sleep mode further explained in section VIII.
 
-# Initial/First Heart Engagement and Subsequent Heart Combat Cycle
+# Beginn und anschließender Herz-Kampf Zyklus
 - Upon engaging a Thargoid Interceptor of any variant in a non-human signal source (NHSS) the initial engagement should occur after the Interceptor has finished his scan of you. The purpose of allowing the Interceptor to finish his scan of you will allow you to get a scan of the Interceptor if you have a xeno scanner fitted.
 -
 - Disengage your flight assist and engage with your beam laser. [Pips at: 0-4-2]
@@ -130,13 +130,13 @@ VIDEO: [Guide zum Ingenieure freischalten von CMDR Exigeous](https://www.youtube
 -
 - Another similar tactic to the cold boost would be to engage silent running and perform your boost maneuver 180 degrees past the Basilisk. (The options taken will be dependent upon the commander.) The purpose of this maneuver is to allow the commander to save a heat sink and achieve the same outcome while taking advantage of the shieldless build.
 
-## Basilisk Considerations
+## Basilisk Anpassungen
 The Basilisk variant has a top speed of 530m/s. The doctrine chieftain can not outrun the Basilisk if followed to the fitting. A required maneuver of a cold boost (engaging a heat sink before boosting 180 degrees past the Basilisk) will allow you to gain valuable distance from the Basilisk to allow you to synthesize more heat sinks or ammo or perform any repairs to your ship before committing to your next combat loop. The Basilisk does not do well when it has to adjust its momentum from one direction to the opposite. Do take in mind this will put you in the path of the swarm also triggering its agitated state if you fly through it.
 
-# Swarm Management
+# Schwarm Bewältigung
 The purpose of engaging the swarm first on the initial engagement is to remove the “banked” swarm of the Interceptor from the equation. Whenever an Interceptor is engaged and the heart is destroyed first, the banked swarm will then launch forcing the commander to have to deal with a second swarm. Removing the banked swarm from the equation will allow the commander to efficiently use his time to focus on all subsequent hearts.
 
-# Cold Orbit Purpose
+# Zweck des kalten Orbits
 - The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
 -
 - Cold orbiting is also the basis for more advanced Interceptor combat when wanting to use smaller ships and also for more advanced Thargon swarm management for small ships when flak launchers cannot be fitted. (beyond the scope of this guide)
@@ -145,7 +145,7 @@ The purpose of engaging the swarm first on the initial engagement is to remove t
 
 Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
 
-# Thargoid Sleep Mode
+# Thargoid Schlafmodus
 - The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
 -
 - Cold orbiting is also the basis for more advanced Interceptor combat when wanting to use smaller ships and also for more advanced Thargon swarm management for small ships when flak launchers cannot be fitted. (beyond the scope of this guide)
