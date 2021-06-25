@@ -14,11 +14,11 @@ Es gibt eine Vielzahl verschiedener Anti-Xeno-Waffen im Spiel, und sie sind in z
 - **Menschliche AX Waffen** (AX Merfachgeschütz, AX Raketenrampe, Fortgeschrittene Mehrfachgeschütz, Fortgeschrittene Raketenrampe, Flakwerfer mit Fernzündung)
 - **Guardian Waffen** (Guardian Gausskanone, Guardian Plasmalader, Guardian Splitterkanone)
 
-Guardian weapons are the most effective AX weapons in the game (specifically the Guardian Gauss Cannon) with human AX weapons being mostly unusable (with the exception of the Remote Release Flak Launcher).
+Guardian Waffen sind die effektivsten AX-Waffen im Spiel (speziell die Guardian Gauss Kanone) und menschliche AX-Waffen sind größtenteils unbrauchbar (Ausnahme bildet der Flakwerfer mit Fernzündung).
 
-Some builds will also include Thermal Vent Beam Lasers which allow pilots to easily reduce ship heat and avoid significant amounts of Thargoid fire. For more information, see Cold Orbiting and [Lasers](/en/lasers).
+Einige Bauten werden auch Thermal Vent Strahlenlaser einschließen, welche Piloten erlauben, die Schiffswärme mit wenig Aufwand zu reduzieren und erhebliche Mengen an Thargoid Feuer zu vermeiden. Weitere Informationen gibt es unter Cold Orbiting und [Laser](/en/lasers).
 
-For detailed stats on AX weapons, see the [AX Balance Research Spreadsheet](https://docs.google.com/spreadsheets/d/1kNZwBn16nYcrqpaua08VQb_ea3PF9SYcO-1IWivPZsA/edit#gid=1860633931)
+Detaillierte Statistiken zu AX-Waffen gibt es in der [AX-Balance Forschungs Tabelle](https://docs.google.com/spreadsheets/d/1kNZwBn16nYcrqpaua08VQb_ea3PF9SYcO-1IWivPZsA/edit#gid=1860633931)
 
 ![weaponsgraph.png](/img/weaponsgraph.png)
 
@@ -26,7 +26,7 @@ For detailed stats on AX weapons, see the [AX Balance Research Spreadsheet](http
 
 Derzeit die einzige wirksame Waffe gegen Thargon Schwärme.
 
-**Recommendation:** Must have! (Benötigt um den Schwarm zu zerstören)
+**Empfohlen:** Ist ein Muss! (Benötigt um den Schwarm zu zerstören)
 
 Hinweis: Zählt nicht in das Limit für 4 experimentelle Waffen.
 
