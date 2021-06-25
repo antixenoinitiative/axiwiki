@@ -13,14 +13,14 @@ Le but de cette doctrine est d'introduire des nouveaux commandants ou des vété
 
 Pour que cette doctrine soit efficace, un commandant doit avoir une compréhension de base du pilotage sans assistance de vol. Cette doctrine n'est pas conçue pour les combats avec assistance de vol, car cela interférerait avec de nombreuses manœuvres abordées dans cette doctrine.
 
-Cette doctrine est centrée autour d'une boucle de combat - vous répétez essentiellement les mêmes tactiques pour tous les cœurs (sauf pour l'engagement initial), ce qui permet à n'importe quel commandant d'affiner ses capacités à effectuer les mouvements spécifiques de cette doctrine.
+Cette doctrine est centrée autour d'une boucle de combat - vous répéterez essentiellement les mêmes tactiques pour tous les cœurs (sauf pour le début du combat), ce qui permet à n'importe quel commandant d'affiner ses capacités à effectuer les mouvements spécifiques de cette doctrine.
 
 Cette doctrine permet également de se concentrer le moins possible sur la gestion des pips car elle concerne le vol sans bouclier, ce qui vous permet d'établir vos priorités de puissance sur le répartiteur puis de vous concentrer ailleurs.
 
 # Configuration du vaisseau
-Cette doctrine se concentre sur le Chieftain comme vaisseau principal. Le Challenger peut également être utilisé comme substitut avec des modifications mineures de ses points d'emport. (Guide de construction de Challenger en construction) Des vaisseaux tels que le Krait MKII, le Krait Phantom ou le FAS peuvent également être utilisés mais en raison du coût bon marché du Chieftain, de sa disposition de points d'emport et de sa manœuvrabilité, ce sera la priorité principale de cette doctrine.
+Cette doctrine se concentre principalement sur le Chieftain. Le Challenger peut également être utilisé avec des modifications mineures de ses points d'emport. (Guide de configuration du Challenger en construction) Des vaisseaux tels que le Krait MKII, le Krait Phantom ou le FAS peuvent également être utilisés mais en raison du coût bon marché du Chieftain, de sa disposition de points d'emport et de sa manœuvrabilité, ce sera la priorité principale de cette doctrine.
 
-## Modules internes principaux
+## Modules internes primordiaux
 - Composite de grade militaire (Lourd / épais)
 - 6A Générateur (Générateur blindé / Répartition thermique)
 - 6A Propulseurs (Optimisation de réacteur détériorante/débridage des réacteurs)
@@ -43,33 +43,33 @@ Cette doctrine se concentre sur le Chieftain comme vaisseau principal. Le Challe
 - 2B Canon de gauss gardien x2 (placés sur les deux emplacements larges)
 - 2B Lanceur antiaérien déclenché a distance (emplacement moyen)
 - 1D Canon de gauss gardien x2 (placés sur les deux petits emplacements à gauche et à droite de la coque)
-- 1G Beam Laser (Long Range/Thermal Vent fitted in the small middle weapon slot)
+- 1G Rayon laser (Longue portée/ventilation thermique placé sur le petit emplacement d'arme au centre)
 
-## Utility
-- 3x OI Heat Sink Launchers(Ammo Capacity)
-- Xeno Scanner/Heat Sink Launcher (Dependent on commander if they wish to see the Thargoid's hull and swarm numbers.)
+## Utilitaires
+- OI Dissipateurs thermiques x3 (chargeur grande capacité)
+- Détecteur de xénomorphes/dissipateur thermique (dépend de si le commandant souhait voir la coque du thargoid et le nombre de thargons restants de l'essaim)
 
-If you have no preference for the Xeno Scanner especially for the lower variants having the 4th heat sink slot will ensure you should never need to synthesize heat sinks on the lower Interceptor variants.
+Si vous n'avez pas de préférence pour le détecteur de xénomorphes, avoir un 4ème dissipateur thermique vous assurera de ne jamais avoir besoin de faire des synthèses sur les variantes d'intercepteurs inférieures.
 
-# Engineering
-The purpose of the engineers listed is to minimize the needed engineers for entry level commanders into this doctrine while also allowing the more experienced commanders to utilize further engineers to maximize their ship. The engineers needed for the modifications are as follows:
+# Modifications d'ingénieurs
+L'objectif de cette liste est de minimiser les ingénieurs nécessaires pour les nouveaux commandants tout en permettant aux commandants plus expérimentés d'utiliser d'autres ingénieurs pour maximiser leur vaisseau. Les ingénieurs nécessaires aux modifications sont les suivants:
 
-## Minimum Engineers:
-- The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
-- Selene Jean (Kuk) - G5 Hull Reinforcement Package (Heavy Duty/Deep Plate)
-- G5 Armor (Heavy Duty/Deep Plate)
-- Hera Tani (Kuwemaki) - G5 Power Plant (Armored/Thermal Spread)
-- Professor Palin (Arque) - G5 Thrusters(Dirty/Drag Drives)
-- Broo Tarquin (Muang) - G5 Beam Laser (Long Range/Thermal Vent)
-- Ram Tah (Meene) - Heat Sink Launcher (Ammo Capacity)
+## Ingénieurs indispensables:
+- The Dweller (Wyrd) - G5 Répartiteur de Puissance (Rapide/Super Conduits)
+- Selene Jean (Kuk) - G5 Renforts de coque (Lourd / épais)
+- G5 Blindage (Lourd / épais)
+- Hera Tani (Kuwemaki) - G5 Générateur (Générateur blindé / Répartition thermique)
+- Professor Palin (Arque) - G5 Propulseurs (Optimisation de réacteur détériorante/débridage des réacteurs)
+- Broo Tarquin (Muang) - G5 Rayon laser (Longue portée/ventilation thermique)
+- Ram Tah (Meene) - Dissipateurs thermiques (chargeur grande capacité)
 
-## Optional Engineers:
-- Felicity Farseer (Deciat) - G5 Frame Shift Drive engineering
-- Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensors engineering
+## Ingénieurs optionnels:
+- Felicity Farseer (Deciat) - G5 Réacteur FSD modifié
+- Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Capteurs modifiés
 
-VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
+Vidéo: [Débloquer les ingénieurs par CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
-# Purpose of Ship and Engineering
+# Objectif du vaisseau et des modifications
 - With the fitting and engineers listed this is the baseline of the doctrine needed to fully utilize the fitting of the ship with the engineers available for each module. If utilizing all engineers you are fully maximizing the capabilities of the Chieftain to allow you to engage all Interceptor variants efficiently and effectively.
 - The speed of the Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 500 m/s which is more than needed to engage any Interceptor variant. Basilisks requires an additional maneuver to combat due to its speed. See Basilisk Considerations
 
