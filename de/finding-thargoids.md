@@ -22,11 +22,11 @@ Thargoiden sind ein schwer fassbarer Haufen, aber es gibt bestimmte Tricks und H
 Thargoids können an verschiedenen Orten gefunden werden, wie:
 - [Nicht-menschliche Signalquellen (im englischen NHSS)](/en/nhss)
 - [Hyperdictions](/en/hyperdictions)
-- [Static Signal Sources](/en/static-signals)
-- [Thargoid Structures](https://canonn.science/codex/the-unknown-structure/?highlight=structure)
+- [Statische Signalquellen](/en/static-signals)
+- [Thargoid Strukturen](https://canonn.science/codex/the-unknown-structure/?highlight=structure)
 
-## Activity Map
+## Aktivitätskarte
 
 ![thargoidmap.png](/img/thargoidmap.png)
 
-[Click here for a full sized image](https://cdn.discordapp.com/attachments/625989888432537611/854310144946208808/Thargoid_Activity_Map_v0.5.png)
+[Klicke hier für ein Bild in voller Größe](https://cdn.discordapp.com/attachments/625989888432537611/854310144946208808/Thargoid_Activity_Map_v0.5.png)
