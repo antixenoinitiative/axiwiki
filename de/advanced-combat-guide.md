@@ -1,15 +1,15 @@
 ---
-title: Advanced Combat Guide
-description: Based on the Odysseus Doctrine by CMDR Avasa Siuu
+title: Erweiterter Gefechts guide
+description: Basiert auf der Odysseus-Doktrin von CMDR Avasa Siuu
 published: true
 date: 2021-06-17T04:01:30.341Z
-tags: outfitting, combat, thargoids, interceptors
+tags: Ausrüsten, Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
-# Advanced Thargoid Combat Guide
-The purpose of this doctrine is to introduce new or veteran commanders to a specific fighting style and ship build that works against all four Thargoid Interceptor variants. The entry cost of this doctrine is designed to be as minimal as possible to allow any commander the ability to engage in Thargoid Interceptor combat against any of the variants. The tactics and maneuvers involved also carry over through all four Interceptor variants with only one additional maneuver needed for Basilisks due to their speed.
+# Erweiterter Gefechts guide
+Der Zweck dieser Doktrin ist die Einführung neuer oder Veteranenkommandeure in einen bestimmten Kampfstil und Schiffsbau, welcher gegen alle vier Thargoids funktioniert. The entry cost of this doctrine is designed to be as minimal as possible to allow any commander the ability to engage in Thargoid Interceptor combat against any of the variants. The tactics and maneuvers involved also carry over through all four Interceptor variants with only one additional maneuver needed for Basilisks due to their speed.
 
 For this doctrine to be effective a commander must have a basic understanding of flying with flight assist off. This doctrine is not designed for flight assist on combat, since it would interfere with many maneuvers within this doctrine.
 
@@ -20,34 +20,34 @@ This doctrine also allows for minimal focus on pip management due to the fact th
 # Ship Loadout
 This doctrine centers itself around the Chieftain as its primary ship. The Challenger may also be used as a substitute with minor changes to its hardpoints. (Challenger build guide under construction) Ships such as the Krait MKII, Krait Phantom or FAS may also be used but due to the cheap entry cost of the Chieftain, its hard point layout and maneuverability, it is the primary focus for this doctrine.
 
-## Core Internals
-- Military Grade Composite (Heavy Duty/Deep Plate)
-- 6A Power Plant (Armored/Thermal Spread)
-- 6A Thrusters (Dirty/Drag Drives)
-- 5A Frame Shift Drive (Any class/modification optional depending on commander)
-- 5A Life Support (Lightweight optional)
-- 6A Power Distributor (Charge Enhanced/Super Conduits)
-- 4D Sensors (Long range optional)
-- 4C Fuel Tank
+## Intern (Basis)
+- Millitär-Komposit (Heavy Duty/Deep Plate)
+- 6A Kraftwerk (Armored/Thermal Spread)
+- 6A Schubdüsen (Dirty/Drag Drives)
+- 5A Frame Shift Antrieb (Jegliche Modifikation ist optional, hängt vom Kommandanten ab)
+- 5A Lebenserhaltung (Lightweight optional)
+- 6A Energieverteiler (Charge Enhanced/Super Conduits)
+- 4D Sensoren (Long range optional)
+- 4C Treibstofftank
 
-## Optional Internals
-- 5D Repair Limpet Controller
-- 5D Hull Reinforcement Package (Heavy Duty/Deep Plate)
-- 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate)
-- 4D Module Reinforcement Package
-- 2D Guardian Module Reinforcement Package
-- 2E Cargo rack
-- 1A Auto Field-Management Unit
+## Intern (optional)
+- 5D Steuerung Reparaturdrohne
+- 5D Rumpfhüllenverstärkung (Heavy Duty/Deep Plate)
+- 4D Rumpfhüllenverstärkung x3 (Heavy Duty/Deep Plate)
+- 4D Modulverstärkung
+- 2D Guardian Modulverstärkung
+- 2E Laderaum
+- 1A Automatische Feldwartungs Einheit
 
-## Hardpoints
-- 2B Guardian Gauss Cannons x2 (Fitted in the 2 Large Slots)
-- 2B Remote Release Flak Launcher (Medium Slot)
-- 1D Guardian Gauss Cannons x2 (Fitted in the two small slots to the left and right of the hull)
-- 1G Beam Laser (Long Range/Thermal Vent fitted in the small middle weapon slot)
+## Aufhängungen
+- 2B Guardian Gausskanone x2 (In den zwei Großen Slots)
+- 2B Flakwerfer mit Fernzündung (Mittlerer Slot)
+- 1D Guardian Gausskanone x2 (In den zwei kleinen slots links und rechts am Schiff)
+- 1G Strahlenlaser (Long Range/Thermal Vent in dem mittleren kleinen slot)
 
 ## Utility
-- 3x OI Heat Sink Launchers(Ammo Capacity)
-- Xeno Scanner/Heat Sink Launcher (Dependent on commander if they wish to see the Thargoid's hull and swarm numbers.)
+- 3x OI Kühlkörperwerfer (Ammo Capacity)
+- Xeno Scanner/Kühlkörperwerfer (Kommt auf den Kommandanten an, ob er die Leben des Thargoids und die Größe des Schwarms sehen will.)
 
 If you have no preference for the Xeno Scanner especially for the lower variants having the 4th heat sink slot will ensure you should never need to synthesize heat sinks on the lower Interceptor variants.
 
@@ -55,19 +55,19 @@ If you have no preference for the Xeno Scanner especially for the lower variants
 The purpose of the engineers listed is to minimize the needed engineers for entry level commanders into this doctrine while also allowing the more experienced commanders to utilize further engineers to maximize their ship. The engineers needed for the modifications are as follows:
 
 ## Minimum Engineers:
-- The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
-- Selene Jean (Kuk) - G5 Hull Reinforcement Package (Heavy Duty/Deep Plate)
-- G5 Armor (Heavy Duty/Deep Plate)
-- Hera Tani (Kuwemaki) - G5 Power Plant (Armored/Thermal Spread)
-- Professor Palin (Arque) - G5 Thrusters(Dirty/Drag Drives)
-- Broo Tarquin (Muang) - G5 Beam Laser (Long Range/Thermal Vent)
-- Ram Tah (Meene) - Heat Sink Launcher (Ammo Capacity)
+- Der Dweller (Wyrd) - G5 Energieverteiler (Charge Enhanced/Super Conduits)
+- Selene Jean (Kuk) - G5 Rumpfhüllenverstärkung (Heavy Duty/Deep Plate)
+- G5 Panzerung (Heavy Duty/Deep Plate)
+- Hera Tani (Kuwemaki) - G5 Kraftwerk (Armored/Thermal Spread)
+- Professor Palin (Arque) - G5 Schubdüsen (Dirty/Drag Drives)
+- Broo Tarquin (Muang) - G5 Strahlenlaser (Long Range/Thermal Vent)
+- Ram Tah (Meene) - Kühlkörperwerfer (Ammo Capacity)
 
-## Optional Engineers:
-- Felicity Farseer (Deciat) - G5 Frame Shift Drive engineering
-- Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensors engineering
+## Optionale Ingenieure:
+- Felicity Farseer (Deciat) - G5 Frame Shift Antrieb engineering
+- Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensoren engineering
 
-VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
+VIDEO: [Guide zum Ingenieure freischalten von CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
 # Purpose of Ship and Engineering
 - With the fitting and engineers listed this is the baseline of the doctrine needed to fully utilize the fitting of the ship with the engineers available for each module. If utilizing all engineers you are fully maximizing the capabilities of the Chieftain to allow you to engage all Interceptor variants efficiently and effectively.
