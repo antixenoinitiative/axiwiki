@@ -1,22 +1,22 @@
 ---
-title: Thargon Swarms
-description: This document explains in detail the mechanics and behavior of Thargon Swarms deployed by Thargoid Interceptors.
-published: true
+title: Thargon Schwärme
+description: Dieses Artikel erklärt detailliert die Mechanik und das Verhalten von Thargon Schwärmen, die von Thargoid Interceptors eingesetzt werden.
+published: ja
 date: 2021-06-15T12:00:46.639Z
-tags: thargoids, interceptors, swarms
+tags: thargoids, interceptors, schwärme
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
 ---
 
-# Thargon Swarms
+# Thargoid Schwärme
 
-Each Interceptor can deploy and control a Thargon swarm, consisting of 32, 64, 96 and 128 Thargons for Cyclops, Basilisk, Medusa and Hydra variants respectively.
+Jeder Interceptor kann einen Thargon-Schwarm einsetzen und steuern, bestehend aus 32, 64, 96 und 128 Thargons bei Cyclops, Basilisk, Medusa und Hydra Varianten.
 
-During planetary engagements, the Interceptor will not deploy swarms.
+Bei planetarischen Gefechten wird ein Interceptor keinen Schwarm einsetzen.
 
-**The Thargon swarm has two methods of inflicting damage:**
+**Der Thargon Schwarm verfügt über zwei Methoden, um Schaden zu Verursachen:**
 
-- **Caustic projectiles** that do heavy damage to shields and penetrate them, dealing hull damage. Against shieldless targets, these projectiles are very inaccurate and the swarm will miss most of its shots. Heat signature does not visibly affect their accuracy, but rapidly changing your vector or rolling will protect you somewhat. This attack has a maximum range of around 2km. Despite the name, these do not apply caustic stacks but rather deal caustic damage, which is effected by modules such as the Guardian Hull Reinforcement Package.
+- **ätzende Geschosse** die Schutzschilde schwer beschädigen, sie durchdringen und Schaden am Rumpf verursachen. Gegen Schutzschildlose Ziele sind diese Geschosse sehr ungenau und der Schwarm wird die meisten seiner Schüsse verfehlen. Die Wärmesignatur scheint ihre Genauigkeit nicht zu beeinflussen, aber deinen Flugvektor rapide zu verändern oder das Schiff zu rollen kann behilflich sein. Dieser ätzende Geschoss Angriff hat eine maximale Reichweite von etwa 2km. Despite the name, these do not apply caustic stacks but rather deal caustic damage, which is effected by modules such as the Guardian Hull Reinforcement Package.
 - **Kamikaze missiles** that kill the Thargon, but inflict massive hull and module damage. The missiles are fast (roughly 600m/s) but short-lived. Against an unshielded target, these will do tremendous damage, but a shielded build with 4 pips to SYS should survive a regular missile volley with relative ease. Without shields these can potentially 1-shot modules even through a Guardian Module Reinforcement Package. These missiles appear to do collision damage, as they do not interrupt synthesis or reboots. This attack triggers within 3km range, and only if the swarm is in missile formation.
 
 If a non-aggressive Interceptor’s personal space is invaded (500m), it will deploy a warning swarm as well as glow red and ‘threaten’ the pilot who got too close. This swarm will not immediately attack, but instead will circle around the Interceptor, ready to engage at a moment’s notice. If the threat backs away, the Interceptor will recall the swarm and continue its previous actions. If it does not, the swarm will detach and the battle begins.
