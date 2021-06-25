@@ -11,8 +11,8 @@ dateCreated: 2021-06-10T04:04:18.230Z
 # АХ Оружия
 В игре есть достаточно много различных АХ оружий, их два основных варианта:
 
-- **Человеческое Анти-Ксено оружие** (АХ Многоствольное оружие, АХ Блок Ракет, Улучшенное Многоствольное оружие, Улучшенный Блок Ракет, Установка со снарядами дистанционного подрыва)
-- **Оружия Стражей** (Гаусс Стражей, Акселератор плазмы Стражей, Осколочное орудие Стражей)
+- **Человеческое Анти-Ксено оружие** (Многоствольное орудие АИ, Блок Ракет АИ, Продвинутое Многоствольное оружие, Продвинутый Ракетный Лоток, Установка со снарядами дистанционного подрыва)
+- **Оружия Стражей** (Гаусс Стражей, Ускоритель плазмы Стражей, Осколочное орудие Стражей)
 
 Оружия Стражей наиболее эффективные АХ оружия в игре (особенно Гаусс Стражей) в основном неприменимы с АХ оружием человечества (с исключением в виде Установки со снарядами с дистанционным подрывом).
 
@@ -40,40 +40,40 @@ dateCreated: 2021-06-10T04:04:18.230Z
 
 ## Осколочное Оружие Стражей
 
-Аналогично Осколочному оружию людей, очень широкий разброс с максимальной дистанцией эффективного огня в 700 метров, что означает чтобы оно было использовано эффективно пилоту необходимо быть в этом радиусе. While a potent weapon for speedrunning, the requirement of firing from within lightning range means that they are ineffective otherwise.
+Аналогично Осколочному оружию людей, очень широкий разброс с максимальной дистанцией эффективного огня в 700 метров, что означает чтобы оно было использовано эффективно пилоту необходимо быть в этом радиусе. Это было потенциальное оружие для спидрана, требование огня из радиуса действия Таргоидской молнии означает, что оно неэффективны для этого.
 
-**Recommendation:** Do not use (Low effective range, Poor armour penetration)
+**Рекомендация:** Не использовать (Короткий эффективный радиус, слабая пенетрация брони)
 
-## Guardian Plasma Charger
+## Ускоритель Плазмы Стражей
 
-Similar to a Plasma Accelerator, but poor armour penetration value makes it less effective against tougher Interceptors and difficulty to aim makes it bad for using on hearts. Damage dealt is also unpredictable.
+Похож на человеческую версию Ускорителя Плазмы, но слабая пенетрация брони делает его менее эффективным против жёстких Перехватчиков и сложность в прицеливании делает его не лучшим выбором против сердец Таргоидов. Так же, наносимый урон непредсказуем.
 
-**Recommendation:** Do not use (Poor armour penetration, Difficult to aim, Terrible capacitor draw)
+**Рекомендация:** Не использовать (Слабая пенетрация брони, Сложность в прицеливании, Ужасная нагрузка на распределитель (большое потребление накопленного заряда))
 
-## AX Multi-Cannon
+## Многоствольное орудие АИ
 
-AXMCs come in two types - Turreted and Fixed, and in two sizes - Medium and Large. The Large Turreted ones are the most effective Scout hunting weapon in the game, but the Large Fixed ones are only passable against the weakest Interceptor variant, the Cyclops, and the others are very ineffective.
+АХМО предоставляются в двух типах - на Турельной и Фиксированной установке, а так же в двух размерах - Средний и Большой. Большие на турельной установке являются наиболее эффективным оружием в охоте на Разведчиков в игре, но Большая на Фиксированной установке более-менее эффективны только против самых слабых вариантов Перехватчиков - Циклопы, на остальных же оно крайне неэффективно.
 
-**Recommendation:** Great for Scouts, Awful for Interceptors
+**Рекомендация:** Хорошее против Скаутов, Ужасное против Перехватчиков
 
-## AX Missile Rack
+## Блок Ракет АИ
 
-Okay, but very difficult to aim as they are slow moving and dumbfire only. Minimal ammo.
+Хорошее оружие, но им очень трудно прицелится, так как они очень медленные и не имеют систем самонаведения. Очень малый боезапас.
 
-**Recommendation:** Do Not Use (Poor damage)
+**Рекомендация:** Не использовать (Низкий урон)
 
-## Advanced Multi-Cannon
+## Продвинутое Многоствольное Орудие
 
-Same as a normal Multi-Cannon and can be engineered, however it will not do AX damage unless ammo is synthesized.
+То же самое, что и обычное Многоствольное орудие и может быть улучшено у инженера, однако оно не будет наносить АХ урона если не будет специальных синтезированных боеприпасов.
 
-**Recommendation:** Do not use (Poor damage, Cannot use without synth)
+**Рекомендация:** Не использовать (Низкий урон, Не может быть использовано без синтеза спец. боеприпасов)
 
-Note: Does not count against the 4 experimental weapon limit.
+Примечание: Не считается в лимите на 4 экспериментальных оружия на один корабль.
 
-## Advanced Missile Racks
+## Продвинутый Ракетный Лоток
 
-Similar to the Advanced Multi-Cannon, these are an engineerable clone of the normal Missile Rack which requires synth to deal AX damage. Due to their extreme splash damage, synth requirement, and lack of weapon number limit, they are banned from use in AXI ranks.
+Подобно Продвинутому Многоствольному Орудию, это улучшаемый у инженера клон обычного ракетного лотка, который требует синтез специальных боеприпасов, чтобы нанести АХ урон. Из-за их экстремального урона по площади, необходимость в синтезе и участие в лимите на количество оружия, они исключены из использования в рангах AXI.
 
-**Recommendation:** Use at own discretion (Cannot use without synth, Banned from progression kills)
+**Рекомендация:** Использовать по своему усмотрению (Не может быть использовано без синтеза боеприпасов, Исключено из прогресса убийств)
 
-Note: Does not count against the 4 experimental weapon limit.
+Примечание: Не считается в лимите на 4 экспериментальных оружия на один корабль.
