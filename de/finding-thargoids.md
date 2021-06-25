@@ -11,16 +11,16 @@ dateCreated: 2021-06-15T10:50:27.574Z
 # Thargoids finden
 Thargoiden sind ein schwer fassbarer Haufen, aber es gibt bestimmte Tricks und Hotspots, durch die man sie finden kann. Das konsequenteste Mittel ist das Auffinden von Thargoiden in <strong x-id=“1“> nicht-menschlichen Signalquellen ( auf englisch: Non-Human Signal Sources also: NHSS)</strong> entweder in der Pleiades-Region, im Coalsack-Nebula oder im Witch Head Nebula. Thargoids können auch in ein paar statischen orten im menschlichen Raum gefunden werden.
 
-> ## Current Active Regions
+> ## Momentan aktive Regionen
 > 
-> Pleiades Nebula (~100Ly around Merope) Witch Head Nebula (~75Ly around Witch Head Sector IR-W C1-9) Coalsack Nebula (~Region Size Unknown) 
+> Pleiades Nebula (~100Ly um Merope) Witch Head Nebula (~75Ly um Witch Head Sector IR-W C1-9) Coalsack Nebula (~Region Größe unbekannt) 
 > 
 > {.is-info}
 
-## Thargoid Locations
+## Thargoid Standorte
 
-Thargoids can be found in various locations, such as:
-- [Non-Human Signal Sources](/en/nhss)
+Thargoids können an verschiedenen Orten gefunden werden, wie:
+- [Nicht-menschliche Signalquellen (im englischen NHSS)](/en/nhss)
 - [Hyperdictions](/en/hyperdictions)
 - [Static Signal Sources](/en/static-signals)
 - [Thargoid Structures](https://canonn.science/codex/the-unknown-structure/?highlight=structure)
