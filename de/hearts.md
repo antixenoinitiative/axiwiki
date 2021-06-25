@@ -15,9 +15,9 @@ Alle Thargoids haben eine bestimmte Anzahl von internen Modulen, die als Herz be
 
 Thargoid Herzen versorgen den Interceptor mit der Fähigkeit sich extrem schnell zu regenerieren, es ist fast unmöglich den Interceptor zu töten, bevor alle Herzen zerstört wurden.
 
-## Exertion
+## Hervortreten
 
-Thargoid Hearts are immune to damage by default. However you can make the hearts vulnerable by dealing enough damage to the Thargoid Interceptor and **Exerting** the heart. You must deal 20% of the remaining total hull to cause the heart to become exerted. Once exerted, the Thargoid will regenerate its health rapidly and the Heart will begin glowing brightly for ~45 seconds.
+Thargoid Herzen sind im Normalzustand immun. Allerdings kannst du die Herzen verwundbar machen, indem du dem Thargoid Interceptor genug Schaden zufügst um das Herz **hervortreten** zu lassen. Du musst dem Interceptor Schaden in Höhe von 20% der verbleibenden Hüllenstärke zufügen, um das Herz hervortreten zu lassen. Once exerted, the Thargoid will regenerate its health rapidly and the Heart will begin glowing brightly for ~45 seconds.
 
 ## {.tabset}
 
