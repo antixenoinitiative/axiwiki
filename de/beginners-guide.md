@@ -1,6 +1,6 @@
 ---
 title: Anfänger Guide zu AX
-description: A walkthrough of the AXI wiki for beginners.
+description: Eine Rundführung durch das AXI wiki für Anfänger.
 published: true
 date: 2021-06-11T00:55:21.190Z
 tags: guide

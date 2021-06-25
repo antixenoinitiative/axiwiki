@@ -1,8 +1,8 @@
 ---
-title: Thargoids
-description: About Thargoids
-published: true
-date: 2021-06-23T12:18:32.409Z
+title: Thargoiden
+description: Zu Thargoiden
+published: ja
+date: 2021-06-23T12:18:32.409Z (originale Englische Version)
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:10:09.264Z

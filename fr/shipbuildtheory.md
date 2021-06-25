@@ -1,5 +1,5 @@
 ---
-title: Ship Build Theory
+title: Théorie pour l'Equipement de Vaisseaux
 description:
   This is a comprehensive guide on general AX build theory, for each of the build styles: Bi-Weave Hybrids,  Shieldless Cold Orbiters,  Shield Tanks
 published: true
@@ -9,7 +9,7 @@ editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
 ---
 
-# Ship Build Theory
+# Théorie pour l'Equipement de Vaisseaux
 This is a comprehensive guide on general AX build theory, for each of the build styles:
 
 - Bi-Weave Hybrids

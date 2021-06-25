@@ -1,5 +1,5 @@
 ---
-title: Recommended Builds
+title: Equipements Recommandés
 description: Anti-Xeno Ship Builds
 published: true
 date: 2021-06-23T10:01:06.084Z
@@ -9,57 +9,57 @@ dateCreated: 2021-06-08T12:52:54.657Z
 ---
 
 
-# Recommended Builds
-Thargoid Hunting requires specialised ship builds as Thargoids have special resistances and deal special damage types that will typically cause issues on any standard combat build. As such, we have put together the following guide to help you make the correct decisions to lead you towards building the most effective vessel for hunting down alien ships. These ship builds are designed to give you a balance of firepower and survivability, while also being forgiving enough to make a few mistakes.
+# Equipements Recommandés
+Le combat de Thagoids requiert un équipent très spécialisé. En effet, les Thargoids ont des résistances particulières et infligent certains types de dégâts qui posent des problèmes aux équipements de combat standard. Nous avons donc établi le guide ci-dessous pour vous aider à prendre les bonnes décisions et vous guider dans l'équipement du vaisseau de chasse aux Thargoids le plus efficace possible. Ces configurations ont été conçues pour être à l'équilibre entre puissance de feu et solidité, tout en restant assez souples pour encaisser quelques erreurs.
 
-> Please see our [Ship Build Theory](/en/shipbuildtheory) page for a more in-depth explanation behind the outfitting decisions. 
+> Vous pouvez vous réferrer à notre page sur la [Théorie pour l'Equipement de Vaisseaux](/en/shipbuildtheory) pour une explication plus en détail sur la logique derrière toutes ces propositions. 
 > 
 > {.is-info}
 
-## Ship Build Types
+## Types de Configurations
 
-Firstly, note there are two main types of Thargoid: **Thargoid Scouts** and **Thargoid Interceptors**. Since these enemies have very different mechanics and abilities, we will typically need a different type of build for each one.
+Premièrement, il est à noter qu'il existe deux principaux types de vaisseaux Thargoids : les [**Eclaireurs Thargoids**](/fr/scouts) et les [**Intercepteurs Thargoids**](/en/interceptors). Ces ennemis ayant des capacités et des mécaniques très différentes, il y aura plusieurs types d'équipement pour chacun d'entre eux.
 
-# Interceptor Builds
+# Contre les Intercepteurs
 
-Thargoid Interceptors are very tough and powerful enemies that will require equally strong ships to be able to stand a chance in combat. Due to the incredibly high damage output of Thargoid Interceptors, there are only a handful of different styles and methods you can use effectively.
+Les Intercepteurs Thargoids sont de très puissants ennemis d'une solidité remarquable; pour avoir une chance face à eux en combat, il faut un vaisseau tout aussi bon. A cause des dégâts invraissemblables infligés par les Intercepteurs, les possibilités sont restreintes à quelques styles d'équipements.
 
-These are the most common types of builds used for Anti-Xeno Combat.
+Voici les plus communs.
 
--   **Fast Shielded Builds** (Bi-Weave Hybrids) - Ships with good speed and small shields that regenerate quickly (Beginner)
+-   **Vaisseaux Rapides avec Boucliers** (Hybrides, Boucliers Entrelacés) - Vaisseaux rapides avec des boucliers qui se rechargnt vite. (Débutant)
 
--   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage (Moderate)
+-   **Vaisseaux Rapides sans Boucliers** (Orbiteurs Froids) - Vaisseaux rapides qui n'utilisent pas de bouclier mais des mécaniques de gestion de température et des maneuvres particulières pour éviter les dégâts. (Intermédiaire)
 
--   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically (Moderate/Advanced)
+-   **Vaisseaux Lents avec Boucliers** (Boucliers Lourds) - Vaisseaux plus lents avec des boucliers très importants qui utilisent des redémarrages périodiques pour régénérer leurs boucliers. (Intermédiaure/Avancé)
 
 
-## Beginner Builds
+## Vaisseaux pour Débutants
 
-These builds all utilize shields to provide a more familiar style of combat, while also being equipped for cold orbiting techniques. If you are looking to ease into AX combat, shielded builds are recommended because of their ease of use on Cyclops and Basilisk variant Interceptors. These ships fall under two categories: Bi-Weave Hybrids, which make use of Cold Orbiting techniques but provide shields as a backup, and Shield Tanks, which rely on massive raw shield MJ to keep them alive.
+Ces configurations utilisent toutes des boucliers pour permettre un style de combat plus familier, tout en étant équipées pour effectuer un orbite froid. Les vaisseaux équippés de boucliers, grâce à leur facilité d'usage contre les variantes Cyclop et Basilisk, sont recommandés pour les débutants en combat AX. Ils se divisent en deux catégories: les Hybrides avec Boucliers Entrelacés, qui utilisent les techniques d'Orbite Froid mais ont les boucliers comme sécurité, et les Tanks avec Boucliers Lourds qui s'appuient sur des valeurs gigantesques de boucliers bruts pour se maintenir en vie.
 
-## Tabset {.tabset}
+## Liste {.tabset}
 
-### Krait Mk.II (Shielded)
+### Krait Mk.II (Avec Boucliers)
 
-#### **Krait Mk.II (Shielded)**
+#### **Krait Mk.II (Avec Boucliers)**
 
-The most commonly recommended and best all-round AX ship for anyone interested in killing Thargoids, the Krait Mk.II has enough firepower to kill the tougher interceptors while also having enough shields and hull to be able to recover from a few mistakes. A very capable AX vessel, although the shielded version can only go so far.
+Etant le plus recommandé pour les débutants et le plus polyvalent des vaisseaux pour le combat AX, le Krait Mk.II a une puissance de feu suffisante pour affronter les plus gros intercepteurs tout en gardant une coque et des boucliers suffisants pour rattraper quelques erreurs. Un vaisseau AX très capable, mais la version avec boucliers est vite limitée.
 
-Type: **Bi-Weave Hybrid**
+Type: **Hybride, Boucliers Entrelacés**
 
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐
-- Shield: ⭐⭐⭐⭐
-- Armour: ⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
+- Vitesse: ⭐⭐⭐⭐⭐
+- Maniabilité: ⭐⭐⭐
+- Boucliers:⭐⭐⭐⭐
+- Coque: ⭐⭐⭐
+- Puissance de feu: ⭐⭐⭐⭐
 
-Recommendation: Best starting ship for new pilots in AX.
+Recommandation: Meilleur choix possible pour un débutant en combat AX.
 
-[Coriolis Shielded Build](https://s.orbis.zone/f8l4)
+[Configuration avec Boucliers sur Coriolis](https://s.orbis.zone/f8l4)
 
-[EDSY Shielded Build](https://edsy.org/s/vbLKqFW)
+[Configuration avec Boucliers sur EDSY](https://edsy.org/s/vbLKqFW)
 
-AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
+Passage en revue du Krait Mk.II AX (en Anglais): [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
 Note: While this build uses Lo-Draw on the shields, Fast Charge experimental is also a great option that requires more pip management but faster recharge.
 
@@ -151,7 +151,7 @@ A collection of more advanced builds can be found on the Advanced Builds page.
 
 View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
 
-# Scout Builds
+# Contre les Eclaireurs
 Hunting scouts is a very efficient method to increase combat rank. This is because all scouts are considered elite targets and will give the best possible experience per kill. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
 
 These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. Keep in mind that there is a limit of 4 AX Weapons per vessel.

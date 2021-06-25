@@ -59,4 +59,4 @@ Das GitHub-Repository synchronisiert alle 5 Minuten alle Änderungen (bidirektio
 
 ## Übersetzung
 
-Translation is managed through Crowdin, translate pages here: https://crowdin.com/project/axiwiki
+Übersetzung wird verwaltet über Crowdin, hilf uns beim übersetzen der Seiten via: https://crowdin.com/project/axiwiki

@@ -13,14 +13,14 @@ Thargoid Interceptors will aggro (attack) onto whichever player has the highest 
 
 Threat can be increased by dealing damage. This can be beneficial for various reasons.
 
-- Controlling the Thargoid's Movements.
-- Saving another CMDR from death.
-- Giving another CMDR an opportunity to ram a Thargoid.
+- Die Bewegung des Thargoids kontrollieren.
+- Einen weiteren CMDR vor dem Tod bewahren.
+- Einem anderen CMDR die Möglichkeit geben den Thargoid zu rammen.
 
-A good example of this is the following:
+Ein gutes Beispiel dafür ist Folgendes:
 
-1. CMDR1 is kiting the Thargoid around with full aggro.
-1. CMDR2 uses his weapons to take the aggro and distract the Interceptor.
+1. CMDR1 lenkt den Thargoid ab, während er von ihm fokussiert wird.
+1. CMDR2 nutzt seine Waffen um den Interceptor abzulenken und die Aufmerksamkeit auf sich zu ziehen.
 1. CMDR1 uses the Target Swap Lockout window to ram the Interceptor without any threat of being hit by Lightning.
 
 [Click here to see a video demonstrating threat management.](https://youtu.be/pGBnAZDxVCU)

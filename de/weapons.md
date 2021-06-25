@@ -1,18 +1,18 @@
 ---
-title: Weapons
-description: Guardian weapons are the most effective AX weapons in the game (specifically the Guardian Gauss Cannon) with human AX weapons being mostly unusable.
+title: Waffen
+description: Guardian Waffen sind die effektivsten AX-Waffen im Spiel (speziell die Guardian Gauss Kanone) und menschliche AX-Waffen sind größtenteils unbrauchbar.
 published: true
 date: 2021-06-15T04:13:36.575Z
-tags: outfitting, modules
+tags: Ausrüsten, Module
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
 ---
 
-# AX Weapons
-There are a multitude of different Anti-Xeno weapons in the game, and they come in two main variants:
+# AX Waffen
+Es gibt eine Vielzahl verschiedener Anti-Xeno-Waffen im Spiel, und sie sind in zwei Hauptvarianten erhältlich:
 
-- **Human AX Weapons** (AX Multi-Cannon, AX Missile Rack, Advanced Multi-Cannon, Advanced Missile Rack, Remote Release Flak Launcher)
-- **Guardian Weapons** (Guardian Gauss Cannon, Guardian Plasma Charger, Guardian Shard Cannon)
+- **Menschliche AX Waffen** (AX Merfachgeschütz, AX Raketenrampe, Fortgeschrittene Mehrfachgeschütz, Fortgeschrittene Raketenrampe, Flakwerfer mit Fernzündung)
+- **Guardian Waffen** (Guardian Gausskanone, Guardian Plasmalader, Guardian Splitterkanone)
 
 Guardian weapons are the most effective AX weapons in the game (specifically the Guardian Gauss Cannon) with human AX weapons being mostly unusable (with the exception of the Remote Release Flak Launcher).
 
@@ -22,15 +22,15 @@ For detailed stats on AX weapons, see the [AX Balance Research Spreadsheet](http
 
 ![weaponsgraph.png](/img/weaponsgraph.png)
 
-## Remote Release Flak Launcher
+## Flakwerfer mit Fernzündung
 
-Currently the only effective weapon to deal with Thargon Swarms.
+Derzeit die einzige wirksame Waffe gegen Thargon Schwärme.
 
-**Recommendation:** Must have! (Required to take out swarms)
+**Recommendation:** Must have! (Benötigt um den Schwarm zu zerstören)
 
-Note: Does not count against the 4 experimental weapon limit.
+Hinweis: Zählt nicht in das Limit für 4 experimentelle Waffen.
 
-## Guardian Gauss Cannon
+## Guardian-Gausskanone
 
 Current undisputed AX meta. Guardian Gauss Cannons function like a Railgun with a short delay before firing. Heavy Armour Penetration means it is effective against even the toughest Thargoids. Coming in only small and medium classes, these allow a surprisingly even playing field between all ship classes. They have a maximum range of 3km and a damage falloff start of 1.5km, allowing for precision heart sniping at range. Its only downside is high heat generation which necessitates constant heatsink use.
 
