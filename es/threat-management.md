@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-06-21T02:12:44.684Z
 ---
 
-# Threat Management
+# Gestión de Amenaza
 Thargoid Interceptors will aggro (attack) onto whichever player has the highest Threat. Threat is calculated based on highest damage dealt to the interceptor since the last time it changed target. Whenever a Thargoid changes target, it will be unable to change target for ~35 seconds (Target Swap Lockout) or until the target dies or leaves the fight. During the target swap lockout, any damage dealt to the Interceptor will be considered for the next target swap, however the Interceptor will not actually change target until the lockout period has expired (or the current target has died/left).
 
 Threat can be increased by dealing damage. This can be beneficial for various reasons.
