@@ -9,7 +9,7 @@ dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
 # Guía avanzada de combate Thargoid
-El propósito de esta doctrina es introducir comandantes tanto nuevos como veteranos a estilos de combate específicos y configuraciones de nave que funcionen eficazmente contra las cuatro variantes de interceptores Thargoid. The entry cost of this doctrine is designed to be as minimal as possible to allow any commander the ability to engage in Thargoid Interceptor combat against any of the variants. The tactics and maneuvers involved also carry over through all four Interceptor variants with only one additional maneuver needed for Basilisks due to their speed.
+El propósito de esta doctrina es introducir comandantes tanto nuevos como veteranos a estilos de combate específicos y configuraciones de nave que funcionen eficazmente contra las cuatro variantes de interceptores Thargoid. Los requisitos al igual que los costos iniciales de esta doctrina están diseñados para que sean lo maa mínimo posible para permitir a cualquier comandante la habilidad de participar en combate contra cualquiera de las 4 variantes. Las tácticas y maniobras involucradas son completamente compatibles en contra de todas las 4 variantes, con una maniobra extra necesaria cuando se combate contra Basilisk, debido a su velocidad.
 
 Para garantizar la eficacia de esta doctrina el comandante debe tener conocimientos básicos de vuelo y manejo de la nave con el Asistente de Vuelo apagado. Esta doctrina no está diseñada para uso con el Asistente de Vuelo encendido, puesto que interfiere con múltiples maniobras y detalles explicados en la doctrina misma.
 
@@ -17,7 +17,7 @@ Esta doctrina está centrada en un ciclo de combate en bucle, donde esencialment
 
 Esta doctrina permite también un enfoque mínimo en la gestión de los pips del Distribuidor de Energía puesto que la nave esta pensada en ser usada sin escudo, permitiendo así priorizar energía y atención en otros detalles o partes.
 
-# Ship Loadout
+# Configuración de Nave
 This doctrine centers itself around the Chieftain as its primary ship. The Challenger may also be used as a substitute with minor changes to its hardpoints. (Challenger build guide under construction) Ships such as the Krait MKII, Krait Phantom or FAS may also be used but due to the cheap entry cost of the Chieftain, its hard point layout and maneuverability, it is the primary focus for this doctrine.
 
 ## Core Internals
