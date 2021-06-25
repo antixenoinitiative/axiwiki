@@ -3,7 +3,7 @@ title: Equipements Recommandés
 description: Anti-Xeno Ship Builds
 published: true
 date: 2021-06-23T10:01:06.084Z
-tags: builds
+tags: équipement
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
 ---
@@ -18,15 +18,15 @@ Le combat de Thagoids requiert un équipent très spécialisé. En effet, les Th
 
 ## Types de Configurations
 
-Premièrement, il est à noter qu'il existe deux principaux types de vaisseaux Thargoids : les [**Eclaireurs Thargoids**](/en/scouts) et les [**Intercepteurs Thargoids**](/en/interceptors). Ces ennemis ayant des capacités et des mécaniques très différentes, il y aura plusieurs types d'équipement pour chacun d'entre eux.
+Premièrement, il est à noter qu'il existe deux principaux types de vaisseaux Thargoids : les [**Eclaireurs Thargoids**](/fr/scouts) et les [**Intercepteurs Thargoids**](/en/interceptors). Ces ennemis ayant des capacités et des mécaniques très différentes, il y aura des types d'équipements différents pour chacun d'entre eux.
 
 # Contre les Intercepteurs
 
-Les Intercepteurs Thargoids sont de très puissants ennemis d'une solidité remarquable; pour avoir une chance face à eux en combat, il faut un vaisseau tout aussi bon. A cause des dégâts invraissemblables infligés par les Intercepteurs, les possibilités sont restreintes à quelques styles d'équipements.
+Les Intercepteurs Thargoids sont de très puissants ennemis d'une solidité remarquable; pour avoir une chance face à eux en combat, il faut un vaisseau tout aussi performant. A cause des dégâts invraissemblables infligés par les Intercepteurs, les possibilités sont restreintes à quelques styles d'équipements.
 
 Voici les plus communs.
 
--   **Vaisseaux Rapides avec Boucliers** (Hybrides, Boucliers Entrelacés) - Vaisseaux rapides avec des boucliers qui se rechargnt vite. (Débutant)
+-   **Vaisseaux Rapides avec Boucliers** (Hybrides, Boucliers Entrelacés) - Vaisseaux rapides avec des boucliers qui se rechargent vite. (Débutant)
 
 -   **Vaisseaux Rapides sans Boucliers** (Orbiteurs Froids) - Vaisseaux rapides qui n'utilisent pas de bouclier mais des mécaniques de gestion de température et des maneuvres particulières pour éviter les dégâts. (Intermédiaire)
 
@@ -51,7 +51,7 @@ Type: **Hybride, Boucliers Entrelacés**
 - Maniabilité: ⭐⭐⭐
 - Boucliers:⭐⭐⭐⭐
 - Coque: ⭐⭐⭐
-- Puissance de feu: ⭐⭐⭐⭐
+- Puissance de Feu: ⭐⭐⭐⭐
 
 Recommandation: Meilleur choix possible pour un débutant en combat AX.
 
@@ -67,54 +67,54 @@ Note: Si cette configuration utilise l'effet expérimental Consommation Réduite
 
 #### **Alliance Chieftain (Avec Boucliers)**
 
-L'Alliance Chieftain, comme le Krait Mk.II, est un tres bon vaisseau AX. La puissance de feu du Chieftain est légèrement plus faible, mais il a la possibilité d'équiper un Rayon Laser avec l'effet expétimental Event Thermique. Cela permet aux pilotes de commencer à apprendre les techniques d'Orbite Froid. Bien plus maniable que le Krait Mk.II, cette configuration est idéale pour ceux qui souhaitent piloter le Chieftain Méta (orginalement sans boucliers) tout en gardant le confort des boucliers.
+L'Alliance Chieftain, comme le Krait Mk.II, est un tres bon vaisseau AX. La puissance de feu du Chieftain est légèrement plus faible, mais il a la possibilité d'équiper un Rayon Laser avec l'effet expérimental Event Thermique. Cela permet aux pilotes de commencer à apprendre les techniques d'Orbite Froid. Bien plus maniable que le Krait Mk.II, cette configuration est idéale pour ceux qui souhaitent piloter le Chieftain Méta (originalement sans boucliers) tout en gardant le confort des boucliers.
 
-Type: **Bi-Weave Hybrid**
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐⭐⭐
-- Shield: ⭐⭐
-- Armour:   ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐
+Type: **Hybride, Boucliers Entralacés**
+- Vitesse: ⭐⭐⭐⭐⭐
+- Maniabilité: ⭐⭐⭐⭐⭐
+- Boucliers: ⭐⭐
+- Coque:   ⭐⭐⭐⭐
+- Puissance de Feu: ⭐⭐⭐
 
-Recommendation: Good upgrade path for confident pilots. More potential in the long run.
+Recommandation: Bonne piste d'amélioration pour les pilotes confiants. Plus de potentiel sur le long terme.
 
-[Coriolis Shielded Build](https://s.orbis.zone/eua5)
+[Configuration avec Boucliers sur Coriolis](https://s.orbis.zone/eua5)
 
-[EDSY Shielded Build](https://edsy.org/s/vgDtxz2)
+[Configuration avec Boucliers sur EDSY](https://edsy.org/s/vgDtxz2)
 
-AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
+Passage en revue de l'Alliance Chieftain AX (en Anglais): [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
 
-### Imperial Cutter (Shielded)
+### Imperial Cutter (Avec Boucliers)
 
-#### **Imperial Cutter (Shielded)**
+#### **Imperial Cutter (Avec Boucliers)**
 
-If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
+L'Imperial Cutter est le choix à privilégier pour les amateurs de grands vaisseaux. Parmi tous les grands, le Cutter est le seul à être assez rapide pour distancer la plupart des Intercepteurs Thargoids. Le Cutter se base sur des boucliers prismatiques pour absorber de grandes quantités de dégâts. L'utilisation efficace du cutter nécessite des techniques expliquées dans le [Guide des Grands Vaisseaux Anti-Xéno](/fr/large-ship-guide).
 
-Type: **Shield Tank**
+Type: **Boucliers Lourds**
 
-- Speed: ⭐⭐⭐⭐
-- Agility: ⭐⭐
-- Shield: ⭐⭐⭐⭐⭐
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
+- Vitesse: ⭐⭐⭐⭐
+- Maniabilité: ⭐⭐
+- Boucliers:⭐⭐⭐⭐⭐
+- Coque:⭐⭐⭐⭐
+- Puissance de Feu:⭐⭐⭐⭐
 
-Recommendation: Different fighting style and generally very capable with weaker Interceptors. Becomes much harder for tougher variants.
+Recommandation: Style de combat différent et généralement très performant contre les intercepteurs les plus faibles. Devient bien plus diffficile contre les variantes plus puissantes.
 
-[Coriolis Shielded Build](https://s.orbis.zone/3wbf)
+[Configuration avec Boucliers sur Coriolis](https://s.orbis.zone/3wbf)
 
-[EDSY Shielded Build](https://is.gd/DgmHXb)
+[Configuration avec Boucliers sur EDSY](https://is.gd/DgmHXb)
 
-## Intermediate Builds
+## Vaisseaux pour Niveau Intermédiaire
 
-These builds are targeted at more experienced commanders, either those who have flown the above ships against Thargoids before or have prior PVP combat experience. These ships are generally more capable than the beginner builds, and are better suited for all variants of Interceptors. These builds are cold orbiters, which make use of Cold Orbiting to evade most damage and repair limpets repair hull damage sustained.
+Ces configurations sont destinées aux commandants plus avancés, qui ont déjà piloté les vaisseaux ci-dessus contre des Thargoids ou qui ont de l'expérience en combat PvP. Elles ont généralement plus de potentiel que celles pour débutants et sont adaptées pour toutes les variantes d'Intercepteurs. Ce sont des Orbiteurs Froids, qui utilisent la technique de l'Orbite Froid pour éviter la majeure partie des dégâts et des drones de réparation pour restaurer la coque éventuellement perdue.
 
-## Tabset {.tabset}
+## Liste {.tabset}
 
-### Alliance Chieftain (Unshielded)
+### Alliance Chieftain (Sans Boucliers)
 
-#### **Alliance Chieftain (Unshielded)**
+#### **Alliance Chieftain (Sans Boucliers)**
 
-The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-de-Lance in PVP. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
+L'Alliance Chieftain sans boucliers est le méta incontesté en combat AX, à l'image du Fer-de-Lance en PvP. Avec une coque solide, de l'espace de cargaison, une excellente maniabilité et une bonne puissance de feu, le Chieftain peut facilement effectuer un orbite froid tout en maintenant un feu de Canon de Gauss soutenu. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
 
 Type: **Cold**
 
