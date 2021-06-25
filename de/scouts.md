@@ -1,22 +1,22 @@
 ---
 title: Scouts
-description: About Thargoid Scouts
+description: Zu Thargoid Scouts
 published: true
 date: 2021-06-15T10:36:02.053Z
-tags: thargoids, scouts
+tags: Thargoids, Scouts
 editor: markdown
 dateCreated: 2021-06-15T10:36:00.013Z
 ---
 
 # Scouts
-!\[scouts.jpg\](/img/scouts.jpg =450x){.align-right}Scouts are a smaller Thargoid vessel and can be found in all types of Non-Human Signal Source. Scouts are immediately hostile and in groups can deal significant damage to an unprepared pilot. Scouts, unlike interceptors, have 77% resistance to human weapons, rather than 99%. This reduced damage resistance makes it possible to kill Scouts with human weapon systems, however specialized AX weapon systems are still far more effective and efficient than their human counterparts.
+!\[scouts.jpg\](/img/scouts.jpg =450x){.align-right}Scouts sind kleinere Thargoid Schiffe und können in jeder Art von nicht-menschlichen Signalquellen gefunden werden. Scouts greifen direkt an und können, solange sie in Gruppen sind einem nicht vorbereitetem Kommandanten viel Schaden zufügen. Scouts haben im Gegensatz zu Interceptors nur einen 77% Widerstand gegen Menschliche Waffen, statt 99%. Diese reduzierte Schadensresistenz, macht es möglich, Scouts mit menschlichen Waffen zu töten, allerdings sind AX spezialisierte Waffen dafür immer noch viel besser.
 
-# Variants
+# Varianten
 
-Thargoid scouts come in multiple variants, each with their own special abilities.
+Thargoid Scouts, gibt es in verschiedenen Varianten, jede von ihnen hat eigene Spezialfähigkeiten.
 
 ## Marauder
-Marauders are the basic variant of scout and the most common, They have a simple attack using a Basic Pulse Weapon and can also fire a simple Caustic missile.
+Marauders sind die grundlegende Variante der Scouts und auch die häufigste. Sie haben einen simplen Angriff, sie nutzen eine Basis-Puls-Waffe und können auch eine Caustic-Rakete abfeuern.
 
 ## Regenerator
 Regenerator variants are the same as the Marauder but have a special Regeneration pulse ability. The Regenerator may use this ability and apply a regeneration buff to all nearby scouts, rapidly regenerating their health. Regenerators will make an audible sound before using the attack and emit a green pulse. Regenerator variants will appear with a green coloration.
