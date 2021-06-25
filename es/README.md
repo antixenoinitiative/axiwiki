@@ -60,3 +60,22 @@ The GitHub repository will syncronize all changes (bi-directionally) with the AX
 ## Translation
 
 Translation is managed through Crowdin, translate pages here: https://crowdin.com/project/axiwiki
+
+### DNT List (Do Not Translate)
+The following terms should not be translated.
+
+**DNT (Do not translate)**
+- Thargoid
+- Cyclops
+- Basilisk
+- Medusa
+- Hydra
+- Inciter
+- Regenerator
+- Marauder
+- Berserker
+- CMDR
+
+Do NOT translate any of the links or their paths
+
+Eg: "/en/builds" is a file path reference, if you edit this, the link will break.
