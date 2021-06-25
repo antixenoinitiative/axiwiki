@@ -9,9 +9,9 @@ dateCreated: 2021-06-15T10:10:09.264Z
 ---
 
 # Thargoids
-!\[cyclops-small.png\](/img/Cyclops-small.png =250x){.align-right} *Die **Thargoids** sind eine nicht-humanoide Rasse mit einer feindseligen Geschichte gegenüber der Menschheit.*
+!\[cyclops-small.png\](/img/Cyclops-small.png =250x){.align-right} *Die **Thargoids** sind eine nicht-humanoide Rasse mit einer Geschichte der Feindseligkeit gegenüber der Menschheit.*
 
-*Die erste aufgezeichnete Begegnung mit einem Schiff der Thargoids fand im Jahr 2849 statt, obwohl noch frühere undokumentierte Begegnungen vermutet werden. In den folgenden Jahren wurde periodischer Kontakt mit vereinzelten Thargoid Schiffen berichtet.*
+*Die erste aufgezeichnete Begegnung mit einem Schiff der Thargoids fand im Jahr 2849 statt, obwohl noch frühere undokumentierte Begegnungen vermutet werden. In den folgenden Jahren wurde von periodischem Kontakt mit vereinzelten Thargoid Schiffen berichtet.*
 
 *Die Menschheit stieß im 32. Jahrhundert mit den Thargoiden zusammen, aber die Details des Konflikts blieben viele Jahre lang rar und es erwies sich als schwierig authentische Berichte von Thargoid Begegnungen von den sensationalistischen Mediengeschichten der damaligen Zeit zu unterscheiden.*
 
@@ -26,12 +26,12 @@ Thargoid [**Interceptors**](/en/interceptors) gibt es in vier Varianten: Cyclops
 
 Thargoid [**Scouts**](/en/scouts) sind eine kleinere Variante der Thargoid Intercepotors, es gibt sie in mehreren Typen mit verschiedenen Spezialfähigkeiten. Lies mehr dazu in der Thargoid [**Scouts**](/en/scouts) Sektion.
 
-Interceptors sind unglaublich robust und eignen sich in der Regel am besten zum Kampf im Geschwader, da sie alleine zu bekämpfen eine große Herausforderung ist. Interceptors use very high damage output weapons, crowd-control style special abilities and independent [**drones**](/en/thargon-swarms) to wreak havoc on the battlefield.
+Interceptors sind unglaublich robust und eignen sich in der Regel am besten zum Kampf im Geschwader, da es eine große Herausforderung ist sie alleine zu bekämpfen. Interceptors nutzen Waffen mit sehr großem Schadenspotenzial, dominierende Spezialfähigkeiten und unabhängige [**Dronen**](/en/thargon-swarms), um das Schlachtfeld zu verwüsten.
 
-Attempting to fight a Thargoid without the appropriate weaponry and defenses is nigh-impossible, Thargoid Interceptors have incredibly strong armour and fast regeneration capabilities, this makes conventional weapons (such as Multi-cannons, Missiles, Plasma Accelerators, Lasers) completely ineffective at damaging them.
+Der Versuch, einen Thargoid ohne entsprechende Waffen und Verteidigung zu bekämpfen, ist nahezu unmöglich, Thargoid Interceptors verfügen über eine unglaublich starke Resistenz und schnelle Regenerationsfähigkeiten. Dies macht konventionelle Waffen (wie Multi-Kanonen, Raketen, Plasma-Beschleuniger, Laser) völlig ineffektiv, um sie zu bekämpfen.
 
-Thankfully humanity has not only developed their own line of AX (Anti-Xeno) weaponry, but they have also adapted the ancient Guardian technology into very powerful hybrid weapons and modules that are far more effective at destroying Thargoid vessels.
+Glücklicherweise hat die Menschheit nicht nur eine eigene Reihe von AX (Anti-Xeno) Waffen entwickelt, sondern auch die uralte Guardiantechnologie für sehr mächtige Hybridwaffen adaptiert, die bei der Zerstörung von Thargoid Schiffen wesentlich effektiver sind.
 
-[**Read more about Interceptors**](/en/interceptors)
+[**Lies mehr zu den Interceptors**](/en/interceptors)
 
-[**Read more about Scouts**](/en/scouts)
+[**Lies mehr zu den Scouts**](/en/scouts)
