@@ -53,20 +53,20 @@ dateCreated: 2021-06-15T11:06:57.862Z
 ## Статистический Анализ Гипер-перехвата
 *Сделано КМДР Maligno - Canonn Research*
 
-При прыжке между Celaeno и Asterope было установлено, что коэффициент Гипер-перехвата - 20.7%. При переносе 16 едениц Мета-сплавов, частота Гипер-перехвата была измерена на уровне 21,6%, что является почти аналогичной статистикой с базовой. Мы можем с уверенностью заключить, что уровень Гипер-перехвата в основных системах Плеяд состовляет около 20%, и на это никак влияет перенос Мета-сплавов. [Update: additionally, hundreds of jumps were later carried out with 64 units of meta-alloys, which did not have an effect on the hyperdiction rate either]
+При прыжке между Celaeno и Asterope было установлено, что коэффициент Гипер-перехвата - 20.7%. При переносе 16 едениц Мета-сплавов, частота Гипер-перехвата была измерена на уровне 21,6%, что является почти аналогичной статистикой с базовой. Мы можем с уверенностью заключить, что уровень Гипер-перехвата в основных системах Плеяд состовляет около 20%, и на это никак не влияет перенос Мета-сплавов. [Обновление: кроме того, позже были совершенны сотни прыжков с 64 единицами Мета-сплавов, что так же не повлияло на частоту Гипер-перехватов]
 
-We now turn to the composition of Hyperdiction scenarios, that is, what sort of Interceptors are present to greet a pilot that has been Hyperdicted.  The table below shows the combinations of Interceptors that were observed in this study, sorted by Interceptor lethality.  A total of 13 unique combinations were observed.  [Update: the results below are the result of further documentation of another several hundred hyperdiction instances]
+Теперь мы переходим к составу сценариев Гипер-перехватов, то есть к какому виду Перехватчики относятся для приветствия пилота который был Гипер-перехвачен.  В таблице ниже показаны комбинации Перехватчиков которые были отмечены в данном исследовании, сортировка идёт по их летальности.  В общем было замечено 13 уникальных комбинаций.  [Обновление: результаты ниже являются результатами дальнейшей документации ещё нескольких сотен случаев Гипер-перехвата.
 
 !\[hyperanalysis.png\](/img/hyperanalysis.png =550x){.align-center}
 
-As expected, Hyperdiction containing only one or two Cyclopes are the most common, whereas those containing Hydras are far more rare. Of the 539 documented Hyperdictions, only 31 contained at least one Hydra, with 8 cases containing an additional 3 Basilisks and 7 cases containing an additional pair of Medusae. Currently the statistics in this study are sufficiently high that we can state with confidence that a single, unaccompanied Hydra is more common than one accompanied by other Interceptors. Judging from the data, it appears that 50% of the Hydra instances don’t have additional Interceptors, 25% have 3 Basilisks and another 25% have Medusae. The statistics are still too limited to judge if a Hydra accompanied by 2 Medusae is the rarer of the three possibilities. It is interesting to note that cases that have a Medusa as the ranking Interceptor have an analogous set of (less lethal) cohorts: one case with 3 Cyclopes and another with 2 Basilisks.
+Как и ожидалось, Гипер-перехваты которые содержат только одного или двух Циклопов более частые, наиболее редкие Гипер-перехваты которые содержат Гидры. Из 539 задокументированных Гипер-перехватов, только 31 из них содержали хотя бы одну Гидру, в 8 случаях они содержали 3 Василиска и в 7 случаях они содержали пару Медуз. В настоящее время статистические данные в этом исследовании очень точны, что мы с уверенностью можем сказать что одна Гидра без сопровождения встречается намного чаще, чем при сопровождении другими перехватчиками. Судя по данным, в 50% случаев с Гидрой не имеют дополнительных перехватчиков, 25% имеют 3 Василиска и другие 25% содержат медузу. Статистика по-прежнему слишком ограниченна для того, чтобы говорить о том что Гидра с двумя медузами являются более редкими из трёх возможностей. Интересно отметить то, что случаи имеющие Медузу как Перехватчик, имеют аналогичный набор (менее летальных) когорт: один случай с 3 Циклопами и другой с 2 Василисками.
 
-No instances with two Hydras or two (unaccompanied) Medusae were ever observed. It’s entirely possible that those combinations exist but are simply exceedingly rare and have therefore not been observed yet.
+Никаких случаев с двумя Гидрами или двумя (не сопровождаемыми) Медузами не наблюдались. Вполне возможно, что это комбинации существуют, но просто чрезвычайно редки и по-этому пока небыли обнаружены.
 
-Read the full report by CMDR Maligno here: [Study of Hyperdiction Statistics](https://canonn.science/codex/study-of-hyperdiction-statistics/)
+Читайте полный отчёт от КМДР Maligno здесь: [Исследование статистики Гипер-перехватов](https://canonn.science/codex/study-of-hyperdiction-statistics/)
 
-## Hyperdiction Combat Guide
+## Гайд по битвам после Гипер-перехвата
 
-CMDR Katie Byrne has put together a comprehensive guide on Hyperdictions.  Her advice is highly encouraged for those who want to test their skills against many Thargoid Interceptors.
+КМДР Katie Byrne подготовила подробный гайд по Гипер-перехватам.  Её советы очень воодушевлены теми, кто хочет протестировать свои навыки против мноигх Таргоидских перехватчиков.
 
-[Hyperdiction Combat Guide](https://youtu.be/MpC02cetBlY)
+[Гайд по битвам после Гипер-перехвата](https://youtu.be/MpC02cetBlY)
