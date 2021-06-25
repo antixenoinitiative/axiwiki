@@ -1,16 +1,16 @@
 ---
-title: Recommended Builds
-description: Anti-Xeno Ship Builds
-published: true
+title: Рекомендованные Сборки
+description: Сборки Кораблей для Анти-Ксено
+published: Опубликовано
 date: 2021-06-23T10:01:06.084Z
-tags: builds
+tags: сборки
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
 ---
 
 
-# Recommended Builds
-Thargoid Hunting requires specialised ship builds as Thargoids have special resistances and deal special damage types that will typically cause issues on any standard combat build. As such, we have put together the following guide to help you make the correct decisions to lead you towards building the most effective vessel for hunting down alien ships. These ship builds are designed to give you a balance of firepower and survivability, while also being forgiving enough to make a few mistakes.
+# Рекомендованный Сборки
+Охота на Таргоидов требует специально-собранные корабли, так как Таргоиды имеют специальные сопротивления и наносят особый урон, который обычно вызывает проблемы в любой боевой сборке. Поэтому мы объединили следующий гайд, чтобы помочь вам принять правильные решения, чтобы привести вас к построению наиболее эффективного корабля для охоты на инопланетные корабли. These ship builds are designed to give you a balance of firepower and survivability, while also being forgiving enough to make a few mistakes.
 
 > Please see our [Ship Build Theory](/en/shipbuildtheory) page for a more in-depth explanation behind the outfitting decisions. 
 > 
