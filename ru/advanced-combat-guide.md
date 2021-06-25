@@ -75,7 +75,7 @@ VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lv
 
 - The purpose of using a repair limpet controller instead of a shield generator is to allow commanders to repair their ship in case of a mistake. The Thargon swarm also does more phasing damage to ships that are shielded compared to those that are unshielded providing a bit of an advantage against the swarm and for power purposes of the ship. Synthesis of limpets may be needed dependent on damage received especially with the higher variants
 
-- The purpose of the 3x heat sinks (Ammo capacity) will allow a generous amount of heat sinks to achieve a cold orbit around any variant with experienced commanders using (per heart) 1-2 heat sinks against a cyclops, 2-3 against a Basilisk, 3-5 against a medusa, and allowing all 9 heat sinks for a Hydra.
+- The purpose of the 3x heat sinks (Ammo capacity) is to allow a generous amount of heat sinks to achieve a cold orbit around any variant with experienced commanders using (per heart) 1-2 heat sinks against a cyclops, 2-3 against a Basilisk, 3-5 against a medusa, and allowing all 12 heat sinks for a Hydra.
 
 - Inexperienced commanders will be granted a big buffer in heat sinks to allow them to have plenty of heat sinks on hand if mistakes are made allowing this doctrine to be forgiving.
 
