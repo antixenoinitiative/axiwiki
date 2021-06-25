@@ -1,6 +1,6 @@
 ---
-title: Beginners Guide to AX
-description: A walkthrough of the AXI wiki for beginners.
+title: Guide AX pour débutants
+description: Un guide pas à pas du wiki de l'AXi pour les débutants.
 published: true
 date: 2021-06-11T00:55:21.190Z
 tags: guide
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-06-11T00:55:18.207Z
 ---
 
-# Beginners Guide to AX
+# Guide AX pour débutants
 
 
-< Step by step guide for beginners linking to other pages and where to find information >
+< Guide pas à pas pour les débutants qui mène à d'autres pages et où trouver des informations >
