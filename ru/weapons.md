@@ -1,46 +1,46 @@
 ---
-title: Weapons
-description: Guardian weapons are the most effective AX weapons in the game (specifically the Guardian Gauss Cannon) with human AX weapons being mostly unusable.
-published: true
+title: Оружия
+description: Оружия Стражей являются наиболее эффективными АХ оружиями в игре (особенно Гаусс Стражей) в основном неприменимыми для всех видов АХ оружия человечества.
+published: Опубликовано
 date: 2021-06-15T04:13:36.575Z
-tags: outfitting, modules
+tags: аутфиттинг, модули
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
 ---
 
-# AX Weapons
-There are a multitude of different Anti-Xeno weapons in the game, and they come in two main variants:
+# АХ Оружия
+В игре есть достаточно много различных АХ оружий, их два основных варианта:
 
-- **Human AX Weapons** (AX Multi-Cannon, AX Missile Rack, Advanced Multi-Cannon, Advanced Missile Rack, Remote Release Flak Launcher)
-- **Guardian Weapons** (Guardian Gauss Cannon, Guardian Plasma Charger, Guardian Shard Cannon)
+- **Человеческое Анти-Ксено оружие** (АХ Многоствольное оружие, АХ Блок Ракет, Улучшенное Многоствольное оружие, Улучшенный Блок Ракет, Установка со снарядами дистанционного подрыва)
+- **Оружия Стражей** (Гаусс Стражей, Акселератор плазмы Стражей, Осколочное орудие Стражей)
 
-Guardian weapons are the most effective AX weapons in the game (specifically the Guardian Gauss Cannon) with human AX weapons being mostly unusable (with the exception of the Remote Release Flak Launcher).
+Оружия Стражей наиболее эффективные АХ оружия в игре (особенно Гаусс Стражей) в основном неприменимы с АХ оружием человечества (с исключением в виде Установки со снарядами с дистанционным подрывом).
 
-Some builds will also include Thermal Vent Beam Lasers which allow pilots to easily reduce ship heat and avoid significant amounts of Thargoid fire. For more information, see Cold Orbiting and [Lasers](/en/lasers).
+Некоторые аутфитты так же влючают пучковые лазеры с экспериментальным эффектом "Термальная вентиляция" которые позволяют пилотам легко уменьшать нагрев корабля и избежать значительного количества Таргоидского огня. Для большей информации см. Холодный орбитинг и [Лазеры](/en/lasers).
 
-For detailed stats on AX weapons, see the [AX Balance Research Spreadsheet](https://docs.google.com/spreadsheets/d/1kNZwBn16nYcrqpaua08VQb_ea3PF9SYcO-1IWivPZsA/edit#gid=1860633931)
+Подробную статистику АХ оружия можно посмотреть здесь: [Исследование баланса АХ](https://docs.google.com/spreadsheets/d/1kNZwBn16nYcrqpaua08VQb_ea3PF9SYcO-1IWivPZsA/edit#gid=1860633931)
 
 ![weaponsgraph.png](/img/weaponsgraph.png)
 
-## Remote Release Flak Launcher
+## Установка со снарядами дистанционного подрыва
 
-Currently the only effective weapon to deal with Thargon Swarms.
+В данный момент единственное эффективное оружие против Таргонского Роя.
 
-**Recommendation:** Must have! (Required to take out swarms)
+**Рекомендация** Мастхев! (Необходимо для уничтожения роя)
 
-Note: Does not count against the 4 experimental weapon limit.
+Внимание: Не учитывается в ограничении на 4 экспериментального оружия на один корабль.
 
-## Guardian Gauss Cannon
+## Пушка Гаусса Стражей
 
-Current undisputed AX meta. Guardian Gauss Cannons function like a Railgun with a short delay before firing. Heavy Armour Penetration means it is effective against even the toughest Thargoids. Coming in only small and medium classes, these allow a surprisingly even playing field between all ship classes. They have a maximum range of 3km and a damage falloff start of 1.5km, allowing for precision heart sniping at range. Its only downside is high heat generation which necessitates constant heatsink use.
+В данный момент неоспоримая мета АХ (лучшее из возможных оружий против таргоидов). Гауссы Стражей работают как Рельстроны с короткой задержкой перед выстрелом. Пенетрация тяжёлой брони означает что это оружие эффективно даже против самых жёстких Таргоидов. Доступна только в маленьком и среднем классе, это позволяет использовать их на множестве различных кораблях. Они имеют максимальную дистанцию выстрела в 3Км и уменьшение урона начинается на 1.5Км, что позволяет делать снайперские выстрелы по сердцам на достаточно большом расстоянии. Единственный недостаток такого оружия это огромное генерирование тепла, что заставляет использовать теплоотводы.
 
-**Recommendation:** Best AX weapon (Great armour penetration, High damage, Accurate)
+**Рекомендация:** Лучшее оружие AX (Хорошая пенетрация брони, Высокий урон, Точность)
 
-Note: When using Gauss Cannons, it is important to ensure your hardpoints have good Convergence
+Примечание: При использовании пушек Гаусса, важно убедиться что ваши оружейные гнёзда имели хорошее сведение
 
-## Guardian Shard Cannon
+## Осколочное Оружие Стражей
 
-Similar to a Frag Cannon, very wide spread with only around a 700m effective range which means to be used effectively the pilot must fly within lightning range. While a potent weapon for speedrunning, the requirement of firing from within lightning range means that they are ineffective otherwise.
+Аналогично Осколочному оружию людей, очень широкий разброс с максимальной дистанцией эффективного огня в 700 метров, что означает чтобы оно было использовано эффективно пилоту необходимо быть в этом радиусе. While a potent weapon for speedrunning, the requirement of firing from within lightning range means that they are ineffective otherwise.
 
 **Recommendation:** Do not use (Low effective range, Poor armour penetration)
 
