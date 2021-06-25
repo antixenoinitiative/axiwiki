@@ -1,5 +1,5 @@
 ---
-title: Recommended Builds
+title: Equipements Recommandés
 description: Anti-Xeno Ship Builds
 published: true
 date: 2021-06-23T10:01:06.084Z
@@ -9,16 +9,16 @@ dateCreated: 2021-06-08T12:52:54.657Z
 ---
 
 
-# Recommended Builds
-Thargoid Hunting requires specialised ship builds as Thargoids have special resistances and deal special damage types that will typically cause issues on any standard combat build. As such, we have put together the following guide to help you make the correct decisions to lead you towards building the most effective vessel for hunting down alien ships. These ship builds are designed to give you a balance of firepower and survivability, while also being forgiving enough to make a few mistakes.
+# Equipements Recommandés
+Le combat de Thagoids requiert un équipent très spécialisé. En effet, les Thargoids ont des résistances particulières et infligent certains types de dégâts qui posent des problèmes aux équipements de combat standard. Nous avons donc établi le guide ci-dessous pour vous aider à prendre les bonnes décisions et vous guider dans l'équipement du vaisseau de chasse aux Thargoids le plus efficace possible. Ces configurations ont été conçues pour être à l'équilibre entre puissance de feu et solidité, tout en restant assez souples pour encaisser quelques erreurs.
 
-> Please see our [Ship Build Theory](/en/shipbuildtheory) page for a more in-depth explanation behind the outfitting decisions. 
+> Vous pouvez vous réferrer à notre page sur la [Théorie pour l'Equipement de Vaisseaux](/en/shipbuildtheory) pour une explication plus en détail sur la logique derrière toutes ces propositions. 
 > 
 > {.is-info}
 
-## Ship Build Types
+## Types de Configurations
 
-Firstly, note there are two main types of Thargoid: **Thargoid Scouts** and **Thargoid Interceptors**. Since these enemies have very different mechanics and abilities, we will typically need a different type of build for each one.
+Premièrement, il est à noter qu'il existe deux principaux types de vaisseaux Thargoids : les [**Eclaireurs Thargoids**](/fr/scouts) et les [**Intercepteurs Thargoids**](/en/interceptors). Ces ennemis ayant des capacités et des mécaniques très différentes, il y aura plusieurs types d'équipement pour chacun d'entre eux.
 
 # Interceptor Builds
 
@@ -151,7 +151,7 @@ A collection of more advanced builds can be found on the Advanced Builds page.
 
 View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
 
-# Scout Builds
+# Contre les Eclaireurs
 Hunting scouts is a very efficient method to increase combat rank. This is because all scouts are considered elite targets and will give the best possible experience per kill. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
 
 These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. Keep in mind that there is a limit of 4 AX Weapons per vessel.
