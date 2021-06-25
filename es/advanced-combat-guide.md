@@ -1,5 +1,5 @@
 ---
-title: Advanced Combat Guide
+title: Guía de Combate Avanzada
 description: Based on the Odysseus Doctrine by CMDR Avasa Siuu
 published: true
 date: 2021-06-17T04:01:30.341Z
