@@ -17,7 +17,7 @@ Bei planetarischen Gefechten wird ein Interceptor keinen Schwarm einsetzen.
 **Der Thargon Schwarm verfügt über zwei Methoden, um Schaden zu Verursachen:**
 
 - **Kaustische Geschosse** die Schutzschilde schwer beschädigen, sie durchdringen und Schaden am Rumpf verursachen. Gegen Schutzschildlose Ziele sind diese Geschosse sehr ungenau und der Schwarm wird die meisten seiner Schüsse verfehlen. Die Wärmesignatur scheint ihre Genauigkeit nicht zu beeinflussen, aber deinen Flugvektor rapide zu verändern oder das Schiff zu rollen kann behilflich sein. Dieser kaustische Geschoss Angriff hat eine maximale Reichweite von etwa 2km. Ungeachtet des Namens, verursachen diese Geschosse keinen kaustischen Effekt, sondern Direktschaden von kaustischer Art, welcher von Widerständen, die Guardian Module geben können, beeinflusst wird.
-- **Kamikaze Flügkörper** die den Thargon selbst zerstören, aber massiven Rumpf- und Modulschaden verursachen. Die Flugkörper sind schnell (ca. 600m/s) aber kurzlebig. Gegen ein Schutzschildloses Ziel verursachen diese vernichtenden Schaden. Ein Schiff mit Schutzschilden und 4 Punkten in SYS sollte gegen solch eine Salve jedoch solide bestehen. Ohne Schutzschilde besteht die Gefahr, dass solch eine Salve Module, sogar trotz Guardian Modul Widerstände, sofort zerstört. Der durch die Flugkörperist verursachte Schaden ist anscheinden reiner Kollisionsschaden, da weder Synthese noch Neustarts unterbrochen werden. Dieser Angriff wird nur innerhalb von 3km und während Flugkörper-Formation des Schwarms ausgelöst.
+- **Kamikaze Flügkörper** die den Thargon selbst zerstören, aber massiven Rumpf- und Modulschaden verursachen. Die Flugkörper sind schnell (ca. 600m/s) aber kurzlebig. Gegen ein Schutzschildloses Ziel verursachen diese vernichtenden Schaden. Ein Schiff mit Schutzschilden und 4 Punkten in SYS sollte gegen solch eine Salve jedoch solide bestehen. Ohne Schutzschilde besteht die Gefahr, dass solch eine Salve Module, sogar trotz Guardian Modul Widerstände, sofort zerstört. Der durch die Flugkörper verursachte Schaden ist anscheinden reiner Kollisionsschaden, da weder Synthese noch Neustarts unterbrochen werden. Dieser Angriff wird nur innerhalb von 3km und während Flugkörper-Formation des Schwarms ausgelöst.
 
 Falls in den persönlichen Bereich (500m) eines nicht-agressiven Interceptors eingedrungen wird, wird dieser einen Warn-Schwarm freisetzen, rot leuchten und den Piloten bedrohen. Dieser Schwarm wird nicht sofort angreifen, sondern um den Interceptor kreisen, jederzeit bereit zum Angriff. Falls die Bedrohung weicht, ruft der Interceptor den Schwarm zurück und nimmt seine vorherige Beschäftigung wieder auf. Andernfalls löst sich der Schwarm und die Schlacht beginnt.
 
@@ -42,59 +42,59 @@ Schwärme nutzen eine Anzahl verschiedener Formationen, diese geben uns Anzeiche
 ## Kugel Formation
 ![embeddedimage_(1).png](/img/embeddedimage_(1).png) Links nach Rechts: Cyclops Kugel, Medusa Kugel
 
-Dies ist die einzige nicht-Flügkörper formation des Cyclopses, sie wird auch von anderen Verianten genutzt (durch die Auswahl fortgeschrittener Formationen aber nur selten). Die Formation ist die am einfachsten zu zerstörende, nur wenige gut platzierte Schüsse in den Mittelpunkt der Kugel.
+Dies ist die einzige nicht-Flügkörper formation des Cyclopses, sie wird auch von anderen Varianten genutzt (durch die Auswahl fortgeschrittener Formationen aber nur selten). Die Formation ist die am einfachsten zu zerstörende, nur wenige gut platzierte Schüsse in den Mittelpunkt der Kugel.
 
 
 ## Ring Formation
 ![embeddedimage_(2).png](/img/embeddedimage_(2).png) Links nach Rechts: Medusa Ring, Hydra Ring
 
-The dreaded ring formation is the preferred formation with the Medusae and Hydrae. It is significantly more difficult to destroy, with flak shells detonating in the center doing no damage whatsoever. Widely offset flak (such as on the Cutter’s wings) or manually aiming away from the reticle are necessary to deal with this form.
+Die gefürchtete Ring Formation ist die bevorzugte Formation der Medusa und Hydra. Sie ist deutlich schwerer zu zerstören, da mittig treffende Flak keinerlei Schaden verursacht. Um Schaden zu verursachen, muss de-zentral am am Ring selbst getroffen werden.
 
 
-## Cone/Spiral Formation
-![embeddedimage_(3).png](/img/embeddedimage_(3).png) Left to Right: Basilisk Cone, Medusa Cone
+## Kegel Formation
+![embeddedimage_(3).png](/img/embeddedimage_(3).png) Links nach Rechts: Basilisk Kegel, Medusa Kegel
 
-The Cone or Spiral formation is first used by the Basilisk and it is not uncommon with stronger variants. Much like the Ball formation, this one is easy to destroy, with only several shots at the tip of the spiral needed.
-
-
-## Death Wall Formation
-![embeddedimage_(4).png](/img/embeddedimage_(4).png) Left to Right: Cyclops Death Wall, Medusa Death Wall
-
-The Death Wall (Flat Spiral) is the Cyclops’ only missile formation, and it is also used by the other variants (though more rarely as they prefer their more advanced formations)
+Die Kegel Formation findet ab der Basilisk Variante Verwendung und ist auch bei stärkeren Varianten nicht unüblich. Wie auch bei der Kugel Formation, ist diese einfach zu zerstören. Einige mittige Schüsse in die Spitze des Kegels reichen schon aus.
 
 
-## Death Spiral Formation
-![embeddedimage_(5).png](/img/embeddedimage_(5).png) Left to Right: Basilisk Death Spiral, Hydra Death Spiral
+## Todeswellen Formation
+![embeddedimage_(4).png](/img/embeddedimage_(4).png) Links nach Rechts: Cyclops Todeswelle, Medusa Todeswelle
 
-The Death Spiral is a missile formation first used by the Basilisk, and it is not uncommon with stronger variants. Unlike the regular Cone/Spiral, this formation has a gap at the center so is more difficult to destroy. Flak shells detonating at the center will cause less damage (but still kill at least a few Thargons)
-
-
-## Ring of Death Formation
-![embeddedimage_(6).png](/img/embeddedimage_(6).png) Left to Right: Medusa Ring Of Death, Hydra Ring Of Death
-
-The Ring of Death is used commonly by the Medusa and Hydra, and attempting to destroy this ring is not recommended. It would cost too much time and ammunition - instead the missiles should be baited and the swarm destroyed in a simpler formation.
-
-# Advanced Mechanics
-## States
-The Thargon swarm can exist in one of two states. These states are independent of formations, and the only thing that triggers a state change is the swarm passing through a ship. We shall refer to these states as ‘Standard’ and ‘Agitated’.
-
-When a swarm is deployed, it is always in the Standard state. While in this state it will never enter a missile formation, **not even if the Interceptor is enraged**. In addition to this, a swarm deployed while an Interceptor is enraged is also initially in the Standard state. This state changes **only if the swarm passes through a ship**. (The state won’t change to Agitated for a short time after the swarm is released for a period of up to 30s, even if a ship boosts through the swarm).
-
-When the swarm passes through a ship it enters the Agitated state. This state is visually indistinguishable from the Standard state, but it differs in the fact that while in this state the swarm will periodically (every 20-30s) enter a missile formation. Missile formations are slower than the regular ones (360m/s as opposed to 500m/s), and a swarm will remain in missile formation indefinitely as long as it remains in range of the Interceptor, and until it deploys several missiles (usually 10-15% of the swarm’s maximum number). After deploying missiles it will revert to a random regular formation and remain in Agitated state. This state will only end if the swarm passes through a ship once more, or if the swarm is killed and a new one takes its place.
-
-## Maneuvers and counters
-A swarm can be kept in the Standard state for the entire duration of the fight. This means that agile ships such as the chieftain (particularly shieldless versions) can avoid using flak altogether. The low accuracy of the swarm’s caustic projectiles against shieldless targets combined with the lack of Thargon Missiles eliminates the threat that the swarm presents. If the swarm at any point enters an Agitated state, one can bait the missiles before boosting through the swarm, reverting it back to the Standard state.
-
-The easiest way to bait a swarm is to allow it to catch up (missile formation moves at around 360m/s when near firing range) and once it is within 3km missiles will begin to fire. Maintain distance of 2.9km reversing at around 300m/s and the missiles will expire before reaching you. Follow this up with a boost through the swarm after it reverts to a non-missile formation.
-
-[See this video for a visual example of how to bait the swarm.](https://youtu.be/kTBdvXzyYx8)
+Die Todeswelle (flache Spirale) ist die einzige Flugkörper Formation des Cyclopses and wird auch von stärkeren Varianten genutzt (durch die Auswahl fortgeschrittener Formationen aber nur selten).
 
 
-If the Interceptor is enraged, bring the swarm down to low numbers (15-30 Thargons) and attempt to maintain the Standard state. If the Agitated state is triggered, boost away and bait the swarm. Make sure to cause every single one of them to launch. Afterwards a new swarm in the Standard state will be launched.
+## Todesspiralen Formation
+![embeddedimage_(5).png](/img/embeddedimage_(5).png) Links nach Rechts: Basilisk Todesspirale, Hydra Todesspriale
+
+Die Todesspirale ist eine Flugkörper Formation und findet ab der Basilisk Variante Verwendung und ist auch bei stärkeren Varianten nicht unüblich. Anders als die normale Kegel Formation, hat diese Formation eine Lücke in der Mitte, was sie schwieriger zu zerstören macht. Mittig detonierende Flak ist deutlich ineffektiver (wird aber trotzdem noch einige Thargons zerstören).
+
+
+## Todesring Formation
+![embeddedimage_(6).png](/img/embeddedimage_(6).png) Links nach Rechts: Medusa Todesring, Hydra Todesring
+
+Die Todesring Formation wird von der Medusa und Hydra genutzt und ein Abschussversuch ist nicht empfohlen. Es würde zu viel Zeit und Munition verbrauchen - man sollte versuchen den Flugköper Angriff auszulösen und den Schwarm in simplerer Formation zu zerstören.
+
+# Fortgeschrittene Mechaniken
+## Zustand
+Der Thargon Schwarm kann in einem von zwei Zuständen sein. Dieser Status ist unabhängig von Formationen und das einzige was eine Änderung bewirkt, ist das Durchfliegen des Schwarms. Wir bezeichnen diese Zustände als Standard und Erregt.
+
+Wenn ein Schwarm freigesetzt wird, ist er immer im Standard Zustand. In diesem Zustand wird er niemals eine Flugkörper Formation annehmen, ** nicht mal während der Interceptor wütend ist**. Außerdem ist auch ein von einem wütendem Interceptor freigesetzter Schwarm anfangs im Standard Zustand. Dieser Zustand verändert sich **nur beim Durchfliegen des Schwarms**. (Der Zustand ändert sich in den ersten 30 Sekunden nach Freisetzung auch nicht wenn ein Schiff durch den Schwarm fliegt).
+
+When der Schwarm ein Schiff durchfliegt, tritt er in den erregten Zustand. Der Zustand ist visuel nicht zu erkennen, aber bringt den Schwarm dazu periodisch (alle 20-30s) eine Flugkörper Formation anzunehmen. Flugkörper Formationen sind langsamer (360m/s gegenüber 500m/s). Ein Schwarm wird in solange in Flugkörper Formation bleiben wie er in Reichweite des Interceptors bleibt und bis er mehrere Flugkörper Eingesetzt hat (normalerweise 10-15% des Schwarms). Nach dem Einsatz von Flugkörpern kehrt der Schwarm in Standard Formation zurück und bleibt in erregtem Zustand. Dieser Zustand endet nur mit dem erneutigen Durchfliegen des Schwarms, oder der Zerstörung des Schwarms.
+
+## Manöver und Gegenmaßnahmen
+Der Schwarm kann während des gesammten Kampfes in Standard Zustand gehalten werden. Dies bedeutet, dass agile Schiffe wie der Chieftain (vorallem Schutzschildlose Versionen) das nutzen von Flak komplett umgehen können. Die niedrige Genauigkeit der kaustischen Geschosse gegenüber Schutzschildlosen Zielen, kombiniert mit dem Fehlen von Thargon Flugkörpern eliminiert die Gefahr des Schwarms. Falls der Schwarm irgendwan erregt werden sollte, kann man den Einsatz von Flugkörpern auslösen bevor man den Schwarm durchfliegt, um den Schwarm in Standard Zustand zu führen.
+
+Der einfachste Weg einen Schwarm zu ködern, besteht darin, ihn aufholen zu lassen (Flugkörper Formationen bewegen sich mit 360m/s in Nähe zum Ziel). Sobald der Schwarm innerhalb von 3km ist wird der Abschuss von Flugkörpern ausgelöst. Behalte eine Distanz von ~2.9km während du um 300m/s rückwärts fliegst und die Flugkörper werden bevor sie dich erreichen erlöschen. Schließe das mit einem Schub durch den Schwarm ab, nachdem er eine nicht-Flugkörper Formation angenommen hat.
+
+[Sieh dir dieses Video als Beispiel zum Ködern und Auslösen des Schwarms an.](https://youtu.be/kTBdvXzyYx8)
+
+
+Falls der Interceptor wütend ist, reduziere den Schwarm zu einer niedrigen Stückzahl (15-30 Thargons) und versuche ihn in Standard Zustand beizubehalten. Falls der erregte Zustand ausgelöst wird, entferne dich mit Schub und ködere den Schwarm. Stelle sicher, dass jeder einzelne Flugkörper ausgelöst wird. Afterwards a new swarm in the Standard state will be launched.
 
 Also, should the swarm reach approximately 10km from the Thargoid, it will turn around and fly back to the Interceptor.
 
-## Switching Interceptor and Swarm Position
+## Wechseln der Position von Schwarm und Interceptor
 In some cases, such as when the player is too far away from the Interceptor when the swarm is released (beyond 6km), the swarm will stay behind the Interceptor and engaging it will be impossible without taking fire from the Interceptor. To switch their positions, boost past the Interceptor (but not directly at it). Its inertia will cause it to drift away but the swarm will make a much sharper turn.
 
 [See this video for a visual example of how to switch Interceptor and Swarm positions.](https://youtu.be/nvEDF6eI1z8)
