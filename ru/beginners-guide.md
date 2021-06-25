@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-06-11T00:55:18.207Z
 ---
 
-# Beginners Guide to AX
+# Гайд для начинающих в Анти-Ксено
 
 
-< Step by step guide for beginners linking to other pages and where to find information >
+< Пошаговый гайд для начинающих с ссылками на другие страницы и где найти информацию >
