@@ -10,7 +10,7 @@ dateCreated: 2021-06-08T12:52:54.657Z
 
 
 # Equipements Recommandés
-Le combat de Thagoids requiert un équipent très spécialisé. En effet, les Thargoids ont des résistances particulières et infligent certains types de dégâts qui posent des problèmes aux équipements de combat standard. Nous avons donc établi le guide ci-dessous pour vous aider à prendre les bonnes décisions et vous guider dans l'équipement du vaisseau de chasse aux Thargoids le plus efficace possible. Ces configurations ont été conçues pour être à l'équilibre entre puissance de feu et solidité, tout en restant assez souples pour encaisser quelques erreurs.
+Le combat de Thagoids requiert un équipement très spécialisé. En effet, les Thargoids ont des résistances particulières et infligent certains types de dégâts qui posent des problèmes aux vaisseaux de combat standard. Nous avons donc établi le guide ci-dessous pour vous aider à prendre les bonnes décisions et vous guider dans l'équipement du vaisseau de chasse aux Thargoids le plus efficace possible. Ces configurations ont été conçues pour être à l'équilibre entre puissance de feu et solidité, tout en restant assez souples pour encaisser quelques erreurs.
 
 > Vous pouvez vous réferrer à notre page sur la [Théorie pour l'Equipement de Vaisseaux](/en/shipbuildtheory) pour une explication plus en détail sur la logique derrière toutes ces propositions. 
 > 
