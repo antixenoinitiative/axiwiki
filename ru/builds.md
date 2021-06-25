@@ -106,59 +106,59 @@ Alliance Chieftain, как и Krait Mk.II, является очень мощн�
 
 ## Промежуточные Сборки
 
-Эти сборки предназначены для более опытных командиров, либо тех, кто протестировал вышеупомянутые корабли против Таргоидов, либо имеет предварительный ПВП опыт. These ships are generally more capable than the beginner builds, and are better suited for all variants of Interceptors. These builds are cold orbiters, which make use of Cold Orbiting to evade most damage and repair limpets repair hull damage sustained.
+Эти сборки предназначены для более опытных командиров, либо тех, кто протестировал вышеупомянутые корабли против Таргоидов, либо имеет предварительный ПВП опыт. Эти корабли обычно более способны, чем сборки для новичков, и лучше подходят для всех вариантов Перехватчиков. Эти сборки сделаны для холодного орбитинга, которые использую технику холодного орбитинга для уклонения от большинства урона, и ремонтные дроны для починки корпуса.
 
-## Tabset {.tabset}
+## Вкладки {.tabset}
 
-### Alliance Chieftain (Unshielded)
+### Alliance Chieftain (без Щита)
 
-#### **Alliance Chieftain (Unshielded)**
+#### **Alliance Chieftain (без Щита)**
 
-The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-de-Lance in PVP. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
+Alliance Chieftain без щита это бесспорная мета АХ, к примеру как Fed-De-Lance в ПВП. Имеет прочный корпус, место для груза, манёвренность, и огневой мощью, а так же без труда можно применить технику холодного орбитинга, сохраняя разрушительный огонь из гауссов. Его богатые орудийные гнёзда так же позволяют вместить 4 гаусса вместе с установкой со снарядами с дистанционным подрывом и пучковым лазером с теплоотдачей. Корабль из той же серии - Alliance Challenger, наносит больше урона и корпуса за цену в скорости.
 
-Type: **Cold**
+Тип: **Холодный**
 
-Speed: ⭐⭐⭐⭐⭐ Agility: ⭐⭐⭐⭐⭐ Shield: Armour: ⭐⭐⭐⭐ Firepower: ⭐⭐⭐
+Скорость: ⭐⭐⭐⭐⭐ Манёвренность: ⭐⭐⭐⭐⭐ Щит: Броня: ⭐⭐⭐⭐ Огневая мощь: ⭐⭐⭐
 
-Recommendation: Unarguably the best ship and build style for AX combat.
+Рекомендация: Несомненно, лучший корабль и построение стиля для АХ боёв.
 
-[Coriolis Meta Shieldless Build](https://s.orbis.zone/eu9w)
+[Сборка без Щита в Coriolis](https://s.orbis.zone/eu9w)
 
-[EDSY Meta Shieldless Build](https://edsy.org/s/vwJ9Lqq)
+[Сборка без Щита в EDSY](https://edsy.org/s/vwJ9Lqq)
 
-AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
-### Krait Mk.II (Unshielded)
+Видео обзор АХ Chieftain: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
+### Krait Mk.II (без Щита)
 
-#### **Krait Mk.II (Unshielded)**
+#### **Krait Mk.II (без Щита)**
 
-A shieldless version of the beginner Krait MK.II. The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive power plant also allows it to idle under 20% heat, which allows for cold approaches without a heatsink or thermal vent beam.
+Версия Krait Mk.II без щита для новичков. Krait без щитов, но не такой манёвренный, как Chieftain, но обеспечивай больший урон. Массивная силовая установка у Krait так же позволяет держать нагрев корабля ниже 20% в спокойном состоянии, что позволяет использовать холодные подходы без теплоотвода или пучкового лазера с теплоотдачей.
 
-Type: **Cold Orbiter**
+Тип: **Холодный Орбитер**
 
-Speed: ⭐⭐⭐⭐⭐ Agility: ⭐⭐⭐ Shield:     
-Armour: ⭐⭐⭐⭐ Firepower: ⭐⭐⭐⭐⭐
+Скорость: ⭐⭐⭐⭐⭐ Манёвренность: ⭐⭐⭐ Щит:     
+Броня: ⭐⭐⭐⭐ Огневая Мощь: ⭐⭐⭐⭐⭐
 
-Recommendation: A great upgrade from the shielded build
+Рекомендация: Отличное продвижение со сборок с щитом
 
-[Coriolis Shieldless Build](https://s.orbis.zone/eu9v)
+[Сборка без Щита в Coriolis](https://s.orbis.zone/eu9v)
 
-[EDSY Shieldless Build](https://edsy.org/s/vtQUkCk)
+[Сборка без Щита в EDSY](https://edsy.org/s/vtQUkCk)
 
-AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
+Видео обзор АХ Krait Mk.II: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
-## Advanced Builds
-A collection of more advanced builds can be found on the Advanced Builds page.
+## Продвинутые Сборки
+Коллекция более продвинутых сборок можно найти на странице Продвинутых Сборок.
 
-View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
+Просмотреть ещё больше сборок кораблей можно посетив наше [Хранилище Сборок Кораблей](/en/buildrepository), а так же полная статистика, рейтинги и ссылки на сборку.
 
-# Scout Builds
-Hunting scouts is a very efficient method to increase combat rank. This is because all scouts are considered elite targets and will give the best possible experience per kill. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
+# Сборки против Разведчиков
+Охота на разведчиков это очень эффективный способ повышения боевого ранга. Это потому что все разведчики считаются элитными целями и дадут максимально возможный опыт за убийство. Из-за **77% сопротивления** к человеческому оружия очень неэффективно использовать против них обычное оружие. Из-за непредсказуемости полёта разведчиков, мы настоятельно рекомендуем использование Больших АИ Многоствольных орудий на Турельной установке, так как они самое эффективное оружие для охоты на разведчиков.
 
-These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. Keep in mind that there is a limit of 4 AX Weapons per vessel.
+Они лучше всего подходят для этого, так как на них не влияет сопротивление в 77%, они могут почти всегда быть нацелены на разведчиков и очень эффективны по боезапасу. Помните, что существует лимит в 4 экспериментальных (АХ) оружия на один корабль.
 
-## Extra Modules Suggested
-- **Decontamination Limpet Controller (and Cargo Racks)** - For when hit by caustic missiles.
-- **Xeno Scanner (optional)** - Lets you see scout health %.
+## Дополнительные Предложенные Модули
+- **Контроллер Дронов-Очистителей (и грузовые стеллажи)** - При попадании в вас Ракеты с Едким веществом.
+- **Сканер "Инопланетянин" (Необязательно)** - Позволяет видеть здоровье разведчика в %.
 - **Hull Reinforcements** - Scouts deal phasing damage which will damage you through shields, you will require both heavy Shields AND Hull.
 
 Ultimately, due to the simple nature of scout hunting, almost any ship can be retrofitted for the task quite easily. A simple rule of thumb is….
