@@ -76,11 +76,11 @@ Die Todesring Formation wird von der Medusa und Hydra genutzt und ein Abschussve
 
 # Fortgeschrittene Mechaniken
 ## Zustand
-Der Thargon Schwarm kann in einem von zwei Zuständen sein. Dieser Status ist unabhängig von Formationen und das einzige was eine Änderung bewirkt, ist das Durchfliegen des Schwarms. Wir bezeichnen diese Zustände als Standard und Erregt.
+Der Thargon Schwarm kann in einem von zwei Zuständen sein. Dieser Status ist unabhängig von Formationen und das einzige was eine Änderung bewirkt, ist das Durchfliegen des Schwarmes. Wir bezeichnen diese Zustände als Standard und Erregt.
 
 Wenn ein Schwarm freigesetzt wird, ist er immer im Standard Zustand. In diesem Zustand wird er niemals eine Flugkörper Formation annehmen, ** nicht mal während der Interceptor wütend ist**. Außerdem ist auch ein von einem wütendem Interceptor freigesetzter Schwarm anfangs im Standard Zustand. Dieser Zustand verändert sich **nur beim Durchfliegen des Schwarms**. (Der Zustand ändert sich in den ersten 30 Sekunden nach Freisetzung auch nicht wenn ein Schiff durch den Schwarm fliegt).
 
-When der Schwarm ein Schiff durchfliegt, tritt er in den erregten Zustand. Der Zustand ist visuel nicht zu erkennen, aber bringt den Schwarm dazu periodisch (alle 20-30s) eine Flugkörper Formation anzunehmen. Flugkörper Formationen sind langsamer (360m/s gegenüber 500m/s). Ein Schwarm wird in solange in Flugkörper Formation bleiben wie er in Reichweite des Interceptors bleibt und bis er mehrere Flugkörper Eingesetzt hat (normalerweise 10-15% des Schwarms). Nach dem Einsatz von Flugkörpern kehrt der Schwarm in Standard Formation zurück und bleibt in erregtem Zustand. Dieser Zustand endet nur mit dem erneutigen Durchfliegen des Schwarms, oder der Zerstörung des Schwarms.
+Wenn der Schwarm ein Schiff durchfliegt, tritt er in den erregten Zustand. Der Zustand ist visuel nicht zu erkennen, aber bringt den Schwarm dazu periodisch (alle 20-30s) eine Flugkörper Formation anzunehmen. Flugkörper Formationen sind langsamer (360m/s gegenüber 500m/s). Ein Schwarm wird in solange in Flugkörper Formation bleiben wie er in Reichweite des Interceptors bleibt und bis er mehrere Flugkörper Eingesetzt hat (normalerweise 10-15% des Schwarms). Nach dem Einsatz von Flugkörpern kehrt der Schwarm in Standard Formation zurück und bleibt in erregtem Zustand. Dieser Zustand endet nur mit dem erneutigen Durchfliegen des Schwarms, oder der Zerstörung des Schwarms.
 
 ## Manöver und Gegenmaßnahmen
 Der Schwarm kann während des gesammten Kampfes in Standard Zustand gehalten werden. Dies bedeutet, dass agile Schiffe wie der Chieftain (vorallem Schutzschildlose Versionen) das nutzen von Flak komplett umgehen können. Die niedrige Genauigkeit der kaustischen Geschosse gegenüber Schutzschildlosen Zielen, kombiniert mit dem Fehlen von Thargon Flugkörpern eliminiert die Gefahr des Schwarms. Falls der Schwarm irgendwan erregt werden sollte, kann man den Einsatz von Flugkörpern auslösen bevor man den Schwarm durchfliegt, um den Schwarm in Standard Zustand zu führen.
@@ -90,11 +90,11 @@ Der einfachste Weg einen Schwarm zu ködern, besteht darin, ihn aufholen zu lass
 [Sieh dir dieses Video als Beispiel zum Ködern und Auslösen des Schwarms an.](https://youtu.be/kTBdvXzyYx8)
 
 
-Falls der Interceptor wütend ist, reduziere den Schwarm zu einer niedrigen Stückzahl (15-30 Thargons) und versuche ihn in Standard Zustand beizubehalten. Falls der erregte Zustand ausgelöst wird, entferne dich mit Schub und ködere den Schwarm. Stelle sicher, dass jeder einzelne Flugkörper ausgelöst wird. Afterwards a new swarm in the Standard state will be launched.
+Falls der Interceptor wütend ist, reduziere den Schwarm zu einer niedrigen Stückzahl (15-30 Thargons) und versuche ihn in Standard Zustand beizubehalten. Falls der erregte Zustand ausgelöst wird, entferne dich mit Schub und ködere den Schwarm. Stelle sicher, dass jeder einzelne Flugkörper ausgelöst wird. Anschließend wird ein neuer Schwarm in Standard Zustand vom Interceptor freigesetzt.
 
-Also, should the swarm reach approximately 10km from the Thargoid, it will turn around and fly back to the Interceptor.
+Wichtig, sollte der Schwarm einen Abstand von ~10km vom Interceptor erreichen, wird er umdrehen und zurückkehren.
 
-## Wechseln der Position von Schwarm und Interceptor
-In some cases, such as when the player is too far away from the Interceptor when the swarm is released (beyond 6km), the swarm will stay behind the Interceptor and engaging it will be impossible without taking fire from the Interceptor. To switch their positions, boost past the Interceptor (but not directly at it). Its inertia will cause it to drift away but the swarm will make a much sharper turn.
+## Interceptor- und Schwarmposition wechseln
+In einigen Fällen, zum Beispiel, wenn der Spieler zu weit vom Interceptor entfernt ist (über 6 km), bleibt der Schwarm nach Freilassung hinter dem Interceptor und es wird unmöglich ihn ohne Gegenfeuer des Interceptors zu bekämpfen. Ziehe mit Schub am Interceptor vorbei (aber nicht direkt auf ihn zu), um ihre Positionen zu wechseln. Während der Interceptor durch seine Trägheit vorbeidriftet, wird der Schwarm eine wesentlich engere Kurve schlagen.
 
-[See this video for a visual example of how to switch Interceptor and Swarm positions.](https://youtu.be/nvEDF6eI1z8)
+[Sieh dir dieses Video als Beispiel dazu an, wie man die Interceptor- und Schwarmposition wechselt.](https://youtu.be/nvEDF6eI1z8)
