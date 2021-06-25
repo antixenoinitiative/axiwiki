@@ -32,9 +32,9 @@ Du möchtest Teil des Projekts **Wiki der Anti-Xeno Initiative** werden? Werde M
 
 # Credits
 
-A big thanks to our content and development team! ❤️
+Ein großes Dankeschön an unser Content- und Entwicklungsteam! ❤️
 
-**Content Creators**
+**Inhaltsersteller**
 - CMDR Aranionros Stormrage
 - CMDR Mechan
 - CMDR Aterius
@@ -42,15 +42,15 @@ A big thanks to our content and development team! ❤️
 - CMDR Avasa Siuu
 - CMDR Maligno
 
-**Translators**
+**Übersetzer**
 - CMDR alterNERDtive
 - CMDR Trex63
 - CMDR Xarionn
 - CMDR St4n2012
 - CMDR Trebiscotti
 
-**Developers**
+**Entwickler**
 - CMDR Willhof
 - CMDR Sanctified
 
-And to everyone else in the Anti-Xeno Initiative who has helped make this project possible!
+Und an alle anderen in der Anti-Xeno-Initiative, die dazu beigetragen haben, dieses Projekt zu ermöglichen!
