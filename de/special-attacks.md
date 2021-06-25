@@ -18,7 +18,7 @@ Different special attacks will occur after destroying each heart on a Thargoid i
 !\[attack_pattern.png\](/img/attack_pattern.png =550x){.align-center}
 
 ## Blitz
-Nach der Zerstörung des ersten Herzens, wird der Interceptor anfangen seinen Blitz zu verwenden wenn man sich ihm auf 800 m nähert, dieser verursacht schweren Schaden am Schild und macht einen manövrierunfähig. Although your engines may still somewhat function, for a small period of time after the attack, you will struggle to build up speed as your ship will be under a **braking** effect, FA-OFF does not cancel out this effect.
+Nach der Zerstörung des ersten Herzens, wird der Interceptor anfangen seinen Blitz zu verwenden wenn man sich ihm auf 800 m nähert, dieser verursacht schweren Schaden am Schild und macht einen manövrierunfähig. Obwohl die Schubdüsen vielleicht noch funktionieren werden, wird für eine bestimmte Zeit ein <strong x-id=“1“>abbremsender</strong> Effekt wirken, FA-OFF hebt diesen Effekt nicht auf.
 
 ## Caustic Missiles
 After the second heart, the interceptor will use caustic missiles, which are slow-moving (~350 m/s) missiles that applies a **permanent DoT (damage over time)** on your hull. Caustic Damage can be removed by bringing your heat above 180% for several seconds, or to 250% for instant removal, or by using a decontamination limpet. To achieve these temperatures, you can use SCBs, firing gauss cannons, or if you can afford to drop shields, using silent running.
