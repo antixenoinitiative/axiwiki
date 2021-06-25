@@ -118,57 +118,64 @@ L'Alliance Chieftain sans boucliers est le méta incontesté en combat AX, à l'
 
 Type: **Orbiteur Froid**
 
-Vitesse: ⭐⭐⭐⭐⭐ Maniabilite: ⭐⭐⭐⭐⭐ Boucliers: Coque: ⭐⭐⭐⭐ Puissance de Feu: ⭐⭐⭐
+- Speed: ⭐⭐⭐⭐⭐
+- Agility: ⭐⭐⭐⭐⭐
+- Shield:
+- Armour: ⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐
 
-Recommandation: Incontestablement les meilleurs vaisseau et type de configuration pour le combat AX.
+Recommendation: Unarguably the best ship and build style for AX combat.
 
-[Configuration méta sans Boucliers sur Coriolis](https://s.orbis.zone/eu9w)
+[Coriolis Meta Shieldless Build](https://s.orbis.zone/eu9w)
 
-[Configuration Méta sans Boucliers sur EDSY](https://edsy.org/s/vwJ9Lqq)
+[EDSY Meta Shieldless Build](https://edsy.org/s/vwJ9Lqq)
 
-Passage en revue de l'Alliance Chieftain AX (en Anglais): [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
+AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
 ### Krait Mk.II (Sans Boucliers)
 
 #### **Krait Mk.II (Sans Boucliers)**
 
-Une version sans boucliers du Krait Mk.II pour débutant. S'il n'est pas aussi maniable que le Chieftain, le Krait sans boucliers inflige de plus gros dégâts. Son Immense générateur lui permet d'être à moins de 20% de température au ralenti, ce qui permet une approche froide sans Dissipateur Thermique ou Laser à Event Thermique.
+A shieldless version of the beginner Krait MK.II. The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive power plant also allows it to idle under 20% heat, which allows for cold approaches without a heatsink or thermal vent beam.
 
-Type: **Orbiteur Froid**
+Type: **Cold Orbiter**
 
-Vitesse: ⭐⭐⭐⭐⭐ Maniabilité: ⭐⭐⭐ Boucliers:     
-Coque: ⭐⭐⭐⭐ Puissance de Feu: ⭐⭐⭐⭐⭐
+- Speed: ⭐⭐⭐⭐⭐
+- Agility: ⭐⭐⭐
+- Shield:
+- Armour: ⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐⭐
 
-Recommandation: Une très bonne amélioration de la configuration avec boucliers.
+Recommendation: A great upgrade from the shielded build.
 
-[Configuration sans Boucliers sur Coriolis](https://s.orbis.zone/eu9v)
+[Coriolis Shieldless Build](https://s.orbis.zone/eu9v)
 
-[Configuration sans Boucliers sur EDSY](https://edsy.org/s/vtQUkCk)
+[EDSY Shieldless Build](https://edsy.org/s/vtQUkCk)
 
-Passage en revue du Krait Mk.II AX (en Anglais): [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
+AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
 ## Configurations Avancées
-Un ensemble de configurations plus avancées se trouve sur la page des Configurations Avancées.
+A collection of more advanced builds can be found on the Advanced Builds page.
 
-D'autres possibilités se trouvent dans notre [Dépôt de Configurations](/en/buildrepository), une collection d'équipements conçus et approuvés par des pilotes de l'AXI accompagnés de statistiques complètes, notes et liens vers les configurations.
+View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
 
 # Contre les Eclaireurs
-La chasse aux éclaireurs est une méthode très efficace pour faire monter le rang de combat. En effet, les éclaireurs sont considerés comme des cibles de rang Vétéran ou Létal et donneront beaucoup d'expérience par victime. A cause de leur **résistance à 77%** aux armes humaines, il est très inefficace d'utiliser des armes ordinaires contre eux. Au vu de leur vol erratique et imprévisible, il est recommandé d'utiliser de grands Multi-Canons Anti-Xéno en tourelle pour les détruire.
+Hunting scouts is a very efficient method to increase combat rank. This is because all scouts are considered dangerous or deadly targets and will give a lot of experience per kill. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
 
-Ils ne sont pas affectés par la résistance à 77% , peuvent activement suivre leur cible, et ont une faible consommation de munitions, ce qui en fait les plus efficaces. Attention, il y a une limite de 4 armes AX par vaisseau.
+These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. Keep in mind that there is a limit of 4 AX Weapons per vessel.
 
 ## Modules Supplémentaires Suggérés
-- **Contrôleur de Drone de Décontamination (et Soute)** - Utiles quand vous êtes touchés par des missiles caustiques.
-- **Scanner Xéno (optionnel)** - Permet de voir le pourcentage de coque des éclaireurs.
-- **Renforts de Coque** - Les éclaireurs infligent des dégâts phasés qui endommagent la coque au travers des boucliers, il faut donc des boucliers ET une coque solides.
+- **Decontamination Limpet Controller (and Cargo Racks)** - For when hit by caustic missiles.
+- **Xeno Scanner (optional)** - Lets you see scout health %.
+- **Hull Reinforcements** - Scouts deal phasing damage which will damage you through shields, you will require both heavy Shields AND Hull.
 
-La chasse aux éclaireurs étant assez simple, presque tous les vaisseaux pouvent être rééquipés pour la tâche assez facilement. Un principe simple à respecter:
+Ultimately, due to the simple nature of scout hunting, almost any ship can be retrofitted for the task quite easily. A simple rule of thumb is….
 
-- Coque Correcte
-- Boucliers Corrects
-- Beaucoup de Multi-Canons AX
-- Drones de Décontamination
+- Decent Hull
+- Decent Shields
+- Lots of AX Multi-Cannons
+- Decontamination Limpets
 
-Et c'est parti !
+And you’re good to go!
 
 ## Configurations Anti-Eclaireurs
 
@@ -176,15 +183,15 @@ Et c'est parti !
 
 ### Anaconda
 
-[**Configuration de l'Anaconda sur Coriolis**](https://coriolis.io/outfit/anaconda?code=A2putpFklndzsxf5x3x3x3x32828252502xs040404040404B05n5n2dy32d2d2d2b03m72G08.AwRj4yuzRI%3D%3D.Aw18ZXEA.H4sIAAAAAAAAA42Tv0tCURTHjz%2FL%2FPH0%2BetpmlaaYBA2BkJTEFHgENVYu0NDgYhDLdEYDU0N%2FgltNTg2NjQ2iLNDQ4SElJ3TOY%2B8kBDcB%2B%2FLge%2Fnnnvved8HOAUA3x6W0TWLv%2BMECJ4FACIHXJkPfoDCwAFADlxXZItl%2BtEHYFQ%2FiBJtg30nJpR%2FwmLUvohi1ogoLr7VdwEsXkaZdGFakQ0hC59E9k6xVpzJLjvkxtUxZDRe2X%2FqEZEHq2rpOYtPls6IzIssBJCoeJwEWKpEuIkXj8a4GS4BrGwOiFLbWbYCuK868QvlGvxe194%2FJfiyCAW1yRDu%2FSG9u%2B9ExlWfT%2F%2FSJbIO3%2FgKhna7MBaFdAklg7OvkLFHaOKGanIrI5KlZuWUm8hnyb2EGIrqQDEdKK4DJXSgpA5k4Y6C6ixOSZH3zs3xXONpRHoscSELHU4vpXBrPKfRBYujzaG0Q2U9s1%2FKS%2FKGQ559WpucxbI6wo38F%2FdchvIZ3l0qUyJdkIqy2uTcJFlXZF2RUlFOm8xPkk1FNhUpFRH8%2B%2FwAJZhA2wUEAAA%3D.EweloBhBmUEYBsICmBDA5gG2SEcIEhTFA%3D%3D%3D&bn=AX%20Conda)
-- Peut équiper 4 Multi-Canons AX
-- Les tourelles sont bien placées
-- Peut être équipé de boucliers puissants ainsi que de survolteurs pour du farm sans souci
+[**Anaconda Coriolis Build**](https://coriolis.io/outfit/anaconda?code=A2putpFklndzsxf5x3x3x3x32828252502xs040404040404B05n5n2dy32d2d2d2b03m72G08.AwRj4yuzRI%3D%3D.Aw18ZXEA.H4sIAAAAAAAAA42Tv0tCURTHjz%2FL%2FPH0%2BetpmlaaYBA2BkJTEFHgENVYu0NDgYhDLdEYDU0N%2FgltNTg2NjQ2iLNDQ4SElJ3TOY%2B8kBDcB%2B%2FLge%2Fnnnvved8HOAUA3x6W0TWLv%2BMECJ4FACIHXJkPfoDCwAFADlxXZItl%2BtEHYFQ%2FiBJtg30nJpR%2FwmLUvohi1ogoLr7VdwEsXkaZdGFakQ0hC59E9k6xVpzJLjvkxtUxZDRe2X%2FqEZEHq2rpOYtPls6IzIssBJCoeJwEWKpEuIkXj8a4GS4BrGwOiFLbWbYCuK868QvlGvxe194%2FJfiyCAW1yRDu%2FSG9u%2B9ExlWfT%2F%2FSJbIO3%2FgKhna7MBaFdAklg7OvkLFHaOKGanIrI5KlZuWUm8hnyb2EGIrqQDEdKK4DJXSgpA5k4Y6C6ixOSZH3zs3xXONpRHoscSELHU4vpXBrPKfRBYujzaG0Q2U9s1%2FKS%2FKGQ559WpucxbI6wo38F%2FdchvIZ3l0qUyJdkIqy2uTcJFlXZF2RUlFOm8xPkk1FNhUpFRH8%2B%2FwAJZhA2wUEAAA%3D.EweloBhBmUEYBsICmBDA5gG2SEcIEhTFA%3D%3D%3D&bn=AX%20Conda)
+- Can fit all 4x AX Multi-Cannons in large hardpoints
+- Has good angles for turreted Multi-Cannons
+- Can be fitted with large shields and boosters for worry-free farming
 
 ### Krait Mk.II
 
-[**Configuration du Krait Mk.II sur Coriolis**](https://coriolis.io/outfit/krait_mkii?code=A2pptkFflfdussf5x3x3x3x10sxs040404B12d2dy303292H2G08.Iw18eQ%3D%3D.IwBj4yoo.H4sIAAAAAAAAA43Rv0vDcBAF8Nc0rdbGpkmb0oq%2FjQodio5d3AQHhW466iodFRwUdHMu4uTgn%2BAg6NBROjs6iIiTo0MnrXfeFT2wUzM8Htwn%2BSYX0AiA75REryWRbTvA%2BKkHBDvSwvssEHcTACdozeSJxGjji9l%2FrQGlG1fkozyIHSoZOpDwFRXLPebo2gfK70lg4bwgMkkTJo9Uxp%2FM%2FeOKx5HIZ5mwS6uKXJ3vfsj89o2ZU1S3W88kMh4xj10EwJy2eW2L2pa0cZr2%2FniYXwZqG13myuaUjDzatidNS1Qb%2BP3m%2FvkV5ZyjdUNX%2BiY6ClcOBT1kgJmnnCB%2FGJQfBgW0ZWhfwtHtpXXF2bpsL3iRiFTGbd14SFXjl%2FoD76TmZidFagt17bE2LgzKpsmmSW1cGpQdkx2T2pjx%2F%2FoBomHYA08CAAA%3D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%3D%3D&bn=AX%20Krait)
-- Peut équiper 3 Multi-Canons AX sur des grands points d'emport et 1 sur un emplacement moyen
-- Alternativement, peut équiper 2 Multi-Canons AX sur des grands points d'emport et 2 Canons de Gauss Guardian dans les emplacements moyens (permet de pratiquer la visée au Gauss et devient plus efficace pour les pliotes qui visent bien)
-- Forte mobilité pour garder les cibles à distance ou sortir du combat
-- La mobilité permet de s'éloigner du combat pour recharger les Boucliers Entrelacés rapidement
+[**Krait Mk.II Coriolis Build**](https://coriolis.io/outfit/krait_mkii?code=A2pptkFflfdussf5x3x3x3x10sxs040404B12d2dy303292H2G08.Iw18eQ%3D%3D.IwBj4yoo.H4sIAAAAAAAAA43Rv0vDcBAF8Nc0rdbGpkmb0oq%2FjQodio5d3AQHhW466iodFRwUdHMu4uTgn%2BAg6NBROjs6iIiTo0MnrXfeFT2wUzM8Htwn%2BSYX0AiA75REryWRbTvA%2BKkHBDvSwvssEHcTACdozeSJxGjji9l%2FrQGlG1fkozyIHSoZOpDwFRXLPebo2gfK70lg4bwgMkkTJo9Uxp%2FM%2FeOKx5HIZ5mwS6uKXJ3vfsj89o2ZU1S3W88kMh4xj10EwJy2eW2L2pa0cZr2%2FniYXwZqG13myuaUjDzatidNS1Qb%2BP3m%2FvkV5ZyjdUNX%2BiY6ClcOBT1kgJmnnCB%2FGJQfBgW0ZWhfwtHtpXXF2bpsL3iRiFTGbd14SFXjl%2FoD76TmZidFagt17bE2LgzKpsmmSW1cGpQdkx2T2pjx%2F%2FoBomHYA08CAAA%3D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%3D%3D&bn=AX%20Krait)
+- Can fit 3x AX Multi-Cannons in large hardpoints and 1x AX Multi-Cannon in a medium slot
+- Alternatively can fit 2x AX Multi-Cannons in large hardpoints, and 2x Guardian Gauss Cannons in the medium hardpoints (allows for Gauss aim practice and becomes more effective once the user is proficient with Gauss)
+- High mobility to keep targets in range or disengage.
+- Mobility allows for use of Bi-Weave shields, disengaging for shield regen.
