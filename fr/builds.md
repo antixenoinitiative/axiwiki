@@ -18,7 +18,7 @@ Le combat de Thagoids requiert un équipent très spécialisé. En effet, les Th
 
 ## Types de Configurations
 
-Premièrement, il est à noter qu'il existe deux principaux types de vaisseaux Thargoids : les [**Eclaireurs Thargoids**](/fr/scouts) et les [**Intercepteurs Thargoids**](/en/interceptors). Ces ennemis ayant des capacités et des mécaniques très différentes, il y aura plusieurs types d'équipement pour chacun d'entre eux.
+Premièrement, il est à noter qu'il existe deux principaux types de vaisseaux Thargoids : les [**Eclaireurs Thargoids**](/en/scouts) et les [**Intercepteurs Thargoids**](/en/interceptors). Ces ennemis ayant des capacités et des mécaniques très différentes, il y aura plusieurs types d'équipement pour chacun d'entre eux.
 
 # Contre les Intercepteurs
 
@@ -35,7 +35,7 @@ Voici les plus communs.
 
 ## Vaisseaux pour Débutants
 
-Ces configurations utilisent toutes des boucliers pour permettre un style de combat plus familier, tout en étant équipées pour effectuer un orbite froid. Les vaisseaux équippés de boucliers, grâce à leur facilité d'usage contre les variantes Cyclop et Basilisk, sont recommandés pour les débutants en combat AX. Ils se divisent en deux catégories: les Hybrides avec Boucliers Entrelacés, qui utilisent les techniques d'Orbite Froid mais ont les boucliers comme sécurité, et les Tanks avec Boucliers Lourds qui s'appuient sur des valeurs gigantesques de boucliers bruts pour se maintenir en vie.
+Ces configurations utilisent toutes des boucliers pour permettre un style de combat plus familier, tout en étant équipées pour effectuer un orbite froid. Les vaisseaux équippés de boucliers, grâce à leur facilité d'usage contre les variantes Cyclops et Basilisk, sont recommandés pour les débutants en combat AX. Ils se divisent en deux catégories: les Hybrides avec Boucliers Entrelacés, qui utilisent les techniques d'Orbite Froid mais ont les boucliers comme sécurité, et les Tanks avec Boucliers Lourds qui s'appuient sur des valeurs gigantesques de boucliers bruts pour se maintenir en vie.
 
 ## Liste {.tabset}
 
@@ -61,13 +61,13 @@ Recommandation: Meilleur choix possible pour un débutant en combat AX.
 
 Passage en revue du Krait Mk.II AX (en Anglais): [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
-Note: While this build uses Lo-Draw on the shields, Fast Charge experimental is also a great option that requires more pip management but faster recharge.
+Note: Si cette configuration utilise l'effet expérimental Consommation Réduite sur les boucliers, Charge Rapide est également une très bonne option qui offre un rechargement plus rapide mais demande plus de gestion des pips.
 
-### Alliance Chieftain (Shielded)
+### Alliance Chieftain (Avec Boucliers)
 
-#### **Alliance Chieftain (Shielded)**
+#### **Alliance Chieftain (Avec Boucliers)**
 
-The Alliance Chieftain, similar to the Krait Mk.II is a very capable AX Ship. The Chieftain has slightly lower overall firepower but is able to equip a Thermal Vent Beam laser allowing pilots to begin to learn cold orbiting techniques. Much more agile than the Krait Mk.II, this build is perfect for people looking to fly the meta shieldless Chieftain but still want the comfort of shields.
+L'Alliance Chieftain, comme le Krait Mk.II, est un tres bon vaisseau AX. La puissance de feu du Chieftain est légèrement plus faible, mais il a la possibilité d'équiper un Rayon Laser avec l'effet expétimental Event Thermique. Cela permet aux pilotes de commencer à apprendre les techniques d'Orbite Froid. Bien plus maniable que le Krait Mk.II, cette configuration est idéale pour ceux qui souhaitent piloter le Chieftain Méta (orginalement sans boucliers) tout en gardant le confort des boucliers.
 
 Type: **Bi-Weave Hybrid**
 - Speed: ⭐⭐⭐⭐⭐
