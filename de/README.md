@@ -61,10 +61,10 @@ Das GitHub-Repository synchronisiert alle 5 Minuten alle Änderungen (bidirektio
 
 Übersetzung wird verwaltet über Crowdin, hilf uns beim übersetzen der Seiten via: https://crowdin.com/project/axiwiki
 
-### DNT List (Do Not Translate)
-The following terms should not be translated.
+### DNT Liste (Do Not Translate (nicht übersetzen))
+Die folgenden Begriffe sollten nicht übersetzt werden.
 
-**DNT (Do not translate)**
+**DNT (Do Not Translate)**
 - Thargoid
 - Cyclops
 - Basilisk
@@ -76,6 +76,6 @@ The following terms should not be translated.
 - Berserker
 - CMDR
 
-Do NOT translate any of the links or their paths
+Keine der Links oder deren Pfade übersetzen
 
-Eg: "/en/builds" is a file path reference, if you edit this, the link will break.
+Eg: "/en/builds" ist eine file path reference, wenn du dies übersetzt geht der Link kaputt.
