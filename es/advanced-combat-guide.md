@@ -8,14 +8,14 @@ editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
-# Advanced Thargoid Combat Guide
-The purpose of this doctrine is to introduce new or veteran commanders to a specific fighting style and ship build that works against all four Thargoid Interceptor variants. The entry cost of this doctrine is designed to be as minimal as possible to allow any commander the ability to engage in Thargoid Interceptor combat against any of the variants. The tactics and maneuvers involved also carry over through all four Interceptor variants with only one additional maneuver needed for Basilisks due to their speed.
+# Guía avanzada de combate Thargoid
+El propósito de esta doctrina es introducir comandantes tanto nuevos como veteranos a estilos de combate específicos y configuraciones de nave que funcionen eficazmente contra las cuatro variantes de interceptores Thargoid. The entry cost of this doctrine is designed to be as minimal as possible to allow any commander the ability to engage in Thargoid Interceptor combat against any of the variants. The tactics and maneuvers involved also carry over through all four Interceptor variants with only one additional maneuver needed for Basilisks due to their speed.
 
-For this doctrine to be effective a commander must have a basic understanding of flying with flight assist off. This doctrine is not designed for flight assist on combat, since it would interfere with many maneuvers within this doctrine.
+Para garantizar la eficacia de esta doctrina el comandante debe tener conocimientos básicos de vuelo y manejo de la nave con el Asistente de Vuelo apagado. Esta doctrina no está diseñada para uso con el Asistente de Vuelo encendido, puesto que interfiere con múltiples maniobras y detalles explicados en la doctrina misma.
 
-This doctrine is centered around a combat loop - essentially you are repeating the same tactics for all hearts (Save for the initial engagement) allowing any commander to refine their abilities in the specific motions of this doctrine.
+Esta doctrina está centrada en un ciclo de combate en bucle, donde esencialmente se repetirán las mismas tácticas y maniobras para todos los corazones (a excepción del primero) permitiendo así a cualquier comandante refinar sus habilidades en los específicos aspectos y puntos de esta doctrina.
 
-This doctrine also allows for minimal focus on pip management due to the fact that it concerns flying without a shield, allowing you to set your power priorities and focus elsewhere.
+Esta doctrina permite también un enfoque mínimo en la gestión de los pips del Distribuidor de Energía puesto que la nave esta pensada en ser usada sin escudo, permitiendo así priorizar energía y atención en otros detalles o partes.
 
 # Ship Loadout
 This doctrine centers itself around the Chieftain as its primary ship. The Challenger may also be used as a substitute with minor changes to its hardpoints. (Challenger build guide under construction) Ships such as the Krait MKII, Krait Phantom or FAS may also be used but due to the cheap entry cost of the Chieftain, its hard point layout and maneuverability, it is the primary focus for this doctrine.
