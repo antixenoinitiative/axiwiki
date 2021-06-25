@@ -1,15 +1,15 @@
 ---
-title: Scouts
-description: About Thargoid Scouts
+title: Éclaireurs
+description: À propos des éclaireurs Thargoids
 published: true
 date: 2021-06-15T10:36:02.053Z
-tags: thargoids, scouts
+tags: thargoids, éclaireurs
 editor: markdown
 dateCreated: 2021-06-15T10:36:00.013Z
 ---
 
-# Scouts
-!\[scouts.jpg\](/img/scouts.jpg =450x){.align-right}Scouts are a smaller Thargoid vessel and can be found in all types of Non-Human Signal Source. Scouts are immediately hostile and in groups can deal significant damage to an unprepared pilot. Scouts, unlike interceptors, have 77% resistance to human weapons, rather than 99%. This reduced damage resistance makes it possible to kill Scouts with human weapon systems, however specialized AX weapon systems are still far more effective and efficient than their human counterparts.
+# Éclaireurs
+!\[scouts.jpg\](/img/scouts.jpg =450x){.align-right}Les éclaireurs sont un type de vaisseau Thargoid plus petit et peuvent se trouver dans tous les types de Sources de Signal Non Humaines. Les éclaireurs sont immédiatement hostiles et en groupe peuvent causer des dommages importants à un pilote non préparé. Les éclaireurs, contrairement aux intercepteurs, ont 77% de résistance aux armes humaines, au lieu de 99%. Cette résistance aux dégâts réduite permet de tuer les éclaireurs avec les systèmes d'armes humaines, Cependant, les systèmes d'armes spécialisés AX sont bien plus efficaces que leurs homologues humains.
 
 # Variants
 
