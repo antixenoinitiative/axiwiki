@@ -9,40 +9,40 @@ dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
 # Guide de combat thargoïd avancé
-Le but de cette doctrine est d'introduire des nouveaux commandants ou des vétérans à un style de combat spécifique et aux configurations de vaisseau qui fonctionnent contre les quatre variantes d'intercepteurs thargoïd. Le coût d'entrée de cette doctrine est conçu pour être le plus petit possible pour permettre à tout les commandants de se lancer dans le combat contre n'importe laquelle des variantes d'intercepteur thargoid. The tactics and maneuvers involved also carry over through all four Interceptor variants with only one additional maneuver needed for Basilisks due to their speed.
+Le but de cette doctrine est d'introduire des nouveaux commandants ou des vétérans à un style de combat spécifique et aux configurations de vaisseau qui fonctionnent contre les quatre variantes d'intercepteurs thargoïd. Le coût d'entrée de cette doctrine est conçu pour être le plus petit possible pour permettre à tout les commandants de se lancer dans le combat contre n'importe laquelle des variantes d'intercepteur thargoid. Les tactiques et les manœuvres impliquées servent pour les quatre variantes d'intercepteur, avec une seule manœuvre supplémentaire nécessaire pour les Basilisks en raison de leur vitesse.
 
-For this doctrine to be effective a commander must have a basic understanding of flying with flight assist off. This doctrine is not designed for flight assist on combat, since it would interfere with many maneuvers within this doctrine.
+Pour que cette doctrine soit efficace, un commandant doit avoir une compréhension de base du pilotage sans assistance de vol. Cette doctrine n'est pas conçue pour les combats avec assistance de vol, car cela interférerait avec de nombreuses manœuvres abordées dans cette doctrine.
 
-This doctrine is centered around a combat loop - essentially you are repeating the same tactics for all hearts (Save for the initial engagement) allowing any commander to refine their abilities in the specific motions of this doctrine.
+Cette doctrine est centrée autour d'une boucle de combat - vous répétez essentiellement les mêmes tactiques pour tous les cœurs (sauf pour l'engagement initial), ce qui permet à n'importe quel commandant d'affiner ses capacités à effectuer les mouvements spécifiques de cette doctrine.
 
-This doctrine also allows for minimal focus on pip management due to the fact that it concerns flying without a shield, allowing you to set your power priorities and focus elsewhere.
+Cette doctrine permet également de se concentrer le moins possible sur la gestion des pips car elle concerne le vol sans bouclier, ce qui vous permet d'établir vos priorités de puissance sur le répartiteur puis de vous concentrer ailleurs.
 
-# Ship Loadout
-This doctrine centers itself around the Chieftain as its primary ship. The Challenger may also be used as a substitute with minor changes to its hardpoints. (Challenger build guide under construction) Ships such as the Krait MKII, Krait Phantom or FAS may also be used but due to the cheap entry cost of the Chieftain, its hard point layout and maneuverability, it is the primary focus for this doctrine.
+# Configuration du vaisseau
+Cette doctrine se concentre sur le Chieftain comme vaisseau principal. Le Challenger peut également être utilisé comme substitut avec des modifications mineures de ses points d'emport. (Guide de construction de Challenger en construction) Des vaisseaux tels que le Krait MKII, le Krait Phantom ou le FAS peuvent également être utilisés mais en raison du coût bon marché du Chieftain, de sa disposition de points d'emport et de sa manœuvrabilité, ce sera la priorité principale de cette doctrine.
 
-## Core Internals
-- Military Grade Composite (Heavy Duty/Deep Plate)
-- 6A Power Plant (Armored/Thermal Spread)
-- 6A Thrusters (Dirty/Drag Drives)
-- 5A Frame Shift Drive (Any class/modification optional depending on commander)
-- 5A Life Support (Lightweight optional)
-- 6A Power Distributor (Charge Enhanced/Super Conduits)
-- 4D Sensors (Long range optional)
-- 4C Fuel Tank
+## Modules internes principaux
+- Composite de grade militaire (Lourd / épais)
+- 6A Générateur (Générateur blindé / Répartition thermique)
+- 6A Propulseurs (Optimisation de réacteur détériorante/débridage des réacteurs)
+- 5A Réacteur FSD (n'importe quelle classe/modification optionnelle selon le commandant)
+- 5A Système de survie (léger optionnel)
+- 6A Répartiteur de Puissance (Rapide/Super Conduits)
+- 4D Capteurs (Longue portée optionnel)
+- 4C Réservoir de carburant
 
-## Optional Internals
-- 5D Repair Limpet Controller
-- 5D Hull Reinforcement Package (Heavy Duty/Deep Plate)
-- 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate)
-- 4D Module Reinforcement Package
-- 2D Guardian Module Reinforcement Package
-- 2E Cargo rack
-- 1A Auto Field-Management Unit
+## Modules internes optionnels
+- 5D Contrôleur de drones réparateurs
+- 5D Renforts de coque (Lourd/épais)
+- 4D Renforts de coque x3 (Lourd/épais)
+- 4D Renforts de modules
+- 2D Renforts de module guardien
+- 2E Compartiments de soute
+- 1A Unité de maintenance
 
-## Hardpoints
-- 2B Guardian Gauss Cannons x2 (Fitted in the 2 Large Slots)
-- 2B Remote Release Flak Launcher (Medium Slot)
-- 1D Guardian Gauss Cannons x2 (Fitted in the two small slots to the left and right of the hull)
+## Points d'emport
+- 2B Canon de gauss gardien x2 (placés sur les deux emplacements larges)
+- 2B Lanceur antiaérien déclenché a distance (emplacement moyen)
+- 1D Canon de gauss gardien x2 (placés sur les deux petits emplacements à gauche et à droite de la coque)
 - 1G Beam Laser (Long Range/Thermal Vent fitted in the small middle weapon slot)
 
 ## Utility
