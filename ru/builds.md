@@ -10,103 +10,103 @@ dateCreated: 2021-06-08T12:52:54.657Z
 
 
 # Рекомендованный Сборки
-Охота на Таргоидов требует специально-собранные корабли, так как Таргоиды имеют специальные сопротивления и наносят особый урон, который обычно вызывает проблемы в любой боевой сборке. Поэтому мы объединили следующий гайд, чтобы помочь вам принять правильные решения, чтобы привести вас к построению наиболее эффективного корабля для охоты на инопланетные корабли. These ship builds are designed to give you a balance of firepower and survivability, while also being forgiving enough to make a few mistakes.
+Охота на Таргоидов требует специально-собранные корабли, так как Таргоиды имеют специальные сопротивления и наносят особый урон, который обычно вызывает проблемы в любой боевой сборке. Поэтому мы объединили следующий гайд, чтобы помочь вам принять правильные решения, чтобы привести вас к построению наиболее эффективного корабля для охоты на инопланетные корабли. Эти сборки предназначены для того, чтобы дать вам баланс огневой мощи и выживаемости, а так же достаточно простительных, чтобы можно было сделать несколько ошибок.
 
-> Please see our [Ship Build Theory](/en/shipbuildtheory) page for a more in-depth explanation behind the outfitting decisions. 
+> Пожалуйста, прочитайте нашу страницу [Теория сборки кораблей](/en/shipbuildtheory) для более глубокого объяснения подходящих решений. 
 > 
 > {.is-info}
 
-## Ship Build Types
+## Типы Сборок Кораблей
 
-Firstly, note there are two main types of Thargoid: **Thargoid Scouts** and **Thargoid Interceptors**. Since these enemies have very different mechanics and abilities, we will typically need a different type of build for each one.
+Во-первых, обратите внимания на два основных типа Таргоидов: **Таргоидские Разведчики (Скауты)** и **Таргоидские Перехватчики**. Так как эти враги имеют разные механики и способности, обычно нам нужен разный тип сборки корабля для каждого из них.
 
-# Interceptor Builds
+# Сборки против Перехватчиков
 
-Thargoid Interceptors are very tough and powerful enemies that will require equally strong ships to be able to stand a chance in combat. Due to the incredibly high damage output of Thargoid Interceptors, there are only a handful of different styles and methods you can use effectively.
+Таргоидские Перехватчики очень жёсткие и сильные враги, которые потребует не менее сильных кораблей, чтобы иметь шанс в бою. Из-за невероятно высокого урона Таргоидских Перехватчиков, существует лишь несколько различных стилей и методов, которые вы можете использовать эффективно.
 
-These are the most common types of builds used for Anti-Xeno Combat.
+Это наиболее распространённые типы сборок, используемые в Анти-Ксено боях.
 
--   **Fast Shielded Builds** (Bi-Weave Hybrids) - Ships with good speed and small shields that regenerate quickly (Beginner)
+-   **Быстрые Сборки с Щитом** (Двухпоточные Гибриды) - Корабли с хорошей скоростью и слабыми щитами которые быстро регенерируют (Для начинающих)
 
--   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage (Moderate)
+-   **Быстрые Сборки без Щита** (Холодные Орбитеры) - Быстрые корабли у которых нет щита и которые используют холодную механику для избежания урона (Для закалённых)
 
--   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically (Moderate/Advanced)
+-   **Медленные Сборки с Щитом** (Щилдтанки или Щитовые Танки) - Медленные корабли с мощными щитами, которые периодически используют перезагрузку для регенерации щитов (Для закалённых/продвинутых)
 
 
-## Beginner Builds
+## Сборки для Начинающих
 
-These builds all utilize shields to provide a more familiar style of combat, while also being equipped for cold orbiting techniques. If you are looking to ease into AX combat, shielded builds are recommended because of their ease of use on Cyclops and Basilisk variant Interceptors. These ships fall under two categories: Bi-Weave Hybrids, which make use of Cold Orbiting techniques but provide shields as a backup, and Shield Tanks, which rely on massive raw shield MJ to keep them alive.
+Все эти сборки имеют щиты для предоставления более привычного стиля боя, а так же оснащены для техники холодного орбитинга. Если вы ищете простоту в АХ боях, сборки с щитом рекомендованы для вас из-за их простоты в использовании против Циклопа или Василиска. Эти корабли подразделяются на две категории: Двухпоточные Гибриды, которые используют технику Холодного Орбитинга, но используют щиты на случай провала. И Щитовые Танки, которые используют мощный щит для поддержания целостности корпуса.
 
-## Tabset {.tabset}
+## Вкладки {.tabset}
 
-### Krait Mk.II (Shielded)
+### Krait Mk.II (с Щитом)
 
-#### **Krait Mk.II (Shielded)**
+#### **Krait Mk.II (с Щитом)**
 
-The most commonly recommended and best all-round AX ship for anyone interested in killing Thargoids, the Krait Mk.II has enough firepower to kill the tougher interceptors while also having enough shields and hull to be able to recover from a few mistakes. A very capable AX vessel, although the shielded version can only go so far.
+Чаще всего рекомендуемый и лучший универсальный корабль для всех, кто интересуется убийством Таргоидов является Krait Mk.II. Он имеет достаточно огневой мощи для убийства жестчайших Перехватчиков, а так же достаточно щитов чтобы иметь возможность преодолеть несколько ошибок. Очень способный АХ корабль, хотя только версия с щитами может зайти далеко.
 
-Type: **Bi-Weave Hybrid**
+Тип: **Двухпоточный Гибрид**
 
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐
-- Shield: ⭐⭐⭐⭐
-- Armour: ⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
+- Скорость: ⭐⭐⭐⭐⭐
+- Маневренность: ⭐⭐⭐
+- Щит: ⭐⭐⭐⭐
+- Броня: ⭐⭐⭐
+- Огневая мощь: ⭐⭐⭐⭐
 
-Recommendation: Best starting ship for new pilots in AX.
+Рекомендация: Лучший начальный корабль для новичков в АХ.
 
-[Coriolis Shielded Build](https://s.orbis.zone/f8l4)
+[Сборка с Щитом в Coriolis](https://s.orbis.zone/f8l4)
 
-[EDSY Shielded Build](https://edsy.org/s/vbLKqFW)
+[Сборка с щитом в EDSY](https://edsy.org/s/vbLKqFW)
 
-AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
+Видео обзор АХ Krait Mk.II: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
-Note: While this build uses Lo-Draw on the shields, Fast Charge experimental is also a great option that requires more pip management but faster recharge.
+Примечание: Хотя эта сборка использует экспериментальный эффект Пониженное потребление на щитах, Быстрый заряд тоже является хорошим выбором который требует большего управления пипками, но быстро перезаряжается.
 
-### Alliance Chieftain (Shielded)
+### Alliance Chieftain (с Щитом)
 
-#### **Alliance Chieftain (Shielded)**
+#### **Alliance Chieftain (с Щитом)**
 
-The Alliance Chieftain, similar to the Krait Mk.II is a very capable AX Ship. The Chieftain has slightly lower overall firepower but is able to equip a Thermal Vent Beam laser allowing pilots to begin to learn cold orbiting techniques. Much more agile than the Krait Mk.II, this build is perfect for people looking to fly the meta shieldless Chieftain but still want the comfort of shields.
+Alliance Chieftain, как и Krait Mk.II, является очень мощным АХ кораблём. Chieftain имеет немного пониженную огневую мощь, но способен вместить Пучковый лазер с экспериментальным эффектом "Теплоотдача" позволяющий пилотам начать изучать технику холодного орбитинга. Гораздо более манёвренен чем Krait Mk.II, эта сборка идеальна для людей которые ищут мета-Chieftain без щитов, но всё же хотят комфорта щитов.
 
-Type: **Bi-Weave Hybrid**
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐⭐⭐
-- Shield: ⭐⭐
-- Armour:   ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐
+Тип: **Двухпоточный Гибрид**
+- Скорость: ⭐⭐⭐⭐⭐
+- Маневренность: ⭐⭐⭐⭐⭐
+- Щит: ⭐⭐
+- Броня: ⭐⭐⭐⭐
+- Огневая мощь: ⭐⭐⭐
 
-Recommendation: Good upgrade path for confident pilots. More potential in the long run.
+Рекомендация: Хороший путь совершенствования для уверенных пилотов. Больше потенциала в долгом бою.
 
-[Coriolis Shielded Build](https://s.orbis.zone/eua5)
+[Сборка с Щитом в Coriolis](https://s.orbis.zone/eua5)
 
-[EDSY Shielded Build](https://edsy.org/s/vgDtxz2)
+[Сборка с Щитом в EDSY](https://edsy.org/s/vgDtxz2)
 
-AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
+Видео обзор АХ Chieftain: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
 
 ### Imperial Cutter (Shielded)
 
 #### **Imperial Cutter (Shielded)**
 
-If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
+Если вы предпочитаете летать на больших кораблях - Imperial Cutter рекомендованный корабль. Из всех больших кораблей, Cutter является единственным, способным эффективно уничтожать большинство Таргоидских Перехватчиков. Cutter основывается на Призматических щитах для тарана, который наносит большое количества урона. Если вы собираетесь использовать Cutter, мы рекомендуем прочитать Гайд по Большим Анти-Ксено Кораблям.
 
-Type: **Shield Tank**
+Тип: **Щитовой Танк**
 
-- Speed: ⭐⭐⭐⭐
-- Agility: ⭐⭐
-- Shield: ⭐⭐⭐⭐⭐
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
+- Скорость: ⭐⭐⭐⭐
+- Манёвренность: ⭐⭐
+- Щит: ⭐⭐⭐⭐⭐
+- Броня: ⭐⭐⭐⭐
+- Огневая мощь: ⭐⭐⭐⭐
 
-Recommendation: Different fighting style and generally very capable with weaker Interceptors. Becomes much harder for tougher variants.
+Рекомендация: Разный стиль боя и, как правило, очень способный с более слабыми Перехватчиками. Становится намного труднее для более жёстких вариантов.
 
-[Coriolis Shielded Build](https://s.orbis.zone/3wbf)
+[Сборка с Щитом в Coriolis](https://s.orbis.zone/3wbf)
 
-[EDSY Shielded Build](https://is.gd/DgmHXb)
+[Сборка с Щитом в EDSY](https://is.gd/DgmHXb)
 
-## Intermediate Builds
+## Промежуточные Сборки
 
-These builds are targeted at more experienced commanders, either those who have flown the above ships against Thargoids before or have prior PVP combat experience. These ships are generally more capable than the beginner builds, and are better suited for all variants of Interceptors. These builds are cold orbiters, which make use of Cold Orbiting to evade most damage and repair limpets repair hull damage sustained.
+Эти сборки предназначены для более опытных командиров, либо тех, кто протестировал вышеупомянутые корабли против Таргоидов, либо имеет предварительный ПВП опыт. These ships are generally more capable than the beginner builds, and are better suited for all variants of Interceptors. These builds are cold orbiters, which make use of Cold Orbiting to evade most damage and repair limpets repair hull damage sustained.
 
 ## Tabset {.tabset}
 
