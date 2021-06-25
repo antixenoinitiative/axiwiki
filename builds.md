@@ -117,11 +117,11 @@ The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-d
 
 Type: **Cold**
 
-Speed: ⭐⭐⭐⭐⭐
-Agility: ⭐⭐⭐⭐⭐
-Shield:
-Armour: ⭐⭐⭐⭐
-Firepower: ⭐⭐⭐
+- Speed: ⭐⭐⭐⭐⭐
+- Agility: ⭐⭐⭐⭐⭐
+- Shield:
+- Armour: ⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐
 
 Recommendation: Unarguably the best ship and build style for AX combat.
 
@@ -138,13 +138,13 @@ A shieldless version of the beginner Krait MK.II. The shieldless Krait, while no
 
 Type: **Cold Orbiter**
 
-Speed: ⭐⭐⭐⭐⭐
-Agility: ⭐⭐⭐
-Shield:		
-Armour: ⭐⭐⭐⭐
-Firepower: ⭐⭐⭐⭐⭐
+- Speed: ⭐⭐⭐⭐⭐
+- Agility: ⭐⭐⭐
+- Shield:		
+- Armour: ⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐⭐
 
-Recommendation: A great upgrade from the shielded build
+Recommendation: A great upgrade from the shielded build.
 
 [Coriolis Shieldless Build](https://s.orbis.zone/eu9v)
 
@@ -158,7 +158,7 @@ A collection of more advanced builds can be found on the Advanced Builds page.
 View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
 
 # Scout Builds
-Hunting scouts is a very efficient method to increase combat rank. This is because all scouts are considered elite targets and will give the best possible experience per kill. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
+Hunting scouts is a very efficient method to increase combat rank. This is because all scouts are considered dangerous or deadly targets and will give a lot of experience per kill. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
 
 These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. Keep in mind that there is a limit of 4 AX Weapons per vessel.
 
