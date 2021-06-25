@@ -75,3 +75,7 @@ The following terms should not be translated.
 - Marauder
 - Berserker
 - CMDR
+
+Do NOT translate any of the links or their paths 
+
+Eg: "/en/builds" is a file path reference, if you edit this, the link will break.
