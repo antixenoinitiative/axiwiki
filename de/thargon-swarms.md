@@ -26,7 +26,7 @@ Falls ein nicht-agressiver Interceptor gerammt oder beschossen wird, wird sofort
 # Einsatz Mechanismen
 Der Thargoid Interceptor wird am Anfang eines Kampfes immer versuchen einen Schwarm freizusetzen. Außerdem kann er das folgende tun:
 # {.tabset}
-## Aufbewahren
+## Speichern
 Zusaützlich zum anfänglich freigesetzten Schwarm, kann der Interceptor bei jedem Verlusst eines Herzens einen neuen freisetzen (Es kann nur einen freien Schwarm gleichzeitig geben). Falls bereits ein freier Schwarm existiert wenn ein Herz zerstört wird, kann der Interceptor den nächsten Schwarm aufbewahren (nur einen, nicht mehrere) und wird diesen nach Zerstörung des vorherigen Schwarms direkt freisetzen.
 
 ## Auffüllen
