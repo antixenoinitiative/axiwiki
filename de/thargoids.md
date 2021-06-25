@@ -1,37 +1,37 @@
 ---
-title: Thargoiden
-description: Zu Thargoiden
+title: Thargoids
+description: Zu Thargoids
 published: ja
-date: 2021-06-23T12:18:32.409Z (originale Englische Version)
+date: 2021-06-23T12:18:32.409Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:10:09.264Z
 ---
 
 # Thargoids
-!\[cyclops-small.png\](/img/Cyclops-small.png =250x){.align-right} *The **Thargoids** are a nonhuman race with a history of hostility towards humanity.*
+!\[cyclops-small.png\](/img/Cyclops-small.png =250x){.align-right} *Die **Thargoids** sind eine nicht-humanoide Rasse mit einer Geschichte der Feindseligkeit gegenüber der Menschheit.*
 
-*The first recorded encounter with a Thargoid ship took place in 2849, although earlier undocumented encounters are believed to have taken place. In the years that followed, contact with lone Thargoid vessels was intermittently reported.*
+*Die erste aufgezeichnete Begegnung mit einem Schiff der Thargoids fand im Jahr 2849 statt, obwohl noch frühere undokumentierte Begegnungen vermutet werden. In den folgenden Jahren wurde von periodischem Kontakt mit vereinzelten Thargoid Schiffen berichtet.*
 
-*Humanity clashed with the Thargoids in the 32nd century, but details of the conflict remained scarce for many years, and it proved difficult to differentiate authentic accounts of Thargoid encounters from the sensationalist media stories of the time.*
+*Die Menschheit stieß im 32. Jahrhundert mit den Thargoiden zusammen, aber die Details des Konflikts blieben viele Jahre lang rar und es erwies sich als schwierig authentische Berichte von Thargoid Begegnungen von den sensationalistischen Mediengeschichten der damaligen Zeit zu unterscheiden.*
 
-*Entry from Elite Dangerous Codex*
+*Eintrag vom Elite: Dangerous Codex*
 
-[**Learn more about the Thargoids on the official Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
+[**Lern mehr zu den Thargoids auf der offiziellen Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
 
-[**Read about Thargoids on the Canonn Research Website**](https://canonn.science/codex/xeno-technology/)
+[**Lies zu den Thargoids auf der Canonn Research Webseite**](https://canonn.science/codex/xeno-technology/)
 
-## Thargoid Vessels
-Thargoid [**Interceptors**](/en/interceptors) come in four variants: Cyclops, Basilisk, Medusa and Hydra, in ascending level of difficulty. Each next variant has more [**hearts**](/en/hearts) and is tougher than the last, requiring far more damage to exert and destroy hearts.
+## Thargoid Schiffe
+Thargoid [**Interceptors**](/en/interceptors) gibt es in vier Varianten: Cyclops, Basilisk, Medusa und Hydra, in aufsteigender Schwierigkeitsstufe. Jede nächst höhere Variante hat mehr [**Herzen**](/en/hearts) und ist robuster als die vorherige, was infolge deutlich mehr Schaden erfordert um die Herzen hervortreten zu lassen und zu zerstören.
 
-Thargoid [**Scouts**](/en/scouts) are a smaller variant of the Thargoid interceptor, they come in multiple types with different special abilities. Read more about these in the Thargoid [**Scouts**](/en/scouts) section.
+Thargoid [**Scouts**](/en/scouts) sind eine kleinere Variante der Thargoid Intercepotors, es gibt sie in mehreren Typen mit verschiedenen Spezialfähigkeiten. Lies mehr dazu in der Thargoid [**Scouts**](/en/scouts) Sektion.
 
-Interceptors are incredibly tough and typically are best suited to wing combat as soloing them is a huge achievement. Interceptors use very high damage output weapons, crowd-control style special abilities and independent [**drones**](/en/thargon-swarms) to wreak havoc on the battlefield.
+Interceptors sind unglaublich robust und eignen sich in der Regel am besten zum Kampf im Geschwader, da es eine große Herausforderung ist sie alleine zu bekämpfen. Interceptors nutzen Waffen mit sehr großem Schadenspotenzial, dominierende Spezialfähigkeiten und unabhängige [**Dronen**](/en/thargon-swarms), um das Schlachtfeld zu verwüsten.
 
-Attempting to fight a Thargoid without the appropriate weaponry and defenses is nigh-impossible, Thargoid Interceptors have incredibly strong armour and fast regeneration capabilities, this makes conventional weapons (such as Multi-cannons, Missiles, Plasma Accelerators, Lasers) completely ineffective at damaging them.
+Der Versuch, einen Thargoid ohne entsprechende Waffen und Verteidigung zu bekämpfen, ist nahezu unmöglich, Thargoid Interceptors verfügen über eine unglaublich starke Resistenz und schnelle Regenerationsfähigkeiten. Dies macht konventionelle Waffen (wie Multi-Kanonen, Raketen, Plasma-Beschleuniger, Laser) völlig ineffektiv, um sie zu bekämpfen.
 
-Thankfully humanity has not only developed their own line of AX (Anti-Xeno) weaponry, but they have also adapted the ancient Guardian technology into very powerful hybrid weapons and modules that are far more effective at destroying Thargoid vessels.
+Glücklicherweise hat die Menschheit nicht nur eine eigene Reihe von AX (Anti-Xeno) Waffen entwickelt, sondern auch die uralte Guardiantechnologie für sehr mächtige Hybridwaffen adaptiert, die bei der Zerstörung von Thargoid Schiffen wesentlich effektiver sind.
 
-[**Read more about Interceptors**](/en/interceptors)
+[**Lies mehr zu den Interceptors**](/en/interceptors)
 
-[**Read more about Scouts**](/en/scouts)
+[**Lies mehr zu den Scouts**](/en/scouts)

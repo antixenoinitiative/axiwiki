@@ -1,8 +1,8 @@
 ---
 title: Главная
-description: Welcome to the Anti-Xeno Initiative Wiki. Your complete repository for Anti-Xeno Combat.
-published: true
-date: 2021-06-23T13:00:50.155Z
+description: Добро пожаловать на вики-педию Anti-Xeno Initiative Ваш полный респозиторий по Анти-Ксено сражениям
+published: Опубликовано
+date: 2021-06-24T02:38:47.135Z
 tags:
 editor: markdown
 dateCreated: 2021-06-08T12:40:49.911Z
@@ -10,47 +10,47 @@ dateCreated: 2021-06-08T12:40:49.911Z
 
 ![home.jpg](/img/home.jpg)
 
-# Welcome!
+# Добро пожаловать!
 
-Welcome to the Anti-Xeno Initiative Wiki. This is the primary repository of information gathered by the Anti-Xeno Initiative, here you will find tutorials, guides and all kinds of data regarding Thargoid Combat in Elite Dangerous.
+Добро пожаловать на вики-педию Anti-Xeno Initiative. Это оснавная респозитория информации, собранной Anti-Xeno Initiative, здесь вы найдёте туториалы, гайды и все типы информации относящийся к боям с Таргоидами в Elite: Dangerous.
 
 
-# Explore
+# Изучайте
 
-Use the **Search bar** at the **top** of this page to get started
+Используйте **Поисковую строку** **сверху страницы** чтобы начать
 
 ![](/img/2021-06-21_15_15_32-home___anti-xeno_initiative_wiki_-_beta.png)
 
-Or use the **Navigation bar** on the **left-hand** side to browse through the wiki.
+Или используйте **Панель навигации** с **левой** стороны для просмотра через вики-педию
 
 ![](/img/2021-06-21_15_17_34-home___anti-xeno_initiative_wiki_-_beta.png)
 
-The **Anti-Xeno Initiative Wiki** has many topics, if you can't find sometihing, let us know in the **#website-discussion** channel in the AXI Discord.
+**Anti-Xeno Initiative Wiki** содержит много тем, если вы не можете найти что-то, то сообщите нам в **#website-discussion** в дискорд-сервере AXI
 
-# Contribute
-Want to take part in the **Anti-Xeno Initiative Wiki** project? join us in the [AXI discord](https://discord.gg/bqmDxdm) and ask about becoming an editor!
+# Сотрудничество
+Хотите принять участие в проекте **Вики-педия Anti-Xeno Initiative**? Присоединяйтесь к [Дискорд-серверу AXI](https://discord.gg/bqmDxdm) и попросите стать модератором вики!
 
-# Credits
+# Авторы
 
-A big thanks to our content and development team! ❤️
+Большое спасибо нашей контент-команде и команде разработчиков! ❤️
 
-**Content Creators**
-- CMDR Aranionros Stormrage
-- CMDR Mechan
-- CMDR Aterius
-- CMDR EuanAB
-- CMDR Avasa Siuu
-- CMDR Maligno
+**Контентмейкеры:**
+- КМДР Aranionros Stormrage
+- КМДР Mechan
+- КМДР Aterius
+- КМДР EuanAB
+- КМДР Avasa Siuu
+- КМДР Maligno
 
-**Translators**
-- CMDR alterNERDtive
-- CMDR Trex63
-- CMDR Xarionn
-- CMDR St4n2012
-- CMDR Trebiscotti
+**Переводчики**
+- КМДР alterNERDtive
+- КМДР Trex63
+- КМДР Xarionn
+- КМДР St4n2012
+- КМДР Trebiscotti
 
-**Developers**
-- CMDR Willhof
-- CMDR Sanctified
+**Разработчики**
+- КМДР Willhof
+- КМДР Sanctified
 
-And to everyone else in the Anti-Xeno Initiative who has helped make this project possible!
+И всем остальным в Anti-Xeno Initiative кто помог сделать этот проект возможным!

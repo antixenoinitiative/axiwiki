@@ -1,14 +1,14 @@
 ---
-title: Synthesis
-description: Information on Sythnesis in AX combat.
+title: Synthese
+description: Informationen zu Synthese im AX-Gefecht.
 published: true
 date: 2021-06-10T07:08:32.143Z
-tags: engineering
+tags: Engineering
 editor: markdown
 dateCreated: 2021-06-10T04:08:01.614Z
 ---
 
-# Synthesis
+# Synthese
 For extended combat scenarios it is recommended that you bring materials for synthesizing more ammunition. We recommend carrying at least a few of the most important synths for each fight, nothing is more frustrating than having to leave a potential kill because you ran out of ammo.
 
 Solo Hydra will require at least 2-3 full Gauss synths for each hardpoint.
@@ -21,12 +21,12 @@ Access the synthesis panel on the in-game UI through the following steps:
 
 !\[synthpanel1.png\](/img/synthpanel1.png =500x) !\[synthpanel2.png\](/img/synthpanel2.png =500x)
 
-# Required Materials
-> Calculate the exact amount you need with the [Synthesis Calculator](/en/synthesiscalculator) by CMDR Th3Hero 
+# Erforderliche Materialien
+> Berechne die genaue menge die du brauchst mit dem [Synthese Rechner](/en/synthesiscalculator) von CMDR Th3Hero 
 > 
 > {.is-info}
 # {.tabset}
-## Heatsinks
+## Kühlkörper
 
 Heatsinks are critical for reducing your ship's temperature to safe ranges while firing extended gauss volleys or avoiding damage with cold tactics.
 
@@ -81,17 +81,17 @@ For the maximum possible Premium Gauss synths you will need:
 For repairs and decontamination limpets.
 
 ### Basic
-- 10x Iron
+- 10x Eisen
 - 10x Nickel
 
-## AFM Refills
+## AFM-Nachfüllungen
 In longer fights, you will need to refill your AFMU multiple times to keep your Module Reinforcements and other modules at full integrity.
 
-We recommend only using Basic AFM refills as there is no useful benefit to standard or premium.
+Wir empfehlen nur Basis Nachfüllungen zu verwenden, da Standart und Premium Nachfüllungen keinen nützlichen Vorteil besitzen.
 
 ### Basic
 - 2x Nickel
-- 2x Zinc
+- 2x Zink
 - 2x Chromium
 - 3x Vanadium
 

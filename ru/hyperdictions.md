@@ -1,72 +1,72 @@
 ---
-title: Hyperdictions
-description: About Thargoid Hyperdictions
-published: true
+title: Перехваты в Гипер-пространстве
+description: О перехватах Таргоидами
+published: Опубликовано
 date: 2021-06-15T11:09:57.281Z
-tags: thargoids, interceptors
+tags: Таргоиды, Перехватчики
 editor: markdown
 dateCreated: 2021-06-15T11:06:57.862Z
 ---
 
-# Hyperdictions
+# Перехваты в Гипер-пространстве
 
-Hyperdictions are another less direct means to find Thargoids…. for Thargoids to find YOU. Hyperdictions occur when jumping from systems to system in Thargoid activity areas.
+Перехваты в Гипер-пространстве (далее Гипер-перехваты) являются ещё одним менее прямым средством поиска Таргоидов…. для того, чтобы Таргоиды нашли ВАС. Гипер-перехваты происходят при прыжке в другие системы, которые находятся в зоне активности Таргоидов.
 
-When a Hyperdiction occurs you will be ripped out of Hyperspace and left floating somewhere in-between the star systems you were jumping from (you will actually still be in the origin system). One of the hyperdicting thargoids will perform an EMP attack, which will shut down your ship if you are not protected (see: Modules). Similar to any other encounter, If the Scans you while carrying Thargoid or Guardian technology (cargo), it will become hostile if you do not drop the items.
+Когда происходит Гипер-перехват, вы будете выдернуты из гипер-пространства где-то между звёздными системами откуда и куда вы прыгали (на самом деле вы будете в точке отправления). Один из Таргоидов-перехватчиков выполнит ЭМИ-атаку, которая отключит все системы вашего корабля если вы не защищены (подробнее: Модули). Как и в любом другом случае, если Таргоиды просканируют вас когда вы несёте технологии Таргоидов или Стражей (груз), Таргоиды станут агрессивными если вы не выбросите их.
 
-If you have a Shutdown Field Neutralizer, it is possible to avoid the shutdown and proceed to engage the Interceptors.
+Если же у вас имеется Нейтрализатор отключающего поля, можно избежать отключения систем. После этого перехватчики выпустят рой и станут настороже, готовясь к любому враждебному действию с вашей стороны.
 
-> Hyperdictions can have more than 1 interceptor, up to 4 in total. 
+> Гипер-перехваты могут включать в себя больше чем одного перехватчика, в общей сумме до 5. 
 > 
 > {.is-info}
 
-Based on combined research from Canonn and AXI we have found that collecting a sensor and jumping at least once with the sensor activates a hidden permanent ‘**marked**’ effect that applies a 20% Hyperdiction chance in the Pleiades and Witch Head Region.
+Основываясь на комбинированных исследованиях от Cannon и AXI мы обнаружили что собирая сенсор и прыгая хотя бы один раз с ним, активируется скрытый перманентный эффект '**Метки**', который способствует повышению вероятности Гипер-перехвата на 20% в туманностях Плеяды и Витч-хед.
 
-To gather this data we performed the following test several times over on different accounts:
+Чтобы собрать эту информацию, мы совершили нижеперечисленные действия несколько раз на разных аккаунтах:
 
-1. Jump 100 times between two systems in Pleiades (Result: Zero Hyperdictions)
-1. Collect a Thargoid Sensor (Also tested Probes and the Proximity Scan from the sensor)
-1. Jump 100 times between the same two systems in the Pleiades (Results: ~20 Hyperdictions)
-1. To further confirm the Hyperdiction rate, CMDR Maligno has done over ~500 Jumps around these regions and found a very constant rate of ~20% per jump (once ‘marked’)
+1. Совершить прыжок 100 раз между двумя системами в туманности Плеяды (Результат: 0 Гипер-перехватов)
+1. Собрать сенсор Таргоидов (Так же протестировали Зонды и Сканирование Данных на сенсоре)
+1. Совершить прыжок 100 раз между теми же двумя системами в туманности Плеяды (результат: ~20 Гипер-перехватов)
+1. Для дальнейшего подтверждения коэффициента Гипер-перехвата, КМДР Maligno совершил более ~500 прыжков между этими регионами и нашёл достаточно постоянный коэффициент в ~20% за прыжок (если есть эффект 'Метки')
 
-## How to get Hyperdictions
-Thargoid Hyperdictions currently only occur when jumping to/from systems within two different regions of space.
+## Как получить Гипер-перехват
+Гипер-перехваты Таргоидов в данный момент случаются только когда совершается прыжок в/из систем которые являются двумя разными регионами космоса.
 
-- The Pleiades Bubble (all systems within 100Ly of Merope)
+- Туманность Плеяды (все системы в 100св.г от Merope)
 
-- The Witch Head Bubble (all systems within 75Ly of Witch Head Sector IR-W C1-9)
+- Туманность Витч-хед (Все системы в расстоянии 75св.г от Witch Head Sector IR-W C1-9)
 
-These Hyperdictions will not occur for most pilots unless you activate a hidden "**marked**" effect that is applied by collecting rare Thargoid Commodities.
+Гипер-перехваты не будут происходить для большинства пилотов пока вы не активируете скрытый эффект "**Метки**" который получается при сборе редкого сырья Таргоидов.
 
-Based on extensive research from the Anti-Xeno Initiative and Canonn Interstellar Research Group, we have found a distinctive correlation between certain types of Thargoid Commodities causing players to get hyperdicted. The current best understanding is the following:
+Основываясь на обширных исследования Anti-Xeno Initiative и Canonn Interstellar Research Group, мы обнаружили отличительную корреляцию между определёнными типами сырья Таргоидов в результате которого игроки будут Гипер-перехвачены. Наилучшее в настоящее время понимание заключается в следующем:
 
-Collecting a Thargoid Sensor applies a permanent "**marked**" affect on your player that will cause frequent Hyperdictions in the Pleiades and Witch Head Nebula. This affect is permanent once collecting a sensor and will continue to apply without the item in your cargo.
+Сбор Таргоидского Сенсора накладывает перманентный эффект "**Метки**" на игрока, который вызывает частые Гипер-перехваты в туманностях Плеяды и Витч-хед. Этот эффект будет постоянным после сбора сенсора и будет продолжаться, даже если предмета не будет в грузовом отсеке.
 
-> Holding the sensor does not directly increase the chances, it only unlocks the 20% chance rate. 
+> Постоянное наличие сенсора не увеличивает шанс, он только открывает увеличение шанса на 20%. 
 > 
 > {.is-info}
 
-The only exception to this is the Thargoid Incursions and Thargoid Infestation system state, which has an independant hyperdiction chance which can cause hyperdictions without any previous interaction with Thargoid Sensors.
+Единственное исключение из этого - столкновение с Таргоидами и системы со статусом "Заражение", которые имеют независимые шансы на Гипер-перехват без всякого взаимодействия с Таргоидскими Сенсорами.
 
-Thargoid sensors can be easily found at Crashed Thargoid Interceptor sites
+Таргоидские сенсоры могут быть легко найдены на участках крушения Таргоидских Перехватчиков
 
-## Hyperdiction Statistical Analysis
-*By CMDR Maligno - Canonn Research*
+## Статистический Анализ Гипер-перехвата
+*Сделано КМДР Maligno - Canonn Research*
 
-When jumping between Celaeno and Asterope it was found that the Hyperdiction rate is 20.7%. When carrying 16 units of Meta-Alloys, the Hyperdiction rate was measured to be 21.6%, which is statistically the same as the baseline scenario. We can confidently conclude that the Hyperdiction rate in the core Pleiades systems is around 20% and is unaffected by carrying Meta-Alloys. [Update: additionally, hundreds of jumps were later carried out with 64 units of meta-alloys, which did not have an effect on the hyperdiction rate either]
+При прыжке между Celaeno и Asterope было установлено, что коэффициент Гипер-перехвата - 20.7%. При переносе 16 едениц Мета-сплавов, частота Гипер-перехвата была измерена на уровне 21,6%, что является почти аналогичной статистикой с базовой. Мы можем с уверенностью заключить, что уровень Гипер-перехвата в основных системах Плеяд состовляет около 20%, и на это никак не влияет перенос Мета-сплавов. [Обновление: кроме того, позже были совершенны сотни прыжков с 64 единицами Мета-сплавов, что так же не повлияло на частоту Гипер-перехватов]
 
-We now turn to the composition of Hyperdiction scenarios, that is, what sort of Interceptors are present to greet a pilot that has been Hyperdicted.  The table below shows the combinations of Interceptors that were observed in this study, sorted by Interceptor lethality.  A total of 13 unique combinations were observed.  [Update: the results below are the result of further documentation of another several hundred hyperdiction instances]
+Теперь мы переходим к составу сценариев Гипер-перехватов, то есть к какому виду Перехватчики относятся для приветствия пилота который был Гипер-перехвачен.  В таблице ниже показаны комбинации Перехватчиков которые были отмечены в данном исследовании, сортировка идёт по их летальности.  В общем было замечено 13 уникальных комбинаций.  [Обновление: результаты ниже являются результатами дальнейшей документации ещё нескольких сотен случаев Гипер-перехвата.
 
 !\[hyperanalysis.png\](/img/hyperanalysis.png =550x){.align-center}
 
-As expected, Hyperdiction containing only one or two Cyclopes are the most common, whereas those containing Hydras are far more rare. Of the 539 documented Hyperdictions, only 31 contained at least one Hydra, with 8 cases containing an additional 3 Basilisks and 7 cases containing an additional pair of Medusae. Currently the statistics in this study are sufficiently high that we can state with confidence that a single, unaccompanied Hydra is more common than one accompanied by other Interceptors. Judging from the data, it appears that 50% of the Hydra instances don’t have additional Interceptors, 25% have 3 Basilisks and another 25% have Medusae. The statistics are still too limited to judge if a Hydra accompanied by 2 Medusae is the rarer of the three possibilities. It is interesting to note that cases that have a Medusa as the ranking Interceptor have an analogous set of (less lethal) cohorts: one case with 3 Cyclopes and another with 2 Basilisks.
+Как и ожидалось, Гипер-перехваты которые содержат только одного или двух Циклопов более частые, наиболее редкие Гипер-перехваты которые содержат Гидры. Из 539 задокументированных Гипер-перехватов, только 31 из них содержали хотя бы одну Гидру, в 8 случаях они содержали 3 Василиска и в 7 случаях они содержали пару Медуз. В настоящее время статистические данные в этом исследовании очень точны, что мы с уверенностью можем сказать что одна Гидра без сопровождения встречается намного чаще, чем при сопровождении другими перехватчиками. Судя по данным, в 50% случаев с Гидрой не имеют дополнительных перехватчиков, 25% имеют 3 Василиска и другие 25% содержат медузу. Статистика по-прежнему слишком ограниченна для того, чтобы говорить о том что Гидра с двумя медузами являются более редкими из трёх возможностей. Интересно отметить то, что случаи имеющие Медузу как Перехватчик, имеют аналогичный набор (менее летальных) когорт: один случай с 3 Циклопами и другой с 2 Василисками.
 
-No instances with two Hydras or two (unaccompanied) Medusae were ever observed. It’s entirely possible that those combinations exist but are simply exceedingly rare and have therefore not been observed yet.
+Никаких случаев с двумя Гидрами или двумя (не сопровождаемыми) Медузами не наблюдались. Вполне возможно, что это комбинации существуют, но просто чрезвычайно редки и по-этому пока небыли обнаружены.
 
-Read the full report by CMDR Maligno here: [Study of Hyperdiction Statistics](https://canonn.science/codex/study-of-hyperdiction-statistics/)
+Читайте полный отчёт от КМДР Maligno здесь: [Исследование статистики Гипер-перехватов](https://canonn.science/codex/study-of-hyperdiction-statistics/)
 
-## Hyperdiction Combat Guide
+## Гайд по битвам после Гипер-перехвата
 
-CMDR Katie Byrne has put together a comprehensive guide on Hyperdictions.  Her advice is highly encouraged for those who want to test their skills against many Thargoid Interceptors.
+КМДР Katie Byrne подготовила подробный гайд по Гипер-перехватам.  Её советы очень воодушевлены теми, кто хочет протестировать свои навыки против мноигх Таргоидских перехватчиков.
 
-[Hyperdiction Combat Guide](https://youtu.be/MpC02cetBlY)
+[Гайд по битвам после Гипер-перехвата](https://youtu.be/MpC02cetBlY)

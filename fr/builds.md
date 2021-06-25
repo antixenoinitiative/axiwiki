@@ -1,16 +1,16 @@
 ---
 title: Equipements Recommandés
-description: Anti-Xeno Ship Builds
+description: Vaisseaux Anti-Xéno
 published: true
 date: 2021-06-23T10:01:06.084Z
-tags: builds
+tags: équipement
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
 ---
 
 
 # Equipements Recommandés
-Le combat de Thagoids requiert un équipent très spécialisé. En effet, les Thargoids ont des résistances particulières et infligent certains types de dégâts qui posent des problèmes aux équipements de combat standard. Nous avons donc établi le guide ci-dessous pour vous aider à prendre les bonnes décisions et vous guider dans l'équipement du vaisseau de chasse aux Thargoids le plus efficace possible. Ces configurations ont été conçues pour être à l'équilibre entre puissance de feu et solidité, tout en restant assez souples pour encaisser quelques erreurs.
+Le combat de Thagoids requiert un équipement très spécialisé. En effet, les Thargoids ont des résistances particulières et infligent certains types de dégâts qui posent des problèmes aux vaisseaux de combat standard. Nous avons donc établi le guide ci-dessous pour vous aider à prendre les bonnes décisions et vous guider dans l'équipement du vaisseau de chasse aux Thargoids le plus efficace possible. Ces configurations ont été conçues pour être à l'équilibre entre puissance de feu et solidité, tout en restant assez souples pour encaisser quelques erreurs.
 
 > Vous pouvez vous réferrer à notre page sur la [Théorie pour l'Equipement de Vaisseaux](/en/shipbuildtheory) pour une explication plus en détail sur la logique derrière toutes ces propositions. 
 > 
@@ -18,15 +18,15 @@ Le combat de Thagoids requiert un équipent très spécialisé. En effet, les Th
 
 ## Types de Configurations
 
-Premièrement, il est à noter qu'il existe deux principaux types de vaisseaux Thargoids : les [**Eclaireurs Thargoids**](/fr/scouts) et les [**Intercepteurs Thargoids**](/en/interceptors). Ces ennemis ayant des capacités et des mécaniques très différentes, il y aura plusieurs types d'équipement pour chacun d'entre eux.
+Premièrement, il est à noter qu'il existe deux principaux types de vaisseaux Thargoids : les [**Eclaireurs Thargoids**](/fr/scouts) et les [**Intercepteurs Thargoids**](/en/interceptors). Ces ennemis ayant des capacités et des mécaniques très différentes, il y aura des types d'équipements différents pour chacun d'entre eux.
 
 # Contre les Intercepteurs
 
-Les Intercepteurs Thargoids sont de très puissants ennemis d'une solidité remarquable; pour avoir une chance face à eux en combat, il faut un vaisseau tout aussi bon. A cause des dégâts invraissemblables infligés par les Intercepteurs, les possibilités sont restreintes à quelques styles d'équipements.
+Les Intercepteurs Thargoids sont de très puissants ennemis d'une solidité remarquable; pour avoir une chance face à eux en combat, il faut un vaisseau tout aussi performant. A cause des dégâts invraissemblables infligés par les Intercepteurs, les possibilités sont restreintes à quelques styles d'équipements.
 
 Voici les plus communs.
 
--   **Vaisseaux Rapides avec Boucliers** (Hybrides, Boucliers Entrelacés) - Vaisseaux rapides avec des boucliers qui se rechargnt vite. (Débutant)
+-   **Vaisseaux Rapides avec Boucliers** (Hybrides, Boucliers Entrelacés) - Vaisseaux rapides avec des boucliers qui se rechargent vite. (Débutant)
 
 -   **Vaisseaux Rapides sans Boucliers** (Orbiteurs Froids) - Vaisseaux rapides qui n'utilisent pas de bouclier mais des mécaniques de gestion de température et des maneuvres particulières pour éviter les dégâts. (Intermédiaire)
 
@@ -35,7 +35,7 @@ Voici les plus communs.
 
 ## Vaisseaux pour Débutants
 
-Ces configurations utilisent toutes des boucliers pour permettre un style de combat plus familier, tout en étant équipées pour effectuer un orbite froid. Les vaisseaux équippés de boucliers, grâce à leur facilité d'usage contre les variantes Cyclop et Basilisk, sont recommandés pour les débutants en combat AX. Ils se divisent en deux catégories: les Hybrides avec Boucliers Entrelacés, qui utilisent les techniques d'Orbite Froid mais ont les boucliers comme sécurité, et les Tanks avec Boucliers Lourds qui s'appuient sur des valeurs gigantesques de boucliers bruts pour se maintenir en vie.
+Ces configurations utilisent toutes des boucliers pour permettre un style de combat plus familier, tout en étant équipées pour effectuer un orbite froid. Les vaisseaux équippés de boucliers, grâce à leur facilité d'usage contre les variantes Cyclops et Basilisk, sont recommandés pour les débutants en combat AX. Ils se divisent en deux catégories: les Hybrides avec Boucliers Entrelacés, qui utilisent les techniques d'Orbite Froid mais ont les boucliers comme sécurité, et les Tanks avec Boucliers Lourds qui s'appuient sur des valeurs gigantesques de boucliers bruts pour se maintenir en vie.
 
 ## Liste {.tabset}
 
@@ -51,7 +51,7 @@ Type: **Hybride, Boucliers Entrelacés**
 - Maniabilité: ⭐⭐⭐
 - Boucliers:⭐⭐⭐⭐
 - Coque: ⭐⭐⭐
-- Puissance de feu: ⭐⭐⭐⭐
+- Puissance de Feu: ⭐⭐⭐⭐
 
 Recommandation: Meilleur choix possible pour un débutant en combat AX.
 
@@ -61,130 +61,130 @@ Recommandation: Meilleur choix possible pour un débutant en combat AX.
 
 Passage en revue du Krait Mk.II AX (en Anglais): [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
-Note: While this build uses Lo-Draw on the shields, Fast Charge experimental is also a great option that requires more pip management but faster recharge.
+Note: Si cette configuration utilise l'effet expérimental Consommation Réduite sur les boucliers, Charge Rapide est également une très bonne option qui offre un rechargement plus rapide mais demande plus de gestion des pips.
 
-### Alliance Chieftain (Shielded)
+### Alliance Chieftain (Avec Boucliers)
 
-#### **Alliance Chieftain (Shielded)**
+#### **Alliance Chieftain (Avec Boucliers)**
 
-The Alliance Chieftain, similar to the Krait Mk.II is a very capable AX Ship. The Chieftain has slightly lower overall firepower but is able to equip a Thermal Vent Beam laser allowing pilots to begin to learn cold orbiting techniques. Much more agile than the Krait Mk.II, this build is perfect for people looking to fly the meta shieldless Chieftain but still want the comfort of shields.
+L'Alliance Chieftain, comme le Krait Mk.II, est un tres bon vaisseau AX. La puissance de feu du Chieftain est légèrement plus faible, mais il a la possibilité d'équiper un Rayon Laser avec l'effet expérimental Event Thermique. Cela permet aux pilotes de commencer à apprendre les techniques d'Orbite Froid. Bien plus maniable que le Krait Mk.II, cette configuration est idéale pour ceux qui souhaitent piloter le Chieftain Méta (originalement sans boucliers) tout en gardant le confort des boucliers.
 
-Type: **Bi-Weave Hybrid**
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐⭐⭐
-- Shield: ⭐⭐
-- Armour:   ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐
+Type: **Hybride, Boucliers Entralacés**
+- Vitesse: ⭐⭐⭐⭐⭐
+- Maniabilité: ⭐⭐⭐⭐⭐
+- Boucliers: ⭐⭐
+- Coque:   ⭐⭐⭐⭐
+- Puissance de Feu: ⭐⭐⭐
 
-Recommendation: Good upgrade path for confident pilots. More potential in the long run.
+Recommandation: Bonne piste d'amélioration pour les pilotes confiants. Plus de potentiel sur le long terme.
 
-[Coriolis Shielded Build](https://s.orbis.zone/eua5)
+[Configuration avec Boucliers sur Coriolis](https://s.orbis.zone/eua5)
 
-[EDSY Shielded Build](https://edsy.org/s/vgDtxz2)
+[Configuration avec Boucliers sur EDSY](https://edsy.org/s/vgDtxz2)
 
-AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
+Passage en revue de l'Alliance Chieftain AX (en Anglais): [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
 
-### Imperial Cutter (Shielded)
+### Imperial Cutter (Avec Boucliers)
 
-#### **Imperial Cutter (Shielded)**
+#### **Imperial Cutter (Avec Boucliers)**
 
-If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
+L'Imperial Cutter est le choix à privilégier pour les amateurs de grands vaisseaux. Parmi tous les grands, le Cutter est le seul à être assez rapide pour distancer la plupart des Intercepteurs Thargoids. Le Cutter se base sur des boucliers prismatiques pour absorber de grandes quantités de dégâts. L'utilisation efficace du cutter nécessite des techniques expliquées dans le [Guide des Grands Vaisseaux Anti-Xéno](/fr/large-ship-guide).
 
-Type: **Shield Tank**
+Type: **Boucliers Lourds**
 
-- Speed: ⭐⭐⭐⭐
-- Agility: ⭐⭐
-- Shield: ⭐⭐⭐⭐⭐
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
+- Vitesse: ⭐⭐⭐⭐
+- Maniabilité: ⭐⭐
+- Boucliers:⭐⭐⭐⭐⭐
+- Coque:⭐⭐⭐⭐
+- Puissance de Feu:⭐⭐⭐⭐
 
-Recommendation: Different fighting style and generally very capable with weaker Interceptors. Becomes much harder for tougher variants.
+Recommandation: Style de combat différent et généralement très performant contre les intercepteurs les plus faibles. Devient bien plus diffficile contre les variantes plus puissantes.
 
-[Coriolis Shielded Build](https://s.orbis.zone/3wbf)
+[Configuration avec Boucliers sur Coriolis](https://s.orbis.zone/3wbf)
 
-[EDSY Shielded Build](https://is.gd/DgmHXb)
+[Configuration avec Boucliers sur EDSY](https://is.gd/DgmHXb)
 
-## Intermediate Builds
+## Vaisseaux pour Niveau Intermédiaire
 
-These builds are targeted at more experienced commanders, either those who have flown the above ships against Thargoids before or have prior PVP combat experience. These ships are generally more capable than the beginner builds, and are better suited for all variants of Interceptors. These builds are cold orbiters, which make use of Cold Orbiting to evade most damage and repair limpets repair hull damage sustained.
+Ces configurations sont destinées aux commandants plus avancés, qui ont déjà piloté les vaisseaux ci-dessus contre des Thargoids ou qui ont de l'expérience en combat PvP. Elles ont généralement plus de potentiel que celles pour débutants et sont adaptées pour toutes les variantes d'Intercepteurs. Ce sont des Orbiteurs Froids, qui utilisent la technique de l'Orbite Froid pour éviter la majeure partie des dégâts et des drones de réparation pour restaurer la coque éventuellement perdue.
 
-## Tabset {.tabset}
+## Liste {.tabset}
 
-### Alliance Chieftain (Unshielded)
+### Alliance Chieftain (Sans Boucliers)
 
-#### **Alliance Chieftain (Unshielded)**
+#### **Alliance Chieftain (Sans Boucliers)**
 
-The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-de-Lance in PVP. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
+L'Alliance Chieftain sans boucliers est le méta incontesté en combat AX, à l'image du Fer-de-Lance en PvP. Avec une coque solide, de l'espace de cargaison, une excellente maniabilité et une bonne puissance de feu, le Chieftain peut facilement effectuer un orbite froid tout en maintenant un feu de Canon de Gauss soutenu. Ses points d'emport généreux permettent aussi d'équiper quatre Canons de Gauss ainsi qu'un Lanceur Antaérien et un Rayon Laser avec Event Thermique. Son cousin, l'Alliance Challenger, fait plus de dégâts et a plus de coque mais perd en vitesse de pointe.
 
-Type: **Cold**
+Type: **Orbiteur Froid**
 
-Speed: ⭐⭐⭐⭐⭐ Agility: ⭐⭐⭐⭐⭐ Shield: Armour: ⭐⭐⭐⭐ Firepower: ⭐⭐⭐
+Vitesse: ⭐⭐⭐⭐⭐ Maniabilite: ⭐⭐⭐⭐⭐ Boucliers: Coque: ⭐⭐⭐⭐ Puissance de Feu: ⭐⭐⭐
 
-Recommendation: Unarguably the best ship and build style for AX combat.
+Recommandation: Incontestablement les meilleurs vaisseau et type de configuration pour le combat AX.
 
-[Coriolis Meta Shieldless Build](https://s.orbis.zone/eu9w)
+[Configuration méta sans Boucliers sur Coriolis](https://s.orbis.zone/eu9w)
 
-[EDSY Meta Shieldless Build](https://edsy.org/s/vwJ9Lqq)
+[Configuration Méta sans Boucliers sur EDSY](https://edsy.org/s/vwJ9Lqq)
 
-AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
-### Krait Mk.II (Unshielded)
+Passage en revue de l'Alliance Chieftain AX (en Anglais): [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
+### Krait Mk.II (Sans Boucliers)
 
-#### **Krait Mk.II (Unshielded)**
+#### **Krait Mk.II (Sans Boucliers)**
 
-A shieldless version of the beginner Krait MK.II. The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive power plant also allows it to idle under 20% heat, which allows for cold approaches without a heatsink or thermal vent beam.
+Une version sans boucliers du Krait Mk.II pour débutant. S'il n'est pas aussi maniable que le Chieftain, le Krait sans boucliers inflige de plus gros dégâts. Son Immense générateur lui permet d'être à moins de 20% de température au ralenti, ce qui permet une approche froide sans Dissipateur Thermique ou Laser à Event Thermique.
 
-Type: **Cold Orbiter**
+Type: **Orbiteur Froid**
 
-Speed: ⭐⭐⭐⭐⭐ Agility: ⭐⭐⭐ Shield:     
-Armour: ⭐⭐⭐⭐ Firepower: ⭐⭐⭐⭐⭐
+Vitesse: ⭐⭐⭐⭐⭐ Maniabilité: ⭐⭐⭐ Boucliers:     
+Coque: ⭐⭐⭐⭐ Puissance de Feu: ⭐⭐⭐⭐⭐
 
-Recommendation: A great upgrade from the shielded build
+Recommandation: Une très bonne amélioration de la configuration avec boucliers.
 
-[Coriolis Shieldless Build](https://s.orbis.zone/eu9v)
+[Configuration sans Boucliers sur Coriolis](https://s.orbis.zone/eu9v)
 
-[EDSY Shieldless Build](https://edsy.org/s/vtQUkCk)
+[Configuration sans Boucliers sur EDSY](https://edsy.org/s/vtQUkCk)
 
-AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
+Passage en revue du Krait Mk.II AX (en Anglais): [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
-## Advanced Builds
-A collection of more advanced builds can be found on the Advanced Builds page.
+## Configurations Avancées
+Un ensemble de configurations plus avancées se trouve sur la page des Configurations Avancées.
 
-View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
+D'autres possibilités se trouvent dans notre [Dépôt de Configurations](/en/buildrepository), une collection d'équipements conçus et approuvés par des pilotes de l'AXI accompagnés de statistiques complètes, notes et liens vers les configurations.
 
 # Contre les Eclaireurs
-Hunting scouts is a very efficient method to increase combat rank. This is because all scouts are considered elite targets and will give the best possible experience per kill. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
+La chasse aux éclaireurs est une méthode très efficace pour faire monter le rang de combat. En effet, les éclaireurs sont considerés comme des cibles de rang Vétéran ou Létal et donneront beaucoup d'expérience par victime. A cause de leur **résistance à 77%** aux armes humaines, il est très inefficace d'utiliser des armes ordinaires contre eux. Au vu de leur vol erratique et imprévisible, il est recommandé d'utiliser de grands Multi-Canons Anti-Xéno en tourelle pour les détruire.
 
-These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. Keep in mind that there is a limit of 4 AX Weapons per vessel.
+Ils ne sont pas affectés par la résistance à 77% , peuvent activement suivre leur cible, et ont une faible consommation de munitions, ce qui en fait les plus efficaces. Attention, il y a une limite de 4 armes AX par vaisseau.
 
-## Extra Modules Suggested
-- **Decontamination Limpet Controller (and Cargo Racks)** - For when hit by caustic missiles.
-- **Xeno Scanner (optional)** - Lets you see scout health %.
-- **Hull Reinforcements** - Scouts deal phasing damage which will damage you through shields, you will require both heavy Shields AND Hull.
+## Modules Supplémentaires Suggérés
+- **Contrôleur de Drone de Décontamination (et Soute)** - Utiles quand vous êtes touchés par des missiles caustiques.
+- **Scanner Xéno (optionnel)** - Permet de voir le pourcentage de coque des éclaireurs.
+- **Renforts de Coque** - Les éclaireurs infligent des dégâts phasés qui endommagent la coque au travers des boucliers, il faut donc des boucliers ET une coque solides.
 
-Ultimately, due to the simple nature of scout hunting, almost any ship can be retrofitted for the task quite easily. A simple rule of thumb is….
+La chasse aux éclaireurs étant assez simple, presque tous les vaisseaux pouvent être rééquipés pour la tâche assez facilement. Un principe simple à respecter:
 
-- Decent Hull
-- Decent Shields
-- Lots of AX Multi-Cannons
-- Decontamination Limpets
+- Coque Correcte
+- Boucliers Corrects
+- Beaucoup de Multi-Canons AX
+- Drones de Décontamination
 
-And you’re good to go!
+Et c'est parti !
 
-## Scout Builds
+## Configurations Anti-Eclaireurs
 
-## tabset {.tabset}
+## liste {.tabset}
 
-### Anaconda Build
+### Anaconda
 
-[**Anaconda Coriolis Build**](https://coriolis.io/outfit/anaconda?code=A2putpFklndzsxf5x3x3x3x32828252502xs040404040404B05n5n2dy32d2d2d2b03m72G08.AwRj4yuzRI%3D%3D.Aw18ZXEA.H4sIAAAAAAAAA42Tv0tCURTHjz%2FL%2FPH0%2BetpmlaaYBA2BkJTEFHgENVYu0NDgYhDLdEYDU0N%2FgltNTg2NjQ2iLNDQ4SElJ3TOY%2B8kBDcB%2B%2FLge%2Fnnnvved8HOAUA3x6W0TWLv%2BMECJ4FACIHXJkPfoDCwAFADlxXZItl%2BtEHYFQ%2FiBJtg30nJpR%2FwmLUvohi1ogoLr7VdwEsXkaZdGFakQ0hC59E9k6xVpzJLjvkxtUxZDRe2X%2FqEZEHq2rpOYtPls6IzIssBJCoeJwEWKpEuIkXj8a4GS4BrGwOiFLbWbYCuK868QvlGvxe194%2FJfiyCAW1yRDu%2FSG9u%2B9ExlWfT%2F%2FSJbIO3%2FgKhna7MBaFdAklg7OvkLFHaOKGanIrI5KlZuWUm8hnyb2EGIrqQDEdKK4DJXSgpA5k4Y6C6ixOSZH3zs3xXONpRHoscSELHU4vpXBrPKfRBYujzaG0Q2U9s1%2FKS%2FKGQ559WpucxbI6wo38F%2FdchvIZ3l0qUyJdkIqy2uTcJFlXZF2RUlFOm8xPkk1FNhUpFRH8%2B%2FwAJZhA2wUEAAA%3D.EweloBhBmUEYBsICmBDA5gG2SEcIEhTFA%3D%3D%3D&bn=AX%20Conda)
-- Can fit all 4x AX Multi-Cannons in large hardpoints
-- Has good angles for turreted Multi-Cannons
-- Can be fitted with large shields and boosters for worry-free farming
+[**Configuration de l'Anaconda sur Coriolis**](https://coriolis.io/outfit/anaconda?code=A2putpFklndzsxf5x3x3x3x32828252502xs040404040404B05n5n2dy32d2d2d2b03m72G08.AwRj4yuzRI%3D%3D.Aw18ZXEA.H4sIAAAAAAAAA42Tv0tCURTHjz%2FL%2FPH0%2BetpmlaaYBA2BkJTEFHgENVYu0NDgYhDLdEYDU0N%2FgltNTg2NjQ2iLNDQ4SElJ3TOY%2B8kBDcB%2B%2FLge%2Fnnnvved8HOAUA3x6W0TWLv%2BMECJ4FACIHXJkPfoDCwAFADlxXZItl%2BtEHYFQ%2FiBJtg30nJpR%2FwmLUvohi1ogoLr7VdwEsXkaZdGFakQ0hC59E9k6xVpzJLjvkxtUxZDRe2X%2FqEZEHq2rpOYtPls6IzIssBJCoeJwEWKpEuIkXj8a4GS4BrGwOiFLbWbYCuK868QvlGvxe194%2FJfiyCAW1yRDu%2FSG9u%2B9ExlWfT%2F%2FSJbIO3%2FgKhna7MBaFdAklg7OvkLFHaOKGanIrI5KlZuWUm8hnyb2EGIrqQDEdKK4DJXSgpA5k4Y6C6ixOSZH3zs3xXONpRHoscSELHU4vpXBrPKfRBYujzaG0Q2U9s1%2FKS%2FKGQ559WpucxbI6wo38F%2FdchvIZ3l0qUyJdkIqy2uTcJFlXZF2RUlFOm8xPkk1FNhUpFRH8%2B%2FwAJZhA2wUEAAA%3D.EweloBhBmUEYBsICmBDA5gG2SEcIEhTFA%3D%3D%3D&bn=AX%20Conda)
+- Peut équiper 4 Multi-Canons AX
+- Les tourelles sont bien placées
+- Peut être équipé de boucliers puissants ainsi que de survolteurs pour du farm sans souci
 
-### Krait Mk.II Build
+### Krait Mk.II
 
-[**Krait Mk.II Coriolis Build**](https://coriolis.io/outfit/krait_mkii?code=A2pptkFflfdussf5x3x3x3x10sxs040404B12d2dy303292H2G08.Iw18eQ%3D%3D.IwBj4yoo.H4sIAAAAAAAAA43Rv0vDcBAF8Nc0rdbGpkmb0oq%2FjQodio5d3AQHhW466iodFRwUdHMu4uTgn%2BAg6NBROjs6iIiTo0MnrXfeFT2wUzM8Htwn%2BSYX0AiA75REryWRbTvA%2BKkHBDvSwvssEHcTACdozeSJxGjji9l%2FrQGlG1fkozyIHSoZOpDwFRXLPebo2gfK70lg4bwgMkkTJo9Uxp%2FM%2FeOKx5HIZ5mwS6uKXJ3vfsj89o2ZU1S3W88kMh4xj10EwJy2eW2L2pa0cZr2%2FniYXwZqG13myuaUjDzatidNS1Qb%2BP3m%2FvkV5ZyjdUNX%2BiY6ClcOBT1kgJmnnCB%2FGJQfBgW0ZWhfwtHtpXXF2bpsL3iRiFTGbd14SFXjl%2FoD76TmZidFagt17bE2LgzKpsmmSW1cGpQdkx2T2pjx%2F%2FoBomHYA08CAAA%3D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%3D%3D&bn=AX%20Krait)
-- Can fit 3x AX Multi-Cannons in large hardpoints and 1x AX Multi-Cannon in a medium slot
-- Alternatively can fit 2x AX Multi-Cannons in large hardpoints, and 2x Guardian Gauss Cannons in the medium hardpoints (allows for Gauss aim practice and becomes more effective once the user is proficient with Gauss)
-- High mobility to keep targets in range or disengage.
-- Mobility allows for use of Bi-Weave shields, disengaging for shield regen.
+[**Configuration du Krait Mk.II sur Coriolis**](https://coriolis.io/outfit/krait_mkii?code=A2pptkFflfdussf5x3x3x3x10sxs040404B12d2dy303292H2G08.Iw18eQ%3D%3D.IwBj4yoo.H4sIAAAAAAAAA43Rv0vDcBAF8Nc0rdbGpkmb0oq%2FjQodio5d3AQHhW466iodFRwUdHMu4uTgn%2BAg6NBROjs6iIiTo0MnrXfeFT2wUzM8Htwn%2BSYX0AiA75REryWRbTvA%2BKkHBDvSwvssEHcTACdozeSJxGjji9l%2FrQGlG1fkozyIHSoZOpDwFRXLPebo2gfK70lg4bwgMkkTJo9Uxp%2FM%2FeOKx5HIZ5mwS6uKXJ3vfsj89o2ZU1S3W88kMh4xj10EwJy2eW2L2pa0cZr2%2FniYXwZqG13myuaUjDzatidNS1Qb%2BP3m%2FvkV5ZyjdUNX%2BiY6ClcOBT1kgJmnnCB%2FGJQfBgW0ZWhfwtHtpXXF2bpsL3iRiFTGbd14SFXjl%2FoD76TmZidFagt17bE2LgzKpsmmSW1cGpQdkx2T2pjx%2F%2FoBomHYA08CAAA%3D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%3D%3D&bn=AX%20Krait)
+- Peut équiper 3 Multi-Canons AX sur des grands points d'emport et 1 sur un emplacement moyen
+- Alternativement, peut équiper 2 Multi-Canons AX sur des grands points d'emport et 2 Canons de Gauss Guardian dans les emplacements moyens (permet de pratiquer la visée au Gauss et devient plus efficace pour les pliotes qui visent bien)
+- Forte mobilité pour garder les cibles à distance ou sortir du combat
+- La mobilité permet de s'éloigner du combat pour recharger les Boucliers Entrelacés rapidement

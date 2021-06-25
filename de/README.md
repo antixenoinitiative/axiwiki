@@ -60,3 +60,22 @@ Das GitHub-Repository synchronisiert alle 5 Minuten alle Änderungen (bidirektio
 ## Übersetzung
 
 Übersetzung wird verwaltet über Crowdin, hilf uns beim übersetzen der Seiten via: https://crowdin.com/project/axiwiki
+
+### DNT Liste (Do Not Translate (nicht übersetzen))
+Die folgenden Begriffe sollten nicht übersetzt werden.
+
+**DNT (Do Not Translate)**
+- Thargoid
+- Cyclops
+- Basilisk
+- Medusa
+- Hydra
+- Inciter
+- Regenerator
+- Marauder
+- Berserker
+- CMDR
+
+Keine der Links oder deren Pfade übersetzen
+
+Eg: "/en/builds" ist eine file path reference, wenn du dies übersetzt geht der Link kaputt.

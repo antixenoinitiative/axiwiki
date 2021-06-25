@@ -9,67 +9,67 @@ dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
 # Guide de combat thargoïd avancé
-Le but de cette doctrine est d'introduire des nouveaux commandants ou des vétérans à un style de combat spécifique et aux configurations de vaisseau qui fonctionnent contre les quatre variantes d'intercepteurs thargoïd. Le coût d'entrée de cette doctrine est conçu pour être le plus petit possible pour permettre à tout les commandants de se lancer dans le combat contre n'importe laquelle des variantes d'intercepteur thargoid. The tactics and maneuvers involved also carry over through all four Interceptor variants with only one additional maneuver needed for Basilisks due to their speed.
+Le but de cette doctrine est d'introduire des nouveaux commandants ou des vétérans à un style de combat spécifique et aux configurations de vaisseau qui fonctionnent contre les quatre variantes d'intercepteurs thargoïd. Le coût d'entrée de cette doctrine est conçu pour être le plus petit possible pour permettre à tout les commandants de se lancer dans le combat contre n'importe laquelle des variantes d'intercepteur thargoid. Les tactiques et les manœuvres impliquées servent pour les quatre variantes d'intercepteur, avec une seule manœuvre supplémentaire nécessaire pour les Basilisks en raison de leur vitesse.
 
-For this doctrine to be effective a commander must have a basic understanding of flying with flight assist off. This doctrine is not designed for flight assist on combat, since it would interfere with many maneuvers within this doctrine.
+Pour que cette doctrine soit efficace, un commandant doit avoir une compréhension de base du pilotage sans assistance de vol. Cette doctrine n'est pas conçue pour les combats avec assistance de vol, car cela interférerait avec de nombreuses manœuvres abordées dans cette doctrine.
 
-This doctrine is centered around a combat loop - essentially you are repeating the same tactics for all hearts (Save for the initial engagement) allowing any commander to refine their abilities in the specific motions of this doctrine.
+Cette doctrine est centrée autour d'une boucle de combat - vous répéterez essentiellement les mêmes tactiques pour tous les cœurs (sauf pour le début du combat), ce qui permet à n'importe quel commandant d'affiner ses capacités à effectuer les mouvements spécifiques de cette doctrine.
 
-This doctrine also allows for minimal focus on pip management due to the fact that it concerns flying without a shield, allowing you to set your power priorities and focus elsewhere.
+Cette doctrine permet également de se concentrer le moins possible sur la gestion des pips car elle concerne le vol sans bouclier, ce qui vous permet d'établir vos priorités de puissance sur le répartiteur puis de vous concentrer ailleurs.
 
-# Ship Loadout
-This doctrine centers itself around the Chieftain as its primary ship. The Challenger may also be used as a substitute with minor changes to its hardpoints. (Challenger build guide under construction) Ships such as the Krait MKII, Krait Phantom or FAS may also be used but due to the cheap entry cost of the Chieftain, its hard point layout and maneuverability, it is the primary focus for this doctrine.
+# Configuration du vaisseau
+Cette doctrine se concentre principalement sur le Chieftain. Le Challenger peut également être utilisé avec des modifications mineures de ses points d'emport. (Guide de configuration du Challenger en construction) Des vaisseaux tels que le Krait MKII, le Krait Phantom ou le FAS peuvent également être utilisés mais en raison du coût bon marché du Chieftain, de sa disposition de points d'emport et de sa manœuvrabilité, ce sera la priorité principale de cette doctrine.
 
-## Core Internals
-- Military Grade Composite (Heavy Duty/Deep Plate)
-- 6A Power Plant (Armored/Thermal Spread)
-- 6A Thrusters (Dirty/Drag Drives)
-- 5A Frame Shift Drive (Any class/modification optional depending on commander)
-- 5A Life Support (Lightweight optional)
-- 6A Power Distributor (Charge Enhanced/Super Conduits)
-- 4D Sensors (Long range optional)
-- 4C Fuel Tank
+## Modules internes primordiaux
+- Composite de grade militaire (Lourd / épais)
+- 6A Générateur (Générateur blindé / Répartition thermique)
+- 6A Propulseurs (Optimisation de réacteur détériorante/débridage des réacteurs)
+- 5A Réacteur FSD (n'importe quelle classe/modification optionnelle selon le commandant)
+- 5A Système de survie (léger optionnel)
+- 6A Répartiteur de Puissance (Rapide/Super Conduits)
+- 4D Capteurs (Longue portée optionnel)
+- 4C Réservoir de carburant
 
-## Optional Internals
-- 5D Repair Limpet Controller
-- 5D Hull Reinforcement Package (Heavy Duty/Deep Plate)
-- 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate)
-- 4D Module Reinforcement Package
-- 2D Guardian Module Reinforcement Package
-- 2E Cargo rack
-- 1A Auto Field-Management Unit
+## Modules internes optionnels
+- 5D Contrôleur de drones réparateurs
+- 5D Renforts de coque (Lourd/épais)
+- 4D Renforts de coque x3 (Lourd/épais)
+- 4D Renforts de modules
+- 2D Renforts de module guardien
+- 2E Compartiments de soute
+- 1A Unité de maintenance
 
-## Hardpoints
-- 2B Guardian Gauss Cannons x2 (Fitted in the 2 Large Slots)
-- 2B Remote Release Flak Launcher (Medium Slot)
-- 1D Guardian Gauss Cannons x2 (Fitted in the two small slots to the left and right of the hull)
-- 1G Beam Laser (Long Range/Thermal Vent fitted in the small middle weapon slot)
+## Points d'emport
+- 2B Canon de gauss gardien x2 (placés sur les deux emplacements larges)
+- 2B Lanceur antiaérien déclenché a distance (emplacement moyen)
+- 1D Canon de gauss gardien x2 (placés sur les deux petits emplacements à gauche et à droite de la coque)
+- 1G Rayon laser (Longue portée/ventilation thermique placé sur le petit emplacement d'arme au centre)
 
-## Utility
-- 3x OI Heat Sink Launchers(Ammo Capacity)
-- Xeno Scanner/Heat Sink Launcher (Dependent on commander if they wish to see the Thargoid's hull and swarm numbers.)
+## Utilitaires
+- OI Dissipateurs thermiques x3 (chargeur grande capacité)
+- Détecteur de xénomorphes/dissipateur thermique (dépend de si le commandant souhait voir la coque du thargoid et le nombre de thargons restants de l'essaim)
 
-If you have no preference for the Xeno Scanner especially for the lower variants having the 4th heat sink slot will ensure you should never need to synthesize heat sinks on the lower Interceptor variants.
+Si vous n'avez pas de préférence pour le détecteur de xénomorphes, avoir un 4ème dissipateur thermique vous assurera de ne jamais avoir besoin de faire des synthèses sur les variantes d'intercepteurs inférieures.
 
-# Engineering
-The purpose of the engineers listed is to minimize the needed engineers for entry level commanders into this doctrine while also allowing the more experienced commanders to utilize further engineers to maximize their ship. The engineers needed for the modifications are as follows:
+# Modifications d'ingénieurs
+L'objectif de cette liste est de minimiser les ingénieurs nécessaires pour les nouveaux commandants tout en permettant aux commandants plus expérimentés d'utiliser d'autres ingénieurs pour maximiser leur vaisseau. Les ingénieurs nécessaires aux modifications sont les suivants:
 
-## Minimum Engineers:
-- The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
-- Selene Jean (Kuk) - G5 Hull Reinforcement Package (Heavy Duty/Deep Plate)
-- G5 Armor (Heavy Duty/Deep Plate)
-- Hera Tani (Kuwemaki) - G5 Power Plant (Armored/Thermal Spread)
-- Professor Palin (Arque) - G5 Thrusters(Dirty/Drag Drives)
-- Broo Tarquin (Muang) - G5 Beam Laser (Long Range/Thermal Vent)
-- Ram Tah (Meene) - Heat Sink Launcher (Ammo Capacity)
+## Ingénieurs indispensables:
+- The Dweller (Wyrd) - G5 Répartiteur de Puissance (Rapide/Super Conduits)
+- Selene Jean (Kuk) - G5 Renforts de coque (Lourd / épais)
+- G5 Blindage (Lourd / épais)
+- Hera Tani (Kuwemaki) - G5 Générateur (Générateur blindé / Répartition thermique)
+- Professor Palin (Arque) - G5 Propulseurs (Optimisation de réacteur détériorante/débridage des réacteurs)
+- Broo Tarquin (Muang) - G5 Rayon laser (Longue portée/ventilation thermique)
+- Ram Tah (Meene) - Dissipateurs thermiques (chargeur grande capacité)
 
-## Optional Engineers:
-- Felicity Farseer (Deciat) - G5 Frame Shift Drive engineering
-- Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensors engineering
+## Ingénieurs optionnels:
+- Felicity Farseer (Deciat) - G5 Réacteur FSD modifié
+- Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Capteurs modifiés
 
-VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
+Vidéo: [Débloquer les ingénieurs par CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
-# Purpose of Ship and Engineering
+# Objectif du vaisseau et des modifications
 - With the fitting and engineers listed this is the baseline of the doctrine needed to fully utilize the fitting of the ship with the engineers available for each module. If utilizing all engineers you are fully maximizing the capabilities of the Chieftain to allow you to engage all Interceptor variants efficiently and effectively.
 - The speed of the Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 500 m/s which is more than needed to engage any Interceptor variant. Basilisks requires an additional maneuver to combat due to its speed. See Basilisk Considerations
 

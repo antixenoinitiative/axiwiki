@@ -1,20 +1,20 @@
 ---
-title: Caustic Blocking
-description: Advanced guide to blocking caustic missiles
-published: true
+title: Блокирование Ракеты с Едким Веществом
+description: Расширенное руководство по блокировке Ракеты с Едким Веществом
+published: Опубликовано
 date: 2021-06-21T02:24:43.961Z
-tags: combat, interceptors, caustic missiles
+tags: Бои, Перехватчики, Ракеты с Едким Веществом
 editor: markdown
 dateCreated: 2021-06-21T02:24:42.124Z
 ---
 
-# Caustic Missile Blocking
-Thargoid Caustic missiles are launched in volleys, and when in a multi-CMDR fight, there will be one volley of missiles assigned for each CMDR that the Interceptor is in combat with at the time the missiles are activated. When the Thargoid Interceptor is able to successfully begin a Caustic Missile attack, each volley for each commander is launched sequentially, one after the other until each volley has been deployed. **If the ‘current target’ is detected and triggers a Caustic Volley, all other CMDRs will also get a volley assigned, regardless of heat and distance.**
+# Блокирование Ракеты с Едким Веществом
+Ракеты с Едким Веществом Таргоидов запускаются залпами, а во время боя с участием нескольких Командиров, будет выпущено по одной ракете на каждого Командира, с которым Перехватчик сражается во время пуска ракет. Когда Таргоидский Перехватчик способен успешно начать атаку ракетами, каждая ракета будет запущена к каждому Командиру по очереди, одна после другой пока каждая из них не будет выпущена. **Если 'текущая цель' обнаружена и вызывает пуск Ракет, все остальные КМДРы тоже получат ракету назначенную на них, независимо от тепла или расстояния.**
 
-When the Interceptor launches a volley, it must be able to make a **Target Lock** on them to fire. The Thargoid Interceptor can only make a **Target Lock** when the volley target has a heat signature above the **minimum detection threshold** (~20%) or are within the **minimum detection range** (~700m).
+Когда Перехватчик делает залп, он должен быть способен **Зафиксировать цель** на них для пуска. Таргоидский Перехватчик может сделать только **Фиксирование цели** только если цель залпа имеет тепловую сигнатуру выше **минимального порога обнаружения** (~20%) или находится в пределах **минимального радиуса обнаружения** (~700m).
 
-If the Interceptor cannot get a **Target Lock** on the specific CMDR for that volley, it will wait **indefinitely** until it can get it. This effectively put **ALL** other caustic missiles on-hold **until the pending volley is fired**. Aka: The Thargoid is now constipated.
+Если Перехватчик не может совершить **Фиксирование Цели** на конкретном Командире, он будет ждать **неопределённое время** пока не сможет сделать это. Это эффективно действует на **ВСЕ** другие ракеты путём откладывания их запуска **до тех пор, пока ожидающая ракета не будет запущена**. Ака: Таргоид в настоящее время запутался.
 
-Should the target of the pending volleys remain cold and undetectable for the rest of the fight, **the Interceptor will not be able to fire any more Caustic Missiles.**
+Если цель для следующей ракеты остаётся холодной и необнаруживаемой до самого конца битвы, **Перехватчик больше не сможет запускать Ракеты с Едким веществом.**
 
-It is worth noting that unlike triggering the volley itself (which requires you to be within 3km), if a volley is assigned to you and, for example, 2 out of 3 missiles are launched before you become undetectable, the last missile can be launched at any range and at any time as soon as your heat goes above the detection range.
+Следует отметить, что в отличии запуска самих ракет (что требует от вас находится в радиусе 3Км), если ракета назначена на вас и, для примера, 2 из 3 ракет уже запущено до того как вы станете необнаруживаемым, последняя ракета сможет быть запущена на любом расстоянии и в любое время как только нагрев вашего корабля поднимет ваш радиус обнаружения выше минимального.

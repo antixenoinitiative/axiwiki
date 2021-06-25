@@ -1,6 +1,6 @@
 ---
-title: Home
-description: Welcome to the Anti-Xeno Initiative Wiki. Your complete repository for Anti-Xeno Combat.
+title: Inicio
+description: Bienvenido a la Wiki de la Anti-Xeno Initiative. Su repositorio completo para Combate Anti-Xeno.
 published: true
 date: 2021-06-24T02:38:47.135Z
 tags:
@@ -10,47 +10,47 @@ dateCreated: 2021-06-08T12:40:49.911Z
 
 ![home.jpg](/img/home.jpg)
 
-# Welcome!
+# ¡Bienvenido!
 
-Welcome to the Anti-Xeno Initiative Wiki. This is the primary repository of information gathered by the Anti-Xeno Initiative, here you will find tutorials, guides and all kinds of data regarding Thargoid Combat in Elite Dangerous.
+Bienvenido a la Wiki de la Anti-Xeno Initiative. Este es el repositorio principal de la información recopilada por la Anti-Xeno Initiative, aquí encontrarás tutoriales, guías y todo tipo de datos sobre Combate Thargoide en Elite Dangerous.
 
 
-# Explore
+# Explora
 
-Use the **Search bar** at the **top** of this page to get started
+Usa la **Barra de búsqueda** en la **parte superior** de esta página para empezar
 
 ![](/img/2021-06-21_15_15_32-home___anti-xeno_initiative_wiki_-_beta.png)
 
-Or use the **Navigation bar** on the **left-hand** side to browse through the wiki.
+O usa la **Barra de Navegación** en el **lado izquierdo** para navegar por la wiki.
 
 ![](/img/2021-06-21_15_17_34-home___anti-xeno_initiative_wiki_-_beta.png)
 
-The **Anti-Xeno Initiative Wiki** has many topics, if you can't find sometihing, let us know in the **#website-discussion** channel in the AXI Discord.
+La **Wiki de la Anti-Xeno Initiative** tiene muchos temas, si no puedes encontrar alguno, haznos saber en el canal **#website-discussion** en el Discord de AXI.
 
-# Contribute
-!\[https://github.com/antixenoinitiative/axiwiki\](/img/github.png =250x) Want to take part in the **Anti-Xeno Initiative Wiki** project? Head to our [GitHub Repository](https://github.com/antixenoinitiative/axiwiki) or join us in the [AXI discord](https://discord.gg/bqmDxdm).
+# Contribuye
+!\[https://github.com/antixenoinitiative e/axiwiki\](/img/github.png =250x) ¿Quieres formar parte en el proyecto de la **Wiki de la Anti-Xeno Initiative**? Dirígete a nuestro [Repositorio de GitHub](https://github.com/antixenoinitiative/axiwiki) o únete a nosotros en el discord de [AXI](https://discord.gg/bqmDxdm).
 
-# Credits
+# Créditos
 
-A big thanks to our content and development team! ❤️
+¡Un gran agradecimiento a nuestro equipo de contenido y desarrollo! ❤️
 
-**Content Creators**
-- CMDR Aranionros Stormrage
-- CMDR Mechan
-- CMDR Aterius
-- CMDR EuanAB
-- CMDR Avasa Siuu
-- CMDR Maligno
+**Creadores de Contenido**
+- CMDT Aranionros Stormrage
+- CMDT Mechan
+- CMDT Aterius
+- CMDT EuanAB
+- CMDT Avasa Siuu
+- CMDT Maligno
 
-**Translators**
-- CMDR alterNERDtive
-- CMDR Trex63
-- CMDR Xarionn
-- CMDR St4n2012
-- CMDR Trebiscotti
+**Traductores**
+- CMDT alterNERDtive
+- CMDT Trex63
+- CMDT Xarionn
+- CMDT St4n2012
+- CMDT Trebiscotti
 
-**Developers**
-- CMDR Willhof
-- CMDR Sanctified
+**Desarrolladores**
+- CMDT Willhof
+- CMDT Sanctified
 
-And to everyone else in the Anti-Xeno Initiative who has helped make this project possible!
+¡Y a todos los demás de la Anti-Xeno Initiative que han ayudado a hacer posible este proyecto!

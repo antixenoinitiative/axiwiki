@@ -1,19 +1,19 @@
 ---
-title: Thargoid Hearts
-description: All Thargoids have a specific number of internal modules known as hearts, these grant the Thargoid Interceptor very fast hull regeneration.
+title: Thargoid Herzen
+description: Alle Thargoids haben eine bestimmte Anzahl von internen Modulen, die als Herz bekannt sind, diese erlauben dem Interceptor seine Leben sehr schnell zu regenerieren.
 published: true
 date: 2021-06-17T00:35:52.830Z
-tags: combat, thargoids, interceptors, hearts
+tags: Gefecht, Thargoids, Interceptors, Herzen
 editor: markdown
 dateCreated: 2021-06-17T00:35:26.084Z
 ---
 
-# Thargoid Hearts
-All Thargoids have a specific number of internal modules known as hearts, these grant the Thargoid Interceptor very fast hull regeneration. The hearts are positioned around the outside of the Interceptor as petals, depending on the variant you will be able to break a number of these petals off completely, indicating that the heart has been broken
+# Thargoid Herzen
+Alle Thargoids haben eine bestimmte Anzahl von internen Modulen, die als Herz bekannt sind, diese erlauben dem Interceptor seine Leben sehr schnell zu regenerieren. Die Herzen liegen an der Außenseite des Interceptors und bilden Blütenblätter. Je nach Interceptor-Variante, können einige oder sogar alle dieser Blüten angebrochen werden, das abbrechen deutet darauf hin, dass das Herz zerstört wurde.
 
 ## Regeneration
 
-Thargoid Hearts give the Interceptor incredibly fast regeneration, this will make destroying the Interceptor nearly impossible until all hearts are broken.
+Thargoid Herzen versorgen den Interceptor mit der Fähigkeit sich extrem schnell zu regenerieren, es ist fast unmöglich den Interceptor zu töten, bevor alle Herzen zerstört wurden.
 
 ## Exertion
 
@@ -27,7 +27,7 @@ Thargoid Hearts are immune to damage by default. However you can make the hearts
 ### Exerted Hydra Heart
 !\[hydraheart.png\](/img/hydraheart.png =400x)
 
-## Destroying the Heart
+## Herzen zerstören
 
 During the exertion, any direct AX damage dealt to the heart will cause it to lose health. Hearts to do not regenerate and any damage done to them is permanant. If you fail to break the heart during this 45 second window, you will have to re-exert the Thargoid Interceptor again, this will always exert the same heart.
 
@@ -45,7 +45,7 @@ You can sub-target the hearts if you use a Xeno-Scanner on the Interceptor and c
 
 A short video by CMDR Aranionros Stormrage on a very fast and effective way to collect Thargoid Hearts from a dead Thargoid Interceptor without waiting for the Caustic cloud to dissapate.
 
-[Video by CMDR Aranionros Stormrage](https://youtu.be/YBM9TqCZJMg)
+[Video von CMDR Aranionros Stormrage](https://youtu.be/YBM9TqCZJMg)
 
 
 ## How to Scoop Hearts Quickly
