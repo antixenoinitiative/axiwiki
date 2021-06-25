@@ -30,11 +30,11 @@ Le **wiki de l'Anti-Xeno Initiative** couvre de nombreux sujets. Si vous ne trou
 # Contribuez
 !\[https://github.com/antixenoinitiative/axiwiki\](/img/github.png =250x) Vous voulez participer au projet de **wiki de l'Anti-Xeno Initiative**? Rendez-vous sur notre [dépôt GitHub](https://github.com/antixenoinitiative/axiwiki) ou rejoignez-nous sur le[serveur Discord de l'AXI](https://discord.gg/bqmDxdm).
 
-# Credits
+# Crédits
 
-A big thanks to our content and development team! ❤️
+Un grand merci à notre équipe de développement et d'écriture ! ❤️
 
-**Content Creators**
+**Créateurs de Contenu**
 - CMDR Aranionros Stormrage
 - CMDR Mechan
 - CMDR Aterius
@@ -42,15 +42,15 @@ A big thanks to our content and development team! ❤️
 - CMDR Avasa Siuu
 - CMDR Maligno
 
-**Translators**
+**Traducteurs**
 - CMDR alterNERDtive
 - CMDR Trex63
 - CMDR Xarionn
 - CMDR St4n2012
 - CMDR Trebiscotti
 
-**Developers**
+**Développeurs**
 - CMDR Willhof
 - CMDR Sanctified
 
-And to everyone else in the Anti-Xeno Initiative who has helped make this project possible!
+Et à tous ceux de l'Anti-Xeno Initiative qui m'ont aidé à réaliser ce projet !
