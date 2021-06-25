@@ -1,6 +1,6 @@
 ---
 title: Trouver des Thargoids
-description: 'Comment trouver des Thargoids dans Elite: Dangerous'
+description: Comment trouver des Thargoids dans Elite Dangerous
 published: true
 date: 2021-06-15T11:22:39.700Z
 tags: thargoids, intercepteurs, éclaireurs
@@ -9,24 +9,24 @@ dateCreated: 2021-06-15T10:50:27.574Z
 ---
 
 # Trouver des Thargoids
-Les Thargoids savent se faire discrets mais il existe des astuces et des zones d'activité à connaître qui peuvent vous aider à trouver ce que vous cherchez. The most consistent means is to find Thargoids in **Non-Human Signal Sources (NHSS)** in either the Pleiades Region, Coalsack Nedula or the Witch Head Nebula. However, you can also find Thargoids at a few static locations across human space.
+Les Thargoids savent se faire discrets mais il existe des astuces et des zones d'activité à connaître qui peuvent vous aider à trouver ce que vous cherchez. Le moyen le plus fiable est de chercher des Thargoids dans les **Sources de Signal Non Humaines (NHSS)** dans les régions des Pléiades, de Coalsack ou de Witch Head Nebula. Cependant, vous pouvez aussi trouver des Thargoids à certains endroits fixes à travers l'espace humain.
 
-> ## Current Active Regions
+> ## Zones d'activité actuelles
 > 
-> Pleiades Nebula (~100Ly around Merope) Witch Head Nebula (~75Ly around Witch Head Sector IR-W C1-9) Coalsack Nebula (~Region Size Unknown) 
+> Pleiades Nebula (~100 al autour de Merope) Witch Head Nebula (~75 al autour de Witch Head Sector IR-W C1-9) Coalsack Nebula (taille de la région inconnue) 
 > 
 > {.is-info}
 
-## Thargoid Locations
+## Emplacements Thargoids
 
-Thargoids can be found in various locations, such as:
-- [Non-Human Signal Sources](/en/nhss)
+Les Thargoids peuvent se trouver dans divers endroits, comme :
+- [Les Sources de Signal Non Humaines](/en/nhss)
 - [Hyperdictions](/en/hyperdictions)
-- [Static Signal Sources](/en/static-signals)
-- [Thargoid Structures](https://canonn.science/codex/the-unknown-structure/?highlight=structure)
+- [Sources de Signal Statiques](/en/static-signals)
+- [Structures Thargoids](https://canonn.science/codex/the-unknown-structure/?highlight=structure)
 
-## Activity Map
+## Carte des activités
 
 ![thargoidmap.png](/img/thargoidmap.png)
 
-[Click here for a full sized image](https://cdn.discordapp.com/attachments/625989888432537611/854310144946208808/Thargoid_Activity_Map_v0.5.png)
+[Cliquez ici pour une image en taille complète](https://cdn.discordapp.com/attachments/625989888432537611/854310144946208808/Thargoid_Activity_Map_v0.5.png)
