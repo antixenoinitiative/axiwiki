@@ -9,16 +9,16 @@ dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
 # Fortgeschrittener Thargoid Gefechtsleitfaden
-Der Zweck dieses Leitfadens ist die Einführung neuer oder Veteranen-kommandeure in einen bestimmten Kampfstil und Schiffsbau, welcher gegen alle vier Thargoid Interceptor Varianten funktioniert. Die Startkosten dieses Leitfadens sollen so gering wie möglich sein, um jedem Kommandanten die Möglichkeit zu geben, am Thargoid Interceptor Kampf teilzunehmen. Die enthaltenen Taktiken und Manöver umfassen alle vier Interceptor Varianten mit nur einem zusätzlichen Manöver für Basilisken aufgrund ihrer Geschwindigkeit.
+Der Zweck dieses Leitfadens ist die Einführung neuer oder erfahrener Kommandanten in einen bestimmten Kampfstil und Schiffsbau, welcher gegen alle vier Thargoid Interceptor Varianten funktioniert. Die Startkosten dieses Leitfadens sollen so gering wie möglich sein, um jedem Kommandanten die Möglichkeit zu geben, am Thargoid Interceptor Kampf teilzunehmen. Die enthaltenen Taktiken und Manöver umfassen alle vier Interceptor Varianten mit nur einem zusätzlichen Manöver für Basilisken aufgrund ihrer Geschwindigkeit.
 
 Zum Nutzen dieses Leitfadens muss der Pilot über grundlegendes Wissen zum Fliegen ohne Flugassistenten (F/A off) verfügen. Dieser Leitfaden ist nicht für den Flug mit Flugassistenten ausgelegt, da dieser mehrere Flugmanöver beinträchtigen würde.
 
-Diese Leitfaden zentriert sich um eine Kampfschleife - im Wesentlichen wiederholst du die gleiche Taktik für alle Herzen (ausgenommen beim Start des Kampfes), die es jedem Kommandanten erlaubt, seine Fähigkeiten in den spezifischen Bewegungen dieses Leitfadens zu verfeinern.
+Diese Leitfaden zentriert sich um einen Kampfzyklus - im Wesentlichen wiederholt man die gleiche Taktik bei allen Herzen (ausgenommen beim Start des Kampfes), was jedem Kommandanten erlaubt, seine Fähigkeiten in bestimmten Teilen dieses Leitfadens zu verfeinern.
 
-Dieser Leitfaden gibt auch einen kleinen Blick auf das Punkte-Management, da es wichtig für das Fliegen ohne Schutzschild ist, so kann die Energie-Priorität auf das momentane Ziel ausgerichtet werden.
+Dieser Leitfaden gibt auch einen kleinen Blick auf das Pip-Management, da es wichtig für das Fliegen ohne Schutzschild ist. So kann die Energie-Priorität auf das momentane Ziel ausgerichtet werden.
 
 # Schiffs Ausstattung
-Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der Challenger kann auch als Alternative, mit geringfügigen Änderungen an seiner Bewaffnung, verwendet werden. (Challenger Ausstattung im Bau) Schiffe wie der Krait MKII, Krait Phantom oder FAS können auch verwendet werden, aber wegen der niedrigen Eintrittskosten des Chieftains, seiner Bewaffnungs Auslegung und Manövrierbarkeit, ist er der Hauptfokus für diesen Leitfaden.
+Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der Challenger kann, mit geringfügigen Änderungen an seiner Bewaffnung, auch verwendet werden. (Challenger Ausstattung unfertig) Schiffe wie der Krait MKII, Krait Phantom oder FAS können auch verwendet werden, aber wegen der niedrigen Eintrittskosten des Chieftains, seiner Bewaffnungs Auslegung und Manövrierbarkeit, ist er der Hauptfokus für diesen Leitfaden.
 
 ## Intern (Basis)
 - Millitär-Komposit (Heavy Duty/Deep Plate)
@@ -88,9 +88,9 @@ VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www
 - Kühlkörper können notwendig werden, wenn nach Zerstörung eines Herzens die eigene Hitze noch bei über 15% ist. Der Interceptor Schlafmodus wird in Abschnitt VIII näher erläutert.
 
 # Beginn und anschließender Herz-Kampf Zyklus
-- Beim Treffen auf einen Thargoid Interceptor, jeder Variante in einer Nichtmenschlichen Signalquelle (NHSS), sollte der Kampf erst beginnen nachdem der Interceptor seinen Scan absgeschlossen hat. Der Zweck davon, den Intercptor seinen Scan beenden zu lassen, ist es den Interceptor selbst scannen zu können, falls man einen Xeno-Scanner ausgerüstet hat.
+- Beim Treffen auf egal welche Thargoid Interceptor Variante, in einer Nichtmenschlichen Signalquelle (NHSS), sollte der Kampf erst beginnen nachdem der Interceptor seinen Scan abgeschlossen hat. Der Zweck davon, den Intercptor seinen Scan beenden zu lassen, ist es den Interceptor selbst scannen zu können, falls man einen Xeno-Scanner ausgerüstet hat.
 -
-- Deaktiviere den Flugassistenten und greif mit dem Strahlenlaser an. [Punkteverteilung bei: 0-4-2]
+- Deaktiviere den Flugassistenten und greif mit dem Strahlenlaser an. [Pips auf: 0-4-2]
 -
 - Sobald der Interceptor angressivem Zustand ist setzt er seinen Schwarm frei. Fliege mit Schub am Interceptor vorbei und erreiche eine empfohlene Distanz von 4-6km. [Punkteverteilung bei: 0-4-2]
 -
@@ -131,19 +131,19 @@ VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www
 - Eine weitere ähnliche Taktik wie der Kälteschub ist es, den stillen Lauf zu aktivieren und mit Schub 180° am Basilisken vorbei zu fliegen. (Die Optionen hängen vom Kommandanten ab.) Ziel dieses Manövers ist es, dem Kommandeur zu ermöglichen, Kühlkörper zu sparen und trotzdem dasselbe zu erreichen, wenn man Schutzschildlose Austattungen fliegt.
 
 ## Basilisk Anpassungen
-Die Basilisk Variante hat eine Höchstgeschwindigkeit von 530 m/s. Der Chieftain, nach Leitfaden gebaut, ist nicht so schnell wie der Basilisk. Ein nötiges Manöver namens Kälteschub (Kühlkörper aktivieren, bevor man 180° am Basilisk vorbeizieht) erlaubt einem Wertvolle Distanz zu gewinnen um benötigte Reparaturen und Synthesen vor dem nächsten Kampfzyklus durchzuführen. The Basilisk does not do well when it has to adjust its momentum from one direction to the opposite. Do take in mind this will put you in the path of the swarm also triggering its agitated state if you fly through it.
+Die Basilisk Variante hat eine Höchstgeschwindigkeit von 530 m/s. Der Chieftain, nach Leitfaden gebaut, ist nicht so schnell wie der Basilisk. Ein nötiges Manöver namens Kälteschub (Kühlkörper aktivieren, bevor man 180° am Basilisk vorbeizieht) erlaubt einem Wertvolle Distanz zu gewinnen um benötigte Reparaturen und Synthesen vor dem nächsten Kampfzyklus durchzuführen. Der Basilisk ist langsam beim Wenden. Man muss unbedingt beachten, dass man dabei in Flugrichtung des Schwarms gerät und seinen erregten Zustand auslösen kann, wenn man hindruchfliegt.
 
 # Schwarm Bewältigung
-The purpose of engaging the swarm first on the initial engagement is to remove the “banked” swarm of the Interceptor from the equation. Whenever an Interceptor is engaged and the heart is destroyed first, the banked swarm will then launch forcing the commander to have to deal with a second swarm. Removing the banked swarm from the equation will allow the commander to efficiently use his time to focus on all subsequent hearts.
+Der Zweck, beim Start des Kampfes, den Schwarm zuerst zu bekämpfen, besteht darin, den „ausbewahrten“ Schwarm des Interceptors aus dem Kampf zu nehmen. Immer wenn ein Interceptor angegriffen wird und das Herz zuerst zerstört wird, wird der aufbewahrte Schwarm zuerst freigesetzt und man müsste insgesammt mit zwei Schwärmen kämpfen. Den aufbewahrten Schwarm aus dem Kampf zu nehmen erlaubt sich in der gegebenen Zeit effektiver auf die folgenden Herzen zu fokussieren.
 
 # Zweck des kalten Umlaufs
-- The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
+- Der kalte Umlauf hat den Vorteil, dass der gesamte Schaden des Interceptors selbst umgangen werden kann, wenn, mit dem Schiff höchstens 20% Wärme, richtige Geschwindigkeit und Umlaufbahn in optimalem 15° Winkel zu den mittleren Interceptor Geschützen, beibehalten werden können. Diese Taktik wird von vielen erfahrenen AX-Kommandeuren verwendet, um jegliche Art von Schaden an ihrem Schiff zu verhindern, was es ihnen erlaubt, den Kampfzyklus fortzusetzen ohne, dass Module repariert werden müssen, was wertvolle Zeit in spart, vor allem bei fortgeschritteneren Interceptor Varianten.
 -
-- Cold orbiting is also the basis for more advanced Interceptor combat when wanting to use smaller ships and also for more advanced Thargon swarm management for small ships when flak launchers cannot be fitted. (beyond the scope of this guide)
+- Kalter Umlauf ist dazu auch die Grundlegende Flugtaktik für fortgeschrittenere Interceptor Bekämpfung wenn man kleinere Schiffe nutzen will. Vorallem für den Umgang mit dem Thargon Schwarm auf kleinen Schiffen die keine Flak ausrüsten können. (Übersteigt diesen Leitfaden)
 -
-- The amount of heat sinks within this doctrine will allow the destruction of any heart on any variants as long as the commander maintains a 900m-1.5km orbit maximising the damage output of the Gauss cannon.
+- Die Menge an Kühlkörpern, nach diesem Leitfaden, sollte die Zerstörung jedes Herzens auf allen Varianten ermöglichen, solange der Kommandant eine 0,9-1,5km Umlaufbahn einhält und damit die Schadensleistung der Gauss Kanonen komplett ausreizt.
 
-Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
+Abdriften aus optimaler Umlaufbahn führt zum Verbrauch von mehr Munition, wegen größerem Abstand und Leistungsverlust. Außerdem muss man mehr Kühlkörper nutzen. Außerhalb der Gefechtsbedingungen zu feuern wird nicht empfohlen.
 
 # Thargoid Schlafmodus
 - The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
