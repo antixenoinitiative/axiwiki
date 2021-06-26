@@ -1,20 +1,20 @@
 ---
-title: Caustic Blocking
-description: Advanced guide to blocking caustic missiles
-published: true
+title: Kaustik blockieren
+description: Fortgeschrittener Leitfaden zum blockieren von kaustischen Raketen
+published: ja
 date: 2021-06-21T02:24:43.961Z
 tags: combat, interceptors, caustic missiles
 editor: markdown
 dateCreated: 2021-06-21T02:24:42.124Z
 ---
 
-# Caustic Missile Blocking
-Thargoid Caustic missiles are launched in volleys, and when in a multi-CMDR fight, there will be one volley of missiles assigned for each CMDR that the Interceptor is in combat with at the time the missiles are activated. When the Thargoid Interceptor is able to successfully begin a Caustic Missile attack, each volley for each commander is launched sequentially, one after the other until each volley has been deployed. **If the ‘current target’ is detected and triggers a Caustic Volley, all other CMDRs will also get a volley assigned, regardless of heat and distance.**
+# Kaustische Raketen blockieren
+Kaustische Raketen der Thargoids werden, wenn sie aktiviert werden, in Salven abgefeuert. Im Kampf zusammen mit mehreren Kommandanten wird für jeden, der sich zu der Zeit im Kampf mit dem Thargoid befindet, eine eigene Salve abgefeuert. Wenn der Thargoid Interceptor den kaustische Raketen Angriff starten kann, werden die Salven für jeden Kommandanten nacheinander gestartet, bis alle Salven gestartet wurden. **Falls das "jetzige Ziel" eine kaustische Salve auslöst, wird jedem Kommandanten eine Salve zugewiesen, unabhängig von Wärmeausstoß und Distanz.**
 
-When the Interceptor launches a volley, it must be able to make a **Target Lock** on them to fire. The Thargoid Interceptor can only make a **Target Lock** when the volley target has a heat signature above the **minimum detection threshold** (~20%) or are within the **minimum detection range** (~700m).
+Wenn der Interceptor die Salve abfeuern will, muss er eine **Zielerfassung** durchführen können. Der Interceptor kann eine **Zielerfassung**nur durchführen, wenn das Ziel der Salve eine Wärmesignatur, also einen Wärmeausstoß über dem **Mindest-Erfassungswert**von etwa 20% hat oder innerhalb der **Mindest-Erfassungsreichweite** von etwa 700m ist.
 
-If the Interceptor cannot get a **Target Lock** on the specific CMDR for that volley, it will wait **indefinitely** until it can get it. This effectively put **ALL** other caustic missiles on-hold **until the pending volley is fired**. Aka: The Thargoid is now constipated.
+Falls der Interceptor keine **Zielerfassung** auf den entsprechenden Kommandanten durchführen kann, wird er **für unbestimmte Zeit** warten, bis er es kann. Sogesehen stellt das **ALLE** anderen Salven auf Halt, **bis die ausstehende Salve abgefeuert werden kann**. Auch genannt: Der Thargoid hat Verstopfung.
 
-Should the target of the pending volleys remain cold and undetectable for the rest of the fight, **the Interceptor will not be able to fire any more Caustic Missiles.**
+Sollte das Ziel der ausstehenden Salve für den Rest des Kampfes unerfassbar bleiben, **kann der Interceptor keinerlei kaustische Raketen mehr abfeuern.**
 
-It is worth noting that unlike triggering the volley itself (which requires you to be within 3km), if a volley is assigned to you and, for example, 2 out of 3 missiles are launched before you become undetectable, the last missile can be launched at any range and at any time as soon as your heat goes above the detection range.
+Es ist erwähnenswert, dass im Gegensatz zum Auslösen der Salve selbst (was voraussetzt, dass du innerhalb von 3 km bist) wenn eine Salve zugewiesen werden konnte und zum Beispiel 2 von 3 Raketen abgefeuert wurden, bevor du nicht mehr erfassbar warst, kann die letzte Rakete auf jede Reichweite und zu jeder Zeit gestartet werden, sobald der Wärmeausstoß über den Mindest-Erfassungswert steigt.
