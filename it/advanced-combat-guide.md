@@ -1,5 +1,5 @@
 ---
-title: Advanced Combat Guide
+title: Guida al Combattimento Avanzato
 description: Based on the Odysseus Doctrine by CMDR Avasa Siuu
 published: true
 date: 2021-06-17T04:01:30.341Z
@@ -104,9 +104,9 @@ VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lv
 -
 - Utilizzate un nuovo heat sinks cercando di anticipare la voce del vostro COVAS: “Heat sink Deployed”, fino a quando non avrete esposto e quindi distrutto il cuore.
 -
-- Ogni variante di Interceptor ha una durata specifica della sua fase di attacco. Conoscerla vi permetterà di gestire correttamente la vostra orbita. Once outside of its attack run window the Interceptor will change direction and reset for its own attack run forcing you to have to adjust your orbit accordingly. Use of your thermal vent beam during this time may be recommended if you drift outside of your orbit envelope.
+- Ogni variante di Interceptor ha una durata specifica della sua fase di attacco. Conoscerla vi permetterà di gestire correttamente la vostra orbita. Terminata la sua fase di attacco, l’ Interceptor modificherà la sua traiettoria per riorganizzare un nuovo attacco. Questo vi costringerà a manovrare per sincronizzazione nuovamente la vostra orbita. In questa fase il laser termal vent è raccomandato per ricostruire una nuova orbita senza essere rilevati dall’ Interceptor.
 -
-- Cyclops ≈30 Seconds -Basilisk & Medusa ≈26 Seconds -Hydra ≈20 Seconds
+- Durata della fase di attacco: Cyclops ≈30 Seconds -Basilisk & Medusa ≈26 Seconds -Hydra ≈20 Seconds
 -
 - Once the first heart is destroyed immediately switch back to your beam laser and begin cooling your ship while also attempting to gain a minimum distance of 3km (engaging reverse thrust) from the Interceptor. This is the time to set a pip into Systems to recharge systems capacitor from your use of heat sinks. [Pips at: 1-4-1]
 -
