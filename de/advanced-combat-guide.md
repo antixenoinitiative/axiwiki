@@ -1,9 +1,9 @@
 ---
 title: Fortgeschrittener Gefechtsleitfaden
-description: Basierend auf dem Odysseus-Leitfaden von CMDR Avasa Siuu
+description: Basierend auf der Odysseus-Doktrin von KMDT Avasa Siuu
 published: true
 date: 2021-06-17T04:01:30.341Z
-tags: Ausrüsten, Gefecht, Thargoids, Interceptors
+tags: Ausrüstung, Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
 ---
@@ -11,11 +11,11 @@ dateCreated: 2021-06-17T03:49:32.855Z
 # Fortgeschrittener Thargoid Gefechtsleitfaden
 Der Zweck dieses Leitfadens ist die Einführung neuer und erfahrener Kommandanten in einen bestimmten Kampfstil und Schiffsbau, welcher gegen alle vier Thargoid Interceptor Varianten funktioniert. Die Startkosten dieses Leitfadens sollen so gering wie möglich sein, um jedem Kommandanten die Möglichkeit zu geben, am Thargoid Interceptor Kampf teilzunehmen. Die enthaltenen Taktiken und Manöver umfassen alle vier Interceptor Varianten mit nur einem zusätzlichen Manöver für Basilisken aufgrund ihrer Geschwindigkeit.
 
-Zum Nutzen dieses Leitfadens muss der Pilot über grundlegendes Wissen zum Fliegen ohne Flugassistenten (F/A off) verfügen. Dieser Leitfaden ist nicht für den Flug mit Flugassistenten ausgelegt, da dieser mehrere Flugmanöver beinträchtigen würde.
+Um diesen Leitfaden zu beherrschen, muss der Pilot über grundlegendes Wissen zum Fliegen ohne Flugstabilisator (englisch: FA off) verfügen. Dieser Leitfaden ist nicht für den Flug mit Stabilisator ausgelegt, da dieser mehrere Flugmanöver beinträchtigen würde.
 
-Dieser Leitfaden zentriert sich um einen Kampfzyklus - im Wesentlichen wiederholt man die gleiche Taktik bei allen Herzen (ausgenommen beim Start des Kampfes), was jedem Kommandanten erlaubt, seine Fähigkeiten in bestimmten Teilen dieses Leitfadens zu verfeinern.
+Dieser Leitfaden handelt über einen Kampfzyklus - im Grunde wiederholt man die gleiche Taktik bei allen Herzen (abgesehen vom Anfang des Kampfes), was jedem Kommandanten erlaubt, seine Fähigkeiten in bestimmten Teilen dieser Doktrin zu verfeinern.
 
-Dieser Leitfaden gibt auch einen kleinen Blick auf das Pip-Management, da es wichtig für das Fliegen ohne Schutzschild ist. So kann die Energie-Priorität auf das momentane Ziel ausgerichtet werden.
+Dieser Leitfaden erlaubt auch, das Pip-Management zu vernachlässigen, da man ohne Schutzschild fliegt. So kann man Energie und Konzentration für Wichtigeres verwenden.
 
 # Schiffs Ausstattung
 Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der Challenger kann, mit geringfügigen Änderungen an seiner Bewaffnung, auch verwendet werden. (Challenger Ausstattung unfertig) Schiffe wie der Krait MKII, Krait Phantom oder FAS können auch verwendet werden, aber wegen der geringen Startkosten des Chieftains, seiner Bewaffnungs-Auslegung und Manövrierbarkeit, ist er der Hauptfokus für diesen Leitfaden.
