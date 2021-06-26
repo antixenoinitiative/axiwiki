@@ -1,6 +1,6 @@
 ---
-title: Common Mistakes
-description: Without a solid understanding of AX Mechanics it is very easy to make simple mistake when putting together an AX Ship.
+title: Erreurs fréquentes
+description: Sans une solide compréhension des mécaniques de l'AX, il est très facile de commettre des erreurs simples lorsque l'on équipe un vaisseau AX.
 published: true
 date: 2021-06-10T07:25:30.677Z
 tags: builds, outfitting, engineer
@@ -9,18 +9,18 @@ dateCreated: 2021-06-10T07:16:26.785Z
 ---
 
 # Common Build Mistakes
-Without a solid understanding of AX Mechanics it is very easy to make simple mistake when putting together an AX Ship. Here are some common mistakes people have made in the past… so you don’t have to!
+Sans une solide compréhension des mécaniques de l'AX, il est très facile de commettre des erreurs simples lorsque l'on équipe un vaisseau AX. Voici quelques erreurs fréquentes que les gens ont commises par le passé… et que vous ne devez donc pas faire!
 
-## Useless Utilities
+## Supports utilitaires inutiles
 ### tabs {.tabset}
-#### Point Defence
-Although it may seem like a good idea at first, point defence is hopelessly ineffective in Thargoid combat. Point Defence will fire upon both caustic and Thargon missiles, but it is incapable of actually hitting them. On top of this, they also have a habit of shooting down friendly Flak Launcher projectiles.
+#### Défense ponctuelle
+Bien que cela puisse sembler être une bonne idée au début, une défense ponctuelle est malheureusement inefficace dans les combats thargoïds. Une défense ponctuelle tirera sur les missiles caustiques et thargons, mais elle est incapable de les toucher. En plus de cela, ils ont aussi la fâcheuse tendance à tirer sur les projectiles amicaux des lanceurs antiaériens déclenchés à distance.
 
-#### Chaff
-Chaff does not affect Thargoids in any way, the use of chaff in AX combat will not help you. A similar effect can be achieved by Cold Orbiting instead.
+#### Lanceur de paillettes
+Un lanceur de paillettes n'affecte en rien les Thargoïds, leur utilisation en combat AX ne vous aidera donc pas. Un effet similaire peut être obtenu en effectuant un cold orbiting à la place.
 
-#### Electronic Countermeasures
-Similar to chaff, Electronic Countermeasures have no effect on Thargoid missiles or other weapons systems.
+#### Contre-mesures électroniques
+De la même manière que le lanceur de paillettes, les contre-mesures électroniques n'ont aucun effet sur les missiles Thargoïd ou leurs autres armes.
 
 ## Ship Launched Fighters
 A somewhat controversial topic as there are still some particular uses for these, however in typical AX fights, Ship Launched Fighters (or SLFs) are more of a bother than they are a benefit. Due to their paper thin hull, mediocre damage and laughable lifespan, even a SLF in the hands of a good pilot will still be less beneficial to perhaps using that same module slot for some more armour. Keep in mind that an AI pilot will also be taking a cut of all profits and rank obtained in the meantime too.
