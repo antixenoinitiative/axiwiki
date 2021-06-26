@@ -43,41 +43,41 @@ Am 26. September 3303 begann die Cyclops-Variante, wahllos unabhängige Schiffe 
 **Herzen**: 4 **Maximale Geschwindigkeit**: 450 m/s **Auszahlung**: 8,000.000 Cr
 
 ## **Basilisk**
-!\[basilisk-small.png\](/img/basilisk-small.png =250x){.align-right}Erstmals angetroffen am 13. November 3303 Der Basilisk ist eine härtere Variante des Cyclops mit einer besonderen Eigenschaft, der Geschwindigkeit. Der Basilisk ist die einzige Interceptor-Variante, die eine höhere Höchstgeschwindigkeit hat. This makes the basilisk a significant threat, especially to larger more cumbersome ships. Along with higher speed the Basilisk is also generally tougher, with one extra heart and a heavier hitting primary cannon.
+!\[basilisk-small.png\](/img/basilisk-small.png =250x){.align-right}Erstmals angetroffen am 13. November 3303 Der Basilisk ist eine härtere Variante des Cyclops mit einer besonderen Eigenschaft, der Geschwindigkeit. Der Basilisk ist die einzige Interceptor-Variante, die eine höhere Höchstgeschwindigkeit hat. Dies macht den Basilisken zu einer erheblichen Bedrohung, insbesondere für grössere, schwerfälligere Schiffe. Zusammen mit der höheren Geschwindigkeit ist der Basilisk auch generell zäher, mit einem zusätzlichen Herz und einer stärkeren Primärkanone.
 
-The Basilisk has a similar model to the Cyclops, with its distinguishing features being the darker red/brown tones and leopard print patterns on its petals.
+Der Basilisk hat ein ähnliches Modell wie der Cyclops, wobei seine Unterscheidungsmerkmale die dunkleren Rot-/Brauntöne und die Leopardenmuster auf seinen Blütenblättern sind.
 
 **Hearts**: 5 **Max Speed**: 530 m/s **Payout**: 24,000,000 Cr
 
 ## **Medusa**
-!\[medusa-small.png\](/img/medusa-small.png =250x){.align-right}The Medusa variant was first witnessed on December 14, 3303 while attacking three stations. The Medusa is a greatly enhanced version of the Basiliks with much higher overall damage output and an extra heart. However the Medusa once again moves at the same speed as a Cyclops.
+!\[medusa-small.png\](/img/medusa-small.png =250x){.align-right}Die Medusa-Variante wurde erstmals am 14. Dezember 3303 beim Angriff auf drei Stationen beobachtet. Die Medusa ist eine stark verbesserte Version der Basiliks mit viel höherem Gesamtschaden und einem zusätzlichen Herz. Allerdings bewegt sich die Medusa wieder mit der gleichen Geschwindigkeit wie ein Cyclops.
 
-Not only is the Medusa a more vibrant red and black color, it also sports an array of sharp spine-like appendages that protrude from each petal and in-front of the canopy. This gives the Medusa variant a very menacing appearance.
+Die Medusa hat nicht nur eine leuchtendere rot-schwarze Farbe, sondern trägt auch eine Reihe von scharfen, stachelartigen Anhängseln, die aus jedem Blütenblatt und vor der Kabine herausragen. Dies verleiht der Medusa-Variante ein sehr bedrohliches Aussehen.
 
-__*Beta Changes*__ During the Janurary 2020 beta tests the Medusa variant appeared to have its normal spikes replaces with a much smaller more simple spike. We are currently unaware if this will make it into the Live game.
+__*Beta-Änderungen*__ Während der Beta-Tests im Janurary 2020 scheint die Medusa-Variante ihre normalen Stacheln durch viel kleinere, einfachere Stacheln zu ersetzen. Wir wissen derzeit nicht, ob dies in das Live-Spiel aufgenommen wird.
 
-**Hearts**: 6 **Max Speed**: 450 m/s **Payout**: 40,000,000 Cr
+**Herzen**: 4 **Maximale Geschwindigkeit**: 450 m/s **Auszahlung**: 40,000.000 Cr
 
 ## **Hydra**
-!\[hydra-small.png\](/img/hydra-small.png =250x){.align-right}On August 23, 3304 the Hydra variant interceptor was first encountered. The Hydra variant is a significant step-up in power and toughness to the Medusa with an extra two hearts and overall higher armour toughness. The Hydra also exhibits a faster reload time which means it has a much more aggressive damage profile. The Hydra variant is currently the toughest Thargoid present and is a huge challenge to even the most experienced AX pilots.
+!\[hydra-small.png\](/img/hydra-small.png =250x){.align-right}Am 23. August 3304 wurde der Interceptor der Hydra-Variante erstmals angetroffen. Die Hydra Variante ist eine deutliche Erhöhung der Stärke und Widerstandskraft gegenüber der Medusa mit zwei zusätzlichen Herzen und insgesamt höherer Rüstungswiderstandskraft. Die Hydra weist auch eine schnellere Nachladezeit auf, was bedeutet, dass sie ein viel aggressiveres Schadensprofil hat. Die Hydra-Variante ist der derzeit härteste Thargoid und stellt selbst für die erfahrensten AX-Piloten eine große Herausforderung dar.
 
-The Hydra variant exhibits bright green colors and a multitude of changes in its shape and form. The Hydra has another set of petals that sit behind the primary petals which actively obscure a pilot's view of the hearts. The Hearts themselves are also different with spine appendages running along the counter-clockwise side of each petal. Furthermore the Hydra variant exhibits a different canopy layout with a cage covering the main canopy.
+Die Hydra-Variante zeigt leuchtend grüne Farben und eine Vielzahl von Veränderungen in ihrer Form und Gestalt. Die Hydra hat einen weiteren Satz von Blütenblättern, die hinter den primären Blütenblättern sitzen und die Sicht des Piloten auf die Herzen aktiv verdecken. Die Herzen selbst sind ebenfalls unterschiedlich mit Stachelanhängseln, die entlang der gegen den Uhrzeigersinn gerichteten Seite jedes Blütenblattes verlaufen. Außerdem weist die Hydra-Variante ein anderes Kabinenlayout mit einem Käfig auf, der die Hauptkabine abdeckt.
 
-**Hearts**: 8 **Max Speed**: 450 m/s **Payout**: 60,000,000 Cr
+**Herzen**: 4 **Maximale Geschwindigkeit**: 450 m/s **Auszahlung**: 60,000.000 Cr
 
 ## **Orthrus**
-!\[orthrus.png\](/img/orthrus.png =300x){.align-right}The fifth variant seen is the Orthrus, which temporarily appeared during the evacuation of Professor Palin from his research centre in Maia. This variant has since disappeared and cannot currently be found in-game.
+!\[orthrus.png\](/img/orthrus. ng =300x){.align-right}Die fünfte gesichtete Variante ist der Orthrus, der während der Evakuierung von Professor Palin aus seinem Forschungszentrum in Maia vorübergehend auftauchte. Diese Variante ist inzwischen verschwunden und kann derzeit nicht im Spiel gefunden werden.
 
-During its brief appearance, the Orthrus variant could be seen momentarily flying away from Palin's Base before High-Waking away. At the time the Orthrus did not appear to have any combat mechanics and would glitch if destroyed. The Orthrus variant had similar stats to the Basilisk. When a sample was taken with the Research a “Basilisk Tissue sample” was received.
+Während seines kurzen Auftritts konnte die Orthrus-Variante kurzzeitig gesehen werden, wie sie von Palins Basis wegflog, bevor sie in den Hyperraum verschwand. Zu diesem Zeitpunkt schien der Orthrus keine Kampfmechanik zu haben und glitchte, wenn er zerstört wurde. Die Orthrus-Variante hatte ähnliche Werte wie der Basilisk. Bei der Entnahme einer Probe mit der Forschung wurde eine "Basilisk-Gewebeprobe" erhalten.
 
-Pilots noted at the time, the Orthrus variant exhibited what appears to be barnacle-like growths on each petal, suggesting this interceptor may have had something to do with the Barnacles that Thargoids actively interact with.
+Piloten bemerkten damals, dass die Orthrus-Variante etwas aufwies, das wie Seepocken-ähnliche Wucherungen auf jedem Blütenblatt aussah, was darauf hindeutet, dass dieser Abfangjäger etwas mit den Seepocken zu tun haben könnte, mit denen Thargoiden aktiv interagieren.
 
-> The Orthrus can no longer be found in-game. 
+> Der Orthrus kann nicht mehr im Spiel gefunden werden. 
 > 
 > {.is-danger}
 
-During a ‘Let’s Play' Livestream, Community Manager, Stephen Bendetti confirmed that the Orthrus was a mistake and not intended to be in the game.
+Während eines "Let's Play"-Livestreams bestätigte Community Manager Stephen Bendetti, dass der Orthrus ein Fehler war und nicht im Spiel vorgesehen war.
 
-"Just a bug" Video: https://www.twitch.tv/videos/533401140 Timestamp: 41:15 (Unfortunately the clip is no longer available.)
+"Nur ein Fehler" Video: https://www.twitch.tv/videos/533401140 Zeitstempel: 41:15 (Leider ist der Clip nicht mehr verfügbar.)
 
-Frontier Developments Developer “KSE” has confirmed “the Orthrus was never meant to appear in the game” confirming it is no longer canon in the storyline.
+Frontier Developments Entwickler "KSE" hat bestätigt, dass "der Orthrus nie im Spiel erscheinen sollte" und somit nicht mehr zur Story gehört.
