@@ -110,28 +110,28 @@ VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www
 -
 - Sobald das erste Herz zerstört wurde, wechselt man sofort zum Strahlenlaser zurück und beginnt das Schiff abzukühlen, während man versucht, einen Mindestabstand von 3 km (Umkehrschub nutzen) zum Interceptor zu erreichen. Das ist ein guter Zeitpunkt um Pips in SYS zu setzen, um den System Kondensator nach der Nutzung von Kühlkörpern wieder aufzuladen. [Pips auf: 1-4-1]
 -
-- The first heart is when the Interceptor is the most aggressive with its lightning ability with which it will aggressively chase you down. To avoid the ability, continue applying your beam laser to the Interceptor and once it reaches a distance of 1.5km apply downward thrust and forward thrust while engaging your boost while attempting to keep your beam laser on target and keep more than 800m away from the Interceptor. (For subsequent hearts the Interceptor is not as aggressive and you can maintain your distance from it by adjusting your reverse and forward thrust.)
+- Nach dem ersten Herz ist der Interceptor am agressivsten, und verfolgt den Piloten bestrebig um seine Blitz-Fähigkeit einzusetzen. Um diese Fähigkeit zu umgehen, sollte man den Strahlenlaser weiterhin einsetzen. Sobald eine Distanz von 1,5km erreicht ist, nutzt man Abwärts- und Vortwärtsschub gleichzeitig während einen Abstand von mindestens 800m ein hält. (Bei nachfolgenden Herzen ist der Interceptor nicht ganz so agressiv und man kann den Abstand durch Anpassungen am Rückwärts- und Vorwärtsschub einhalten.)
 -
-- This maneuver will allow you to do a half orbit around the Interceptor forcing it to change its momentum (and all Interceptors are slow at changing direction) and keeping you under the 15% heat threshold keeping the Interceptor in sleep mode (Section VII Thargoid Interceptor Sleep Mode)
+- Dieses Manöver erlaubt es, eine halbe Umlaufbahn um den Interceptor zu ziehen, was ihn zwingt sein Momentum zu ändern (und alle Abfangen bewegen sich langsam, wenn es darum geht, die Richtung zu ändern) und dich unter der 15% Hitzeschwelle zu halten, damit der Interceptor im Schlafmodus bleibt (Abschnitt VIII Thargoid Schlafmodus)
 -
-- Begin reverse thrust away from the Interceptor while still applying your beam laser on target. [Pips at: 0-4-2]
+- Beginne mit Rückwärtsschub weg vom Interceptor während weiterem Einsatz des Strahlenlasers auf das Ziel. [Pips auf: 0-4-2]
 -
-- Once the Interceptor begins launching its swarm you will want to maintain a distance of about 3.5km-6km until it launches its swarm fully and begin a 180 maneuver away from the Interceptor and begin boosting away. Use this time now to begin any repairs or synthesis if needed.
+- Sobald der Interceptor anfängt seinen Schwarm freizusetzen, versucht man einen Abstand von 3,5km-6km einzuhalten bis der Schwarm vollständig freigesetzt wurde. Dann macht man ein 180° Wendemanöver weg vom Interceptor und entfernt sich mit Schub. Jetzt ist die Zeit für Reparaturen und Synthesen.
 -
-- Begin the initial swarm engagement stated above.
+- Nun kann man den Schwarm wie oben genannt bekämpfen.
 -
-- This time the Interceptor will have a shield up (Shields goes up after the first heart is destroyed) and it will continue to decay over time.
+- Diesmal hat der Interceptor einen aktiven Schutzschild (Schutzschild fährt nach Zerstörung des Herzens hoch) der über Zeit abschwächt.
 -
-- To maximize the time you have for heart destruction you can decrease the shield uptime by applying your beam laser to the Interceptor degrading its shields faster.
+- Um den Zeitanteil, den man für die Zerstörung des Herzens hat, zu verlängern kann man den Schild mit Einsatz des eigenen Strahlenlasers zusätzlich schwächen.
 -
-- Once the shields are down begin the cold orbit cycle listed above as part of the combat loop for all the subsequent hearts. (Using Gauss cannons against the shields is a waste of ammo especially when using precious premium synthesis)
+- Sobald der Schutzschild unten ist, beginne den kalten Umlauf-Zyklus wie oben als Teil des Kampfzyklus für alle nachfolgenden Herzen. (Der Einsatz von Gauss Kanonen gegen die Schilde ist eine Verschwendung von Munition, vor allem wenn man wertvolle Premium-Munition verwendet)
 -
-- Begin your next combat loop with pips set at 0-2-4
+- Beginne die nächsten Kampfzyklus mit [Pips auf 0-2-4].
 -
-- Another similar tactic to the cold boost would be to engage silent running and perform your boost maneuver 180 degrees past the Basilisk. (The options taken will be dependent upon the commander.) The purpose of this maneuver is to allow the commander to save a heat sink and achieve the same outcome while taking advantage of the shieldless build.
+- Eine weitere ähnliche Taktik wie der Kälteschub ist es, den stillen Lauf zu aktivieren und mit Schub 180° am Basilisken vorbei zu fliegen. (Die Optionen hängen vom Kommandanten ab.) Ziel dieses Manövers ist es, dem Kommandeur zu ermöglichen, Kühlkörper zu sparen und trotzdem dasselbe zu erreichen, wenn man Schutzschildlose Austattungen fliegt.
 
 ## Basilisk Anpassungen
-The Basilisk variant has a top speed of 530m/s. The doctrine chieftain can not outrun the Basilisk if followed to the fitting. A required maneuver of a cold boost (engaging a heat sink before boosting 180 degrees past the Basilisk) will allow you to gain valuable distance from the Basilisk to allow you to synthesize more heat sinks or ammo or perform any repairs to your ship before committing to your next combat loop. The Basilisk does not do well when it has to adjust its momentum from one direction to the opposite. Do take in mind this will put you in the path of the swarm also triggering its agitated state if you fly through it.
+Die Basilisk Variante hat eine Höchstgeschwindigkeit von 530 m/s. Der Chieftain, nach Leitfaden gebaut, ist nicht so schnell wie der Basilisk. Ein nötiges Manöver namens Kälteschub (Kühlkörper aktivieren, bevor man 180° am Basilisk vorbeizieht) erlaubt einem Wertvolle Distanz zu gewinnen um benötigte Reparaturen und Synthesen vor dem nächsten Kampfzyklus durchzuführen. The Basilisk does not do well when it has to adjust its momentum from one direction to the opposite. Do take in mind this will put you in the path of the swarm also triggering its agitated state if you fly through it.
 
 # Schwarm Bewältigung
 The purpose of engaging the swarm first on the initial engagement is to remove the “banked” swarm of the Interceptor from the equation. Whenever an Interceptor is engaged and the heart is destroyed first, the banked swarm will then launch forcing the commander to have to deal with a second swarm. Removing the banked swarm from the equation will allow the commander to efficiently use his time to focus on all subsequent hearts.
