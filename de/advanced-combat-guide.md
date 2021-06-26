@@ -73,28 +73,28 @@ VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www
 - Mit der Montage und den aufgelisteten Ingenieuren ist dies der Grundstein des Leitfadens, der notwendig ist, um die Ausstattung des Schiffes mit den für jedes Modul verfügbaren Ingenieursarbeiten vollständig auszunutzen. Mit dem Einsatz aller Ingenieure maximiert man die Fähigkeiten des Chieftains, damit man alle Interceptor Varianten effizient und effektiv einsetzen kann.
 - Die Geschwindigkeit des Chieftains, mit den empfohlenen Einstellungen, ermöglicht es, eine minimale Schubgeschwindigkeit von 500 m/s zu erreichen, was mehr ist als erforderlich um jede Interceptor Variante zu bekämpfen. Basilisken benötigen aufgrund ihrer Geschwindigkeit ein zusätzliches Manöver. Siehe Basilisk Anpassungen
 
-- Der Zweck eines Reperaturdrohnen Steuerung anstelle eines Schildgenerators ist es, Kommandanten zu erlauben, ihr Schiff im Falle eines Fehlers zu reparieren. The Thargon swarm also does more phasing damage to ships that are shielded compared to those that are unshielded providing a bit of an advantage against the swarm and for power purposes of the ship. Synthesis of limpets may be needed dependent on damage received especially with the higher variants
+- Der Zweck eines Reperaturdrohnen Steuerung anstelle eines Schildgenerators ist es, Kommandanten zu erlauben, ihr Schiff im Falle eines Fehlers zu reparieren. Der Thargon Schwarm verursacht außerdem mehr durchdringenden Schaden an Schiffen mit Schutzschild, was ungeschildeten Schiffen einen kleinen Vorteil gegenüber dem Schwarm bringt. Auch Leistungsvorteile bei der Energieverteilung bringt die Schutzschildlose Ausstattung. Die Synthese von Drohnen kann je nach erlittenem Schaden bei den höheren Interceptor Varianten erforderlich werden.
 
-- The purpose of the 3x heat sinks (Ammo capacity) will allow a generous amount of heat sinks to achieve a cold orbit around any variant with experienced commanders using (per heart) 1-2 heat sinks against a cyclops, 2-3 against a Basilisk, 3-5 against a medusa, and allowing all 9 heat sinks for a Hydra.
+- Der Zweck der 3x Kühlkörperwerfer (Munitionskapazität) ist eine großzügige Menge an Kühlleistung, für die "kalter Orbit" Flugstrategie. Erfahrene Kommandanten nutzen dann pro Herz 1-2 Kühlkörper bei der Cyclops Variante, 2-3 beim Basilisk, 3-5 bei der Medusa und bis zu alle 9 bei der Hydra.
 
-- Inexperienced commanders will be granted a big buffer in heat sinks to allow them to have plenty of heat sinks on hand if mistakes are made allowing this doctrine to be forgiving.
+- Unerfahrene Kommandeure erhalten einen großen Puffer an Kühlkörpern, um ihnen zu ermöglichen, auch bei Fehlern den Kampf nach diesem Leitfaden zu bewältigen.
 
-- The need for heat sink synthesis will be on a case by case basis dependent on Interceptor or experience of the commander.
+- Die Notwendigkeit der Synthese von Kühlkörpern wird von Fall zu Fall abhängig vom Interceptor und oder der Erfahrung des Kommandanten sein.
 
-- The Guardian Gauss Cannons when set into their fire groups should be split into two fire groups (1 medium to 1 Small) to maximize the heat efficiency of the ship when firing in alternating fire keeping the chieftain below 20% heat with a heat sink engaged.
+- Die Guardian Gauss Kanonen sollten in Feuergruppen aufgeteilt werden (1 Medium mit 1 Kleinen), um die Wärmeeffizienz des Schiffes zu maximieren, da man beim Abwechseln des Feuers den Chieftain unter 20% Hitze halten kann.
 
-- The long range thermal vent beam laser is utilized primarily after a heart is destroyed to put the Interceptor into a “Sleep Mode” without the use of heat sinks.
+- Der auf Reichweite und Thermische Entlastung modifizierte Strahlenlaser wird vorallem nach Zerstörung eines Herzens genutzt, um den Interceptor in einem Schlafmodus zu halten, ohne dabei Kühlkörper verbrauchen zu müssen.
 
-- Heat sinks may be needed if your heat is above 15% after a heart is destroyed. Sleep mode further explained in section VIII.
+- Kühlkörper können notwendig werden, wenn nach Zerstörung eines Herzens die eigene Hitze noch bei über 15% ist. Der Interceptor Schlafmodus wird in Abschnitt VIII näher erläutert.
 
 # Beginn und anschließender Herz-Kampf Zyklus
-- Upon engaging a Thargoid Interceptor of any variant in a non-human signal source (NHSS) the initial engagement should occur after the Interceptor has finished his scan of you. The purpose of allowing the Interceptor to finish his scan of you will allow you to get a scan of the Interceptor if you have a xeno scanner fitted.
+- Beim Treffen auf einen Thargoid Interceptor, jeder Variante in einer Nichtmenschlichen Signalquelle (NHSS), sollte der Kampf erst beginnen nachdem der Interceptor seinen Scan absgeschlossen hat. Der Zweck davon, den Intercptor seinen Scan beenden zu lassen, ist es den Interceptor selbst scannen zu können, falls man einen Xeno-Scanner ausgerüstet hat.
 -
-- Disengage your flight assist and engage with your beam laser. [Pips at: 0-4-2]
+- Deaktiviere den Flugassistenten und greif mit dem Strahlenlaser an. [Punkteverteilung bei: 0-4-2]
 -
-- Once the Interceptor is aggressed he will begin launching his swarm. Begin your boost past the Interceptor and gain the recommended distance of 4-6km. [Pips at: 0-4-2]
+- Sobald der Interceptor angressivem Zustand ist setzt er seinen Schwarm frei. Fliege mit Schub am Interceptor vorbei und erreiche eine empfohlene Distanz von 4-6km. [Punkteverteilung bei: 0-4-2]
 -
-- Once at distance 180 turn while continuing your moment to engage the Thargon swarm. (If swarm management is needed see section V Swarm Management) [Pips at: 0-4-2]
+- Sobald erreicht, mache eine 180° Wende, während du dein rückwärtiges Momentum beibehältst, um den Thargon Schwarm zu bekämpfen. (If swarm management is needed see section V Swarm Management) [Pips at: 0-4-2]
 -
 - Once the swarm is destroyed you may begin your engagement of the Interceptor (preferably at 5km distance) with your thermal vent beam. This will drop your ship temperature to below 20% to allow you to begin your cold orbit around the Interceptor. [Pips at: 0-2-4]
 -
