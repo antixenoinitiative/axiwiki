@@ -16,34 +16,34 @@ Interceptors sind unglaublich robust und eignen sich in der Regel am besten zum 
 ## Verhalten
 Thargoid-Interceptors sind in den meisten Fällen nicht feindselig. Wenn man auf einen Interceptor trifft, nähert dieser sich dem Schiff auf ~500m und führt einen Schiffsscan durch. Wenn man Thargoid- oder Guardian-Technologie (Fracht, nicht Module) mit sich führt, werden sie entsprechend reagieren.
 
-- **Thargoid Technology** (Probe, Sensor, Meta Alloys, etc) - The Thargoid will react by making a sound, if you do not drop the cargo within approx, 30 sec, the Thargoid will become hostile and start attacking you.
-- **Guardian Technology** (Ancient Relic, Ancient Key, etc) - The Thargoid will become immediately hostile to you.
+- **Thargoid-Technik** (Sonde, Sensor, Meta-Legierungen, etc.) - Der Thargoide reagiert mit einem Ton. Wird die Ladung nicht innerhalb von ca. 30 Sekunden abgeworfen, wird der Thargoid feindlich werden und angreifen.
+- **Guardiantechnik** (Antike Relikt, antike Schlüssel usw.) - Der Thargoide wird sofort feindselig reagieren.
 
-Thargoids will proceed to collect various bits of cargo if they are not actively in combat, Once a Thargoid has collected/scanned everything of interest in an instance, it will leave by speeding up rapidly and opening a Hyperspace Wake, which it will then disappear through.
+Sobald ein Thargoid alles von Interesse in einer Instanz gesammelt/gescannt hat, verlässt er diese, indem er schnell beschleunigt und in den Hyperraum verschwindet.
 
-*If a Thargoid is encountered at the same time as scouts, it will become immediately hostile towards any player present.*
+*Wenn ein Thargoid gleichzeitig mit Scouts angetroffen wird, wird er sofort feindselig gegenüber allen anwesenden Spielern.*
 
-## Mechanics
-Thargoid Interceptors are very complicated to fight, unlike most NPC’s in Elite Dangerous. You simply cannot go into a Thargoid fight guns-blazing as there are specific actions you must perform in order to actually reduce the Thargoids health and eventually kill it.
+## Funktionsweise
+Thargoide Abfangjäger sind im Gegensatz zu den meisten NSCs in Elite Dangerous sehr kompliziert zu bekämpfen. Man kann nicht einfach mit Waffengewalt in einen Thargoid-Kampf gehen, da es bestimmte Aktionen gibt, die durchgeführt werden müssen, um die Lebenspunkte des Thargoids zu reduzieren und ihn schließlich zu töten.
 
-Thargoid fights follow a very specific pattern and every action is almost 100% predictable. All Thargoid Interceptors share the same base mechanics that are the same on all variants, the only variation is how often they occur or the damage and effect.
+Thargoid-Kämpfe folgen einem ganz bestimmten Muster und jede Handlung ist fast 100% vorhersehbar. Alle Thargoiden-Interceptors haben die gleiche Grundmechanik, die bei allen Varianten gleich ist. Die einzige Variation ist die Häufigkeit ihres Auftretens oder der Schaden und Effekt.
 
-# Interceptor Variants
-> For a detailed breakdown of Interceptor Variants, visit the [**Thargoid Spec Sheet**](/en/thargoid-specs). 
+# Interceptor Varianten
+> Für eine detaillierte Aufschlüsselung der Thargoid-Angriffswerten, siehe hier [**Thargoid-Spezifikation**](/en/thargoid-specs). 
 > 
 > {.is-info}
 
 ## **Cyclops**
-!\[cyclops-small.png\](/img/Cyclops-small.png =250x){.align-right} Weakest Variant of the Thargoid Interceptors, the cyclops variant is still a formidable foe. Presenting in a grey/cyan coloring, the cyclops interceptor has the most basic interceptor appearance and is also the most commonly found Interceptor. First actively encountered in 3303, Cyclops variants could be found crashed into various planets and would sometimes actively hyperdict pilots out of hyperspace.
+!\[cyclops-small.png\](/img/Cyclops-small.png =250x){.align-right} Zwar die schwächste Variante der Thargoid-Interceptors, aber die Cyclops-Variante ist immer noch ein gewaltiger Feind. Der Cyclops hat eine grau/cyanfarbene Färbung und ist der am häufigsten anzutreffende Interceptor. Erstmals im Jahr 3303 aktiv angetroffen, konnten Cyclops-Varianten auf verschiedenen Planeten abgestürzt gefunden werden und ziehen manchmal aktiv Piloten aus dem Hyperraum.
 
-Cyclops variant interceptors are quick to kill and pose relatively little threat to a more experienced AX pilot, however they can still pack a punch albeit lesser than the other variants. The Cyclops variant is often considered the baseline Thargoid Variant of which other are often compared to.
+Interceptors der Cyclops-Variante sind schnell zu töten und stellen für einen erfahreneren AX-Piloten eine relativ geringe Bedrohung dar, können aber immer noch eine große Wirkung haben, wenn auch weniger als die anderen Varianten. Die Zyklopen-Variante wird oft als die Grundvariante der Thargoiden angesehen, mit der andere oft verglichen werden.
 
-On September 26, 3303 the Cyclops variant started indiscriminately attacking Independent ships along with Federal and Imperial navy vessels, where they could be found among wreckages of these ships in Non-Human Signal Sources collecting various Thargoid related items, such as the Thargoid Sensor and Thargoid Probe.
+Am 26. September 3303 begann die Cyclops-Variante, wahllos unabhängige Schiffe sowie Schiffe der föderalen und imperialen Marine anzugreifen, wobei sie unter den Wracks dieser Schiffe in nicht-menschlichen Signalquellen zu finden waren, die verschiedene thargoid-bezogene Gegenstände sammelten, wie den Thargoid-Sensor und die Thargoid-Sonde.
 
-**Hearts**: 4 **Max Speed**: 450 m/s **Payout**: 8,000,000 Cr
+**Herzen**: 4 **Maximale Geschwindigkeit**: 450 m/s **Auszahlung**: 8,000.000 Cr
 
 ## **Basilisk**
-!\[basilisk-small.png\](/img/basilisk-small.png =250x){.align-right}First encountered on November 13, 3303 The basilisk is a tougher variant of the Cyclops with a special trait, speed. The Basilisk is the only interceptor variant to have a higher maximum speed. This makes the basilisk a significant threat, especially to larger more cumbersome ships. Along with higher speed the Basilisk is also generally tougher, with one extra heart and a heavier hitting primary cannon.
+!\[basilisk-small.png\](/img/basilisk-small.png =250x){.align-right}Erstmals angetroffen am 13. November 3303 Der Basilisk ist eine härtere Variante des Cyclops mit einer besonderen Eigenschaft, der Geschwindigkeit. Der Basilisk ist die einzige Interceptor-Variante, die eine höhere Höchstgeschwindigkeit hat. This makes the basilisk a significant threat, especially to larger more cumbersome ships. Along with higher speed the Basilisk is also generally tougher, with one extra heart and a heavier hitting primary cannon.
 
 The Basilisk has a similar model to the Cyclops, with its distinguishing features being the darker red/brown tones and leopard print patterns on its petals.
 
