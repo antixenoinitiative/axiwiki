@@ -11,4 +11,4 @@ dateCreated: 2021-06-11T00:55:18.207Z
 # Anfänger Guide zu AX
 
 
-< Schritt für Schritt guide für Anfänger, Verlinkungen zu anderen Seiten und Wegen um Informationen zu finden >
+< Schritt für Schritt Leitfaden für Anfänger, Verlinkungen zu anderen Seiten und wo Informationen zu finden sind >
