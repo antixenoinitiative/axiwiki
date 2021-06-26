@@ -114,19 +114,19 @@ VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lv
 -
 - Questa manovra vi permetterà di fare una semi-orbita intorno al l’interceptor costringendolo a modificare il suo momento (tutti gli Interceptor sono lenti a cambiare direzione) restando al contempo sotto la soglia di calore del 15% mantenendo l'Intercettatore in modalità sonno (sezione VII Modalità Sonno Thargoid Interceptor)
 -
-- Begin reverse thrust away from the Interceptor while still applying your beam laser on target. [Pips at: 0-4-2]
+- Iniziate ad applicare la spinta indietro per allontanarci dall'Interceptor sempre facendo fuoco con il beam laser. [Pips a: 0-4-2]
 -
-- Once the Interceptor begins launching its swarm you will want to maintain a distance of about 3.5km-6km until it launches its swarm fully and begin a 180 maneuver away from the Interceptor and begin boosting away. Use this time now to begin any repairs or synthesis if needed.
+- Una volta che l’interceptor inizia a lanciare il nuovo sciame si desidera raggiungere una distanza compresa tra 3 e 6 km per poter poi iniziare correttamente una manovra a 180 gradi. Usate questa fase per eventuali riparazioni allo scafo o ai moduli e per sintetizzare munizioni.
 -
-- Begin the initial swarm engagement stated above.
+- Iniziate quindi l'attacco allo sciame come descritto sopra.
 -
-- This time the Interceptor will have a shield up (Shields goes up after the first heart is destroyed) and it will continue to decay over time.
+- Ora l’interceptor ha attivato i suoi scudi ( lo scudo si attiva dopo che un cuore viene distrutto) ma decade da solo con il tempo.
 -
-- To maximize the time you have for heart destruction you can decrease the shield uptime by applying your beam laser to the Interceptor degrading its shields faster.
+- Per massimizzare il tempo che avrete a disposizione per la distruzione del cuore potete velocizzare il naturale decadimento degli scudi colpendoli con il beam laser.
 -
-- Once the shields are down begin the cold orbit cycle listed above as part of the combat loop for all the subsequent hearts. (Using Gauss cannons against the shields is a waste of ammo especially when using precious premium synthesis)
+- Una volta che gli scudi sono caduti potete iniziare a manovrare per stabilire una nuova orbita, come spiegato sopra nel ciclo di combattimento per tutti i cuori successivi. (Usare i cannoni Gauss contro gli scudi è uno spreco di munizioni, soprattutto quando si utilizzano i “preziosi”proiettili premium)
 -
-- Begin your next combat loop with pips set at 0-2-4
+- Iniziate il vostro prossimo “ciclo”di combattimento con i pips impostati a 0-2-4
 -
 - Another similar tactic to the cold boost would be to engage silent running and perform your boost maneuver 180 degrees past the Basilisk. (The options taken will be dependent upon the commander.) The purpose of this maneuver is to allow the commander to save a heat sink and achieve the same outcome while taking advantage of the shieldless build.
 
