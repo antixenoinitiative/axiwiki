@@ -108,11 +108,11 @@ VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lv
 -
 - Durata della fase di attacco: Cyclops ≈30 Seconds -Basilisk & Medusa ≈26 Seconds -Hydra ≈20 Seconds
 -
-- Once the first heart is destroyed immediately switch back to your beam laser and begin cooling your ship while also attempting to gain a minimum distance of 3km (engaging reverse thrust) from the Interceptor. This is the time to set a pip into Systems to recharge systems capacitor from your use of heat sinks. [Pips at: 1-4-1]
+- Non appena distrutto il cuore tornare al beam laser per raffreddare la vostra nave mentre cercate di guadagnare la distanza minima di 3 km dall’ Interceptor. Approfittate di questo momento per mettere un pip sui Sitemi della nave per ricaricare il capacitor per l’utilizzo degli heat sink. [Pips a: 1-4-1]
 -
-- The first heart is when the Interceptor is the most aggressive with its lightning ability with which it will aggressively chase you down. To avoid the ability, continue applying your beam laser to the Interceptor and once it reaches a distance of 1.5km apply downward thrust and forward thrust while engaging your boost while attempting to keep your beam laser on target and keep more than 800m away from the Interceptor. (For subsequent hearts the Interceptor is not as aggressive and you can maintain your distance from it by adjusting your reverse and forward thrust.)
+- Dopo la distruzione del primo cuore l’interceptor diventa aggressivo e vi inseguirà per cercare di portarsi alla giusta distanza per attivare l’attacco speciale (lightning ability). Per evitarlo continuate a colpire con il beam e raggiunta la distanza di 1.5 km “boostate” applicando contemporaneamente una spinta verso il basso e in avanti, sempre facendo fuoco con il beam, cercando di mantenervi a più di 800 m di distanza dal l’interceptor. (Per i cuori successivi l’interceptor non è così aggressivo e si può mantenere la distanza da esso semplicemente gestendo la direzione della spinta indietro e in avanti.)
 -
-- This maneuver will allow you to do a half orbit around the Interceptor forcing it to change its momentum (and all Interceptors are slow at changing direction) and keeping you under the 15% heat threshold keeping the Interceptor in sleep mode (Section VII Thargoid Interceptor Sleep Mode)
+- Questa manovra vi permetterà di fare una semi-orbita intorno al l’interceptor costringendolo a modificare il suo momento (tutti gli Interceptor sono lenti a cambiare direzione) restando al contempo sotto la soglia di calore del 15% mantenendo l'Intercettatore in modalità sonno (sezione VII Modalità Sonno Thargoid Interceptor)
 -
 - Begin reverse thrust away from the Interceptor while still applying your beam laser on target. [Pips at: 0-4-2]
 -
