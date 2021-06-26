@@ -16,7 +16,7 @@ Es gibt eine Vielzahl verschiedener Anti-Xeno-Waffen im Spiel, und sie sind in z
 
 Guardian Waffen sind die effektivsten AX-Waffen im Spiel (speziell die Guardian Gauss Kanone) und menschliche AX-Waffen sind größtenteils unbrauchbar (Ausnahme bildet der Flakwerfer mit Fernzündung).
 
-Einige Bauten werden auch Thermal Vent Strahlenlaser einschließen, welche Piloten erlauben, die Schiffswärme mit wenig Aufwand zu reduzieren und erhebliche Mengen an Thargoid Feuer zu vermeiden. Weitere Informationen gibt es unter Cold Orbiting und [Laser](/en/lasers).
+Einige Bauten werden auch Thermal Vent Strahlenlaser einschließen, welche Piloten erlauben, die Schiffswärme mit wenig Aufwand zu reduzieren und erhebliche Mengen an Thargoid Feuer zu vermeiden. Weitere Informationen gibt es unter Kaltumflug und [Laser](/en/lasers).
 
 Detaillierte Statistiken zu AX-Waffen gibt es in der [AX-Balance Forschungs Tabelle](https://docs.google.com/spreadsheets/d/1kNZwBn16nYcrqpaua08VQb_ea3PF9SYcO-1IWivPZsA/edit#gid=1860633931)
 
@@ -30,50 +30,50 @@ Derzeit die einzige wirksame Waffe gegen Thargon Schwärme.
 
 Hinweis: Zählt nicht in das Limit für 4 experimentelle Waffen.
 
-## Guardian-Gausskanone
+## Guardian Gauss Kanone
 
-Current undisputed AX meta. Guardian Gauss Cannons function like a Railgun with a short delay before firing. Heavy Armour Penetration means it is effective against even the toughest Thargoids. Coming in only small and medium classes, these allow a surprisingly even playing field between all ship classes. They have a maximum range of 3km and a damage falloff start of 1.5km, allowing for precision heart sniping at range. Its only downside is high heat generation which necessitates constant heatsink use.
+Aktuell unangefochtene AX-Meta. Guardian Gauss Kanonen funktionieren wie eine Railgun mit einer kurzen Verzögerung, bevor sie feuern. Die schwere Rüstungsdurchdringung bietet hohe Effektivität, sogar gegen die stärksten Thargoids. Da es sie nur in kleinen und mittleren Größen gibt, bringt dies eine überraschende Ausgewogenheit zwischen den verschiedenen Schiffsklassen. Sie haben eine Reichweite von 3km. Der Leistungsverlust beginnt ab 1,5km, was einen guten Bereich für Präzisionsschläge gegen das Herz einräumt. Der einzige Nachteil ist die hohe Wärmeentwicklung, was den andauernden Gebrauch von Kühlkörpern nötig macht.
 
-**Recommendation:** Best AX weapon (Great armour penetration, High damage, Accurate)
+**Empfehlung:** Beste Anti-Xeno Waffe (Großartige Rüstungsdurchdringung, hohe Schadensleistung, Akkurat)
 
-Note: When using Gauss Cannons, it is important to ensure your hardpoints have good Convergence
+Hinweis: Bei Verwendung der Gauss Kanonen ist es wichtig, dass die Waffenaufhängungen gut aufeinander abgestimmt sind
 
-## Guardian Shard Cannon
+## Guardian Shard Kanone
 
-Similar to a Frag Cannon, very wide spread with only around a 700m effective range which means to be used effectively the pilot must fly within lightning range. While a potent weapon for speedrunning, the requirement of firing from within lightning range means that they are ineffective otherwise.
+Änlich der Fragment Kanone, sehr weite Streuung mit nur 700m effektiver Reichweite. Was bedeutet, um sie effektiv zu nutzen muss ein Pilot in die Blitzfähigkeits-Zone des Interceptors. Obwohl sie eine mächtige Waffe für Geschwindgkeitsrekorde-Versuche ist, bedeutet der Umstand, sie innerhalb des Blitzbereiches feuern zu müssen, dass sie sonst ineffektiv sind.
 
-**Recommendation:** Do not use (Low effective range, Poor armour penetration)
+**Empfehlung:** Nicht verwenden (niedriger Wirkungsbereich, schlechte Rüstungsdurchdringung)
 
-## Guardian Plasma Charger
+## Guardian Plasma Lader
 
-Similar to a Plasma Accelerator, but poor armour penetration value makes it less effective against tougher Interceptors and difficulty to aim makes it bad for using on hearts. Damage dealt is also unpredictable.
+Änhlich dem Plasmabeschleuniger, aber niedrige Rüstungsdurchdringung macht sie gegen stärkere Interceptors ineffektiv. Die Schwierigkeit des Vorhaltens beim Zielen macht sie schwer gegen Herzen einzusetzen. Auch der zugefügte Schaden ist unvorhersehbar.
 
-**Recommendation:** Do not use (Poor armour penetration, Difficult to aim, Terrible capacitor draw)
+**Empfehlung:** Nicht verwenden (Schlechte Rüstungsdurchdringung, schwierig zu Zielen, furchtbar hoher Energiebedarf)
 
-## AX Multi-Cannon
+## Anti-Xeno Mehrfachgeschütz
 
-AXMCs come in two types - Turreted and Fixed, and in two sizes - Medium and Large. The Large Turreted ones are the most effective Scout hunting weapon in the game, but the Large Fixed ones are only passable against the weakest Interceptor variant, the Cyclops, and the others are very ineffective.
+AXMKs (AXMCs) gibt es in zwei Arten - als Turm und befestigt - medium und groß. Die großen Turm-Versionen sind die effektivste Waffe beim Jagen von Scouts. Die großen befestigten Versionen sind einzig gegen die Cyclops Interceptor Variante effektiv, gegen stärke sind sie eher schwach.
 
-**Recommendation:** Great for Scouts, Awful for Interceptors
+**Empfehlung:** Ideal für Scouts, grottenhaft gegen Interceptors
 
-## AX Missile Rack
+## Anti-Xeno Raketenrampe
 
-Okay, but very difficult to aim as they are slow moving and dumbfire only. Minimal ammo.
+Akzeptabel aber schwer auszurichten, da sie langsam fliegen und dumbfire sind. Geringe Munition.
 
-**Recommendation:** Do Not Use (Poor damage)
+**Empfehlung:** Nicht verwenden (niedriger Schaden)
 
-## Advanced Multi-Cannon
+## Verbessertes Mehrfachgeschütz
 
-Same as a normal Multi-Cannon and can be engineered, however it will not do AX damage unless ammo is synthesized.
+Genau wie normale Mehrfachgeschütze und können vom Ingenieur bearbeitet werden. Macht aber keinen AX Schaden bis spezielle Munition synthetisiert wird.
 
-**Recommendation:** Do not use (Poor damage, Cannot use without synth)
+**Empfehlung:** Nicht verwenden (niedriger Schaden, nutzlos ohne Synthese)
 
-Note: Does not count against the 4 experimental weapon limit.
+Hinweis: Zählt nicht beim Limit für 4 experimentelle Waffen.
 
-## Advanced Missile Racks
+## Verbesserte Raketenrampe
 
-Similar to the Advanced Multi-Cannon, these are an engineerable clone of the normal Missile Rack which requires synth to deal AX damage. Due to their extreme splash damage, synth requirement, and lack of weapon number limit, they are banned from use in AXI ranks.
+Wie beim verbesserten Mehrfachgeschütz, sind diese vom Ingenieur bearbeitbare Klone der normalen Raketenrampe und benötigen Synthesen um AX Schaden zu verursachen. Aufgrund ihres extremen Schadens, der Synth-Anforderung und des Mangels an Waffenzahlbegrenzung sind sie bei AXI-Rängen verboten.
 
-**Recommendation:** Use at own discretion (Cannot use without synth, Banned from progression kills)
+**Empfehlung:** Nach eigenem Ermessen verwenden (nutzlos ohne Synthese, von offiziellen Kills gebannt)
 
-Note: Does not count against the 4 experimental weapon limit.
+Hinweis: Zählt nicht beim Limit für 4 experimentelle Waffen.
