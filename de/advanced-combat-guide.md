@@ -94,21 +94,21 @@ VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www
 -
 - Sobald der Interceptor angressivem Zustand ist setzt er seinen Schwarm frei. Fliege mit Schub am Interceptor vorbei und erreiche eine empfohlene Distanz von 4-6km. [Punkteverteilung bei: 0-4-2]
 -
-- Sobald erreicht, mache eine 180° Wende, während du dein rückwärtiges Momentum beibehältst, um den Thargon Schwarm zu bekämpfen. (If swarm management is needed see section V Swarm Management) [Pips at: 0-4-2]
+- Sobald erreicht, mache eine 180° Wende, während du dein rückwärtiges Momentum beibehältst, um den Thargon Schwarm zu bekämpfen. (Falls nähere Informationen zur Schwarm Bewältigung vonnöten sind; siehe Sektion V) [Punkteverteilung bei: 0-4-2]
 -
-- Once the swarm is destroyed you may begin your engagement of the Interceptor (preferably at 5km distance) with your thermal vent beam. This will drop your ship temperature to below 20% to allow you to begin your cold orbit around the Interceptor. [Pips at: 0-2-4]
+- Sobald der Schwarm zerstört ist, kann man mit dem modifizierten Strahlenlaser (vorzugsweise bei 5km Distanz) den Kampf einleiten. Dies wird die eigene Schiffstemperatur bei unter 20% halten und einem erlauben die "kalter Umlauf" Strategie zu nutzen. [Punkteverteilung bei: 0-2-4]
 -
-- Begin your cold orbit attack run by applying down vertical thrust and forward until you achieve an orbit speed of about 180 m/s and maintain an orbit distance of between 900m-1.5km. **NOTE: Applying your thermal vent beam will allow you to set your orbit while avoiding damage from the Interceptor.**
+- Man beginnt den Kaltumlauf, indem man vertikale Schub- und Vorwärtsbewegungen nutzt, bis man eine Umlaufgeschwindigkeit von etwa 180 m/s erreicht, behalte dabei eine Umlaufdistanz von 0,9-1,5km bei. **HINWEIS: Das Einsetzen des Thermalen Entlastungs Strahlenlasers hilft bei dem Eintritt in den Umlauf, ohne Schaden durch den Interceptor zu nehmen.**
 -
-- Once your orbit envelope is established switch to your gauss cannon fire group, engage a heat sink and begin your alternating fire of your gauss cannons. (Alternating fire should be achieved by activating the charge up of your second group once your first group of cannons fires its rounds.)
+- Sobald die gewünschte Umlaufsbahn erreicht ist, kann man auf die Gauss Kannonen Feuergruppe wechseln, einen Kühlkörperwerfer aktivieren, und die Gauss Kannonen abfeuern. (Ein effizientes Abwechseln des Feuerns erreicht man, wenn man direkt nach Abfeuern der vorherigen Gauss Kannonen Feuergruppe die nächste auflädt.)
 -
-- Continue engaging heat sinks as needed once you hear “Heat Sink Deployed” from your COVAS until the heart has been exerted and destroyed.
+- Fahre mit dem aktivieren von Kühlkörpern fort, sobald der COVAS mitteilt, dass der vorherige Kühlkörper abgeworfen wurde. Tu dies bis das Herz hervorgebracht und zerstört wurde.
 -
-- Each Interceptor variant also has an approximate attack run window and will allow you to stabilize your orbit. Once outside of its attack run window the Interceptor will change direction and reset for its own attack run forcing you to have to adjust your orbit accordingly. Use of your thermal vent beam during this time may be recommended if you drift outside of your orbit envelope.
+- Jede Interceptor Variante hat auch ein ungefähres Angriffsfenster und erlaubt die Stabilisierung der Umlaufbahn. Sobald das Angriffsfenster des Interceptors ausgelaufen ist, wird er abdrehen und für seinen eigenen Angriff neu ansetzen, was den Piloten zum Anpassen der Umlaufbahn zwingt. Das Verwenden des Thermalen Entlastungs Strahlenlasers ist empfehlenswert, falls man aus der optimalen Umlaufbahn hinausdriftet.
 -
-- Cyclops ≈30 Seconds -Basilisk & Medusa ≈26 Seconds -Hydra ≈20 Seconds
+- -Cyclops ≈30 Sekunden -Basilisk & Medusa ≈26 Sekunden -Hydra ≈20 Sekunden
 -
-- Once the first heart is destroyed immediately switch back to your beam laser and begin cooling your ship while also attempting to gain a minimum distance of 3km (engaging reverse thrust) from the Interceptor. This is the time to set a pip into Systems to recharge systems capacitor from your use of heat sinks. [Pips at: 1-4-1]
+- Sobald das erste Herz zerstört wurde, wechselt man sofort zum Strahlenlaser zurück und beginnt das Schiff abzukühlen, während man versucht, einen Mindestabstand von 3 km (Umkehrschub nutzen) zum Interceptor zu erreichen. Das ist ein guter Zeitpunkt um Pips in SYS zu setzen, um den System Kondensator nach der Nutzung von Kühlkörpern wieder aufzuladen. [Pips auf: 1-4-1]
 -
 - The first heart is when the Interceptor is the most aggressive with its lightning ability with which it will aggressively chase you down. To avoid the ability, continue applying your beam laser to the Interceptor and once it reaches a distance of 1.5km apply downward thrust and forward thrust while engaging your boost while attempting to keep your beam laser on target and keep more than 800m away from the Interceptor. (For subsequent hearts the Interceptor is not as aggressive and you can maintain your distance from it by adjusting your reverse and forward thrust.)
 -
@@ -136,7 +136,7 @@ The Basilisk variant has a top speed of 530m/s. The doctrine chieftain can not o
 # Schwarm Bewältigung
 The purpose of engaging the swarm first on the initial engagement is to remove the “banked” swarm of the Interceptor from the equation. Whenever an Interceptor is engaged and the heart is destroyed first, the banked swarm will then launch forcing the commander to have to deal with a second swarm. Removing the banked swarm from the equation will allow the commander to efficiently use his time to focus on all subsequent hearts.
 
-# Zweck des kalten Orbits
+# Zweck des kalten Umlaufs
 - The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
 -
 - Cold orbiting is also the basis for more advanced Interceptor combat when wanting to use smaller ships and also for more advanced Thargon swarm management for small ships when flak launchers cannot be fitted. (beyond the scope of this guide)
