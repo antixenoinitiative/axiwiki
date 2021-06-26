@@ -9,7 +9,7 @@ dateCreated: 2021-06-10T04:07:02.325Z
 ---
 
 # Láseres
-`Guide by CMDR Naddesh and CMDR Ghosti`
+`Guía por CMDT Naddesh y CMDT Ghosti`
 
 En general, las armas humanas son inmensamente inútiles en el combate Anti-Xeno. Sin embargo, hay algunas excepciones que dan una utilidad añadida y permiten ciertas tácticas especiales que pueden mejorar en gran medida tu destreza en combate.
 
@@ -19,7 +19,7 @@ La variante mas popular es el Láser de Rayo con Ventilación Térmica.
 
 La función principal es su efecto de enfriamiento que proviene del efecto experimental ‘Ventilación Térmica’. Los Pilotos AX pueden usar la VT para enfriar su nave por debajo del umbral de calor de 20% fuera de un ataque (cuando no estás ejerciendo o destruyendo corazones).
 
-The main example of this function is cooling down when starting the attack run. Here the long range modification proves its worth. Since the Interceptor does not fire upon you unless you closer than 3 kilometers away, with the long range beam you can start cooling even at 6 kilometers away (G5) without having to waste a heatsink on the approach (minimum recommended engineering is G3).
+El ejemplo principal de esta función es enfriarse cuando se inicia el ataque. Aquí, la modificación de largo alcance demuestra su valor. Puesto que el interceptor no te dispara a menos que estés a menos de 3 kilómetros de distancia, con el rayo de largo alcance se puede empezar a enfriar incluso a 6 kilómetros de distancia (G5) sin tener que desperdiciar un eyector de calor durante la aproximación (la ingeniería mínima recomendada es G3).
 
 Another example is orbiting the Interceptor practically indefinitely without using heatsinks, which is useful when you need to quickly synth something, use your AFMU, or kite the Interceptor until your wingmates can rejoin the fight.
 
