@@ -1,6 +1,6 @@
 ---
 title: Interceptors
-description: About Thargoid Interceptors
+description: Über Thargoid-Interceptors
 published: true
 date: 2021-06-17T00:44:49.019Z
 tags: thargoids, interceptors
@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2021-06-15T10:23:32.433Z
 ---
 
-# Thargoid Interceptors
-Thargoid Interceptors come in four variants: **Cyclops**, **Basilisk**, **Medusa** and **Hydra**, in ascending level of difficulty. Each next variant has more hearts and is tougher than the last, requiring far more damage to exert and destroy hearts.
+# Über Thargoid-Interceptors
+Thargoid-Interceptors gibt es in vier Varianten: **Cyclops**, **Basilisk**, **Medusa** und **Hydra**in aufsteigender Schwierigkeitsgrad. Jede nächste Variante hat mehr Herzen und ist härter als die letzte, so dass viel mehr Schaden ausgeübt werden muss, um die Herzen zu zerstören.
 
-Interceptors are incredibly tough and typically are best suited to wing combat as soloing them is a huge achievement. Interceptors use very high damage output weapons, crowd-control style special abilities and independent drones to wreak havoc on the battlefield.
+Interceptors sind unglaublich robust und eignen sich in der Regel am besten zum Kampf im Geschwader, da es eine große Herausforderung ist sie alleine zu bekämpfen. Interceptors verwenden sehr hohe Schadensausstoßwaffen, Spezialfähigkeiten im Stil der Mengenkontrolle und unabhängige Drohnen, um auf dem Schlachtfeld verheerende Schäden zu verursachen.
 
-## Behaviour
-Thargoid interceptors are typically non-hostile in most circumstances. Upon encountering a interceptor, they will approach your ship to ~500m and perform a ship scan. If you are carrying any Thargoid or Guardian Technology (Cargo, not modules) they will react accordingly.
+## Verhalten
+Thargoid-Interceptors sind in den meisten Fällen nicht feindselig. Wenn man auf einen Interceptor trifft, nähert dieser sich dem Schiff auf ~500m und führt einen Schiffsscan durch. Wenn man Thargoid- oder Guardian-Technologie (Fracht, nicht Module) mit sich führt, werden sie entsprechend reagieren.
 
 - **Thargoid Technology** (Probe, Sensor, Meta Alloys, etc) - The Thargoid will react by making a sound, if you do not drop the cargo within approx, 30 sec, the Thargoid will become hostile and start attacking you.
 - **Guardian Technology** (Ancient Relic, Ancient Key, etc) - The Thargoid will become immediately hostile to you.
