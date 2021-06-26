@@ -45,7 +45,7 @@ Wenn ein Interceptor-Schild zusammenbricht, erkennt man dies an einem großen gr
 ## Panikschild
 Unter verschiedenen Bedingungen kann der Interceptor Schilde unabhängig von zerstörten Herzen aufbauen. Da diese Zustände meist mit massiven Schäden verbunden sind, bezeichnen wir diese Schilde als "Panik"-Schilde.
 
-1. **Overwhelming hull damage** - If the Interceptor's hull continues to drop in spite of the rapid regeneration when a heart is exerted, it will deploy a panic shield. This happens often if using premium ammo against a Cyclops solo, when a wing tries to exert a Cyclops, or when trying to instagib any of the stronger variants.
+1. **Überwältigender Rumpfschaden** - Wenn der Rumpf des Interceptors trotz der schnellen Regeneration bei starker Krafteinwirkung auf das Herz weiter abfällt, setzt er einen Panikschild ein. This happens often if using premium ammo against a Cyclops solo, when a wing tries to exert a Cyclops, or when trying to instagib any of the stronger variants.
 
 2. **Overwhelming shield damage** - If the Interceptor's shield is destroyed within 10 seconds of it being deployed, it will immediately regenerate it. (**This cannot happen after the first heart because of the Lightning phase**). This scenario most often occurs when one uses a ram to immediately destroy a deployed shield, or if sufficient firepower is deployed against one of the weaker variants (shard cannons against Cyclops). You can tell if this 10 second window is over when the Interceptor's red glowing petals stop rapidly flashing and switch to slowly pulsating.
 
