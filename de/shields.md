@@ -1,23 +1,23 @@
 ---
-title: Thargoid Shields
-description: Thargoid Interceptors can generate powerful shields that can absorb large amounts of damage. These shields can appear multiple times and can be very tough.
-published: true
+title: Thargoide Schilde
+description: Thargoid-Interceptors können mächtige Schilde erzeugen, die grosse Mengen an Schaden absorbieren können. Diese Schilde können mehrfach auftreten und sehr zäh sein.
+published: ja
 date: 2021-06-17T00:56:22.011Z
 tags: combat, thargoids, interceptors, shields
 editor: markdown
 dateCreated: 2021-06-17T00:54:20.812Z
 ---
 
-# Thargoid Shields
-Thargoid Interceptors can generate powerful shields that can absorb large amounts of damage. These shields can appear multiple times and can be very tough.
+# Thargoide Schilde
+Thargoide Interceptors können mächtige Schilde erzeugen, die große Mengen an Schaden absorbieren können. Diese Schilde können mehrfach auftreten und sehr zäh sein.
 
-## Generation
-Thargoid Interceptors will generate a new shield each time they lose one of their hearts. This means Interceptors with more hearts will also generate more shields. The shield strength is determined by the Thargoid Variant with the Hydra generating the toughest shields. Once the Thargoid’s heart is broken it will try to deploy its shield instantly.
+## Erzeugung
+Thargoide Interceptors erzeugen jedes Mal ein neues Schild, wenn sie eines ihrer Herzen verlieren. Das bedeutet, dass Interceptors mit mehr Herzen auch mehr Schilde erzeugen. Die Schildstärke wird durch die Thargoid-Variante bestimmt, wobei die Hydra die stärksten Schilde erzeugt. Sobald das Herz des Thargoiden zerstört ist, wird er versuchen, sofort seinen Schild einzusetzen.
 
-Shield deployment can be delayed if the Thargoid is actively using one of its special attacks, such as the lightning attack. This makes it possible to destroy two hearts at once if you time it very carefully.
+Der Einsatz des Schildes kann verzögert werden, wenn der Thargoid aktiv eine seiner Spezialattacken einsetzt, z. B. den Blitzangriff. Dadurch ist es möglich, zwei Herzen auf einmal zu zerstören, wenn man das Timing sehr sorgfältig wählt.
 
-## Identify the Shield
-You can detect if a Thargoid has an active shield in two different ways, with a Xeno-Scanner and without a Xeno-Scanner.
+## Identifizieren des Schildes
+Man kann auf zwei verschiedene Arten erkennen, ob ein Thargoid einen aktiven Schild hat, mit und ohne einen Xeno-Scanner.
 
 ## {.tabset}
 ### With a Scanner
