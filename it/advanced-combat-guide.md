@@ -18,7 +18,7 @@ Questo metodo è basato su un loop continuo - essenzialmente si sta ripetendo la
 Questo metodo, inoltre, permette di concentrarsi sul pip management, visto che le navi saranno tutte senza scudi, permettendo una maggiore liberta' in termini di power management.
 
 # Come equipaggiare la nave
-Questo metodo usa la Chieftain come la propria nave principale. Si puo' usare anche la Challenger come sostituta, con leggere modifiche. (guida per come costruire una Challenger WIP) Navi come la Krait mk2, Krait phantom o FAS possono anche essere usate, ma per via del costo iniziale basso, la manovrabilita' e l'armamento della Chieftain, quest'ultima sara' quella su cui ci baseremo per questo metodo.
+Questo metodo usa la Chieftain come nave di riferimento. Si puo' usare anche la Challenger come sostituta, con leggere modifiche. (guida per come costruire una Challenger WIP) Navi come la Krait mk2, Krait phantom o FAS possono anche essere usate, ma per via del costo iniziale basso, la manovrabilita' e l'armamento della Chieftain, quest'ultima sara' quella su cui ci baseremo per questo metodo.
 
 ## Core Internals
 - Military Grade Composite (Heavy Duty/Deep Plate)
@@ -47,9 +47,9 @@ Questo metodo usa la Chieftain come la propria nave principale. Si puo' usare an
 
 ## Utility
 - 3x OI Heat Sink Launchers(Ammo Capacity)
-- Xeno Scanner/Heat Sink Launcher (Dependent on commander if they wish to see the Thargoid's hull and swarm numbers.)
+- Xeno Scanner/Heat Sink Launcer ( in base alle preferenze del pilota, se preferisce avere le informazioni sulla hull del Thargoid e sul numero dei componenti dello swarm)
 
-Se non preferite usare uno Xeno Scanner, in particolar modo per le varianti inferiori, avere un quarto heatsink assicurera' che nella maggior parte dei casi non avrete bisogno di sintetizzarli.
+Se preferite non usare uno Xeno Scanner, in particolar modo per le varianti inferiori, avere un quarto heatsink assicurera', nella maggior parte dei casi di non avere bisogno di sintetizzarli.
 
 # Ingenierizzazione
 Lo scopo degli ingegneri elencati e' quello di ridurne al minimo il numero necessario per i nuovi piloti; mentre allo stesso tempo permettere piloti con piu' esperienza di utilizzarli per massimizzare la loro nave. Gli ingegneri necessari per le modifiche sono i seguenti:
@@ -73,9 +73,9 @@ VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lv
 - Con la configurazione e gli ingegneri elencati, questa e' la base necessaria per essere in grado di usare la nave al massimo delle sue capacita'. Se utilizzerete tutti gli ingegneri utilizzerete al massimo le capacita' della Chieftain, che vi permettera' di combattere tutte le varianti in maniera efficiente.
 - La velocita' della chieftain, se ingegnerizzata come consigliato sopra, superera' i 500 m/s, che sara' piu' del necessario a combattere qualsiasi variante. I Basilisk richiederanno una manovra in piu', per via della loro velocita' (vedi Misure necessarie per Basilisk).
 
-- Lo scopo di utilizzare un repair limpet controller invece che uno scudo e' quello di permettere la riparazione della nave in caso di errori. Inoltre lo swarm fa' piu' (phasing damage) alle navi che hanno uno scudo rispetto a quelle senza, fornendo un vantaggio contro lo swarm. Inoltre, fornisce liberta' nel power management. Potrebbe essere necessario sintetizzare dei limpets in base al danno ricevuto, specialmente contro le varianti piu' difficili.
+- Lo scopo di utilizzare un repair limpet controller invece che uno scudo e' quello di permettere la riparazione della nave in caso di errori. Inoltre lo swarm causa maggior danno (phasing damage) alle navi che hanno uno scudo rispetto a quelle senza, e questo è un buon vantaggio per la gestione dello swarm. Inoltre facilita il power management, semplificando la gestione dei pips. Potrebbe essere necessario sintetizzare dei limpets in base al danno ricevuto, specialmente contro le varianti piu' difficili.
 
-- L'utilizzo di 3 heatsinks (con Ammo capacity) permette di orbitare qualsiasi variante per un periodo prolungato. Un comandante esperto, in media, utilizza (per cuore) 1-2 heatsink per Cyclops, 2-3 per Basilisk, 3-5 per Medusa, e addirittura tutti e 12 per Hydra.
+- Equipaggiare 3 heatsinks (con Ammo capacity) permette di orbitare qualsiasi variante per un periodo prolungato. Un comandante esperto, in media, utilizza (per cuore) 1-2 heatsink per Cyclops, 2-3 per Basilisk, 3-5 per Medusa, e addirittura tutti e 12 per Hydra.
 
 - L'alto numero di heatsink fornisce un buon margine di errore per i piloti meno esperti.
 
