@@ -18,7 +18,7 @@ Esta doctrina está centrada en un ciclo de combate en bucle, donde esencialment
 Esta doctrina permite también un enfoque mínimo en la gestión de los pips del Distribuidor de Energía puesto que la nave esta pensada en ser usada sin escudo, permitiendo así priorizar energía y atención en otros detalles o partes.
 
 # Configuración de Nave
-This doctrine centers itself around the Chieftain as its primary ship. The Challenger may also be used as a substitute with minor changes to its hardpoints. (Challenger build guide under construction) Ships such as the Krait MKII, Krait Phantom or FAS may also be used but due to the cheap entry cost of the Chieftain, its hard point layout and maneuverability, it is the primary focus for this doctrine.
+Esta doctrina se centra principalmente en la Chieftain como su nave principal. The Challenger may also be used as a substitute with minor changes to its hardpoints. (Challenger build guide under construction) Ships such as the Krait MKII, Krait Phantom or FAS may also be used but due to the cheap entry cost of the Chieftain, its hard point layout and maneuverability, it is the primary focus for this doctrine.
 
 ## Core Internals
 - Military Grade Composite (Heavy Duty/Deep Plate)
