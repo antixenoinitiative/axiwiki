@@ -20,30 +20,30 @@ Der Einsatz des Schildes kann verzögert werden, wenn der Thargoid aktiv eine se
 Man kann auf zwei verschiedene Arten erkennen, ob ein Thargoid einen aktiven Schild hat, mit und ohne einen Xeno-Scanner.
 
 ## {.tabset}
-### With a Scanner
-!\[withscanner.png\](/img/withscanner.png =500x){.align-center} The Shield will appear around the hologram when targeting the Interceptor and in the contacts panel can show you the remaining shield percentage.
+### Mit Scanner
+!\[withscanner.png\](/img/mitScanner.png =500x){.align-center} Der Schild wird um das Hologramm herum angezeigt, wenn der Interceptor anvisiert wird. Im Kontaktfeld kann man den verbleibenden Schildprozentsatz sehen.
 
-### Without a Scanner
-!\[withoutscanner.png\](/img/withoutscanner.png =500x){.align-center} Without a scanner you can identify if the Thargoid has a shield by looking for the blue “shield ping” whenever you deal damage to the Interceptor. If the ping appears, then the Interceptor still has a shield.
+### Ohne Scanner
+!\[withoutscanner.png\](/img/ohnescanner.png =500x){.align-center} ohne Scanner kann manerkennen, ob der Thargoid einen Schild hat, indem man nach dem blauen "Schild-Ping" Ausschau halten, wenn man dem Interceptor Schaden zufügen. Wenn der Ping erscheint, dann hat der Interceptor noch ein Schutzschild.
 
-## Decay
-Thargoid Shields always decay over time. The decay begins immediately and is a constant speed for all Thargoid Variants, **25MJ/s**. However due to the different size of shields for each variant, it will take longer for the shield to decay for each type of Interceptor.
+## Abklingen
+Thargoid-Schilde bauen mit der Zeit immer ab. Der Abbau beginnt sofort und ist eine konstante Geschwindigkeit für alle Thargoid-Varianten, **25MJ/s**. Aufgrund der unterschiedlichen Größe der Schilde für jede Variante dauert es jedoch bei jedem Interceptortyp länger, bis der Schild abgebaut ist.
 
-Dealing damage to Thargoids with a beam will accelerate the shield degeneration. Thargoid Shields do not have the same resistances to conventional weapons that the Hull has, so Lasers and other weapons can be utilized against Thargoid Shields. In fact, the shield has a negative resistance to thermal damage, so **thermal weapons recieve a 20% damage bonus against the Shield**.
+Wenn manThargoiden mit einem Laserstrahl Schaden zufügt, wird die Schilddegeneration beschleunigt. Thargoid-Schilde haben nicht die gleichen Resistenzen gegen konventionelle Waffen wie die Hülle, daher können Laser und andere Waffen gegen Thargoid-Schilde eingesetzt werden. Tatsächlich hat der Schild einen negativen Widerstand gegen thermischen Schaden, sodass **thermische Waffen einen Schadensbonus von 20 % gegen den Schild erhalten**.
 
-**Shield Decay Time**
+**Schild-Abbauzeit**
 - Cyclops - 1:35
 - Basilisk - 3:00
 - Medusa - 4:00
 - Hydra - 5:20
 
-## Breaking Shields
-When an Interceptors shield breaks, you can identify it by a large green particle effect that explodes outwards from the Interceptor.
+## Zusammenbrechen der Schilde
+Wenn ein Interceptor-Schild zusammenbricht, erkennt man dies an einem großen grünen Partikeleffekt, der vom Interceptor nach außen explodiert.
 
-!\[shieldbreak.jpg\](/img/shieldbreak.jpg =500x){.align-center}
+!\[shieldbreak.jpg\](/img/Schildzusammenbruch.jpg =500x){.align-center}
 
-## Panic Shields
-Under several conditions, the Interceptor can deploy shields independently of hearts being destroyed. Since these conditions usually involve massive damage, we refer to these shields as 'panic' shields.
+## Panikschild
+Unter verschiedenen Bedingungen kann der Interceptor Schilde unabhängig von zerstörten Herzen aufbauen. Da diese Zustände meist mit massiven Schäden verbunden sind, bezeichnen wir diese Schilde als "Panik"-Schilde.
 
 1. **Overwhelming hull damage** - If the Interceptor's hull continues to drop in spite of the rapid regeneration when a heart is exerted, it will deploy a panic shield. This happens often if using premium ammo against a Cyclops solo, when a wing tries to exert a Cyclops, or when trying to instagib any of the stronger variants.
 
