@@ -116,42 +116,42 @@ Ces configurations sont destinées aux commandants plus avancés, qui ont déjà
 
 L'Alliance Chieftain sans boucliers est le méta incontesté en combat AX, à l'image du Fer-de-Lance en PvP. Avec une coque solide, de l'espace de cargaison, une excellente maniabilité et une bonne puissance de feu, le Chieftain peut facilement effectuer un orbite froid tout en maintenant un feu de Canon de Gauss soutenu. Ses points d'emport généreux permettent aussi d'équiper quatre Canons de Gauss ainsi qu'un Lanceur Antaérien et un Rayon Laser avec Event Thermique. Son cousin, l'Alliance Challenger, fait plus de dégâts et a plus de coque mais perd en vitesse de pointe.
 
-Type: **Orbiteur Froid**
+Type: **Cold Orbiting**
 
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐⭐⭐
-- Shield:
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐
+- Vitesse: ⭐⭐⭐⭐⭐
+- Maniabilité: ⭐⭐⭐⭐⭐
+- Boucliers:
+- Coque: ⭐⭐⭐⭐
+- Puissance de Feu: ⭐⭐⭐
 
-Recommendation: Unarguably the best ship and build style for AX combat.
+Recommandation: Incontestablement le meilleur vaisseau et type de configuration pour le combat AX.
 
-[Coriolis Meta Shieldless Build](https://s.orbis.zone/eu9w)
+[Configuration Méta sans boucliers sur Coriolis](https://s.orbis.zone/eu9w)
 
-[EDSY Meta Shieldless Build](https://edsy.org/s/vwJ9Lqq)
+[Configuration Méta sans boucliers sur EDSY](https://edsy.org/s/vwJ9Lqq)
 
-AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
+Passage en revue de l'Alliance Chieftain AX (en Anglais): [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
 ### Krait Mk.II (Sans Boucliers)
 
 #### **Krait Mk.II (Sans Boucliers)**
 
-A shieldless version of the beginner Krait MK.II. The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive power plant also allows it to idle under 20% heat, which allows for cold approaches without a heatsink or thermal vent beam.
+Une version sans boucliers du Krait Mk.II pour débutant. S'il n'est pas aussi maniable que le Chieftain, le Krait sans boucliers inflige de plus gros dégâts. Son immense générateur lui permet d'être à moins de 20% de température en permanence, ce qui permet une approche froide sans dissipateur thermique ou laser à ventilation thermique.
 
-Type: **Cold Orbiter**
+Type: **Cold Orbiting**
 
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐
-- Shield:
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐⭐
+- Vitesse: ⭐⭐⭐⭐⭐
+- Maniabilité: ⭐⭐⭐
+- Boucliers:
+- Coque: ⭐⭐⭐⭐
+- Puissance de Feu: ⭐⭐⭐⭐⭐
 
-Recommendation: A great upgrade from the shielded build.
+Recommandation: Une très bonne amélioration de la configuration avec boucliers.
 
-[Coriolis Shieldless Build](https://s.orbis.zone/eu9v)
+[Configuration sans Boucliers sur Coriolis](https://s.orbis.zone/eu9v)
 
-[EDSY Shieldless Build](https://edsy.org/s/vtQUkCk)
+[Configuration sans Boucliers sur EDSY](https://edsy.org/s/vtQUkCk)
 
-AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
+Passage en revue du Krait Mk.II AX (en Anglais): [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
 ## Configurations Avancées
 A collection of more advanced builds can be found on the Advanced Builds page.
