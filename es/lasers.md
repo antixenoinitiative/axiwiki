@@ -21,23 +21,23 @@ La función principal es su efecto de enfriamiento que proviene del efecto exper
 
 El ejemplo principal de esta función es enfriarse cuando se inicia el ataque. Aquí, la modificación de largo alcance demuestra su valor. Puesto que el interceptor no te dispara a menos que estés a menos de 3 kilómetros de distancia, con el rayo de largo alcance se puede empezar a enfriar incluso a 6 kilómetros de distancia (G5) sin tener que desperdiciar un eyector de calor durante la aproximación (la ingeniería mínima recomendada es G3).
 
-Another example is orbiting the Interceptor practically indefinitely without using heatsinks, which is useful when you need to quickly synth something, use your AFMU, or kite the Interceptor until your wingmates can rejoin the fight.
+Otro ejemplo es orbitar el Interceptor prácticamente indefinidamente sin utilizar los eyectores de calor, lo cual es útil cuando necesitas sintetizar algo rápidamente, usar tu UAM o kitear el Interceptor hasta que tus compañeros puedan reunirse al combate.
 
-A third usage case, specific to large ship combat, is using TV beams in combination with a heatsink to keep cool while synthing and prior to performing a cold reboot after the heart. This is an advanced tactic, for more information refer to the Large Ship Guide.
+Un tercer caso de uso, especifico para combate en naves grandes, es usar los rayos con VT en combinación con un eyector de calor para mantenerte frío mientras sintetizas y antes de realizar un reinicio en frío después del corazón. Esta es una táctica avanzada, para más información visita la Guía para Nave Grande.
 
-The cooling of the TV beam depends on the thermal load the beam produces (**The more heat generated per second, the more effective the cooling will be**)
+El enfriamiento del Rayo con VT, depende de la carga térmica que el rayo produce (**Entre mas calor produzca por segundo, mas efectivo será el enfriamiento**)
 
-Gimballed beam lasers generate the most heat (thus have the best cooling effect) and are much easier to maintain on target.
+Los láseres de Rayo asistidos generan la mayor cantidad de calor (por lo tanto tienen el mejor efecto de enfriamiento) y son más fáciles de mantener en el objetivo.
 
-Fixed beam lasers are only slightly worse for heat but deal higher damage and gives you the possibility of sniping the caustic missiles (which is practically useless but fun).
+Los láseres de rayo fijo, son sólo ligeramente peores para el calor, pero causan un mayor daño y la posibilidad de acertar a los misiles cáusticos (lo cual es prácticamente inútil pero divertido).
 
-Turreted beam lasers have very low heat generation (and thus, dissipation) and do not work well as Thermal Vent beams. Their only saving grace is their high time on target, which allow for a slower but more mindless cooling method.
+Los láseres de rayo de torreta, tiene muy baja generación de calor (y por lo tanto, disipación) y no funcionan bien como rayos de Ventilación Térmica. Su única gracia es su alto tiempo en el objetivo, que permite un método mas lento pero menos técnico de enfriarse.
 
-You might ask yourself – *“Isn’t it possible to use a beam instead of heatsinks to keep my ship cool during the attack run?” The short answer is “no”. The long answer is that not only does it not cool you enough while shooting Gauss Cannons, but also increases your weapon distributor draw, increasing the gauss heat generation even more.*
+Podrías preguntarte a ti mismo: *"¿No es posible usar un rayo en lugar de eyectores de calor para mantener mi nave fría durante el ataque?" La respuesta corta es "no". La respuesta larga es que no sólo no te enfría lo suficiente mientras disparas Cañones Gauss, pero también incrementa el consumo de tu distribuidor de armas, incrementando aún más la generación de calor de los Gauss.*
 
-The secondary function of a TV beam is damaging the shields of Interceptors. While Interceptor shields deteriorate over time, it is possible to speed up the process by shooting at the shield. It is a waste of ammo to use your Gauss for that purpose, but lasers are the perfect solution as they have unlimited ammo and greater range than the Interceptor’s cannon. Just remember that even though the shield itself will take damage from lasers, the Interceptor’s hull has 99.97% resistance to human weapons.
+La función secundaria de un rayo con VT es hacer daño a los escudos de los Interceptores. A pesar de que el escudo del Interceptor se deteriora con el tiempo, es posible acelerar el proceso disparando al escudo. Es un desperdicio de munición usar tus Gauss para este propósito, pero los láseres son la solución perfecta ya que tienen munición infinita y mayor alcance que el cañón del Interceptor. Sólo recuerda que aunque el escudo sufrirá daños por los láseres, el casco del Interceptor tiene una resistencia del 99,97% a las armas humanas.
 
-## Shield Healing Lasers
+## Láseres de curación de escudo
 
 Shield "healing" lasers or the ‘Regeneration Sequence’ and ‘Concordant Sequence’ experimental effects can be useful in wing fights. This naturally assumes your wingmates are not flying shieldless ships.
 
