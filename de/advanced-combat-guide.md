@@ -1,6 +1,6 @@
 ---
 title: Fortgeschrittener Gefechtsleitfaden
-description: Basiert auf der Odysseus-Doktrin von CMDR Avasa Siuu
+description: Basierend auf dem Odysseus-Leitfaden von CMDR Avasa Siuu
 published: true
 date: 2021-06-17T04:01:30.341Z
 tags: Ausrüsten, Gefecht, Thargoids, Interceptors
@@ -9,16 +9,16 @@ dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
 # Fortgeschrittener Thargoid Gefechtsleitfaden
-Der Zweck dieses Leitfadens ist die Einführung neuer oder erfahrener Kommandanten in einen bestimmten Kampfstil und Schiffsbau, welcher gegen alle vier Thargoid Interceptor Varianten funktioniert. Die Startkosten dieses Leitfadens sollen so gering wie möglich sein, um jedem Kommandanten die Möglichkeit zu geben, am Thargoid Interceptor Kampf teilzunehmen. Die enthaltenen Taktiken und Manöver umfassen alle vier Interceptor Varianten mit nur einem zusätzlichen Manöver für Basilisken aufgrund ihrer Geschwindigkeit.
+Der Zweck dieses Leitfadens ist die Einführung neuer und erfahrener Kommandanten in einen bestimmten Kampfstil und Schiffsbau, welcher gegen alle vier Thargoid Interceptor Varianten funktioniert. Die Startkosten dieses Leitfadens sollen so gering wie möglich sein, um jedem Kommandanten die Möglichkeit zu geben, am Thargoid Interceptor Kampf teilzunehmen. Die enthaltenen Taktiken und Manöver umfassen alle vier Interceptor Varianten mit nur einem zusätzlichen Manöver für Basilisken aufgrund ihrer Geschwindigkeit.
 
 Zum Nutzen dieses Leitfadens muss der Pilot über grundlegendes Wissen zum Fliegen ohne Flugassistenten (F/A off) verfügen. Dieser Leitfaden ist nicht für den Flug mit Flugassistenten ausgelegt, da dieser mehrere Flugmanöver beinträchtigen würde.
 
-Diese Leitfaden zentriert sich um einen Kampfzyklus - im Wesentlichen wiederholt man die gleiche Taktik bei allen Herzen (ausgenommen beim Start des Kampfes), was jedem Kommandanten erlaubt, seine Fähigkeiten in bestimmten Teilen dieses Leitfadens zu verfeinern.
+Dieser Leitfaden zentriert sich um einen Kampfzyklus - im Wesentlichen wiederholt man die gleiche Taktik bei allen Herzen (ausgenommen beim Start des Kampfes), was jedem Kommandanten erlaubt, seine Fähigkeiten in bestimmten Teilen dieses Leitfadens zu verfeinern.
 
 Dieser Leitfaden gibt auch einen kleinen Blick auf das Pip-Management, da es wichtig für das Fliegen ohne Schutzschild ist. So kann die Energie-Priorität auf das momentane Ziel ausgerichtet werden.
 
 # Schiffs Ausstattung
-Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der Challenger kann, mit geringfügigen Änderungen an seiner Bewaffnung, auch verwendet werden. (Challenger Ausstattung unfertig) Schiffe wie der Krait MKII, Krait Phantom oder FAS können auch verwendet werden, aber wegen der niedrigen Eintrittskosten des Chieftains, seiner Bewaffnungs Auslegung und Manövrierbarkeit, ist er der Hauptfokus für diesen Leitfaden.
+Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der Challenger kann, mit geringfügigen Änderungen an seiner Bewaffnung, auch verwendet werden. (Challenger Ausstattung unfertig) Schiffe wie der Krait MKII, Krait Phantom oder FAS können auch verwendet werden, aber wegen der geringen Startkosten des Chieftains, seiner Bewaffnungs-Auslegung und Manövrierbarkeit, ist er der Hauptfokus für diesen Leitfaden.
 
 ## Intern (Basis)
 - Millitär-Komposit (Heavy Duty/Deep Plate)
@@ -52,9 +52,9 @@ Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der C
 Wenn man nicht zu viel Wert auf den Xeno-Scanner legt, kann man mit einem 4ten Kühlkörperwerfer sicherstellen, dass man bei den niedrigeren Interceptor Varianten nie synthetitisieren muss.
 
 # Ingenieure
-Der Zweck der aufgelisteten Ingenieure ist es, die notwendigen Ingenieure für Einsteiger in diesen Leitfaden zu minimieren und gleichzeitig den erfahreneren Kommandanten die Möglichkeit zu geben, weitere Ingenieure zu nutzen, um ihr Schiff zu auszubauen. Die für die Änderungen erforderlichen Ingenieure sind wie folgt:
+Der Zweck der aufgelisteten Ingenieure ist es, die notwendigen Ingenieure für Einsteiger in diesen Leitfaden zu minimieren und gleichzeitig den erfahrenen Kommandanten die Möglichkeit zu geben, weitere Ingenieure zu nutzen, um ihr Schiff weiter auszustatten. Die für die Änderungen erforderlichen Ingenieure sind wie folgt:
 
-## Notwendige Ingeniere
+## Notwendige Ingenieure:
 - Der Dweller (Wyrd) - G5 Energieverteiler (Charge Enhanced/Super Conduits)
 - Selene Jean (Kuk) - G5 Rumpfhüllenverstärkung (Heavy Duty/Deep Plate)
 - G5 Panzerung (Heavy Duty/Deep Plate)
@@ -77,26 +77,26 @@ VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www
 
 - Der Zweck der 3x Kühlkörperwerfer (Munitionskapazität) ist eine großzügige Menge an Kühlleistung, für die "kalter Orbit" Flugstrategie. Erfahrene Kommandanten nutzen dann pro Herz 1-2 Kühlkörper bei der Cyclops Variante, 2-3 beim Basilisk, 3-5 bei der Medusa und bis zu alle 9 bei der Hydra.
 
-- Unerfahrene Kommandeure erhalten einen großen Puffer an Kühlkörpern, um ihnen zu ermöglichen, auch bei Fehlern den Kampf nach diesem Leitfaden zu bewältigen.
+- Unerfahrene Kommandanten erhalten so einen großen Puffer an Kühlkörpern, um ihnen zu ermöglichen, den Kampf nach diesem Leitfaden auch bei Fehlern zu bewältigen.
 
 - Die Notwendigkeit der Synthese von Kühlkörpern wird von Fall zu Fall abhängig vom Interceptor und oder der Erfahrung des Kommandanten sein.
 
-- Die Guardian Gauss Kanonen sollten in Feuergruppen aufgeteilt werden (1 Medium mit 1 Kleinen), um die Wärmeeffizienz des Schiffes zu maximieren, da man beim Abwechseln des Feuers den Chieftain unter 20% Hitze halten kann.
+- Die Guardian Gauss Kanonen sollten in Feuergruppen aufgeteilt werden (1 Medium mit 1 Kleinen), um die Wärmeeffizienz des Schiffes zu maximieren, da man beim Abwechseln des Feuers den Chieftain unter 20% Wärmeausstoß halten kann.
 
 - Der auf Reichweite und Thermische Entlastung modifizierte Strahlenlaser wird vorallem nach Zerstörung eines Herzens genutzt, um den Interceptor in einem Schlafmodus zu halten, ohne dabei Kühlkörper verbrauchen zu müssen.
 
-- Kühlkörper können notwendig werden, wenn nach Zerstörung eines Herzens die eigene Hitze noch bei über 15% ist. Der Interceptor Schlafmodus wird in Abschnitt VIII näher erläutert.
+- Kühlkörper können notwendig werden, wenn nach Zerstörung eines Herzens der eigene Wärmeausstoß noch bei über 15% ist. Der Interceptor Schlafmodus wird in Abschnitt VII näher erläutert.
 
 # Beginn und anschließender Herz-Kampf Zyklus
-- Beim Treffen auf egal welche Thargoid Interceptor Variante, in einer Nichtmenschlichen Signalquelle (NHSS), sollte der Kampf erst beginnen nachdem der Interceptor seinen Scan abgeschlossen hat. Der Zweck davon, den Intercptor seinen Scan beenden zu lassen, ist es den Interceptor selbst scannen zu können, falls man einen Xeno-Scanner ausgerüstet hat.
+- Beim Treffen auf egal welche Thargoid Interceptor Variante, in einer Nichtmenschlichen Signalquelle (NHSS), sollte der Kampf erst begonnen werden nachdem der Interceptor seinen Scan abgeschlossen hat. Der Zweck davon, den Intercptor seinen Scan beenden zu lassen, ist es den Interceptor selbst scannen zu können, falls man einen Xeno-Scanner ausgerüstet hat.
 -
 - Deaktiviere den Flugassistenten und greif mit dem Strahlenlaser an. [Pips auf: 0-4-2]
 -
-- Sobald der Interceptor angressivem Zustand ist setzt er seinen Schwarm frei. Fliege mit Schub am Interceptor vorbei und erreiche eine empfohlene Distanz von 4-6km. [Punkteverteilung bei: 0-4-2]
+- Sobald der Interceptor angressivem Zustand ist setzt er seinen Schwarm frei. Fliege mit Schub am Interceptor vorbei und erreiche eine empfohlene Distanz von 4-6km. [Pips auf: 0-4-2]
 -
 - Sobald erreicht, mache eine 180° Wende, während du dein rückwärtiges Momentum beibehältst, um den Thargon Schwarm zu bekämpfen. (Falls nähere Informationen zur Schwarm Bewältigung vonnöten sind; siehe Sektion V) [Punkteverteilung bei: 0-4-2]
 -
-- Sobald der Schwarm zerstört ist, kann man mit dem modifizierten Strahlenlaser (vorzugsweise bei 5km Distanz) den Kampf einleiten. Dies wird die eigene Schiffstemperatur bei unter 20% halten und einem erlauben die "kalter Umlauf" Strategie zu nutzen. [Punkteverteilung bei: 0-2-4]
+- Sobald der Schwarm zerstört ist, kann man mit dem modifizierten Strahlenlaser (vorzugsweise bei 5km Distanz) den Kampf einleiten. Dies wird den Wärmeausstoß des eigenen Schiffes bei unter 20% halten und einem erlauben die "kalter Umlauf" Strategie zu nutzen. [Pips auf: 0-2-4]
 -
 - Man beginnt den Kaltumlauf, indem man vertikale Schub- und Vorwärtsbewegungen nutzt, bis man eine Umlaufgeschwindigkeit von etwa 180 m/s erreicht, behalte dabei eine Umlaufdistanz von 0,9-1,5km bei. **HINWEIS: Das Einsetzen des Thermalen Entlastungs Strahlenlasers hilft bei dem Eintritt in den Umlauf, ohne Schaden durch den Interceptor zu nehmen.**
 -
@@ -118,7 +118,7 @@ VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www
 -
 - Sobald der Interceptor anfängt seinen Schwarm freizusetzen, versucht man einen Abstand von 3,5km-6km einzuhalten bis der Schwarm vollständig freigesetzt wurde. Dann macht man ein 180° Wendemanöver weg vom Interceptor und entfernt sich mit Schub. Jetzt ist die Zeit für Reparaturen und Synthesen.
 -
-- Nun kann man den Schwarm wie oben genannt bekämpfen.
+- Nun kann man den Schwarm wie oben beschrieben bekämpfen.
 -
 - Diesmal hat der Interceptor einen aktiven Schutzschild (Schutzschild fährt nach Zerstörung des Herzens hoch) der über Zeit abschwächt.
 -
@@ -136,10 +136,10 @@ Die Basilisk Variante hat eine Höchstgeschwindigkeit von 530 m/s. Der Chieftain
 # Schwarm Bewältigung
 Der Zweck, beim Start des Kampfes, den Schwarm zuerst zu bekämpfen, besteht darin, den „ausbewahrten“ Schwarm des Interceptors aus dem Kampf zu nehmen. Immer wenn ein Interceptor angegriffen wird und das Herz zuerst zerstört wird, wird der aufbewahrte Schwarm zuerst freigesetzt und man müsste insgesammt mit zwei Schwärmen kämpfen. Den aufbewahrten Schwarm aus dem Kampf zu nehmen erlaubt sich in der gegebenen Zeit effektiver auf die folgenden Herzen zu fokussieren.
 
-# Zweck des kalten Umlaufs
-- Der kalte Umlauf hat den Vorteil, dass der gesamte Schaden des Interceptors selbst umgangen werden kann, wenn, mit dem Schiff höchstens 20% Wärme, richtige Geschwindigkeit und Umlaufbahn in optimalem 15° Winkel zu den mittleren Interceptor Geschützen, beibehalten werden können. Diese Taktik wird von vielen erfahrenen AX-Kommandeuren verwendet, um jegliche Art von Schaden an ihrem Schiff zu verhindern, was es ihnen erlaubt, den Kampfzyklus fortzusetzen ohne, dass Module repariert werden müssen, was wertvolle Zeit in spart, vor allem bei fortgeschritteneren Interceptor Varianten.
+# Zweck des Kaltumlaufs
+- Der Kaltumlauf hat den Vorteil, dass der gesamte Schaden des Interceptors selbst umgangen werden kann, wenn, mit dem Schiff höchstens 20% Wärmeausstoß, richtige Geschwindigkeit und Umlaufbahn in optimalem 15° Winkel zu den mittleren Interceptor Geschützen, beibehalten werden können. Diese Taktik wird von vielen erfahrenen AX Kommandanten verwendet, um jegliche Art von Schaden an ihrem Schiff zu verhindern, was es ihnen erlaubt den Kampfzyklus fortzusetzen ohne, dass Module repariert werden müssen, was wertvolle Zeit in spart, vor allem bei fortgeschritteneren Interceptor Varianten.
 -
-- Kalter Umlauf ist dazu auch die Grundlegende Flugtaktik für fortgeschrittenere Interceptor Bekämpfung wenn man kleinere Schiffe nutzen will. Vorallem für den Umgang mit dem Thargon Schwarm auf kleinen Schiffen die keine Flak ausrüsten können. (Übersteigt diesen Leitfaden)
+- Der Kaltumlauf ist dazu auch die Grundlegende Flugtaktik für fortgeschrittenere Interceptor Bekämpfung, wenn man kleinere Schiffe nutzen will. Vorallem für den Umgang mit dem Thargon Schwarm auf kleinen Schiffen, welche keine Flak ausrüsten können. (Übersteigt diesen Leitfaden)
 -
 - Die Menge an Kühlkörpern, nach diesem Leitfaden, sollte die Zerstörung jedes Herzens auf allen Varianten ermöglichen, solange der Kommandant eine 0,9-1,5km Umlaufbahn einhält und damit die Schadensleistung der Gauss Kanonen komplett ausreizt.
 
@@ -155,7 +155,7 @@ Abdriften aus optimaler Umlaufbahn führt zum Verbrauch von mehr Munition, wegen
 - Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
 
 `CREDITS
-Vielen Dank an den Anti-Xeno-Initiative discord für die Unterstützung bei der Verfeinerung dieser Doktrin und an die folgenden AXI-Kommandanten für ihren Beitrag:
+Vielen Dank an den Anti-Xeno-Initiative Discord für die Unterstützung bei der Verfeinerung dieses Leitfadens und an die folgenden AXI-Kommandanten für ihren Beitrag:
 CMDR Mgram,
 CMDR BADRACINGDRIVER,
 CMDR Mackenheimer,
