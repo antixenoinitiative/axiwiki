@@ -118,11 +118,11 @@ Alliance Chieftain без щита это бесспорная мета АХ, к
 
 Тип: **Холодный**
 
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐⭐⭐
-- Shield:
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐
+- Скорость: ⭐⭐⭐⭐⭐
+- Манёвренность: ⭐⭐⭐⭐⭐
+- Щит:
+- Броня: ⭐⭐⭐⭐
+- Огневая мощь: ⭐⭐⭐
 
 Recommendation: Unarguably the best ship and build style for AX combat.
 
