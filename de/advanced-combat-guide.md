@@ -73,7 +73,7 @@ VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www
 - Mit der Montage und den aufgelisteten Ingenieuren ist dies der Grundstein des Leitfadens, der notwendig ist, um die Ausstattung des Schiffes mit den für jedes Modul verfügbaren Ingenieursarbeiten vollständig auszunutzen. Mit dem Einsatz aller Ingenieure maximiert man die Fähigkeiten des Chieftains, damit man alle Interceptor Varianten effizient und effektiv einsetzen kann.
 - Die Geschwindigkeit des Chieftains, mit den empfohlenen Einstellungen, ermöglicht es, eine minimale Schubgeschwindigkeit von 500 m/s zu erreichen, was mehr ist als erforderlich um jede Interceptor Variante zu bekämpfen. Basilisken benötigen aufgrund ihrer Geschwindigkeit ein zusätzliches Manöver. Siehe Basilisk Anpassungen
 
-- The purpose of using a repair limpet controller instead of a shield generator is to allow commanders to repair their ship in case of a mistake. The Thargon swarm also does more phasing damage to ships that are shielded compared to those that are unshielded providing a bit of an advantage against the swarm and for power purposes of the ship. Synthesis of limpets may be needed dependent on damage received especially with the higher variants
+- Der Zweck eines Reperaturdrohnen Steuerung anstelle eines Schildgenerators ist es, Kommandanten zu erlauben, ihr Schiff im Falle eines Fehlers zu reparieren. The Thargon swarm also does more phasing damage to ships that are shielded compared to those that are unshielded providing a bit of an advantage against the swarm and for power purposes of the ship. Synthesis of limpets may be needed dependent on damage received especially with the higher variants
 
 - The purpose of the 3x heat sinks (Ammo capacity) will allow a generous amount of heat sinks to achieve a cold orbit around any variant with experienced commanders using (per heart) 1-2 heat sinks against a cyclops, 2-3 against a Basilisk, 3-5 against a medusa, and allowing all 9 heat sinks for a Hydra.
 
@@ -155,7 +155,7 @@ Being outside of the orbit envelope may cost extra rounds from the Gauss cannons
 - Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
 
 `CREDITS
-Thank you to the Anti-Xeno Initiative discord for assistance in refining this doctrine and to the following AXI Commanders for their contribution:
+Vielen Dank an den Anti-Xeno-Initiative discord für die Unterstützung bei der Verfeinerung dieser Doktrin und an die folgenden AXI-Kommandanten für ihren Beitrag:
 CMDR Mgram,
 CMDR BADRACINGDRIVER,
 CMDR Mackenheimer,
