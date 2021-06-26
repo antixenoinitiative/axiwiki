@@ -22,19 +22,19 @@ Un lanceur de paillettes n'affecte en rien les Thargoïds, leur utilisation en c
 #### Contre-mesures électroniques
 De la même manière que le lanceur de paillettes, les contre-mesures électroniques n'ont aucun effet sur les missiles Thargoïd ou leurs autres armes.
 
-## Ship Launched Fighters
-A somewhat controversial topic as there are still some particular uses for these, however in typical AX fights, Ship Launched Fighters (or SLFs) are more of a bother than they are a benefit. Due to their paper thin hull, mediocre damage and laughable lifespan, even a SLF in the hands of a good pilot will still be less beneficial to perhaps using that same module slot for some more armour. Keep in mind that an AI pilot will also be taking a cut of all profits and rank obtained in the meantime too.
+## Chasseurs
+Il s'agit d'un sujet quelque peu controversé dans la mesure où il existe encore des utilisations particulières pour ceux-ci. Cependant, dans la plupart des combats AX, les chasseurs (ou SLF) sont plus gênants qu'avantageux. En raison de leur coque en carton, de leurs dégâts médiocres et de leur durée de vie risible, même un SLF entre les mains d'un bon pilote sera moins utile qu'un renfort de coque. Gardez à l'esprit que si vous possédez un pilote IA, ce dernier prendra également une part de tous les profits et de tous les rangs obtenus.
 
-Also:
-- SLF will aggro the swarm making it fly erratically, thus harder to destroy
-- SLF NPC will steal half your combat rank
-- SLF will not aggro the interceptor
-- The swarm will destroy a SLF in 4-5 hits, due to phasing damage.
+De plus:
+- Un SLF prendra l'aggro de l'essaim et le fera voler de manière imprévisible, donc il deviendra plus difficile à détruire
+- Un SLF piloté par une IA volera la moitié de votre rang de combat
+- Le SLF n'attaquera pas l'intercepteur
+- L'essaim détruira le SLF en 4-5 coups à cause des dégâts perçants.
 
 ![slf.gif](/img/slf.gif) {.align-center}
 
-## Flechette VS Flak
-Remote Release Flak Launcher and Remote Release Flechette Launcher are easily mixed up…
+## Fléchettes VS Flak
+Le lanceur antiaérien déclenché à distance (ou Flak) et le lanceur de Fléchette déclenchées à distance sont faciles à confondre…
 
 > Flak is super effective against Thargon swarms
 > 
