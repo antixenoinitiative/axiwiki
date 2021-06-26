@@ -79,20 +79,20 @@ VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lv
 
 - L'alto numero di heatsink fornisce un buon margine di errore per i piloti meno esperti.
 
-- Il numero di sintesi necessarie per gli heatsink varia a seconda dell'esperienza del pilota e della variante interessata.
+- Il numero di sintesi per gli heat sink necessarie, per un combattimento, varia a seconda dell'esperienza del pilota e della variante affrontata.
 
 - I Gauss Cannon dovrebbero essere divisi su due tasti all'interno dello stesso gruppo, alternando 1m1s per tasto. Questo riduce sensibilmente il calore prodotto e ci permette di non andare mai oltre il 20% di temperatura. (link to Fire Modes page)
 
-- Lo scopo del beam laser modificato con Long Range/Thermal Vent e' quello di tenere la nave sotto la soglia del 20% di temperatura dopo la distruzione di un cuore in modo da mantenere il Thargoid in una "sleep mode", stato nel quale non si attivano gli attacchi speciali (EMP/caustic missiles).
+- Lo scopo del beam laser modificato con Long Range/Thermal Vent e' quello di tenere la nave sotto la soglia del 20% di temperatura dopo la distruzione di un cuore, in modo da mantenere il Thargoid in una "sleep mode", stato nel quale non si attivano gli attacchi speciali (Emp/caustic missiles).
 
-- Potreste avere bisogno di usare un heatsink nel caso in cui la vostra temperatura fosse superiore al 15% in seguito alla distruzione di un cuore. La "Sleep Mode" e' spiegata piu' in dettaglio nella sezione VIII.
+- Potreste avere bisogno di usare un ulteriore heatsink nel caso in cui la vostra temperatura fosse superiore al 15% in seguito alla distruzione di un cuore. La "Sleep Mode" e' spiegata piu' in dettaglio nella sezione VIII.
 
 # Approccio iniziale/primo cuore e ciclo successivo di combattimento
-- Una volta effettuato il drop nella NHSS, l'interceptor effettuera' una scansione.  Potete sfruttare questo tempo per effettuare una scansione a vostra volta, nel caso aveste uno Xeno Scanner.
+- Una volta effettuato il drop nella NHSS, l'interceptor effettuera' una scansione della vostra nave. Potete sfruttare questo tempo per effettuare una scansione a vostra volta, nel caso aveste uno Xeno Scanner.
 -
 - Disabilita il Flight Assist, e usa il tuo laser per attaccare l'interceptor. [Pips a: 0-4-2]
 -
-- Una volta che l'Interceptor e' aggredito, liberera' lo swarm. Guadagnate velocita' con un boost per allontanarvi dall'interceptor fino ad una distanza di 4-6km. [Pips a: 0-4-2]
+- Una volta che l'Interceptor e' aggredito, rilascerà ' lo swarm. Guadagnate velocita' con un boost per allontanarvi dall'interceptor fino ad una distanza di 4-6km. [Pips a: 0-4-2]
 -
 - Raggiunta la distanza consigliata (4-6km), ruotate la nave di 180 gradi, per poter ingaggiare lo swarm. (questa manovra e' anche chiamata "Reverski") (per swarm management vedi sezione V) [Pips a: 0-4-2]
 -
@@ -100,11 +100,11 @@ VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lv
 -
 - Per cominciare l'orbita di attacco, applicate spinta verticale verso il basso e in avanti fino a raggiungere una velocita' di circa 180 m/s, mantenendo una distanza compresa tra 900 a 1500 metri. **NOTA BENE: usare il vostro beam laser per rimanere sotto il 20% di temperatura vi permettera' di entrare in un'orbita stabile e allo stesso tempo evitare danno dall'interceptor.**
 -
-- Once your orbit envelope is established switch to your gauss cannon fire group, engage a heat sink and begin your alternating fire of your gauss cannons. (Alternating fire should be achieved by activating the charge up of your second group once your first group of cannons fires its rounds.)
+- Stabilità un orbita stabile passate ai gauss cannon, lanciate un heat sink e cominciate l’attacco alternando il fuoco dei gauss, separati in due gruppi. (Per alternare correttamente i colpi cominciate a caricare il secondo gruppo non appena il primo ha sparato i suoi colpi)
 -
-- Continue engaging heat sinks as needed once you hear “Heat Sink Deployed” from your COVAS until the heart has been exerted and destroyed.
+- Utilizzate un nuovo heat sinks cercando di anticipare la voce del vostro COVAS: “Heat sink Deployed”, fino a quando non avrete esposto e quindi distrutto il cuore.
 -
-- Each Interceptor variant also has an approximate attack run window and will allow you to stabilize your orbit. Once outside of its attack run window the Interceptor will change direction and reset for its own attack run forcing you to have to adjust your orbit accordingly. Use of your thermal vent beam during this time may be recommended if you drift outside of your orbit envelope.
+- Ogni variante di Interceptor ha una durata specifica della sua fase di attacco. Conoscerla vi permetterà di gestire correttamente la vostra orbita. Once outside of its attack run window the Interceptor will change direction and reset for its own attack run forcing you to have to adjust your orbit accordingly. Use of your thermal vent beam during this time may be recommended if you drift outside of your orbit envelope.
 -
 - Cyclops ≈30 Seconds -Basilisk & Medusa ≈26 Seconds -Hydra ≈20 Seconds
 -
