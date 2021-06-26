@@ -1,6 +1,6 @@
 ---
-title: Pip Management Guide
-description: How to best manage pips in Thargoid Combat
+title: Leitfaden für Pip-Management
+description: Wie man Pips am besten im Thargoid-Kampf steuern kann
 published: true
 date: 2021-06-21T02:36:57.627Z
 tags: combat, controls
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-06-21T02:36:55.841Z
 ---
 
-# Pip Management Guide
+# Leitfaden für Pip-Management
 Pip-Management kann manuell durchgeführt werden, aber es ist wesentlich effektiver, ein Makro-Programm wie AutoHotKey (https://autohotkey.com/) zu verwenden. AHK kann Ihre Pips fast sofort genauer ausbalancieren als der am besten ausgebildete Pilot. Voice attack kann auch für die Pip-Verwaltung verwendet werden, entweder über Sprachbefehle (aufgrund der Geschwindigkeit nicht empfohlen) oder durch Bindung an Maus-/Funktionstasten.
 
 Das folgende AHK-Skript bindet die gängigsten Pip-Distributionen an Funktionstasten F1-F8. Man kann dann die Software der Maus verwenden, um zusätzliche Maustasten (z. B. Seitentasten) mit einer Auswahl von Funktionstasten zu belegen, die zum persönlichen Spielstil passt.
@@ -19,6 +19,6 @@ Das Pip-Management ist wichtig, um die Gauss effektiv zu nutzen und gleichzeitig
 
 Beim Abfeuern von Gauss ist darauf zu achten, 3-4 Pips in WEP zu halten, um die bei jedem Schuss erzeugte Wärmemenge zu reduzieren.
 
-Another example of the benefits: Transferring 4 pips to sys right before impact of the interceptor cannon leads to a 60% increase to shield damage resistance, which translates to an ~2.6x increase in shield strength. Mit Hilfe von Makros kann man schnell von 4-0-2 auf 0-2-4 umschalten, um die maximale Wiederaufladungsrate der Gauss aufrechtzuerhalten, den Antrieb konstant aufzuladen und sicherzustellen, dass die Schilde immer auf dem maximalen Widerstand sind. Immer vermeiden, dass die Energie in System zur Neige geht, da sonst kein Kühlkörper gezündet werden kann.
+Ein weiteres Beispiel für die Vorteile: Die Übertragung von 4 Pips auf sys kurz vor dem Aufprall der Geschosse des Interceptors führt zu einer 60%igen Erhöhung der Schildschadensresistenz, was einer ~2,6-fachen Erhöhung der Schildstärke entspricht. Mit Hilfe von Makros kann man schnell von 4-0-2 auf 0-2-4 umschalten, um die maximale Wiederaufladungsrate der Gauss aufrechtzuerhalten, den Antrieb konstant aufzuladen und sicherzustellen, dass die Schilde immer auf dem maximalen Widerstand sind. Immer vermeiden, dass die Energie in System zur Neige geht, da sonst kein Kühlkörper gezündet werden kann.
 
 ![pips.png](/img/pips.png) {.align-center}
