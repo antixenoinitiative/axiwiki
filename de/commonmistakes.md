@@ -1,29 +1,29 @@
 ---
 title: Häufige Fehler
 description: Ohne ein solides Verständnis der AX-Mechanik kann man bei der Zusammenstellung eines AX-Schiffes sehr leicht einfache Fehler machen.
-published: true
+published: ja
 date: 2021-06-10T07:25:30.677Z
 tags: builds, outfitting, engineer
 editor: markdown
 dateCreated: 2021-06-10T07:16:26.785Z
 ---
 
-# Common Build Mistakes
-Without a solid understanding of AX Mechanics it is very easy to make simple mistake when putting together an AX Ship. Here are some common mistakes people have made in the past… so you don’t have to!
+# Häufige Fehler beim Bau
+Ohne ein solides Verständnis der AX-Mechanik kann man bei der Zusammenstellung eines AX-Schiffes sehr leicht einfache Fehler machen. Hier sind einige häufige Fehler, die Spieler in der Vergangenheit gemacht haben... so sollten Sie das also nicht tun!
 
-## Useless Utilities
+## Nutzlose Hilfsmittel
 ### tabs {.tabset}
-#### Point Defence
-Although it may seem like a good idea at first, point defence is hopelessly ineffective in Thargoid combat. Point Defence will fire upon both caustic and Thargon missiles, but it is incapable of actually hitting them. On top of this, they also have a habit of shooting down friendly Flak Launcher projectiles.
+#### Punktverteidigung
+Obwohl es zunächst wie eine gute Idee erscheinen mag, ist die Punktverteidigung im Thargoid-Kampf hoffnungslos ineffektiv. Die Punktverteidigung feuert sowohl auf ätzende als auch auf Thargon-Raketen, ist aber nicht in der Lage, diese tatsächlich zu treffen. Ausserdem haben sie die Angewohnheit, die Geschosse des Flak Werfers abzuschiessen.
 
-#### Chaff
-Chaff does not affect Thargoids in any way, the use of chaff in AX combat will not help you. A similar effect can be achieved by Cold Orbiting instead.
+#### Düppel
+Düppel beeinflussen Thargoiden in keiner Weise, der Einsatz von Düppel im AX-Kampf wird nicht helfen. Ein ähnlicher Effekt kann stattdessen durch Cold Orbiting erzielt werden.
 
-#### Electronic Countermeasures
-Similar to chaff, Electronic Countermeasures have no effect on Thargoid missiles or other weapons systems.
+#### Elektronische Gegenmassnahmen
+Ähnlich wie Düppel haben elektronische Gegenmassnahmen keine Wirkung auf Thargoid-Raketen oder andere Waffensysteme.
 
-## Ship Launched Fighters
-A somewhat controversial topic as there are still some particular uses for these, however in typical AX fights, Ship Launched Fighters (or SLFs) are more of a bother than they are a benefit. Due to their paper thin hull, mediocre damage and laughable lifespan, even a SLF in the hands of a good pilot will still be less beneficial to perhaps using that same module slot for some more armour. Keep in mind that an AI pilot will also be taking a cut of all profits and rank obtained in the meantime too.
+## Schiffsgestartete Kampfjets
+Ein etwas kontroverses Thema, da es immer noch einige besondere Verwendungszwecke für diese gibt, aber in typischen AX-Kämpfen sind schiffsgestartete Kampfjets (SLFs) mehr ein Ärgernis als ein Vorteil. Aufgrund ihrer papierdünnen Hülle, dem mittelmässigen Schaden und der lächerlichen Lebensdauer ist selbst ein SLF in den Händen eines guten Piloten immer noch weniger vorteilhaft, als wenn man den gleichen Modulslot vielleicht für etwas mehr Panzerung verwenden würde. Keep in mind that an AI pilot will also be taking a cut of all profits and rank obtained in the meantime too.
 
 Also:
 - SLF will aggro the swarm making it fly erratically, thus harder to destroy
