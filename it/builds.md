@@ -20,7 +20,7 @@ Per cacciare i Thargoid sono necessari allestimenti specialistici poiché i Thar
 
 In primo luogo, bisogna distinguere che ci sono due tipi principali di Thargoid: **Thargoid Scouts** e **Thargoid Interceptors**. Dal momento che questi nemici hanno meccaniche e abilità molto diverse, in genere avremo bisogno di un tipo diverso di allestimento per ciascuno.
 
-# Builds per Interceptor
+# Builds per gli Interceptors
 
 Gli Interceptor Thargoid sono nemici molto forti che richiederanno navi altrettanto potenti e attrezzate per essere in grado affrontarli in combattimento. A causa del danno incredibilmente alto causato dargli Interceptor, ci sono solo una manciata di stili e metodi diversi che è possibile utilizzare in modo efficace.
 
@@ -61,7 +61,7 @@ Raccomandazione: migliore nave di partenza per i nuovi piloti AX.
 
 AX Krait Mk.II Recensione: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
-Note: While this build uses Lo-Draw on the shields, Fast Charge experimental is also a great option that requires more pip management but faster recharge.
+Nota: Sebbene questo allestimento utilizzi Lo-Draw come effetto sperimentale per gli scudi, Fast Charge è anche una ottima opzione che richiede più gestione dei pips ma garantisce una ricarica più veloce.
 
 ### Alliance Chieftain (Shielded)
 
