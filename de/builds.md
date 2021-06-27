@@ -1,6 +1,6 @@
 ---
-title: Recommended Builds
-description: Anti-Xeno Ship Builds
+title: Empfohlene Builds
+description: Anti-Xeno Schiffsbauten
 published: true
 date: 2021-06-23T10:01:06.084Z
 tags: builds
