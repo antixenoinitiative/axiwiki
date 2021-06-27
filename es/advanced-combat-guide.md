@@ -17,7 +17,7 @@ Esta doctrina está centrada en un ciclo de combate en bucle, donde esencialment
 
 Esta doctrina permite también un enfoque mínimo en la gestión de los pips del Distribuidor de Energía puesto que la nave esta pensada en ser usada sin escudo, permitiendo así priorizar energía y atención en otros detalles o partes.
 
-# Configuración de Nave
+# Equipamiento de la nave
 Esta doctrina se centra principalmente en la Chieftain como su nave principal. El Challenger también se puede utilizar como un sustituto con cambios menores en sus Anclajes. (Guía de construcción de Challenger en construcción) También se pueden usar barcos como el Krait MKII, Krait Phantom o FAS, pero debido al costo barato de entrada del Chieftain, su convergencia de armas (Anclajes) y maniobrabilidad, es el enfoque principal de esta doctrina.
 
 ## Core Internals
