@@ -22,13 +22,13 @@ Wichtig zu wissen ist, dass es zwei verschiedene Typen von Thargoid gibt: **Thar
 
 # Interceptor Builds
 
-Thargoid Interceptors are very tough and powerful enemies that will require equally strong ships to be able to stand a chance in combat. Due to the incredibly high damage output of Thargoid Interceptors, there are only a handful of different styles and methods you can use effectively.
+Thargoid Interceptor sind sehr zähe und starke Gegner, gegen die man ebenso starke Schiffe braucht um eine Überlebenschance zu haben. Wegen des extrem hohen Schadens, den die Thargoid Interceptor verursachen, muss man sich auf eine handvoll Methoden und Stile beschränken.
 
-These are the most common types of builds used for Anti-Xeno Combat.
+Dies sind die häufigsten Arten von Builds für die AX-Jagt.
 
--   **Fast Shielded Builds** (Bi-Weave Hybrids) - Ships with good speed and small shields that regenerate quickly (Beginner)
+-   **schnelle, geschützte Builds** (Bi-Weave Hybride) - Schiffe mit hoher Schnelligkeit und kleine Schiffe, die schnell regenerieren (Anfänger)
 
--   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage (Moderate)
+-   **schnelle, ungeschützte Builds** (Schiffe zum kalten umkreisen) - Schnelle Schiffe, die keinen Schild haben und im kalten Orbit sind, um Schaden auszuweichen. (Mittelmäßig)
 
 -   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically (Moderate/Advanced)
 
