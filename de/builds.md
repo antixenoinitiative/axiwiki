@@ -30,10 +30,10 @@ Dies sind die häufigsten Arten von Builds für die AX-Jagt.
 
 -   **schnelle, ungeschützte Builds** (Schiffe zum kalten umkreisen) - Schnelle Schiffe, die keinen Schild haben und im kalten Orbit sind, um Schaden auszuweichen. (Mittelmäßig)
 
--   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically (Moderate/Advanced)
+-   ** langsame, geschützte Builds** (Schild Giganten) - Langsame Schiffe mit starken Schilden, die regelmäßig einen Neustart machen, um ihre Schilde zu regenerieren (Mittel/Fortgeschritten)
 
 
-## Beginner Builds
+## Anfänger-Builds
 
 These builds all utilize shields to provide a more familiar style of combat, while also being equipped for cold orbiting techniques. If you are looking to ease into AX combat, shielded builds are recommended because of their ease of use on Cyclops and Basilisk variant Interceptors. These ships fall under two categories: Bi-Weave Hybrids, which make use of Cold Orbiting techniques but provide shields as a backup, and Shield Tanks, which rely on massive raw shield MJ to keep them alive.
 
