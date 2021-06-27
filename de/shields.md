@@ -1,54 +1,54 @@
 ---
-title: Thargoid Shields
-description: Thargoid Interceptors can generate powerful shields that can absorb large amounts of damage. These shields can appear multiple times and can be very tough.
-published: true
+title: Thargoide Schilde
+description: Thargoid-Interceptors können mächtige Schilde erzeugen, die grosse Mengen an Schaden absorbieren können. Diese Schilde können mehrfach auftreten und sehr zäh sein.
+published: ja
 date: 2021-06-17T00:56:22.011Z
 tags: combat, thargoids, interceptors, shields
 editor: markdown
 dateCreated: 2021-06-17T00:54:20.812Z
 ---
 
-# Thargoid Shields
-Thargoid Interceptors can generate powerful shields that can absorb large amounts of damage. These shields can appear multiple times and can be very tough.
+# Thargoide Schilde
+Thargoide Interceptors können mächtige Schilde erzeugen, die große Mengen an Schaden absorbieren können. Diese Schilde können mehrfach auftreten und sehr zäh sein.
 
-## Generation
-Thargoid Interceptors will generate a new shield each time they lose one of their hearts. This means Interceptors with more hearts will also generate more shields. The shield strength is determined by the Thargoid Variant with the Hydra generating the toughest shields. Once the Thargoid’s heart is broken it will try to deploy its shield instantly.
+## Erzeugung
+Thargoide Interceptors erzeugen jedes Mal ein neues Schild, wenn sie eines ihrer Herzen verlieren. Das bedeutet, dass Interceptors mit mehr Herzen auch mehr Schilde erzeugen. Die Schildstärke wird durch die Thargoid-Variante bestimmt, wobei die Hydra die stärksten Schilde erzeugt. Sobald das Herz des Thargoiden zerstört ist, wird er versuchen, sofort seinen Schild einzusetzen.
 
-Shield deployment can be delayed if the Thargoid is actively using one of its special attacks, such as the lightning attack. This makes it possible to destroy two hearts at once if you time it very carefully.
+Der Einsatz des Schildes kann verzögert werden, wenn der Thargoid aktiv eine seiner Spezialattacken einsetzt, z. B. den Blitzangriff. Dadurch ist es möglich, zwei Herzen auf einmal zu zerstören, wenn man das Timing sehr sorgfältig wählt.
 
-## Identify the Shield
-You can detect if a Thargoid has an active shield in two different ways, with a Xeno-Scanner and without a Xeno-Scanner.
+## Identifizieren des Schildes
+Man kann auf zwei verschiedene Arten erkennen, ob ein Thargoid einen aktiven Schild hat, mit und ohne einen Xeno-Scanner.
 
 ## {.tabset}
-### With a Scanner
-!\[withscanner.png\](/img/withscanner.png =500x){.align-center} The Shield will appear around the hologram when targeting the Interceptor and in the contacts panel can show you the remaining shield percentage.
+### Mit Scanner
+!\[withscanner.png\](/img/mitScanner.png =500x){.align-center} Der Schild wird um das Hologramm herum angezeigt, wenn der Interceptor anvisiert wird. Im Kontaktfeld kann man den verbleibenden Schildprozentsatz sehen.
 
-### Without a Scanner
-!\[withoutscanner.png\](/img/withoutscanner.png =500x){.align-center} Without a scanner you can identify if the Thargoid has a shield by looking for the blue “shield ping” whenever you deal damage to the Interceptor. If the ping appears, then the Interceptor still has a shield.
+### Ohne Scanner
+!\[withoutscanner.png\](/img/ohnescanner.png =500x){.align-center} ohne Scanner kann man erkennen, ob der Thargoid einen Schild hat, indem man nach dem blauen "Schild-Ping" Ausschau halten, wenn man dem Interceptor Schaden zufügen. Wenn der Ping erscheint, dann hat der Interceptor noch ein Schutzschild.
 
-## Decay
-Thargoid Shields always decay over time. The decay begins immediately and is a constant speed for all Thargoid Variants, **25MJ/s**. However due to the different size of shields for each variant, it will take longer for the shield to decay for each type of Interceptor.
+## Abklingen
+Thargoid-Schilde bauen mit der Zeit immer ab. Der Abbau beginnt sofort und ist eine konstante Geschwindigkeit für alle Thargoid-Varianten, **25MJ/s**. Aufgrund der unterschiedlichen Größe der Schilde für jede Variante dauert es jedoch bei jedem Interceptortyp länger, bis der Schild abgebaut ist.
 
-Dealing damage to Thargoids with a beam will accelerate the shield degeneration. Thargoid Shields do not have the same resistances to conventional weapons that the Hull has, so Lasers and other weapons can be utilized against Thargoid Shields. In fact, the shield has a negative resistance to thermal damage, so **thermal weapons recieve a 20% damage bonus against the Shield**.
+Wenn manThargoiden mit einem Laserstrahl Schaden zufügt, wird die Schilddegeneration beschleunigt. Thargoid-Schilde haben nicht die gleichen Resistenzen gegen konventionelle Waffen wie die Hülle, daher können Laser und andere Waffen gegen Thargoid-Schilde eingesetzt werden. Tatsächlich hat der Schild einen negativen Widerstand gegen thermischen Schaden, sodass **thermische Waffen einen Schadensbonus von 20 % gegen den Schild erhalten**.
 
-**Shield Decay Time**
+**Schild-Abbauzeit**
 - Cyclops - 1:35
 - Basilisk - 3:00
 - Medusa - 4:00
 - Hydra - 5:20
 
-## Breaking Shields
-When an Interceptors shield breaks, you can identify it by a large green particle effect that explodes outwards from the Interceptor.
+## Zusammenbrechen der Schilde
+Wenn ein Interceptor-Schild zusammenbricht, erkennt man dies an einem großen grünen Partikeleffekt, der vom Interceptor nach außen explodiert.
 
-!\[shieldbreak.jpg\](/img/shieldbreak.jpg =500x){.align-center}
+!\[shieldbreak.jpg\](/img/Schildzusammenbruch.jpg =500x){.align-center}
 
-## Panic Shields
-Under several conditions, the Interceptor can deploy shields independently of hearts being destroyed. Since these conditions usually involve massive damage, we refer to these shields as 'panic' shields.
+## Panikschild
+Unter verschiedenen Bedingungen kann der Interceptor Schilde unabhängig von zerstörten Herzen aufbauen. Da diese Zustände meist mit massiven Schäden verbunden sind, bezeichnen wir diese Schilde als "Panik"-Schilde.
 
-1. **Overwhelming hull damage** - If the Interceptor's hull continues to drop in spite of the rapid regeneration when a heart is exerted, it will deploy a panic shield. This happens often if using premium ammo against a Cyclops solo, when a wing tries to exert a Cyclops, or when trying to instagib any of the stronger variants.
+1. **Überwältigender Rumpfschaden** - Wenn der Rumpf des Interceptors trotz der schnellen Regeneration bei starker Krafteinwirkung auf das Herz weiter abfällt, setzt er einen Panikschild ein. This happens often if using premium ammo against a Cyclops solo, when a wing tries to exert a Cyclops, or when trying to instagib any of the stronger variants.
 
-2. **Overwhelming shield damage** - If the Interceptor's shield is destroyed within 10 seconds of it being deployed, it will immediately regenerate it. (**This cannot happen after the first heart because of the Lightning phase**). This scenario most often occurs when one uses a ram to immediately destroy a deployed shield, or if sufficient firepower is deployed against one of the weaker variants (shard cannons against Cyclops). You can tell if this 10 second window is over when the Interceptor's red glowing petals stop rapidly flashing and switch to slowly pulsating.
+2. **Überwältigender Schildschaden** - Wenn der Schild des Interceptors innerhalb von 10 Sekunden nach seinem einsetzen zerstört wird, regeneriert er ihn sofort. (**Dies kann wegen der Blitzphase nicht nach dem ersten Herz geschehen**). Dieses Szenario tritt vor allem dann ein, wenn man mit einem Ramm ein eingesetztes Schild sofort zerstört oder wenn genügend Feuerkraft gegen eine der schwächeren Varianten eingesetzt wird (Shardkanonen gegen Cyclops). Man kann erkennen, ob dieses 10-Sekunden-Fenster vorbei ist, wenn die rot leuchtenden Blütenblätter des Interceptors aufhören, schnell zu blinken und zu einem langsamen pulsieren übergehen.
 
-3. **Countermeasure Deployment** - If the Interceptor launches a volley of caustic missiles but its shield is down, it will deploy a new one.
+3. **Einsatz von Gegenmassnahmen** - Wenn der Interceptor eine Salve ätzender Raketen abschießt, aber sein Schild ausgefallen ist, setzt er einen neuen ein.
 
-This scenario often occurs in conditions that trigger scenario 2, but it can also happen past the 10 second window. For example, if wing tactics are used to bring the shield down during the sleep phase  but the aggro holder is detected after the shield is destroyed, a new one will be generated alongside the caustic barrage.
+Dieses Szenario tritt häufig bei Bedingungen auf, die Szenario 2 auslösen, es kann aber auch nach dem 10-Sekunden-Fenster auftreten. Wenn z. B. mit der Geschwadertaktik der Schild während der Ruhephase zu Fall gebracht wird, der Aggro-Halter aber erst nach der Zerstörung des Schildes erkannt wird, wird neben dem ätzenden Sperrfeuer ein neues erzeugt.

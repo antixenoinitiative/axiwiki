@@ -8,43 +8,43 @@ editor: markdown
 dateCreated: 2021-06-10T04:07:02.325Z
 ---
 
-# Lasers
-`Guide by CMDR Naddesh and CMDR Ghosti`
+# Láseres
+`Guía por CMDT Naddesh y CMDT Ghosti`
 
-Overall human weapons are largely useless in Anti-Xeno combat. There are however a few exceptions which give added utility and allow for certain special tactics that can greatly improve your combat prowess.
+En general, las armas humanas son inmensamente inútiles en el combate Anti-Xeno. Sin embargo, hay algunas excepciones que dan una utilidad añadida y permiten ciertas tácticas especiales que pueden mejorar en gran medida tu destreza en combate.
 
-## Thermal Vent Beam Lasers
+## Láser de Rayo con Ventilación Térmica
 
-The most popular variant is the Thermal Vent Long Range Beam Laser.
+La variante mas popular es el Láser de Rayo con Ventilación Térmica.
 
-The primary function is its cooling effect which comes from the experimental effect ‘Thermal Vent’. AX pilots can use the TV beam to cool their ship below the 20% heat threshold outside of an attack run (when not exerting and destroying hearts).
+La función principal es su efecto de enfriamiento que proviene del efecto experimental ‘Ventilación Térmica’. Los Pilotos AX pueden usar la VT para enfriar su nave por debajo del umbral de calor de 20% fuera de un ataque (cuando no estás ejerciendo o destruyendo corazones).
 
-The main example of this function is cooling down when starting the attack run. Here the long range modification proves its worth. Since the Interceptor does not fire upon you unless you closer than 3 kilometers away, with the long range beam you can start cooling even at 6 kilometers away (G5) without having to waste a heatsink on the approach (minimum recommended engineering is G3).
+El ejemplo principal de esta función es enfriarse cuando se inicia el ataque. Aquí, la modificación de largo alcance demuestra su valor. Puesto que el interceptor no te dispara a menos que estés a menos de 3 kilómetros de distancia, con el rayo de largo alcance se puede empezar a enfriar incluso a 6 kilómetros de distancia (G5) sin tener que desperdiciar un eyector de calor durante la aproximación (la ingeniería mínima recomendada es G3).
 
-Another example is orbiting the Interceptor practically indefinitely without using heatsinks, which is useful when you need to quickly synth something, use your AFMU, or kite the Interceptor until your wingmates can rejoin the fight.
+Otro ejemplo es orbitar el Interceptor prácticamente indefinidamente sin utilizar los eyectores de calor, lo cual es útil cuando necesitas sintetizar algo rápidamente, usar tu UAM o kitear el Interceptor hasta que tus compañeros puedan reunirse al combate.
 
-A third usage case, specific to large ship combat, is using TV beams in combination with a heatsink to keep cool while synthing and prior to performing a cold reboot after the heart. This is an advanced tactic, for more information refer to the Large Ship Guide.
+Un tercer caso de uso, especifico para combate en naves grandes, es usar los rayos con VT en combinación con un eyector de calor para mantenerte frío mientras sintetizas y antes de realizar un reinicio en frío después del corazón. Esta es una táctica avanzada, para más información visita la Guía para Nave Grande.
 
-The cooling of the TV beam depends on the thermal load the beam produces (**The more heat generated per second, the more effective the cooling will be**)
+El enfriamiento del Rayo con VT, depende de la carga térmica que el rayo produce (**Entre mas calor produzca por segundo, mas efectivo será el enfriamiento**)
 
-Gimballed beam lasers generate the most heat (thus have the best cooling effect) and are much easier to maintain on target.
+Los láseres de Rayo asistidos generan la mayor cantidad de calor (por lo tanto tienen el mejor efecto de enfriamiento) y son más fáciles de mantener en el objetivo.
 
-Fixed beam lasers are only slightly worse for heat but deal higher damage and gives you the possibility of sniping the caustic missiles (which is practically useless but fun).
+Los láseres de rayo fijo, son sólo ligeramente peores para el calor, pero causan un mayor daño y la posibilidad de acertar a los misiles cáusticos (lo cual es prácticamente inútil pero divertido).
 
-Turreted beam lasers have very low heat generation (and thus, dissipation) and do not work well as Thermal Vent beams. Their only saving grace is their high time on target, which allow for a slower but more mindless cooling method.
+Los láseres de rayo de torreta, tiene muy baja generación de calor (y por lo tanto, disipación) y no funcionan bien como rayos de Ventilación Térmica. Su única gracia es su alto tiempo en el objetivo, que permite un método mas lento pero menos técnico de enfriarse.
 
-You might ask yourself – *“Isn’t it possible to use a beam instead of heatsinks to keep my ship cool during the attack run?” The short answer is “no”. The long answer is that not only does it not cool you enough while shooting Gauss Cannons, but also increases your weapon distributor draw, increasing the gauss heat generation even more.*
+Podrías preguntarte a ti mismo: *"¿No es posible usar un rayo en lugar de eyectores de calor para mantener mi nave fría durante el ataque?" La respuesta corta es "no". La respuesta larga es que no sólo no te enfría lo suficiente mientras disparas Cañones Gauss, pero también incrementa el consumo de tu distribuidor de armas, incrementando aún más la generación de calor de los Gauss.*
 
-The secondary function of a TV beam is damaging the shields of Interceptors. While Interceptor shields deteriorate over time, it is possible to speed up the process by shooting at the shield. It is a waste of ammo to use your Gauss for that purpose, but lasers are the perfect solution as they have unlimited ammo and greater range than the Interceptor’s cannon. Just remember that even though the shield itself will take damage from lasers, the Interceptor’s hull has 99.97% resistance to human weapons.
+La función secundaria de un rayo con VT es hacer daño a los escudos de los Interceptores. A pesar de que el escudo del Interceptor se deteriora con el tiempo, es posible acelerar el proceso disparando al escudo. Es un desperdicio de munición usar tus Gauss para este propósito, pero los láseres son la solución perfecta ya que tienen munición infinita y mayor alcance que el cañón del Interceptor. Sólo recuerda que aunque el escudo sufrirá daños por los láseres, el casco del Interceptor tiene una resistencia del 99,97% a las armas humanas.
 
-## Shield Healing Lasers
+## Láseres de curación de escudo
 
-Shield "healing" lasers or the ‘Regeneration Sequence’ and ‘Concordant Sequence’ experimental effects can be useful in wing fights. This naturally assumes your wingmates are not flying shieldless ships.
+Los láseres de "curación" de escudo o efectos experimentales "Secuencia de Regeneración" y "Secuencia Concordante" pueden ser útiles en los combates en equipo. Esto supone, naturalmente, que tus compañeros no están volando naves sin escudo.
 
-Regeneration Sequence and Concordant Sequence lasers only work on friendly targets within your wing.
+Los láseres con Secuencia de Regeneración y Secuencia Concordante solo funcionan en objetivos amistosos dentro de tu equipo.
 
-### Regeneration Sequence Lasers
-It's possible to significantly regenerate a wingmate's shields with beam lasers which have the Regeneration Sequence experimental effect. This is especially true for ships with Prismatic shields, which rarely get more than 50% shield strength in solo fights after the shield has dropped below that limit. It is a good idea to use an Efficient blueprint on a Regen beam, unless you are in a slower ship than the wingmates you are healing (example: Corvette healing the shield of a Cutter), in which case Long Range may be a better option.
+### Láseres de Secuencia de Regeneración
+Es posible regenerar significativamente los escudos de un compañero con un láser de rayo que tienen el efecto experimental de Secuencia de Regeneración. Esto es especialmente cierto para naves con escudos Prismáticos, que rara vez obtienen más del 50% de fortaleza de escudo en combates solitarios después de que el escudo haya caído por debajo de ese límite. Es una buena idea usar un plano Eficiente en un rayo de Regeneración, a menos que estés en una nave más lenta que los compañeros de equipo que estás curando (ejemplo: Corvette curando el escudo de una Cutter), en cuyo caso Largo Alcance puede ser una mejor opción.
 
-### Concordant Sequence Lasers
-Concordant sequence is an experimental effect that will amplify the natural shield regeneration of the targeted ship by a very big factor for a short period of time. Due to this, they work best on ships equipped with Bi-Weave shield generators, which already have short regeneration rates and unlike in PvP they do not have a hard counter in AX combat. Remember that while they are a great support module, they do not work on fully broken shields. It is also worth noting that you do not need to continuously fire at the target you want to help, as once applied buff lasts for a short period of time. Long Range Pulse lasers are recommended as Concordant Sequence only requires a single hit to apply the effect and pulse lasers have the least power draw.
+### Láseres de Secuencia Concordante
+La secuencia concordante es un efecto experimental que amplificará la regeneración natural del escudo de la nave objetivo por un factor muy grande durante un corto período de tiempo. Debido a esto, funcionan mejor en naves equipadas con Generadores de escudos entrelazados, que ya tiene una corto tiempo de regeneración, y a diferencia de JcJ, no tienen una contra fuerte en combate AX. Recuerda que aunque son un gran módulo de soporte, no funcionan con escudos totalmente agotados. También vale la pena señalar que no es necesario disparar continuamente contra el objetivo que quieres ayudar, ya que una vez aplicado el efecto, dura un corto periodo de tiempo. Se recomiendan los Láseres de Pulso de Largo Alcance debido a que la secuencia concordante solo requiere un acierto para aplicar el efecto y los láseres de pulso tienen el menor consumo de energía.

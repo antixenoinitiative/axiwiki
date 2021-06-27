@@ -9,7 +9,7 @@ dateCreated: 2021-06-15T10:50:27.574Z
 ---
 
 # Trouver des Thargoids
-Les Thargoids savent se faire discrets mais il existe des astuces et des zones d'activité à connaître qui peuvent vous aider à trouver ce que vous cherchez. Le moyen le plus fiable est de chercher des Thargoids dans les **Sources de Signal Non Humaines (NHSS)** dans les régions des Pléiades, de Coalsack ou de Witch Head Nebula. Cependant, vous pouvez aussi trouver des Thargoids à certains endroits fixes à travers l'espace humain.
+Les Thargoids savent se faire discrets mais il existe des astuces et des zones d'activité à connaître qui peuvent vous aider à trouver ce que vous cherchez. The most consistent means is to find Thargoids in **Non-Human Signal Sources (NHSS)** in either the Pleiades Region, Coalsack Nebula or the Witch Head Nebula. Cependant, vous pouvez aussi trouver des Thargoids à certains endroits fixes à travers l'espace humain.
 
 > ## Zones d'activité actuelles
 > 

@@ -1,24 +1,24 @@
 ---
 title: Fortgeschrittener Gefechtsleitfaden
-description: Basiert auf der Odysseus-Doktrin von CMDR Avasa Siuu
+description: Basierend auf der Odysseus-Doktrin von KMDT Avasa Siuu
 published: true
 date: 2021-06-17T04:01:30.341Z
-tags: Ausrüsten, Gefecht, Thargoids, Interceptors
+tags: Ausrüstung, Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
 # Fortgeschrittener Thargoid Gefechtsleitfaden
-Der Zweck dieses Leitfadens ist die Einführung neuer oder Veteranen-kommandeure in einen bestimmten Kampfstil und Schiffsbau, welcher gegen alle vier Thargoid Interceptor Varianten funktioniert. Die Startkosten dieses Leitfadens sollen so gering wie möglich sein, um jedem Kommandanten die Möglichkeit zu geben, am Thargoid Interceptor Kampf teilzunehmen. Die enthaltenen Taktiken und Manöver umfassen alle vier Interceptor Varianten mit nur einem zusätzlichen Manöver für Basilisken aufgrund ihrer Geschwindigkeit.
+Der Zweck dieses Leitfadens ist die Einführung neuer und erfahrener Kommandanten in einen bestimmten Kampfstil und Schiffsbau, welcher gegen alle vier Thargoid Interceptor Varianten funktioniert. Die Startkosten dieses Leitfadens sollen so gering wie möglich sein, um jedem Kommandanten die Möglichkeit zu geben, am Thargoid Interceptor Kampf teilzunehmen. Die enthaltenen Taktiken und Manöver umfassen alle vier Interceptor Varianten mit nur einem zusätzlichen Manöver für Basilisken aufgrund ihrer Geschwindigkeit.
 
-Zum Nutzen dieses Leitfadens muss der Pilot über grundlegendes Wissen zum Fliegen ohne Flugassistenten (F/A off) verfügen. Dieser Leitfaden ist nicht für den Flug mit Flugassistenten ausgelegt, da dieser mehrere Flugmanöver beinträchtigen würde.
+Um diesen Leitfaden zu beherrschen, muss der Pilot über grundlegendes Wissen zum Fliegen ohne Flugstabilisator (englisch: FA off) verfügen. Dieser Leitfaden ist nicht für den Flug mit Flugstabilisator ausgelegt, da dieser mehrere Flugmanöver beinträchtigen würde.
 
-Diese Leitfaden zentriert sich um eine Kampfschleife - im Wesentlichen wiederholst du die gleiche Taktik für alle Herzen (ausgenommen beim Start des Kampfes), die es jedem Kommandanten erlaubt, seine Fähigkeiten in den spezifischen Bewegungen dieses Leitfadens zu verfeinern.
+Dieser Leitfaden zentriert sich um einen Kampfzyklus - im Wesentlichen wiederholt man die gleiche Taktik bei allen Herzen (ausgenommen beim Start des Kampfes), was jedem Kommandanten erlaubt, seine Fähigkeiten in bestimmten Teilen dieses Leitfadens zu verfeinern.
 
-Dieser Leitfaden gibt auch einen kleinen Blick auf das Punkte-Management, da es wichtig für das Fliegen ohne Schutzschild ist, so kann die Energie-Priorität auf das momentane Ziel ausgerichtet werden.
+Dieser Leitfaden erlaubt auch, das Pip-Management zu vernachlässigen, da man ohne Schutzschild fliegt. So kann man Energie und Konzentration für Wichtigeres verwenden.
 
 # Schiffs Ausstattung
-Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der Challenger kann auch als Alternative, mit geringfügigen Änderungen an seiner Bewaffnung, verwendet werden. (Challenger Ausstattung im Bau) Schiffe wie der Krait MKII, Krait Phantom oder FAS können auch verwendet werden, aber wegen der niedrigen Eintrittskosten des Chieftains, seiner Bewaffnungs Auslegung und Manövrierbarkeit, ist er der Hauptfokus für diesen Leitfaden.
+Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der Challenger kann, mit geringfügigen Änderungen an seiner Bewaffnung, auch verwendet werden. (Challenger Ausstattung unfertig) Schiffe wie der Krait MKII, Krait Phantom oder FAS können auch verwendet werden, aber wegen der geringen Startkosten des Chieftains, seiner Bewaffnungs-Auslegung und Manövrierbarkeit, ist er der Hauptfokus für diesen Leitfaden.
 
 ## Intern (Basis)
 - Millitär-Komposit (Heavy Duty/Deep Plate)
@@ -51,10 +51,10 @@ Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der C
 
 Wenn man nicht zu viel Wert auf den Xeno-Scanner legt, kann man mit einem 4ten Kühlkörperwerfer sicherstellen, dass man bei den niedrigeren Interceptor Varianten nie synthetitisieren muss.
 
-# Ingenieure
-Der Zweck der aufgelisteten Ingenieure ist es, die notwendigen Ingenieure für Einsteiger in diesen Leitfaden zu minimieren und gleichzeitig den erfahreneren Kommandanten die Möglichkeit zu geben, weitere Ingenieure zu nutzen, um ihr Schiff zu auszubauen. Die für die Änderungen erforderlichen Ingenieure sind wie folgt:
+# Engineering
+Der Zweck der aufgelisteten Ingenieure ist es, die notwendigen Ingenieure für Einsteiger in diesen Leitfaden zu minimieren und gleichzeitig den erfahrenen Kommandanten die Möglichkeit zu geben, weitere Ingenieure zu nutzen, um ihr Schiff weiter auszustatten. Die für die Änderungen erforderlichen Ingenieure sind wie folgt:
 
-## Notwendige Ingeniere
+## Notwendige Ingenieure:
 - Der Dweller (Wyrd) - G5 Energieverteiler (Charge Enhanced/Super Conduits)
 - Selene Jean (Kuk) - G5 Rumpfhüllenverstärkung (Heavy Duty/Deep Plate)
 - G5 Panzerung (Heavy Duty/Deep Plate)
@@ -73,89 +73,89 @@ VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www
 - Mit der Montage und den aufgelisteten Ingenieuren ist dies der Grundstein des Leitfadens, der notwendig ist, um die Ausstattung des Schiffes mit den für jedes Modul verfügbaren Ingenieursarbeiten vollständig auszunutzen. Mit dem Einsatz aller Ingenieure maximiert man die Fähigkeiten des Chieftains, damit man alle Interceptor Varianten effizient und effektiv einsetzen kann.
 - Die Geschwindigkeit des Chieftains, mit den empfohlenen Einstellungen, ermöglicht es, eine minimale Schubgeschwindigkeit von 500 m/s zu erreichen, was mehr ist als erforderlich um jede Interceptor Variante zu bekämpfen. Basilisken benötigen aufgrund ihrer Geschwindigkeit ein zusätzliches Manöver. Siehe Basilisk Anpassungen
 
-- The purpose of using a repair limpet controller instead of a shield generator is to allow commanders to repair their ship in case of a mistake. The Thargon swarm also does more phasing damage to ships that are shielded compared to those that are unshielded providing a bit of an advantage against the swarm and for power purposes of the ship. Synthesis of limpets may be needed dependent on damage received especially with the higher variants
+- Der Zweck eines Reperaturdrohnen Steuerung anstelle eines Schildgenerators ist es, Kommandanten zu erlauben, ihr Schiff im Falle eines Fehlers zu reparieren. Der Thargon Schwarm verursacht außerdem mehr durchdringenden Schaden an Schiffen mit Schutzschild, was ungeschildeten Schiffen einen kleinen Vorteil gegenüber dem Schwarm bringt. Auch Leistungsvorteile bei der Energieverteilung bringt die Schutzschildlose Ausstattung. Die Synthese von Drohnen kann je nach erlittenem Schaden bei den höheren Interceptor Varianten erforderlich werden.
 
-- The purpose of the 3x heat sinks (Ammo capacity) will allow a generous amount of heat sinks to achieve a cold orbit around any variant with experienced commanders using (per heart) 1-2 heat sinks against a cyclops, 2-3 against a Basilisk, 3-5 against a medusa, and allowing all 9 heat sinks for a Hydra.
+- Der Zweck der 3x Kühlkörperwerfer (Munitionskapazität) ist eine großzügige Menge an Kühlleistung, für die "kalter Orbit" Flugstrategie. Erfahrene Kommandanten nutzen dann pro Herz 1-2 Kühlkörper bei der Cyclops Variante, 2-3 beim Basilisk, 3-5 bei der Medusa und bis zu alle 9 bei der Hydra.
 
-- Inexperienced commanders will be granted a big buffer in heat sinks to allow them to have plenty of heat sinks on hand if mistakes are made allowing this doctrine to be forgiving.
+- Unerfahrene Kommandanten erhalten so einen großen Puffer an Kühlkörpern, um ihnen zu ermöglichen, den Kampf nach diesem Leitfaden auch bei Fehlern zu bewältigen.
 
-- The need for heat sink synthesis will be on a case by case basis dependent on Interceptor or experience of the commander.
+- Die Notwendigkeit der Synthese von Kühlkörpern wird von Fall zu Fall abhängig vom Interceptor und oder der Erfahrung des Kommandanten sein.
 
-- The Guardian Gauss Cannons when set into their fire groups should be split into two fire groups (1 medium to 1 Small) to maximize the heat efficiency of the ship when firing in alternating fire keeping the chieftain below 20% heat with a heat sink engaged.
+- Die Guardian Gauss Kanonen sollten in Feuergruppen aufgeteilt werden (1 Medium mit 1 Kleinen), um die Wärmeeffizienz des Schiffes zu maximieren, da man beim Abwechseln des Feuers den Chieftain unter 20% Wärmeausstoß halten kann.
 
-- The long range thermal vent beam laser is utilized primarily after a heart is destroyed to put the Interceptor into a “Sleep Mode” without the use of heat sinks.
+- Der auf Reichweite und Thermische Entlastung modifizierte Strahlenlaser wird vorallem nach Zerstörung eines Herzens genutzt, um den Interceptor in einem Schlafmodus zu halten, ohne dabei Kühlkörper verbrauchen zu müssen.
 
-- Heat sinks may be needed if your heat is above 15% after a heart is destroyed. Sleep mode further explained in section VIII.
+- Kühlkörper können notwendig werden, wenn nach Zerstörung eines Herzens der eigene Wärmeausstoß noch bei über 15% ist. Der Interceptor Schlafmodus wird in Abschnitt VII näher erläutert.
 
 # Beginn und anschließender Herz-Kampf Zyklus
-- Upon engaging a Thargoid Interceptor of any variant in a non-human signal source (NHSS) the initial engagement should occur after the Interceptor has finished his scan of you. The purpose of allowing the Interceptor to finish his scan of you will allow you to get a scan of the Interceptor if you have a xeno scanner fitted.
+- Beim Treffen auf egal welche Thargoid Interceptor Variante, in einer Nichtmenschlichen Signalquelle (NHSS), sollte der Kampf erst begonnen werden nachdem der Interceptor seinen Scan abgeschlossen hat. Der Zweck davon, den Intercptor seinen Scan beenden zu lassen, ist es den Interceptor selbst scannen zu können, falls man einen Xeno-Scanner ausgerüstet hat.
 -
-- Disengage your flight assist and engage with your beam laser. [Pips at: 0-4-2]
+- Deaktiviere den Flugassistenten und greif mit dem Strahlenlaser an. [Pips auf: 0-4-2]
 -
-- Once the Interceptor is aggressed he will begin launching his swarm. Begin your boost past the Interceptor and gain the recommended distance of 4-6km. [Pips at: 0-4-2]
+- Sobald der Interceptor angressivem Zustand ist setzt er seinen Schwarm frei. Fliege mit Schub am Interceptor vorbei und erreiche eine empfohlene Distanz von 4-6km. [Pips auf: 0-4-2]
 -
-- Once at distance 180 turn while continuing your moment to engage the Thargon swarm. (If swarm management is needed see section V Swarm Management) [Pips at: 0-4-2]
+- Sobald erreicht, mache eine 180° Wende, während du dein rückwärtiges Momentum beibehältst, um den Thargon Schwarm zu bekämpfen. (Falls nähere Informationen zur Schwarm Bewältigung vonnöten sind; siehe Sektion V) [Punkteverteilung bei: 0-4-2]
 -
-- Once the swarm is destroyed you may begin your engagement of the Interceptor (preferably at 5km distance) with your thermal vent beam. This will drop your ship temperature to below 20% to allow you to begin your cold orbit around the Interceptor. [Pips at: 0-2-4]
+- Sobald der Schwarm zerstört ist, kann man mit dem modifizierten Strahlenlaser (vorzugsweise bei 5km Distanz) den Kampf einleiten. Dies wird den Wärmeausstoß des eigenen Schiffes bei unter 20% halten und einem erlauben die "kalter Umlauf" Strategie zu nutzen. [Pips auf: 0-2-4]
 -
-- Begin your cold orbit attack run by applying down vertical thrust and forward until you achieve an orbit speed of about 180 m/s and maintain an orbit distance of between 900m-1.5km. **NOTE: Applying your thermal vent beam will allow you to set your orbit while avoiding damage from the Interceptor.**
+- Man beginnt den kühlen Umlauf, indem man vertikale Schub- und Vorwärtsbewegungen nutzt, bis man eine Umlaufgeschwindigkeit von etwa 180 m/s erreicht, behalte dabei eine Umlaufdistanz von 0,9-1,5km bei. **HINWEIS: Das Einsetzen des Thermalen Entlastungs Strahlenlasers hilft bei dem Eintritt in den Umlauf, ohne Schaden durch den Interceptor zu nehmen.**
 -
-- Once your orbit envelope is established switch to your gauss cannon fire group, engage a heat sink and begin your alternating fire of your gauss cannons. (Alternating fire should be achieved by activating the charge up of your second group once your first group of cannons fires its rounds.)
+- Sobald die gewünschte Umlaufsbahn erreicht ist, kann man auf die Gauss Kannonen Feuergruppe wechseln, einen Kühlkörperwerfer aktivieren, und die Gauss Kannonen abfeuern. (Ein effizientes Abwechseln des Feuerns erreicht man, wenn man direkt nach Abfeuern der vorherigen Gauss Kannonen Feuergruppe die nächste auflädt.)
 -
-- Continue engaging heat sinks as needed once you hear “Heat Sink Deployed” from your COVAS until the heart has been exerted and destroyed.
+- Fahre mit dem aktivieren von Kühlkörpern fort, sobald der COVAS mitteilt, dass der vorherige Kühlkörper abgeworfen wurde. Tu dies bis das Herz hervorgebracht und zerstört wurde.
 -
-- Each Interceptor variant also has an approximate attack run window and will allow you to stabilize your orbit. Once outside of its attack run window the Interceptor will change direction and reset for its own attack run forcing you to have to adjust your orbit accordingly. Use of your thermal vent beam during this time may be recommended if you drift outside of your orbit envelope.
+- Jede Interceptor Variante hat auch ein ungefähres Angriffsfenster und erlaubt die Stabilisierung der Umlaufbahn. Sobald das Angriffsfenster des Interceptors ausgelaufen ist, wird er abdrehen und für seinen eigenen Angriff neu ansetzen, was den Piloten zum Anpassen der Umlaufbahn zwingt. Das Verwenden des Thermalen Entlastungs Strahlenlasers ist empfehlenswert, falls man aus der optimalen Umlaufbahn hinausdriftet.
 -
-- Cyclops ≈30 Seconds -Basilisk & Medusa ≈26 Seconds -Hydra ≈20 Seconds
+- -Cyclops ≈30 Sekunden -Basilisk & Medusa ≈26 Sekunden -Hydra ≈20 Sekunden
 -
-- Once the first heart is destroyed immediately switch back to your beam laser and begin cooling your ship while also attempting to gain a minimum distance of 3km (engaging reverse thrust) from the Interceptor. This is the time to set a pip into Systems to recharge systems capacitor from your use of heat sinks. [Pips at: 1-4-1]
+- Sobald das erste Herz zerstört wurde, wechselt man sofort zum Strahlenlaser zurück und beginnt das Schiff abzukühlen, während man versucht, einen Mindestabstand von 3 km (Umkehrschub nutzen) zum Interceptor zu erreichen. Das ist ein guter Zeitpunkt um Pips in SYS zu setzen, um den System Kondensator nach der Nutzung von Kühlkörpern wieder aufzuladen. [Pips auf: 1-4-1]
 -
-- The first heart is when the Interceptor is the most aggressive with its lightning ability with which it will aggressively chase you down. To avoid the ability, continue applying your beam laser to the Interceptor and once it reaches a distance of 1.5km apply downward thrust and forward thrust while engaging your boost while attempting to keep your beam laser on target and keep more than 800m away from the Interceptor. (For subsequent hearts the Interceptor is not as aggressive and you can maintain your distance from it by adjusting your reverse and forward thrust.)
+- Nach dem ersten Herz ist der Interceptor am agressivsten, und verfolgt den Piloten bestrebig um seine Blitz-Fähigkeit einzusetzen. Um diese Fähigkeit zu umgehen, sollte man den Strahlenlaser weiterhin einsetzen. Sobald eine Distanz von 1,5km erreicht ist, nutzt man Abwärts- und Vortwärtsschub gleichzeitig während einen Abstand von mindestens 800m ein hält. (Bei nachfolgenden Herzen ist der Interceptor nicht ganz so agressiv und man kann den Abstand durch Anpassungen am Rückwärts- und Vorwärtsschub einhalten.)
 -
-- This maneuver will allow you to do a half orbit around the Interceptor forcing it to change its momentum (and all Interceptors are slow at changing direction) and keeping you under the 15% heat threshold keeping the Interceptor in sleep mode (Section VII Thargoid Interceptor Sleep Mode)
+- Dieses Manöver erlaubt es, eine halbe Umlaufbahn um den Interceptor zu ziehen, was ihn zwingt sein Momentum zu ändern (und alle Abfangen bewegen sich langsam, wenn es darum geht, die Richtung zu ändern) und dich unter der 15% Hitzeschwelle zu halten, damit der Interceptor im Schlafmodus bleibt (Abschnitt VIII Thargoid Schlafmodus)
 -
-- Begin reverse thrust away from the Interceptor while still applying your beam laser on target. [Pips at: 0-4-2]
+- Beginne mit Rückwärtsschub weg vom Interceptor während weiterem Einsatz des Strahlenlasers auf das Ziel. [Pips auf: 0-4-2]
 -
-- Once the Interceptor begins launching its swarm you will want to maintain a distance of about 3.5km-6km until it launches its swarm fully and begin a 180 maneuver away from the Interceptor and begin boosting away. Use this time now to begin any repairs or synthesis if needed.
+- Sobald der Interceptor anfängt seinen Schwarm freizusetzen, versucht man einen Abstand von 3,5km-6km einzuhalten bis der Schwarm vollständig freigesetzt wurde. Dann macht man ein 180° Wendemanöver weg vom Interceptor und entfernt sich mit Schub. Jetzt ist die Zeit für Reparaturen und Synthesen.
 -
-- Begin the initial swarm engagement stated above.
+- Nun kann man den Schwarm wie oben beschrieben bekämpfen.
 -
-- This time the Interceptor will have a shield up (Shields goes up after the first heart is destroyed) and it will continue to decay over time.
+- Diesmal hat der Interceptor einen aktiven Schutzschild (Schutzschild fährt nach Zerstörung des Herzens hoch) der über Zeit abschwächt.
 -
-- To maximize the time you have for heart destruction you can decrease the shield uptime by applying your beam laser to the Interceptor degrading its shields faster.
+- Um den Zeitanteil, den man für die Zerstörung des Herzens hat, zu verlängern kann man den Schild mit Einsatz des eigenen Strahlenlasers zusätzlich schwächen.
 -
-- Once the shields are down begin the cold orbit cycle listed above as part of the combat loop for all the subsequent hearts. (Using Gauss cannons against the shields is a waste of ammo especially when using precious premium synthesis)
+- Sobald der Schutzschild unten ist, beginne den kalten Umlauf-Zyklus wie oben als Teil des Kampfzyklus für alle nachfolgenden Herzen. (Der Einsatz von Gauss Kanonen gegen die Schilde ist eine Verschwendung von Munition, vor allem wenn man wertvolle Premium-Munition verwendet)
 -
-- Begin your next combat loop with pips set at 0-2-4
+- Beginne die nächsten Kampfzyklus mit [Pips auf 0-2-4].
 -
-- Another similar tactic to the cold boost would be to engage silent running and perform your boost maneuver 180 degrees past the Basilisk. (The options taken will be dependent upon the commander.) The purpose of this maneuver is to allow the commander to save a heat sink and achieve the same outcome while taking advantage of the shieldless build.
+- Eine weitere ähnliche Taktik wie der Kälteschub ist es, den stillen Lauf zu aktivieren und mit Schub 180° am Basilisken vorbei zu fliegen. (Die Optionen hängen vom Kommandanten ab.) Ziel dieses Manövers ist es, dem Kommandeur zu ermöglichen, Kühlkörper zu sparen und trotzdem dasselbe zu erreichen, wenn man Schutzschildlose Austattungen fliegt.
 
 ## Basilisk Anpassungen
-The Basilisk variant has a top speed of 530m/s. The doctrine chieftain can not outrun the Basilisk if followed to the fitting. A required maneuver of a cold boost (engaging a heat sink before boosting 180 degrees past the Basilisk) will allow you to gain valuable distance from the Basilisk to allow you to synthesize more heat sinks or ammo or perform any repairs to your ship before committing to your next combat loop. The Basilisk does not do well when it has to adjust its momentum from one direction to the opposite. Do take in mind this will put you in the path of the swarm also triggering its agitated state if you fly through it.
+Die Basilisk Variante hat eine Höchstgeschwindigkeit von 530 m/s. Der Chieftain, nach Leitfaden gebaut, ist nicht so schnell wie der Basilisk. Ein nötiges Manöver namens Kälteschub (Kühlkörper aktivieren, bevor man 180° am Basilisk vorbeizieht) erlaubt einem Wertvolle Distanz zu gewinnen um benötigte Reparaturen und Synthesen vor dem nächsten Kampfzyklus durchzuführen. Der Basilisk ist langsam beim Wenden. Man muss unbedingt beachten, dass man dabei in Flugrichtung des Schwarms gerät und seinen erregten Zustand auslösen kann, wenn man hindruchfliegt.
 
 # Schwarm Bewältigung
-The purpose of engaging the swarm first on the initial engagement is to remove the “banked” swarm of the Interceptor from the equation. Whenever an Interceptor is engaged and the heart is destroyed first, the banked swarm will then launch forcing the commander to have to deal with a second swarm. Removing the banked swarm from the equation will allow the commander to efficiently use his time to focus on all subsequent hearts.
+Der Zweck, beim Start des Kampfes, den Schwarm zuerst zu bekämpfen, besteht darin, den „ausbewahrten“ Schwarm des Interceptors aus dem Kampf zu nehmen. Immer wenn ein Interceptor angegriffen wird und das Herz zuerst zerstört wird, wird der aufbewahrte Schwarm zuerst freigesetzt und man müsste insgesammt mit zwei Schwärmen kämpfen. Den aufbewahrten Schwarm aus dem Kampf zu nehmen erlaubt sich in der gegebenen Zeit effektiver auf die folgenden Herzen zu fokussieren.
 
 # Zweck des kalten Orbits
-- The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
+- Mit dem kühlen Umfliegen kann man den Schaden des Interceptors umgehen, indem man Geschwindigkeit, Distanz und einen Wärmeausstoß von unter 20% beibehält während man sich in 15° Winkel zu den Hauptgeschützen des Interceptors hält. Diese Taktik wird von vielen erfahrenen AX Kommandanten verwendet, um jegliche Art von Schaden an ihrem Schiff zu verhindern, was es ihnen erlaubt den Kampfzyklus fortzusetzen ohne, dass Module repariert werden müssen, was wertvolle Zeit in spart, vor allem bei fortgeschritteneren Interceptor Varianten.
 -
-- Cold orbiting is also the basis for more advanced Interceptor combat when wanting to use smaller ships and also for more advanced Thargon swarm management for small ships when flak launchers cannot be fitted. (beyond the scope of this guide)
+- Das kühle Umfliegen ist dazu auch die Grundlegende Flugtaktik für fortgeschrittene Interceptor Bekämpfung, wenn man kleinere Schiffe nutzen will. Vorallem für den Umgang mit dem Thargon Schwarm auf kleinen Schiffen, welche keine Flak ausrüsten können. (Übersteigt diesen Leitfaden)
 -
-- The amount of heat sinks within this doctrine will allow the destruction of any heart on any variants as long as the commander maintains a 900m-1.5km orbit maximising the damage output of the Gauss cannon.
+- Die Menge an Kühlkörpern, die hier empfohlen wird, sollte die Zerstörung jedes Herzens auf allen Varianten ermöglichen, solange der Kommandant eine 0,9-1,5km Umlaufbahn einhält und damit die Schadensleistung der Gauss Kanonen komplett ausreizt.
 
-Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
+Abdriften aus optimaler Umlaufbahn führt zum Verbrauch von mehr Munition, wegen höherem Leistungsverlust bei größerem Abstand. Außerdem muss man mehr Kühlkörper nutzen. Außerhalb der effektiven Reichweite zu feuern ist nicht empfehlenswert.
 
-# Thargoid Schlafmodus
-- The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
+# Thargoid Schlafphase
+- Mit dem kalten Orbit hat man das Potenzial jeglichen Schaden vom Interceptor zu vermeiden, wenn man die richtige Geschwindigkeit, Entfernung und den 15° Winkel von den Geschützen des Interceptors beibehält, sofern man unter 20% Hitze bleibt. Diese Strategie wird von vielen Profi AX-Piloten benutzt, damit sie keinen Schaden am Schiff nehmen müssen, was ihnen ermöglicht ihren Angriff fortzusetzen, weil sie ihre Module nicht reparieren müssen, was, besonders bei späteren Interceptorn, Zeit beansprucht.
 -
-- Cold orbiting is also the basis for more advanced Interceptor combat when wanting to use smaller ships and also for more advanced Thargon swarm management for small ships when flak launchers cannot be fitted. (beyond the scope of this guide)
+- Der kalte Orbit ist das Fundament im Kampf gegen spätere Interceptor, wenn man kleinere Schiffe spielen will und auch für einen schwierigeren Umgang mit dem Thargon-Schwarm, wenn man bei kleinen Schiffen keine Flak instalieren kann. (das ist hier nicht behandelt)
 -
-- The amount of heat sinks within this doctrine will allow the destruction of any heart on any variants as long as the commander maintains a 900m-1.5km orbit maximising the damage output of the Gauss cannon.
+- Die Menge an Kühlkörpern, die hier empfohlen wird, sollte die Zerstörung jedes Herzens bei allen Varianten ermöglichen, solange der Kommandant eine 0,9 -1,5km Umlaufbahn einhält und damit die Schadensleistung der Gauss Kanonen komplett ausreizt.
 -
-- Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
+- Abdriften aus der optimalen Umlaufbahn ist ineffizient und verbraucht mehr Munition, wegen höherem Schadesverlust bei größerem Abstand. Außerdem muss man mehr Kühlkörper nutzen. Außerhalb der effektiven Reichweite zu feuern wird nicht empfohlen.
 
 `CREDITS
-Thank you to the Anti-Xeno Initiative discord for assistance in refining this doctrine and to the following AXI Commanders for their contribution:
+Vielen Dank an den Anti-Xeno-Initiative Discord für die Unterstützung bei der Verfeinerung dieses Leitfadens und an die folgenden AXI-Kommandanten für ihren Beitrag:
 CMDR Mgram,
 CMDR BADRACINGDRIVER,
 CMDR Mackenheimer,

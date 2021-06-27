@@ -1,6 +1,6 @@
 ---
-title: Speedrunning Guide
-description: Can kill goids? Yes? But can you kill them quick?
+title: Guide du Speedrun
+description: Vous pouvez tuer des thargoids ? Oui ? Mais pouvez-vous les tuer rapidement ?
 published: true
 date: 2021-06-10T23:22:48.988Z
 tags:
@@ -10,13 +10,13 @@ dateCreated: 2021-06-10T13:56:57.206Z
 
 # Introduction
 
-First things first: Speedrunning is not for newcomer pilots to Anti-Xeno combat.
+Tout d'abord, le speedrun n'est pas fait pour les débutants en combat Anti-Xeno.
 
-We generally recommend CMDRs attain at least the Serpent's Nememis rank (Medusa solo) before they focus on learning the advanced techniques involved in speedrunning.
+Nous recommandons généralement que les commandants atteignent au moins le rang Serpent's Nememis (N.d.T.: il s'agit d'un rang sur le serveur discord de l'AXI qui est attribué aux pilotes ayant battu un Medusa en solo) avant de s'intéresser à l'apprentissage des techniques avancées utilisées en speedrun.
 
-# Speedrunning Ranks
+# Rangs en speedrun
 
-There are two ranks associated with speed kills: Myrmidon and Caduceus' Glint
+Il y a deux rangs associés au speedrun (N.d.T: encore une fois sur le serveur discord de l'AXI) : Myrmidon et Caduceus' Glint
 
 ## Myrmidon - "Silver" color
 

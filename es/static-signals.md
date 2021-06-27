@@ -8,19 +8,19 @@ editor: markdown
 dateCreated: 2021-06-15T11:22:37.088Z
 ---
 
-# Static Thargoid Signal Sources
-Across human space there are a handful of permanent Distress Calls and Megaships that can spawn Interceptors. These will typically have 1-2 Interceptors spawn upon arrival. Megaships also will sometimes have scouts instead.
+# Señales Fijas de Thargoides
+A través del espacio humano, hay permanentemente un puñado de Señales de Auxilio y Meganaves que pueden generar Interceptores. Estas típicamente generaran 1-2 interceptores al llegar. Las Meganaves también a veces tendrán exploradores en su lugar.
 
-Relogging (exit to menu and log in) will cause these locations to refresh with potentially different Thargoids.
+Relogging (salir al menú y volver a iniciar sesión) causará que estas ubicaciones se actualicen con Thargoides potencialmente diferentes.
 
-A few notable locations:
+Algunos lugares notables:
 
-- **HR 1185** - Permanent Distress Call (Very useful to find multi-goid fights or solo Hydras outside of the Witch Head Nebula) - Read about the HR 1185 Distress Call Spawns here.
-- **Deciat** - A few damaged Megaships (Scenarios around these can spawn Interceptors)
-- **Gree** - This systems contains 2 megaships that can be used to summon Thargoids. Currently this is the only system officially approved by AXI for hosting megaship events.
+- **HR 1185** - Llamada de auxilio Permanente (muy útil para encontrar luchas contra Thargoides múltiples o Hydras solitarias por fuera de la Nebula Witch head) - Lee acerca del "spawneo" en la Llamada de Auxilio de HR 1185 aquí.
+- **Deciat** - Unas cuantas Meganaves dañadas (Escenarios al rededor de estas pueden general Interceptores)
+- **Gree** - Este sistema tiene 2 Meganaves que pueden ser usadas para invocar Thargoides. Actualmente este es el único sistema oficialmente aprobado por AXI para la albergar de eventos de Meganave.
 
-For an extended list, check out the [Thargoid Attacks Spreadsheet](https://docs.google.com/spreadsheets/d/1hnJTNAwAu0fY9Asu8SgXsfpjyTFxRhW_4oPCJS5Ydv4/edit#gid=0)
+Para un listado extendido, revisa la [Hoja de Cálculo de Ataques Thargoides](https://docs.google.com/spreadsheets/d/1hnJTNAwAu0fY9Asu8SgXsfpjyTFxRhW_4oPCJS5Ydv4/edit#gid=0)
 
-List and Project Lead: CMDR Melting Cube.
+Lista y Líder del Proyecto: CMDT Melting Cube.
 
-Contributors: CMDR Aranionros Stormrage and CMDR Darth Vader
+Colaboradores: CMDT Aranionros Stormrage y CMDT Darth Vader

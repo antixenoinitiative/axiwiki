@@ -1,23 +1,23 @@
 ---
-title: Thargon Swarms
-description: This document explains in detail the mechanics and behavior of Thargon Swarms deployed by Thargoid Interceptors.
-published: true
+title: Enjambres de Thargoid
+description: Este documento explica en detalle las mecánicas y el comportamiento de los Enjambres desplegados por los Interceptores Thargoids.
+published: verdadero
 date: 2021-06-15T12:00:46.639Z
-tags: thargoids, interceptors, swarms
+tags: thargoides, interceptores, enjambres
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
 ---
 
-# Thargon Swarms
+# Enjambres Thargoids
 
-Each Interceptor can deploy and control a Thargon swarm, consisting of 32, 64, 96 and 128 Thargons for Cyclops, Basilisk, Medusa and Hydra variants respectively.
+Cada Interceptor puede desplegar y controlar un enjambre de Thargons, que consta de 32, 64, 96 y 128 Thargons para las variantes Cíclope, Basilisco, Medusa e Hydra respectivamente.
 
-During planetary engagements, the Interceptor will not deploy swarms.
+Durante los combates planetarios, el Interceptor no desplegará enjambres.
 
-**The Thargon swarm has two methods of inflicting damage:**
+**El enjambre de Thargon tiene dos métodos para infligir daño:**
 
-- **Caustic projectiles** that do heavy damage to shields and penetrate them, dealing hull damage. Against shieldless targets, these projectiles are very inaccurate and the swarm will miss most of its shots. Heat signature does not visibly affect their accuracy, but rapidly changing your vector or rolling will protect you somewhat. This attack has a maximum range of around 2km. Despite the name, these do not apply caustic stacks but rather deal caustic damage, which is effected by modules such as the Guardian Hull Reinforcement Package.
-- **Kamikaze missiles** that kill the Thargon, but inflict massive hull and module damage. The missiles are fast (roughly 600m/s) but short-lived. Against an unshielded target, these will do tremendous damage, but a shielded build with 4 pips to SYS should survive a regular missile volley with relative ease. Without shields these can potentially 1-shot modules even through a Guardian Module Reinforcement Package. These missiles appear to do collision damage, as they do not interrupt synthesis or reboots. This attack triggers within 3km range, and only if the swarm is in missile formation.
+- **Proyectiles cáusticos** que hacen un gran daño a los escudos y los penetran, infligiendo daño al casco. Contra objetivos sin escudo, estos proyectiles son muy inexactos y el enjambre fallará la mayoría de sus disparos. La firma de calor no afecta visiblemente a su precisión, pero cambiar rápidamente su vector o rodar lo protegerá un poco. Este ataque tiene un alcance máximo de alrededor de 2 km. A pesar del nombre, estos no acumulan daños cáusticos, sino que infligen daño cáustico, que se efectúa por módulos como el Paquete de Refuerzo del Casco Guardián.
+- **Misiles Kamikaze** que matan al Thargon, pero infligen daños masivos en el casco y el módulo. Los misiles son rápidos (aproximadamente 600 m/s) pero de corta duración. Contra un objetivo sin Escudos, estos harán un daño tremendo, pero una construcción con Escudos y con 4 pips a SYS debería sobrevivir a una volea de misil regular con relativa facilidad. Sin escudos, estos pueden potencialmente destruir módulos de 1 disparo incluso a través de un paquete de refuerzo de módulo guardián. Estos misiles parecen causar daños por colisión, ya que no interrumpen la síntesis ni reinicios. Este ataque se dispara dentro de los 3 km de alcance, y solo si el enjambre está en formación de misiles.
 
 If a non-aggressive Interceptor’s personal space is invaded (500m), it will deploy a warning swarm as well as glow red and ‘threaten’ the pilot who got too close. This swarm will not immediately attack, but instead will circle around the Interceptor, ready to engage at a moment’s notice. If the threat backs away, the Interceptor will recall the swarm and continue its previous actions. If it does not, the swarm will detach and the battle begins.
 

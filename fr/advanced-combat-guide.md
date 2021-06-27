@@ -1,14 +1,14 @@
 ---
-title: Guide de combat avancé
-description: Based on the Odysseus Doctrine by CMDR Avasa Siuu
+title: Guide de Combat Avancé
+description: Basé sur la doctrine Odysseus par CMDR Avasa Siuu
 published: true
 date: 2021-06-17T04:01:30.341Z
-tags: outfitting, combat, thargoids, interceptors
+tags: équipement, combat, thargoids, intercepteurs
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
-# Guide de combat thargoïd avancé
+# Guide de Combat Thargoid Avancé
 Le but de cette doctrine est d'introduire des nouveaux commandants ou des vétérans à un style de combat spécifique et aux configurations de vaisseau qui fonctionnent contre les quatre variantes d'intercepteurs thargoïd. Le coût d'entrée de cette doctrine est conçu pour être le plus petit possible pour permettre à tout les commandants de se lancer dans le combat contre n'importe laquelle des variantes d'intercepteur thargoid. Les tactiques et les manœuvres impliquées servent pour les quatre variantes d'intercepteur, avec une seule manœuvre supplémentaire nécessaire pour les Basilisks en raison de leur vitesse.
 
 Pour que cette doctrine soit efficace, un commandant doit avoir une compréhension de base du pilotage sans assistance de vol. Cette doctrine n'est pas conçue pour les combats avec assistance de vol, car cela interférerait avec de nombreuses manœuvres abordées dans cette doctrine.

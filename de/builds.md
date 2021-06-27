@@ -1,6 +1,6 @@
 ---
-title: Recommended Builds
-description: Anti-Xeno Ship Builds
+title: Empfohlene Builds
+description: Anti-Xeno Schiffsbauten
 published: true
 date: 2021-06-23T10:01:06.084Z
 tags: builds
@@ -9,26 +9,26 @@ dateCreated: 2021-06-08T12:52:54.657Z
 ---
 
 
-# Recommended Builds
-Thargoid Hunting requires specialised ship builds as Thargoids have special resistances and deal special damage types that will typically cause issues on any standard combat build. As such, we have put together the following guide to help you make the correct decisions to lead you towards building the most effective vessel for hunting down alien ships. These ship builds are designed to give you a balance of firepower and survivability, while also being forgiving enough to make a few mistakes.
+# Empfohlene Builds
+Die Thargoid-Jagt erfordert spezialisierte Schiffsbauten, da Thargoids spezielle Resistenzen haben und besondere Typen an Schaden machen, die normalerweise ein Problem für normale Kampf Builds darstellen. Deshalb haben wir folgenden Leitfaden erstellt, um dir dabei zu helfen die richtigen Entscheidungen zu treffen, beim Bau eines möglichst effektiven Schiffes für die Thargoid jagt. Diese Builds sind so designt, dass sie ein Gleichgewicht zwischen Feuerkraft und Überlebensfähigkeit, währeddessen man sogar noch Platz für Fehler hat.
 
-> Please see our [Ship Build Theory](/en/shipbuildtheory) page for a more in-depth explanation behind the outfitting decisions. 
+> Bitte lies unsere [ Schiffs Build Theorie](/en/shipbuildtheory) Seite, für eine ausführliche Erklärung hinter den Entscheidungen. 
 > 
 > {.is-info}
 
-## Ship Build Types
+## Schiffbautypen
 
-Firstly, note there are two main types of Thargoid: **Thargoid Scouts** and **Thargoid Interceptors**. Since these enemies have very different mechanics and abilities, we will typically need a different type of build for each one.
+Wichtig zu wissen ist, dass es zwei verschiedene Typen von Thargoid gibt: **Thargoid Scouts** und **Thargoid Interceptor**. Da sie sehr unterschiedliche Gimmicks und Mechaniken haben, braucht man unterschidliche Builds für die Beiden.
 
 # Interceptor Builds
 
-Thargoid Interceptors are very tough and powerful enemies that will require equally strong ships to be able to stand a chance in combat. Due to the incredibly high damage output of Thargoid Interceptors, there are only a handful of different styles and methods you can use effectively.
+Thargoid Interceptor sind sehr zähe und starke Gegner, gegen die man ebenso starke Schiffe braucht um eine Überlebenschance zu haben. Wegen des extrem hohen Schadens, den die Thargoid Interceptor verursachen, muss man sich auf eine handvoll Methoden und Stile beschränken.
 
-These are the most common types of builds used for Anti-Xeno Combat.
+Dies sind die häufigsten Arten von Builds für die AX-Jagt.
 
--   **Fast Shielded Builds** (Bi-Weave Hybrids) - Ships with good speed and small shields that regenerate quickly (Beginner)
+-   **schnelle, geschützte Builds** (Bi-Weave Hybride) - Schiffe mit hoher Schnelligkeit und kleine Schiffe, die schnell regenerieren (Anfänger)
 
--   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage (Moderate)
+-   **schnelle, ungeschützte Builds** (Schiffe zum kalten umkreisen) - Schnelle Schiffe, die keinen Schild haben und im kalten Orbit sind, um Schaden auszuweichen. (Mittelmäßig)
 
 -   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically (Moderate/Advanced)
 
@@ -118,7 +118,11 @@ The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-d
 
 Type: **Cold**
 
-Speed: ⭐⭐⭐⭐⭐ Agility: ⭐⭐⭐⭐⭐ Shield: Armour: ⭐⭐⭐⭐ Firepower: ⭐⭐⭐
+- Speed: ⭐⭐⭐⭐⭐
+- Agility: ⭐⭐⭐⭐⭐
+- Shield:
+- Armour: ⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐
 
 Recommendation: Unarguably the best ship and build style for AX combat.
 
@@ -135,10 +139,13 @@ A shieldless version of the beginner Krait MK.II. The shieldless Krait, while no
 
 Type: **Cold Orbiter**
 
-Speed: ⭐⭐⭐⭐⭐ Agility: ⭐⭐⭐ Shield:     
-Armour: ⭐⭐⭐⭐ Firepower: ⭐⭐⭐⭐⭐
+- Speed: ⭐⭐⭐⭐⭐
+- Agility: ⭐⭐⭐
+- Shield:
+- Armour: ⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐⭐
 
-Recommendation: A great upgrade from the shielded build
+Recommendation: A great upgrade from the shielded build.
 
 [Coriolis Shieldless Build](https://s.orbis.zone/eu9v)
 
@@ -152,7 +159,7 @@ A collection of more advanced builds can be found on the Advanced Builds page.
 View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
 
 # Scout Builds
-Hunting scouts is a very efficient method to increase combat rank. This is because all scouts are considered elite targets and will give the best possible experience per kill. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
+Hunting scouts is a very efficient method to increase combat rank. This is because all scouts are considered dangerous or deadly targets and will give a lot of experience per kill. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
 
 These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. Keep in mind that there is a limit of 4 AX Weapons per vessel.
 

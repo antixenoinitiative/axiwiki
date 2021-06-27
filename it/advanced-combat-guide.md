@@ -1,5 +1,5 @@
 ---
-title: Advanced Combat Guide
+title: Guida al Combattimento Avanzato
 description: Based on the Odysseus Doctrine by CMDR Avasa Siuu
 published: true
 date: 2021-06-17T04:01:30.341Z
@@ -18,7 +18,7 @@ Questo metodo è basato su un loop continuo - essenzialmente si sta ripetendo la
 Questo metodo, inoltre, permette di concentrarsi sul pip management, visto che le navi saranno tutte senza scudi, permettendo una maggiore liberta' in termini di power management.
 
 # Come equipaggiare la nave
-Questo metodo usa la Chieftain come la propria nave principale. Si puo' usare anche la Challenger come sostituta, con leggere modifiche. (guida per come costruire una Challenger WIP) Navi come la Krait mk2, Krait phantom o FAS possono anche essere usate, ma per via del costo iniziale basso, la manovrabilita' e l'armamento della Chieftain, quest'ultima sara' quella su cui ci baseremo per questo metodo.
+Questo metodo usa la Chieftain come nave di riferimento. Si puo' usare anche la Challenger come sostituta, con leggere modifiche. (guida per come costruire una Challenger WIP) Navi come la Krait mk2, Krait phantom o FAS possono anche essere usate, ma per via del costo iniziale basso, la manovrabilita' e l'armamento della Chieftain, quest'ultima sara' quella su cui ci baseremo per questo metodo.
 
 ## Core Internals
 - Military Grade Composite (Heavy Duty/Deep Plate)
@@ -47,9 +47,9 @@ Questo metodo usa la Chieftain come la propria nave principale. Si puo' usare an
 
 ## Utility
 - 3x OI Heat Sink Launchers(Ammo Capacity)
-- Xeno Scanner/Heat Sink Launcher (Dependent on commander if they wish to see the Thargoid's hull and swarm numbers.)
+- Xeno Scanner/Heat Sink Launcer ( in base alle preferenze del pilota, se preferisce avere le informazioni sulla hull del Thargoid e sul numero dei componenti dello swarm)
 
-Se non preferite usare uno Xeno Scanner, in particolar modo per le varianti inferiori, avere un quarto heatsink assicurera' che nella maggior parte dei casi non avrete bisogno di sintetizzarli.
+Se preferite non usare uno Xeno Scanner, in particolar modo per le varianti inferiori, avere un quarto heatsink assicurera', nella maggior parte dei casi di non avere bisogno di sintetizzarli.
 
 # Ingenierizzazione
 Lo scopo degli ingegneri elencati e' quello di ridurne al minimo il numero necessario per i nuovi piloti; mentre allo stesso tempo permettere piloti con piu' esperienza di utilizzarli per massimizzare la loro nave. Gli ingegneri necessari per le modifiche sono i seguenti:
@@ -73,26 +73,26 @@ VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lv
 - Con la configurazione e gli ingegneri elencati, questa e' la base necessaria per essere in grado di usare la nave al massimo delle sue capacita'. Se utilizzerete tutti gli ingegneri utilizzerete al massimo le capacita' della Chieftain, che vi permettera' di combattere tutte le varianti in maniera efficiente.
 - La velocita' della chieftain, se ingegnerizzata come consigliato sopra, superera' i 500 m/s, che sara' piu' del necessario a combattere qualsiasi variante. I Basilisk richiederanno una manovra in piu', per via della loro velocita' (vedi Misure necessarie per Basilisk).
 
-- Lo scopo di utilizzare un repair limpet controller invece che uno scudo e' quello di permettere la riparazione della nave in caso di errori. Inoltre lo swarm fa' piu' (phasing damage) alle navi che hanno uno scudo rispetto a quelle senza, fornendo un vantaggio contro lo swarm. Inoltre, fornisce liberta' nel power management. Potrebbe essere necessario sintetizzare dei limpets in base al danno ricevuto, specialmente contro le varianti piu' difficili.
+- Lo scopo di utilizzare un repair limpet controller invece che uno scudo e' quello di permettere la riparazione della nave in caso di errori. Inoltre lo swarm causa maggior danno (phasing damage) alle navi che hanno uno scudo rispetto a quelle senza, e questo è un buon vantaggio per la gestione dello swarm. Inoltre facilita il power management, semplificando la gestione dei pips. Potrebbe essere necessario sintetizzare dei limpets in base al danno ricevuto, specialmente contro le varianti piu' difficili.
 
-- L'utilizzo di 3 heatsinks (con Ammo capacity) permette di orbitare qualsiasi variante per un periodo prolungato. Un comandante esperto, in media, utilizza (per cuore) 1-2 heatsink per Cyclops, 2-3 per Basilisk, 3-5 per Medusa, e addirittura tutti e 12 per Hydra.
+- Equipaggiare 3 heatsinks (con Ammo capacity) permette di orbitare qualsiasi variante per un periodo prolungato. Un comandante esperto, in media, utilizza (per cuore) 1-2 heatsink per Cyclops, 2-3 per Basilisk, 3-5 per Medusa, e addirittura tutti e 12 per Hydra.
 
 - L'alto numero di heatsink fornisce un buon margine di errore per i piloti meno esperti.
 
-- Il numero di sintesi necessarie per gli heatsink varia a seconda dell'esperienza del pilota e della variante interessata.
+- Il numero di sintesi per gli heat sink necessarie, per un combattimento, varia a seconda dell'esperienza del pilota e della variante affrontata.
 
 - I Gauss Cannon dovrebbero essere divisi su due tasti all'interno dello stesso gruppo, alternando 1m1s per tasto. Questo riduce sensibilmente il calore prodotto e ci permette di non andare mai oltre il 20% di temperatura. (link to Fire Modes page)
 
-- Lo scopo del beam laser modificato con Long Range/Thermal Vent e' quello di tenere la nave sotto la soglia del 20% di temperatura dopo la distruzione di un cuore in modo da mantenere il Thargoid in una "sleep mode", stato nel quale non si attivano gli attacchi speciali (EMP/caustic missiles).
+- Lo scopo del beam laser modificato con Long Range/Thermal Vent e' quello di tenere la nave sotto la soglia del 20% di temperatura dopo la distruzione di un cuore, in modo da mantenere il Thargoid in una "sleep mode", stato nel quale non si attivano gli attacchi speciali (Emp/caustic missiles).
 
-- Potreste avere bisogno di usare un heatsink nel caso in cui la vostra temperatura fosse superiore al 15% in seguito alla distruzione di un cuore. La "Sleep Mode" e' spiegata piu' in dettaglio nella sezione VIII.
+- Potreste avere bisogno di usare un ulteriore heatsink nel caso in cui la vostra temperatura fosse superiore al 15% in seguito alla distruzione di un cuore. La "Sleep Mode" e' spiegata piu' in dettaglio nella sezione VIII.
 
 # Approccio iniziale/primo cuore e ciclo successivo di combattimento
-- Una volta effettuato il drop nella NHSS, l'interceptor effettuera' una scansione.  Potete sfruttare questo tempo per effettuare una scansione a vostra volta, nel caso aveste uno Xeno Scanner.
+- Una volta effettuato il drop nella NHSS, l'interceptor effettuera' una scansione della vostra nave. Potete sfruttare questo tempo per effettuare una scansione a vostra volta, nel caso aveste uno Xeno Scanner.
 -
 - Disabilita il Flight Assist, e usa il tuo laser per attaccare l'interceptor. [Pips a: 0-4-2]
 -
-- Una volta che l'Interceptor e' aggredito, liberera' lo swarm. Guadagnate velocita' con un boost per allontanarvi dall'interceptor fino ad una distanza di 4-6km. [Pips a: 0-4-2]
+- Una volta che l'Interceptor e' aggredito, rilascerà ' lo swarm. Guadagnate velocita' con un boost per allontanarvi dall'interceptor fino ad una distanza di 4-6km. [Pips a: 0-4-2]
 -
 - Raggiunta la distanza consigliata (4-6km), ruotate la nave di 180 gradi, per poter ingaggiare lo swarm. (questa manovra e' anche chiamata "Reverski") (per swarm management vedi sezione V) [Pips a: 0-4-2]
 -
@@ -100,33 +100,33 @@ VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lv
 -
 - Per cominciare l'orbita di attacco, applicate spinta verticale verso il basso e in avanti fino a raggiungere una velocita' di circa 180 m/s, mantenendo una distanza compresa tra 900 a 1500 metri. **NOTA BENE: usare il vostro beam laser per rimanere sotto il 20% di temperatura vi permettera' di entrare in un'orbita stabile e allo stesso tempo evitare danno dall'interceptor.**
 -
-- Once your orbit envelope is established switch to your gauss cannon fire group, engage a heat sink and begin your alternating fire of your gauss cannons. (Alternating fire should be achieved by activating the charge up of your second group once your first group of cannons fires its rounds.)
+- Stabilità un orbita stabile passate ai gauss cannon, lanciate un heat sink e cominciate l’attacco alternando il fuoco dei gauss, separati in due gruppi. (Per alternare correttamente i colpi cominciate a caricare il secondo gruppo non appena il primo ha sparato i suoi colpi)
 -
-- Continue engaging heat sinks as needed once you hear “Heat Sink Deployed” from your COVAS until the heart has been exerted and destroyed.
+- Utilizzate un nuovo heat sinks cercando di anticipare la voce del vostro COVAS: “Heat sink Deployed”, fino a quando non avrete esposto e quindi distrutto il cuore.
 -
-- Each Interceptor variant also has an approximate attack run window and will allow you to stabilize your orbit. Once outside of its attack run window the Interceptor will change direction and reset for its own attack run forcing you to have to adjust your orbit accordingly. Use of your thermal vent beam during this time may be recommended if you drift outside of your orbit envelope.
+- Ogni variante di Interceptor ha una durata specifica della sua fase di attacco. Conoscerla vi permetterà di gestire correttamente la vostra orbita. Terminata la sua fase di attacco, l’ Interceptor modificherà la sua traiettoria per riorganizzare un nuovo attacco. Questo vi costringerà a manovrare per sincronizzazione nuovamente la vostra orbita. In questa fase il laser termal vent è raccomandato per ricostruire una nuova orbita senza essere rilevati dall’ Interceptor.
 -
-- Cyclops ≈30 Seconds -Basilisk & Medusa ≈26 Seconds -Hydra ≈20 Seconds
+- Durata della fase di attacco: Cyclops ≈30 Seconds -Basilisk & Medusa ≈26 Seconds -Hydra ≈20 Seconds
 -
-- Once the first heart is destroyed immediately switch back to your beam laser and begin cooling your ship while also attempting to gain a minimum distance of 3km (engaging reverse thrust) from the Interceptor. This is the time to set a pip into Systems to recharge systems capacitor from your use of heat sinks. [Pips at: 1-4-1]
+- Non appena distrutto il cuore tornare al beam laser per raffreddare la vostra nave mentre cercate di guadagnare la distanza minima di 3 km dall’ Interceptor. Approfittate di questo momento per mettere un pip sui Sitemi della nave per ricaricare il capacitor per l’utilizzo degli heat sink. [Pips a: 1-4-1]
 -
-- The first heart is when the Interceptor is the most aggressive with its lightning ability with which it will aggressively chase you down. To avoid the ability, continue applying your beam laser to the Interceptor and once it reaches a distance of 1.5km apply downward thrust and forward thrust while engaging your boost while attempting to keep your beam laser on target and keep more than 800m away from the Interceptor. (For subsequent hearts the Interceptor is not as aggressive and you can maintain your distance from it by adjusting your reverse and forward thrust.)
+- Dopo la distruzione del primo cuore l’interceptor diventa aggressivo e vi inseguirà per cercare di portarsi alla giusta distanza per attivare l’attacco speciale (lightning ability). Per evitarlo continuate a colpire con il beam e raggiunta la distanza di 1.5 km “boostate” applicando contemporaneamente una spinta verso il basso e in avanti, sempre facendo fuoco con il beam, cercando di mantenervi a più di 800 m di distanza dal l’interceptor. (Per i cuori successivi l’interceptor non è così aggressivo e si può mantenere la distanza da esso semplicemente gestendo la direzione della spinta indietro e in avanti.)
 -
-- This maneuver will allow you to do a half orbit around the Interceptor forcing it to change its momentum (and all Interceptors are slow at changing direction) and keeping you under the 15% heat threshold keeping the Interceptor in sleep mode (Section VII Thargoid Interceptor Sleep Mode)
+- Questa manovra vi permetterà di fare una semi-orbita intorno al l’interceptor costringendolo a modificare il suo momento (tutti gli Interceptor sono lenti a cambiare direzione) restando al contempo sotto la soglia di calore del 15% mantenendo l'Intercettatore in modalità sonno (sezione VII Modalità Sonno Thargoid Interceptor)
 -
-- Begin reverse thrust away from the Interceptor while still applying your beam laser on target. [Pips at: 0-4-2]
+- Iniziate ad applicare la spinta indietro per allontanarci dall'Interceptor sempre facendo fuoco con il beam laser. [Pips a: 0-4-2]
 -
-- Once the Interceptor begins launching its swarm you will want to maintain a distance of about 3.5km-6km until it launches its swarm fully and begin a 180 maneuver away from the Interceptor and begin boosting away. Use this time now to begin any repairs or synthesis if needed.
+- Una volta che l’interceptor inizia a lanciare il nuovo sciame si desidera raggiungere una distanza compresa tra 3 e 6 km per poter poi iniziare correttamente una manovra a 180 gradi. Usate questa fase per eventuali riparazioni allo scafo o ai moduli e per sintetizzare munizioni.
 -
-- Begin the initial swarm engagement stated above.
+- Iniziate quindi l'attacco allo sciame come descritto sopra.
 -
-- This time the Interceptor will have a shield up (Shields goes up after the first heart is destroyed) and it will continue to decay over time.
+- Ora l’interceptor ha attivato i suoi scudi ( lo scudo si attiva dopo che un cuore viene distrutto) ma decade da solo con il tempo.
 -
-- To maximize the time you have for heart destruction you can decrease the shield uptime by applying your beam laser to the Interceptor degrading its shields faster.
+- Per massimizzare il tempo che avrete a disposizione per la distruzione del cuore potete velocizzare il naturale decadimento degli scudi colpendoli con il beam laser.
 -
-- Once the shields are down begin the cold orbit cycle listed above as part of the combat loop for all the subsequent hearts. (Using Gauss cannons against the shields is a waste of ammo especially when using precious premium synthesis)
+- Una volta che gli scudi sono caduti potete iniziare a manovrare per stabilire una nuova orbita, come spiegato sopra nel ciclo di combattimento per tutti i cuori successivi. (Usare i cannoni Gauss contro gli scudi è uno spreco di munizioni, soprattutto quando si utilizzano i “preziosi”proiettili premium)
 -
-- Begin your next combat loop with pips set at 0-2-4
+- Iniziate il vostro prossimo “ciclo”di combattimento con i pips impostati a 0-2-4
 -
 - Another similar tactic to the cold boost would be to engage silent running and perform your boost maneuver 180 degrees past the Basilisk. (The options taken will be dependent upon the commander.) The purpose of this maneuver is to allow the commander to save a heat sink and achieve the same outcome while taking advantage of the shieldless build.
 

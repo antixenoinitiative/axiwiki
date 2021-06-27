@@ -1,6 +1,6 @@
 ---
-title: Incursions
-description: About Thargoid Incursions and Infestations
+title: Systemstatus - Eindringen & Seuche
+description: Zu Thargoid-Eindringen und Seuchen
 published: true
 date: 2021-06-17T01:25:35.134Z
 tags: thargoids, incursions, infestations
@@ -8,29 +8,29 @@ editor: markdown
 dateCreated: 2021-06-17T01:24:54.361Z
 ---
 
-# Thargoid Infestations
-During times of active Thargoid behaviour, on a weekly basis a number of systems will become “Infested” each week and enter the **Infestation** state. This is first noted by the presence of [Non-Human Signal Sources](/en/nhss) containing various Scout and Interceptor variants. An Infestation indicates an incoming invasion in the same system, unless a large quantity of Thargoid vessels are destroyed in the system.
+# Thargoid-Eindringen
+In Zeiten von Thargoid-Aktivität werden wöchtenlich in einige Systeme eingedrungen und haben damit den **Eindringen** Status. Dies wird zunächst durch das Vorhandensein von [Nichtmenschlichen Signalquellen (NHSS)](/en/nhss) festgestellt, die verschiedene Scouts und Interceptors enthalten. Ein Eindringen zeigt eine baldige Seuche im gleichen System, es sei denn, eine große Anzahl von Thargoid-Schiffen wird in diesem System zerstört.
 
-If an Insufficient number of vessels are destroyed, the system will enter a Incursion state (after the next weekly tick)
+Wenn eine unzureichende Anzahl an Schiffen zerstört wird, tritt das System in den Seuchen-Status (nach dem nächsten wöchentlichen Tick)
 
-The Eagle Eye system will identify a new wave of infested systems each week.
+Das Eagle-Eye-System wird jede Woche eine neue Welle von befallenen Systemen identifizieren.
 
-# Thargoid Incursions
-Should a system enter the Incursion state it will become under full Thargoid Assault. Once underway the system’s allegiance will change to “Thargoid” and multiple cumulative negative effects can be observed as the incursion persists.
+# Thargoid-Seuchen
+Sollte ein System in den Seuchen-Status eintreten, wird es unter vollen Thargoid-Angriff geraten. Sobald auf dem Weg ist, wird sich die Loyalität des Systems zu „Thargoid“ ändern, und es können mehrere kumulative negative Effekte beobachtet werden, wenn die Seuche andauert.
 
-- One Undamaged starport will become **Damaged** in the system per week, until the Incursion is cleared.
-- **All Bulk Cruiser Megaships** will become damaged at the start of the incursion.
-- Stronger Thargoid Variants will appear.
-- Anti-Xeno Conflict Zones will appear in the system. (Read more in: Anti-Xeno Conflict Zones)
+- Ein unbeschädigter Sternenhafen wird im System pro Woche **beschädigt**, bis die Seuche ausgelöscht ist.
+- **Alle Last-Megaschiffe** werden am Beginn der Seuche beschädigt.
+- Stärkere Thargoid-Varianten werden erscheinen.
+- Anti-Xeno Konfliktzonen werden im System auftauchen. (Lies mehr zu: Anti-Xeno Konfliktzonen)
 
-Ships may be hyperdicted while jumping into a system under Incursion.
+Schiffe können während des Sprungs in ein verseuchtes System im Hyperraum abgefangen werden.
 
-The GalNet Thargoid Activity report will provide an up-to-date report on the remaining presence of Thargoids within an Incursion system. As more Thargoid vessels are destroyed, the presence level will decrease until the incursion is cleared completely.
+Der GalNet Thargoid Aktivitäts-Bericht wird einen aktuellen Überblick über die verbleibende Thargoid-Präsenz innerhalb eines versuchten Systems liefern. Je mehr Thargoid-Schiffe zerstört werden, desto geringer wird die Präsenz, bis die Seuche vollständig beseitigt ist.
 
-Presence Levels are:
+Präsenz-Stufen sind wie folgt:
 
-- Massive Thargoid Presence **0-25% Cleared**
-- Significant Thargoid Presence **25-50% Cleared**
-- Moderate Thargoid Presence **50-75% Cleared**
-- Marginal Thargoid Presence **75-100% Cleared**
-- No Thargoid Presence **100% Cleared**
+- Massive Thargoid-Präsenz **0-25% bereinigt**
+- Signifikante Thargoid-Präsenz **25-50% bereinigt**
+- Moderate Thargoid-Präsenz **50-75% bereinigt**
+- Marginale Thargod-Präsenz **75-100% bereinigt**
+- Keine Thargoid-Präsenz **100% bereinigt**

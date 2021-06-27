@@ -9,7 +9,7 @@ dateCreated: 2021-06-15T10:50:27.574Z
 ---
 
 # Thargoids finden
-Thargoiden sind ein schwer fassbarer Haufen, aber es gibt bestimmte Tricks und Hotspots, durch die man sie finden kann. Das konsequenteste Mittel ist das Auffinden von Thargoiden in <strong x-id=“1“> nicht-menschlichen Signalquellen ( auf englisch: Non-Human Signal Sources also: NHSS)</strong> entweder in der Pleiades-Region, im Coalsack-Nebula oder im Witch Head Nebula. Thargoids können auch in ein paar statischen orten im menschlichen Raum gefunden werden.
+Thargoiden sind ein schwer fassbarer Haufen, aber es gibt bestimmte Tricks und Hotspots, durch die man sie finden kann. Die Konsistenteste Methode um Thargoids zu finden, ist in **Nicht-menschlichen Signalquellen (NHSS)** entweder in der Pleiades Region, dem Coalsack Nebula oder im Witch Head Nebula. Thargoids können auch in ein paar statischen orten im menschlichen Raum gefunden werden.
 
 > ## Momentan aktive Regionen
 > 
