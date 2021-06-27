@@ -98,7 +98,7 @@ VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www
 -
 - Sobald der Schwarm zerstört ist, kann man mit dem modifizierten Strahlenlaser (vorzugsweise bei 5km Distanz) den Kampf einleiten. Dies wird den Wärmeausstoß des eigenen Schiffes bei unter 20% halten und einem erlauben die "kalter Umlauf" Strategie zu nutzen. [Pips auf: 0-2-4]
 -
-- Man beginnt den Kaltumlauf, indem man vertikale Schub- und Vorwärtsbewegungen nutzt, bis man eine Umlaufgeschwindigkeit von etwa 180 m/s erreicht, behalte dabei eine Umlaufdistanz von 0,9-1,5km bei. **HINWEIS: Das Einsetzen des Thermalen Entlastungs Strahlenlasers hilft bei dem Eintritt in den Umlauf, ohne Schaden durch den Interceptor zu nehmen.**
+- Man beginnt den kühlen Umlauf, indem man vertikale Schub- und Vorwärtsbewegungen nutzt, bis man eine Umlaufgeschwindigkeit von etwa 180 m/s erreicht, behalte dabei eine Umlaufdistanz von 0,9-1,5km bei. **HINWEIS: Das Einsetzen des Thermalen Entlastungs Strahlenlasers hilft bei dem Eintritt in den Umlauf, ohne Schaden durch den Interceptor zu nehmen.**
 -
 - Sobald die gewünschte Umlaufsbahn erreicht ist, kann man auf die Gauss Kannonen Feuergruppe wechseln, einen Kühlkörperwerfer aktivieren, und die Gauss Kannonen abfeuern. (Ein effizientes Abwechseln des Feuerns erreicht man, wenn man direkt nach Abfeuern der vorherigen Gauss Kannonen Feuergruppe die nächste auflädt.)
 -
@@ -136,16 +136,16 @@ Die Basilisk Variante hat eine Höchstgeschwindigkeit von 530 m/s. Der Chieftain
 # Schwarm Bewältigung
 Der Zweck, beim Start des Kampfes, den Schwarm zuerst zu bekämpfen, besteht darin, den „ausbewahrten“ Schwarm des Interceptors aus dem Kampf zu nehmen. Immer wenn ein Interceptor angegriffen wird und das Herz zuerst zerstört wird, wird der aufbewahrte Schwarm zuerst freigesetzt und man müsste insgesammt mit zwei Schwärmen kämpfen. Den aufbewahrten Schwarm aus dem Kampf zu nehmen erlaubt sich in der gegebenen Zeit effektiver auf die folgenden Herzen zu fokussieren.
 
-# Zweck des Kaltumlaufs
-- Der Kaltumlauf hat den Vorteil, dass der gesamte Schaden des Interceptors selbst umgangen werden kann, wenn, mit dem Schiff höchstens 20% Wärmeausstoß, richtige Geschwindigkeit und Umlaufbahn in optimalem 15° Winkel zu den mittleren Interceptor Geschützen, beibehalten werden können. Diese Taktik wird von vielen erfahrenen AX Kommandanten verwendet, um jegliche Art von Schaden an ihrem Schiff zu verhindern, was es ihnen erlaubt den Kampfzyklus fortzusetzen ohne, dass Module repariert werden müssen, was wertvolle Zeit in spart, vor allem bei fortgeschritteneren Interceptor Varianten.
+# Zweck des kühlen Umfliegens
+- Das kühle Umfliegen hat den Vorteil, dass der gesamte Schaden des Interceptors selbst umgangen werden kann, wenn, mit dem Schiff höchstens 20% Wärmeausstoß, richtige Geschwindigkeit und Umlaufbahn in optimalem 15° Winkel zu den mittleren Interceptor Geschützen, beibehalten werden können. Diese Taktik wird von vielen erfahrenen AX Kommandanten verwendet, um jegliche Art von Schaden an ihrem Schiff zu verhindern, was es ihnen erlaubt den Kampfzyklus fortzusetzen ohne, dass Module repariert werden müssen, was wertvolle Zeit in spart, vor allem bei fortgeschritteneren Interceptor Varianten.
 -
-- Der Kaltumlauf ist dazu auch die Grundlegende Flugtaktik für fortgeschrittenere Interceptor Bekämpfung, wenn man kleinere Schiffe nutzen will. Vorallem für den Umgang mit dem Thargon Schwarm auf kleinen Schiffen, welche keine Flak ausrüsten können. (Übersteigt diesen Leitfaden)
+- Das kühle Umfliegen ist dazu auch die Grundlegende Flugtaktik für fortgeschrittene Interceptor Bekämpfung, wenn man kleinere Schiffe nutzen will. Vorallem für den Umgang mit dem Thargon Schwarm auf kleinen Schiffen, welche keine Flak ausrüsten können. (Übersteigt diesen Leitfaden)
 -
-- Die Menge an Kühlkörpern, nach diesem Leitfaden, sollte die Zerstörung jedes Herzens auf allen Varianten ermöglichen, solange der Kommandant eine 0,9-1,5km Umlaufbahn einhält und damit die Schadensleistung der Gauss Kanonen komplett ausreizt.
+- Die Menge an Kühlkörpern, die hier empfohlen wird, sollte die Zerstörung jedes Herzens auf allen Varianten ermöglichen, solange der Kommandant eine 0,9-1,5km Umlaufbahn einhält und damit die Schadensleistung der Gauss Kanonen komplett ausreizt.
 
-Abdriften aus optimaler Umlaufbahn führt zum Verbrauch von mehr Munition, wegen größerem Abstand und Leistungsverlust. Außerdem muss man mehr Kühlkörper nutzen. Außerhalb der Gefechtsbedingungen zu feuern wird nicht empfohlen.
+Abdriften aus optimaler Umlaufbahn führt zum Verbrauch von mehr Munition, wegen höherem Leistungsverlust bei größerem Abstand. Außerdem muss man mehr Kühlkörper nutzen. Außerhalb der Gefechtsbedingungen zu feuern wird nicht empfohlen.
 
-# Thargoid Schlafmodus
+# Thargoid Schlafphase
 - The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
 -
 - Cold orbiting is also the basis for more advanced Interceptor combat when wanting to use smaller ships and also for more advanced Thargon swarm management for small ships when flak launchers cannot be fitted. (beyond the scope of this guide)
