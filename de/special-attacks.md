@@ -28,4 +28,4 @@ Stelle sicher, dass genügend Kühlkörper und Kondensatorleistung in SYS vorhan
 ## Abschalt Feld
 Beim vor- zu letzten Herzen wird der Interceptor sein Abschalt Feld in form eines Impulses nutzen. Das wird jedes getroffene Schiff für 30 Sekunden deaktivieren (der Geschwader-Beacon wird auch deaktiviert). Man kann das **Auslösen** dieses Impulses verhindern, indem man weiter als 3km Abstand hält oder den Wärmeausstoß unter 20% hält,**bevor er den Spezialangriff starten will**. Sobald der Impuls gestartet wurde, kannst du ihn nicht umgehen, es sei denn, du bist über 10km weit weg. Behalte den Flugstabilisator aus (F/A off) und flieg mit Schub davon, falls du keinen Abschalt Feld Neutralisator hast.
 
-Abgesehen von der Blitzfähigkeit, muss man keine Sorgen machen von einer Spezialfähigkeit getroffen zu werden, solange der Thargoid einen Schwarm freigesetzt hat. (Unless you experience the Heart Cycle Reset Bug)
+Abgesehen von der Blitzfähigkeit, muss man keine Sorgen machen von einer Spezialfähigkeit getroffen zu werden, solange der Thargoid einen Schwarm freigesetzt hat. (Außer du erlebst gerade einen Herz-Zyklus Rücksetzungs Bug)
