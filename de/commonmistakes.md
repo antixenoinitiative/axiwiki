@@ -29,14 +29,14 @@ Ausserdem:
 - SLF wird den Schwarm aggro machen, so dass er unberechenbar fliegt und somit schwerer zu zerstören ist
 - SLF-NPC stiehlt die Hälfte des Kampfrangs
 - SLF wird den Interceptor nicht angreifen
-- The swarm will destroy a SLF in 4-5 hits, due to phasing damage.
+- Der Schwarm wird einen SLF in 4-5 Treffern zerstören, aufgrund des Durchdringungsschadens.
 
 ![slf.gif](/img/slf.gif) {.align-center}
 
 ## Flechette VS Flak
-Remote Release Flak Launcher and Remote Release Flechette Launcher are easily mixed up…
+Fernauslöser Flak Werfer und Fernauslöser Flechette Werfer sind leicht zu verwechseln...
 
-> Flak is super effective against Thargon swarms
+> Flak ist super effektiv gegen Thargon-Schwärme
 > 
 > Flechette is not… 
 > 
@@ -44,15 +44,15 @@ Remote Release Flak Launcher and Remote Release Flechette Launcher are easily mi
 
 
 ## Resistances
-Thargoid weapons deal absolute/caustic damage, this means any Thermal/Kinetic/Explosion resistances on either your shields or hull will do nothing and be completely bypassed. Focus only on absolute shield and hull values. Resistance is futile.
+Thargoid-Waffen verursachen absoluten/ätzenden Schaden, das bedeutet jegliche Thermo-/Kinetik-/Explosions-Resistenzen auf den Schilden oder der Hülle sind wirkungslos und werden komplett umgangen. Konzentrieren Sie sich nur auf die absoluten Schild- und Hüllenwerte. Widerstand ist zwecklos.
 
-## Weapons
-Although other AX weapons may be interesting and fun, nothing beats a Gauss Cannon. Due to Armour Penetration values, Guardian Gauss cannons have the highest effective AX damage per second. Focus on learning how to use Gauss Cannons properly and you will have a far easier time as the Interceptors you engage get tougher.
+## Waffen
+Auch wenn andere AX-Waffen interessant sind und Spass machen, geht nichts über eine Gausskanone. Aufgrund der Panzerungsdurchdringungswerte haben Guardian Gauss-Kanonen den höchsten effektiven AX-Schaden pro Sekunde. Konzentrieren Sie sich darauf, den richtigen Umgang mit den Gausskanonen zu lernen, und Sie werden eine viel leichtere Zeit haben, wenn die Interceptors, die Sie bekämpfen, härter werden.
 
-Guardian Shard Cannons and Guardian Plasma Chargers simply cannot keep up with the DPS and effectiveness of Gauss.
+Guardian Shard Kanonen und Guardian Plasma Lader können einfach nicht mit der DPS und Effektivität von Gauss mithalten.
 
-Shards also require the pilot to be within Lightning attack range to achieve maximum DPS effect.
+Shards erfordern ausserdem, dass sich der Pilot in Blitzangriffsreichweite befindet, um einen maximalen DPS-Effekt zu erzielen.
 
-For scout hunting, avoid fixed AXMCs. Scouts have very erratic movement and they can prove very difficult to hit with fixed projectile-based weapons. They make for good Gauss target practice though, since they are roughly the same size as an Interceptor’s Heart, and Gauss is a hitscan-based weapon.
+Bei der Scout-Jagd sind feste AXMCs zu vermeiden. Späher bewegen sich sehr unregelmässig und sind mit festen projektilbasierten Waffen sehr schwer zu treffen. Sie eignen sich jedoch gut für Gauss-Zielübungen, da sie ungefähr die gleiche Grösse wie das Herz eines Interceptors haben, und Gauss ist eine auf Hitscan basierende Waffe.
 
-Read more on the [Weapons](/en/weapons) page.
+Lesen Sie mehr auf der Seite [Waffen](/de/weapons).
