@@ -51,7 +51,7 @@ Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der C
 
 Wenn man nicht zu viel Wert auf den Xeno-Scanner legt, kann man mit einem 4ten Kühlkörperwerfer sicherstellen, dass man bei den niedrigeren Interceptor Varianten nie synthetitisieren muss.
 
-# Ingenieure
+# Engineering
 Der Zweck der aufgelisteten Ingenieure ist es, die notwendigen Ingenieure für Einsteiger in diesen Leitfaden zu minimieren und gleichzeitig den erfahrenen Kommandanten die Möglichkeit zu geben, weitere Ingenieure zu nutzen, um ihr Schiff weiter auszustatten. Die für die Änderungen erforderlichen Ingenieure sind wie folgt:
 
 ## Notwendige Ingenieure:
@@ -136,7 +136,7 @@ Die Basilisk Variante hat eine Höchstgeschwindigkeit von 530 m/s. Der Chieftain
 # Schwarm Bewältigung
 Der Zweck, beim Start des Kampfes, den Schwarm zuerst zu bekämpfen, besteht darin, den „ausbewahrten“ Schwarm des Interceptors aus dem Kampf zu nehmen. Immer wenn ein Interceptor angegriffen wird und das Herz zuerst zerstört wird, wird der aufbewahrte Schwarm zuerst freigesetzt und man müsste insgesammt mit zwei Schwärmen kämpfen. Den aufbewahrten Schwarm aus dem Kampf zu nehmen erlaubt sich in der gegebenen Zeit effektiver auf die folgenden Herzen zu fokussieren.
 
-# Zweck des kühlen Umfliegens
+# Zweck des kalten Orbits
 - Das kühle Umfliegen hat den Vorteil, dass der gesamte Schaden des Interceptors selbst umgangen werden kann, wenn, mit dem Schiff höchstens 20% Wärmeausstoß, richtige Geschwindigkeit und Umlaufbahn in optimalem 15° Winkel zu den mittleren Interceptor Geschützen, beibehalten werden können. Diese Taktik wird von vielen erfahrenen AX Kommandanten verwendet, um jegliche Art von Schaden an ihrem Schiff zu verhindern, was es ihnen erlaubt den Kampfzyklus fortzusetzen ohne, dass Module repariert werden müssen, was wertvolle Zeit in spart, vor allem bei fortgeschritteneren Interceptor Varianten.
 -
 - Das kühle Umfliegen ist dazu auch die Grundlegende Flugtaktik für fortgeschrittene Interceptor Bekämpfung, wenn man kleinere Schiffe nutzen will. Vorallem für den Umgang mit dem Thargon Schwarm auf kleinen Schiffen, welche keine Flak ausrüsten können. (Übersteigt diesen Leitfaden)
@@ -146,13 +146,13 @@ Der Zweck, beim Start des Kampfes, den Schwarm zuerst zu bekämpfen, besteht dar
 Abdriften aus optimaler Umlaufbahn führt zum Verbrauch von mehr Munition, wegen höherem Leistungsverlust bei größerem Abstand. Außerdem muss man mehr Kühlkörper nutzen. Außerhalb der Gefechtsbedingungen zu feuern wird nicht empfohlen.
 
 # Thargoid Schlafphase
-- The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
+- Mit dem kalten Orbit hat man das Potenzial jeglichen Schaden vom Interceptor zu vermeiden, wenn man die richtige Geschwindigkeit, Entfernung und den 15° Winkel von den Geschützen des Interceptors beibehält, sofern man unter 20% Hitze bleibt. Diese Strategie wird von vielen Profi AX-Piloten benutzt, damit sie keinen Schaden am Schiff nehmen müssen, was ihnen ermöglicht ihren Angriff fortzusetzen, weil sie ihre Module nicht reparieren müssen, was, besonders bei späteren Interceptorn, Zeit beansprucht.
 -
-- Cold orbiting is also the basis for more advanced Interceptor combat when wanting to use smaller ships and also for more advanced Thargon swarm management for small ships when flak launchers cannot be fitted. (beyond the scope of this guide)
+- Der kalte Orbit ist das Fundament im Kampf gegen spätere Interceptor, wenn man kleinere Schiffe spielen will und auch für einen schwierigeren Umgang mit dem Thargon-Schwarm, wenn man bei kleinen Schiffen keine Flak instalieren kann. (das ist hier nicht behandelt)
 -
-- The amount of heat sinks within this doctrine will allow the destruction of any heart on any variants as long as the commander maintains a 900m-1.5km orbit maximising the damage output of the Gauss cannon.
+- Die Menge an Kühlkörpern, die hier empfohlen wird, sollte die Zerstörung jedes Herzens bei allen Varianten ermöglichen, solange der Kommandant eine 0,9 -1,5km Umlaufbahn einhält und damit die Schadensleistung der Gauss Kanonen komplett ausreizt.
 -
-- Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
+- Abdriften aus der optimalen Umlaufbahn ist ineffizient und verbraucht mehr Munition, wegen höherem Schadesverlust bei größerem Abstand. Außerdem muss man mehr Kühlkörper nutzen. Außerhalb der effektiven Reichweite zu feuern wird nicht empfohlen.
 
 `CREDITS
 Vielen Dank an den Anti-Xeno-Initiative Discord für die Unterstützung bei der Verfeinerung dieses Leitfadens und an die folgenden AXI-Kommandanten für ihren Beitrag:
