@@ -24,7 +24,7 @@ Man kann auf zwei verschiedene Arten erkennen, ob ein Thargoid einen aktiven Sch
 !\[withscanner.png\](/img/mitScanner.png =500x){.align-center} Der Schild wird um das Hologramm herum angezeigt, wenn der Interceptor anvisiert wird. Im Kontaktfeld kann man den verbleibenden Schildprozentsatz sehen.
 
 ### Ohne Scanner
-!\[withoutscanner.png\](/img/ohnescanner.png =500x){.align-center} ohne Scanner kann manerkennen, ob der Thargoid einen Schild hat, indem man nach dem blauen "Schild-Ping" Ausschau halten, wenn man dem Interceptor Schaden zufügen. Wenn der Ping erscheint, dann hat der Interceptor noch ein Schutzschild.
+!\[withoutscanner.png\](/img/ohnescanner.png =500x){.align-center} ohne Scanner kann man erkennen, ob der Thargoid einen Schild hat, indem man nach dem blauen "Schild-Ping" Ausschau halten, wenn man dem Interceptor Schaden zufügen. Wenn der Ping erscheint, dann hat der Interceptor noch ein Schutzschild.
 
 ## Abklingen
 Thargoid-Schilde bauen mit der Zeit immer ab. Der Abbau beginnt sofort und ist eine konstante Geschwindigkeit für alle Thargoid-Varianten, **25MJ/s**. Aufgrund der unterschiedlichen Größe der Schilde für jede Variante dauert es jedoch bei jedem Interceptortyp länger, bis der Schild abgebaut ist.
@@ -47,8 +47,8 @@ Unter verschiedenen Bedingungen kann der Interceptor Schilde unabhängig von zer
 
 1. **Überwältigender Rumpfschaden** - Wenn der Rumpf des Interceptors trotz der schnellen Regeneration bei starker Krafteinwirkung auf das Herz weiter abfällt, setzt er einen Panikschild ein. This happens often if using premium ammo against a Cyclops solo, when a wing tries to exert a Cyclops, or when trying to instagib any of the stronger variants.
 
-2. **Overwhelming shield damage** - If the Interceptor's shield is destroyed within 10 seconds of it being deployed, it will immediately regenerate it. (**This cannot happen after the first heart because of the Lightning phase**). This scenario most often occurs when one uses a ram to immediately destroy a deployed shield, or if sufficient firepower is deployed against one of the weaker variants (shard cannons against Cyclops). You can tell if this 10 second window is over when the Interceptor's red glowing petals stop rapidly flashing and switch to slowly pulsating.
+2. **Überwältigender Schildschaden** - Wenn der Schild des Interceptors innerhalb von 10 Sekunden nach seinem einsetzen zerstört wird, regeneriert er ihn sofort. (**Dies kann wegen der Blitzphase nicht nach dem ersten Herz geschehen**). Dieses Szenario tritt vor allem dann ein, wenn man mit einem Ramm ein eingesetztes Schild sofort zerstört oder wenn genügend Feuerkraft gegen eine der schwächeren Varianten eingesetzt wird (Shardkanonen gegen Cyclops). Man kann erkennen, ob dieses 10-Sekunden-Fenster vorbei ist, wenn die rot leuchtenden Blütenblätter des Interceptors aufhören, schnell zu blinken und zu einem langsamen pulsieren übergehen.
 
-3. **Countermeasure Deployment** - If the Interceptor launches a volley of caustic missiles but its shield is down, it will deploy a new one.
+3. **Einsatz von Gegenmassnahmen** - Wenn der Interceptor eine Salve ätzender Raketen abschießt, aber sein Schild ausgefallen ist, setzt er einen neuen ein.
 
-This scenario often occurs in conditions that trigger scenario 2, but it can also happen past the 10 second window. For example, if wing tactics are used to bring the shield down during the sleep phase  but the aggro holder is detected after the shield is destroyed, a new one will be generated alongside the caustic barrage.
+Dieses Szenario tritt häufig bei Bedingungen auf, die Szenario 2 auslösen, es kann aber auch nach dem 10-Sekunden-Fenster auftreten. Wenn z. B. mit der Geschwadertaktik der Schild während der Ruhephase zu Fall gebracht wird, der Aggro-Halter aber erst nach der Zerstörung des Schildes erkannt wird, wird neben dem ätzenden Sperrfeuer ein neues erzeugt.
