@@ -156,7 +156,7 @@ Alliance Chieftain без щита это бесспорная мета АХ, к
 ## Продвинутые Сборки
 Набор более продвинутых сборок может быть найдена на странице Продвинутых Сборок.
 
-View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
+Просмотреть ещё больше сборок кораблей можно посетив наше [Хранилище Сборок Кораблей](/en/buildrepository), огромную коллекцию сборок от опытных пилотов AXI с указанием характеристик кораблей, их рейтинга и ссылками на них.
 
 # Сборки против Разведчиков
 Hunting scouts is a very efficient method to increase combat rank. This is because all scouts are considered dangerous or deadly targets and will give a lot of experience per kill. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
