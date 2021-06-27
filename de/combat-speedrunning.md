@@ -1,6 +1,6 @@
 ---
-title: Speedrunning Guide
-description: Can kill goids? Yes? But can you kill them quick?
+title: Leitfaden zu Speedruns
+description: Du kannst Thargoids töten? Ja? Aber kannst du sie auch schnell töten?
 published: true
 date: 2021-06-10T23:22:48.988Z
 tags:
@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2021-06-10T13:56:57.206Z
 ---
 
-# Introduction
+# Einleitung
 
-First things first: Speedrunning is not for newcomer pilots to Anti-Xeno combat.
+Zu allererst: Speedruns sind nicht für Änfänger im Anti-Xeno Kampf.
 
 We generally recommend CMDRs attain at least the Serpent's Nememis rank (Medusa solo) before they focus on learning the advanced techniques involved in speedrunning.
 
