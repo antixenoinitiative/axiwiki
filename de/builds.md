@@ -9,16 +9,16 @@ dateCreated: 2021-06-08T12:52:54.657Z
 ---
 
 
-# Recommended Builds
-Thargoid Hunting requires specialised ship builds as Thargoids have special resistances and deal special damage types that will typically cause issues on any standard combat build. As such, we have put together the following guide to help you make the correct decisions to lead you towards building the most effective vessel for hunting down alien ships. These ship builds are designed to give you a balance of firepower and survivability, while also being forgiving enough to make a few mistakes.
+# Empfohlene Builds
+Die Thargoid-Jagt erfordert spezialisierte Schiffsbauten, da Thargoids spezielle Resistenzen haben und besondere Typen an Schaden machen, die normalerweise ein Problem für normale Kampf Builds darstellen. Deshalb haben wir folgenden Leitfaden erstellt, um dir dabei zu helfen die richtigen Entscheidungen zu treffen, beim Bau eines möglichst effektiven Schiffes für die Thargoid jagt. Diese Builds sind so designt, dass sie ein Gleichgewicht zwischen Feuerkraft und Überlebensfähigkeit, währeddessen man sogar noch Platz für Fehler hat.
 
-> Please see our [Ship Build Theory](/en/shipbuildtheory) page for a more in-depth explanation behind the outfitting decisions. 
+> Bitte lies unsere [ Schiffs Build Theorie](/en/shipbuildtheory) Seite, für eine ausführliche Erklärung hinter den Entscheidungen. 
 > 
 > {.is-info}
 
-## Ship Build Types
+## Schiffbautypen
 
-Firstly, note there are two main types of Thargoid: **Thargoid Scouts** and **Thargoid Interceptors**. Since these enemies have very different mechanics and abilities, we will typically need a different type of build for each one.
+Wichtig zu wissen ist, dass es zwei verschiedene Typen von Thargoid gibt: **Thargoid Scouts** und **Thargoid Interceptor**. Da sie sehr unterschiedliche Gimmicks und Mechaniken haben, braucht man unterschidliche Builds für die Beiden.
 
 # Interceptor Builds
 
