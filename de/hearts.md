@@ -9,15 +9,15 @@ dateCreated: 2021-06-17T00:35:26.084Z
 ---
 
 # Thargoid Herzen
-Alle Thargoids haben eine bestimmte Anzahl von internen Modulen, die als Herz bekannt sind, diese erlauben dem Interceptor seine Leben sehr schnell zu regenerieren. Die Herzen liegen an der Außenseite des Interceptors und bilden Blütenblätter. Je nach Interceptor-Variante, können einige oder sogar alle dieser Blüten angebrochen werden, das abbrechen deutet darauf hin, dass das Herz zerstört wurde.
+Alle Thargoids haben eine bestimmte Anzahl von internen Modulen, die als Herz bezeichnet werden, diese erlauben dem Interceptor seine Rumpfhülle sehr schnell zu regenerieren. Die Herzen liegen an der Außenseite des Interceptors als Blütenblätter. Je nach Interceptor-Variante, können einige oder sogar alle dieser Blüten abgebrochen werden. Das Abbrechen zeigt, dass das Herz zerstört wurde.
 
 ## Regeneration
 
-Thargoid Herzen versorgen den Interceptor mit der Fähigkeit sich extrem schnell zu regenerieren, es ist fast unmöglich den Interceptor zu töten, bevor alle Herzen zerstört wurden.
+Thargoid Herzen versorgen den Interceptor mit der Fähigkeit sich extrem schnell zu regenerieren, es ist fast unmöglich den Interceptor zu töten, bevor nicht alle Herzen zerstört wurden.
 
 ## Hervortreten
 
-Thargoid Herzen sind im Normalzustand immun. Allerdings kannst du die Herzen verwundbar machen, indem du dem Thargoid Interceptor genug Schaden zufügst um das Herz **hervortreten** zu lassen. Du musst dem Interceptor Schaden in Höhe von 20% der verbleibenden Hüllenstärke zufügen, um das Herz hervortreten zu lassen. Once exerted, the Thargoid will regenerate its health rapidly and the Heart will begin glowing brightly for ~45 seconds.
+Thargoid Herzen sind im Normalzustand immun. Allerdings kannst du die Herzen verwundbar machen, indem du dem Thargoid Interceptor genug Schaden zufügst um das Herz **hervortreten** zu lassen. Du musst dem Interceptor Schaden in Höhe von 20% der verbleibenden Hüllenstärke zufügen, um das Herz hervortreten zu lassen. Sobald das Herz hervorgetreten ist wird es die Rumpfhülle des Thargoids rapide regenerieren und dabei für etwa 45 Sekunden hell aufleuchten.
 
 ## {.tabset}
 
