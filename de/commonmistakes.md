@@ -25,10 +25,10 @@ Düppel beeinflussen Thargoiden in keiner Weise, der Einsatz von Düppel im AX-K
 ## Schiffsgestartete Kampfjets
 Ein etwas kontroverses Thema, da es immer noch einige besondere Verwendungszwecke für diese gibt, aber in typischen AX-Kämpfen sind schiffsgestartete Kampfjets (SLFs) mehr ein Ärgernis als ein Vorteil. Aufgrund ihrer papierdünnen Hülle, dem mittelmässigen Schaden und der lächerlichen Lebensdauer ist selbst ein SLF in den Händen eines guten Piloten immer noch weniger vorteilhaft, als wenn man den gleichen Modulslot vielleicht für etwas mehr Panzerung verwenden würde. Keep in mind that an AI pilot will also be taking a cut of all profits and rank obtained in the meantime too.
 
-Also:
-- SLF will aggro the swarm making it fly erratically, thus harder to destroy
-- SLF NPC will steal half your combat rank
-- SLF will not aggro the interceptor
+Ausserdem:
+- SLF wird den Schwarm aggro machen, so dass er unberechenbar fliegt und somit schwerer zu zerstören ist
+- SLF-NPC stiehlt die Hälfte des Kampfrangs
+- SLF wird den Interceptor nicht angreifen
 - The swarm will destroy a SLF in 4-5 hits, due to phasing damage.
 
 ![slf.gif](/img/slf.gif) {.align-center}
