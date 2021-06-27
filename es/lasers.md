@@ -39,12 +39,12 @@ La función secundaria de un rayo con VT es hacer daño a los escudos de los Int
 
 ## Láseres de curación de escudo
 
-Shield "healing" lasers or the ‘Regeneration Sequence’ and ‘Concordant Sequence’ experimental effects can be useful in wing fights. This naturally assumes your wingmates are not flying shieldless ships.
+Los láseres de "curación" de escudo o efectos experimentales "Secuencia de Regeneración" y "Secuencia Concordante" pueden ser útiles en los combates en equipo. Esto supone, naturalmente, que tus compañeros no están volando naves sin escudo.
 
-Regeneration Sequence and Concordant Sequence lasers only work on friendly targets within your wing.
+Los láseres con Secuencia de Regeneración y Secuencia Concordante solo funcionan en objetivos amistosos dentro de tu equipo.
 
-### Regeneration Sequence Lasers
-It's possible to significantly regenerate a wingmate's shields with beam lasers which have the Regeneration Sequence experimental effect. This is especially true for ships with Prismatic shields, which rarely get more than 50% shield strength in solo fights after the shield has dropped below that limit. It is a good idea to use an Efficient blueprint on a Regen beam, unless you are in a slower ship than the wingmates you are healing (example: Corvette healing the shield of a Cutter), in which case Long Range may be a better option.
+### Láseres de Secuencia de Regeneración
+Es posible regenerar significativamente los escudos de un compañero con un láser de rayo que tienen el efecto experimental de Secuencia de Regeneración. Esto es especialmente cierto para naves con escudos Prismáticos, que rara vez obtienen más del 50% de fortaleza de escudo en combates solitarios después de que el escudo haya caído por debajo de ese límite. Es una buena idea usar un plano Eficiente en un rayo de Regeneración, a menos que estés en una nave más lenta que los compañeros de equipo que estás curando (ejemplo: Corvette curando el escudo de una Cutter), en cuyo caso Largo Alcance puede ser una mejor opción.
 
-### Concordant Sequence Lasers
-Concordant sequence is an experimental effect that will amplify the natural shield regeneration of the targeted ship by a very big factor for a short period of time. Due to this, they work best on ships equipped with Bi-Weave shield generators, which already have short regeneration rates and unlike in PvP they do not have a hard counter in AX combat. Remember that while they are a great support module, they do not work on fully broken shields. It is also worth noting that you do not need to continuously fire at the target you want to help, as once applied buff lasts for a short period of time. Long Range Pulse lasers are recommended as Concordant Sequence only requires a single hit to apply the effect and pulse lasers have the least power draw.
+### Láseres de Secuencia Concordante
+La secuencia concordante es un efecto experimental que amplificará la regeneración natural del escudo de la nave objetivo por un factor muy grande durante un corto período de tiempo. Due to this, they work best on ships equipped with Bi-Weave shield generators, which already have short regeneration rates and unlike in PvP they do not have a hard counter in AX combat. Remember that while they are a great support module, they do not work on fully broken shields. It is also worth noting that you do not need to continuously fire at the target you want to help, as once applied buff lasts for a short period of time. Long Range Pulse lasers are recommended as Concordant Sequence only requires a single hit to apply the effect and pulse lasers have the least power draw.
