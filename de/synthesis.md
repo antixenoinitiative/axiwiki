@@ -30,14 +30,14 @@ Greife durch folgende Schritte auf das Synthese Menü im Spiel zu:
 
 Kühlkörper sind entscheidend, um Schiffstemperaturen auf niedrig zu halten, während man längere Gauss Kanonen Salven abfeuert. Vorallem beim Vorbeiziehen oder kühlem Umlauf werden sie verbraucht.
 
-Nur einfache Kühlkörper Senythesen werden empfohlen, weil Standard und Premium keinen wirklich nutzvollen Vorteil bringen.
+Nur einfache Kühlkörper Synthesen werden empfohlen, weil Standard und Premium keinen wirklich nutzvollen Vorteil bringen.
 
 ### Einfach
 - 2x Basic Conductors
 - 2x Heat Conduction Wiring
 
 ## Flakwerfer mit Fernzündung
-Benötigt um Thargon-Schwärme zu bekämpfen, erwarte ein paar Synthesen für Basilisk und höhere Varianten. Nur einfache Flak Senythesen werden empfohlen, weil Standard und Premium keinen wirklich nutzvollen Vorteil bringen.
+Benötigt um Thargon-Schwärme zu bekämpfen, erwarte ein paar Synthesen für Basilisk und höhere Varianten. Nur einfache Flak Synthesen werden empfohlen, weil Standard und Premium keinen wirklich nutzvollen Vorteil bringen.
 
 ### Einfach
 
@@ -63,33 +63,33 @@ Guardian Gauss Kanonen sind derzeit die effektivste AX-Waffe. Aufgrund ihrer ger
 - 5x Manganese
 - 5x Focus Crystals
 
-### Premium (+30% dmg)
+### Premium (+30% Schaden)
 
 - 6x Filament Composites
 - 6x Guardian Technology Components
 - 8x Manganese
 - 10x Focus Crystals
 
-For the maximum possible Premium Gauss synths you will need:
+Für die maximal möglichen Premium Gauss Synthesen benötigt man:
 
 - 200x Focus Crystals
 - 160x Manganese
 - 120x Filament Composites
 - 120x Guardian Tech Components
 
-## Limpets
-For repairs and decontamination limpets.
+## Drohnen
+Für Reparaturen und Dekontamination.
 
-### Basic
+### Einfach
 - 10x Eisen
 - 10x Nickel
 
-## AFM-Nachfüllungen
-In longer fights, you will need to refill your AFMU multiple times to keep your Module Reinforcements and other modules at full integrity.
+## AFMU-Nachfüllungen
+Bei längeren Kämpfen muss man die Autoamtische Feldwartungs Einheit (AFMU) mehrmals auffüllen, um die Modulverstärkungen und andere Module bei voller Integrität zu halten.
 
-Wir empfehlen nur Basis Nachfüllungen zu verwenden, da Standart und Premium Nachfüllungen keinen nützlichen Vorteil besitzen.
+Nur einfache AFMU Synthesen werden empfohlen, weil Standard und Premium keinen wirklich nutzvollen Vorteil bringen.
 
-### Basic
+### Einfach
 - 2x Nickel
 - 2x Zink
 - 2x Chromium
