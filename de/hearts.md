@@ -17,39 +17,39 @@ Thargoid Herzen versorgen den Interceptor mit der Fähigkeit sich extrem schnell
 
 ## Hervortreten
 
-Thargoid Herzen sind im Normalzustand immun. Allerdings kannst du die Herzen verwundbar machen, indem du dem Thargoid Interceptor genug Schaden zufügst um das Herz **hervortreten** zu lassen. Du musst dem Interceptor Schaden in Höhe von 20% der verbleibenden Hüllenstärke zufügen, um das Herz hervortreten zu lassen. Sobald das Herz hervorgetreten ist wird es die Rumpfhülle des Thargoids rapide regenerieren und dabei für etwa 45 Sekunden hell aufleuchten.
+Thargoid Herzen sind im Normalzustand immun. Allerdings kann man die Herzen verwundbar machen, indem man dem Thargoid Interceptor genug Schaden zufügt um das Herz **hervortreten** zu lassen. Man muss dem Interceptor Schaden in Höhe von 20% der verbleibenden Hüllenstärke zufügen, um das Herz hervortreten zu lassen. Sobald das Herz hervorgetreten ist wird es die Rumpfhülle des Thargoids rapide regenerieren und dabei für etwa 45 Sekunden hell aufleuchten.
 
 ## {.tabset}
 
-### Exerted Cyclops Heart
+### Hervorgetretenes Cyclops-Herz
 !\[clopsheart.png\](/img/clopsheart.png =400x)
 
-### Exerted Hydra Heart
+### Hervorgetretenes Hydra-Herz
 !\[hydraheart.png\](/img/hydraheart.png =400x)
 
 ## Herzen zerstören
 
-During the exertion, any direct AX damage dealt to the heart will cause it to lose health. Hearts to do not regenerate and any damage done to them is permanant. If you fail to break the heart during this 45 second window, you will have to re-exert the Thargoid Interceptor again, this will always exert the same heart.
+Während das Herz hervorgetreten ist, kann es durch Treffer mit AX-Waffen beschädigt werden. Schaden an Herzen selbst regeneriert nicht und ist somit permanent. Wenn man das Herz während der 45 Sekunden die es hervorgetreten ist nicht zerstören kann, muss man den Thargoid Interceptor wieder beschädigen. Es wird immer dasselbe Herz hervortreten, bis es zerstört wurde.
 
-Once all the Interceptors hearts are destroyed, any damage to the Interceptor is permanent.
+Sobald alle Herzen des Interceptors zerstört sind, ist jeder Schaden daran permanent.
 
-The Heart has a very small hit-box and you must be very precise in-order to deal damage to it.
+Das Herz hat eine recht kleine Hitbox und man muss sehr genau sein, um ihm Schaden zuzufügen.
 
-## Location
+## Position
 
-Thargoid Hearts are located in the petals of the Interceptor. They spawn in a semi-consistent pattern for each variant however they will be exerted in a random pattern for each kill.
+Thargoid Herzen befinden sich in den "Blütenblättern" des Interceptors. Sie erscheinen in einem semi-festen Muster für jede Variante, aber treten in einer zufälligen Reihenfolge hervor.
 
-You can sub-target the hearts if you use a Xeno-Scanner on the Interceptor and complete a full-scan. This will also allow you to see the status of all hearts in the contacts panel.![heart_location.png](/img/heart_location.png)
+Man kann die Herzen als Subziele auswählen, wenn man den Interceptor mithilfe eines Xeno-Scanners erfasst hat. Auf diese Weise kann man auch den Status aller Herzen im Kontakt-Panel der Armatur sehen.![heart_location.png](/img/heart_location.png)
 
-# Collecting Hearts
+# Herzen aufsammeln
 
-A short video by CMDR Aranionros Stormrage on a very fast and effective way to collect Thargoid Hearts from a dead Thargoid Interceptor without waiting for the Caustic cloud to dissapate.
+Ein kurzes Video von CMDR Aranionros Stormrage über eine sehr schnelle und effektive Art und Weise, Thargoid-Herzen von einem toten Thargoid-Interceptor zu sammeln, ohne darauf zu warten, dass die kaustische Wolke verschwindet.
 
 [Video von CMDR Aranionros Stormrage](https://youtu.be/YBM9TqCZJMg)
 
 
-## How to Scoop Hearts Quickly
-- Collector limpets inherit ship velocity, so moving quickly towards the heart when launching them will give them a great speed boost.
-- You can pass quite close to the heart while the cloud is still small.
-- Launching multiple limpets is advised as sometimes they crash into the dead Thargoid.
-- Using a B-rated collector limpet controller will give you more range, therefore a bit more room to work with. A size 3B controller should be enough (though a 5B was used in this video)
+## Wie man Herzen aufsammelt
+- Sammeldrohnen übernehmen die Schiffsgeschwindigkeit, schnell in Richtung Herz fliegen während man die Drohne abfeuert gibt ihr also einen großen Geschwindigkeitsvorteil.
+- Man kann ganz nah am Herzen vorbeigehen, während die Wolke noch klein ist.
+- Es ist empfehlenswert mehrere Drohnen zu starten, da sie manchmal mit Thargoid-Trümmern kollidieren.
+- Durch die Verwendung einer B-Grad Sammeldrohnen Steuerung erhält man mehr Reichweite, also etwas Raum zum arbeiten. Eine 3B Steuerung sollte genügen (obwohl in dem Video eine 5B Steuerung verwendet wurde).
