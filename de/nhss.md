@@ -1,14 +1,14 @@
 ---
-title: Non-Human Signal Sources
-description: About Non-Human Signal Sources and Finding Thargoids
+title: Nichtmenschliche Signalquellen
+description: Über nicht-menschliche Signalquellen und wie man Thargoids findet
 published: true
 date: 2021-06-15T10:52:49.181Z
-tags: thargoids, interceptors, scouts
+tags: Thargoids, Interceptors, Scouts
 editor: markdown
 dateCreated: 2021-06-15T10:51:53.374Z
 ---
 
-# Non-Human Signal Sources
+# Nichtmenschliche Signalquellen
 Non-Human Signal Sources are a special type of signal source that can be found in areas of Thargoid activity, Upon finding and entering a NHSS there is a chance you will get one of three outcomes:
 
 - A single Thargoid Interceptor (Cyclops, Basilisk, Medusa or Hydra)
@@ -36,14 +36,14 @@ Depending on the Threat Level of the NHSS you will find different types of Inter
 
 Threat Levels:
 
-- **[Threat 2]** - 1x Thargoid Probe
-- **[Threat 3]** - 2x Scouts
-- **[Threat 4]** - 4-7x Scouts OR 1-2x Human Ships + 4-7x Scouts (Typically 4 Scouts)
-- **[Threat 5]** - 1x Cyclops OR 4-8x Scouts
-- **[Threat 6]** - 1x Basilisk OR 1x Cyclops + 4x Scouts
-- **[Threat 7]** - 1x Medusa OR 1x Basilisk + 4x Scouts
-- **[Threat 8]** - 1x Hydra* OR 1x Medusa + 4x Scouts
-- **[Threat 9]** - 1x Hydra + 4x Scouts
+- **[Bedrohung 2]** - 1x Thargoidsonde
+- **[Bedrohung 3]** - 2x Scouts
+- **[Bedrohung 4]** - 4-7x Scouts oder 1-2x Menschliche Schiffe + 4-7x Scouts (normalerweise 4 Scouts)
+- **[Bedrohung 5]** - 1x Cyclops oder 4-8x Scouts
+- **[Bedrohung 6]** - 1x Basilisk oder 1x Cyclops + 4x Scouts
+- **[Bedrohung 7]** - 1x Medusa oder 1x Basilisk + 4x Scouts
+- **[Bedrohung 8]** - 1x Hydra* oder 1x Medusa + 4x Scouts
+- **[Bedrohung 9]** - 1x Hydra + 4x Scouts
 
 > Lone Hydras can only currently be found in the Coalsack Nebula. Every Threat 8 in the Pleiades Nebula or the Witch Head Nebula will contain 1x Medusa + 4x Scouts. **With one exception**: The system Pleiades Sector MI-S B4-0 contains Solo Hydras, present in both regular and guaranteed Threat 8 signal sources 
 > 
