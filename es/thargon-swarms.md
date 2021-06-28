@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
 ---
 
-# Enjambres Thargoids
+# Enjambres Thargons
 
 Cada Interceptor puede desplegar y controlar un enjambre de Thargons, que consta de 32, 64, 96 y 128 Thargons para las variantes Cíclope, Basilisco, Medusa e Hydra respectivamente.
 
@@ -16,8 +16,8 @@ Durante los combates planetarios, el Interceptor no desplegará enjambres.
 
 **El enjambre de Thargon tiene dos métodos para infligir daño:**
 
-- **Proyectiles cáusticos** que hacen un gran daño a los escudos y los penetran, infligiendo daño al casco. Contra objetivos sin escudo, estos proyectiles son muy inexactos y el enjambre fallará la mayoría de sus disparos. La firma de calor no afecta visiblemente a su precisión, pero cambiar rápidamente su vector o rodar lo protegerá un poco. Este ataque tiene un alcance máximo de alrededor de 2 km. A pesar del nombre, estos no acumulan daños cáusticos, sino que infligen daño cáustico, que se efectúa por módulos como el Paquete de Refuerzo del Casco Guardián.
-- **Misiles Kamikaze** que matan al Thargon, pero infligen daños masivos en el casco y el módulo. Los misiles son rápidos (aproximadamente 600 m/s) pero de corta duración. Contra un objetivo sin Escudos, estos harán un daño tremendo, pero una construcción con Escudos y con 4 pips a SYS debería sobrevivir a una volea de misil regular con relativa facilidad. Sin escudos, estos pueden potencialmente destruir módulos de 1 disparo incluso a través de un paquete de refuerzo de módulo guardián. Estos misiles parecen causar daños por colisión, ya que no interrumpen la síntesis ni reinicios. Este ataque se dispara dentro de los 3 km de alcance, y solo si el enjambre está en formación de misiles.
+- **Proyectiles cáusticos** que hacen un gran daño a los escudos y los penetran, infligiendo daño al casco. Contra objetivos sin escudo, estos proyectiles son muy inexactos y el enjambre fallará la mayoría de sus disparos. La firma de calor no afecta visiblemente a su precisión, pero cambiar rápidamente su vector o rodar lo protegerá un poco. Este ataque tiene un alcance máximo de alrededor de 2 km. A pesar del nombre, estos no causan efectos cáusticos, sino que infligen daño cáustico directo, que puede ser minimizado por módulos como el Paquete de Refuerzo del Casco Guardián.
+- **Misiles Kamikaze** que matan al Thargon, pero infligen daños masivos en el casco y el módulo. Los misiles son rápidos (aproximadamente 600 m/s) pero de corta duración. Contra un objetivo sin Escudos, estos harán un daño tremendo, pero una construcción con Escudos y con 4 pips a SIS debería sobrevivir a una volea de misil regular con relativa facilidad. Sin escudos, estos pueden potencialmente destruir módulos de 1 disparo incluso a través de un paquete de refuerzo de módulo guardián. Estos misiles parecen causar daños por colisión, ya que no interrumpen la síntesis ni reinicios. Este ataque se dispara dentro de los 3 km de alcance, y solo si el enjambre está en formación de misiles.
 
 If a non-aggressive Interceptor’s personal space is invaded (500m), it will deploy a warning swarm as well as glow red and ‘threaten’ the pilot who got too close. This swarm will not immediately attack, but instead will circle around the Interceptor, ready to engage at a moment’s notice. If the threat backs away, the Interceptor will recall the swarm and continue its previous actions. If it does not, the swarm will detach and the battle begins.
 

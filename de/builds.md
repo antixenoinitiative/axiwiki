@@ -30,107 +30,107 @@ Dies sind die häufigsten Arten von Builds für die AX-Jagt.
 
 -   **schnelle, ungeschützte Builds** (Schiffe zum kalten umkreisen) - Schnelle Schiffe, die keinen Schild haben und im kalten Orbit sind, um Schaden auszuweichen. (Mittelmäßig)
 
--   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically (Moderate/Advanced)
+-   ** langsame, geschützte Builds** (Schild Festungen) - Langsame Schiffe mit starken Schilden, die regelmäßig einen Neustart machen, um ihre Schilde zu regenerieren (Mittel/Fortgeschritten)
 
 
-## Beginner Builds
+## Anfänger-Builds
 
-These builds all utilize shields to provide a more familiar style of combat, while also being equipped for cold orbiting techniques. If you are looking to ease into AX combat, shielded builds are recommended because of their ease of use on Cyclops and Basilisk variant Interceptors. These ships fall under two categories: Bi-Weave Hybrids, which make use of Cold Orbiting techniques but provide shields as a backup, and Shield Tanks, which rely on massive raw shield MJ to keep them alive.
+Alle folgenden Builds benutzen einen Schild, um die Familirarität im Kampfstil zu bewahren und dennoch in einen kalten Orbit gehen zu können. Wenn du einen einfachen Einstieg in die AX-Jagt suchst, sind geschützte Builds empfohlen, weil man einen Cyclops oder Basilisk einfach bekämpfen kann. Hier gibt es zwei Arten von Schiffen: Bi-Weave Hybride, die in einen kalten Orbit gehen können und den Schild als Notlösung haben, und die Schild-Panzer, die eher auf reine Schild-MJ setzten.
 
 ## Tabset {.tabset}
 
-### Krait Mk.II (Shielded)
+### Krait Mk.II (Schild)
 
-#### **Krait Mk.II (Shielded)**
+#### **Krait Mk.II (Schild)**
 
-The most commonly recommended and best all-round AX ship for anyone interested in killing Thargoids, the Krait Mk.II has enough firepower to kill the tougher interceptors while also having enough shields and hull to be able to recover from a few mistakes. A very capable AX vessel, although the shielded version can only go so far.
+Das meist empfohlene und beste all-round AX-Schiff für jeden der sich auf die Jagt begeben will. Die Kait Mk.II hat genug Feuerkraft, um die stärkeren Interceptor zu töten und auch genug Schild und Rumpf, um ein paar Schläge einzustecken. Ein AX-Schiff mit potenzial, aber die Version mit Schild kann nur so viel.
 
-Type: **Bi-Weave Hybrid**
+Typ: **Bi-Weave Hybrid**
 
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐
-- Shield: ⭐⭐⭐⭐
-- Armour: ⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
+- Geschwindigkeit: ⭐⭐⭐⭐⭐
+- Beweglichkeit: ⭐⭐⭐
+- Schild: ⭐⭐⭐⭐
+- Rüstung: ⭐⭐⭐
+- Feuerkraft: ⭐⭐⭐⭐
 
-Recommendation: Best starting ship for new pilots in AX.
+Empfehlung: Bestes Starterschiff für neue Piloten.
 
-[Coriolis Shielded Build](https://s.orbis.zone/f8l4)
+[Coriolis Schild-Build](https://s.orbis.zone/f8l4)
 
-[EDSY Shielded Build](https://edsy.org/s/vbLKqFW)
+[EDSY Schild-Build](https://edsy.org/s/vbLKqFW)
 
 AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
 Note: While this build uses Lo-Draw on the shields, Fast Charge experimental is also a great option that requires more pip management but faster recharge.
 
-### Alliance Chieftain (Shielded)
+### Alliance Chieftain (Schild)
 
-#### **Alliance Chieftain (Shielded)**
+#### **Alliance Chieftain (Schild)**
 
-The Alliance Chieftain, similar to the Krait Mk.II is a very capable AX Ship. The Chieftain has slightly lower overall firepower but is able to equip a Thermal Vent Beam laser allowing pilots to begin to learn cold orbiting techniques. Much more agile than the Krait Mk.II, this build is perfect for people looking to fly the meta shieldless Chieftain but still want the comfort of shields.
+Der Alliance Chieftan ist, wie der Krait Mk.II ein sehr fähiges AX-Schiff. Der Chieftan hat zwar genneraell etwas weniger Feuerkraft, kann aber ein Thermal Vent Strahlenlaser ausrüsten, was es Piloten vereinfacht, den kalten Orbit zu lernen. Viel agiler als der Krait Mk.II, ist der Build perfekt für Leute, die vorhaben den Meta-Chieftan ohne Schild zu fliegen, aber die Sicherheit eines Schilds wollen.
 
-Type: **Bi-Weave Hybrid**
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐⭐⭐
-- Shield: ⭐⭐
-- Armour:   ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐
+Typ: **Bi-Weave Hybrid**
+- Geschwindigkeit: ⭐⭐⭐⭐⭐
+- Beweglichkeit: ⭐⭐⭐⭐⭐
+- Schild: ⭐⭐
+- Rüstung: ⭐⭐⭐⭐
+- Feuerkraft: ⭐⭐⭐
 
-Recommendation: Good upgrade path for confident pilots. More potential in the long run.
+Empfehlung: Ein gutes Upgrade für selbstsichere Piloten. Hat später mehr Potenzial.
 
-[Coriolis Shielded Build](https://s.orbis.zone/eua5)
+[Coriolis Schild-Build](https://s.orbis.zone/eua5)
 
-[EDSY Shielded Build](https://edsy.org/s/vgDtxz2)
+[EDSY Schild-Build](https://edsy.org/s/vgDtxz2)
 
-AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
+AX-Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
 
-### Imperial Cutter (Shielded)
+### Imperial Cutter (Schild)
 
-#### **Imperial Cutter (Shielded)**
+#### **Imperial Cutter (Schild)**
 
-If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
+Wenn du lieber große Schiffe fliegen möchtest, dann ist der Imperial Cutter für dich. Von allen großen Schiffen ist der Cutter der einzige, der schnell genug ist, um vor einem Thargoid Interceptor zu fliehen. Der Cutter braucht Prismatische Schilde, um große Mengen an Schade zu fressen. Wenn du den Cutter spielen möchtest, empfehlen wir dir den Anti-Xeno Große Schiffe Leitfaden zu lesen.
 
-Type: **Shield Tank**
+Typ: **Schild Festung**
 
-- Speed: ⭐⭐⭐⭐
-- Agility: ⭐⭐
-- Shield: ⭐⭐⭐⭐⭐
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
+- Geschwindigkeit: ⭐⭐⭐⭐
+- Beweglichkeit: ⭐⭐
+- Schild: ⭐⭐⭐⭐⭐
+- Rüstung: ⭐⭐⭐⭐
+- Feuerkraft: ⭐⭐⭐⭐
 
-Recommendation: Different fighting style and generally very capable with weaker Interceptors. Becomes much harder for tougher variants.
+Empfehlung: Ein abwechselnder Kampfstil und insgesammt sehr zuverlässig mit schwächeren Interceptern. Wird sehr viel schwieriger mit stärkeren Varianten.
 
-[Coriolis Shielded Build](https://s.orbis.zone/3wbf)
+[Coriolis Schild-Build](https://s.orbis.zone/3wbf)
 
-[EDSY Shielded Build](https://is.gd/DgmHXb)
+[EDSY Schild-Build](https://is.gd/DgmHXb)
 
-## Intermediate Builds
+## Mittelschwere Builds
 
-These builds are targeted at more experienced commanders, either those who have flown the above ships against Thargoids before or have prior PVP combat experience. These ships are generally more capable than the beginner builds, and are better suited for all variants of Interceptors. These builds are cold orbiters, which make use of Cold Orbiting to evade most damage and repair limpets repair hull damage sustained.
+Diese Build sind eher für erfahrene Kommandanten, entweder die, die oben genannten Schiffe gegen Thargoids geflogen haben, oder die schon Erfahrung im Kampf hatten. Diese Schiffen haben mehr Potenzial als Anfängerschiffe und sind besser gegen alle Arten von Interceptor gewappnet. Diese Builds basieren auf dem kalten Orbit, um dem meisten Schaden auszuweichen und nutzen dann Reparaturdrohnen, die Schaden am Rumpf reparieren.
 
 ## Tabset {.tabset}
 
-### Alliance Chieftain (Unshielded)
+### Alliance Chieftain (ohne Schild)
 
-#### **Alliance Chieftain (Unshielded)**
+#### **Alliance Chieftain (ohne Schild)**
 
-The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-de-Lance in PVP. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
+Der ungeschützte Alliance Chieftan ist objektiv das beste AX-Schiff, genauso wie die Fer-de-Lance es im Kampf gegen Spieler ist. Mit starkem Rumpf, viel Laderaum, guter Beweglichkeit und Feuerkraft kann der Chieftain auch einfach einen kalten Orbit erhalten, während er verheerende Gauss Schüsse abfeuert. Seine großen Aufhängungen erlauben es vier Gauss Kannonen, eine Flak und einen Thermal Vent Strahlenlaser auszustatten. Sein Zwillingsschiff, der Alliance Challanger, teilt mehr Schaden aus, ist aber langsamer.
 
-Type: **Cold**
+Typ: **Kalter Orbiter**
 
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐⭐⭐
-- Shield:
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐
+- Geschwindigkeit: ⭐⭐⭐⭐⭐
+- Beweglichkeit: ⭐⭐⭐⭐⭐
+- Schild:
+- Rüstung: ⭐⭐⭐⭐
+- Feuerkraft: ⭐⭐⭐
 
-Recommendation: Unarguably the best ship and build style for AX combat.
+Empfehlung: Einfach das beste Schiff und Build für die AX-Jagt.
 
-[Coriolis Meta Shieldless Build](https://s.orbis.zone/eu9w)
+[Coriolis Meta Schildlose-Build](https://s.orbis.zone/eu9w)
 
-[EDSY Meta Shieldless Build](https://edsy.org/s/vwJ9Lqq)
+[EDSY Meta Schildlose Build](https://edsy.org/s/vwJ9Lqq)
 
-AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
+AX-Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
 ### Krait Mk.II (Unshielded)
 
 #### **Krait Mk.II (Unshielded)**
