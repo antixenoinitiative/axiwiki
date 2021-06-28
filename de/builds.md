@@ -106,31 +106,31 @@ Empfehlung: Ein abwechselnder Kampfstil und insgesammt sehr zuverlässig mit sch
 
 ## Mittelschwere Builds
 
-Diese Build sind eher für erfahrene Kommandanten, entweder die, die oben genannten Schiffe gegen Thargoids geflogen haben, oder die schon Erfahrung im Kampf hatten. These ships are generally more capable than the beginner builds, and are better suited for all variants of Interceptors. These builds are cold orbiters, which make use of Cold Orbiting to evade most damage and repair limpets repair hull damage sustained.
+Diese Build sind eher für erfahrene Kommandanten, entweder die, die oben genannten Schiffe gegen Thargoids geflogen haben, oder die schon Erfahrung im Kampf hatten. Diese Schiffen haben mehr Potenzial als Anfängerschiffe und sind besser gegen alle Arten von Interceptor gewappnet. Diese Builds basieren auf dem kalten Orbit, um dem meisten Schaden auszuweichen und nutzen dann Reparaturdrohnen, die Schaden am Rumpf reparieren.
 
 ## Tabset {.tabset}
 
-### Alliance Chieftain (Unshielded)
+### Alliance Chieftain (ohne Schild)
 
-#### **Alliance Chieftain (Unshielded)**
+#### **Alliance Chieftain (ohne Schild)**
 
-The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-de-Lance in PVP. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
+Der ungeschützte Alliance Chieftan ist objektiv das beste AX-Schiff, genauso wie die Fer-de-Lance es im Kampf gegen Spieler ist. Mit starkem Rumpf, viel Laderaum, guter Beweglichkeit und Feuerkraft kann der Chieftain auch einfach einen kalten Orbit erhalten, während er verheerende Gauss Schüsse abfeuert. Seine großen Aufhängungen erlauben es vier Gauss Kannonen, eine Flak und einen Thermal Vent Strahlenlaser auszustatten. Sein Zwillingsschiff, der Alliance Challanger, teilt mehr Schaden aus, ist aber langsamer.
 
-Type: **Cold**
+Typ: **Kalter Orbiter**
 
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐⭐⭐
-- Shield:
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐
+- Geschwindigkeit: ⭐⭐⭐⭐⭐
+- Beweglichkeit: ⭐⭐⭐⭐⭐
+- Schild:
+- Rüstung: ⭐⭐⭐⭐
+- Feuerkraft: ⭐⭐⭐
 
-Recommendation: Unarguably the best ship and build style for AX combat.
+Empfehlung: Einfach das beste Schiff und Build für die AX-Jagt.
 
-[Coriolis Meta Shieldless Build](https://s.orbis.zone/eu9w)
+[Coriolis Meta Schildlose-Build](https://s.orbis.zone/eu9w)
 
-[EDSY Meta Shieldless Build](https://edsy.org/s/vwJ9Lqq)
+[EDSY Meta Schildlose Build](https://edsy.org/s/vwJ9Lqq)
 
-AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
+AX-Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
 ### Krait Mk.II (Unshielded)
 
 #### **Krait Mk.II (Unshielded)**
