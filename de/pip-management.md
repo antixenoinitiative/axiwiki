@@ -3,7 +3,7 @@ title: Leitfaden für Pip-Management
 description: Wie man Pips am besten im Thargoid-Kampf steuern kann
 published: true
 date: 2021-06-21T02:36:57.627Z
-tags: combat, controls
+tags: Gefecht, Steuerung
 editor: markdown
 dateCreated: 2021-06-21T02:36:55.841Z
 ---
