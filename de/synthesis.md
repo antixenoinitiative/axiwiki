@@ -33,8 +33,8 @@ Kühlkörper sind entscheidend, um Schiffstemperaturen auf niedrig zu halten, w�
 Nur einfache Kühlkörper Synthesen werden empfohlen, weil Standard und Premium keinen wirklich nutzvollen Vorteil bringen.
 
 ### Einfach
-- 2x Basic Conductors
-- 2x Heat Conduction Wiring
+- 2x Einfache Leiter
+- 2x Wärmeleitungsverdrahtung
 
 ## Flakwerfer mit Fernzündung
 Benötigt um Thargon-Schwärme zu bekämpfen, erwarte ein paar Synthesen für Basilisk und höhere Varianten. Nur einfache Flak Synthesen werden empfohlen, weil Standard und Premium keinen wirklich nutzvollen Vorteil bringen.
@@ -50,32 +50,32 @@ Guardian Gauss Kanonen sind derzeit die effektivste AX-Waffe. Aufgrund ihrer ger
 
 ### Einfach
 
-- 2x Focus Crystals
-- 2x Guardian Power Conduit
-- 3x Manganese
-- 4x Guardian Wreckage Components
+- 2x Laserkristalle
+- 2x Guardian-Energieleiter
+- 3x Mangan
+- 4x Guardian-Wache-Wrackteilkomponente
 
 ### Standard (+15% Schaden)
 
-- 3x Heat Resistant Ceramics
-- 3x Guardian Sentinel Weapon Parts
-- 4x Guardian Power Conduits
-- 5x Manganese
-- 5x Focus Crystals
+- 3x Hitzefeste Keramik
+- 3x Guardian-Wache-Waffenteile
+- 4x Guardian-Energieleiter
+- 5x Mangan
+- 5x Laserkristalle
 
 ### Premium (+30% Schaden)
 
-- 6x Filament Composites
-- 6x Guardian Technology Components
-- 8x Manganese
-- 10x Focus Crystals
+- 6x Filament-Komposite
+- 6x Guardian-Technologiekomponente
+- 8x Mangan
+- 10x Laserkristalle
 
 Für die maximal möglichen Premium Gauss Synthesen benötigt man:
 
-- 200x Focus Crystals
-- 160x Manganese
-- 120x Filament Composites
-- 120x Guardian Tech Components
+- 200x Laserkristalle
+- 160x Mangan
+- 120x Filament-Komposite
+- 120x Guardian-Technologiekomponente
 
 ## Drohnen
 Für Reparaturen und Dekontamination.
@@ -87,7 +87,7 @@ Für Reparaturen und Dekontamination.
 ## AFMU-Nachfüllungen
 Bei längeren Kämpfen muss man die Autoamtische Feldwartungs Einheit (AFMU) mehrmals auffüllen, um die Modulverstärkungen und andere Module bei voller Integrität zu halten.
 
-Nur einfache AFMU Synthesen werden empfohlen, weil Standard und Premium keinen wirklich nutzvollen Vorteil bringen.
+Nur einfache AFMU Synthesen werden empfohlen, da Standard und Premium keinen wirklich nutzvollen Vorteil bringen.
 
 ### Einfach
 - 2x Nickel
