@@ -136,8 +136,8 @@ Die Basilisk Variante hat eine Höchstgeschwindigkeit von 530 m/s. Der Chieftain
 # Schwarm Bewältigung
 Der Zweck, beim Start des Kampfes, den Schwarm zuerst zu bekämpfen, besteht darin, den „ausbewahrten“ Schwarm des Interceptors aus dem Kampf zu nehmen. Immer wenn ein Interceptor angegriffen wird und das Herz zuerst zerstört wird, wird der aufbewahrte Schwarm zuerst freigesetzt und man müsste insgesammt mit zwei Schwärmen kämpfen. Den aufbewahrten Schwarm aus dem Kampf zu nehmen erlaubt sich in der gegebenen Zeit effektiver auf die folgenden Herzen zu fokussieren.
 
-# Zweck des kalten Orbits
-- Mit dem kühlen Umfliegen kann man den Schaden des Interceptors umgehen, indem man Geschwindigkeit, Distanz und einen Wärmeausstoß von unter 20% beibehält während man sich in 15° Winkel zu den Hauptgeschützen des Interceptors hält. Diese Taktik wird von vielen erfahrenen AX Kommandanten verwendet, um jegliche Art von Schaden an ihrem Schiff zu verhindern, was es ihnen erlaubt den Kampfzyklus fortzusetzen ohne, dass Module repariert werden müssen, was wertvolle Zeit in spart, vor allem bei fortgeschritteneren Interceptor Varianten.
+# Zweck der cold-Orbit Technik
+- Mit der cold-Orbit Technik kann man dem Schaden des Interceptors ausweichen, indem man Geschwindigkeit, Distanz und einen Wärmeausstoß von unter 20% beibehält während man sich in 15° Winkel zu den Hauptgeschützen des Interceptors bewegt. Diese Taktik wird von vielen erfahrenen AX Kommandanten verwendet, um jegliche Art von Schaden an ihrem Schiff zu verhindern, was es ihnen erlaubt den Kampfzyklus fortzusetzen ohne, dass Module repariert werden müssen, was wertvolle Zeit in spart, vor allem bei fortgeschritteneren Interceptor Varianten.
 -
 - Das kühle Umfliegen ist dazu auch die Grundlegende Flugtaktik für fortgeschrittene Interceptor Bekämpfung, wenn man kleinere Schiffe nutzen will. Vorallem für den Umgang mit dem Thargon Schwarm auf kleinen Schiffen, welche keine Flak ausrüsten können. (Übersteigt diesen Leitfaden)
 -
