@@ -1,6 +1,6 @@
 ---
-title: Thargoid Hearts
-description: All Thargoids have a specific number of internal modules known as hearts, these grant the Thargoid Interceptor very fast hull regeneration.
+title: Les cœurs thargoids
+description: Tous les thargoids ont un certain nombre de modules internes connus sous le nom de cœurs. Ils permettent aux intercepteurs Thargoid une régénération de coque très rapide.
 published: true
 date: 2021-06-17T00:35:52.830Z
 tags: combat, thargoids, interceptors, hearts
@@ -8,16 +8,16 @@ editor: markdown
 dateCreated: 2021-06-17T00:35:26.084Z
 ---
 
-# Thargoid Hearts
-All Thargoids have a specific number of internal modules known as hearts, these grant the Thargoid Interceptor very fast hull regeneration. The hearts are positioned around the outside of the Interceptor as petals, depending on the variant you will be able to break a number of these petals off completely, indicating that the heart has been broken
+# Les cœurs thargoids
+Tous les thargoids ont un certain nombre de modules internes connus sous le nom de cœurs. Ils permettent aux intercepteurs Thargoid une régénération de coque très rapide. Les cœurs sont positionnés aux extrémités des pétales de l'intercepteur et, selon la variante, vous pourrez détruire un certain nombre de ces pétales, ce qui indiquera que le cœur se situant dessus a été détruit également.
 
-## Regeneration
+## Régénération
 
-Thargoid Hearts give the Interceptor incredibly fast regeneration, this will make destroying the Interceptor nearly impossible until all hearts are broken.
+Les cœurs Thargoid donnent à l'intercepteur une régénération incroyablement rapide, ce qui rend la destruction de l'intercepteur quasiment impossible avant que tous les cœurs soient détruits.
 
-## Exertion
+## Extraction
 
-Thargoid Hearts are immune to damage by default. However you can make the hearts vulnerable by dealing enough damage to the Thargoid Interceptor and **Exerting** the heart. You must deal 20% of the remaining total hull to cause the heart to become exerted. Once exerted, the Thargoid will regenerate its health rapidly and the Heart will begin glowing brightly for ~45 seconds.
+Par défaut, les cœurs Thargoid sont immunisés aux dégâts. Cependant, vous pouvez rendre les cœurs vulnérables en infligeant suffisamment de dégâts à l'intercepteur Thargoid. Ainsi, ils seronts **extraits**. Vous devez lui infliger 20% de sa coque totale restante pour qu'un cœur soit extrait. A ce moment-là, le thargoid se régénérera très rapidement et le cœur commencera à briller pendant environ 45 secondes, temps pendant lequel il sera vulnérable.
 
 ## {.tabset}
 
