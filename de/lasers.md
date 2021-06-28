@@ -17,9 +17,9 @@ Insgesamt sind menschliche Waffen im Anti-Xeno-Kampf weitgehend nutzlos. Es gibt
 
 Die beliebteste Variante ist der Thermische Entlastungs-Langstrecken-Strahl-Laser.
 
-The primary function is its cooling effect which comes from the experimental effect ‘Thermal Vent’. AX pilots can use the TV beam to cool their ship below the 20% heat threshold outside of an attack run (when not exerting and destroying hearts).
+Die primäre Funktion ist die kühlende Wirkung, die durch den experimentellen Effekt " Thermische Entlastung" entsteht. AX pilots can use the TV beam to cool their ship below the 20% heat threshold outside of an attack run (when not exerting and destroying hearts).
 
-The main example of this function is cooling down when starting the attack run. Here the long range modification proves its worth. Since the Interceptor does not fire upon you unless you closer than 3 kilometers away, with the long range beam you can start cooling even at 6 kilometers away (G5) without having to waste a heatsink on the approach (minimum recommended engineering is G3).
+Das Hauptbeispiel für diese Funktion ist die Abkühlung beim Start des Angriffsvorgangs. Here the long range modification proves its worth. Since the Interceptor does not fire upon you unless you closer than 3 kilometers away, with the long range beam you can start cooling even at 6 kilometers away (G5) without having to waste a heatsink on the approach (minimum recommended engineering is G3).
 
 Another example is orbiting the Interceptor practically indefinitely without using heatsinks, which is useful when you need to quickly synth something, use your AFMU, or kite the Interceptor until your wingmates can rejoin the fight.
 
