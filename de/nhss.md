@@ -1,5 +1,5 @@
 ---
-title: Nichtmenschliche Signalquellen
+title: Nicht-menschliche Signalquellen (im englischen NHSS)
 description: Über nicht-menschliche Signalquellen und wie man Thargoids findet
 published: true
 date: 2021-06-15T10:52:49.181Z
