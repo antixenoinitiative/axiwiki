@@ -1,21 +1,21 @@
 ---
-title: Lasers
-description: Using laser in AX combat.
-published: true
+title: Laser
+description: Verwendung von Laser im AX-Kampf.
+published: ja
 date: 2021-06-10T06:08:40.833Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:07:02.325Z
 ---
 
-# Lasers
-`Guide by CMDR Naddesh and CMDR Ghosti`
+# Laser
+`Leitfaden von CMDR Naddesh und CMDR Ghost`
 
-Overall human weapons are largely useless in Anti-Xeno combat. There are however a few exceptions which give added utility and allow for certain special tactics that can greatly improve your combat prowess.
+Insgesamt sind menschliche Waffen im Anti-Xeno-Kampf weitgehend nutzlos. Es gibt jedoch ein paar Ausnahmen, die zusätzlichen Nutzen bringen und bestimmte Spezialtaktiken ermöglichen, mit denen die Kampffähigkeiten erheblich verbessert werden können.
 
-## Thermal Vent Beam Lasers
+## Thermische Entlastungslaser
 
-The most popular variant is the Thermal Vent Long Range Beam Laser.
+Die beliebteste Variante ist der Thermische Entlastungs-Langstrecken-Strahl-Laser.
 
 The primary function is its cooling effect which comes from the experimental effect ‘Thermal Vent’. AX pilots can use the TV beam to cool their ship below the 20% heat threshold outside of an attack run (when not exerting and destroying hearts).
 
