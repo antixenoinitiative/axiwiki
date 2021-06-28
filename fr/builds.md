@@ -1,5 +1,5 @@
 ---
-title: Equipements Recommandés
+title: Équipements Recommandés
 description: Vaisseaux Anti-Xéno
 published: true
 date: 2021-06-23T10:01:06.084Z
