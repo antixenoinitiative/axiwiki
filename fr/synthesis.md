@@ -1,40 +1,40 @@
 ---
-title: Synthesis
-description: Information on Sythnesis in AX combat.
+title: Synthèse
+description: Informations sur la Synthèse en combat AX.
 published: true
 date: 2021-06-10T07:08:32.143Z
-tags: engineering
+tags: ingénierie
 editor: markdown
 dateCreated: 2021-06-10T04:08:01.614Z
 ---
 
-# Synthesis
-For extended combat scenarios it is recommended that you bring materials for synthesizing more ammunition. We recommend carrying at least a few of the most important synths for each fight, nothing is more frustrating than having to leave a potential kill because you ran out of ammo.
+# Synthèse
+Dans des scénarios de combat prolongés il est recommandé d'apporter des matériaux pour synthétiser plus de munitions. Nous conseillons de transporter au moins une partie des matériaux les plus importants dans chaque combat. Rien n'est plus frustrant que de devoir abandonner un kill potentiel parce que vous n'avez plus de munitions.
 
-Solo Hydra will require at least 2-3 full Gauss synths for each hardpoint.
+Tuer seul une Hydra demandera au moins deux ou trois synthèses complètes de canon Gauss pour chaque point d'emport.
 
-## Synthesis Panel
+## Panneau de Synthèse
 
-Access the synthesis panel on the in-game UI through the following steps:
+Accédez au panneau de synthèse dans l'interface du jeu via les étapes suivantes :
 
-`Right Panel > Inventory > Second Last Menu > Synthesis Panel`
+`Panneau de droite > Inventaire > Avant-dernier menu > Panneau de Synthèse`
 
 !\[synthpanel1.png\](/img/synthpanel1.png =500x) !\[synthpanel2.png\](/img/synthpanel2.png =500x)
 
-# Required Materials
-> Calculate the exact amount you need with the [Synthesis Calculator](/en/synthesiscalculator) by CMDR Th3Hero 
+# Matériaux Nécessaires
+> Calculez le nombre exact de matériaux nécessaires avec le [Calculateur de Synthèse](/en/synthesiscalculator) par CMDR Th3Hero 
 > 
 > {.is-info}
 # {.tabset}
-## Heatsinks
+## Dissipateurs Thermiques
 
-Heatsinks are critical for reducing your ship's temperature to safe ranges while firing extended gauss volleys or avoiding damage with cold tactics.
+Les dissipateurs thermiques sont essentiels pour réduire la température de votre vaisseau à des plages plus sûres en tirant des volées continues de Gauss ou pour éviter des dégâts avec des tactiques de refroidissement.
 
-We recommend only using Basic heatsink synths as there is no useful benefit to standard or premium.
+Nous conseillons de n'utiliser que des synthèses basiques de dissipateurs thermiques, les synthèses standards ou premium n'ayant pas de réel avantage.
 
-### Basic
-- 2x Basic Conductors
-- 2x Heat Conduction Wiring
+### Basique
+- Conducteurs simples x2
+- Câblage de Conduction Thermique x2
 
 ## Remote Release Flak
 Required to deal with Thargon swarms, expect to use a few synths for Basilisk and higher fights. We recommend only using Basic Flak synths as there is no tangible benefit to standard or premium.
