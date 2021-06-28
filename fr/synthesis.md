@@ -11,7 +11,7 @@ dateCreated: 2021-06-10T04:08:01.614Z
 # Synthèse
 Dans des scénarios de combat prolongés il est recommandé d'apporter des matériaux pour synthétiser plus de munitions. Nous conseillons de transporter au moins une partie des matériaux les plus importants dans chaque combat. Rien n'est plus frustrant que de devoir abandonner un kill potentiel parce que vous n'avez plus de munitions.
 
-Tuer seul une Hydra demandera au moins deux ou trois synthèses complètes de canon Gauss pour chaque point d'emport.
+Tuer seul un Hydra demandera au moins deux ou trois synthèses complètes de canon Gauss pour chaque point d'emport.
 
 ## Panneau de Synthèse
 
@@ -34,64 +34,64 @@ Nous conseillons de n'utiliser que des synthèses basiques de dissipateurs therm
 
 ### Basique
 - Conducteurs simples x2
-- Câblage de Conduction Thermique x2
+- Câblage de conduction thermique x2
 
-## Remote Release Flak
-Required to deal with Thargon swarms, expect to use a few synths for Basilisk and higher fights. We recommend only using Basic Flak synths as there is no tangible benefit to standard or premium.
+## Lanceur antiaérien à distance
+Nécessaire pour gérer les essaims de Thargons, attendez-vous à devoir effectuer quelques synthèses pour les combats contre les Basilisks et les variantes plus difficiles. Nous conseillons de n'effectuer que des synthèses basiques de projectiles antiaériens, les synthèses standards et premium n'offrant aucun avantage concret.
 
-### Basic
+### Basique
 
-- 2x Sulfur
-- 3x Carbon
-- 4x Nickel
+- Soufre x2
+- Carbone x3
+- Nickel x4
 
-## Guardian Gauss Cannon
-Guardian Gauss Cannons are currently the most effective AX weapon and due to their low ammo total we recommend carrying a few synths for solo Medusa and higher. Premium Gauss Synths are strongly recommended for Hydra variant Interceptors.
+## Canon de Gauss Guardian
+Les Canons de Gauss Guardians sont actuellement les armes AX les plus efficaces et en raison de leur faible quantité totale de munitions nous conseillons de transporter de quoi effectuer quelques synthèses pour affronter un Medusa ou plus élevé en solo. Les synthèses Gauss premium sont fortement recommandées pour les intercepteurs de type Hydra.
 
-### Basic
+### Basique
 
-- 2x Focus Crystals
-- 2x Guardian Power Conduit
-- 3x Manganese
-- 4x Guardian Wreckage Components
+- Cristaux de focalisation x2
+- Conduit d'énergie - Guardians x2
+- Manganèse x3
+- Débris d'épave - Guardians x4
 
-### Standard (+15% dmg)
+### Standard (+15 % dégâts)
 
-- 3x Heat Resistant Ceramics
-- 3x Guardian Sentinel Weapon Parts
-- 4x Guardian Power Conduits
-- 5x Manganese
-- 5x Focus Crystals
+- Céramiques résistantes à la chaleur x3
+- Pièces d'armement de Sentinelle - Guardians x3
+- Conduit d'énergie - Guardians x4
+- Manganèse x5
+- Cristaux de focalisation x5
 
-### Premium (+30% dmg)
+### Premium (+30% dégâts)
 
-- 6x Filament Composites
-- 6x Guardian Technology Components
-- 8x Manganese
-- 10x Focus Crystals
+- Composites filamentaires x6
+- Composants technologiques - Guardians x6
+- Manganèse x8
+- Cristaux de focalisation x10
 
-For the maximum possible Premium Gauss synths you will need:
+Pour le nombre maximum de synthèse de Gauss premium vous aurez besoin de :
 
-- 200x Focus Crystals
-- 160x Manganese
-- 120x Filament Composites
-- 120x Guardian Tech Components
+- Cristaux de focalisation x200
+- Manganèse x160
+- Composites filamentaires x120
+- Composants technologiques - Guardians x120
 
-## Limpets
-For repairs and decontamination limpets.
+## Drones
+Pour les drones de réparation et de décontamination.
 
-### Basic
-- 10x Iron
-- 10x Nickel
+### Basique
+- Fer x10
+- Nickel x10
 
-## AFM Refills
-In longer fights, you will need to refill your AFMU multiple times to keep your Module Reinforcements and other modules at full integrity.
+## Réapprovisionnement MAE
+Dans des combats plus longs, vous aurez besoin de recharger votre AFMU plusieurs fois pour garder vos Renforcements de Modules et autres modules à leur intégrité maximale.
 
-We recommend only using Basic AFM refills as there is no useful benefit to standard or premium.
+Nous conseillons de n'utiliser que des réapprovisionnement MAE basiques, les synthèses standards ou premium n'ayant aucun réel avantage.
 
-### Basic
-- 2x Nickel
-- 2x Zinc
-- 2x Chromium
-- 3x Vanadium
+### Basique
+- Nickel x2
+- Zinc x2
+- Chrome x2
+- Vanadium x3
 
