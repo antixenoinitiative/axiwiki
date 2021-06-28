@@ -41,8 +41,8 @@ Benötigt um Thargon-Schwärme zu bekämpfen, erwarte ein paar Synthesen für Ba
 
 ### Einfach
 
-- 2x Sulfur
-- 3x Carbon
+- 2x Schwefel
+- 3x Kohlenstoff
 - 4x Nickel
 
 ## Guardian Gauss Kanone
