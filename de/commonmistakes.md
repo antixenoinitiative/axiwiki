@@ -3,7 +3,7 @@ title: Häufige Fehler
 description: Ohne ein solides Verständnis der AX-Mechanik kann man bei der Zusammenstellung eines AX-Schiffes sehr leicht einfache Fehler machen.
 published: ja
 date: 2021-06-10T07:25:30.677Z
-tags: builds, outfitting, engineer
+tags: Aufbau, Ausrüsten, Ingenieur
 editor: markdown
 dateCreated: 2021-06-10T07:16:26.785Z
 ---
@@ -23,7 +23,7 @@ Düppel beeinflussen Thargoiden in keiner Weise, der Einsatz von Düppel im AX-K
 Ähnlich wie Düppel haben elektronische Gegenmassnahmen keine Wirkung auf Thargoid-Raketen oder andere Waffensysteme.
 
 ## Schiffsgestartete Kampfjets
-Ein etwas kontroverses Thema, da es immer noch einige besondere Verwendungszwecke für diese gibt, aber in typischen AX-Kämpfen sind schiffsgestartete Kampfjets (SLFs) mehr ein Ärgernis als ein Vorteil. Aufgrund ihrer papierdünnen Hülle, dem mittelmässigen Schaden und der lächerlichen Lebensdauer ist selbst ein SLF in den Händen eines guten Piloten immer noch weniger vorteilhaft, als wenn man den gleichen Modulslot vielleicht für etwas mehr Panzerung verwenden würde. Keep in mind that an AI pilot will also be taking a cut of all profits and rank obtained in the meantime too.
+Ein etwas kontroverses Thema, da es immer noch einige besondere Verwendungszwecke für diese gibt, aber in typischen AX-Kämpfen sind schiffsgestartete Kampfjets (SLFs) mehr ein Ärgernis als ein Vorteil. Aufgrund ihrer papierdünnen Hülle, dem mittelmässigen Schaden und der lächerlichen Lebensdauer ist selbst ein SLF in den Händen eines guten Piloten immer noch weniger vorteilhaft, als wenn man den gleichen Modulslot vielleicht für etwas mehr Panzerung verwenden würde. Denk dran, dass AI-Piloten einen teil des Gewinnes und des Rang Fortschrittes abkriegen, auch wenn sie inaktiv sind.
 
 Ausserdem:
 - SLF wird den Schwarm aggro machen, so dass er unberechenbar fliegt und somit schwerer zu zerstören ist
@@ -38,12 +38,12 @@ Fernauslöser Flak Werfer und Fernauslöser Flechette Werfer sind leicht zu verw
 
 > Flak ist super effektiv gegen Thargon-Schwärme
 > 
-> Flechette is not… 
+> Flechette ist dies nicht… 
 > 
 > {.is-warning}
 
 
-## Resistances
+## Widerstände
 Thargoid-Waffen verursachen absoluten/ätzenden Schaden, das bedeutet jegliche Thermo-/Kinetik-/Explosions-Resistenzen auf den Schilden oder der Hülle sind wirkungslos und werden komplett umgangen. Konzentrieren Sie sich nur auf die absoluten Schild- und Hüllenwerte. Widerstand ist zwecklos.
 
 ## Waffen
