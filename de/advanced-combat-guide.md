@@ -1,6 +1,6 @@
 ---
 title: Fortgeschrittener Gefechtsleitfaden
-description: Basierend auf der Odysseus-Doktrin von KMDT Avasa Siuu
+description: Basierend auf dem Odysseus-Leitfaden von CMDR Avasa Siuu
 published: true
 date: 2021-06-17T04:01:30.341Z
 tags: Ausrüstung, Gefecht, Thargoids, Interceptors
@@ -137,9 +137,9 @@ Die Basilisk Variante hat eine Höchstgeschwindigkeit von 530 m/s. Der Chieftain
 Der Zweck, beim Start des Kampfes, den Schwarm zuerst zu bekämpfen, besteht darin, den „ausbewahrten“ Schwarm des Interceptors aus dem Kampf zu nehmen. Immer wenn ein Interceptor angegriffen wird und das Herz zuerst zerstört wird, wird der aufbewahrte Schwarm zuerst freigesetzt und man müsste insgesammt mit zwei Schwärmen kämpfen. Den aufbewahrten Schwarm aus dem Kampf zu nehmen erlaubt sich in der gegebenen Zeit effektiver auf die folgenden Herzen zu fokussieren.
 
 # Zweck der cold-Orbit Technik
-- Mit der cold-Orbit Technik kann man dem Schaden des Interceptors ausweichen, indem man Geschwindigkeit, Distanz und einen Wärmeausstoß von unter 20% beibehält während man sich in 15° Winkel zu den Hauptgeschützen des Interceptors bewegt. Diese Taktik wird von vielen erfahrenen AX Kommandanten verwendet, um jegliche Art von Schaden an ihrem Schiff zu verhindern, was es ihnen erlaubt den Kampfzyklus fortzusetzen ohne, dass Module repariert werden müssen, was wertvolle Zeit in spart, vor allem bei fortgeschritteneren Interceptor Varianten.
+- Mit der cold-Orbit Technik kann man dem Schaden des Interceptors ausweichen, indem man Geschwindigkeit, Distanz und einen Wärmeausstoß von unter 20% beibehält während man sich in 15° Winkel zu den Hauptgeschützen des Interceptors bewegt. Diese Technik wird von vielen erfahrenen AX Kommandanten verwendet, um jegliche Art von Schaden am eigenen Schiff zu verhindern, was es ihnen erlaubt den Kampfzyklus fortzusetzen ohne, dass Module repariert werden müssen. Das spart wertvolle Zeit, vor allem bei fortgeschritteneren Interceptor Varianten.
 -
-- Das kühle Umfliegen ist dazu auch die Grundlegende Flugtaktik für fortgeschrittene Interceptor Bekämpfung, wenn man kleinere Schiffe nutzen will. Vorallem für den Umgang mit dem Thargon Schwarm auf kleinen Schiffen, welche keine Flak ausrüsten können. (Übersteigt diesen Leitfaden)
+- Die cold-Orbit Technik ist außerdem auch die grundlegende Flugtechnik für fortgeschrittene Interceptor Bekämpfung. Besonders zur Bewältigung des Thargon Schwarms mit kleinereren Schiffen, die keine Flak aurüsten können. (Übersteigt diesen Leitfaden)
 -
 - Die Menge an Kühlkörpern, die hier empfohlen wird, sollte die Zerstörung jedes Herzens auf allen Varianten ermöglichen, solange der Kommandant eine 0,9-1,5km Umlaufbahn einhält und damit die Schadensleistung der Gauss Kanonen komplett ausreizt.
 
