@@ -43,7 +43,7 @@ Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der C
 - 2B Guardian Gausskanone x2 (In den zwei Großen Slots)
 - 2B Flakwerfer mit Fernzündung (Mittlerer Slot)
 - 1D Guardian Gausskanone x2 (In den zwei kleinen slots links und rechts am Schiff)
-- 1G Strahlenlaser (Long Range/Thermal Vent in dem mittleren kleinen slot)
+- 1G Strahlenlaser (große Reichweite/Thermische Entlastung in dem mittleren kleinen slot)
 
 ## Werkzeuge
 - 3x OI Kühlkörperwerfer (Ammo Capacity)
@@ -60,7 +60,7 @@ Der Zweck der aufgelisteten Ingenieure ist es, die notwendigen Ingenieure für E
 - G5 Panzerung (Heavy Duty/Deep Plate)
 - Hera Tani (Kuwemaki) - G5 Kraftwerk (Armored/Thermal Spread)
 - Professor Palin (Arque) - G5 Schubdüsen (Dirty/Drag Drives)
-- Broo Tarquin (Muang) - G5 Strahlenlaser (Long Range/Thermal Vent)
+- Broo Tarquin (Muang) - G5 Strahlenlaser (Große Reichweite/Thermische Entlastung)
 - Ram Tah (Meene) - Kühlkörperwerfer (Ammo Capacity)
 
 ## Optionale Ingenieure:
