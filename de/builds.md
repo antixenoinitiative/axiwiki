@@ -159,11 +159,11 @@ Weitere fortgeschrittene Builds findet man auf der Fortgeschrittene Builds Seite
 Und noch mehr Builds findet man in unserem [Schiff Build Archiv](/en/buildrepository). Dort sind viele Schiff-Builds mit deren Statistiken, Werten und Build-Links, entworfen von erfahrenen AXI Piloten.
 
 # Scout Builds
-Scouts zu jagen ist eine sehr effiziente Methode seinen Kampfrang zu erhöhen. Das liegt daran, dass Scouts als Gefährliche oder Tödliche Ziele angesehen werden und eine Menge Erfahrung pro Kill geben. Aufgrund ihres **77% Widerstands** gegen menschliche Waffen ist es sehr ineffizient, normale Waffen gegen Scouts einzusetzen. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
+Scouts zu jagen ist eine sehr effiziente Methode seinen Kampfrang zu erhöhen. Das liegt daran, dass Scouts als Gefährliche oder Tödliche Ziele angesehen werden und eine Menge Erfahrung pro Kill geben. Aufgrund ihres **77% Widerstands** gegen menschliche Waffen ist es sehr ineffizient, normale Waffen gegen Scouts einzusetzen. Wegen der unvorhersehbaren Flugart von Scouts empfehlen wir dringend den Einsatz von großen auf Geschützturm montierten Anti-Xeno Mehrfachgeschützen als effektivste Waffe für die Jagd von Scouts.
 
-These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. Keep in mind that there is a limit of 4 AX Weapons per vessel.
+Sie sind dafür am besten geeignet, da sie von dem 77% hohen Widerstand nicht betrffen sind. Sie können auf dem Ziel bleiben und sind effizient im Munitionsverbrauch. Behalte bei der Planung das Limit von höchstens 4 experimentellen Waffen pro Schiff im Kopf.
 
-## Extra Modules Suggested
+## Weitere vorgeschlagene Module
 - **Decontamination Limpet Controller (and Cargo Racks)** - For when hit by caustic missiles.
 - **Xeno Scanner (optional)** - Lets you see scout health %.
 - **Hull Reinforcements** - Scouts deal phasing damage which will damage you through shields, you will require both heavy Shields AND Hull.
