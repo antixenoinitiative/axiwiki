@@ -23,28 +23,28 @@ Das Hauptbeispiel für diese Funktion ist die Abkühlung beim Start des Angriffs
 
 Ein weiteres Beispiel ist das praktisch unbegrenzte Umkreisen des Interceptors ohne Verwendung von Kühlkörpern, was nützlich ist, wenn man schnell etwas synthetisieren, die AFMU verwenden oder den Interceptor kiten muss, bis die Teamkameraden wieder am Kampf teilnehmen können.
 
-Ein dritter Anwendungsfall, der spezifisch für den Kampf mit grossen Schiffen ist, ist die Verwendung von TV-Strahlenlaser in Kombination mit einem Kühlkörper, um die Kühlung während der Synchronisierung und vor der Durchführung eines kalten Neustarts nach dem Herz zu erhalten. This is an advanced tactic, for more information refer to the Large Ship Guide.
+Ein dritter Anwendungsfall, der spezifisch für den Kampf mit grossen Schiffen ist, ist die Verwendung von TV-Strahlenlaser in Kombination mit einem Kühlkörper, um die Kühlung während der Synchronisierung und vor der Durchführung eines kalten Neustarts nach dem Herz zu erhalten. Dies ist eine fortgeschrittene Taktik, weitere Informationen sind im Handbuch für grosse Schiffe zu finden.
 
-The cooling of the TV beam depends on the thermal load the beam produces (**The more heat generated per second, the more effective the cooling will be**)
+Die Kühlung des TV-Strahls hängt von der Wärmebelastung ab, die der Strahl erzeugt (**Je mehr Wärme pro Sekunde erzeugt wird, desto effektiver wird die Kühlung sein**)
 
-Gimballed beam lasers generate the most heat (thus have the best cooling effect) and are much easier to maintain on target.
+Kardanisch aufgehängte Strahllaser erzeugen die meiste Wärme (haben also den besten Kühleffekt) und sind viel einfacher auf dem Ziel zu halten.
 
-Fixed beam lasers are only slightly worse for heat but deal higher damage and gives you the possibility of sniping the caustic missiles (which is practically useless but fun).
+Feste Strahlenlaser sind nur geringfügig schlechter für die Hitze, verursachen aber höheren Schaden und geben Ihnen die Möglichkeit, die ätzenden Raketen zu snipern (was praktisch nutzlos ist, aber Spass macht).
 
-Turreted beam lasers have very low heat generation (and thus, dissipation) and do not work well as Thermal Vent beams. Their only saving grace is their high time on target, which allow for a slower but more mindless cooling method.
+Turmstrahl-Laser haben eine sehr geringe Wärmeentwicklung (und damit Verlustleistung) und funktionieren nicht gut als Thermische Entlastungslaser. Their only saving grace is their high time on target, which allow for a slower but more mindless cooling method.
 
-You might ask yourself – *“Isn’t it possible to use a beam instead of heatsinks to keep my ship cool during the attack run?” The short answer is “no”. The long answer is that not only does it not cool you enough while shooting Gauss Cannons, but also increases your weapon distributor draw, increasing the gauss heat generation even more.*
+Man könnte sich fragen - *"Ist es nicht möglich, anstelle von Kühlkörpern einen Strahlenlaser zu verwenden, um das Schiff während des Angriffslaufs kühl zu halten?" Die kurze Antwort ist "Nein". Die lange Antwort ist, dass es einen nicht nur nicht genug kühlt, während man Gausskanonen abschiesst, sondern auch den Stromverbrauch der Waffe erhöht, was die Wärmeentwicklung des Gausses noch mehr erhöht.*
 
-The secondary function of a TV beam is damaging the shields of Interceptors. While Interceptor shields deteriorate over time, it is possible to speed up the process by shooting at the shield. It is a waste of ammo to use your Gauss for that purpose, but lasers are the perfect solution as they have unlimited ammo and greater range than the Interceptor’s cannon. Just remember that even though the shield itself will take damage from lasers, the Interceptor’s hull has 99.97% resistance to human weapons.
+Die sekundäre Funktion eines TV-Lasers ist die Beschädigung der Schilde von Interceptoren. Interceptor-Schilde verschlechtern sich zwar mit der Zeit, aber es ist möglich, den Prozess zu beschleunigen, indem man auf den Schild schiesst. Es ist eine Verschwendung von Munition, für diesen Zweck die Gauss zu verwenden, aber Laser sind die perfekte Lösung, da sie unbegrenzte Munition und eine größere Reichweite als die Kanone des Interceptors haben. Denken Sie daran, dass die Hülle des Interceptors zu 99,97 % resistent gegen menschliche Waffen ist, auch wenn der Schild selbst Schaden durch Laser einstecken muss.
 
-## Shield Healing Lasers
+## Schild Heilungslaser
 
-Shield "healing" lasers or the ‘Regeneration Sequence’ and ‘Concordant Sequence’ experimental effects can be useful in wing fights. This naturally assumes your wingmates are not flying shieldless ships.
+Schild-"Heilungs"-Laser oder die experimentellen Effekte "Regenerationssequenz" und "Konkordanzsequenz" können in Geschwaderkämpfen nützlich sein. Dies setzt natürlich voraus, dass Ihre Geschwaderkollegen keine schildlosen Schiffe fliegen.
 
-Regeneration Sequence and Concordant Sequence lasers only work on friendly targets within your wing.
+Die Laser der Regenerationssequenz und der Konkordanzsequenz wirken nur auf befreundete Ziele innerhalb des Geschwaders.
 
-### Regeneration Sequence Lasers
-It's possible to significantly regenerate a wingmate's shields with beam lasers which have the Regeneration Sequence experimental effect. This is especially true for ships with Prismatic shields, which rarely get more than 50% shield strength in solo fights after the shield has dropped below that limit. It is a good idea to use an Efficient blueprint on a Regen beam, unless you are in a slower ship than the wingmates you are healing (example: Corvette healing the shield of a Cutter), in which case Long Range may be a better option.
+### Regenerations-Sequenzlaser
+Es ist möglich, die Schilde eines Wingmates mit Strahllasern, die den experimentellen Effekt "Regenerationssequenz" haben, deutlich zu regenerieren. Dies gilt insbesondere für Schiffe mit prismatischen Schilden, die in Solokämpfen selten mehr als 50 % Schildstärke erreichen, nachdem der Schild unter diese Grenze gefallen ist. Es ist eine gute Idee, eine effiziente Blaupause für einen Regenerations-Laser zu verwenden, es sei denn, man befindet sich in einem langsameren Schiff als die Geschwaderkollegen, die man heilt (Beispiel: Corvette, die den Schild eines Cutters heilt), in diesem Fall kann Langstrecke eine bessere Option sein.
 
-### Concordant Sequence Lasers
-Concordant sequence is an experimental effect that will amplify the natural shield regeneration of the targeted ship by a very big factor for a short period of time. Due to this, they work best on ships equipped with Bi-Weave shield generators, which already have short regeneration rates and unlike in PvP they do not have a hard counter in AX combat. Remember that while they are a great support module, they do not work on fully broken shields. It is also worth noting that you do not need to continuously fire at the target you want to help, as once applied buff lasts for a short period of time. Long Range Pulse lasers are recommended as Concordant Sequence only requires a single hit to apply the effect and pulse lasers have the least power draw.
+### Konkordanz-Sequenz-Laser
+Die Konkordanzsequenz ist ein experimenteller Effekt, der die natürliche Schildregeneration des anvisierten Schiffes für einen kurzen Zeitraum um einen sehr grossen Faktor verstärken wird. Dadurch funktionieren sie am besten auf Schiffen, die mit Bi-Weave-Schildgeneratoren ausgestattet sind, die bereits kurze Regenerationsraten haben und anders als im PvP im AX-Kampf keinen harten Konter haben. Zu beachten ist, dass sie zwar ein großartiges Unterstützungsmodul sind, aber nicht bei vollständig ausgefallenen Schilden funktionieren. Es ist auch erwähnenswert, dass man nicht ununterbrochen auf das Ziel schiessen muss, dem man helfen möchte, da ein einmal angewendeter Effekt nur für eine kurze Zeitspanne anhält. Langstrecken-Impulslaser werden empfohlen, da die Konkordanz-Sequenz nur einen einzigen Treffer benötigt, um den Effekt anzuwenden, und Impulslaser die geringste Leistungsaufnahme haben.
