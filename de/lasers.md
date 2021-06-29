@@ -19,11 +19,11 @@ Die beliebteste Variante ist der Thermische Entlastungs-Langstrecken-Strahl-Lase
 
 Die primäre Funktion ist die kühlende Wirkung, die durch den experimentellen Effekt " Thermische Entlastung" entsteht. AX pilots can use the TV beam to cool their ship below the 20% heat threshold outside of an attack run (when not exerting and destroying hearts).
 
-Das Hauptbeispiel für diese Funktion ist die Abkühlung beim Start des Angriffsvorgangs. Here the long range modification proves its worth. Since the Interceptor does not fire upon you unless you closer than 3 kilometers away, with the long range beam you can start cooling even at 6 kilometers away (G5) without having to waste a heatsink on the approach (minimum recommended engineering is G3).
+Das Hauptbeispiel für diese Funktion ist die Abkühlung beim Start des Angriffsvorgangs. Hier bewährt sich die Langstrecken-Modifikation. Da der Interceptor nur feuert, wenn man weniger als 3 Kilometer entfernt ist, kann man mit dem Langstreckenstrahl schon in 6 Kilometern Entfernung (G5) mit der Kühlung beginnen, ohne einen Kühlkörper für den Anflug verschwenden zu müssen (empfohlene Mindesttechnik ist G3).
 
-Another example is orbiting the Interceptor practically indefinitely without using heatsinks, which is useful when you need to quickly synth something, use your AFMU, or kite the Interceptor until your wingmates can rejoin the fight.
+Ein weiteres Beispiel ist das praktisch unbegrenzte Umkreisen des Interceptors ohne Verwendung von Kühlkörpern, was nützlich ist, wenn man schnell etwas synthetisieren, die AFMU verwenden oder den Interceptor kiten muss, bis die Teamkameraden wieder am Kampf teilnehmen können.
 
-A third usage case, specific to large ship combat, is using TV beams in combination with a heatsink to keep cool while synthing and prior to performing a cold reboot after the heart. This is an advanced tactic, for more information refer to the Large Ship Guide.
+Ein dritter Anwendungsfall, der spezifisch für den Kampf mit grossen Schiffen ist, ist die Verwendung von TV-Strahlenlaser in Kombination mit einem Kühlkörper, um die Kühlung während der Synchronisierung und vor der Durchführung eines kalten Neustarts nach dem Herz zu erhalten. This is an advanced tactic, for more information refer to the Large Ship Guide.
 
 The cooling of the TV beam depends on the thermal load the beam produces (**The more heat generated per second, the more effective the cooling will be**)
 
