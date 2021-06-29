@@ -1,6 +1,6 @@
 ---
-title: Speedrun Schiffsaustattungen
-description: Es gibt mehrere Unterschiede zwischen generellen AX-Ausstattungen und welchen zum speedrunnen - der Hauptunterschied liegt in der Überlebensfähigkeit
+title: Speedrun Schiffsausstattungen
+description: Es gibt mehrere Unterschiede zwischen klassischen AX-Ausstattungen und denen zum Speedrunnen - der Hauptunterschied liegt in der Überlebensfähigkeit
 published: true
 date: 2021-06-10T03:53:16.987Z
 tags: builds, outfitting, speedrunning
@@ -8,38 +8,38 @@ editor: markdown
 dateCreated: 2021-06-10T03:49:40.037Z
 ---
 
-# Speedrun Schiffaustattungen
+# Speedrun Schiffausstattungen
 
-> These ship builds are not recommended for pilots new to Anti-Xeno Content, they require a solid understanding of Thargoid mechanics and abilities to be able to survive, let alone destroy an Interceptor. **USE THESE AT YOUR OWN RISK!** In the right hands, however, they can be more effective than the standard ones. Click [here](/en/builds) to see our recommended builds for regular AX. 
+> Diese Schiffsausstattungen sind nicht für Neulinge in der Anti-Xeno Bekämpfung geeignet, da sie ein solides Verständnis über Thargoid-Mechaniken und Fähigkeiten voraussetzen um am Leben zu bleiben, ganz zu schweigen davon einen Interceptor zu zerstören. **NUTZUNG AUF EIGENE GEFAHR** In den richtigen Händen können sie aber deutlich effektiver sein als klassische Austattungen. Klicke [hier](/en/builds) um Vorschläge für klassische AX-Ausstattungen zu sehen. 
 > 
 > {.is-warning}
 
-There are several differences between a general-purpose AX build and a speedrunner - they key difference being the focus of survivability and versatility in general builds, whereas speedrun builds can be highly specific to a particular variant and often forego self-repair capabilities, instead focusing on lasting just long enough to complete the kill.
+Es gibt mehrere Unterschiede zwischen klassischen AX-Ausstattungen und denen zum Speedrunnen - der Hauptunterschied liegt in der Überlebensfähigkeit. Während klassische Ausstattungen generell auf Überlebensfähigkeit und Vielseitigkeit setzen, lassen Speedrun-Austattungen z.B. Selbstreparatur-Fähigkeiten fallen und sind so ausgelegt, dass sie gerade lange genug zum Töten einer bestimmten Interceptor-Variante halten.
 
-- Since these fights are short and intense, repair limpets do not have the time to return the hull that is sacrificed to equip a controller and cargo rack, and AFMUs may not be necessary.
-- Shields, while offering excellent protection from ramming damage, are useless if utilizing Silent Running - an extremely valuable tool in the speedrunner's arsenal.
-- Shutdown Field Neutralizers can be useful as some techniques involve triggering the EMP/Caustics on purpose to accelerate the fight.
-- Thermal vent beam lasers are less important as the builds can rely on Silent Running for short periods of time, and there is almost no kiting involved in these fights
+- Durch die Kürze und Intensität der Kämpfe, haben Reparaturdrohnen garnicht die Zeit um die Menge an Rumpfhülle zu reparieren, die man  durch aurüsten der nötigen Module einbüßt. Außerdem werden AFMUs auch optional.
+- Schilde bieten zwar einen ausgezeichneten Schutz vor Rammschäden, sind aber nutzlos, beim Einsetzen des stillen Flugs - ein äußerst wertvolles Werkzeug im Arsenal des Speedrunners.
+- Abschalt-Feld Neutralisatoren können nützlich sein, da manche Techniken auf das absichtliche Auslösen des Abschalt-Impulses und oder kaustischen Raketen setzen, um den Kampf zu beschleunigen.
+- Thermische-Entlastungs-Strahlenlaser sind weniger wichtig, da für kurze Zeitspannen der stille Flug genutzt werden kann und man den Interceptor nicht lange hinhält.
 
 # {.tabset}
 ## Krait Mk.II
 ![](https://edassets.org/static/img/ship-schematics/qohen-leth/krait-mk-ii.png =250x)
 ### Krait Mk.II
-One of the most versatile AX ships, and one of the best choices for speedruns. It can be extremely tanky while bringing maximum damage output with its 4 Gauss. Can also fit two or three Large Shard Cannons which can be used to great effectiveness against the weaker Interceptor Variants.
+Eines der vielseitigsten AX-Schiffe und eine der besten Optionen für Speedruns. Sie kann sehr widerstandsfähigkeit sein, während sie mit ihren 4 Gauss-Kanonen über maximales Schadenspotenzial verfügt. Es können auch ein bis zwei große Shard-Kanonen ausgerüstet werden, um die schwächeren Interceptor-Varianten zu bekämpfen.
 
-**Size:** Medium
+**Größe:** Medium
 
-#### Builds
+#### Ausstattungen
 - https://s.orbis.zone/chzd
 
-## Alliance Challenger
+## Allianz Challenger
 ![](https://edassets.org/static/img/ship-schematics/qohen-leth/alliance-challenger.png =250x)
-### Alliance Challenger
-The toughest of the Alliance trio and with the most firepower - the traits any good speedrunner requires.
+### Allianz Challenger
+Der robusteste aus dem Allianz Trio und verfügt auch über die höchste Feuerkraft - wichtigste Eigenschaft jedes Speedrunners.
 
-**Size:** Medium
+**Größe:** Medium
 
-#### Builds
+#### Ausstattungen
 - https://s.orbis.zone/chzf
 
 ## Beluga Liner
