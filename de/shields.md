@@ -3,7 +3,7 @@ title: Thargoide Schilde
 description: Thargoid-Interceptors können mächtige Schilde erzeugen, die grosse Mengen an Schaden absorbieren können. Diese Schilde können mehrfach auftreten und sehr zäh sein.
 published: ja
 date: 2021-06-17T00:56:22.011Z
-tags: combat, thargoids, interceptors, shields
+tags: Gefect, Thargoids, Interceptors, Schilde
 editor: markdown
 dateCreated: 2021-06-17T00:54:20.812Z
 ---
@@ -45,7 +45,7 @@ Wenn ein Interceptor-Schild zusammenbricht, erkennt man dies an einem großen gr
 ## Panikschild
 Unter verschiedenen Bedingungen kann der Interceptor Schilde unabhängig von zerstörten Herzen aufbauen. Da diese Zustände meist mit massiven Schäden verbunden sind, bezeichnen wir diese Schilde als "Panik"-Schilde.
 
-1. **Überwältigender Rumpfschaden** - Wenn der Rumpf des Interceptors trotz der schnellen Regeneration bei starker Krafteinwirkung auf das Herz weiter abfällt, setzt er einen Panikschild ein. This happens often if using premium ammo against a Cyclops solo, when a wing tries to exert a Cyclops, or when trying to instagib any of the stronger variants.
+1. **Überwältigender Rumpfschaden** - Wenn der Rumpf des Interceptors trotz der schnellen Regeneration bei starker Krafteinwirkung auf das Herz weiter abfällt, setzt er einen Panikschild ein. Dies geschieht oft bei Verwendung von Premium-Munition im Solo Kampf gegen den Cyclops, wenn ein Geschwader versucht das Herz eines Cyclops zu öffnen, oder wenn probiert wird eine der stärkeren Varianten zu „Instagibben“.
 
 2. **Überwältigender Schildschaden** - Wenn der Schild des Interceptors innerhalb von 10 Sekunden nach seinem einsetzen zerstört wird, regeneriert er ihn sofort. (**Dies kann wegen der Blitzphase nicht nach dem ersten Herz geschehen**). Dieses Szenario tritt vor allem dann ein, wenn man mit einem Ramm ein eingesetztes Schild sofort zerstört oder wenn genügend Feuerkraft gegen eine der schwächeren Varianten eingesetzt wird (Shardkanonen gegen Cyclops). Man kann erkennen, ob dieses 10-Sekunden-Fenster vorbei ist, wenn die rot leuchtenden Blütenblätter des Interceptors aufhören, schnell zu blinken und zu einem langsamen pulsieren übergehen.
 

@@ -1,6 +1,6 @@
 ---
-title: Thargoid Hearts
-description: All Thargoids have a specific number of internal modules known as hearts, these grant the Thargoid Interceptor very fast hull regeneration.
+title: Les cœurs thargoids
+description: Tous les thargoids ont un certain nombre de modules internes connus sous le nom de cœurs. Ils permettent aux intercepteurs Thargoid une régénération de coque très rapide.
 published: true
 date: 2021-06-17T00:35:52.830Z
 tags: combat, thargoids, interceptors, hearts
@@ -8,48 +8,48 @@ editor: markdown
 dateCreated: 2021-06-17T00:35:26.084Z
 ---
 
-# Thargoid Hearts
-All Thargoids have a specific number of internal modules known as hearts, these grant the Thargoid Interceptor very fast hull regeneration. The hearts are positioned around the outside of the Interceptor as petals, depending on the variant you will be able to break a number of these petals off completely, indicating that the heart has been broken
+# Les cœurs thargoids
+Tous les thargoids ont un certain nombre de modules internes connus sous le nom de cœurs. Ils permettent aux intercepteurs Thargoid une régénération de coque très rapide. Les cœurs sont positionnés aux extrémités des pétales de l'intercepteur et, selon la variante, vous pourrez détruire un certain nombre de ces pétales, ce qui indiquera que le cœur se situant dessus a été détruit également.
 
-## Regeneration
+## Régénération
 
-Thargoid Hearts give the Interceptor incredibly fast regeneration, this will make destroying the Interceptor nearly impossible until all hearts are broken.
+Les cœurs Thargoid donnent à l'intercepteur une régénération incroyablement rapide, ce qui rend la destruction de l'intercepteur quasiment impossible avant que tous les cœurs soient détruits.
 
-## Exertion
+## Extraction
 
-Thargoid Hearts are immune to damage by default. However you can make the hearts vulnerable by dealing enough damage to the Thargoid Interceptor and **Exerting** the heart. You must deal 20% of the remaining total hull to cause the heart to become exerted. Once exerted, the Thargoid will regenerate its health rapidly and the Heart will begin glowing brightly for ~45 seconds.
+Par défaut, les cœurs Thargoid sont immunisés aux dégâts. Cependant, vous pouvez rendre les cœurs vulnérables en infligeant suffisamment de dégâts à l'intercepteur Thargoid. Ainsi, ils seronts **extraits**. Vous devez lui infliger 20% de sa coque totale restante pour qu'un cœur soit extrait. A ce moment-là, le thargoid se régénérera très rapidement et le cœur commencera à briller pendant environ 45 secondes, temps pendant lequel il sera vulnérable.
 
 ## {.tabset}
 
-### Exerted Cyclops Heart
+### Cœur d'un Cyclops extrait
 !\[clopsheart.png\](/img/clopsheart.png =400x)
 
-### Exerted Hydra Heart
+### Coeur d'un Hydra extrait
 !\[hydraheart.png\](/img/hydraheart.png =400x)
 
-## Destroying the Heart
+## Détruire le cœur
 
-During the exertion, any direct AX damage dealt to the heart will cause it to lose health. Hearts to do not regenerate and any damage done to them is permanant. If you fail to break the heart during this 45 second window, you will have to re-exert the Thargoid Interceptor again, this will always exert the same heart.
+Quand il est extrait, tout dégât AX direct infligé au cœur lui fera perdre des points de vie. Les cœurs ne pouvant pas se régénérer, les dégâts qui leur sont infligés sont permanents. Si vous ne parvenez pas à détruire le cœur pendant cette période de 45 secondes, vous devrez à nouveau l'extraire. Le même cœur sera toujours extrait.
 
-Once all the Interceptors hearts are destroyed, any damage to the Interceptor is permanent.
+Une fois que tous les cœurs de l'intercepteur sont détruits, tous les dégâts qui lui sont infligés sont permanents.
 
-The Heart has a very small hit-box and you must be very precise in-order to deal damage to it.
+Le cœur ayant une très petite hitbox, vous devez être très précis pour lui infliger des dégâts.
 
-## Location
+## Localisation
 
-Thargoid Hearts are located in the petals of the Interceptor. They spawn in a semi-consistent pattern for each variant however they will be exerted in a random pattern for each kill.
+Les cœurs Thargoid sont situés dans les pétales de l'intercepteur. Ils sont placés de manière semi-constante pour chaque variante, mais ils seront extraits dans un ordre aléatoire à chaque fois.
 
-You can sub-target the hearts if you use a Xeno-Scanner on the Interceptor and complete a full-scan. This will also allow you to see the status of all hearts in the contacts panel.![heart_location.png](/img/heart_location.png)
+Vous pouvez cibler les cœurs si vous faites un scan complet avec un détecteur de xénomorphes sur l'intercepteur. Cela vous permettra également de voir l'état de tous les cœurs dans le panneau des cibles.![heart_location.png](/img/heart_location.png)
 
-# Collecting Hearts
+# Récolter les cœurs
 
-A short video by CMDR Aranionros Stormrage on a very fast and effective way to collect Thargoid Hearts from a dead Thargoid Interceptor without waiting for the Caustic cloud to dissapate.
+Une courte vidéo du commandant Aranionros Stormrage sur une façon très rapide et efficace de ramasser le cœur d'un intercepteur mort sans attendre que le nuage caustique se dissipe.
 
-[Video by CMDR Aranionros Stormrage](https://youtu.be/YBM9TqCZJMg)
+[Vidéo du CMDR Aranionros Stormrage](https://youtu.be/YBM9TqCZJMg)
 
 
-## How to Scoop Hearts Quickly
-- Collector limpets inherit ship velocity, so moving quickly towards the heart when launching them will give them a great speed boost.
-- You can pass quite close to the heart while the cloud is still small.
-- Launching multiple limpets is advised as sometimes they crash into the dead Thargoid.
-- Using a B-rated collector limpet controller will give you more range, therefore a bit more room to work with. A size 3B controller should be enough (though a 5B was used in this video)
+## Comment récupérer rapidement des cœurs
+- Les drones collecteurs gardent la vitesse du vaisseau, donc se déplacer rapidement vers le cœur lors de leur lancement leur donnera une grande accélération.
+- Vous pouvez passer très près du cœur quand le nuage est encore petit.
+- Il est conseillé de lancer plusieurs drones car certains pourront s'écraser sur le cadavre de l'intercepteur.
+- L'utilisation d'un contrôleur de drone collecteur de classe B vous donnera plus de portée, ce qui rendra la récupération plus facile. Un contrôleur de taille 3B devrait suffire (bien qu'un 5B ait été utilisé dans cette vidéo)

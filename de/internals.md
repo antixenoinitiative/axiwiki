@@ -1,18 +1,18 @@
 ---
-title: Optional Internals
-description: A short introduction to the use of various modules in AX.
-published: true
+title: Optionale Einbauteile
+description: Eine kurze Einführung in die Verwendung der verschiedenen Module in AX.
+published: ja
 date: 2021-06-10T05:35:13.831Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
 ---
 
-# Optional Internals
+# Optionale Einbauteile
 
-## Hull Reinforcement Package
+## Rumpfhüllenverstärkung Paket
 
-Hull Reinforcement Packages come in three variants:
+Rumpfhüllenverstärkung gibt es in drei Varianten:
 
 - **Hull Reinforcement Package (HRP)**
 - **Guardian Hull Reinforcement Package (GHRP)**

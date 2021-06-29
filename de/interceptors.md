@@ -3,7 +3,7 @@ title: Interceptors
 description: Über Thargoid-Interceptors
 published: true
 date: 2021-06-17T00:44:49.019Z
-tags: thargoids, interceptors
+tags: Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-15T10:23:32.433Z
 ---
@@ -40,14 +40,14 @@ Interceptors der Cyclops-Variante sind schnell zu töten und stellen für einen 
 
 Am 26. September 3303 begann die Cyclops-Variante, wahllos unabhängige Schiffe sowie Schiffe der föderalen und imperialen Marine anzugreifen, wobei sie unter den Wracks dieser Schiffe in nicht-menschlichen Signalquellen zu finden waren, die verschiedene thargoid-bezogene Gegenstände sammelten, wie den Thargoid-Sensor und die Thargoid-Sonde.
 
-**Herzen**: 4 **Maximale Geschwindigkeit**: 450 m/s **Auszahlung**: 8,000.000 Cr
+**Herzen**: 4 **Maximale Geschwindigkeit**: 450 m/s **Belohnung**: 8,000.000 Cr
 
 ## **Basilisk**
 !\[basilisk-small.png\](/img/basilisk-small.png =250x){.align-right}Erstmals angetroffen am 13. November 3303 Der Basilisk ist eine härtere Variante des Cyclops mit einer besonderen Eigenschaft, der Geschwindigkeit. Der Basilisk ist die einzige Interceptor-Variante, die eine höhere Höchstgeschwindigkeit hat. Dies macht den Basilisken zu einer erheblichen Bedrohung, insbesondere für grössere, schwerfälligere Schiffe. Zusammen mit der höheren Geschwindigkeit ist der Basilisk auch generell zäher, mit einem zusätzlichen Herz und einer stärkeren Primärkanone.
 
 Der Basilisk hat ein ähnliches Modell wie der Cyclops, wobei seine Unterscheidungsmerkmale die dunkleren Rot-/Brauntöne und die Leopardenmuster auf seinen Blütenblättern sind.
 
-**Hearts**: 5 **Max Speed**: 530 m/s **Payout**: 24,000,000 Cr
+**Herzen**: 5 **Maximale Geschwindigkeit**: 530 m/s **Belohnung**: 24,000.000 Cr
 
 ## **Medusa**
 !\[medusa-small.png\](/img/medusa-small.png =250x){.align-right}Die Medusa-Variante wurde erstmals am 14. Dezember 3303 beim Angriff auf drei Stationen beobachtet. Die Medusa ist eine stark verbesserte Version der Basiliks mit viel höherem Gesamtschaden und einem zusätzlichen Herz. Allerdings bewegt sich die Medusa wieder mit der gleichen Geschwindigkeit wie ein Cyclops.
@@ -56,14 +56,14 @@ Die Medusa hat nicht nur eine leuchtendere rot-schwarze Farbe, sondern trägt au
 
 __*Beta-Änderungen*__ Während der Beta-Tests im Janurary 2020 scheint die Medusa-Variante ihre normalen Stacheln durch viel kleinere, einfachere Stacheln zu ersetzen. Wir wissen derzeit nicht, ob dies in das Live-Spiel aufgenommen wird.
 
-**Herzen**: 4 **Maximale Geschwindigkeit**: 450 m/s **Auszahlung**: 40,000.000 Cr
+**Herzen**: 6 **Maximale Geschwindigkeit**: 450 m/s **Belohnung**: 40,000.000 Cr
 
 ## **Hydra**
 !\[hydra-small.png\](/img/hydra-small.png =250x){.align-right}Am 23. August 3304 wurde der Interceptor der Hydra-Variante erstmals angetroffen. Die Hydra Variante ist eine deutliche Erhöhung der Stärke und Widerstandskraft gegenüber der Medusa mit zwei zusätzlichen Herzen und insgesamt höherer Rüstungswiderstandskraft. Die Hydra weist auch eine schnellere Nachladezeit auf, was bedeutet, dass sie ein viel aggressiveres Schadensprofil hat. Die Hydra-Variante ist der derzeit härteste Thargoid und stellt selbst für die erfahrensten AX-Piloten eine große Herausforderung dar.
 
 Die Hydra-Variante zeigt leuchtend grüne Farben und eine Vielzahl von Veränderungen in ihrer Form und Gestalt. Die Hydra hat einen weiteren Satz von Blütenblättern, die hinter den primären Blütenblättern sitzen und die Sicht des Piloten auf die Herzen aktiv verdecken. Die Herzen selbst sind ebenfalls unterschiedlich mit Stachelanhängseln, die entlang der gegen den Uhrzeigersinn gerichteten Seite jedes Blütenblattes verlaufen. Außerdem weist die Hydra-Variante ein anderes Kabinenlayout mit einem Käfig auf, der die Hauptkabine abdeckt.
 
-**Herzen**: 4 **Maximale Geschwindigkeit**: 450 m/s **Auszahlung**: 60,000.000 Cr
+**Herzen**: 8 **Maximale Geschwindigkeit**: 450 m/s **Belohnung**: 60,000.000 Cr
 
 ## **Orthrus**
 !\[orthrus.png\](/img/orthrus. ng =300x){.align-right}Die fünfte gesichtete Variante ist der Orthrus, der während der Evakuierung von Professor Palin aus seinem Forschungszentrum in Maia vorübergehend auftauchte. Diese Variante ist inzwischen verschwunden und kann derzeit nicht im Spiel gefunden werden.

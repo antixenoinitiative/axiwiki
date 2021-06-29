@@ -67,7 +67,7 @@ Note: While this build uses Lo-Draw on the shields, Fast Charge experimental is 
 
 #### **Alliance Chieftain (Schild)**
 
-Der Alliance Chieftan ist, wie der Krait Mk.II ein sehr fähiges AX-Schiff. Der Chieftan hat zwar genneraell etwas weniger Feuerkraft, kann aber ein Thermal Vent Strahlenlaser ausrüsten, was es Piloten vereinfacht, den kalten Orbit zu lernen. Viel agiler als der Krait Mk.II, ist der Build perfekt für Leute, die vorhaben den Meta-Chieftan ohne Schild zu fliegen, aber die Sicherheit eines Schilds wollen.
+Der Alliance Chieftan ist, wie der Krait Mk.II ein sehr fähiges AX-Schiff. Der Chieftan hat zwar genneraell etwas weniger Feuerkraft, kann aber einen Thermale-Entlastung Strahlenlaser ausrüsten, was es Piloten vereinfacht, den kalten Orbit zu lernen. Viel agiler als der Krait Mk.II, ist der Build perfekt für Leute, die vorhaben den Meta-Chieftan ohne Schild zu fliegen, aber die Sicherheit eines Schilds wollen.
 
 Typ: **Bi-Weave Hybrid**
 - Geschwindigkeit: ⭐⭐⭐⭐⭐
@@ -114,7 +114,7 @@ Diese Build sind eher für erfahrene Kommandanten, entweder die, die oben genann
 
 #### **Alliance Chieftain (ohne Schild)**
 
-Der ungeschützte Alliance Chieftan ist objektiv das beste AX-Schiff, genauso wie die Fer-de-Lance es im Kampf gegen Spieler ist. Mit starkem Rumpf, viel Laderaum, guter Beweglichkeit und Feuerkraft kann der Chieftain auch einfach einen kalten Orbit erhalten, während er verheerende Gauss Schüsse abfeuert. Seine großen Aufhängungen erlauben es vier Gauss Kannonen, eine Flak und einen Thermal Vent Strahlenlaser auszustatten. Sein Zwillingsschiff, der Alliance Challanger, teilt mehr Schaden aus, ist aber langsamer.
+Der ungeschützte Alliance Chieftan ist objektiv das beste AX-Schiff, genauso wie die Fer-de-Lance es im Kampf gegen Spieler ist. Mit starkem Rumpf, viel Laderaum, guter Beweglichkeit und Feuerkraft kann der Chieftain auch einfach einen kalten Orbit erhalten, während er verheerende Gauss Schüsse abfeuert. Seine großen Aufhängungen erlauben es vier Gauss Kannonen, eine Flak und einen Strahlenlaser mit thermischer Entlastung auszustatten. Sein Zwillingsschiff, der Alliance Challanger, teilt mehr Schaden aus, ist aber langsamer.
 
 Typ: **Kalter Orbiter**
 
@@ -126,56 +126,56 @@ Typ: **Kalter Orbiter**
 
 Empfehlung: Einfach das beste Schiff und Build für die AX-Jagt.
 
-[Coriolis Meta Schildlose-Build](https://s.orbis.zone/eu9w)
+[Coriolis Meta Schildloser Build](https://s.orbis.zone/eu9w)
 
-[EDSY Meta Schildlose Build](https://edsy.org/s/vwJ9Lqq)
+[EDSY Meta Schildloser Build](https://edsy.org/s/vwJ9Lqq)
 
 AX-Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
-### Krait Mk.II (Unshielded)
+### Krait Mk.II (Ohne Schild)
 
-#### **Krait Mk.II (Unshielded)**
+#### **Krait Mk.II (Ohne Schild)**
 
-A shieldless version of the beginner Krait MK.II. The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive power plant also allows it to idle under 20% heat, which allows for cold approaches without a heatsink or thermal vent beam.
+Der Anfänger Krait Mk.II, aber ohne Schild. Der ungeschützte Krait ist zwar nicht so manövrierbar wie der Chieftan, hat aber dafür mehr Feuerkraft. Das riesige Kraftwerk vom Krait lässt ihn auch im Normalbetrieb unter 20% Wärme bleiben, was Kühlkörper oder den thermischen Laser für den Auftakt in einen kalten Orbit unnötig macht.
 
-Type: **Cold Orbiter**
+Typ: **Kalter Orbiter**
 
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐
-- Shield:
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐⭐
+- Geschwindigkeit: ⭐⭐⭐⭐⭐
+- Beweglichkeit: ⭐⭐⭐
+- Schild:
+- Rüstung: ⭐⭐⭐⭐
+- Feuerkraft: ⭐⭐⭐⭐⭐
 
-Recommendation: A great upgrade from the shielded build.
+Empfehlung: Ein super Upgrade von dem geschützten Build.
 
-[Coriolis Shieldless Build](https://s.orbis.zone/eu9v)
+[Coriolis Schildloser-Build](https://s.orbis.zone/eu9v)
 
-[EDSY Shieldless Build](https://edsy.org/s/vtQUkCk)
+[EDSY Schildloser Build](https://edsy.org/s/vtQUkCk)
 
 AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
-## Advanced Builds
-A collection of more advanced builds can be found on the Advanced Builds page.
+## Fortgeschrittene Builds
+Weitere fortgeschrittene Builds findet man auf der Fortgeschrittene Builds Seite.
 
-View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
+Und noch mehr Builds findet man in unserem [Schiff Build Archiv](/en/buildrepository). Dort sind viele Schiff-Builds mit deren Statistiken, Werten und Build-Links, entworfen von erfahrenen AXI Piloten.
 
 # Scout Builds
-Hunting scouts is a very efficient method to increase combat rank. This is because all scouts are considered dangerous or deadly targets and will give a lot of experience per kill. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
+Scouts zu jagen ist eine sehr effiziente Methode seinen Kampfrang zu erhöhen. Das liegt daran, dass Scouts als Gefährliche oder Tödliche Ziele angesehen werden und eine Menge Erfahrung pro Kill geben. Aufgrund ihres **77% Widerstands** gegen menschliche Waffen ist es sehr ineffizient, normale Waffen gegen Scouts einzusetzen. Wegen der unvorhersehbaren Flugart von Scouts empfehlen wir dringend den Einsatz von großen auf Geschützturm montierten Anti-Xeno Mehrfachgeschützen als effektivste Waffe für die Jagd von Scouts.
 
-These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. Keep in mind that there is a limit of 4 AX Weapons per vessel.
+Sie sind dafür am besten geeignet, da sie von dem 77% hohen Widerstand nicht betrffen sind. Sie können auf dem Ziel bleiben und sind effizient im Munitionsverbrauch. Behalte bei der Planung das Limit von höchstens 4 experimentellen Waffen pro Schiff im Kopf.
 
-## Extra Modules Suggested
-- **Decontamination Limpet Controller (and Cargo Racks)** - For when hit by caustic missiles.
-- **Xeno Scanner (optional)** - Lets you see scout health %.
-- **Hull Reinforcements** - Scouts deal phasing damage which will damage you through shields, you will require both heavy Shields AND Hull.
+## Weitere vorgeschlagene Module
+- **Dekontaminstionsdrohnen-Fernsteuerung (und Frachtgestelle)** - Gut, wenn man von kaustischen Raketen getroffen wird.
+- **Xeno Scanner (optional)** - Damit kann man die Hülle des Scouts in Prozent sehen.
+- **Rumpfhüllenverstärkung** - Scouts machen Durchdringungsschaden, der durch die Schilde geht. Du brauchst einen guten Schild UND Rumpf.
 
-Ultimately, due to the simple nature of scout hunting, almost any ship can be retrofitted for the task quite easily. A simple rule of thumb is….
+Im Endeffekt kann jedes Schiff leicht umgebaut werden und Scouts jagen gehen, weil das nicht gerade schwer ist. Eine einfache Faustregel ist….
 
-- Decent Hull
-- Decent Shields
-- Lots of AX Multi-Cannons
-- Decontamination Limpets
+- Gute Hülle
+- Gute Schilde
+- Eine Menge Geschütz-Munition
+- Dekontaminationsdrohnen
 
-And you’re good to go!
+Und das wär's.
 
 ## Scout Builds
 
@@ -184,14 +184,14 @@ And you’re good to go!
 ### Anaconda Build
 
 [**Anaconda Coriolis Build**](https://coriolis.io/outfit/anaconda?code=A2putpFklndzsxf5x3x3x3x32828252502xs040404040404B05n5n2dy32d2d2d2b03m72G08.AwRj4yuzRI%3D%3D.Aw18ZXEA.H4sIAAAAAAAAA42Tv0tCURTHjz%2FL%2FPH0%2BetpmlaaYBA2BkJTEFHgENVYu0NDgYhDLdEYDU0N%2FgltNTg2NjQ2iLNDQ4SElJ3TOY%2B8kBDcB%2B%2FLge%2Fnnnvved8HOAUA3x6W0TWLv%2BMECJ4FACIHXJkPfoDCwAFADlxXZItl%2BtEHYFQ%2FiBJtg30nJpR%2FwmLUvohi1ogoLr7VdwEsXkaZdGFakQ0hC59E9k6xVpzJLjvkxtUxZDRe2X%2FqEZEHq2rpOYtPls6IzIssBJCoeJwEWKpEuIkXj8a4GS4BrGwOiFLbWbYCuK868QvlGvxe194%2FJfiyCAW1yRDu%2FSG9u%2B9ExlWfT%2F%2FSJbIO3%2FgKhna7MBaFdAklg7OvkLFHaOKGanIrI5KlZuWUm8hnyb2EGIrqQDEdKK4DJXSgpA5k4Y6C6ixOSZH3zs3xXONpRHoscSELHU4vpXBrPKfRBYujzaG0Q2U9s1%2FKS%2FKGQ559WpucxbI6wo38F%2FdchvIZ3l0qUyJdkIqy2uTcJFlXZF2RUlFOm8xPkk1FNhUpFRH8%2B%2FwAJZhA2wUEAAA%3D.EweloBhBmUEYBsICmBDA5gG2SEcIEhTFA%3D%3D%3D&bn=AX%20Conda)
-- Can fit all 4x AX Multi-Cannons in large hardpoints
-- Has good angles for turreted Multi-Cannons
-- Can be fitted with large shields and boosters for worry-free farming
+- Kann alle vier AX Mehrfachgeschütze in großen Aufhängungen haben
+- Hat weite Winkel für Mehrfachgeschütze auf Türmen
+- Kann mit starken Schilden und Schldboostern ausgerüstet werden, für sorgloses Jagen
 
 ### Krait Mk.II Build
 
 [**Krait Mk.II Coriolis Build**](https://coriolis.io/outfit/krait_mkii?code=A2pptkFflfdussf5x3x3x3x10sxs040404B12d2dy303292H2G08.Iw18eQ%3D%3D.IwBj4yoo.H4sIAAAAAAAAA43Rv0vDcBAF8Nc0rdbGpkmb0oq%2FjQodio5d3AQHhW466iodFRwUdHMu4uTgn%2BAg6NBROjs6iIiTo0MnrXfeFT2wUzM8Htwn%2BSYX0AiA75REryWRbTvA%2BKkHBDvSwvssEHcTACdozeSJxGjji9l%2FrQGlG1fkozyIHSoZOpDwFRXLPebo2gfK70lg4bwgMkkTJo9Uxp%2FM%2FeOKx5HIZ5mwS6uKXJ3vfsj89o2ZU1S3W88kMh4xj10EwJy2eW2L2pa0cZr2%2FniYXwZqG13myuaUjDzatidNS1Qb%2BP3m%2FvkV5ZyjdUNX%2BiY6ClcOBT1kgJmnnCB%2FGJQfBgW0ZWhfwtHtpXXF2bpsL3iRiFTGbd14SFXjl%2FoD76TmZidFagt17bE2LgzKpsmmSW1cGpQdkx2T2pjx%2F%2FoBomHYA08CAAA%3D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%3D%3D&bn=AX%20Krait)
-- Can fit 3x AX Multi-Cannons in large hardpoints and 1x AX Multi-Cannon in a medium slot
-- Alternatively can fit 2x AX Multi-Cannons in large hardpoints, and 2x Guardian Gauss Cannons in the medium hardpoints (allows for Gauss aim practice and becomes more effective once the user is proficient with Gauss)
-- High mobility to keep targets in range or disengage.
-- Mobility allows for use of Bi-Weave shields, disengaging for shield regen.
+- Hat drei AX Mehrfachgeschütze in großen, und einen in mittleren Aufhängungen
+- Kann alternativ zwei AX Geschützte in großen, und zwei Gauss Kannonen in mittleren Slots ausrüsten (Gauss erlaubt es mit ihnen zu üben und die Kannonen werden mit steigendem Können rentabler)
+- Hohe Mobilität, um Ziele in Reichweite zu behalten oder zu flüchten.
+- Die Mobilität ermöglicht den Einsatz von Bi-Weave-Schildern, wo man zur Schildregenerierung gehen kann.
