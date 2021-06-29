@@ -25,7 +25,7 @@ Es gibt mehrere Unterschiede zwischen klassischen AX-Ausstattungen und denen zum
 ## Krait Mk.II
 ![](https://edassets.org/static/img/ship-schematics/qohen-leth/krait-mk-ii.png =250x)
 ### Krait Mk.II
-Eines der vielseitigsten AX-Schiffe und eine der besten Optionen für Speedruns. Sie kann sehr widerstandsfähigkeit sein, während sie mit ihren 4 Gauss-Kanonen über maximales Schadenspotenzial verfügt. Es können auch ein bis zwei große Shard-Kanonen ausgerüstet werden, um die schwächeren Interceptor-Varianten zu bekämpfen.
+Eines der vielseitigsten AX-Schiffe und eine der besten Optionen für Speedruns. Sie verfügt über hohe Widerstandskraft, während sie mit ihren 4 Gauss-Kanonen über maximale Feuerkraft verfügt. Es können auch ein bis zwei große Shard-Kanonen ausgerüstet werden, um die schwächeren Interceptor-Varianten zu bekämpfen.
 
 **Größe:** Medium
 
@@ -45,9 +45,9 @@ Der robusteste aus dem Allianz Trio und verfügt auch über die höchste Feuerkr
 ## Beluga Liner
 ![](https://edassets.org/static/img/ship-schematics/qohen-leth/beluga-liner.png =250x)
 ### Beluga Liner
-A surprising option that offers incredible toughness, firepower, maneuverability and better speed than the Anaconda or Corvette, with more room for heatsinks than a medium ship.
+Eine überraschende Option, die Widerstandsfähigkeit, Feuerkraft, Manövrierfähigkeit und höhere Geschwindigkeit als die Anaconda oder die Corvette bietet. Mit mehr Raum für Kühlkörper als jedes Medium-Schiff.
 
-**Size:** Large
+**Größe:**Groß
 
-#### Builds
+#### Ausstattungen
 - https://s.orbis.zone/chzm
