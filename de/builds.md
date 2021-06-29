@@ -114,7 +114,7 @@ Diese Build sind eher für erfahrene Kommandanten, entweder die, die oben genann
 
 #### **Alliance Chieftain (ohne Schild)**
 
-Der ungeschützte Alliance Chieftan ist objektiv das beste AX-Schiff, genauso wie die Fer-de-Lance es im Kampf gegen Spieler ist. Mit starkem Rumpf, viel Laderaum, guter Beweglichkeit und Feuerkraft kann der Chieftain auch einfach einen kalten Orbit erhalten, während er verheerende Gauss Schüsse abfeuert. Seine großen Aufhängungen erlauben es vier Gauss Kannonen, eine Flak und einen Thermal Vent Strahlenlaser auszustatten. Sein Zwillingsschiff, der Alliance Challanger, teilt mehr Schaden aus, ist aber langsamer.
+Der ungeschützte Alliance Chieftan ist objektiv das beste AX-Schiff, genauso wie die Fer-de-Lance es im Kampf gegen Spieler ist. Mit starkem Rumpf, viel Laderaum, guter Beweglichkeit und Feuerkraft kann der Chieftain auch einfach einen kalten Orbit erhalten, während er verheerende Gauss Schüsse abfeuert. Seine großen Aufhängungen erlauben es vier Gauss Kannonen, eine Flak und einen Strahlenlaser mit thermischer Entlastung auszustatten. Sein Zwillingsschiff, der Alliance Challanger, teilt mehr Schaden aus, ist aber langsamer.
 
 Typ: **Kalter Orbiter**
 
@@ -135,7 +135,7 @@ AX-Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https:/
 
 #### **Krait Mk.II (Ohne Schild)**
 
-Der Anfänger Krait Mk.II, aber ohne Schild. Der ungeschützte Krait ist zwar nicht so manövrierbar wie der Chieftan, hat aber dafür mehr Feuerkraft. Das riesige Kraftwerk vom Krait lässt ihn auch im Normalbetrieb unter 20% Wärme bleiben, was Kühlkörper oder Thermal vent Laser für den Auftakt in einen kalten Orbit unnötig macht.
+Der Anfänger Krait Mk.II, aber ohne Schild. Der ungeschützte Krait ist zwar nicht so manövrierbar wie der Chieftan, hat aber dafür mehr Feuerkraft. Das riesige Kraftwerk vom Krait lässt ihn auch im Normalbetrieb unter 20% Wärme bleiben, was Kühlkörper oder den thermischen Laser für den Auftakt in einen kalten Orbit unnötig macht.
 
 Typ: **Kalter Orbiter**
 
