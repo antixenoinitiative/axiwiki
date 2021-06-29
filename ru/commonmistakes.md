@@ -1,6 +1,6 @@
 ---
-title: Common Mistakes
-description: Without a solid understanding of AX Mechanics it is very easy to make simple mistake when putting together an AX Ship.
+title: Распространенные ошибки
+description: Без чёткого понимания AX механик очень легко допустить ошибки во время сборки AX-корабля.
 published: true
 date: 2021-06-10T07:25:30.677Z
 tags: builds, outfitting, engineer
