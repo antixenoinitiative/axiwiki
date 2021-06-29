@@ -1,6 +1,6 @@
 ---
-title: Speedrun Builds
-description: There are several differences between a general-purpose AX build and a speedrunner - they key difference being the focus of survivability and versatility in general builds
+title: Speedrun Schiffsaustattungen
+description: Es gibt mehrere Unterschiede zwischen generellen AX-Ausstattungen und welchen zum speedrunnen - der Hauptunterschied liegt in der Überlebensfähigkeit
 published: true
 date: 2021-06-10T03:53:16.987Z
 tags: builds, outfitting, speedrunning
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-06-10T03:49:40.037Z
 ---
 
-# Speedrun Builds
+# Speedrun Schiffaustattungen
 
 > These ship builds are not recommended for pilots new to Anti-Xeno Content, they require a solid understanding of Thargoid mechanics and abilities to be able to survive, let alone destroy an Interceptor. **USE THESE AT YOUR OWN RISK!** In the right hands, however, they can be more effective than the standard ones. Click [here](/en/builds) to see our recommended builds for regular AX. 
 > 
