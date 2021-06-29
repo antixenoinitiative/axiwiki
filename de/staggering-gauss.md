@@ -1,6 +1,6 @@
 ---
-title: Staggering Gauss Fire
-description: The advantages and different ways you can stagger gauss fire.
+title: Versetztes Gauss-Kanonen Feuer
+description: Vorteile und verschiedene Herangehensweisen, beim versetzten Abfeuern von Gauss-Kanonen.
 published: true
 date: 2021-06-24T06:27:14.908Z
 tags: combat, weapons, controls
@@ -8,20 +8,20 @@ editor: markdown
 dateCreated: 2021-06-24T06:27:14.908Z
 ---
 
-# Staggering Gauss
-Dividing your gauss into 2 per trigger is a very helpful tool for heat management and is critical to performing successful [Cold Orbiting](/en/cold-orbiting).
+# Gauss-Kanonen Feuer versetzen
+Das Aufteilen der Gauss-Kanonen auf Feuergruppen ist hilfreich dabei, den Wärmeausstoß unter Kontrolle zu halten und notwendig für erfolgreiches [cold-Orbiten](/en/cold-orbiting).
 
-there are 4 main ways of doing it (+ a "bonus one", if we wanna call it that):
-- all at once
-- alternating
-- burst stagger
-- overlapping stagger the "additional" one is gatling gauss, which was invented by CMDR Aranionros Stormrage.
+Es gibt 4 Hauptherangehensweisen damit umzugehen (+ eine etwas speziellere Technik):
+- Alle(s) auf einmal abfeuern
+- Abwechselnd
+- Leicht versetzt
+- Versetzt. Die zusätzliche Technik, wie eine Minigun, wurde von CMDR Aronionros Stormrage erfunden.
 
-## All at Once
-this tecnique implies not actually spitting your gauss, and as such it's the worst for heat given the fact that the distro draw isn't spread out. that said, some ships such as the vulture and corvette can actually utilize this tecnique because their distro is oversized compared to their gauss combination. it's also sometimes used by experienced pilots to aid in heart sniping because of the higher alpha damage.
+## Alle(s) auf einmal abfeuern
+Diese Technik impliziert, die Gauss-Kanonen nicht wirklich aufzuteilen, was wegen der schlechten Verteilung in hohem Wärmeausstoß resultiert. Trotzdem, manche Schiffe (wie die Vulture oder Corvette) können dies wegen ihren relativ großen Verteilen machen. Manchmal wird von erfahrenen Piloten auch Alles auf einmal abgefeuert, um ein Herz schnell zu zerstören.
 
-## Alternating
-this is the entry-level version of stagger. it's far from optimal, but it's still a big step forward in terms of heat management compared to firing all of your gauss at once. however, it doesn't allow for the maximum dps. this tecnique implies dividing your gauss into two, and then only start charging one set of gauss when the other one is done firing.
+## Abwechselnd
+Dies ist die enfachste Version des Versetzens. it's far from optimal, but it's still a big step forward in terms of heat management compared to firing all of your gauss at once. however, it doesn't allow for the maximum dps. this tecnique implies dividing your gauss into two, and then only start charging one set of gauss when the other one is done firing.
 
 ## Burst
 this is a "easier" version of overlapping, with good alpha damage but slightly worse heat characteristics compared to overlapping. it consists of splitting your gauss into two triggers, and then pressing the two triggers with a slight delay in-between. this tecnique allows for the maximum dps.
