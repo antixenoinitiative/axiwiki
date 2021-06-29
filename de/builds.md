@@ -126,40 +126,40 @@ Typ: **Kalter Orbiter**
 
 Empfehlung: Einfach das beste Schiff und Build für die AX-Jagt.
 
-[Coriolis Meta Schildlose-Build](https://s.orbis.zone/eu9w)
+[Coriolis Meta Schildloser Build](https://s.orbis.zone/eu9w)
 
-[EDSY Meta Schildlose Build](https://edsy.org/s/vwJ9Lqq)
+[EDSY Meta Schildloser Build](https://edsy.org/s/vwJ9Lqq)
 
 AX-Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
-### Krait Mk.II (Unshielded)
+### Krait Mk.II (Ohne Schild)
 
-#### **Krait Mk.II (Unshielded)**
+#### **Krait Mk.II (Ohne Schild)**
 
-A shieldless version of the beginner Krait MK.II. The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive power plant also allows it to idle under 20% heat, which allows for cold approaches without a heatsink or thermal vent beam.
+Der Anfänger Krait Mk.II, aber ohne Schild. Der ungeschützte Krait ist zwar nicht so manövrierbar wie der Chieftan, hat aber dafür mehr Feuerkraft. Das riesige Kraftwerk vom Krait lässt ihn auch im Normalbetrieb unter 20% Wärme bleiben, was Kühlkörper oder Thermal vent Laser für den Auftakt in einen kalten Orbit unnötig macht.
 
-Type: **Cold Orbiter**
+Typ: **Kalter Orbiter**
 
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐
-- Shield:
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐⭐
+- Geschwindigkeit: ⭐⭐⭐⭐⭐
+- Beweglichkeit: ⭐⭐⭐
+- Schild:
+- Rüstung: ⭐⭐⭐⭐
+- Feuerkraft: ⭐⭐⭐⭐⭐
 
-Recommendation: A great upgrade from the shielded build.
+Empfehlung: Ein super Upgrade von dem geschützten Build.
 
-[Coriolis Shieldless Build](https://s.orbis.zone/eu9v)
+[Coriolis Schildloser-Build](https://s.orbis.zone/eu9v)
 
-[EDSY Shieldless Build](https://edsy.org/s/vtQUkCk)
+[EDSY Schildloser Build](https://edsy.org/s/vtQUkCk)
 
 AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
-## Advanced Builds
-A collection of more advanced builds can be found on the Advanced Builds page.
+## Fortgeschrittene Builds
+Weitere fortgeschrittene Builds findet man auf der Fortgeschrittene Builds Seite.
 
-View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
+Und noch mehr Builds findet man in unserem [Schiff Build Archiv](/en/buildrepository). Dort sind viele Schiff-Builds mit deren Statistiken, Werten und Build-Links, entworfen von erfahrenen AXI Piloten.
 
 # Scout Builds
-Hunting scouts is a very efficient method to increase combat rank. This is because all scouts are considered dangerous or deadly targets and will give a lot of experience per kill. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
+Scouts zu jagen ist eine sehr effiziente Methode seinen Kampfrang zu erhöhen. Das liegt daran, dass Scouts als Gefährliche oder Tödliche Ziele angesehen werden und eine Menge Erfahrung pro Kill geben. Aufgrund ihres **77% Widerstands** gegen menschliche Waffen ist es sehr ineffizient, normale Waffen gegen Scouts einzusetzen. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
 
 These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. Keep in mind that there is a limit of 4 AX Weapons per vessel.
 
