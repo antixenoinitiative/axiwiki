@@ -24,10 +24,10 @@ Diese Technik impliziert, die Gauss-Kanonen nicht wirklich aufzuteilen, was wege
 Dies ist die enfachste Version des Versetzens. Es ist alles andere als optimal, aber immer noch ein großer Schritt vorwärts beim kontrollieren des Wärmeausstoßes, im Vergleich zum gleichzeitigen Abfeuern aller Gauss-Kanonen. Jedoch bringt es nicht den meisten Schaden pro Sekunde (DPS). Diese Technik bedeutet, dass die Gauss-Kanonen auf zwei Feuergruppen aufgeteilt werden und abwechselnd nacheinander gefeuert werden.
 
 ## Stoßhaft
-Dies ist eine "einfachere" Version des Versetzten abfeuerns, mit gutem Erst-Schaden, aber etwas schlechteren Wärmeeigenschaften im Vergleich. Man spricht von dieser Technik, wenn die Gauss-Kanonen auf 2 Feuergruppen aufzuteilen, und diese dann mit nur leichter Verzögerung von einander abfeuert. this tecnique allows for the maximum dps.
+Dies ist eine "einfachere" Version des versetzten Abfeuerns, mit gutem Erst-Schaden, aber etwas schlechteren Wärmeeigenschaften im Vergleich. Man spricht von dieser Technik, wenn die Gauss-Kanonen auf 2 Feuergruppen aufzuteilen, und diese dann mit nur leichter Verzögerung von einander abfeuert. Diese Technik erlaubt maximalen Schaden pro Sekunde (DPS).
 
-## Overlapping
-this is the "ultimate" tecnique. it offers the best sdps, with the best heat characteristics (without using a macro), but it's also the hardest to learn. however, once one gets to practicing it and builds the muscle memory, it becomes basically second nature. this tecnique consists of dividing your gauss into two triggers, and then overlapping them to start charging one set of gauss while the other still hasn't fired, but is close to.
+## Versetzt
+Dies ist die optimalste Technik. Sie bietet den am besten aufrechtzuerhaltenen Schaden pro Sekunde (sDPS), mit den besten Wärmeeigenschaften (ohne ein Makro zu nutzen). Es ist aber auch das am schwierigsten zu meisternde. Wenn man aber einmal angefangen hat es anzuwenden, bildet sich ein Muskelgedächtnis und es wird zur zweiten Natur. Die Technik besteht darin, die Gauss-Kanonen auf 2 Feuergruppen aufzuteilen und sie dann versetzt abzufeuern. Also während eine Gruppe kurz vorm Abfeuern ist, aber noch lädt, schon zu beginnen die nächste Gruppe aufzuladen.
 
 ## Minigun
-the gauss minigun is different. it requires a macro to switch your firegroups. the purpose of it is to spread out your damage as much as possible while still maintaning max dps to get the best heat caracteristics and the most spread out distro draw out of all the firing modes. this was invented by CMDR Aranionros Stormrage.
+Die Minigun-Technik ist sehr unterschiedlich zu den vorherigen. Es erfordert ein Makro, um die Feuergruppen zu wechseln. the purpose of it is to spread out your damage as much as possible while still maintaning max dps to get the best heat caracteristics and the most spread out distro draw out of all the firing modes. this was invented by CMDR Aranionros Stormrage.
