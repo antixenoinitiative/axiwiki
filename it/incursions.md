@@ -25,9 +25,9 @@ Se un sistema entrerà nello stato di “Incursion” verrà attaccato in massa 
 
 Le navi possono subire un Hyperdiction, mentre saltano in un sistema sotto Incursion.
 
-The GalNet Thargoid Activity report will provide an up-to-date report on the remaining presence of Thargoids within an Incursion system. As more Thargoid vessels are destroyed, the presence level will decrease until the incursion is cleared completely.
+La sezione del GalNet “Thargoid Activity report “ fornisce un rapporto aggiornato sulla presenza residua di Thargoids all'interno di un sistema di Incursione. Man mano che più navi Thargoid vengono distrutte, il livello di presenza diminuirà fino a quando l'incursione non sarà completamente eliminata.
 
-Presence Levels are:
+I livelli di presenza sono:
 
 - Massive Thargoid Presence **0-25% Cleared**
 - Significant Thargoid Presence **25-50% Cleared**
