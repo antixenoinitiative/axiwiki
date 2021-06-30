@@ -1,6 +1,6 @@
 ---
 title: Hyperdictions
-description: About Thargoid Hyperdictions
+description: Informazioni sulle “Hyperdictions” da parte dei Thargoid
 published: true
 date: 2021-06-15T11:09:57.281Z
 tags: thargoids, interceptors
@@ -10,50 +10,50 @@ dateCreated: 2021-06-15T11:06:57.862Z
 
 # Hyperdictions
 
-Hyperdictions are another less direct means to find Thargoids…. for Thargoids to find YOU. Hyperdictions occur when jumping from systems to system in Thargoid activity areas.
+Le Hyperdictions sono un altro mezzo, meno diretto, per trovare Thargoids…. per i thargoid per trovare VOI. Le Hyperdictions si verificano quando si salta da sistema a sistema nelle aree di attività Thargoid.
 
-When a Hyperdiction occurs you will be ripped out of Hyperspace and left floating somewhere in-between the star systems you were jumping from (you will actually still be in the origin system). One of the hyperdicting thargoids will perform an EMP attack, which will shut down your ship if you are not protected (see: Modules). Similar to any other encounter, If the Scans you while carrying Thargoid or Guardian technology (cargo), it will become hostile if you do not drop the items.
+Quando si verifica una Hyperdiction verrai strappato fuori dall’ iperspazio e lasciato a fluttuare da qualche parte tra i sistemi stellari da cui stavi saltando (in realtà sarai ancora nel sistema di origine). Uno dei thargoid che ti ha intercettato eseguirà un attacco EMP, che spegnerà la vostra nave se non avete contromisure (vedi Moduli). Come per ogni altro incontro, Se verrete scansionati mentre trasportate tecnologia Thargoid o Guardian (nel carico), l’inteceptor diventerà ostile se non vi libererete immediatamente degli oggetti.
 
-If you have a Shutdown Field Neutralizer, it is possible to avoid the shutdown and proceed to engage the Interceptors.
+Se si dispone di uno Shurdown Field Neutralizer, è possibile evitare lo spegnimento e prepararsi ad attaccare gli Interceptors.
 
-> Hyperdictions can have more than 1 interceptor, up to 4 in total. 
+> Nelle Hyperdictions potete venire fermati da un minimo di 1 fino ad un massimo di 4 interceptors contemporaneamente. 
 > 
 > {.is-info}
 
-Based on combined research from Canonn and AXI we have found that collecting a sensor and jumping at least once with the sensor activates a hidden permanent ‘**marked**’ effect that applies a 20% Hyperdiction chance in the Pleiades and Witch Head Region.
+Sulla base di ricerche combinate svolte da Canonn e AXI abbiamo scoperto che raccogliere un sensore Thargoid ed effettuare almeno un salto con questo nella stiva vi marcherà permanentemente come ‘**marked**’ che comporta una probabilità di Hyperdiction del 20% nella regione delle Pleiadi e nella Witch Head Nebula (Nebulosa Testa di Strega).
 
-To gather this data we performed the following test several times over on different accounts:
+Per raccogliere questi dati abbiamo eseguito più volte il seguente test su diversi account:
 
-1. Jump 100 times between two systems in Pleiades (Result: Zero Hyperdictions)
-1. Collect a Thargoid Sensor (Also tested Probes and the Proximity Scan from the sensor)
-1. Jump 100 times between the same two systems in the Pleiades (Results: ~20 Hyperdictions)
-1. To further confirm the Hyperdiction rate, CMDR Maligno has done over ~500 Jumps around these regions and found a very constant rate of ~20% per jump (once ‘marked’)
+1. Effettuati 100 salti tra due sistemi nelle Pleaidi (Risultato: Zero Hyperdictions)
+1. Raccogliere un Thargoid Sensor (Effettuato test anche con Thargoid Probes e con la sola scansione della nave da parte del Thargoid Sensor)
+1. Effettuati 100 salti tra due sistemi nelle Pleaidi (Risultato: Zero Hyperdictions)
+1. Per confermare ulteriormente il tasso di Hyperdiction il CMDR Maligno ha fatto circa 500 salt in queste regioni e ha confermato un tasso costante di ~ circa il 20% per salto (una volta 'marked')
 
-## How to get Hyperdictions
-Thargoid Hyperdictions currently only occur when jumping to/from systems within two different regions of space.
+## Come causare una Hyperdiction
+Le Hyperdictions Thargoid si verificano solo quando si salta a/da sistemi all'interno di due specifiche regioni dello spazio.
 
-- The Pleiades Bubble (all systems within 100Ly of Merope)
+- La “bolla”delle Pleiadi (tutti i sistemi entro 100Ly da Merope)
 
-- The Witch Head Bubble (all systems within 75Ly of Witch Head Sector IR-W C1-9)
+- La “bolla” della Witch Head Nebula (tutti i sistemi entro 75Ly da Witch Head Sector IR-W C1-9)
 
-These Hyperdictions will not occur for most pilots unless you activate a hidden "**marked**" effect that is applied by collecting rare Thargoid Commodities.
+Queste Hyperdictions non si verificheranno per la maggior parte dei piloti a meno che non si diventi "**marked**", una sorta di contrassegno nascosto e permanente che si attiva raccogliendo rari prodotti Thargoid.
 
-Based on extensive research from the Anti-Xeno Initiative and Canonn Interstellar Research Group, we have found a distinctive correlation between certain types of Thargoid Commodities causing players to get hyperdicted. The current best understanding is the following:
+Grazie ad una importante ricerca congiunta del gruppo di ricerca Canonn Interstellar e l’ Anti-Xeno Initiative abbiamo definito quali tipi di Thargoid Commodities fanno sì che i piloti subiscano le Hyperdictions. Le attuali conclusioni sono le seguenti:
 
-Collecting a Thargoid Sensor applies a permanent "**marked**" affect on your player that will cause frequent Hyperdictions in the Pleiades and Witch Head Nebula. This affect is permanent once collecting a sensor and will continue to apply without the item in your cargo.
+Raccogliere un Sensore Thargoid applica uno stato "**marked**" permanente al vostro giocatore che causerà frequenti Hyperdictions nelle Pleiadi e nella Nebulosa Witch Head. Questo effetto è permanente: una volta che si raccoglie un sensore continuerà ad applicarsi anche senza l'elemento nel vostro carico.
 
-> Holding the sensor does not directly increase the chances, it only unlocks the 20% chance rate. 
+> Trasportare il sensore non aumenta direttamente le possibilità, “sblocca” solo il marcatore con il 20% di possibilità. 
 > 
 > {.is-info}
 
-The only exception to this is the Thargoid Incursions and Thargoid Infestation system state, which has an independant hyperdiction chance which can cause hyperdictions without any previous interaction with Thargoid Sensors.
+L'unica eccezione si verifica quando un sistema è nello stato “Thargoid Incursions” o “Thargoid Infestation”, che causano una probabilità di Hyperdiction indipendentemente dal fatto che un pilota abbia mai interagito con un Thargoid Sensor.
 
-Thargoid sensors can be easily found at Crashed Thargoid Interceptor sites
+I sensori Thargoid possono essere facilmente trovati nei siti “Crashed Thargoid Interceptor”, con resto di navi thargoid abbattute sul pianeta
 
-## Hyperdiction Statistical Analysis
-*By CMDR Maligno - Canonn Research*
+## Analisi Statistica delle Hyperdictions
+*Del CMDR Maligno - Canonn Research*
 
-When jumping between Celaeno and Asterope it was found that the Hyperdiction rate is 20.7%. When carrying 16 units of Meta-Alloys, the Hyperdiction rate was measured to be 21.6%, which is statistically the same as the baseline scenario. We can confidently conclude that the Hyperdiction rate in the core Pleiades systems is around 20% and is unaffected by carrying Meta-Alloys. [Update: additionally, hundreds of jumps were later carried out with 64 units of meta-alloys, which did not have an effect on the hyperdiction rate either]
+Quando si salta tra Celaeno e Asterope, si è scoperto che il tasso di Hyperdiction è del 20,7%. Quando si trasportano 16 unità di Meta-alloys, il tasso di Hyperdiction è stato misurato al 21,6%, che è statisticamente lo stesso dello scenario di base. We can confidently conclude that the Hyperdiction rate in the core Pleiades systems is around 20% and is unaffected by carrying Meta-Alloys. [Update: additionally, hundreds of jumps were later carried out with 64 units of meta-alloys, which did not have an effect on the hyperdiction rate either]
 
 We now turn to the composition of Hyperdiction scenarios, that is, what sort of Interceptors are present to greet a pilot that has been Hyperdicted.  The table below shows the combinations of Interceptors that were observed in this study, sorted by Interceptor lethality.  A total of 13 unique combinations were observed.  [Update: the results below are the result of further documentation of another several hundred hyperdiction instances]
 
