@@ -48,9 +48,23 @@ dateCreated: 2021-06-08T12:40:49.911Z
 - КМДР Xarionn
 - КМДР St4n2012
 - КМДР Trebiscotti
+- CMDR AlexMG1
+- CMDR Domtron
+- CMDR Grincake
+- CMDR Batro
+- CDMR Blaston
+- CMDR Aileen Leith
+- CMDR Westboyrke
+- CMDR Habba-nero
+- CMDR Talixe
+- CMDR Jugom
+- CMDR Nauva
+- CMDR panther_neo
+- CMDR SGUDestiny
+- CMDR Archiebeales
+- CMDR Douglasjor2
 
 **Разработчики**
-- КМДР Willhof
-- КМДР Sanctified
+- CMDR Sanctified (Willhof)
 
 И всем остальным в Anti-Xeno Initiative кто помог сделать этот проект возможным!
