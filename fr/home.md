@@ -48,9 +48,23 @@ Un grand merci à notre équipe de développement et d'écriture ! ❤️
 - CMDR Xarionn
 - CMDR St4n2012
 - CMDR Trebiscotti
+- CMDR AlexMG1
+- CMDR Domtron
+- CMDR Grincake
+- CMDR Batro
+- CDMR Blaston
+- CMDR Aileen Leith
+- CMDR Westboyrke
+- CMDR Habba-nero
+- CMDR Talixe
+- CMDR Jugom
+- CMDR Nauva
+- CMDR panther_neo
+- CMDR SGUDestiny
+- CMDR Archiebeales
+- CMDR Douglasjor2
 
 **Développeurs**
-- CMDR Willhof
-- CMDR Sanctified
+- CMDR Sanctified (Willhof)
 
 Et à tous ceux de l'Anti-Xeno Initiative qui m'ont aidé à réaliser ce projet !
