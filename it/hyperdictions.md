@@ -53,20 +53,20 @@ I sensori Thargoid possono essere facilmente trovati nei siti “Crashed Thargoi
 ## Analisi Statistica delle Hyperdictions
 *Del CMDR Maligno - Canonn Research*
 
-Quando si salta tra Celaeno e Asterope, si è scoperto che il tasso di Hyperdiction è del 20,7%. Quando si trasportano 16 unità di Meta-alloys, il tasso di Hyperdiction è stato misurato al 21,6%, che è statisticamente lo stesso dello scenario di base. We can confidently conclude that the Hyperdiction rate in the core Pleiades systems is around 20% and is unaffected by carrying Meta-Alloys. [Update: additionally, hundreds of jumps were later carried out with 64 units of meta-alloys, which did not have an effect on the hyperdiction rate either]
+Quando si salta tra Celaeno e Asterope, si è scoperto che il tasso di Hyperdiction è del 20,7%. Quando si trasportano 16 unità di Meta-alloys, il tasso di Hyperdiction è stato misurato al 21,6%, che è statisticamente lo stesso dello scenario di base. Possiamo tranquillamente concludere che il tasso di Hyperdiction nei sistemi delle Pleiadi è di circa il 20% e non è influenzato dal trasporto di Meta-Alloys. [Aggiornamento: inoltre, centinaia di salti sono stati successivamente effettuati con 64 unità di meta-alloys, che non hanno avuto un effetto sul tasso di Hyperdiction]
 
-We now turn to the composition of Hyperdiction scenarios, that is, what sort of Interceptors are present to greet a pilot that has been Hyperdicted.  The table below shows the combinations of Interceptors that were observed in this study, sorted by Interceptor lethality.  A total of 13 unique combinations were observed.  [Update: the results below are the result of further documentation of another several hundred hyperdiction instances]
+Passiamo ora alla analisi degli scenari possibili, cioè quale tipo di Intercettori possono essere presenti a “salutare” un pilota che è stato Hyperdicted.  La tabella sottostante mostra le combinazioni di Interceptor che sono state osservate in questo studio, ordinate per variante.  Sono state osservate in totale 13 combinazioni possibili.  [Aggiornamento: i risultati qui sotto sono il risultato di ulteriori analisi di altre centinaia di casi di Hyperdiction]
 
 !\[hyperanalysis.png\](/img/hyperanalysis.png =550x){.align-center}
 
-As expected, Hyperdiction containing only one or two Cyclopes are the most common, whereas those containing Hydras are far more rare. Of the 539 documented Hyperdictions, only 31 contained at least one Hydra, with 8 cases containing an additional 3 Basilisks and 7 cases containing an additional pair of Medusae. Currently the statistics in this study are sufficiently high that we can state with confidence that a single, unaccompanied Hydra is more common than one accompanied by other Interceptors. Judging from the data, it appears that 50% of the Hydra instances don’t have additional Interceptors, 25% have 3 Basilisks and another 25% have Medusae. The statistics are still too limited to judge if a Hydra accompanied by 2 Medusae is the rarer of the three possibilities. It is interesting to note that cases that have a Medusa as the ranking Interceptor have an analogous set of (less lethal) cohorts: one case with 3 Cyclopes and another with 2 Basilisks.
+Come previsto, le Hyperdictions che contengono solo uno o due Ciclops sono le più comuni, mentre quelle che contengono Hydra sono molto più rare. Delle 539 hyperdiction documentate, solo 31 contenevano almeno una Hydra, con 8 casi contenenti altri 3 Basilisks e 7 casi contenenti una coppia aggiuntiva di Medusa. Attualmente le statistiche di questo studio sono sufficientemente complete da poter affermare con fiducia che un unico Hydra non accompagnato è più comune di uno accompagnato da altri Interceptors. A giudicare dai dati, sembra che il 50% delle istanze di Hydra non abbia Interceptors aggiuntivi, il 25% ha 3 Basilisk e un altro 25% ha Medusa. Le statistiche sono ancora troppo limitate per giudicare se un Hydra accompagnato da 2 Medusa è il più raro delle tre possibilità. È interessante notare che i casi che hanno una Medusa come Interceptor quale variante più pericolosa sono sempre accompagnati da varianti meno letali: un caso con 3 Ciclops e un altro con 2 Basilisks.
 
-No instances with two Hydras or two (unaccompanied) Medusae were ever observed. It’s entirely possible that those combinations exist but are simply exceedingly rare and have therefore not been observed yet.
+Non sono mai stati osservati casi con due Hydra o due Medusa (non accompagnate). È del tutto possibile che queste combinazioni esistano, ma sono semplicemente estremamente rare e quindi non sono ancora state osservate.
 
-Read the full report by CMDR Maligno here: [Study of Hyperdiction Statistics](https://canonn.science/codex/study-of-hyperdiction-statistics/)
+Leggi la relazione completa del CMDR Maligno qui: [Study of Hyperdiction Statistics](https://canonn.science/codex/study-of-hyperdiction-statistics/)
 
-## Hyperdiction Combat Guide
+## Guida Al Combattimento nelle Hyperdictions
 
-CMDR Katie Byrne has put together a comprehensive guide on Hyperdictions.  Her advice is highly encouraged for those who want to test their skills against many Thargoid Interceptors.
+La CMDR Katie Byrne ha messo insieme una guida completa sulle Hyperdictions.  I suoi consigli sono molto utili per coloro che vogliono testare le proprie abilità contro più Thargoid Interceptor contemporaneamente.
 
-[Hyperdiction Combat Guide](https://youtu.be/MpC02cetBlY)
+[Guida Al Combattimento nelle Hyperdictions](https://youtu.be/MpC02cetBlY)
