@@ -48,9 +48,23 @@ Ein großes Dankeschön an unser Content- und Entwicklungsteam! ❤️
 - CMDR Xarionn
 - CMDR St4n2012
 - CMDR Trebiscotti
+- CMDR AlexMG1
+- CMDR Domtron
+- CMDR Grincake
+- CMDR Batro
+- CDMR Blaston
+- CMDR Aileen Leith
+- CMDR Westboyrke
+- CMDR Habba-nero
+- CMDR Talixe
+- CMDR Jugom
+- CMDR Nauva
+- CMDR panther_neo
+- CMDR SGUDestiny
+- CMDR Archiebeales
+- CMDR Douglasjor2
 
 **Entwickler**
-- CMDR Willhof
-- CMDR Sanctified
+- CMDR Sanctified (Willhof)
 
 Und an alle anderen in der Anti-Xeno-Initiative, die dazu beigetragen haben, dieses Projekt zu ermöglichen!
