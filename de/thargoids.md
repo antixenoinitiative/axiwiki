@@ -1,15 +1,15 @@
 ---
 title: Thargoids
 description: Zu Thargoids
-published: ja
-date: 2021-06-23T12:18:32.409Z
+published: true
+date: 2021-06-30T04:50:37.507Z
 tags: thargoids, interceptors, scouts
 editor: markdown
-dateCreated: 2021-06-15T10:10:09.264Z
+dateCreated: 2021-06-24T12:24:27.807Z
 ---
 
 # Thargoids
-!\[cyclops-small.png\](/img/Cyclops-small.png =250x){.align-right} *Die **Thargoids** sind eine nicht-humanoide Rasse mit einer Geschichte der Feindseligkeit gegenüber der Menschheit.*
+![cyclops-small.png](/img/Cyclops-small.png =250x){.align-right} *Die **Thargoids** sind eine nicht-humanoide Rasse mit einer Geschichte der Feindseligkeit gegenüber der Menschheit.*
 
 *Die erste aufgezeichnete Begegnung mit einem Schiff der Thargoids fand im Jahr 2849 statt, obwohl noch frühere undokumentierte Begegnungen vermutet werden. In den folgenden Jahren wurde von periodischem Kontakt mit vereinzelten Thargoid Schiffen berichtet.*
 
