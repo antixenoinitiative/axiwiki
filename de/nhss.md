@@ -1,6 +1,6 @@
 ---
-title: Nicht-menschliche Signalquellen (im englischen NHSS)
-description: Über nicht-menschliche Signalquellen und wie man Thargoids findet
+title: Nichtmenschliche Signalquellen (NHSS)
+description: Über Nichtmenschliche Signalquellen und wie man Thargoids findet
 published: true
 date: 2021-06-15T10:52:49.181Z
 tags: Thargoids, Interceptors, Scouts
@@ -9,15 +9,15 @@ dateCreated: 2021-06-15T10:51:53.374Z
 ---
 
 # Nichtmenschliche Signalquellen
-Non-Human Signal Sources are a special type of signal source that can be found in areas of Thargoid activity, Upon finding and entering a NHSS there is a chance you will get one of three outcomes:
+Nichtmenschliche Signalquellen sind eine spezielle Signalquellen, die in Bereichen von Thargoid-Aktivität gefunden werden können. Beim Finden und Betreten einer NHSS besteht die Chance, dass man eine von drei Situationen antrifft:
 
-- A single Thargoid Interceptor (Cyclops, Basilisk, Medusa or Hydra)
-- A swarm of scouts + a Thargoid Interceptor (Hostile)
-- A swarm of scouts (Lower NHSS)
+- Ein einzelner Thargoid Interceptor (Cyclops, Basilisk, Medusa, oder Hydra)
+- Ein Schwarm von Scouts + ein Thargoid-Interceptor (feindlich)
+- Ein Schwarm von Scouts (niedrigere NHSS)
 
-If you get option 2, the Thargoid Interceptor will emit an EMP pulse when it arrives and it will be immediately hostile
+Bei der zweiten Option wird der Thargoid-Interceptor, bei Ankunft, sofort einen Abschalt-Impuls aussenden und ist sofort feindlich gesinnt.
 
-A NHSS can only be seen while in supercruise. Since they will often appear in bulk, to easily scan them all drop onto the Nav Beacon and scan it. Once you jump into supercruise all NHSS will be unveiled.
+Eine NHSS kann nur im Supercruise erfasst werden. Since they will often appear in bulk, to easily scan them all drop onto the Nav Beacon and scan it. Once you jump into supercruise all NHSS will be unveiled.
 
 NHSS are dynamic and will appear and disappear over time, lasting anywhere up to 30 minutes each.
 
