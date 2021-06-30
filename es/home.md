@@ -48,9 +48,23 @@ La **Wiki de la Anti-Xeno Initiative** tiene muchos temas, si no puedes encontra
 - CMDT Xarionn
 - CMDT St4n2012
 - CMDT Trebiscotti
+- CMDR AlexMG1
+- CMDR Domtron
+- CMDR Grincake
+- CMDR Batro
+- CDMR Blaston
+- CMDR Aileen Leith
+- CMDR Westboyrke
+- CMDR Habba-nero
+- CMDR Talixe
+- CMDR Jugom
+- CMDR Nauva
+- CMDR panther_neo
+- CMDR SGUDestiny
+- CMDR Archiebeales
+- CMDR Douglasjor2
 
 **Desarrolladores**
-- CMDT Willhof
-- CMDT Sanctified
+- CMDR Sanctified (Willhof)
 
 ¡Y a todos los demás de la Anti-Xeno Initiative que han ayudado a hacer posible este proyecto!
