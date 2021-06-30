@@ -19,22 +19,22 @@ Bei der zweiten Option wird der Thargoid-Interceptor, bei Ankunft, sofort einen 
 
 Eine NHSS kann nur im Supercruise erfasst werden. Da sie oft in größerer Menge auftauchen, bietet es sich als Lösung gut an die Navigationsboje des Systems zu scannen. Sobald man in den Supcercruise springt, werden die NHSS sichtbar.
 
-NHSS are dynamic and will appear and disappear over time, lasting anywhere up to 30 minutes each.
+Diese Nichtmenschlichen Signalquellen werden über Zeit erscheinen und auch wieder verschwinden. Jede hält bist zu 30 Minuten an.
 
-In some rare cases (Threat 5-8 only) you will have an empty instance with only damaged ships, in these instances there is a chance you may find a Thargoid Probe or a Thargoid Sensor.
+In einigen seltenen Fällen (nur Bedrohung 5-8) gib es eine leere Instanz, nur mit beschädigten Schiffen, in der die Chance besteht, dass man eine Thargoidsonde oder einen Thargoidsensor findet.
 
-See this investigation into NHSS spawn rates and possible instances: [NHSS Spawn Analysis](https://docs.google.com/spreadsheets/d/e/2PACX-1vRbZ2vWwaUPZlSx9Olg8o8Ml0xGVXQ8Ks7wtYycWfXymCZjn30tvP76fc5ACM1mx_O0ZvYBqI6VW3sa/pubhtml)
+Siehe diese Untersuchung zu Erscheinungs-Raten und möglichen Instanzen: [NHSS Erscheinungs Analyse](https://docs.google.com/spreadsheets/d/e/2PACX-1vRbZ2vWwaUPZlSx9Olg8o8Ml0xGVXQ8Ks7wtYycWfXymCZjn30tvP76fc5ACM1mx_O0ZvYBqI6VW3sa/pubhtml)
 
-The Anti-Xeno Initiative recommends Asterope in the Pleiades Nebula as one of the best Thargoid hunting systems in the game.
+Die Anti-Xeno Initiative empfiehlt das Asterope-System innerhalb des Pleiades Nebels, als einen der besten Thargoid-Jagdgründe im Spiel.
 
-- The system always has a large number of NHSS.
-- Most of the NHSS spawn around the main star and the single station orbiting that star.
-- There are no other planetary bodies or gravity wells to slow you down.
+- Das System hat immer eine große Anzahl von NHSS.
+- Die meisten der NHSS erscheinen um den Hauptstern und die einzelne Raumstation die diesen umkreist.
+- Es gibt keine anderen planetaren Körper oder Gravitationsquellen, um einen zu verlangsamen.
 
-## Threat Level
-Depending on the Threat Level of the NHSS you will find different types of Interceptors or more Scouts. Understanding this is key to finding the Thargoids you’re after for solo attempts.
+## Bedrohungsstufen
+Abhängig von der Bedrohungsstufe der NHSS finden sich verschiedene Arten von Interceptors oder verschieden viele Scouts. Man sollte dies wissen, um die Thargoids zu finden hinter denen man auch her ist.
 
-Threat Levels:
+Bedrohungsstufen:
 
 - **[Bedrohung 2]** - 1x Thargoidsonde
 - **[Bedrohung 3]** - 2x Scouts
@@ -45,12 +45,12 @@ Threat Levels:
 - **[Bedrohung 8]** - 1x Hydra* oder 1x Medusa + 4x Scouts
 - **[Bedrohung 9]** - 1x Hydra + 4x Scouts
 
-> Lone Hydras can only currently be found in the Coalsack Nebula. Every Threat 8 in the Pleiades Nebula or the Witch Head Nebula will contain 1x Medusa + 4x Scouts. **With one exception**: The system Pleiades Sector MI-S B4-0 contains Solo Hydras, present in both regular and guaranteed Threat 8 signal sources 
+> Einzelne Hydras können durch NHSS derzeit nur im Coalsack Nebel angetoffen werden. Jede Stufe 8 Bedrohung im Pleiades- oder Witch Head Nebel enthält 1x Medusa + 4x Scouts. **Mit einer Ausnahme**: Das Pleiades Sector MI-S B4-0 -System beinhaltet einzelne Hydras, in normalen und garantierten Signalquellen der Bedrohungsstufe 8. 
 > 
 > {.is-info}
 
-## Guaranteed Interceptor Signals
-If a NHSS has a **Salvage** icon next to it in the navigation panel, you will ALWAYS get a solo Interceptor based of the list above. For example, here is a guaranteed **Basilisk** signal source. Additionally, this instance is slightly different, as it only includes small debris and no green cloud. ![nhss.png](/img/nhss.png) Note: The small canister symbol on the left.
+## Garantierte Signalquellen für Interceptors
+Wenn eine NHSS ein **Bergung**-Symbol im Navigations-Panel hat, wird man IMMER einen einzelnen Interceptor gemäß der Bedrohungsstufe antreffen. Zum Beispiel; hier eine garantierte **Basilisk** Signalquelle. Außerdem sind diese Instanzen leicht anders, sie beinhalten nur kleine Trümmer und keine grüne Wolke. ![nhss.png](/img/nhss.png) Hinweis: Das kleine Kanister-Symbol auf der Linken.
 
-## NHSS Spawn Table
+## NHSS Erscheinungs-Tabelle
 ![nhsstable.png](/img/nhsstable.png)
