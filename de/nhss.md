@@ -17,7 +17,7 @@ Nichtmenschliche Signalquellen sind eine spezielle Signalquellen, die in Bereich
 
 Bei der zweiten Option wird der Thargoid-Interceptor, bei Ankunft, sofort einen Abschalt-Impuls aussenden und ist sofort feindlich gesinnt.
 
-Eine NHSS kann nur im Supercruise erfasst werden. Since they will often appear in bulk, to easily scan them all drop onto the Nav Beacon and scan it. Once you jump into supercruise all NHSS will be unveiled.
+Eine NHSS kann nur im Supercruise erfasst werden. Da sie oft in größerer Menge auftauchen, bietet es sich als Lösung gut an die Navigationsboje des Systems zu scannen. Sobald man in den Supcercruise springt, werden die NHSS sichtbar.
 
 NHSS are dynamic and will appear and disappear over time, lasting anywhere up to 30 minutes each.
 
