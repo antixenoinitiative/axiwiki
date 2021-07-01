@@ -1,5 +1,5 @@
 ---
-title: Scouts
+title: Разведчики
 description: About Thargoid Scouts
 published: true
 date: 2021-06-15T10:36:02.053Z
@@ -8,10 +8,10 @@ editor: markdown
 dateCreated: 2021-06-15T10:36:00.013Z
 ---
 
-# Scouts
+# Разведчики
 !\[scouts.jpg\](/img/scouts.jpg =450x){.align-right}Scouts are a smaller Thargoid vessel and can be found in all types of Non-Human Signal Source. Scouts are immediately hostile and in groups can deal significant damage to an unprepared pilot. Scouts, unlike interceptors, have 77% resistance to human weapons, rather than 99%. This reduced damage resistance makes it possible to kill Scouts with human weapon systems, however specialized AX weapon systems are still far more effective and efficient than their human counterparts.
 
-# Variants
+# Варианты
 
 Thargoid scouts come in multiple variants, each with their own special abilities.
 
@@ -27,7 +27,7 @@ Similar to Regenerator, Beserker variants are marauders with a special ability. 
 ## Inciter
 Inciters are the same as a marauders with a special ability. When used the scout will emit an energy pulse to all nearby scouts, buffing their speed and maneuverability temporarily. Inciters have a pink/red appearance.
 
-# Traits
+# Особенности
 - Scouts are ALWAYS hostile.
 - Scouts have 77% resistance to conventional human weapons.
 - Scouts are immune to missiles and torpedoes (they bounce off).

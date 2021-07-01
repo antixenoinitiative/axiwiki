@@ -12,7 +12,7 @@ dateCreated: 2021-06-08T12:40:49.911Z
 
 # Willkommen!
 
-Willkommen im Wiki der Anti-Xeno Initiative, Deiner Quelle für Alles rum um Anti-Xeno! Dies ist das primäre Informationsarchiv der Anti-Xeno-Initiative, Hier finden Sie Tutorials, Führer und alle Arten von Daten zum Thargoid Combat in Elite Dangerous.
+Willkommen im Wiki der Anti-Xeno Initiative, deiner Quelle für Alles rund um Anti-Xeno Aktivitäten! Dies ist das primäre Informationsarchiv der Anti-Xeno-Initiative, hier findet man Einführungen, Leitfäden und alle Arten von Daten zum Thargoid bekämpfen in Elite Dangerous.
 
 
 # Erkunden
@@ -25,12 +25,12 @@ Oder benutze die Navigationleiste ouf der **linken Seite** um das Wiki zu durchs
 
 ![](/img/2021-06-21_15_17_34-home___anti-xeno_initiative_wiki_-_beta.png)
 
-Das **Wiki der Anti-Xeno Initiative** hat viele Tehmen. Falls du etwas nicht findest, lass uns im Channel **\#website-discussion** im [AXI Discord](https://discord.gg/bqmDxdm) wissen.
+Das **Wiki der Anti-Xeno Initiative** hat viele Themen. Falls du etwas nicht findest, lass uns im Channel **\#website-discussion** im [AXI Discord](https://discord.gg/bqmDxdm) wissen.
 
 # Beitragen
 Du möchtest Teil des Projekts **Wiki der Anti-Xeno Initiative** werden? Werde Mitglied im [AXI Discord](https://discord.gg/bqmDxdm) und frage nach, wie du zum Editor werden kannst!
 
-# Credits
+# Danksagung
 
 Ein großes Dankeschön an unser Content- und Entwicklungsteam! ❤️
 
@@ -50,7 +50,7 @@ Ein großes Dankeschön an unser Content- und Entwicklungsteam! ❤️
 - CMDR Trebiscotti
 - CMDR AlexMG1
 - CMDR Domtron
-- CMDR Grincake
+- CMDR Grinkel
 - CMDR Batro
 - CDMR Blaston
 - CMDR Aileen Leith

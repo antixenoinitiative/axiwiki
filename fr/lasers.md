@@ -1,6 +1,6 @@
 ---
 title: Lasers
-description: Using laser in AX combat.
+description: Utilisation du laser dans les combats AX.
 published: true
 date: 2021-06-10T06:08:40.833Z
 tags: outfitting, modules
@@ -9,29 +9,29 @@ dateCreated: 2021-06-10T04:07:02.325Z
 ---
 
 # Lasers
-`Guide by CMDR Naddesh and CMDR Ghosti`
+`Guide écrit par CMDR Naddesh et CMDR Ghosti`
 
-Overall human weapons are largely useless in Anti-Xeno combat. There are however a few exceptions which give added utility and allow for certain special tactics that can greatly improve your combat prowess.
+En général, les armes humaines sont inutiles dans les combats anti-xeno. Il y a cependant quelques exceptions qui donnent de l'utilité supplémentaire et qui permettent certaines tactiques spéciales qui peuvent grandement améliorer vos prouesses en combat.
 
-## Thermal Vent Beam Lasers
+## Lasers avec ventilation thermique
 
-The most popular variant is the Thermal Vent Long Range Beam Laser.
+La variante la plus populaire est le laser à longue portée avec ventilation thermique.
 
-The primary function is its cooling effect which comes from the experimental effect ‘Thermal Vent’. AX pilots can use the TV beam to cool their ship below the 20% heat threshold outside of an attack run (when not exerting and destroying hearts).
+Sa fonction principale est son effet de refroidissement qui vient de l’effet expérimental ‘Ventilation Thermique’. Les pilotes AX peuvent utiliser ces lasers pour refroidir leur vaisseau en dessous du seuil des 20 % de chaleur, et ce en étant en dehors d'une phase d'attaque (lorsqu'on n'essaye pas d'extraire ou de détruire un cœur).
 
-The main example of this function is cooling down when starting the attack run. Here the long range modification proves its worth. Since the Interceptor does not fire upon you unless you closer than 3 kilometers away, with the long range beam you can start cooling even at 6 kilometers away (G5) without having to waste a heatsink on the approach (minimum recommended engineering is G3).
+L'usage principal de ce laser est le refroidissement au début d'une phase d'attaque. Dans cet exemple, la modification longue portée prouve son importance. Puisque l'Intercepteur ne tire pas sur vous à moins que vous ne vous approchiez à moins de 3 kilomètres de lui, vous pouvez commencer à refroidir votre vaisseau même à 6 kilomètres (grade 5) avec le laser à longue portée, et ce sans avoir à gaspiller un dissipateur thermique pour s'en approcher (le grade de modification d'ingénieur minimum recommandé est le 3ème).
 
-Another example is orbiting the Interceptor practically indefinitely without using heatsinks, which is useful when you need to quickly synth something, use your AFMU, or kite the Interceptor until your wingmates can rejoin the fight.
+Une autre utilisation possible est d'orbiter autour de l'intercepteur pratiquement indéfiniment sans utiliser de dissipateurs thermiques, ce qui est utile lorsque vous avez besoin de synthétiser rapidement quelque chose, d'utiliser votre unité de maintenance, ou de temporiser l'Intercepteur jusqu'à ce que vos compagnons d'escadrille puissent rejoindre le combat.
 
-A third usage case, specific to large ship combat, is using TV beams in combination with a heatsink to keep cool while synthing and prior to performing a cold reboot after the heart. This is an advanced tactic, for more information refer to the Large Ship Guide.
+Un troisième cas d'utilisation, spécifique au combat avec des vaisseaux de taille large, est d'utiliser ce type de laser en combinaison avec un dissipateur thermique pour garder une basse température pendant des synthèses et avant d'effectuer un cold reboot après la destruction d'un cœur. Il s'agit d'une tactique avancée, pour plus d'informations, reportez-vous au Grand Guide des Vaisseaux Larges.
 
-The cooling of the TV beam depends on the thermal load the beam produces (**The more heat generated per second, the more effective the cooling will be**)
+Le refroidissement généré par les lasers à ventilation thermique dépend de la charge thermique produite par le laser (**Plus il génère de la chaleur, plus le refroidissement sera efficace**)
 
-Gimballed beam lasers generate the most heat (thus have the best cooling effect) and are much easier to maintain on target.
+Les lasers installés sur des points d'emport rotatifs (gimball) sont ceux qui génèrent le plus de chaleur (ils ont donc le meilleur effet de refroidissement) et ils sont également beaucoup plus faciles à maintenir sur la cible.
 
-Fixed beam lasers are only slightly worse for heat but deal higher damage and gives you the possibility of sniping the caustic missiles (which is practically useless but fun).
+Les lasers fixes sont légèrement moins bons pour générer de la chaleur, mais ils infligent des dégâts plus élevés et vous donnent la possibilité de tirer sur les missiles caustiques (ce qui est pratiquement inutile mais amusant).
 
-Turreted beam lasers have very low heat generation (and thus, dissipation) and do not work well as Thermal Vent beams. Their only saving grace is their high time on target, which allow for a slower but more mindless cooling method.
+Les lasers montés en tourelle ont une très faible génération de chaleur (et donc une faible dissipation) et ne fonctionnent pas très bien comme lasers à ventilation thermique. Their only saving grace is their high time on target, which allow for a slower but more mindless cooling method.
 
 You might ask yourself – *“Isn’t it possible to use a beam instead of heatsinks to keep my ship cool during the attack run?” The short answer is “no”. The long answer is that not only does it not cool you enough while shooting Gauss Cannons, but also increases your weapon distributor draw, increasing the gauss heat generation even more.*
 
