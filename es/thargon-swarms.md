@@ -19,46 +19,46 @@ Durante los combates planetarios, el Interceptor no desplegará enjambres.
 - **Proyectiles cáusticos** que hacen un gran daño a los escudos y los penetran, infligiendo daño al casco. Contra objetivos sin escudo, estos proyectiles son muy inexactos y el enjambre fallará la mayoría de sus disparos. La firma de calor no afecta visiblemente a su precisión, pero cambiar rápidamente su vector o rodar lo protegerá un poco. Este ataque tiene un alcance máximo de alrededor de 2 km. A pesar del nombre, estos no causan efectos cáusticos, sino que infligen daño cáustico directo, que puede ser minimizado por módulos como el Paquete de Refuerzo del Casco Guardián.
 - **Misiles Kamikaze** que matan al Thargon, pero infligen daños masivos en el casco y el módulo. Los misiles son rápidos (aproximadamente 600 m/s) pero de corta duración. Contra un objetivo sin Escudos, estos harán un daño tremendo, pero una construcción con Escudos y con 4 pips a SIS debería sobrevivir a una volea de misil regular con relativa facilidad. Sin escudos, estos pueden potencialmente destruir módulos de 1 disparo incluso a través de un paquete de refuerzo de módulo guardián. Estos misiles parecen causar daños por colisión, ya que no interrumpen la síntesis ni reinicios. Este ataque se dispara dentro de los 3 km de alcance, y solo si el enjambre está en formación de misiles.
 
-If a non-aggressive Interceptor’s personal space is invaded (500m), it will deploy a warning swarm as well as glow red and ‘threaten’ the pilot who got too close. This swarm will not immediately attack, but instead will circle around the Interceptor, ready to engage at a moment’s notice. If the threat backs away, the Interceptor will recall the swarm and continue its previous actions. If it does not, the swarm will detach and the battle begins.
+Si el espacio personal de un Interceptor no agresivo es invadido (500m), desplegará un enjambre de advertencia, así como brillará de color rojo y 'amenazará' al piloto que se acercó demasiado. Este enjambre no atacará inmediatamente, sino que rodeará al Interceptor, listo para participar en cualquier momento. Si la amenaza retrocede, el Interceptor llamará al enjambre de vuelta y continuará sus acciones anteriores. Si no lo hace, el enjambre se separará y comenzará la batalla.
 
-If a non-aggressive Interceptor is shot or rammed, a hostile swarm will immediately be deployed and the interceptor will attack.
+Si un interceptor no agresivo es disparado o embestido, un enjambre hostil será desplegado inmediatamente y el interceptor atacará.
 
-# Deployment Mechanisms
-The Thargoid Interceptor will always try to deploy a swarm when it enters combat, furthermore it will do the following:
+# Mecanismos de Despliegue
+El Interceptor Thargoid siempre intentará desplegar un enjambre cuando entre en combate, además hará lo siguiente:
 # {.tabset}
-## Banking
-In addition to the first swarm launched at the start of the fight, the Interceptor can deploy another one for every heart it loses (only one may be deployed at a time). If there is an existing swarm and a heart is destroyed, the Interceptor will ‘bank’ one swarm (and only one, it can’t bank multiple) and release it immediately upon the destruction of the existing one.
+## Poner en Banca (Reserva)
+Además del primer enjambre lanzado al comienzo de la lucha, el Interceptor puede desplegar otro por cada corazón que pierde (solo se puede desplegar uno a la vez). Si hay un enjambre existente y un corazón es destruido, el Interceptor 'depositará en Banca' un enjambre (y solo uno, no puede depositar múltiples) y lo liberará inmediatamente después de la destrucción del existente.
 
-## Refills
-The Interceptor may send out a ‘refill’ call at any time, usually if the swarm is low in number, which will cause the swarm to respond with a screeching sound and return to the Interceptor completely refilling its numbers. This does not count against the banked swarm, and there doesn’t have to be a banked swarm for a refill to happen.
+## Recargas
+El Interceptor puede enviar una llamada de 'recarga' en cualquier momento, generalmente si el enjambre es bajo en número, lo que hará que el enjambre responda con un sonido chirriante y regrese al Interceptor rellenando completamente sus números. Esto no cuenta contra el enjambre bancado (en reserva), y no tiene que haber un enjambre bancado para que ocurra una recarga.
 
-## Enrage
-After some time passes without a heart being destroyed, the Interceptor will enter an ‘enraged’ state. The timer for this is 6 minutes for the Cyclops, 7 minutes for the Basilisk and Medusa, and 8 minutes for the Hydra. The timer starts the moment the Interceptor enters combat, and is reset every time a heart is destroyed. Upon triggering the enrage, replacement swarms are immediately released upon one’s destruction and if a Thargon Missile attack is triggered the entire swarm will turn into missiles at the same time. This attack is usually fatal unless avoided.
+## Enfurecido
+Después de que pase algún tiempo sin que un corazón sea destruido, el Interceptor entrará en un estado de "enfurecido". El temporizador para esto es de 6 minutos para el Cíclope, 7 minutos para el Basilisco y Medusa, y 8 minutos para la Hydra. El temporizador comienza en el momento en que el Interceptor entra en combate, y se restablece cada vez que se destruye un corazón. Al desencadenar el enfurecimiento, los enjambres son reemplazado inmediatamente tras la destrucción de uno y si se desencadena un ataque de misiles Thargon, todo el enjambre se convertirá en misiles al mismo tiempo. Este ataque es normalmente fatal a menos que se evite.
 
-# Formations
-Swarms will user various formations, these can tell us information about it's behaviour and how it will react.
+# Formaciones
+Los enjambres usarán varias formaciones, estas pueden decirnos información sobre su comportamiento y cómo reaccionará.
 
 # {.tabset}
-## Ball Formation
-![embeddedimage_(1).png](/img/embeddedimage_(1).png) Left to Right: Cyclops Ball, Medusa Ball
+## Formación de Balón
+![embeddedimage_(1).png](/img/embeddedimage_(1).png) De izquierda a derecha: Balón Cíclope, Balón Medusa
 
-This is the Cyclops’ only non-missile formation, and it is also used by the other variants (though more rarely as they prefer their more advanced formations). This formation is easiest to destroy, requiring only a very few well placed shots in the center of the ball.
-
-
-## Ring Formation
-![embeddedimage_(2).png](/img/embeddedimage_(2).png) Left to Right: Medusa Ring, Hydra Ring
-
-The dreaded ring formation is the preferred formation with the Medusae and Hydrae. It is significantly more difficult to destroy, with flak shells detonating in the center doing no damage whatsoever. Widely offset flak (such as on the Cutter’s wings) or manually aiming away from the reticle are necessary to deal with this form.
+Esta es la única formación no misil del Cíclope, y también es utilizada por las otras variantes (aunque más raramente ya que prefieren sus formaciones más avanzadas). Esta formación es la más fácil de destruir, requiriendo sólo unos pocos tiros bien colocados en el centro del Balón.
 
 
-## Cone/Spiral Formation
-![embeddedimage_(3).png](/img/embeddedimage_(3).png) Left to Right: Basilisk Cone, Medusa Cone
+## Formación de anillos
+![embeddedimage_(2).png](/img/embeddedimage_(2).png) De izquierda a derecha: Anillo Medusa, Anillo Hydra
 
-The Cone or Spiral formation is first used by the Basilisk and it is not uncommon with stronger variants. Much like the Ball formation, this one is easy to destroy, with only several shots at the tip of the spiral needed.
+La temida formación de anillos es la formación preferida de las Medusas e Hydras. Es significativamente más difícil de destruir, con flaks antiaéreos porque si detonan en el centro no causan daño alguno. Para lidiar con esta forma, es necesario unos Flaks antiaéreos ampliamente compensados \[muy al costado "lejos del centro"\](como en las alas del Imperial Cutter) o apuntar manualmente lejos de la retícula.
 
 
-## Death Wall Formation
-![embeddedimage_(4).png](/img/embeddedimage_(4).png) Left to Right: Cyclops Death Wall, Medusa Death Wall
+## Formación de Cono/Espiral
+![embeddedimage_(3).png](/img/embeddedimage_(3).png) De izquierda a derecha: Cono Basilisco, Cono Medusa
+
+La formación cono o espiral es utilizada por primera vez por el Basilisco y no es raro con variantes más fuertes. Al igual que la formación Balón, esta es fácil de destruir, solo se necesitan varios disparos en la punta de la espiral.
+
+
+## Formación del Muro de la Muerte
+![embeddedimage_(4).png](/img/embeddedimage_(4).png) De izquierda a derecha: Muro de la muerte de Cíclope, Muro de la muerte de Medusa
 
 The Death Wall (Flat Spiral) is the Cyclops’ only missile formation, and it is also used by the other variants (though more rarely as they prefer their more advanced formations)
 
