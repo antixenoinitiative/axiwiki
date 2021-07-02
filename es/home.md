@@ -1,7 +1,7 @@
 ---
 title: Inicio
 description: Bienvenido a la Wiki de la Anti-Xeno Initiative. Su repositorio completo para Combate Anti-Xeno.
-published: true
+published: verdadero
 date: 2021-06-24T02:38:47.135Z
 tags:
 editor: markdown
@@ -54,7 +54,7 @@ La **Wiki de la Anti-Xeno Initiative** tiene muchos temas, si no puedes encontra
 - CMDR Batro
 - CDMR Blaston
 - CMDR Aileen Leith
-- CMDR Westboyrke
+- CMDR Westboyrake
 - CMDR Habba-nero
 - CMDR Talixe
 - CMDR Jugom
