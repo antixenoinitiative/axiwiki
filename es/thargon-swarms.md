@@ -95,6 +95,6 @@ Si el Interceptor está enfurecido, reduzca el enjambre a números bajos (15-30 
 Además, si el enjambre llega a aproximadamente 10 km del Thargoid, se dará la vuelta y volará de regreso al Interceptor.
 
 ## Cambio de posición de Interceptor y Enjambre
-En algunos casos, como cuando el jugador está demasiado lejos del Interceptor cuando se suelta el enjambre (más allá de los 6 km), el enjambre permanecerá detrás del Interceptor y será imposible atacarlo sin recibir fuego del Interceptor. Para cambiar sus posiciones, impulse pasando el Interceptor (pero no directamente hacia él). Its inertia will cause it to drift away but the swarm will make a much sharper turn.
+En algunos casos, como cuando el jugador está demasiado lejos del Interceptor cuando se suelta el enjambre (más allá de los 6 km), el enjambre permanecerá detrás del Interceptor y será imposible atacarlo sin recibir fuego del Interceptor. Para cambiar sus posiciones, impulse pasando el Interceptor (pero no directamente hacia él). Su inmovilidad hará que se aleje, pero el enjambre hará un giro mucho más brusco.
 
-[See this video for a visual example of how to switch Interceptor and Swarm positions.](https://youtu.be/nvEDF6eI1z8)
+[Vea este video para un ejemplo visual de cómo cambiar las posiciones de Interceptor y Enjambre.](https://youtu.be/nvEDF6eI1z8)
