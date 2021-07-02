@@ -60,41 +60,41 @@ La formación cono o espiral es utilizada por primera vez por el Basilisco y no 
 ## Formación del Muro de la Muerte
 ![embeddedimage_(4).png](/img/embeddedimage_(4).png) De izquierda a derecha: Muro de la muerte de Cíclope, Muro de la muerte de Medusa
 
-The Death Wall (Flat Spiral) is the Cyclops’ only missile formation, and it is also used by the other variants (though more rarely as they prefer their more advanced formations)
+El Muro de la Muerte (Espiral Plana) es la única formación de misiles del Cíclope, y también es utilizado por las otras variantes (aunque más raramente ya que prefieren sus formaciones más avanzadas)
 
 
-## Death Spiral Formation
-![embeddedimage_(5).png](/img/embeddedimage_(5).png) Left to Right: Basilisk Death Spiral, Hydra Death Spiral
+## Formación Espiral de la Muerte
+![embeddedimage_(5).png](/img/embeddedimage_(5).png) De izquierda a derecha: Espiral de muerte de Basilisco, Espiral de muerte de Hydra
 
-The Death Spiral is a missile formation first used by the Basilisk, and it is not uncommon with stronger variants. Unlike the regular Cone/Spiral, this formation has a gap at the center so is more difficult to destroy. Flak shells detonating at the center will cause less damage (but still kill at least a few Thargons)
-
-
-## Ring of Death Formation
-![embeddedimage_(6).png](/img/embeddedimage_(6).png) Left to Right: Medusa Ring Of Death, Hydra Ring Of Death
-
-The Ring of Death is used commonly by the Medusa and Hydra, and attempting to destroy this ring is not recommended. It would cost too much time and ammunition - instead the missiles should be baited and the swarm destroyed in a simpler formation.
-
-# Advanced Mechanics
-## States
-The Thargon swarm can exist in one of two states. These states are independent of formations, and the only thing that triggers a state change is the swarm passing through a ship. We shall refer to these states as ‘Standard’ and ‘Agitated’.
-
-When a swarm is deployed, it is always in the Standard state. While in this state it will never enter a missile formation, **not even if the Interceptor is enraged**. In addition to this, a swarm deployed while an Interceptor is enraged is also initially in the Standard state. This state changes **only if the swarm passes through a ship**. (The state won’t change to Agitated for a short time after the swarm is released for a period of up to 30s, even if a ship boosts through the swarm).
-
-When the swarm passes through a ship it enters the Agitated state. This state is visually indistinguishable from the Standard state, but it differs in the fact that while in this state the swarm will periodically (every 20-30s) enter a missile formation. Missile formations are slower than the regular ones (360m/s as opposed to 500m/s), and a swarm will remain in missile formation indefinitely as long as it remains in range of the Interceptor, and until it deploys several missiles (usually 10-15% of the swarm’s maximum number). After deploying missiles it will revert to a random regular formation and remain in Agitated state. This state will only end if the swarm passes through a ship once more, or if the swarm is killed and a new one takes its place.
-
-## Maneuvers and counters
-A swarm can be kept in the Standard state for the entire duration of the fight. This means that agile ships such as the chieftain (particularly shieldless versions) can avoid using flak altogether. The low accuracy of the swarm’s caustic projectiles against shieldless targets combined with the lack of Thargon Missiles eliminates the threat that the swarm presents. If the swarm at any point enters an Agitated state, one can bait the missiles before boosting through the swarm, reverting it back to the Standard state.
-
-The easiest way to bait a swarm is to allow it to catch up (missile formation moves at around 360m/s when near firing range) and once it is within 3km missiles will begin to fire. Maintain distance of 2.9km reversing at around 300m/s and the missiles will expire before reaching you. Follow this up with a boost through the swarm after it reverts to a non-missile formation.
-
-[See this video for a visual example of how to bait the swarm.](https://youtu.be/kTBdvXzyYx8)
+La Espiral de la Muerte es una formación de misiles utilizada por primera vez por el Basilisco, y no es raro con variantes más fuertes. A diferencia del Cono/Espiral regular, esta formación tiene una brecha en el centro por lo que es más difícil de destruir. Los Flaks antiaéreos que detonan en el centro causarán menos daño (pero aún así matarán al menos a algunos Thargons)
 
 
-If the Interceptor is enraged, bring the swarm down to low numbers (15-30 Thargons) and attempt to maintain the Standard state. If the Agitated state is triggered, boost away and bait the swarm. Make sure to cause every single one of them to launch. Afterwards a new swarm in the Standard state will be launched.
+## Anillo de Formación de la Muerte
+![embeddedimage_(6).png](/img/embeddedimage_(6).png) De izquierda a derecha: Anillo de la muerte de Medusa, Anillo de la muerte de Hydra
 
-Also, should the swarm reach approximately 10km from the Thargoid, it will turn around and fly back to the Interceptor.
+El Anillo de la Muerte es usado comúnmente por Medusa e Hydra, y no se recomienda intentar destruir este anillo. Costaría demasiado tiempo y munición; en cambio, los misiles deberían cebarse (atraerse) y el enjambre destruido en una formación más simple.
 
-## Switching Interceptor and Swarm Position
-In some cases, such as when the player is too far away from the Interceptor when the swarm is released (beyond 6km), the swarm will stay behind the Interceptor and engaging it will be impossible without taking fire from the Interceptor. To switch their positions, boost past the Interceptor (but not directly at it). Its inertia will cause it to drift away but the swarm will make a much sharper turn.
+# Mecánicas Avanzadas
+## Estados
+El enjambre de Thargon puede existir en uno de los dos Estados. Estos Estados son independientes de las formaciones, y lo único que desencadena un cambio de Estado es el enjambre que pasa por una Nave. Nos referiremos a estos Estados como «Estándar» y «Agitados».
+
+Cuando se despliega un Enjambre, siempre está en el estado Estándar. Mientras que en este estado nunca entrará en una formación de misiles, **ni siquiera si el Interceptor se enfurece**. Además de esto, un enjambre desplegado mientras un Interceptor está enfurecido también está inicialmente en el estado Estándar. Este estado cambia **sólo si el enjambre pasa a través de una Nave**. (El estado no cambiará a Agitado por un corto tiempo después de que el enjambre sea liberado por un período de hasta 30s, incluso si una nave avanza a través del enjambre).
+
+Cuando el enjambre pasa a través de una nave entra en el estado agitado. Este estado es visualmente indistinguible del estado Estándar, pero difiere en el hecho de que mientras que en este estado el enjambre periódicamente (cada 20-30s) entrará en una formación de misiles. Las formaciones de misiles son más lentas que las normales (360 m/s en lugar de 500 m/s), y un enjambre permanecerá en formación de misiles indefinidamente mientras permanezca en el alcance del Interceptor, y hasta que despliegue varios misiles (generalmente el 10-15% del número máximo del enjambre). Después de desplegar misiles, volverá a una formación regular aleatoria y permanecerá en estado agitado. Este estado solo terminará si el enjambre pasa a través de una nave una vez más, o si el enjambre es asesinado y uno nuevo toma su lugar.
+
+## Maniobras y contadores
+Un enjambre se puede mantener en el estado Estándar durante toda la lucha. Esto significa que las naves ágiles como el chieftain (particularmente las versiones sin escudo) pueden evitar el uso de flak por completo. La baja precisión de los proyectiles cáusticos del enjambre contra objetivos sin escudo combinada con la falta de misiles Thargon elimina la amenaza que presenta el enjambre. Si el enjambre en cualquier punto entra en un estado agitado, uno puede cebar los misiles antes de impulsar con un Turbo a través del enjambre, revirtiendo de nuevo al estado estándar.
+
+La forma más fácil de cebar a un enjambre es permitir que lo alcance (la formación de misiles se mueve a alrededor de 360 m/s cuando está cerca del campo de tiro) y una vez que esté dentro de los 3 km los misiles comenzarán a disparar. Mantenga una distancia de 2,9 km dando marcha atrás a unos 300 m/s y los misiles caducarán antes de llegar a usted. Siga esto con un impulso a través del enjambre después de que vuelve a una formación no misil.
+
+[Vea este video para ver un ejemplo visual de cómo cebar el enjambre.](https://youtu.be/kTBdvXzyYx8)
+
+
+Si el Interceptor está enfurecido, reduzca el enjambre a números bajos (15-30 Thargons) e intente mantener el estado Estándar. Si se activa el estado de agitación, aleja y ceba al enjambre. Asegúrese de hacer que dispara cada uno de ellos. Posteriormente se lanzará un nuevo enjambre en el estado Estándar.
+
+Además, si el enjambre llega a aproximadamente 10 km del Thargoid, se dará la vuelta y volará de regreso al Interceptor.
+
+## Cambio de posición de Interceptor y Enjambre
+En algunos casos, como cuando el jugador está demasiado lejos del Interceptor cuando se suelta el enjambre (más allá de los 6 km), el enjambre permanecerá detrás del Interceptor y será imposible atacarlo sin recibir fuego del Interceptor. Para cambiar sus posiciones, impulse pasando el Interceptor (pero no directamente hacia él). Its inertia will cause it to drift away but the swarm will make a much sharper turn.
 
 [See this video for a visual example of how to switch Interceptor and Swarm positions.](https://youtu.be/nvEDF6eI1z8)
