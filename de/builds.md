@@ -61,7 +61,7 @@ Empfehlung: Bestes Starterschiff für neue Piloten.
 
 AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
-Note: While this build uses Lo-Draw on the shields, Fast Charge experimental is also a great option that requires more pip management but faster recharge.
+Hinweis: Während dieser Build Lo-Draw auf den Schilden verwendet, ist Fast Charge (Schnellader) experimentell auch eine großartige Option, die mehr Pip-Management erfordert, aber schneller Aufläd.
 
 ### Alliance Chieftain (Schild)
 
