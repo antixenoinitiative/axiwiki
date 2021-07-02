@@ -33,11 +33,11 @@ Les lasers fixes sont légèrement moins bons pour générer de la chaleur, mais
 
 Les lasers montés en tourelle ont une très faible génération de chaleur (et donc une faible dissipation) et ne fonctionnent pas très bien comme lasers à ventilation thermique. Leur seul avantage est leur capacité à tirer plus longtemps sur la cible, ce qui permet un refroidissement plus lent mais qui ne demande pas de viser.
 
-Vous pourriez vous poser la question suivante : *« Est-il possible d’utiliser un laser au lieu de dissipateurs thermiques pour garder mon vaisseau froid pendant une phase d’attaque? » La réponse courte est « non ». The long answer is that not only does it not cool you enough while shooting Gauss Cannons, but also increases your weapon distributor draw, increasing the gauss heat generation even more.*
+Vous pourriez vous poser la question suivante : *« Est-il possible d’utiliser un laser au lieu de dissipateurs thermiques pour garder mon vaisseau froid pendant une phase d’attaque? » La réponse courte est « non ». La réponse longue est que non seulement cela ne vous refroidit pas assez quand vous tirez aux canons de Gauss, mais cela augmente également l'utilisation des armes dans le répartiteur de puissance, augmentant donc encore plus la génération de chaleur des gauss.*
 
-The secondary function of a TV beam is damaging the shields of Interceptors. While Interceptor shields deteriorate over time, it is possible to speed up the process by shooting at the shield. It is a waste of ammo to use your Gauss for that purpose, but lasers are the perfect solution as they have unlimited ammo and greater range than the Interceptor’s cannon. Just remember that even though the shield itself will take damage from lasers, the Interceptor’s hull has 99.97% resistance to human weapons.
+La fonction secondaire d'un laser avec ventilation thermique est de faire des dégâts aux boucliers des Intercepteurs. Bien que les boucliers des intercepteurs se détériorent avec le temps, il est possible d'accélérer le processus en tirant dessus. Ce serait un gaspillage de munitions d'utiliser vos Gauss à cette fin, mais les lasers sont la solution parfaite car ils ont des munitions illimitées et une plus grande portée que le canon de l'intercepteur. Rappelez-vous que même si le bouclier va subir des dégâts des lasers, la coque de l’Intercepteur a une résistance de 99,97% aux armes humaines.
 
-## Shield Healing Lasers
+## Lasers régénérateurs de bouclier
 
 Shield "healing" lasers or the ‘Regeneration Sequence’ and ‘Concordant Sequence’ experimental effects can be useful in wing fights. This naturally assumes your wingmates are not flying shieldless ships.
 
