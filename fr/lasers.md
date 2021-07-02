@@ -31,9 +31,9 @@ Les lasers installés sur des points d'emport rotatifs (gimball) sont ceux qui g
 
 Les lasers fixes sont légèrement moins bons pour générer de la chaleur, mais ils infligent des dégâts plus élevés et vous donnent la possibilité de tirer sur les missiles caustiques (ce qui est pratiquement inutile mais amusant).
 
-Les lasers montés en tourelle ont une très faible génération de chaleur (et donc une faible dissipation) et ne fonctionnent pas très bien comme lasers à ventilation thermique. Their only saving grace is their high time on target, which allow for a slower but more mindless cooling method.
+Les lasers montés en tourelle ont une très faible génération de chaleur (et donc une faible dissipation) et ne fonctionnent pas très bien comme lasers à ventilation thermique. Leur seul avantage est leur capacité à tirer plus longtemps sur la cible, ce qui permet un refroidissement plus lent mais qui ne demande pas de viser.
 
-You might ask yourself – *“Isn’t it possible to use a beam instead of heatsinks to keep my ship cool during the attack run?” The short answer is “no”. The long answer is that not only does it not cool you enough while shooting Gauss Cannons, but also increases your weapon distributor draw, increasing the gauss heat generation even more.*
+Vous pourriez vous poser la question suivante : *« Est-il possible d’utiliser un laser au lieu de dissipateurs thermiques pour garder mon vaisseau froid pendant une phase d’attaque? » La réponse courte est « non ». The long answer is that not only does it not cool you enough while shooting Gauss Cannons, but also increases your weapon distributor draw, increasing the gauss heat generation even more.*
 
 The secondary function of a TV beam is damaging the shields of Interceptors. While Interceptor shields deteriorate over time, it is possible to speed up the process by shooting at the shield. It is a waste of ammo to use your Gauss for that purpose, but lasers are the perfect solution as they have unlimited ammo and greater range than the Interceptor’s cannon. Just remember that even though the shield itself will take damage from lasers, the Interceptor’s hull has 99.97% resistance to human weapons.
 
