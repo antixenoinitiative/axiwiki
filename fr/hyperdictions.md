@@ -57,7 +57,7 @@ When jumping between Celaeno and Asterope it was found that the Hyperdiction rat
 
 We now turn to the composition of Hyperdiction scenarios, that is, what sort of Interceptors are present to greet a pilot that has been Hyperdicted.  The table below shows the combinations of Interceptors that were observed in this study, sorted by Interceptor lethality.  A total of 13 unique combinations were observed.  [Update: the results below are the result of further documentation of another several hundred hyperdiction instances]
 
-!\[hyperanalysis.png\](/img/hyperanalysis.png =550x){.align-center}
+![hyperanalysis.png\](/img/hyperanalysis.png =550x){.align-center}
 
 As expected, Hyperdiction containing only one or two Cyclopes are the most common, whereas those containing Hydras are far more rare. Of the 539 documented Hyperdictions, only 31 contained at least one Hydra, with 8 cases containing an additional 3 Basilisks and 7 cases containing an additional pair of Medusae. Currently the statistics in this study are sufficiently high that we can state with confidence that a single, unaccompanied Hydra is more common than one accompanied by other Interceptors. Judging from the data, it appears that 50% of the Hydra instances don’t have additional Interceptors, 25% have 3 Basilisks and another 25% have Medusae. The statistics are still too limited to judge if a Hydra accompanied by 2 Medusae is the rarer of the three possibilities. It is interesting to note that cases that have a Medusa as the ranking Interceptor have an analogous set of (less lethal) cohorts: one case with 3 Cyclopes and another with 2 Basilisks.
 

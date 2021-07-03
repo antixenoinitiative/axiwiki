@@ -57,7 +57,7 @@ Quando si salta tra Celaeno e Asterope, si è scoperto che il tasso di Hyperdict
 
 Passiamo ora alla analisi degli scenari possibili, cioè quale tipo di Intercettori possono essere presenti a “salutare” un pilota che è stato Hyperdicted.  La tabella sottostante mostra le combinazioni di Interceptor che sono state osservate in questo studio, ordinate per variante.  Sono state osservate in totale 13 combinazioni possibili.  [Aggiornamento: i risultati qui sotto sono il risultato di ulteriori analisi di altre centinaia di casi di Hyperdiction]
 
-!\[hyperanalysis.png\](/img/hyperanalysis.png =550x){.align-center}
+![hyperanalysis.png\](/img/hyperanalysis.png =550x){.align-center}
 
 Come previsto, le Hyperdictions che contengono solo uno o due Ciclops sono le più comuni, mentre quelle che contengono Hydra sono molto più rare. Delle 539 hyperdiction documentate, solo 31 contenevano almeno una Hydra, con 8 casi contenenti altri 3 Basilisks e 7 casi contenenti una coppia aggiuntiva di Medusa. Attualmente le statistiche di questo studio sono sufficientemente complete da poter affermare con fiducia che un unico Hydra non accompagnato è più comune di uno accompagnato da altri Interceptors. A giudicare dai dati, sembra che il 50% delle istanze di Hydra non abbia Interceptors aggiuntivi, il 25% ha 3 Basilisk e un altro 25% ha Medusa. Le statistiche sono ancora troppo limitate per giudicare se un Hydra accompagnato da 2 Medusa è il più raro delle tre possibilità. È interessante notare che i casi che hanno una Medusa come Interceptor quale variante più pericolosa sono sempre accompagnati da varianti meno letali: un caso con 3 Ciclops e un altro con 2 Basilisks.
 

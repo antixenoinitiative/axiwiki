@@ -9,7 +9,7 @@ dateCreated: 2021-06-15T10:36:00.013Z
 ---
 
 # Разведчики
-!\[scouts.jpg\](/img/scouts.jpg =450x){.align-right}Scouts are a smaller Thargoid vessel and can be found in all types of Non-Human Signal Source. Scouts are immediately hostile and in groups can deal significant damage to an unprepared pilot. Scouts, unlike interceptors, have 77% resistance to human weapons, rather than 99%. This reduced damage resistance makes it possible to kill Scouts with human weapon systems, however specialized AX weapon systems are still far more effective and efficient than their human counterparts.
+![scouts.jpg\](/img/scouts.jpg =450x){.align-right}Scouts are a smaller Thargoid vessel and can be found in all types of Non-Human Signal Source. Scouts are immediately hostile and in groups can deal significant damage to an unprepared pilot. Scouts, unlike interceptors, have 77% resistance to human weapons, rather than 99%. This reduced damage resistance makes it possible to kill Scouts with human weapon systems, however specialized AX weapon systems are still far more effective and efficient than their human counterparts.
 
 # Варианты
 
