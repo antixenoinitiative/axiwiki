@@ -1,9 +1,9 @@
 ---
-title: Static Signal Sources
-description: Static Thargoid Locations
-published: true
+title: Fuentes de Señales Permanentes
+description: Ubicaciones permanentes de Thargoides
+published: verdadero
 date: 2021-06-15T11:23:03.660Z
-tags: thargoids, interceptors, scouts
+tags: thargoides, interceptores, scouts
 editor: markdown
 dateCreated: 2021-06-15T11:22:37.088Z
 ---

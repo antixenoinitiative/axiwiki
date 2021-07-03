@@ -1,6 +1,6 @@
 ---
 title: Thargoide Schilde
-description: Thargoid-Interceptors können mächtige Schilde erzeugen, die grosse Mengen an Schaden absorbieren können. Diese Schilde können mehrfach auftreten und sehr zäh sein.
+description: Thargoid-Interceptoren können mächtige Schilde erzeugen, die grosse Mengen an Schaden absorbieren können. Diese Schilde können mehrfach auftreten und sehr zäh sein.
 published: ja
 date: 2021-06-17T00:56:22.011Z
 tags: Gefect, Thargoids, Interceptors, Schilde
@@ -9,10 +9,10 @@ dateCreated: 2021-06-17T00:54:20.812Z
 ---
 
 # Thargoide Schilde
-Thargoide Interceptors können mächtige Schilde erzeugen, die große Mengen an Schaden absorbieren können. Diese Schilde können mehrfach auftreten und sehr zäh sein.
+Thargoide Interceptoren können mächtige Schilde erzeugen, die große Mengen an Schaden absorbieren können. Diese Schilde können mehrfach auftreten und sehr zäh sein.
 
 ## Erzeugung
-Thargoide Interceptors erzeugen jedes Mal ein neues Schild, wenn sie eines ihrer Herzen verlieren. Das bedeutet, dass Interceptors mit mehr Herzen auch mehr Schilde erzeugen. Die Schildstärke wird durch die Thargoid-Variante bestimmt, wobei die Hydra die stärksten Schilde erzeugt. Sobald das Herz des Thargoiden zerstört ist, wird er versuchen, sofort seinen Schild einzusetzen.
+Thargoide Interceptoren erzeugen jedes Mal ein neues Schild, wenn sie eines ihrer Herzen verlieren. Das bedeutet, dass Interceptoren mit mehr Herzen auch mehr Schilde erzeugen. Die Schildstärke wird durch die Thargoid-Variante bestimmt, wobei die Hydra die stärksten Schilde erzeugt. Sobald das Herz des Thargoiden zerstört ist, wird er versuchen, sofort seinen Schild einzusetzen.
 
 Der Einsatz des Schildes kann verzögert werden, wenn der Thargoid aktiv eine seiner Spezialattacken einsetzt, z. B. den Blitzangriff. Dadurch ist es möglich, zwei Herzen auf einmal zu zerstören, wenn man das Timing sehr sorgfältig wählt.
 
