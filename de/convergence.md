@@ -1,6 +1,6 @@
 ---
 title: Konvergenz
-description: Ein kurzer Leitfaden zu Konvergenz und sie sich auf befestigte Waffen auswirkt
+description: Ein kurzer Leitfaden zu Konvergenz und wie sie sich auf befestigte Waffen auswirkt
 published: true
 date: 2021-06-15T05:19:44.486Z
 tags: outfitting, weapons
@@ -10,7 +10,7 @@ dateCreated: 2021-06-15T05:19:41.184Z
 
 # Konvergenz
 
-Konvergenz ist ein Begriff, der häufig im Hinblick darauf verwendet wird, wie gut befestigte Waffen auf das Ziel des Gegners ausgerichtet sind. Zum Beispiel ein sehr breites Schiff mit Waffen auf jedem Flügelspitze kann sehr geringe Konvergenz haben, da die Aufhängungen sehr weit voneinander entfernt sind.
+Konvergenz ist ein Begriff, der häufig im Hinblick darauf verwendet wird, wie gut befestigte Waffen auf das Ziel des Gegners ausgerichtet sind. Zum Beispiel ein sehr breites Schiff mit Waffen an äußeren Flügelspitzen kann sehr geringe Konvergenz haben, da die Aufhängungen sehr weit voneinander entfernt sind.
 
 Dies wird sehr wichtig, wenn Waffen verwendet werden, die keine bewegliche-/, Turm-aufhängung oder automatische Anpassung haben (wie z. B. kleine Gauss Kanonen).
 
