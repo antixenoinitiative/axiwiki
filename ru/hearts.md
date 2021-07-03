@@ -22,10 +22,10 @@ Thargoid Hearts are immune to damage by default. However you can make the hearts
 ## {.tabset}
 
 ### Exerted Cyclops Heart
-![clopsheart.png\](/img/clopsheart.png =400x)
+![clopsheart.png](/img/clopsheart.png =400x)
 
 ### Exerted Hydra Heart
-![hydraheart.png\](/img/hydraheart.png =400x)
+![hydraheart.png](/img/hydraheart.png =400x)
 
 ## Destroying the Heart
 

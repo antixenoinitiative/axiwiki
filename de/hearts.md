@@ -22,10 +22,10 @@ Thargoid Herzen sind im Normalzustand immun. Allerdings kann man die Herzen verw
 ## {.tabset}
 
 ### Hervorgetretenes Cyclops-Herz
-!\[clopsheart.png\](/img/clopsheart.png =400x)
+![clopsheart.png](/img/clopsheart.png =400x)
 
 ### Hervorgetretenes Hydra-Herz
-!\[hydraheart.png\](/img/hydraheart.png =400x)
+![hydraheart.png](/img/hydraheart.png =400x)
 
 ## Herzen zerstören
 

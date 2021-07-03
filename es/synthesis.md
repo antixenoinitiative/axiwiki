@@ -19,7 +19,7 @@ Access the synthesis panel on the in-game UI through the following steps:
 
 `Right Panel > Inventory > Second Last Menu > Synthesis Panel`
 
-![synthpanel1.png\](/img/synthpanel1.png =500x) ![synthpanel2.png\](/img/synthpanel2.png =500x)
+![synthpanel1.png](/img/synthpanel1.png =500x) ![synthpanel2.png](/img/synthpanel2.png =500x)
 
 # Required Materials
 > Calculate the exact amount you need with the [Synthesis Calculator](/en/synthesiscalculator) by CMDR Th3Hero 
