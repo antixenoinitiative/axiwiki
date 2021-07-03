@@ -49,7 +49,7 @@ Esta doctrina se centra principalmente en la Chieftain como su nave principal. E
 - 3x Eyectores Térmicos(Capacidad de Munición)
 - Escáner Xeno /Eyectores Térmicos (Depende del comandante si desean ver el casco y el enjambre del Thargoid)
 
-If you have no preference for the Xeno Scanner especially for the lower variants having the 4th heat sink slot will ensure you should never need to synthesize heat sinks on the lower Interceptor variants.
+Si no le da demasiada importancia al Escáner Xeno, puede asegurarse con un cuarto Eyector Térmico que nunca tendrá que sintetizar Eyectores Térmicos con las variantes de Interceptor inferiores.
 
 # Engineering
 The purpose of the engineers listed is to minimize the needed engineers for entry level commanders into this doctrine while also allowing the more experienced commanders to utilize further engineers to maximize their ship. The engineers needed for the modifications are as follows:
