@@ -2,10 +2,10 @@
 title: Thargoid Special Attacks
 description: Different special attacks will occur after destroying each heart on a Thargoid interceptor. Here is a breakdown of all special attacks and timings.
 published: true
-date: 2021-06-17T01:08:00.506Z
+date: 2021-07-03T02:17:36.494Z
 tags: combat, thargoids, interceptors
 editor: markdown
-dateCreated: 2021-06-17T01:05:26.462Z
+dateCreated: 2021-06-24T23:37:27.172Z
 ---
 
 # Thargoid Special Attacks
