@@ -20,34 +20,34 @@ Esta doctrina permite también un enfoque mínimo en la gestión de los pips del
 # Equipamiento de la nave
 Esta doctrina se centra principalmente en la Chieftain como su nave principal. El Challenger también se puede utilizar como un sustituto con cambios menores en sus Anclajes. (Guía de construcción de Challenger en construcción) También se pueden usar barcos como el Krait MKII, Krait Phantom o FAS, pero debido al costo barato de entrada del Chieftain, su convergencia de armas (Anclajes) y maniobrabilidad, es el enfoque principal de esta doctrina.
 
-## Core Internals
-- Military Grade Composite (Heavy Duty/Deep Plate)
-- 6A Power Plant (Armored/Thermal Spread)
-- 6A Thrusters (Dirty/Drag Drives)
-- 5A Frame Shift Drive (Any class/modification optional depending on commander)
-- 5A Life Support (Lightweight optional)
-- 6A Power Distributor (Charge Enhanced/Super Conduits)
-- 4D Sensors (Long range optional)
-- 4C Fuel Tank
+## Internos Principales
+- Compuesto de Clase Militar (Alta Resistencia/Enchapado Profundo)
+- 6A Núcleo de Energía (Blindado/Difusión Térmica)
+- 6A Impulsores (Sucio/de Arrastre)
+- 5A Motor Distorción (cualquier clase/modificación opcional dependiendo del comandante)
+- 5A Soporte Vital (Ligero "opcional")
+- 6A Distribuidor de Energía (Carga Mejorada/Superconductores)
+- 4D Sensores (Larga distancia "opcional")
+- 4C Tanque de Combustible
 
-## Optional Internals
-- 5D Repair Limpet Controller
-- 5D Hull Reinforcement Package (Heavy Duty/Deep Plate)
-- 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate)
-- 4D Module Reinforcement Package
-- 2D Guardian Module Reinforcement Package
-- 2E Cargo rack
-- 1A Auto Field-Management Unit
+## Internos Opcionales
+- 5D Controlador de Drones de Reparacion
+- 5D Paquete de refuerzo del Casco (Alta Resistencia/Enchapado Profundo)
+- 4D Paquete de refuerzo del Casco x3 (Alta Resistencia/Enchapado Profundo)
+- 4D Paquete de refuerzo de módulos
+- 2D Paquete de refuerzo de módulos Guardián
+- 2E Compartimento de Carga
+- 1A Unidad de Auto-Reparacion
 
-## Hardpoints
-- 2B Guardian Gauss Cannons x2 (Fitted in the 2 Large Slots)
-- 2B Remote Release Flak Launcher (Medium Slot)
-- 1D Guardian Gauss Cannons x2 (Fitted in the two small slots to the left and right of the hull)
-- 1G Beam Laser (Long Range/Thermal Vent fitted in the small middle weapon slot)
+## Anclajes
+- 2B Cañones de Gauss Guardián x2 (Equipados en los 2 Espacios Grandes)
+- 2B Lanzador Antiaéreo Remoto "Flak" (Anclaje Intermedio)
+- 1D Cañones de Gauss Guardián x2 (Equipado en los dos pequeñas Anclajes a la izquierda y derecha del Casco)
+- 1G Láser Rayo (largo alcance/ventilacion térmico instalado en el anclaje pequeña del medio)
 
-## Utility
-- 3x OI Heat Sink Launchers(Ammo Capacity)
-- Xeno Scanner/Heat Sink Launcher (Dependent on commander if they wish to see the Thargoid's hull and swarm numbers.)
+## Anclajes de Apoyo
+- 3x Eyectores Térmicos(Capacidad de Munición)
+- Escáner Xeno /Eyectores Térmicos (Depende del comandante si desean ver el casco y el enjambre del Thargoid)
 
 If you have no preference for the Xeno Scanner especially for the lower variants having the 4th heat sink slot will ensure you should never need to synthesize heat sinks on the lower Interceptor variants.
 
