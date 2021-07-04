@@ -32,8 +32,8 @@ Esta doctrina se centra principalmente en la Chieftain como su nave principal. E
 
 ## Internos Opcionales
 - 5D Controlador de Drones de Reparacion
-- 5D Paquete de refuerzo del Casco (Alta Resistencia/Enchapado Profundo)
-- 4D Paquete de refuerzo del Casco x3 (Alta Resistencia/Enchapado Profundo)
+- 5D Paquete de refuerzo Estructural (Alta Resistencia/Enchapado Profundo)
+- 4D Paquete de refuerzo Estructural x3 (Alta Resistencia/Enchapado Profundo)
 - 4D Paquete de refuerzo de módulos
 - 2D Paquete de refuerzo de módulos Guardián
 - 2E Compartimento de Carga
@@ -51,25 +51,25 @@ Esta doctrina se centra principalmente en la Chieftain como su nave principal. E
 
 Si no le da demasiada importancia al Escáner Xeno, puede asegurarse con un cuarto Eyector Térmico que nunca tendrá que sintetizar Eyectores Térmicos con las variantes de Interceptor inferiores.
 
-# Engineering
-The purpose of the engineers listed is to minimize the needed engineers for entry level commanders into this doctrine while also allowing the more experienced commanders to utilize further engineers to maximize their ship. The engineers needed for the modifications are as follows:
+# Engineering (Ingeniar)
+El propósito de los ingenieros enumerados es minimizar los ingenieros necesarios para los comandantes de nivel de entrada en esta doctrina, mientras que también permite a los comandantes más experimentados utilizar más ingenieros para maximizar su nave. Los ingenieros necesarios para las modificaciones son los siguientes:
 
-## Minimum Engineers:
-- The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
-- Selene Jean (Kuk) - G5 Hull Reinforcement Package (Heavy Duty/Deep Plate)
-- G5 Armor (Heavy Duty/Deep Plate)
-- Hera Tani (Kuwemaki) - G5 Power Plant (Armored/Thermal Spread)
-- Professor Palin (Arque) - G5 Thrusters(Dirty/Drag Drives)
-- Broo Tarquin (Muang) - G5 Beam Laser (Long Range/Thermal Vent)
-- Ram Tah (Meene) - Heat Sink Launcher (Ammo Capacity)
+## Ingenieros esenciales:
+- The Dweller (Wyrd) - G5 Distribuidor de Energía (Carga Mejorada/Superconductores)
+- Selene Jean (Kuk) - G5 Paquete de refuerzo Estructural (Alta Resistencia/Enchapado Profundo)
+- G5 Armazón "Blindaje" (Alta Resistencia/Enchapado Profundo)
+- Hera Tani (Kuwemaki) - G5 Núcleo de Energía (Blindado/Difusión Térmica)
+- Professor Palin (Arque) - G5 Impulsores (Sucio/de Arrastre)
+- Broo Tarquin (Muang) - G5 Láser Rayo (largo alcance/ventilacion térmico)
+- Ram Tah (Meene) - Eyectores Térmicos(Capacidad de Munición)
 
-## Optional Engineers:
-- Felicity Farseer (Deciat) - G5 Frame Shift Drive engineering
-- Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensors engineering
+## Ingenieros Opcionales:
+- Felicity Farseer (Deciat) - G5 Ingeniera de Motor de Distorción
+- Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Ingeniería de sensores
 
-VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
+VIDEO: [Desbloqueo de Ingenieros por CMDR Exigous,](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
-# Purpose of Ship and Engineering
+# Propósito de nave e ingeniería
 - With the fitting and engineers listed this is the baseline of the doctrine needed to fully utilize the fitting of the ship with the engineers available for each module. If utilizing all engineers you are fully maximizing the capabilities of the Chieftain to allow you to engage all Interceptor variants efficiently and effectively.
 - The speed of the Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 500 m/s which is more than needed to engage any Interceptor variant. Basilisks requires an additional maneuver to combat due to its speed. See Basilisk Considerations
 
