@@ -21,10 +21,10 @@ Man kann auf zwei verschiedene Arten erkennen, ob ein Thargoid einen aktiven Sch
 
 ## {.tabset}
 ### Mit Scanner
-!\[withscanner.png\](/img/mitScanner.png =500x){.align-center} Der Schild wird um das Hologramm herum angezeigt, wenn der Interceptor anvisiert wird. Im Kontaktfeld kann man den verbleibenden Schildprozentsatz sehen.
+![withscanner.png](/img/mitScanner.png =500x){.align-center} Der Schild wird um das Hologramm herum angezeigt, wenn der Interceptor anvisiert wird. Im Kontaktfeld kann man den verbleibenden Schildprozentsatz sehen.
 
 ### Ohne Scanner
-!\[withoutscanner.png\](/img/ohnescanner.png =500x){.align-center} ohne Scanner kann man erkennen, ob der Thargoid einen Schild hat, indem man nach dem blauen "Schild-Ping" Ausschau halten, wenn man dem Interceptor Schaden zufügen. Wenn der Ping erscheint, dann hat der Interceptor noch ein Schutzschild.
+![withoutscanner.png](/img/ohnescanner.png =500x){.align-center} ohne Scanner kann man erkennen, ob der Thargoid einen Schild hat, indem man nach dem blauen "Schild-Ping" Ausschau halten, wenn man dem Interceptor Schaden zufügen. Wenn der Ping erscheint, dann hat der Interceptor noch ein Schutzschild.
 
 ## Abklingen
 Thargoid-Schilde bauen mit der Zeit immer ab. Der Abbau beginnt sofort und ist eine konstante Geschwindigkeit für alle Thargoid-Varianten, **25MJ/s**. Aufgrund der unterschiedlichen Größe der Schilde für jede Variante dauert es jedoch bei jedem Interceptortyp länger, bis der Schild abgebaut ist.
@@ -40,7 +40,7 @@ Wenn manThargoiden mit einem Laserstrahl Schaden zufügt, wird die Schilddegener
 ## Zusammenbrechen der Schilde
 Wenn ein Interceptor-Schild zusammenbricht, erkennt man dies an einem großen grünen Partikeleffekt, der vom Interceptor nach außen explodiert.
 
-!\[shieldbreak.jpg\](/img/Schildzusammenbruch.jpg =500x){.align-center}
+![shieldbreak.jpg](/img/Schildzusammenbruch.jpg =500x){.align-center}
 
 ## Panikschild
 Unter verschiedenen Bedingungen kann der Interceptor Schilde unabhängig von zerstörten Herzen aufbauen. Da diese Zustände meist mit massiven Schäden verbunden sind, bezeichnen wir diese Schilde als "Panik"-Schilde.

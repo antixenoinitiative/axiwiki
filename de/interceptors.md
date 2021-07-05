@@ -34,7 +34,7 @@ Thargoid-Kämpfe folgen einem ganz bestimmten Muster und jede Handlung ist fast 
 > {.is-info}
 
 ## **Cyclops**
-!\[cyclops-small.png\](/img/Cyclops-small.png =250x){.align-right} Zwar die schwächste Variante der Thargoid-Interceptoren, aber die Cyclops-Variante ist immer noch ein gewaltiger Feind. Der Cyclops hat eine grau/cyanfarbene Färbung und ist der am häufigsten anzutreffende Interceptor. Erstmals im Jahr 3303 aktiv angetroffen, konnten Cyclops-Varianten auf verschiedenen Planeten abgestürzt gefunden werden und ziehen manchmal aktiv Piloten aus dem Hyperraum.
+![cyclops-small.png](/img/Cyclops-small.png =250x){.align-right} Zwar die schwächste Variante der Thargoid-Interceptoren, aber die Cyclops-Variante ist immer noch ein gewaltiger Feind. Der Cyclops hat eine grau/cyanfarbene Färbung und ist der am häufigsten anzutreffende Interceptor. Erstmals im Jahr 3303 aktiv angetroffen, konnten Cyclops-Varianten auf verschiedenen Planeten abgestürzt gefunden werden und ziehen manchmal aktiv Piloten aus dem Hyperraum.
 
 Interceptors der Cyclops-Variante sind schnell zu töten und stellen für einen erfahreneren AX-Piloten eine relativ geringe Bedrohung dar, können aber immer noch eine große Wirkung haben, wenn auch weniger als die anderen Varianten. Die Cyclops-Variante wird oft als die Grundvariante der Thargoiden angesehen, mit der andere oft verglichen werden.
 
@@ -43,14 +43,14 @@ Am 26. September 3303 begann die Cyclops-Variante, wahllos unabhängige Schiffe 
 **Herzen**: 4 **Maximale Geschwindigkeit**: 450 m/s **Belohnung**: 8,000.000 Cr
 
 ## **Basilisk**
-!\[basilisk-small.png\](/img/basilisk-small.png =250x){.align-right}Erstmals angetroffen am 13. November 3303 Der Basilisk ist eine härtere Variante des Cyclops mit einer besonderen Eigenschaft, der Geschwindigkeit. Der Basilisk ist die einzige Interceptor-Variante, die eine höhere Höchstgeschwindigkeit hat. Dies macht den Basilisken zu einer erheblichen Bedrohung, insbesondere für grössere, schwerfälligere Schiffe. Zusammen mit der höheren Geschwindigkeit ist der Basilisk auch generell zäher, mit einem zusätzlichen Herz und einer stärkeren Primärkanone.
+![basilisk-small.png](/img/basilisk-small.png =250x){.align-right}Erstmals angetroffen am 13. November 3303 Der Basilisk ist eine härtere Variante des Cyclops mit einer besonderen Eigenschaft, der Geschwindigkeit. Der Basilisk ist die einzige Interceptor-Variante, die eine höhere Höchstgeschwindigkeit hat. Dies macht den Basilisken zu einer erheblichen Bedrohung, insbesondere für grössere, schwerfälligere Schiffe. Zusammen mit der höheren Geschwindigkeit ist der Basilisk auch generell zäher, mit einem zusätzlichen Herz und einer stärkeren Primärkanone.
 
 Der Basilisk hat ein ähnliches Modell wie der Cyclops, wobei seine Unterscheidungsmerkmale die dunkleren Rot-/Brauntöne und die Leopardenmuster auf seinen Blütenblättern sind.
 
 **Herzen**: 5 **Maximale Geschwindigkeit**: 530 m/s **Belohnung**: 24,000.000 Cr
 
 ## **Medusa**
-!\[medusa-small.png\](/img/medusa-small.png =250x){.align-right}Die Medusa-Variante wurde erstmals am 14. Dezember 3303 beim Angriff auf drei Stationen beobachtet. Die Medusa ist eine stark verbesserte Version der Basiliks mit viel höherem Gesamtschaden und einem zusätzlichen Herz. Allerdings bewegt sich die Medusa wieder mit der gleichen Geschwindigkeit wie ein Cyclops.
+![medusa-small.png](/img/medusa-small.png =250x){.align-right}Die Medusa-Variante wurde erstmals am 14. Dezember 3303 beim Angriff auf drei Stationen beobachtet. Die Medusa ist eine stark verbesserte Version der Basiliks mit viel höherem Gesamtschaden und einem zusätzlichen Herz. Allerdings bewegt sich die Medusa wieder mit der gleichen Geschwindigkeit wie ein Cyclops.
 
 Die Medusa hat nicht nur eine leuchtendere rot-schwarze Farbe, sondern trägt auch eine Reihe von scharfen, stachelartigen Anhängseln, die aus jedem Blütenblatt und vor der Kabine herausragen. Dies verleiht der Medusa-Variante ein sehr bedrohliches Aussehen.
 
@@ -59,14 +59,14 @@ __*Beta-Änderungen*__ Während der Beta-Tests im Janurary 2020 scheint die Medu
 **Herzen**: 6 **Maximale Geschwindigkeit**: 450 m/s **Belohnung**: 40,000.000 Cr
 
 ## **Hydra**
-!\[hydra-small.png\](/img/hydra-small.png =250x){.align-right}Am 23. August 3304 wurde der Interceptor der Hydra-Variante erstmals angetroffen. Die Hydra Variante ist eine deutliche Erhöhung der Stärke und Widerstandskraft gegenüber der Medusa mit zwei zusätzlichen Herzen und insgesamt höherer Rüstungswiderstandskraft. Die Hydra weist auch eine schnellere Nachladezeit auf, was bedeutet, dass sie ein viel aggressiveres Schadensprofil hat. Die Hydra-Variante ist der derzeit härteste Thargoid und stellt selbst für die erfahrensten AX-Piloten eine große Herausforderung dar.
+![hydra-small.png](/img/hydra-small.png =250x){.align-right}Am 23. August 3304 wurde der Interceptor der Hydra-Variante erstmals angetroffen. Die Hydra Variante ist eine deutliche Erhöhung der Stärke und Widerstandskraft gegenüber der Medusa mit zwei zusätzlichen Herzen und insgesamt höherer Rüstungswiderstandskraft. Die Hydra weist auch eine schnellere Nachladezeit auf, was bedeutet, dass sie ein viel aggressiveres Schadensprofil hat. Die Hydra-Variante ist der derzeit härteste Thargoid und stellt selbst für die erfahrensten AX-Piloten eine große Herausforderung dar.
 
 Die Hydra-Variante zeigt leuchtend grüne Farben und eine Vielzahl von Veränderungen in ihrer Form und Gestalt. Die Hydra hat einen weiteren Satz von Blütenblättern, die hinter den primären Blütenblättern sitzen und die Sicht des Piloten auf die Herzen aktiv verdecken. Die Herzen selbst sind ebenfalls unterschiedlich mit Stachelanhängseln, die entlang der gegen den Uhrzeigersinn gerichteten Seite jedes Blütenblattes verlaufen. Außerdem weist die Hydra-Variante ein anderes Kabinenlayout mit einem Käfig auf, der die Hauptkabine abdeckt.
 
 **Herzen**: 8 **Maximale Geschwindigkeit**: 450 m/s **Belohnung**: 60,000.000 Cr
 
 ## **Orthrus**
-!\[orthrus.png\](/img/orthrus. ng =300x){.align-right}Die fünfte gesichtete Variante ist der Orthrus, der während der Evakuierung von Professor Palin aus seinem Forschungszentrum in Maia vorübergehend auftauchte. Diese Variante ist inzwischen verschwunden und kann derzeit nicht im Spiel gefunden werden.
+![orthrus.png](/img/orthrus. ng =300x){.align-right}Die fünfte gesichtete Variante ist der Orthrus, der während der Evakuierung von Professor Palin aus seinem Forschungszentrum in Maia vorübergehend auftauchte. Diese Variante ist inzwischen verschwunden und kann derzeit nicht im Spiel gefunden werden.
 
 Während seines kurzen Auftritts konnte die Orthrus-Variante kurzzeitig gesehen werden, wie sie von Palins Basis wegflog, bevor sie in den Hyperraum verschwand. Zu diesem Zeitpunkt schien der Orthrus keine Kampfmechanik zu haben und glitchte, wenn er zerstört wurde. Die Orthrus-Variante hatte ähnliche Werte wie der Basilisk. Bei der Entnahme einer Probe mit der Forschung wurde eine "Basilisk-Gewebeprobe" erhalten.
 
