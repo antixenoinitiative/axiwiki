@@ -39,7 +39,7 @@ La fonction secondaire d'un laser avec ventilation thermique est de faire des d�
 
 ## Lasers régénérateurs de bouclier
 
-Shield "healing" lasers or the ‘Regeneration Sequence’ and ‘Concordant Sequence’ experimental effects can be useful in wing fights. This naturally assumes your wingmates are not flying shieldless ships.
+Les lasers de « soin » de bouclier (ceux avec les effets expérimentaux « Séquence de régénération » ou « Séquence concordante ») peuvent être utiles dans les combats en escadrille. This naturally assumes your wingmates are not flying shieldless ships.
 
 Regeneration Sequence and Concordant Sequence lasers only work on friendly targets within your wing.
 
