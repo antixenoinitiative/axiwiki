@@ -110,9 +110,9 @@ Ces configurations sont destinées aux commandants plus avancés, qui ont déjà
 
 ## Liste {.tabset}
 
-### Alliance Chieftain (Sans Boucliers)
+### Alliance Chieftain (Shieldless)
 
-#### **Alliance Chieftain (Sans Boucliers)**
+#### **Alliance Chieftain (Shieldless)**
 
 L'Alliance Chieftain sans boucliers est le méta incontesté en combat AX, à l'image du Fer-de-Lance en PvP. Avec une coque solide, de l'espace de cargaison, une excellente maniabilité et une bonne puissance de feu, le Chieftain peut facilement effectuer un orbite froid tout en maintenant un feu de Canon de Gauss soutenu. Ses points d'emport généreux permettent aussi d'équiper quatre Canons de Gauss ainsi qu'un Lanceur Antaérien et un Rayon Laser avec Event Thermique. Son cousin, l'Alliance Challenger, fait plus de dégâts et a plus de coque mais perd en vitesse de pointe.
 
@@ -131,9 +131,9 @@ Recommandation: Incontestablement le meilleur vaisseau et type de configuration 
 [Configuration Méta sans boucliers sur EDSY](https://edsy.org/s/vwJ9Lqq)
 
 Passage en revue de l'Alliance Chieftain AX (en Anglais): [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
-### Krait Mk.II (Sans Boucliers)
+### Krait Mk.II (Shieldless)
 
-#### **Krait Mk.II (Sans Boucliers)**
+#### **Krait Mk.II (Shieldless)**
 
 Une version sans boucliers du Krait Mk.II pour débutant. S'il n'est pas aussi maniable que le Chieftain, le Krait sans boucliers inflige de plus gros dégâts. Son immense générateur lui permet d'être à moins de 20% de température en permanence, ce qui permet une approche froide sans dissipateur thermique ou laser à ventilation thermique.
 
@@ -152,6 +152,65 @@ Recommandation: Une très bonne amélioration de la configuration avec boucliers
 [Configuration sans Boucliers sur EDSY](https://edsy.org/s/vtQUkCk)
 
 Passage en revue du Krait Mk.II AX (en Anglais): [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
+
+### Alliance Challenger (Shieldless)
+
+#### **Alliance Challenger (Shieldless)**
+
+The Alliance Chieftain, sister ship of the more popular Alliance Chieftain, is a slower but more stable alternative with slightly higher damage output. Depending on preference, it can also have more raw hull than a standard Chieftain build.
+
+Type: **Cold Orbiter**
+
+- Speed: ⭐⭐⭐⭐
+- Agility: ⭐⭐⭐⭐
+- Shield:
+- Armour: ⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐
+
+Recommendation: A great ship for those who find the Chieftain too responsive.
+
+[Coriolis Shieldless Build](https://s.orbis.zone/fnnx)
+
+[EDSY Shieldless Build](https://edsy.org/s/v6Rppcb)
+
+### Federal Corvette (Shieldless)
+
+#### **Federal Corvette (Shieldless)**
+
+One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. When shieldless, it stays icy cold while firing on all cylinders.
+
+Type: **Cold Orbiter**
+
+- Speed: ⭐⭐
+- Agility: ⭐⭐⭐
+- Shield:
+- Armour: ⭐⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐
+
+Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
+
+[Coriolis Build](https://s.orbis.zone/fnn_)
+
+[EDSY Build](https://edsy.org/s/vA8F5FD)
+
+### Federal Corvette (Shielded)
+
+#### **Federal Corvette (Shielded)**
+
+One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. By utilizing prismatic or even bi-weave shields, the Corvette can slug it out with the toughest of targets. Type: **Shield Tank**
+
+- Speed: ⭐⭐
+- Agility: ⭐⭐⭐
+- Shield:⭐⭐⭐⭐
+- Armour: ⭐⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐
+
+Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
+
+[Coriolis Build](https://s.orbis.zone/fno6)
+
+[EDSY Build](https://edsy.org/s/vWNQLwX)
+
 
 ## Configurations Avancées
 A collection of more advanced builds can be found on the Advanced Builds page.
@@ -181,14 +240,14 @@ And you’re good to go!
 
 ## liste {.tabset}
 
-### Anaconda
+### Anaconda Build
 
 [**Anaconda Coriolis Build**](https://coriolis.io/outfit/anaconda?code=A2putpFklndzsxf5x3x3x3x32828252502xs040404040404B05n5n2dy32d2d2d2b03m72G08.AwRj4yuzRI%3D%3D.Aw18ZXEA.H4sIAAAAAAAAA42Tv0tCURTHjz%2FL%2FPH0%2BetpmlaaYBA2BkJTEFHgENVYu0NDgYhDLdEYDU0N%2FgltNTg2NjQ2iLNDQ4SElJ3TOY%2B8kBDcB%2B%2FLge%2Fnnnvved8HOAUA3x6W0TWLv%2BMECJ4FACIHXJkPfoDCwAFADlxXZItl%2BtEHYFQ%2FiBJtg30nJpR%2FwmLUvohi1ogoLr7VdwEsXkaZdGFakQ0hC59E9k6xVpzJLjvkxtUxZDRe2X%2FqEZEHq2rpOYtPls6IzIssBJCoeJwEWKpEuIkXj8a4GS4BrGwOiFLbWbYCuK868QvlGvxe194%2FJfiyCAW1yRDu%2FSG9u%2B9ExlWfT%2F%2FSJbIO3%2FgKhna7MBaFdAklg7OvkLFHaOKGanIrI5KlZuWUm8hnyb2EGIrqQDEdKK4DJXSgpA5k4Y6C6ixOSZH3zs3xXONpRHoscSELHU4vpXBrPKfRBYujzaG0Q2U9s1%2FKS%2FKGQ559WpucxbI6wo38F%2FdchvIZ3l0qUyJdkIqy2uTcJFlXZF2RUlFOm8xPkk1FNhUpFRH8%2B%2FwAJZhA2wUEAAA%3D.EweloBhBmUEYBsICmBDA5gG2SEcIEhTFA%3D%3D%3D&bn=AX%20Conda)
 - Can fit all 4x AX Multi-Cannons in large hardpoints
 - Has good angles for turreted Multi-Cannons
 - Can be fitted with large shields and boosters for worry-free farming
 
-### Krait Mk.II
+### Krait Mk.II Build
 
 [**Krait Mk.II Coriolis Build**](https://coriolis.io/outfit/krait_mkii?code=A2pptkFflfdussf5x3x3x3x10sxs040404B12d2dy303292H2G08.Iw18eQ%3D%3D.IwBj4yoo.H4sIAAAAAAAAA43Rv0vDcBAF8Nc0rdbGpkmb0oq%2FjQodio5d3AQHhW466iodFRwUdHMu4uTgn%2BAg6NBROjs6iIiTo0MnrXfeFT2wUzM8Htwn%2BSYX0AiA75REryWRbTvA%2BKkHBDvSwvssEHcTACdozeSJxGjji9l%2FrQGlG1fkozyIHSoZOpDwFRXLPebo2gfK70lg4bwgMkkTJo9Uxp%2FM%2FeOKx5HIZ5mwS6uKXJ3vfsj89o2ZU1S3W88kMh4xj10EwJy2eW2L2pa0cZr2%2FniYXwZqG13myuaUjDzatidNS1Qb%2BP3m%2FvkV5ZyjdUNX%2BiY6ClcOBT1kgJmnnCB%2FGJQfBgW0ZWhfwtHtpXXF2bpsL3iRiFTGbd14SFXjl%2FoD76TmZidFagt17bE2LgzKpsmmSW1cGpQdkx2T2pjx%2F%2FoBomHYA08CAAA%3D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%3D%3D&bn=AX%20Krait)
 - Can fit 3x AX Multi-Cannons in large hardpoints and 1x AX Multi-Cannon in a medium slot
