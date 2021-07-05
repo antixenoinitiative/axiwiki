@@ -1,0 +1,14 @@
+th {
+    background-color: hsl(0, 0%, 30%);
+    border: 1px solid #000;
+    padding: 2px 3px;
+    vertical-align: top;
+    text-align: center;
+}
+
+td {
+    border: 1px solid #000;
+    padding: 2px 3px;
+    vertical-align: top;
+    text-align: center;
+}
