@@ -14,8 +14,8 @@ dateCreated: 2021-06-10T04:05:26.162Z
 
 Rumpfhüllenverstärkung gibt es in drei Varianten:
 
-- **Hull Reinforcement Package (HRP)**
-- **Guardian Hull Reinforcement Package (GHRP)**
+- **Rumpfhüllenverstärkung (HRP)**
+- **Guardian Rumpfhüllenverstärkung (GHRP)**
 - **Meta-Alloy Hull Reinforcement Package**
 
 HRPs fügen dem Schiff zusätzliche Hülle hinzu. GHRPs bieten ausserdem eine 5%ige kaustische Resistenz, die den Schaden durch Interceptor Kanonen, kaustische Raketen, Thargon-Geschosse und andere kaustische Effekte reduziert. Aufgrund der Unmöglichkeit, GHRPs zu engineeren und ihrer Leistungsaufnahme, empfehlen wir, diese für die meisten Builds NICHT zu verwenden.
@@ -67,7 +67,7 @@ Caustic Effects can come in different levels of intensity, For example the caust
 
 # Utility Modules
 
-## Xeno Scanner
+## Xeno-Scanner
 The Xeno Scanner allows you to identify details of Xeno Vessel that would not be possible without. Depending on the level of scan, this will give you access to more/less info.
 
 #### Basic Scan
@@ -100,5 +100,5 @@ The SFN must be bound to a firegroup. When activated it will rapidly drain the S
 
 The SFN will also prevent the Shutdown Field from disabling anyone else within 3km of the ship using it.
 
-## Heatsink Launcher
+## Kühlkörperwerfer
 If your AX build doesn't have these, something is very wrong. Heatsinks are the only viable way of venting the extreme heat created by Guardian Gauss Cannons. They can either be bound to a firegroup or a dedicated hotkey. They require a small amount of SYS capacitor to use and provide 2 MW of WEP capacitor regeneration for their 10-second duration, in addition to providing rapid cooling. Heatsinks allow cold orbiting, which causes the Thargoid to miss most or all of its shots. For more information, see Cold Orbiting.
