@@ -3,7 +3,7 @@ title: Laser
 description: Verwendung von Laser im AX-Kampf.
 published: ja
 date: 2021-06-10T06:08:40.833Z
-tags: outfitting, modules
+tags: Ausrüsten, Module
 editor: markdown
 dateCreated: 2021-06-10T04:07:02.325Z
 ---
@@ -17,7 +17,7 @@ Insgesamt sind menschliche Waffen im Anti-Xeno-Kampf weitgehend nutzlos. Es gibt
 
 Die beliebteste Variante ist der Thermische Entlastungs-Langstrecken-Strahl-Laser.
 
-Die primäre Funktion ist die kühlende Wirkung, die durch den experimentellen Effekt " Thermische Entlastung" entsteht. AX pilots can use the TV beam to cool their ship below the 20% heat threshold outside of an attack run (when not exerting and destroying hearts).
+Die primäre Funktion ist die kühlende Wirkung, die durch den experimentellen Effekt " Thermische Entlastung" entsteht. AX-Piloten können einen TV-Strahl benutzen, um ihre Temperatur unter 20% zu behalten, wenn nicht gerade ein Angriffs-lauf durchgeführt wird (wenn kein Herz geöffnet oder zerstört wird).
 
 Das Hauptbeispiel für diese Funktion ist die Abkühlung beim Start des Angriffsvorgangs. Hier bewährt sich die Langstrecken-Modifikation. Da der Interceptor nur feuert, wenn man weniger als 3 Kilometer entfernt ist, kann man mit dem Langstreckenstrahl schon in 6 Kilometern Entfernung (G5) mit der Kühlung beginnen, ohne einen Kühlkörper für den Anflug verschwenden zu müssen (empfohlene Mindesttechnik ist G3).
 
@@ -31,7 +31,7 @@ Kardanisch aufgehängte Strahllaser erzeugen die meiste Wärme (haben also den b
 
 Feste Strahlenlaser sind nur geringfügig schlechter für die Hitze, verursachen aber höheren Schaden und geben Ihnen die Möglichkeit, die ätzenden Raketen zu snipern (was praktisch nutzlos ist, aber Spass macht).
 
-Turmstrahl-Laser haben eine sehr geringe Wärmeentwicklung (und damit Verlustleistung) und funktionieren nicht gut als Thermische Entlastungslaser. Their only saving grace is their high time on target, which allow for a slower but more mindless cooling method.
+Turmstrahl-Laser haben eine sehr geringe Wärmeentwicklung (und damit Verlustleistung) und funktionieren nicht gut als Thermische Entlastungslaser. Das einzige was sie rettet, ist ihre hohe Zeit auf dem Ziel, dies erlaubt eine langsamere aber einfachere Methode zum kühlen.
 
 Man könnte sich fragen - *"Ist es nicht möglich, anstelle von Kühlkörpern einen Strahlenlaser zu verwenden, um das Schiff während des Angriffslaufs kühl zu halten?" Die kurze Antwort ist "Nein". Die lange Antwort ist, dass es einen nicht nur nicht genug kühlt, während man Gausskanonen abschiesst, sondern auch den Stromverbrauch der Waffe erhöht, was die Wärmeentwicklung des Gausses noch mehr erhöht.*
 

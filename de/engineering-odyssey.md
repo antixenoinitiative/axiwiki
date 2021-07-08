@@ -50,7 +50,7 @@ Mats that can be cross-traded at the bartender are usually a non-issue, as any o
 
 # __**How many materials you will need****
 
-## Suits
+## Anzüge
 
 Assuming you’ll buy Artemis/Dominator/Maverick G3s from stores, and you’ll keep the Artemis at G3 (who needs a G5 Artemis?!), taking your Maverick and Dominator both from G3->G5 will require:
 - 50 suit schematics
@@ -61,7 +61,7 @@ Assuming you’ll buy Artemis/Dominator/Maverick G3s from stores, and you’ll k
 - 60 carbon fibre plating
 - 60 titanium plating
 
-## Weapons
+## Waffen
 
 For Plasma, assuming you’ll buy Executioner/Oppressor/Intimidator/Tormentor at G3 from stores, and that you will set aside and utterly ignore the pathetic Oppressor rifle (currently the worst weapon in the game), and take G3->G5 the other three, you will need:
 - 75 manufacturing instructions
