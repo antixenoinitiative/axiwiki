@@ -14,40 +14,40 @@ dateCreated: 2021-06-10T04:05:26.162Z
 
 Rumpfhüllenverstärkung gibt es in drei Varianten:
 
-- **Hull Reinforcement Package (HRP)**
-- **Guardian Hull Reinforcement Package (GHRP)**
+- **Rumpfhüllenverstärkung (HRP)**
+- **Guardian Rumpfhüllenverstärkung (GHRP)**
 - **Meta-Alloy Hull Reinforcement Package**
 
-HRPs add extra hull to your ship. GHRPs also provide 5% caustic resistance, which reduces damage taken from Interceptor Cannon Fire, Caustic Missiles, Thargon Projectiles, and other Caustic effects. Due to the inability to engineer GHRPs and their power draw,  we DO NOT recommend using these for most builds.
+HRPs fügen dem Schiff zusätzliche Hülle hinzu. GHRPs bieten ausserdem eine 5%ige kaustische Resistenz, die den Schaden durch Interceptor Kanonen, kaustische Raketen, Thargon-Geschosse und andere kaustische Effekte reduziert. Aufgrund der Unmöglichkeit, GHRPs zu engineeren und ihrer Leistungsaufnahme, empfehlen wir, diese für die meisten Builds NICHT zu verwenden.
 
-Normal human Hull Reinforcement Packages with G5 Heavy Duty/Deep Plating will greatly outperform a GHRP in the majority of cases.
+Normale menschliche Hüllenverstärkungspakete mit G5 Schwerlast-/Tiefenbeschichtung übertreffen ein GHRP in den meisten Fällen bei weitem.
 
-The phasing damage from Thargoid Interceptors is absolute meaning it will ignore this added resistance if you have a shield. In a shieldless build, running a single class one or class two GHRP can be beneficial as it will apply the caustic resistance to your entire hull, making up for the comparative loss to an engineered HRP of the same size.
+Der Phaserschaden von Thargoid Interceptoren ist absolut, was bedeutet, dass er diesen zusätzlichen Widerstand ignoriert, wenn man einen Schild hat. Bei einem schildlosen Bau kann es von Vorteil sein, einen einzelnen GHRP der Klasse 1 oder 2 zu verwenden, da er die kaustische Resistenz auf den gesamten Rumpf anwendet und so den vergleichbaren Verlust zu einem konstruierten HRP der gleichen Grösse ausgleicht.
 
-**Meta-Alloy Hull Reinforcements are inferior to both HRPs and GHRPs.**
+**Meta-Legierung Rumpfverstärkungen sind sowohl den HRPs als auch den GHRPs unterlegen.**
 
-## Module Reinforcement Package
+## Modul-Verstärkungspaket
 
-Module Reinforcement Packages (MRPs) come in two variants: guardian and normal.
+Modul-Verstärkungspakete (MRP) gibt es in zwei Varianten: Guardian und Normal.
 
-Guardian Module Reinforcement Packages (GMRPs) act similar to normal MRPs, however they have 10% higher integrity and extra added effects. They also draw a small amount of power.
+Guardian Modul-Verstärkungspakete (GMRPs) verhalten sich ähnlich wie normale MRPs, haben jedoch eine 10% höhere Integrität und zusätzliche Effekte. Sie verbrauchen auch eine geringe Menge an Strom.
 
-MRPs come in two versions:
+MRPs gibt es in zwei Versionen:
 
-- **D Class:** Higher Absorption 60%, Lower integrity
-- **E Class:** Lower Absorption 30%, Higher integrity and weight
+- **D-Klasse:** Höhere Absorption 60 %, geringere Integrität
+- **E-Klasse:** Geringere Absorption 30%, höhere Integrität und Gewicht
 
-MRPs work by absorbing a portion of module damage onto themselves, reducing the amount taken by other modules. External modules only get half the absorption rate of internal modules.
+MRPs funktionieren, indem sie einen Teil des Modulschadens auf sich selbst absorbieren und so den von anderen Modulen erlittenen Schaden reduzieren. Externe Module erhalten nur die halbe Absorptionsrate der internen Module.
 
-GMRPs stack multiplicatively, as follows using D class for example.
+GMRPs werden multiplikativ aufeinander aufgebaut, wie im folgenden am Beispiel der Klasse D dargestellt.
 
-*1x D Class = 60%, 2x D Class = 84%, 3x D Class = 94%*
+*1x D-Klasse = 60%, 2x D-Klasse = 84%, 3x D-Klasse = 94%*
 
-Most builds recommend at least 1x GMRP to avoid modules being destroyed instantly from Thargoid weapons. Shieldless ship builds usually include three as any damage can be devastating without. The largest MRP that is not in a military slot is damage first, followed by smaller MRPs outside the military slots, and finishing with those in military slots. Due to this, many builds will use only one large GMRP (C4 or C5) and two smaller MRPs (C1 and C2).
+Die meisten Konstruktionsvorlagen empfehlen mindestens 1x GMRP, um zu vermeiden, dass Module sofort von Thargoiden-Waffen zerstört werden. Schildlose Schiffsvorlagen enthalten in der Regel drei, da jeder Schaden ohne verheerend sein kann. Der grösste MRP, der sich nicht in einem militärischen Slot befindet, wird zuerst beschädigt, gefolgt von kleineren MRPs ausserhalb der militärischen Slots und abschliessend von denen in militärischen Slots. Aus diesem Grund werden viele Konstruktionsvorlagen nur einen grossen GMRP (C4 oder C5) und zwei kleinere MRPs (C1 und C2) verwenden.
 
-*GMRPs are also supposed to prevent modules from being shut down by lightning attacks. Instead, they only add another module to the pool that can be shut down. We don’t recommend testing this out yourself*.
+*GMRPs wird unterstellt, das sie verhindern, dass Module durch Blitzeinschläge abgeschaltet werden. Stattdessen fügen sie dem Bestand nur ein weiteres Modul hinzu, das abgeschaltet werden kann. Wir empfehlen, dies nicht selbst auszuprobieren*.
 
-## Guardian Shield Reinforcement Package
+## Guardian Schild-Verstärkungspaket
 
 Guardian Shield Reinforcement Packages (GSRP) increase your shield's total MJ capacity by a fixed amount. This also extends the recharge time accordingly.
 
@@ -67,7 +67,7 @@ Caustic Effects can come in different levels of intensity, For example the caust
 
 # Utility Modules
 
-## Xeno Scanner
+## Xeno-Scanner
 The Xeno Scanner allows you to identify details of Xeno Vessel that would not be possible without. Depending on the level of scan, this will give you access to more/less info.
 
 #### Basic Scan
@@ -100,5 +100,5 @@ The SFN must be bound to a firegroup. When activated it will rapidly drain the S
 
 The SFN will also prevent the Shutdown Field from disabling anyone else within 3km of the ship using it.
 
-## Heatsink Launcher
+## Kühlkörperwerfer
 If your AX build doesn't have these, something is very wrong. Heatsinks are the only viable way of venting the extreme heat created by Guardian Gauss Cannons. They can either be bound to a firegroup or a dedicated hotkey. They require a small amount of SYS capacitor to use and provide 2 MW of WEP capacitor regeneration for their 10-second duration, in addition to providing rapid cooling. Heatsinks allow cold orbiting, which causes the Thargoid to miss most or all of its shots. For more information, see Cold Orbiting.

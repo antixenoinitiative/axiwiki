@@ -1,26 +1,26 @@
 ---
-title: Recommended Builds
-description: Anti-Xeno Ship Builds
-published: true
+title: Construcciones Recomendadas
+description: Construcciones de Naves Anti-Xeno
+published: verdadero
 date: 2021-06-23T10:01:06.084Z
-tags: builds
+tags: construcciones
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
 ---
 
 
-# Recommended Builds
-Thargoid Hunting requires specialised ship builds as Thargoids have special resistances and deal special damage types that will typically cause issues on any standard combat build. As such, we have put together the following guide to help you make the correct decisions to lead you towards building the most effective vessel for hunting down alien ships. These ship builds are designed to give you a balance of firepower and survivability, while also being forgiving enough to make a few mistakes.
+# Construcciones Recomendadas
+La Cacería de Thargoides requiere construcciones especializadas de naves, ya que los Thargoides tienen resistencias especiales y causan daños especiales que normalmente causarán problemas en cualquier construcción de combate estándar. Como tal, hemos elaborado la siguiente guía para ayudarlo a tomar las decisiones correctas que lo guiarán hacia la construcción de la nave más efectiva para cazar naves alienígenas. Estas construcciones de naves están diseñadas para brindarle un equilibrio de potencia de fuego y capacidad de supervivencia, al mismo tiempo que son lo suficientemente indulgentes como para cometer algunos errores.
 
-> Please see our [Ship Build Theory](/en/shipbuildtheory) page for a more in-depth explanation behind the outfitting decisions. 
+> Consulte nuestra página de [Teoría de Construcción de Naves](/en/shipbuildtheory) para obtener una explicación más detallada detrás de las decisiones de equipamiento. 
 > 
 > {.is-info}
 
-## Ship Build Types
+## Tipos de Construcción de Nave
 
-Firstly, note there are two main types of Thargoid: **Thargoid Scouts** and **Thargoid Interceptors**. Since these enemies have very different mechanics and abilities, we will typically need a different type of build for each one.
+En primer lugar, tenga en cuenta que hay dos tipos principales de Thargoides: **Exploradores Thargoides** e **Interceptores de Thargoides**. Dado que estos enemigos tienen mecanismos y capacidades muy diferentes, normalmente necesitaremos un tipo diferente de construcción para cada uno.
 
-# Interceptor Builds
+# Construcciones Contra interceptor
 
 Thargoid Interceptors are very tough and powerful enemies that will require equally strong ships to be able to stand a chance in combat. Due to the incredibly high damage output of Thargoid Interceptors, there are only a handful of different styles and methods you can use effectively.
 
@@ -110,9 +110,9 @@ These builds are targeted at more experienced commanders, either those who have 
 
 ## Tabset {.tabset}
 
-### Alliance Chieftain (Unshielded)
+### Alliance Chieftain (Shieldless)
 
-#### **Alliance Chieftain (Unshielded)**
+#### **Alliance Chieftain (Shieldless)**
 
 The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-de-Lance in PVP. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
 
@@ -131,9 +131,9 @@ Recommendation: Unarguably the best ship and build style for AX combat.
 [EDSY Meta Shieldless Build](https://edsy.org/s/vwJ9Lqq)
 
 AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
-### Krait Mk.II (Unshielded)
+### Krait Mk.II (Shieldless)
 
-#### **Krait Mk.II (Unshielded)**
+#### **Krait Mk.II (Shieldless)**
 
 A shieldless version of the beginner Krait MK.II. The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive power plant also allows it to idle under 20% heat, which allows for cold approaches without a heatsink or thermal vent beam.
 
@@ -152,6 +152,65 @@ Recommendation: A great upgrade from the shielded build.
 [EDSY Shieldless Build](https://edsy.org/s/vtQUkCk)
 
 AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
+
+### Alliance Challenger (Shieldless)
+
+#### **Alliance Challenger (Shieldless)**
+
+The Alliance Chieftain, sister ship of the more popular Alliance Chieftain, is a slower but more stable alternative with slightly higher damage output. Depending on preference, it can also have more raw hull than a standard Chieftain build.
+
+Type: **Cold Orbiter**
+
+- Speed: ⭐⭐⭐⭐
+- Agility: ⭐⭐⭐⭐
+- Shield:
+- Armour: ⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐
+
+Recommendation: A great ship for those who find the Chieftain too responsive.
+
+[Coriolis Shieldless Build](https://s.orbis.zone/fnnx)
+
+[EDSY Shieldless Build](https://edsy.org/s/v6Rppcb)
+
+### Federal Corvette (Shieldless)
+
+#### **Federal Corvette (Shieldless)**
+
+One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. When shieldless, it stays icy cold while firing on all cylinders.
+
+Type: **Cold Orbiter**
+
+- Speed: ⭐⭐
+- Agility: ⭐⭐⭐
+- Shield:
+- Armour: ⭐⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐
+
+Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
+
+[Coriolis Build](https://s.orbis.zone/fnn_)
+
+[EDSY Build](https://edsy.org/s/vA8F5FD)
+
+### Federal Corvette (Shielded)
+
+#### **Federal Corvette (Shielded)**
+
+One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. By utilizing prismatic or even bi-weave shields, the Corvette can slug it out with the toughest of targets. Type: **Shield Tank**
+
+- Speed: ⭐⭐
+- Agility: ⭐⭐⭐
+- Shield:⭐⭐⭐⭐
+- Armour: ⭐⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐
+
+Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
+
+[Coriolis Build](https://s.orbis.zone/fno6)
+
+[EDSY Build](https://edsy.org/s/vWNQLwX)
+
 
 ## Advanced Builds
 A collection of more advanced builds can be found on the Advanced Builds page.
