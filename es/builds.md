@@ -18,9 +18,9 @@ La Cacería de Thargoides requiere construcciones especializadas de naves, ya qu
 
 ## Tipos de Construcción de Nave
 
-Firstly, note there are two main types of Thargoid: **Thargoid Scouts** and **Thargoid Interceptors**. Since these enemies have very different mechanics and abilities, we will typically need a different type of build for each one.
+En primer lugar, tenga en cuenta que hay dos tipos principales de Thargoides: **Exploradores Thargoides** e **Interceptores de Thargoides**. Dado que estos enemigos tienen mecanismos y capacidades muy diferentes, normalmente necesitaremos un tipo diferente de construcción para cada uno.
 
-# Interceptor Builds
+# Construcciones Contra interceptor
 
 Thargoid Interceptors are very tough and powerful enemies that will require equally strong ships to be able to stand a chance in combat. Due to the incredibly high damage output of Thargoid Interceptors, there are only a handful of different styles and methods you can use effectively.
 
