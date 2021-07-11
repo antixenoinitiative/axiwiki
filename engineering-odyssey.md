@@ -72,6 +72,6 @@ For Plasma, assuming you’ll buy Executioner/Oppressor/Intimidator/Tormentor at
 - 180 chemical superbase
 - 180 microelectrode
 
-Replace microelectrodes with optical fiber for TK weapons.
+Replace chemical superbase with optical fiber for TK weapons.
 
 Replace Ionized Gas with Compression-Liquified gas, Chemical Superbases with Tungsten Carbide, and microelectrodes with weapon components for Karma weapons.
