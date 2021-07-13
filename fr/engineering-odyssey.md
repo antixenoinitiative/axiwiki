@@ -2,7 +2,7 @@
 title: Odyssey Engineering
 description: Guide to engineering suits and on-foot weapons, and on the materials required to acquire them
 published: true
-date: 2021-06-19T12:57:28.725Z
+date: 2021-07-11T11:59:54.823Z
 tags: engineering, guide
 editor: markdown
 dateCreated: 2021-06-10T12:19:05.577Z
@@ -70,6 +70,6 @@ For Plasma, assuming you’ll buy Executioner/Oppressor/Intimidator/Tormentor at
 - 180 chemical superbase
 - 180 microelectrode
 
-Replace microelectrodes with optical fiber for TK weapons.
+Replace chemical superbase with optical fiber for TK weapons.
 
 Replace Ionized Gas with Compression-Liquified gas, Chemical Superbases with Tungsten Carbide, and microelectrodes with weapon components for Karma weapons.
