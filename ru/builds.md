@@ -110,9 +110,9 @@ Alliance Chieftain, как и Krait Mk.II, хорошо подходит для 
 
 ## Вкладки {.tabset}
 
-### Alliance Chieftain (Shieldless)
+### Alliance Chieftain (Без щита)
 
-#### **Alliance Chieftain (Shieldless)**
+#### **Alliance Chieftain (без щита)**
 
 Alliance Chieftain без щита это бесспорная мета АХ, к примеру как Fed-De-Lance в ПВП. Обладая прочным корпусом, местом для груза, манёвренностью, и огневой мощью, Chieftain способен без труда применять технику холодного орбитинга не прекращая наносить разрушительные удары из гаусс-пушек. Его разнообразие орудийных гнёзд так же позволяют вместить 4 гаусса вместе с установкой со снарядами с дистанционным подрывом и пучковым лазером с теплоотдачей. Корабль из той же серии - Alliance Challenger, наносит больше урона и имеет больше прочности корпуса ценой скорости.
 
@@ -131,9 +131,9 @@ Alliance Chieftain без щита это бесспорная мета АХ, к
 [Бесщитовая мета-сборка в EDSY](https://edsy.org/s/vwJ9Lqq)
 
 Видео-обзор AX Chieftain: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
-### Krait Mk.II (Shieldless)
+### Krait MK.II (без щита)
 
-#### **Krait Mk.II (Shieldless)**
+#### **Krait Mk.II (без щита)**
 
 Бесщитовой вариант сборки Krait MK II. Бесщитовой Krait не такой маневренный как Chieftain, но наносит больший урон. Мощная силовая установка Krait позволяет ему иметь температуру ниже 20% в спокойном состоянии, что даёт возможность проводить холодные сближения не используя теплоотводы или пучковый лазер с теплоотдачей.
 
@@ -153,29 +153,29 @@ Alliance Chieftain без щита это бесспорная мета АХ, к
 
 Видео-обзор AX Krait Mk.II: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
-### Alliance Challenger (Shieldless)
+### Alliance Challenger (без щита)
 
-#### **Alliance Challenger (Shieldless)**
+#### **Alliance Challenger (без щита)**
 
-The Alliance Chieftain, sister ship of the more popular Alliance Chieftain, is a slower but more stable alternative with slightly higher damage output. Depending on preference, it can also have more raw hull than a standard Chieftain build.
+Alliance Challenger, корабль той же серии, что Alliance Chieftain, более медленная, но стабильная альтернатива с немного большим уроном. В зависимости от предпочтений корпус может иметь больше брони, чем стандартная сборка Chieftain'а.
 
 Type: **Cold Orbiter**
 
-- Speed: ⭐⭐⭐⭐
-- Agility: ⭐⭐⭐⭐
-- Shield:
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
+- Скорость: ⭐⭐⭐⭐
+- Манёвренность: ⭐⭐⭐⭐
+- Щит:
+- Броня: ⭐⭐⭐⭐
+- Огневая мощь: ⭐⭐⭐⭐
 
-Recommendation: A great ship for those who find the Chieftain too responsive.
+Рекомендация: Отличный корабль для тех, кто считает Chieftain слишком отзывчивым.
 
-[Coriolis Shieldless Build](https://s.orbis.zone/fnnx)
+[Бесщитовая сборка в Coriolis](https://s.orbis.zone/fnnx)
 
-[EDSY Shieldless Build](https://edsy.org/s/v6Rppcb)
+[Бесщитовая сборка в EDSY](https://edsy.org/s/v6Rppcb)
 
-### Federal Corvette (Shieldless)
+### Federal Corvette (без щита)
 
-#### **Federal Corvette (Shieldless)**
+#### **Federal Corvette (без щита)**
 
 One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. When shieldless, it stays icy cold while firing on all cylinders.
 
