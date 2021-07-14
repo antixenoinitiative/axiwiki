@@ -31,43 +31,43 @@ dateCreated: 2021-06-17T03:49:32.855Z
 - 4С Топливный бак
 
 ## Дополнительные системы
-- 5D Repair Limpet Controller
-- 5D Hull Reinforcement Package (Heavy Duty/Deep Plate)
-- 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate)
-- 4D Module Reinforcement Package
-- 2D Guardian Module Reinforcement Package
-- 2E Cargo rack
-- 1A Auto Field-Management Unit
+- 5D Контроллер дрона ремонтника
+- 5D набор для усиления корпуса (надежный/утолщенная броня)
+- 4D Набор для усиления корпуса х3 (Надежный/Утолщенная броня)
+- 4D Набор для усиления модулей
+- 2D Набор для усиления модулей Стражей
+- 2Е грузовой отсек
+- 1А Блок автоматического полевого ремонта
 
-## Hardpoints
-- 2B Guardian Gauss Cannons x2 (Fitted in the 2 Large Slots)
-- 2B Remote Release Flak Launcher (Medium Slot)
-- 1D Guardian Gauss Cannons x2 (Fitted in the two small slots to the left and right of the hull)
-- 1G Beam Laser (Long Range/Thermal Vent fitted in the small middle weapon slot)
+## Орудия
+- 2B Орудие Гаусса стражей х2 (Установлены в 2 больших слота)
+- 2B Зенитная установка (Установлена в средний слот)
+- 1D Орудие Гаусса стражей х2 (Установлены в малые слоты слева и справа от больших)
+- 1E Пучковый лазер (Увеличенная дальность/Теплоотдача, установлено в малый слот под большими)
 
-## Utility
-- 3x OI Heat Sink Launchers(Ammo Capacity)
-- Xeno Scanner/Heat Sink Launcher (Dependent on commander if they wish to see the Thargoid's hull and swarm numbers.)
+## Наружние системы
+- 3х OI Теплоотвод (Увеличенный боезапас)
+- Ксено сканер/Теплоотвод (Зависит от командира)
 
-If you have no preference for the Xeno Scanner especially for the lower variants having the 4th heat sink slot will ensure you should never need to synthesize heat sinks on the lower Interceptor variants.
+Если у вас нет предпочтений для ксено сканера, особенно для низших вариантов, иметь четвертый теплоотвод поможет убедиться в том, что вам не придётся синтезировать теплоотводы.
 
-# Engineering
-The purpose of the engineers listed is to minimize the needed engineers for entry level commanders into this doctrine while also allowing the more experienced commanders to utilize further engineers to maximize their ship. The engineers needed for the modifications are as follows:
+# Инженеринг
+Цель перечисленных в списке инженеров заключается в сведении к минимуму необходимых инженеров для командиров начального уровня в эту доктрину, а также в том, чтобы более опытные командиры могли использовать других инженеров для максимального улучшения их корабля. Необходимые инженеры:
 
-## Minimum Engineers:
-- The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
-- Selene Jean (Kuk) - G5 Hull Reinforcement Package (Heavy Duty/Deep Plate)
-- G5 Armor (Heavy Duty/Deep Plate)
-- Hera Tani (Kuwemaki) - G5 Power Plant (Armored/Thermal Spread)
-- Professor Palin (Arque) - G5 Thrusters(Dirty/Drag Drives)
-- Broo Tarquin (Muang) - G5 Beam Laser (Long Range/Thermal Vent)
-- Ram Tah (Meene) - Heat Sink Launcher (Ammo Capacity)
+## Минимально:
+- The Dweller (Wyrd) - G5 распределитель питания (Быстрозаряжающийся/Сверхпроводники)
+- Selene Jean (Kuk) - G5 Набор для усиления корпуса (Надежный/Утолщенная броня)
+- G5 Броня (Надежный/Утолщенная броня)
+- Hera Tani (Kuwemaki) - G5 Силовая Установка (Бронированная/Распределение тепла)
+- Professor Palin (Arque) - G5 Маневровые (Грязная донастройка/Ускорители)
+- Broo Tarquin (Muang) - G5 Пучковый лазер (Увеличенная дальность/Теплоотдача)
+- Ram Tah (Meene) - Теплоотвод (Увеличенный боезапас)
 
-## Optional Engineers:
-- Felicity Farseer (Deciat) - G5 Frame Shift Drive engineering
-- Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensors engineering
+## Дополнительно:
+- Felicity Farseer (Deciat) - G5 Рамочно Сместительный Двигатель
+- Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Сенсоры
 
-VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
+Видео:[Открытие инженеров от CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
 # Purpose of Ship and Engineering
 - With the fitting and engineers listed this is the baseline of the doctrine needed to fully utilize the fitting of the ship with the engineers available for each module. If utilizing all engineers you are fully maximizing the capabilities of the Chieftain to allow you to engage all Interceptor variants efficiently and effectively.
