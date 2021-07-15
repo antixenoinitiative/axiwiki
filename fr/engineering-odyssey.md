@@ -1,6 +1,6 @@
 ---
-title: Odyssey Engineering
-description: Guide to engineering suits and on-foot weapons, and on the materials required to acquire them
+title: Modifications d'ingénieur sur Odyssey
+description: Guide sur les modifications d'armures et d'armes à pied et sur les matériaux nécessaires pour les acquérir
 published: true
 date: 2021-07-11T11:59:54.823Z
 tags: engineering, guide
@@ -8,19 +8,19 @@ editor: markdown
 dateCreated: 2021-06-10T12:19:05.577Z
 ---
 
-# **__How to farm materials is Odyssey__**
+# **__Comment farmer des matériaux sur Odyssey__**
 
-## Manufacturing Instructions (More or less for everything)
+## Instructions pour les matériaux fabriqués (plus ou moins pour tout)
 
 Find a “impact site” PoI (use DSS on a landable planet) - these will generally have a crashed satellite with a habitat data port. Check & download Manufacturing Instructions. Relog. Rinse and repeat.
 
- ##  Weapon Schematics (For weapon upgrades)
+ ##  Plans d'arme (Pour les améliorations d'arme)
 
 Find a “two containers plus crashed skimmer” or “three containers plus wrecked SRV” instance at “Irregular Markers” with a threat level. Arc Cutter and Overload container doors, cases inside will have weapon schematics aplenty (and drugs aplenty too.) Relog, rinse and repeat. “Larceny” type missions also spawn these instances - if you use a mission-spawned PoI, make sure to NOT pick up the mission item, or instance will de-spawn upon relog.
 
-## Suit Schematics (For suit upgrades)
+## Plans de combinaison (pour les améliorations de combinaison)
 
-These are an absolute pain. There’s no fast way to do it. They are only found in large and small locked lockers in OPS rooms within command centers, and in small locked lockers in PWR rooms, but they are relatively rare. Missions can also give 1-2 suit schematics, but these are also uncommon. If anyone finds a faster way, please let me know.
+Ceux-ci sont une souffrance absolue. Il n’y a aucun moyen rapide de le faire. They are only found in large and small locked lockers in OPS rooms within command centers, and in small locked lockers in PWR rooms, but they are relatively rare. Missions can also give 1-2 suit schematics, but these are also uncommon. If anyone finds a faster way, please let me know.
 
 ## Power Regulators (For suit upgrades)
 
