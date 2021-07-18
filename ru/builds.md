@@ -110,9 +110,9 @@ Alliance Chieftain, как и Krait Mk.II, хорошо подходит для 
 
 ## Вкладки {.tabset}
 
-### Alliance Chieftain (Shieldless)
+### Alliance Chieftain (Без щита)
 
-#### **Alliance Chieftain (Shieldless)**
+#### **Alliance Chieftain (без щита)**
 
 Alliance Chieftain без щита это бесспорная мета АХ, к примеру как Fed-De-Lance в ПВП. Обладая прочным корпусом, местом для груза, манёвренностью, и огневой мощью, Chieftain способен без труда применять технику холодного орбитинга не прекращая наносить разрушительные удары из гаусс-пушек. Его разнообразие орудийных гнёзд так же позволяют вместить 4 гаусса вместе с установкой со снарядами с дистанционным подрывом и пучковым лазером с теплоотдачей. Корабль из той же серии - Alliance Challenger, наносит больше урона и имеет больше прочности корпуса ценой скорости.
 
@@ -131,9 +131,9 @@ Alliance Chieftain без щита это бесспорная мета АХ, к
 [Бесщитовая мета-сборка в EDSY](https://edsy.org/s/vwJ9Lqq)
 
 Видео-обзор AX Chieftain: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
-### Krait Mk.II (Shieldless)
+### Krait MK.II (без щита)
 
-#### **Krait Mk.II (Shieldless)**
+#### **Krait Mk.II (без щита)**
 
 Бесщитовой вариант сборки Krait MK II. Бесщитовой Krait не такой маневренный как Chieftain, но наносит больший урон. Мощная силовая установка Krait позволяет ему иметь температуру ниже 20% в спокойном состоянии, что даёт возможность проводить холодные сближения не используя теплоотводы или пучковый лазер с теплоотдачей.
 
@@ -153,104 +153,104 @@ Alliance Chieftain без щита это бесспорная мета АХ, к
 
 Видео-обзор AX Krait Mk.II: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
-### Alliance Challenger (Shieldless)
+### Alliance Challenger (без щита)
 
-#### **Alliance Challenger (Shieldless)**
+#### **Alliance Challenger (без щита)**
 
-The Alliance Chieftain, sister ship of the more popular Alliance Chieftain, is a slower but more stable alternative with slightly higher damage output. Depending on preference, it can also have more raw hull than a standard Chieftain build.
-
-Type: **Cold Orbiter**
-
-- Speed: ⭐⭐⭐⭐
-- Agility: ⭐⭐⭐⭐
-- Shield:
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
-
-Recommendation: A great ship for those who find the Chieftain too responsive.
-
-[Coriolis Shieldless Build](https://s.orbis.zone/fnnx)
-
-[EDSY Shieldless Build](https://edsy.org/s/v6Rppcb)
-
-### Federal Corvette (Shieldless)
-
-#### **Federal Corvette (Shieldless)**
-
-One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. When shieldless, it stays icy cold while firing on all cylinders.
+Alliance Challenger, корабль той же серии, что Alliance Chieftain, более медленная, но стабильная альтернатива с немного большим уроном. В зависимости от предпочтений корпус может иметь больше брони, чем стандартная сборка Chieftain'а.
 
 Type: **Cold Orbiter**
 
-- Speed: ⭐⭐
-- Agility: ⭐⭐⭐
-- Shield:
-- Armour: ⭐⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
+- Скорость: ⭐⭐⭐⭐
+- Манёвренность: ⭐⭐⭐⭐
+- Щит:
+- Броня: ⭐⭐⭐⭐
+- Огневая мощь: ⭐⭐⭐⭐
 
-Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
+Рекомендация: Отличный корабль для тех, кто считает Chieftain слишком отзывчивым.
 
-[Coriolis Build](https://s.orbis.zone/fnn_)
+[Бесщитовая сборка в Coriolis](https://s.orbis.zone/fnnx)
 
-[EDSY Build](https://edsy.org/s/vA8F5FD)
+[Бесщитовая сборка в EDSY](https://edsy.org/s/v6Rppcb)
 
-### Federal Corvette (Shielded)
+### Federal Corvette (без щита)
 
-#### **Federal Corvette (Shielded)**
+#### **Federal Corvette (без щита)**
 
-One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. By utilizing prismatic or even bi-weave shields, the Corvette can slug it out with the toughest of targets. Type: **Shield Tank**
+Один из "большой тройки" Federal Corvette обладает силой, с которой стоит считаться. Имея огромный распределитель и броню, ему не хватает только скорости. Несмотря на то, что этот корабль требует большего мастерства, его любят многие опытные AX пилоты. Когда на нем нет щита, он остаётся холодным при огня из всех орудий.
 
-- Speed: ⭐⭐
-- Agility: ⭐⭐⭐
-- Shield:⭐⭐⭐⭐
-- Armour: ⭐⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
+Type: **Cold Orbiter**
 
-Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
+- Скорость: ⭐⭐
+- Манёвренность: ⭐⭐⭐
+- Щит:
+- Броня: ⭐⭐⭐⭐⭐
+- Огневая мощь: ⭐⭐⭐⭐
 
-[Coriolis Build](https://s.orbis.zone/fno6)
+Рекомендация: Отличный большой корабль для тех, кто ищет такую вещь. Требует хороших знаний в области AX механики.
 
-[EDSY Build](https://edsy.org/s/vWNQLwX)
+[Сборка в Coriolis](https://s.orbis.zone/fnn_)
+
+[Сборка в EDSY](https://edsy.org/s/vA8F5FD)
+
+### Federal Corvette (с щитом)
+
+#### **Federal Corvette (с щитом)**
+
+Один из "большой тройки" Federal Corvette обладает силой, с которой стоит считаться. Имея огромный распределитель и броню, ему не хватает только скорости. Несмотря на то, что этот корабль требует большего мастерства, его любят многие опытные AX пилоты. Используя призматические или даже двухпоточные щиты, Corvette может уничтожить все самыме сложные цели. Type: **Shield Tank**
+
+- Скорость: ⭐⭐
+- Манёвренность: ⭐⭐⭐
+- Щит:⭐⭐⭐⭐
+- Броня: ⭐⭐⭐⭐⭐
+- Огневая мощь: ⭐⭐⭐⭐
+
+Рекомендация: Отличный большой корабль для тех, кто ищет такую вещь. Требует хороших знаний в области AX механики.
+
+[Сборка в Coriolis](https://s.orbis.zone/fno6)
+
+[Сборка в EDSY](https://edsy.org/s/vWNQLwX)
 
 
 ## Продвинутые Сборки
-A collection of more advanced builds can be found on the Advanced Builds page.
+Коллекция более продвинутых сборок можно найти на странице Продвинутых Сборок.
 
-View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
+Просмотреть ещё больше сборок кораблей можно посетив наше [Хранилище Сборок Кораблей](/en/buildrepository), а так же полная статистика, рейтинги и ссылки на сборку.
 
 # Сборки против Разведчиков
-Hunting scouts is a very efficient method to increase combat rank. This is because all scouts are considered dangerous or deadly targets and will give a lot of experience per kill. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
+Охота на разведчиков являлась крайне эффективным методом поднятия боевого ранга. Причина этого в том, что они считались опасными либо смертоносными целями и давали много опыта за убийство. Из-за **77% сопротивления** человеческому оружию неэффективно применять против них обычное вооружение. В силу непредсказуемой траектории полёта разведчиков, мы настоятельно рекомендуем использовать большие турельные многоствольные орудия АИ.
 
-These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. Keep in mind that there is a limit of 4 AX Weapons per vessel.
+Они лучше всего подходят для этого, так как на них не влияет сопротивление в 77%, они могут почти всегда быть нацелены на разведчиков и очень эффективны по боезапасу. Не забывайте, что количество АИ вооружения ограничено четырьмя штуками на корабль.
 
 ## Дополнительные Предложенные Модули
-- **Decontamination Limpet Controller (and Cargo Racks)** - For when hit by caustic missiles.
-- **Xeno Scanner (optional)** - Lets you see scout health %.
-- **Hull Reinforcements** - Scouts deal phasing damage which will damage you through shields, you will require both heavy Shields AND Hull.
+- **Контроллер Дронов-Очистителей (и грузовые стеллажи)** - При попадании в вас Ракеты с Едким веществом.
+- **Сканер "Инопланетянин" (Необязательно)** - Позволяет видеть здоровье разведчика в %.
+- **Усилители Корпуса** - Разведчики наносят поэтапный урон, который проходит через ваши щиты, вам потребуются мощные щиты И корпус.
 
-Ultimately, due to the simple nature of scout hunting, almost any ship can be retrofitted for the task quite easily. A simple rule of thumb is….
+Охота на разведчиков - довольно простое занятие, поэтому почти любой корабль можно легко переоборудовать для этой цели. Главное правило это….
 
-- Decent Hull
-- Decent Shields
-- Lots of AX Multi-Cannons
-- Decontamination Limpets
+- Приличный Корпус
+- Мощные Щиты
+- Много Многоствольных орудий АИ
+- Дроны-Очистители
 
-And you’re good to go!
+И вы готовы к бою!
 
 ## Сборки против Разведчиков
 
 ## Вкладки {.tabset}
 
-### Anaconda Build
+### Сборка Anaconda
 
-[**Anaconda Coriolis Build**](https://coriolis.io/outfit/anaconda?code=A2putpFklndzsxf5x3x3x3x32828252502xs040404040404B05n5n2dy32d2d2d2b03m72G08.AwRj4yuzRI%3D%3D.Aw18ZXEA.H4sIAAAAAAAAA42Tv0tCURTHjz%2FL%2FPH0%2BetpmlaaYBA2BkJTEFHgENVYu0NDgYhDLdEYDU0N%2FgltNTg2NjQ2iLNDQ4SElJ3TOY%2B8kBDcB%2B%2FLge%2Fnnnvved8HOAUA3x6W0TWLv%2BMECJ4FACIHXJkPfoDCwAFADlxXZItl%2BtEHYFQ%2FiBJtg30nJpR%2FwmLUvohi1ogoLr7VdwEsXkaZdGFakQ0hC59E9k6xVpzJLjvkxtUxZDRe2X%2FqEZEHq2rpOYtPls6IzIssBJCoeJwEWKpEuIkXj8a4GS4BrGwOiFLbWbYCuK868QvlGvxe194%2FJfiyCAW1yRDu%2FSG9u%2B9ExlWfT%2F%2FSJbIO3%2FgKhna7MBaFdAklg7OvkLFHaOKGanIrI5KlZuWUm8hnyb2EGIrqQDEdKK4DJXSgpA5k4Y6C6ixOSZH3zs3xXONpRHoscSELHU4vpXBrPKfRBYujzaG0Q2U9s1%2FKS%2FKGQ559WpucxbI6wo38F%2FdchvIZ3l0qUyJdkIqy2uTcJFlXZF2RUlFOm8xPkk1FNhUpFRH8%2B%2FwAJZhA2wUEAAA%3D.EweloBhBmUEYBsICmBDA5gG2SEcIEhTFA%3D%3D%3D&bn=AX%20Conda)
-- Can fit all 4x AX Multi-Cannons in large hardpoints
-- Has good angles for turreted Multi-Cannons
-- Can be fitted with large shields and boosters for worry-free farming
+[**Сборка Anaconda в Coriolis**](https://coriolis.io/outfit/anaconda?code=A2putpFklndzsxf5x3x3x3x32828252502xs040404040404B05n5n2dy32d2d2d2b03m72G08.AwRj4yuzRI%3D%3D.Aw18ZXEA.H4sIAAAAAAAAA42Tv0tCURTHjz%2FL%2FPH0%2BetpmlaaYBA2BkJTEFHgENVYu0NDgYhDLdEYDU0N%2FgltNTg2NjQ2iLNDQ4SElJ3TOY%2B8kBDcB%2B%2FLge%2Fnnnvved8HOAUA3x6W0TWLv%2BMECJ4FACIHXJkPfoDCwAFADlxXZItl%2BtEHYFQ%2FiBJtg30nJpR%2FwmLUvohi1ogoLr7VdwEsXkaZdGFakQ0hC59E9k6xVpzJLjvkxtUxZDRe2X%2FqEZEHq2rpOYtPls6IzIssBJCoeJwEWKpEuIkXj8a4GS4BrGwOiFLbWbYCuK868QvlGvxe194%2FJfiyCAW1yRDu%2FSG9u%2B9ExlWfT%2F%2FSJbIO3%2FgKhna7MBaFdAklg7OvkLFHaOKGanIrI5KlZuWUm8hnyb2EGIrqQDEdKK4DJXSgpA5k4Y6C6ixOSZH3zs3xXONpRHoscSELHU4vpXBrPKfRBYujzaG0Q2U9s1%2FKS%2FKGQ559WpucxbI6wo38F%2FdchvIZ3l0qUyJdkIqy2uTcJFlXZF2RUlFOm8xPkk1FNhUpFRH8%2B%2FwAJZhA2wUEAAA%3D.EweloBhBmUEYBsICmBDA5gG2SEcIEhTFA%3D%3D%3D&bn=AX%20Conda)
+- Может вместить все 4х АИ Многоствольных орудия
+- Имеет хорошие углы для Турельных АИ Многоствольных орудий
+- Может быть оборудована мощными щитами и усилителями щитов для фарма без напряжения
 
-### Krait Mk.II Build
+### Сборка на Krait Mk.II
 
-[**Krait Mk.II Coriolis Build**](https://coriolis.io/outfit/krait_mkii?code=A2pptkFflfdussf5x3x3x3x10sxs040404B12d2dy303292H2G08.Iw18eQ%3D%3D.IwBj4yoo.H4sIAAAAAAAAA43Rv0vDcBAF8Nc0rdbGpkmb0oq%2FjQodio5d3AQHhW466iodFRwUdHMu4uTgn%2BAg6NBROjs6iIiTo0MnrXfeFT2wUzM8Htwn%2BSYX0AiA75REryWRbTvA%2BKkHBDvSwvssEHcTACdozeSJxGjji9l%2FrQGlG1fkozyIHSoZOpDwFRXLPebo2gfK70lg4bwgMkkTJo9Uxp%2FM%2FeOKx5HIZ5mwS6uKXJ3vfsj89o2ZU1S3W88kMh4xj10EwJy2eW2L2pa0cZr2%2FniYXwZqG13myuaUjDzatidNS1Qb%2BP3m%2FvkV5ZyjdUNX%2BiY6ClcOBT1kgJmnnCB%2FGJQfBgW0ZWhfwtHtpXXF2bpsL3iRiFTGbd14SFXjl%2FoD76TmZidFagt17bE2LgzKpsmmSW1cGpQdkx2T2pjx%2F%2FoBomHYA08CAAA%3D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%3D%3D&bn=AX%20Krait)
-- Can fit 3x AX Multi-Cannons in large hardpoints and 1x AX Multi-Cannon in a medium slot
-- Alternatively can fit 2x AX Multi-Cannons in large hardpoints, and 2x Guardian Gauss Cannons in the medium hardpoints (allows for Gauss aim practice and becomes more effective once the user is proficient with Gauss)
-- High mobility to keep targets in range or disengage.
-- Mobility allows for use of Bi-Weave shields, disengaging for shield regen.
+[**Сборка Krait Mk.II в Coriolis**](https://coriolis.io/outfit/krait_mkii?code=A2pptkFflfdussf5x3x3x3x10sxs040404B12d2dy303292H2G08.Iw18eQ%3D%3D.IwBj4yoo.H4sIAAAAAAAAA43Rv0vDcBAF8Nc0rdbGpkmb0oq%2FjQodio5d3AQHhW466iodFRwUdHMu4uTgn%2BAg6NBROjs6iIiTo0MnrXfeFT2wUzM8Htwn%2BSYX0AiA75REryWRbTvA%2BKkHBDvSwvssEHcTACdozeSJxGjji9l%2FrQGlG1fkozyIHSoZOpDwFRXLPebo2gfK70lg4bwgMkkTJo9Uxp%2FM%2FeOKx5HIZ5mwS6uKXJ3vfsj89o2ZU1S3W88kMh4xj10EwJy2eW2L2pa0cZr2%2FniYXwZqG13myuaUjDzatidNS1Qb%2BP3m%2FvkV5ZyjdUNX%2BiY6ClcOBT1kgJmnnCB%2FGJQfBgW0ZWhfwtHtpXXF2bpsL3iRiFTGbd14SFXjl%2FoD76TmZidFagt17bE2LgzKpsmmSW1cGpQdkx2T2pjx%2F%2FoBomHYA08CAAA%3D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%3D%3D&bn=AX%20Krait)
+- Может вместить 3 многоствольных орудий АИ в большие гнёзда и одно в среднее
+- Кроме того может вместить 2 Многоствольных орудия АИ в большие гнёзда и 2 Гаусса Стражей в средние гнёзда (позволяет тренироваться в прицеливании из орудий Гаусса и становится более эффективным как только пользователь освоит орудия Гаусса)
+- Большая мобильность для поддержания целей в зоне досягаемости.
+- Мобильность позволяет использовать Двухпоточные щиты, отключая их для восстановления.
