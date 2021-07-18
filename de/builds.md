@@ -167,7 +167,7 @@ Typ: **Kalter Orbiter**
 - Rüstung: ⭐⭐⭐⭐
 - Feuerkraft: ⭐⭐⭐⭐
 
-Recommendation: A great ship for those who find the Chieftain too responsive.
+Empfehlung: Ein großartiges Schiff für diejenigen, die den Chieftain zu beweglich wackelig finden.
 
 [Coriolis Schildloser Build](https://s.orbis.zone/fnnx)
 
