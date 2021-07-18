@@ -156,7 +156,7 @@ AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https
 
 #### **Alliance Challenger (Shieldless)**
 
-The Alliance Chieftain, sister ship of the more popular Alliance Chieftain, is a slower but more stable alternative with slightly higher damage output. Depending on preference, it can also have more raw hull than a standard Chieftain build.
+The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower but more stable alternative with slightly higher damage output. Depending on preference, it can also have more raw hull than a standard Chieftain build.
 
 Type: **Cold Orbiter**
 
