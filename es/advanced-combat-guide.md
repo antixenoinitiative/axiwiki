@@ -70,8 +70,8 @@ El propósito de los ingenieros enumerados es minimizar los ingenieros necesario
 VIDEO: [Desbloqueo de Ingenieros por CMDR Exigous,](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
 # Propósito de nave e ingeniería
-- With the fitting and engineers listed this is the baseline of the doctrine needed to fully utilize the fitting of the ship with the engineers available for each module. If utilizing all engineers you are fully maximizing the capabilities of the Chieftain to allow you to engage all Interceptor variants efficiently and effectively.
-- The speed of the Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 500 m/s which is more than needed to engage any Interceptor variant. Basilisks requires an additional maneuver to combat due to its speed. See Basilisk Considerations
+- Con el equipamiento y los ingenieros listados esta es la base de la doctrina necesaria para utilizar plenamente la instalación de la nave con los ingenieros disponibles para cada módulo. Si utilizas todos los ingenieros estás maximizando completamente las capacidades del Chieftain para permitirte combatir todas las variantes de Interceptor de manera eficiente y efectiva.
+- The speed of the Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 500 m/s which is more than needed to engage any Interceptor variant. Los basiliscos requieren un maniobra adicional para combatir debido a su velocidad. See Basilisk Considerations
 
 - The purpose of using a repair limpet controller instead of a shield generator is to allow commanders to repair their ship in case of a mistake. The Thargon swarm also does more phasing damage to ships that are shielded compared to those that are unshielded providing a bit of an advantage against the swarm and for power purposes of the ship. Synthesis of limpets may be needed dependent on damage received especially with the higher variants
 
