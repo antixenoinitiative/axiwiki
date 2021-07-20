@@ -104,9 +104,9 @@ VIDEO: [Desbloqueo de Ingenieros por CMDR Exigous,](https://www.youtube.com/watc
 -
 - Continúe activando los ejectores de calor según sea necesario una vez que escuche "Eyector de calor desplegado" de su COVAS hasta que se haya extraido y destruido el corazón.
 -
-- Cada variante de Interceptor también tiene un tiempo de ataque aproximado y le permitirá estabilizar su órbita. Una vez que termina, el Interceptor cambiará de dirección y se reiniciará para su propia ataque, lo que le obligará a ajustar su órbita en consecuencia. Use of your thermal vent beam during this time may be recommended if you drift outside of your orbit envelope.
+- Cada variante de Interceptor también tiene un tiempo de ataque aproximado y le permitirá estabilizar su órbita. Una vez que termina, el Interceptor cambiará de dirección y se reiniciará para su propia ataque, lo que le obligará a ajustar su órbita en consecuencia. Se recomienda el uso de su rayo de ventilación térmica durante este tiempo si se desplaza fuera de su órbita.
 -
-- Cyclops ≈30 Seconds -Basilisk & Medusa ≈26 Seconds -Hydra ≈20 Seconds
+- Cyclope ≈30 Segundos -Basilisko & Medusa ≈26 Segundos -Hydra ≈20 Segundos
 -
 - Once the first heart is destroyed immediately switch back to your beam laser and begin cooling your ship while also attempting to gain a minimum distance of 3km (engaging reverse thrust) from the Interceptor. This is the time to set a pip into Systems to recharge systems capacitor from your use of heat sinks. [Pips at: 1-4-1]
 -
