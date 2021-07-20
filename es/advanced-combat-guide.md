@@ -71,40 +71,40 @@ VIDEO: [Desbloqueo de Ingenieros por CMDR Exigous,](https://www.youtube.com/watc
 
 # Propósito de nave e ingeniería
 - Con el equipamiento y los ingenieros listados esta es la base de la doctrina necesaria para utilizar plenamente la instalación de la nave con los ingenieros disponibles para cada módulo. Si utilizas todos los ingenieros estás maximizando completamente las capacidades del Chieftain para permitirte combatir todas las variantes de Interceptor de manera eficiente y efectiva.
-- The speed of the Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 500 m/s which is more than needed to engage any Interceptor variant. Los basiliscos requieren un maniobra adicional para combatir debido a su velocidad. See Basilisk Considerations
+- La velocidad del Chieftain cuando se mejora (engineered) a sus ajustes recomendados le permitirá alcanzar una velocidad mínima de aumento de 500 m/s que es más de lo necesario para cualquier variante de interceptor. Los basiliscos requieren un maniobra adicional para combatir debido a su velocidad. Vea Consideraciones de Basilisk
 
-- The purpose of using a repair limpet controller instead of a shield generator is to allow commanders to repair their ship in case of a mistake. The Thargon swarm also does more phasing damage to ships that are shielded compared to those that are unshielded providing a bit of an advantage against the swarm and for power purposes of the ship. Synthesis of limpets may be needed dependent on damage received especially with the higher variants
+- El propósito de usar un controlador de Dron de reparación en lugar de un generador de escudos es permitir a los comandantes reparar su nave en caso de un error. El enjambre de Thargon también causa más daño por fases (perforante) a los barcos que tienen Escudos en comparación con los que no lo tienen, lo que proporciona una pequeña ventaja contra el enjambre y por el consumo reducido de energía de la Nave. La síntesis de Drones puede ser necesaria dependiendo del daño recibido, especialmente con las variantes más altas
 
-- The purpose of the 3x heat sinks (Ammo capacity) will allow a generous amount of heat sinks to achieve a cold orbit around any variant with experienced commanders using (per heart) 1-2 heat sinks against a cyclops, 2-3 against a Basilisk, 3-5 against a medusa, and allowing all 9 heat sinks for a Hydra.
+- El propósito de los eyectores de calor 3x (capacidad de munición) permitirá una generosa cantidad de eyectores de calor para lograr una órbita fría alrededor de cualquier variante con comandantes experimentados usando (por corazón) de 1-2 contra un ciclope, 2-3 contra un Basilisco, 3-5 contra una medusa, y que permite a los 9 eyectores de calor para una Hydra.
 
-- Inexperienced commanders will be granted a big buffer in heat sinks to allow them to have plenty of heat sinks on hand if mistakes are made allowing this doctrine to be forgiving.
+- A los comandantes sin experiencia se les otorgará un gran amortiguador en los eyectores de calor para permitirles tener muchos eyectores de calor a mano si se cometen errores que permitan que esta doctrina sea indulgente.
 
-- The need for heat sink synthesis will be on a case by case basis dependent on Interceptor or experience of the commander.
+- La necesidad de síntesis de eyectores de calor dependerá caso por caso del Interceptor o de la experiencia del comandante.
 
-- The Guardian Gauss Cannons when set into their fire groups should be split into two fire groups (1 medium to 1 Small) to maximize the heat efficiency of the ship when firing in alternating fire keeping the chieftain below 20% heat with a heat sink engaged.
+- Los cañones Guardian Gauss, cuando se colocan en sus grupos de fuego, deben dividirse en dos grupos de fuego (1 mediano a 1 pequeño) para maximizar la eficiencia térmica del barco cuando se dispara en fuego alterno manteniendo al cacique por debajo del 20% de calor con un eyector de calor activado.
 
-- The long range thermal vent beam laser is utilized primarily after a heart is destroyed to put the Interceptor into a “Sleep Mode” without the use of heat sinks.
+- El láser de haz de ventilación térmica de largo alcance se utiliza principalmente después de que se destruye un corazón para poner el interceptor en un "modo de suspensión" sin el uso de eyectores de calor.
 
-- Heat sinks may be needed if your heat is above 15% after a heart is destroyed. Sleep mode further explained in section VIII.
+- Si el calor está por encima del 15% después de la destrucción del corazón, es posible que se necesiten eyectores de calor. Modo de suspensión explicado más adelante en la sección VIII.
 
-# Initial/First Heart Engagement and Subsequent Heart Combat Cycle
-- Upon engaging a Thargoid Interceptor of any variant in a non-human signal source (NHSS) the initial engagement should occur after the Interceptor has finished his scan of you. The purpose of allowing the Interceptor to finish his scan of you will allow you to get a scan of the Interceptor if you have a xeno scanner fitted.
+# Aproximación inicial / primer corazón y ciclo de combate posterior
+- Al enfrentar un Interceptor Thargoid de cualquier variante en una fuente de señal no humana (NHSS), el enfrentamiento inicial debería ocurrir después de que el Interceptor haya terminado su escaneo de usted. El propósito de permitir que el Interceptor termine su escaneo de usted le permitirá obtener un escaneo del Interceptor si tiene un escáner xeno equipado.
 -
-- Disengage your flight assist and engage with your beam laser. [Pips at: 0-4-2]
+- Desactive su asistente de vuelo y dispare con su rayo láser. [Pips en: 0-4-2]
 -
-- Once the Interceptor is aggressed he will begin launching his swarm. Begin your boost past the Interceptor and gain the recommended distance of 4-6km. [Pips at: 0-4-2]
+- Una vez que el Interceptor sea atacado, comenzará a lanzar su enjambre. Comience con un impulso(turbo) pasando el Interceptor y gane la distancia recomendada de 4-6km. [Pips en: 0-4-2]
 -
-- Once at distance 180 turn while continuing your moment to engage the Thargon swarm. (If swarm management is needed see section V Swarm Management) [Pips at: 0-4-2]
+- Una vez alcanzado, haz un giro de 180 grados mientras mantienes tu impulso hacia atrás para luchar contra el enjambre de Thargon. (Si se necesita el manejo de enjambres, consulte la sección V Gestión de enjambres) [Pips en: 0-4-2]
 -
-- Once the swarm is destroyed you may begin your engagement of the Interceptor (preferably at 5km distance) with your thermal vent beam. This will drop your ship temperature to below 20% to allow you to begin your cold orbit around the Interceptor. [Pips at: 0-2-4]
+- Una vez que se destruye el enjambre, puede comenzar a atacar el Interceptor (preferiblemente a una distancia de 5 km) con su rayo de ventilación térmica. Esto reducirá la temperatura de tu barco a menos del 20% para permitirte comenzar tu órbita de frío alrededor del Interceptor. [Pips en: 0-4-2]
 -
-- Begin your cold orbit attack run by applying down vertical thrust and forward until you achieve an orbit speed of about 180 m/s and maintain an orbit distance of between 900m-1.5km. **NOTE: Applying your thermal vent beam will allow you to set your orbit while avoiding damage from the Interceptor.**
+- Comience su ataque de órbita fría aplicando un empuje vertical hacia abajo y hacia adelante hasta que alcance una velocidad de órbita de aproximadamente 180 m/s y mantenga una distancia de órbita de entre 900m a 1,5 km. **NOTA: El uso de su rayo de ventilación térmica le permitirá establecer su órbita mientras evita daños del Interceptor.**
 -
-- Once your orbit envelope is established switch to your gauss cannon fire group, engage a heat sink and begin your alternating fire of your gauss cannons. (Alternating fire should be achieved by activating the charge up of your second group once your first group of cannons fires its rounds.)
+- Una vez que se establezca su órbita, cambie a su grupo de disparo de cañón gauss, active un eyector de calor y comience sus disparos alternando sus cañones gauss (2 y 2). (El fuego alterno debe lograrse activando la carga de su segundo grupo una vez que su primer grupo de cañones dispara.)
 -
-- Continue engaging heat sinks as needed once you hear “Heat Sink Deployed” from your COVAS until the heart has been exerted and destroyed.
+- Continúe activando los ejectores de calor según sea necesario una vez que escuche "Eyector de calor desplegado" de su COVAS hasta que se haya extraido y destruido el corazón.
 -
-- Each Interceptor variant also has an approximate attack run window and will allow you to stabilize your orbit. Once outside of its attack run window the Interceptor will change direction and reset for its own attack run forcing you to have to adjust your orbit accordingly. Use of your thermal vent beam during this time may be recommended if you drift outside of your orbit envelope.
+- Cada variante de Interceptor también tiene un tiempo de ataque aproximado y le permitirá estabilizar su órbita. Una vez que termina, el Interceptor cambiará de dirección y se reiniciará para su propia ataque, lo que le obligará a ajustar su órbita en consecuencia. Use of your thermal vent beam during this time may be recommended if you drift outside of your orbit envelope.
 -
 - Cyclops ≈30 Seconds -Basilisk & Medusa ≈26 Seconds -Hydra ≈20 Seconds
 -
