@@ -22,11 +22,11 @@ En primer lugar, tenga en cuenta que hay dos tipos principales de Thargoides: **
 
 # Construcciones Contra interceptor
 
-Thargoid Interceptors are very tough and powerful enemies that will require equally strong ships to be able to stand a chance in combat. Due to the incredibly high damage output of Thargoid Interceptors, there are only a handful of different styles and methods you can use effectively.
+Los interceptores Thargoid son enemigos muy duros y poderosos que requerirán naves igualmente fuertes para poder tener una oportunidad en el combate. Debido a la enorme cantidad de daño que causan los Interceptores de Thargoid, solo hay un puñado de estilos y métodos diferentes que puedes usar efectivamente.
 
-These are the most common types of builds used for Anti-Xeno Combat.
+Estos son los tipos de construcciones más comunes que se utilizan en el Combate AntiXeno.
 
--   **Fast Shielded Builds** (Bi-Weave Hybrids) - Ships with good speed and small shields that regenerate quickly (Beginner)
+-   **Construcciones con Escudos rápidas** (Híbridos Bi-Weave) - Naves con buena velocidad y pequeños escudos que se regeneran rápidamente (Principiante)
 
 -   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage (Moderate)
 
