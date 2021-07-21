@@ -108,9 +108,9 @@ VIDEO: [Desbloqueo de Ingenieros por CMDR Exigous,](https://www.youtube.com/watc
 -
 - Cyclope ≈30 Segundos -Basilisko & Medusa ≈26 Segundos -Hydra ≈20 Segundos
 -
-- Once the first heart is destroyed immediately switch back to your beam laser and begin cooling your ship while also attempting to gain a minimum distance of 3km (engaging reverse thrust) from the Interceptor. This is the time to set a pip into Systems to recharge systems capacitor from your use of heat sinks. [Pips at: 1-4-1]
+- Una vez que se destruye el primer corazón, cambie inmediatamente a su rayo láser y comience a enfriar su nave mientras intenta ganar una distancia mínima de 3 km del Interceptor (activando el empuje inverso). Este es el momento de poner un pip en Systems para recargar el condensador de los sistemas por el uso de eyectores de calor. [Pips en: 1-4-1]
 -
-- The first heart is when the Interceptor is the most aggressive with its lightning ability with which it will aggressively chase you down. To avoid the ability, continue applying your beam laser to the Interceptor and once it reaches a distance of 1.5km apply downward thrust and forward thrust while engaging your boost while attempting to keep your beam laser on target and keep more than 800m away from the Interceptor. (For subsequent hearts the Interceptor is not as aggressive and you can maintain your distance from it by adjusting your reverse and forward thrust.)
+- El primer corazón es cuando el Interceptor es más agresivo con su ataque de relámpago con la que te perseguirá agresivamente. Para evitar este ataque, continúe disparando su rayo láser al Interceptor y una vez que alcance una distancia de 1.5 km, aplique empuje hacia abajo y hacia adelante mientras activa su impulso mientras intenta mantener su rayo láser en el objetivo y quedar a más de 800 m de distancia del Interceptor. (Para los corazones posteriores, el Interceptor no es tan agresivo y puedes mantener la distancia ajustando tu empuje hacia atrás y hacia adelante)
 -
 - This maneuver will allow you to do a half orbit around the Interceptor forcing it to change its momentum (and all Interceptors are slow at changing direction) and keeping you under the 15% heat threshold keeping the Interceptor in sleep mode (Section VII Thargoid Interceptor Sleep Mode)
 -
