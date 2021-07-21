@@ -112,50 +112,50 @@ VIDEO: [Desbloqueo de Ingenieros por CMDR Exigous,](https://www.youtube.com/watc
 -
 - El primer corazón es cuando el Interceptor es más agresivo con su ataque de relámpago con la que te perseguirá agresivamente. Para evitar este ataque, continúe disparando su rayo láser al Interceptor y una vez que alcance una distancia de 1.5 km, aplique empuje hacia abajo y hacia adelante mientras activa su impulso mientras intenta mantener su rayo láser en el objetivo y quedar a más de 800 m de distancia del Interceptor. (Para los corazones posteriores, el Interceptor no es tan agresivo y puedes mantener la distancia ajustando tu empuje hacia atrás y hacia adelante)
 -
-- This maneuver will allow you to do a half orbit around the Interceptor forcing it to change its momentum (and all Interceptors are slow at changing direction) and keeping you under the 15% heat threshold keeping the Interceptor in sleep mode (Section VII Thargoid Interceptor Sleep Mode)
+- Esta maniobra te permitirá hacer una media órbita alrededor del Interceptor forzándolo a cambiar su trayectoria (y todos los Interceptores son lentos al cambiar de dirección) y manteniéndote por debajo del umbral de calor del 15% manteniendo el Interceptor en modo de suspensión (Sección VII Interceptor Thargoid en modo de suspensión)
 -
-- Begin reverse thrust away from the Interceptor while still applying your beam laser on target. [Pips at: 0-4-2]
+- Comience a empujar hacia atrás lejos del Interceptor mientras sigue aplicando su rayo láser en el objetivo. [Pips en: 0-4-2]
 -
-- Once the Interceptor begins launching its swarm you will want to maintain a distance of about 3.5km-6km until it launches its swarm fully and begin a 180 maneuver away from the Interceptor and begin boosting away. Use this time now to begin any repairs or synthesis if needed.
+- Tan pronto como el interceptor comienza a liberar su enjambre, intenta mantener una distancia de 3,5 km a 6 km hasta que el enjambre se haya liberado por completo. Luego haces una maniobra de giro de 180 ° alejándote del interceptor y te alejas con empuje (turbo). Use este tiempo ahora para comenzar cualquier reparación o síntesis si es necesario.
 -
-- Begin the initial swarm engagement stated above.
+- Comience el enfrentamiento inicial del enjambre mencionado anteriormente.
 -
-- This time the Interceptor will have a shield up (Shields goes up after the first heart is destroyed) and it will continue to decay over time.
+- Esta vez, el Interceptor tendrá un escudo levantado (los escudos suben después de que se destruye el primer corazón) y continuará decayendo con el tiempo.
 -
-- To maximize the time you have for heart destruction you can decrease the shield uptime by applying your beam laser to the Interceptor degrading its shields faster.
+- Para maximizar el tiempo que tiene para la destrucción del corazón, puede disminuir el tiempo de actividad del escudo aplicando su rayo láser al Interceptor, degradando sus escudos más rápido.
 -
-- Once the shields are down begin the cold orbit cycle listed above as part of the combat loop for all the subsequent hearts. (Using Gauss cannons against the shields is a waste of ammo especially when using precious premium synthesis)
+- Una vez que los escudos están abajo, comienza el ciclo de órbita fría mencionado anteriormente como parte del ciclo de combate para todos los corazones posteriores. (Usar cañones de Gauss contra los escudos es un desperdicio de munición, especialmente cuando se usa una preciosa síntesis premium)
 -
-- Begin your next combat loop with pips set at 0-2-4
+- Comienza tu próximo ciclo de combate con pips en 0-2-4
 -
-- Another similar tactic to the cold boost would be to engage silent running and perform your boost maneuver 180 degrees past the Basilisk. (The options taken will be dependent upon the commander.) The purpose of this maneuver is to allow the commander to save a heat sink and achieve the same outcome while taking advantage of the shieldless build.
+- Otra táctica similar al impulso de frío sería ejecutar una carrera silenciosa y realizar su maniobra de impulso 180 grados pasando el basilisco. (Las opciones tomadas dependerán del comandante.) El propósito de esta maniobra es permitir que el comandante guarde un eyector de calor y logre el mismo resultado mientras aprovecha la construcción sin escudo.
 
-## Basilisk Considerations
-The Basilisk variant has a top speed of 530m/s. The doctrine chieftain can not outrun the Basilisk if followed to the fitting. A required maneuver of a cold boost (engaging a heat sink before boosting 180 degrees past the Basilisk) will allow you to gain valuable distance from the Basilisk to allow you to synthesize more heat sinks or ammo or perform any repairs to your ship before committing to your next combat loop. The Basilisk does not do well when it has to adjust its momentum from one direction to the opposite. Do take in mind this will put you in the path of the swarm also triggering its agitated state if you fly through it.
+## Consideraciones de Basilisk
+La variante Basilisk tiene una velocidad máxima de 530m/s. El Chieftain de la doctrina no puede correr más rápido que el basilisco si se sigue al pie de la letra. Una maniobra requerida de un impulso de frío (activar un eyector de calor antes de impulsar 180 grados más allá del basilisco) le permitirá ganar una valiosa distancia del basilisco para permitirle sintetizar más disipadores de calor o munición o realizar reparaciones en su barco antes de comprometerse a tu próximo bucle de combate. El basilisco tarda en girar. Tenga en cuenta que esto lo pondrá en el camino del enjambre y también activará su estado de agitación si lo atraviesa.
 
-# Swarm Management
-The purpose of engaging the swarm first on the initial engagement is to remove the “banked” swarm of the Interceptor from the equation. Whenever an Interceptor is engaged and the heart is destroyed first, the banked swarm will then launch forcing the commander to have to deal with a second swarm. Removing the banked swarm from the equation will allow the commander to efficiently use his time to focus on all subsequent hearts.
+# Afrontamiento del enjambre
+El propósito de atacar al enjambre primero en el enfrentamiento inicial es eliminar el enjambre "bancado" del Interceptor de la ecuación. Siempre que se activa un Interceptor y el corazón se destruye primero, el enjambre guardado se lanzará obligando al comandante a tener que lidiar con un segundo enjambre. Quitar el enjambre bancado de la ecuación permitirá al comandante utilizar eficientemente su tiempo para centrarse en todos los corazones posteriores.
 
-# Cold Orbit Purpose
-- The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
+# Propósito de órbita fría
+- La órbita fría tiene la ventaja de prevenir todo el daño del Interceptor si se mantiene la velocidad y la distancia de la órbita adecuadas con el arco adecuado de 15 grados más allá del orificio central de los cañones del Interceptor con el calor de la nave por debajo del 20%. Esta táctica es utilizada por muchos comandantes AX veteranos para evitar cualquier tipo de daño a su nave, permitiéndoles continuar su combate y evitando tener que reparar módulos que pueden consumir un tiempo precioso, especialmente en los Interceptores más avanzados.
 -
-- Cold orbiting is also the basis for more advanced Interceptor combat when wanting to use smaller ships and also for more advanced Thargon swarm management for small ships when flak launchers cannot be fitted. (beyond the scope of this guide)
+- La órbita fría también es la base para un combate de interceptor más avanzado cuando se desea usar naves más pequeñas y también para una gestión de enjambres de Thargon más avanzada para naves pequeñas cuando no se pueden instalar lanzadores antiaéreos flaks. (más allá del alcance de esta guía)
 -
-- The amount of heat sinks within this doctrine will allow the destruction of any heart on any variants as long as the commander maintains a 900m-1.5km orbit maximising the damage output of the Gauss cannon.
+- La cantidad de eyectores de calor dentro de esta doctrina permitirá la destrucción de cualquier corazón en cualquier variante, siempre que el comandante mantenga una órbita de 900 m-1,5 km maximizando la producción de daño del cañón Gauss.
 
-Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
+Estar fuera de la órbita puede costar rondas adicionales de los cañones Gauss debido a la caída de daños y se producirá un desperdicio de eyectores de calor. No es aconsejable disparar fuera de la distancia efectiva.
 
-# Thargoid Sleep Mode
-- The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
+# Modo de sueño Thargoid
+- La órbita fría tiene la ventaja de prevenir todo el daño del Interceptor si se mantiene la velocidad y la distancia de la órbita adecuadas con el arco adecuado de 15 grados más allá del orificio central de los cañones del Interceptor con el calor de la nave por debajo del 20%. Esta táctica es utilizada por muchos comandantes AX veteranos para evitar cualquier tipo de daño a su nave, permitiéndoles continuar su combate y evitando tener que reparar módulos que pueden consumir un tiempo precioso, especialmente en los Interceptores más avanzados.
 -
-- Cold orbiting is also the basis for more advanced Interceptor combat when wanting to use smaller ships and also for more advanced Thargon swarm management for small ships when flak launchers cannot be fitted. (beyond the scope of this guide)
+- La órbita fría también es la base para un combate de interceptor más avanzado cuando se desea usar naves más pequeñas y también para una gestión de enjambres de Thargon más avanzada para naves pequeñas cuando no se pueden instalar lanzadores antiaéreos. (más allá del alcance de esta guía)
 -
-- The amount of heat sinks within this doctrine will allow the destruction of any heart on any variants as long as the commander maintains a 900m-1.5km orbit maximising the damage output of the Gauss cannon.
+- La cantidad de eyectores de calor dentro de esta doctrina permitirá la destrucción de cualquier corazón en cualquier variante, siempre que el comandante mantenga una órbita de 900 m-1,5 km maximizando la producción de daño del cañón Gauss.
 -
-- Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
+- Estar fuera de la órbita puede costar rondas adicionales de los cañones Gauss debido a la caída de daños y se producirá un desperdicio de eyectores de calor. No es aconsejable disparar fuera de la distancia efectiva.
 
-`CREDITS
-Thank you to the Anti-Xeno Initiative discord for assistance in refining this doctrine and to the following AXI Commanders for their contribution:
+`CREDITOS
+Gracias al discord de la Iniciativa Anti-Xeno por su ayuda para refinar esta doctrina y a los siguientes Comandantes de AXI por su contribución:
 CMDR Mgram,
 CMDR BADRACINGDRIVER,
 CMDR Mackenheimer,
