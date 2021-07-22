@@ -157,7 +157,7 @@ Alliance Chieftain без щита это бесспорная мета АХ, к
 
 #### **Alliance Challenger (без щита)**
 
-Alliance Challenger, корабль той же серии, что Alliance Chieftain, более медленная, но стабильная альтернатива с немного большим уроном. В зависимости от предпочтений корпус может иметь больше брони, чем стандартная сборка Chieftain'а.
+The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower but more stable alternative with slightly higher damage output. В зависимости от предпочтений корпус может иметь больше брони, чем стандартная сборка Chieftain'а.
 
 Type: **Cold Orbiter**
 
