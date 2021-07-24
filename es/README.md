@@ -9,25 +9,25 @@ dateCreated: 2021-06-23T11:45:35.407Z
 ---
 
 ![](img/home.jpg)
-# Welcome to the AXI Wiki Repository
-This is the Official Wiki Repository for the AXI wiki. This page will act as a home for all development and changes done to the Wiki.
+# Bienvenido al repositorio Wiki de la AXI
+Este es el Repositorio Wiki oficial para la wiki de la AXI. Esta página actuará como un centro para todo el desarrollo y los cambios realizados a la Wiki.
 
 Wiki: https://wiki.antixenoinitiative.com/
 
-Join us in the discussion in the [Anti-Xeno Initiative Discord](https://discord.gg/bqmDxdm) [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bqmDxdm)
+Únete a nosotros en la discusión en el [Discord de la Anti-Xeno Initiative](https://discord.gg/bqmDxdm) [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bqmDxdm)
 
-## How this repository works
+## Cómo funciona este repositorio
 
-Documents created within this repository are directly connected to pages in the AXI wiki. Pages can be created in the following formats:
+Los documentos creados dentro de este repositorio están conectados directamente a las páginas de la wiki de la AXI. Las páginas se pueden crear en los siguientes formatos:
 
-- Markdown: Using Markdown formatting
-- HTML: Using Basic HTML Formatting
+- Markdown: Usando formato Markdown
+- HTML: Usando formato HTML básico
 
-### Page Metadata
+### Metadatos de Página
 
-Each page requires METADATA at the start of the file.
+Cada página requiere METADATOS al inicio del archivo.
 
-Markdown METADATA Example
+Ejemplo de METADATOS Markdown
 ```
 ---
 title: README
@@ -40,31 +40,31 @@ dateCreated: 2021-06-23T11:45:35.407Z
 ---
 ```
 
-HTML METADATA Example
+Ejemplo de METADATOS HTML
 ```
 <!--
-title: Basic Combat Guide
-description: The fundamental concepts of AX combat and how to fight an Interceptor.
+title: Guía de Combate Básica
+description: Los conceptos fundamentales de combate AX y como combatir un Interceptor.
 published: true
 date: 2021-06-17T04:27:27.194Z
-tags: combat, thargoids, interceptors
+tags: combate, thargoids, interceptores
 editor: code
 dateCreated: 2021-06-17T03:18:38.671Z
 -->
 ```
 
-### GitHub Sync
+### Sincronización con GitHub
 
-The GitHub repository will syncronize all changes (bi-directionally) with the AXI Wiki every 5 minutes. If a urgent change is needed contact Mgram#6610 on the AXI Discord.
+El repositorio de GitHub sincronizará todos los cambios (bidireccionalmente) con el Wiki de la AXI cada 5 minutos. Si se necesita un cambio urgente, póngase en contacto con Mgram#6610 en el Discord de la AXI.
 
-## Translation
+## Traducción
 
-Translation is managed through Crowdin, translate pages here: https://crowdin.com/project/axiwiki
+La traducción se gestiona a través de Crowdin, traduce páginas aquí: https://crowdin.com/project/axiwiki
 
-### DNT List (Do Not Translate)
-The following terms should not be translated.
+### Lista DNT (No Traducir)
+Los siguientes términos no deben ser traducidos.
 
-**DNT (Do not translate)**
+**DNT (No Traducir)**
 - Thargoid
 - Cyclops
 - Basilisk
@@ -76,6 +76,6 @@ The following terms should not be translated.
 - Berserker
 - CMDR
 
-Do NOT translate any of the links or their paths
+NO traduzca ninguno de los enlaces o sus rutas
 
-Eg: "/en/builds" is a file path reference, if you edit this, the link will break.
+Ej: "/en/builds" es una referencia de ruta de archivo, si editas esto, el enlace se romperá.
