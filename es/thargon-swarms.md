@@ -48,7 +48,7 @@ Esta es la única formación no misil del Cíclope, y también es utilizada por 
 ## Formación de anillos
 ![embeddedimage_(2).png](/img/embeddedimage_(2).png) De izquierda a derecha: Anillo Medusa, Anillo Hydra
 
-La temida formación de anillos es la formación preferida de las Medusas e Hydras. Es significativamente más difícil de destruir, con flaks antiaéreos porque si detonan en el centro no causan daño alguno. Para lidiar con esta forma, es necesario unos Flaks antiaéreos ampliamente compensados \[muy al costado "lejos del centro"\](como en las alas del Imperial Cutter) o apuntar manualmente lejos de la retícula.
+La temida formación de anillos es la formación preferida de las Medusas e Hydras. Es significativamente más difícil de destruir, con flaks antiaéreos porque si detonan en el centro no causan daño alguno. Para lidiar con esta forma, es necesario unos Flaks antiaéreos ampliamente compensados (como en las alas del Imperial Cutter) o apuntar manualmente lejos de la retícula.
 
 
 ## Formación de Cono/Espiral
@@ -69,7 +69,7 @@ El Muro de la Muerte (Espiral Plana) es la única formación de misiles del Cíc
 La Espiral de la Muerte es una formación de misiles utilizada por primera vez por el Basilisco, y no es raro con variantes más fuertes. A diferencia del Cono/Espiral regular, esta formación tiene una brecha en el centro por lo que es más difícil de destruir. Los Flaks antiaéreos que detonan en el centro causarán menos daño (pero aún así matarán al menos a algunos Thargons)
 
 
-## Anillo de Formación de la Muerte
+## Formación de Anillo de la Muerte
 ![embeddedimage_(6).png](/img/embeddedimage_(6).png) De izquierda a derecha: Anillo de la muerte de Medusa, Anillo de la muerte de Hydra
 
 El Anillo de la Muerte es usado comúnmente por Medusa e Hydra, y no se recomienda intentar destruir este anillo. Costaría demasiado tiempo y munición; en cambio, los misiles deberían cebarse (atraerse) y el enjambre destruido en una formación más simple.
@@ -80,7 +80,7 @@ El enjambre de Thargon puede existir en uno de los dos Estados. Estos Estados so
 
 Cuando se despliega un Enjambre, siempre está en el estado Estándar. Mientras que en este estado nunca entrará en una formación de misiles, **ni siquiera si el Interceptor se enfurece**. Además de esto, un enjambre desplegado mientras un Interceptor está enfurecido también está inicialmente en el estado Estándar. Este estado cambia **sólo si el enjambre pasa a través de una Nave**. (El estado no cambiará a Agitado por un corto tiempo después de que el enjambre sea liberado por un período de hasta 30s, incluso si una nave avanza a través del enjambre).
 
-Cuando el enjambre pasa a través de una nave entra en el estado agitado. Este estado es visualmente indistinguible del estado Estándar, pero difiere en el hecho de que mientras que en este estado el enjambre periódicamente (cada 20-30s) entrará en una formación de misiles. Las formaciones de misiles son más lentas que las normales (360 m/s en lugar de 500 m/s), y un enjambre permanecerá en formación de misiles indefinidamente mientras permanezca en el alcance del Interceptor, y hasta que despliegue varios misiles (generalmente el 10-15% del número máximo del enjambre). Después de desplegar misiles, volverá a una formación regular aleatoria y permanecerá en estado agitado. Este estado solo terminará si el enjambre pasa a través de una nave una vez más, o si el enjambre es asesinado y uno nuevo toma su lugar.
+Cuando el enjambre pasa a través de una nave entra en el estado agitado. Este estado es visualmente indistinguible del estado Estándar, pero difiere en el hecho de que mientras que en este estado el enjambre periódicamente (cada 20-30s) entrará en una formación de misiles. Las formaciones de misiles son más lentas que las normales (360 m/s en lugar de 500 m/s), y un enjambre permanecerá en formación de misiles indefinidamente mientras permanezca en el alcance del Interceptor, y hasta que despliegue varios misiles (generalmente el 10-15% del número máximo del enjambre). Después de desplegar misiles, volverá a una formación regular aleatoria y permanecerá en estado agitado. Este estado solo terminará si el enjambre pasa a través de una nave una vez más, o si el enjambre es destruido y uno nuevo toma su lugar.
 
 ## Maniobras y contadores
 Un enjambre se puede mantener en el estado Estándar durante toda la lucha. Esto significa que las naves ágiles como el chieftain (particularmente las versiones sin escudo) pueden evitar el uso de flak por completo. La baja precisión de los proyectiles cáusticos del enjambre contra objetivos sin escudo combinada con la falta de misiles Thargon elimina la amenaza que presenta el enjambre. Si el enjambre en cualquier punto entra en un estado agitado, uno puede cebar los misiles antes de impulsar con un Turbo a través del enjambre, revirtiendo de nuevo al estado estándar.
