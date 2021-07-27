@@ -9,7 +9,7 @@ dateCreated: 2021-06-15T10:36:00.013Z
 ---
 
 # Scouts
-![scouts.jpg\](/img/scouts.jpg =450x){.align-right}Scouts sind kleinere Thargoid Schiffe und können in jeder Art von nicht-menschlichen Signalquellen gefunden werden. Scouts greifen direkt an und können, solange sie in Gruppen sind, einem nicht vorbereitetem Kommandanten viel Schaden zufügen. Scouts haben, im Gegensatz zu Interceptors mit ihren 99%, nur 77% Widerstand gegenüber Menschlichen Waffen. Diese reduzierte Schadensresistenz, macht es möglich, Scouts mit menschlichen Waffen zu töten, allerdings sind AX spezialisierte Waffen dafür immer noch deutlich besser.
+!\[scouts.jpg\](/img/scouts.jpg =450x){.align-right}Scouts sind kleinere Thargoid Schiffe und können in jeder Art von nicht-menschlichen Signalquellen gefunden werden. Scouts greifen direkt an und können, solange sie in Gruppen sind, einem nicht vorbereitetem Kommandanten viel Schaden zufügen. Scouts haben, im Gegensatz zu Interceptors mit ihren 99%, nur 77% Widerstand gegenüber Menschlichen Waffen. Diese reduzierte Schadensresistenz, macht es möglich, Scouts mit menschlichen Waffen zu töten, allerdings sind AX spezialisierte Waffen dafür immer noch deutlich besser.
 
 # Varianten
 
