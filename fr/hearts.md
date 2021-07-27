@@ -22,10 +22,10 @@ Par défaut, les cœurs Thargoid sont immunisés aux dégâts. Cependant, vous p
 ## {.tabset}
 
 ### Cœur d'un Cyclops extrait
-![clopsheart.png](/img/clopsheart.png =400x)
+!\[clopsheart.png\](/img/clopsheart.png =400x)
 
 ### Coeur d'un Hydra extrait
-![hydraheart.png](/img/hydraheart.png =400x)
+!\[hydraheart.png\](/img/hydraheart.png =400x)
 
 ## Détruire le cœur
 
