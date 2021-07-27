@@ -15,7 +15,7 @@ Nach dem Zerstören eines jeden Herzens eines Thargoid Interceptors treten versc
 > 
 > {.is-info}
 
-![attack_pattern.png](/img/attack_pattern.png =550x){.align-center}
+!\[attack_pattern.png\](/img/attack_pattern.png =550x){.align-center}
 
 ## Blitz
 Nach Zerstörung des ersten Herzens wird der Interceptor, bei Näherung auf 800m, einen Blitzangriff starten, dieser verursacht schweren Schaden am Schutzschild und macht manövrierunfähig. Obwohl die Schubdüsen vielleicht noch funktionieren, wird für eine bestimmte Zeit ein <strong x-id=“1“>abbremsender</strong> Effekt wirken, F/A-OFF wirkt sich darauf nicht aus.
