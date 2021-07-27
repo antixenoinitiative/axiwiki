@@ -2,16 +2,29 @@
 title: Sentry
 description: AXI Sentry monitors Thargoid Incursions and provides realtime updates.
 published: true
-date: 2021-07-27T04:03:28.536Z
+date: 2021-07-27T04:06:14.936Z
 tags: incursions
 editor: code
 dateCreated: 2021-07-27T04:02:39.662Z
 -->
 
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <h1 id="sentry" class="toc-header"> Sentry</h1><div>
 </div><p>Your content here</p><div>
 </div><h2 id="active-incursions" class="toc-header"> Active Incursions</h2><div>
-</div><p>Active Systems</p><div>
+</div><div class="mypanel"></div>
+<script>
+    $.getJSON('http://time.jsontest.com', function(data) {
+        
+        var text = `Date: ${data.date}<br>
+                    Time: ${data.time}<br>
+                    Unix time: ${data.milliseconds_since_epoch}`
+                    
+        
+        $(".mypanel").html(text);
+    });
+    </script>
+<div>
 </div><ul>
 <li>List</li>
 </ul><div>
