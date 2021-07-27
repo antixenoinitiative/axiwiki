@@ -19,7 +19,7 @@ Accédez au panneau de synthèse dans l'interface du jeu via les étapes suivant
 
 `Panneau de droite > Inventaire > Avant-dernier menu > Panneau de Synthèse`
 
-![synthpanel1.png](/img/synthpanel1.png =500x) ![synthpanel2.png](/img/synthpanel2.png =500x)
+!\[synthpanel1.png\](/img/synthpanel1.png =500x) !\[synthpanel2.png\](/img/synthpanel2.png =500x)
 
 # Matériaux Nécessaires
 > Calculez le nombre exact de matériaux nécessaires avec le [Calculateur de Synthèse](/en/synthesiscalculator) par CMDR Th3Hero 
