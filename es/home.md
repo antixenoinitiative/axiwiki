@@ -28,7 +28,7 @@ O usa la **Barra de Navegación** en el **lado izquierdo** para navegar por la w
 La **Wiki de la Anti-Xeno Initiative** tiene muchos temas, si no puedes encontrar alguno, haznos saber en el canal **#website-discussion** en el Discord de AXI.
 
 # Contribuye
-![https://github.com/antixenoinitiative e/axiwiki\](/img/github.png =250x) ¿Quieres formar parte en el proyecto de la **Wiki de la Anti-Xeno Initiative**? Dirígete a nuestro [Repositorio de GitHub](https://github.com/antixenoinitiative/axiwiki) o únete a nosotros en el discord de [AXI](https://discord.gg/bqmDxdm).
+!\[https://github.com/antixenoinitiative e/axiwiki\](/img/github.png =250x) ¿Quieres formar parte en el proyecto de la **Wiki de la Anti-Xeno Initiative**? Dirígete a nuestro [Repositorio de GitHub](https://github.com/antixenoinitiative/axiwiki) o únete a nosotros en el discord de [AXI](https://discord.gg/bqmDxdm).
 
 # Créditos
 
