@@ -2,14 +2,14 @@
 title: Thargoids
 description: About Thargoids
 published: true
-date: 2021-06-30T04:51:03.699Z
+date: 2021-06-23T12:18:32.409Z
 tags: thargoids, interceptors, scouts
 editor: markdown
-dateCreated: 2021-06-24T23:37:46.666Z
+dateCreated: 2021-06-15T10:10:09.264Z
 ---
 
 # Thargoids
-![cyclops-small.png](/img/Cyclops-small.png =250x){.align-right} *The **Thargoids** are a nonhuman race with a history of hostility towards humanity.*
+!\[cyclops-small.png\](/img/Cyclops-small.png =250x){.align-right} *The **Thargoids** are a nonhuman race with a history of hostility towards humanity.*
 
 *The first recorded encounter with a Thargoid ship took place in 2849, although earlier undocumented encounters are believed to have taken place. In the years that followed, contact with lone Thargoid vessels was intermittently reported.*
 
