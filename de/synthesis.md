@@ -19,7 +19,7 @@ Greife durch folgende Schritte auf das Synthese Menü im Spiel zu:
 
 `Rechte Armatur > Inventar > zweit letztes Menü > Synthese Menü`
 
-![synthpanel1.png](/img/synthpanel1.png =500x) ![synthpanel2.png](/img/synthpanel2.png =500x)
+!\[synthpanel1.png\](/img/synthpanel1.png =500x) !\[synthpanel2.png\](/img/synthpanel2.png =500x)
 
 # Erforderliche Materialien
 > Berechne die genau benötigte Menge mit dem [Synthese Rechner](/en/synthesiscalculator) von CMDR Th3Hero 
