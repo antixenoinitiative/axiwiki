@@ -1,78 +1,78 @@
 ---
-title: Speedrunning Guide
-description: Can kill goids? Yes? But can you kill them quick?
-published: true
+title: Guía de velocidad
+description: '¿Pueden matar goids? ¿Sí? Pero, ¿pueden matarlos rápidamente?'
+published: verdadero
 date: 2021-06-10T23:22:48.988Z
 tags:
 editor: markdown
 dateCreated: 2021-06-10T13:56:57.206Z
 ---
 
-# Introduction
+# Introducción
 
-First things first: Speedrunning is not for newcomer pilots to Anti-Xeno combat.
+Lo primero es lo primero: Speedrunning no es para pilotos recién llegados al combate Anti-Xeno.
 
-We generally recommend CMDRs attain at least the Serpent's Nememis rank (Medusa solo) before they focus on learning the advanced techniques involved in speedrunning.
+Por lo general, recomendamos que los CMDR alcancen al menos el rango de Serpent's Nememis (Medusa solo) antes de concentrarse en aprender las técnicas avanzadas involucradas en el speedrunning.
 
-# Speedrunning Ranks
+# Rangos de Speedrunning
 
-There are two ranks associated with speed kills: Myrmidon and Caduceus' Glint
+Hay dos rangos asociados con las muertes rápidas: Myrmidon y Caduceus 'Glint
 
-## Myrmidon - "Silver" color
+## Myrmidon - color "Plata"
 
-Myrmidon is the "Vanguard" equivalent rank for speedrunning kills. Whereas Vanguard requires you to do a complex or off-meta kill, but gives you no time limit, Myrmidon allows you to use a meta ship, but gives you a strict time limit.
+Myrmidon es el rango equivalente de "Vanguard" para matar con rapidez. Mientras que Vanguard requiere que hagas una muerte compleja o fuera de meta, pero no te da límite de tiempo, Myrmidon te permite usar una nave meta, pero te da un límite de tiempo estricto.
 
-Time limits, for a solo Medusa kill,are as follows:
-- 24’00’’000’’’ - Small Ship
-- 12’00’’000’’’ - Medium Ship
-- 6’00’’000’’’ - Large Ship
+Los límites de tiempo, para una matanza de Medusa en solitario, son los siguientes:
+- 24’00’000’’ - Nave pequeña
+- 12’00’000’’ - Nave media
+- 6’00’000’’ - Nave Grande
 
-Applications are to be submitted using the form below: https://docs.google.com/forms/d/e/1FAIpQLSf5BGMqarMg3eQnDsvu0PcPq8NaLWjH6lKlbjSHO_RaTrTSnA/viewform
+Las solicitudes deben enviarse utilizando el siguiente formulario: https://docs.google.com/forms/d/e/1FAIpQLSf5BGMqarMg3eQnDsvu0PcPq8NaLWjH6lKlbjSHO_RaTrTSnA/viewform
 
-## Cadeceus' Glint - "Gold" color
+## Cadeceus' Glint - color "Oro"
 
-Caduceus' glint, or glint for short, is the "Ace" equivalent for speedrunning kills. It is one of only two "competitive" ranks - as in, you can lose this rank.
+Caduceus' glint, o glint para abreviar, es el equivalente de "As" para las muertes rápidas. Es uno de los dos rangos "competitivos", ya que puede perder este rango.
 
-Only up to 9 glint CMDRs can exist at any one point, and typically (because a CMDR can hold a record in more than one category) there will be fewer than 9.
+Solo pueden existir hasta 9 CMDR glint en cualquier punto y, por lo general (debido a que una CMDR puede tener un registro en más de una categoría) habrá menos de 9.
 
-Glint is awarded for the fastest small/medium/large ship kill on Basilisk, Medusa, and Hydra. Cyclops do NOT award a Glint rank.
+Glint se otorga por la muerte de barcos pequeños / medianos / grandes más rápida en Basilisk, Medusa e Hydra. Los cíclopes NO otorgan un rango Glint.
 
-The speedboard with the latest rankings is available here: https://www.antixenoinitiative.com/leaderboards/speed-kills
+El Speedboard con los últimos rangos está disponible aquí: https://www.antixenoinitiative e.com/leaderboards/speed-kills
 
-Applications are to be submitted using the form below: https://docs.google.com/forms/d/e/1FAIpQLSf5BGMqarMg3eQnDsvu0PcPq8NaLWjH6lKlbjSHO_RaTrTSnA/viewform
+Las solicitudes deben enviarse utilizando el siguiente formulario: https://docs.google.com/forms/d/e/1FAIpQLSf5BGMqarMg3eQnDsvu0PcPq8NaLWjH6lKlbjSHO_RaTrTSnA/viewform
 
-Feeling skilled? Try to see if you can collect them all nine golden rings ...
+¿Te sientes hábil? Intenta ver si puedes coleccionarlos, los nueve anillos dorados ...
 
-# Speedrunning Theory
+# Teoría del Speedrunning
 
-Speedrunning is about killing a Thargoid in the shortest amount possible, without resorting to bugs or unintended mechanics (e.g., "gibbing").
+Speedrunning consiste en matar a un Thargoid en el menor tiempo posible, sin recurrir a errores o mecánicas involuntarias (por ejemplo, "gibbing").
 
-In order to get started, the first thing you'll want to understand is the detailed behavior of Goid AI upon heart distruction. Understanding this is critical to avoid triggering "panic shields":
+Para empezar, lo primero que querrás entender es el comportamiento detallado de Goid AI cuando se destruya el corazón. Comprender esto es fundamental para evitar activar "escudos de pánico":
 
 !\[speedrund.png\](/img/speedrund.png =600x)
 
-# Speedrunning Techniques
+# Técnicas Speedrunning
 
-## Shield Ramming
+## Embestida de escudo
 
-*Out of Ammo? Use your Rammo!*
+*¿Sin municiones? ¡¿Usa tu Rambo?!*
 
-TBD
+SIGUE ABIERTO
 
-## Silent Running firing "SR Max"
+## Disparando en navegacion silenciosa, llamado "SR Max"
 
-TBD
+SIGUE ABIERTO
 
-## Heart "underpopping"
+## Corazón "Underpopping"
 
-TBD
+SIGUE ABIERTO
 
-## Aggro Switching (duo fights only)
+## Cambiar el objetivo de la amenaza (solo para batallas de dúos)
 
-# Speedrunning builds
+# Construcciones de speedrunning
 
-See [speedrunbuilds](/en/speedrunbuilds)
+Ver [speedrunbuilds](/en/speedrunbuilds)
 
-# Speedrunning Tutorial
+# Tutorial de Speedrunning
 
-TBD
+SIGUE ABIERTO
