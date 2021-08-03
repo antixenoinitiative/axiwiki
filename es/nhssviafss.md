@@ -2,7 +2,7 @@
 title: Predicting NHSS content via FSS tuning
 description: It is possible to predict and map all NHSS showing up on the FSS
 published: true
-date: 2021-08-03T12:12:00.963Z
+date: 2021-08-03T13:32:41.413Z
 tags: nhss
 editor: markdown
 dateCreated: 2021-08-03T12:11:12.142Z
@@ -24,9 +24,15 @@ By using this technique, it is possible to predict and map all NHSS showing up o
 
 - Left side of the spectrum:
 
+![Left.png](https://media.discordapp.net/attachments/854844543823642674/872095282656071690/Left.jpg?width=1290&height=726)
+
 - Right side of the spectrum
 
+![Right.png](https://media.discordapp.net/attachments/854844543823642674/872095289354367066/Right.jpg?width=1290&height=726)
+
 - Middle of the spectrum
+
+![Middle.png](https://media.discordapp.net/attachments/854844543823642674/872095297478725712/Middle.jpg?width=1290&height=726)
 
 Review the Data here: [Xarionn’s spreadsheet](https://docs.google.com/spreadsheets/d/14Ik0S1fV8FHJR5iJQpiSbJ1t_yntRJVBB6axeL3XErk/edit#gid=0)
 
