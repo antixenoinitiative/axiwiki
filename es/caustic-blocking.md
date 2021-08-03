@@ -1,20 +1,20 @@
 ---
-title: Caustic Blocking
-description: Advanced guide to blocking caustic missiles
-published: true
+title: Bloqueo cáustico
+description: Guía avanzada para bloquear misiles cáusticos
+published: verdadero
 date: 2021-06-21T02:24:43.961Z
-tags: combat, interceptors, caustic missiles
+tags: combate, interceptores, misiles cáusticos
 editor: markdown
 dateCreated: 2021-06-21T02:24:42.124Z
 ---
 
-# Caustic Missile Blocking
-Thargoid Caustic missiles are launched in volleys, and when in a multi-CMDR fight, there will be one volley of missiles assigned for each CMDR that the Interceptor is in combat with at the time the missiles are activated. When the Thargoid Interceptor is able to successfully begin a Caustic Missile attack, each volley for each commander is launched sequentially, one after the other until each volley has been deployed. **If the ‘current target’ is detected and triggers a Caustic Volley, all other CMDRs will also get a volley assigned, regardless of heat and distance.**
+# Bloqueo de Misiles Cáusticos
+Los misiles cáusticos de Thargoid se lanzan en ráfagas, y cuando se está en una pelea con múltiples CMDR, habrá una ráfaga de misiles asignada para cada CMDR con el que el Interceptor esté en combate en el momento en que se activen los misiles. Cuando el Interceptor Thargoid puede comenzar con éxito un ataque de Misiles Cáusticos, cada descarga para cada comandante se lanza secuencialmente, una tras otra hasta que se haya desplegado cada descarga. **Si se detecta el "objetivo actual" y se activa una descarga cáustica, todos los demás CMDR también recibirán una descarga asignada, independientemente del calor y la distancia.**
 
-When the Interceptor launches a volley, it must be able to make a **Target Lock** on them to fire. The Thargoid Interceptor can only make a **Target Lock** when the volley target has a heat signature above the **minimum detection threshold** (~20%) or are within the **minimum detection range** (~700m).
+Cuando el Interceptor lanza una descarga, debe poder hacer un ** Objetivo fijado ** sobre ellos para disparar. El interceptor Thargoid solo puede **Fijar al objetivo** cuando el objetivo de volea tiene una firma de calor por encima del **umbral de detección mínimo** (~20%) o están dentro del **rango de detección mínimo** (~700m).
 
-If the Interceptor cannot get a **Target Lock** on the specific CMDR for that volley, it will wait **indefinitely** until it can get it. This effectively put **ALL** other caustic missiles on-hold **until the pending volley is fired**. Aka: The Thargoid is now constipated.
+Si el interceptor no puede obtener un **Bloqueo de objetivo** en el CMDR específico para esa descarga, esperará ** indefinidamente ** hasta que pueda obtenerlo. Esto efectivamente pone a ** TODOS ** los demás misiles cáusticos en espera ** hasta que se dispare la descarga pendiente**. También llamado: El Thargoid tiene estreñimiento.
 
-Should the target of the pending volleys remain cold and undetectable for the rest of the fight, **the Interceptor will not be able to fire any more Caustic Missiles.**
+Si el objetivo de las descargas pendientes permanece frío e indetectable durante el resto de la pelea,** el Interceptor no podrá disparar más misiles cáusticos.**
 
-It is worth noting that unlike triggering the volley itself (which requires you to be within 3km), if a volley is assigned to you and, for example, 2 out of 3 missiles are launched before you become undetectable, the last missile can be launched at any range and at any time as soon as your heat goes above the detection range.
+Vale la pena señalar que, a diferencia de disparar la descarga en sí (que requiere que estés dentro de los 3 km), si se te asigna una descarga y, por ejemplo, se lanzan 2 de cada 3 misiles antes de que te vuelvas indetectable, se puede lanzar el último misil. en cualquier rango y en cualquier momento tan pronto como su calor supere el rango de detección.

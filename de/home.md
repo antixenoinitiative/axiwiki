@@ -25,7 +25,7 @@ Oder benutze die Navigationleiste ouf der **linken Seite** um das Wiki zu durchs
 
 ![](/img/2021-06-21_15_17_34-home___anti-xeno_initiative_wiki_-_beta.png)
 
-Das **Wiki der Anti-Xeno Initiative** hat viele Themen. Falls du etwas nicht findest, lass uns im Channel **#website-discussion** im [AXI Discord](https://discord.gg/bqmDxdm) wissen.
+Das **Wiki der Anti-Xeno Initiative** hat viele Themen. Falls du etwas nicht findest, lass uns im Channel **\#website-discussion** im [AXI Discord](https://discord.gg/bqmDxdm) wissen.
 
 # Beitragen
 Du möchtest Teil des Projekts **Wiki der Anti-Xeno Initiative** werden? Werde Mitglied im [AXI Discord](https://discord.gg/bqmDxdm) und frage nach, wie du zum Editor werden kannst!

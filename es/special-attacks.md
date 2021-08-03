@@ -2,10 +2,10 @@
 title: Thargoid Special Attacks
 description: Different special attacks will occur after destroying each heart on a Thargoid interceptor. Here is a breakdown of all special attacks and timings.
 published: true
-date: 2021-07-03T02:17:36.494Z
+date: 2021-06-17T01:08:00.506Z
 tags: combat, thargoids, interceptors
 editor: markdown
-dateCreated: 2021-06-24T23:37:27.172Z
+dateCreated: 2021-06-17T01:05:26.462Z
 ---
 
 # Thargoid Special Attacks
@@ -15,7 +15,7 @@ Different special attacks will occur after destroying each heart on a Thargoid i
 > 
 > {.is-info}
 
-![attack_pattern.png](/img/attack_pattern.png =550x){.align-center}
+!\[attack_pattern.png\](/img/attack_pattern.png =550x){.align-center}
 
 ## Lightning
 After the destruction of the first heart, the interceptor will begin to use its lightning when approaching within 800 m which will heavily damage your shields, render you immobile, and knock out your systems. Although your engines may still somewhat function, for a small period of time after the attack, you will struggle to build up speed as your ship will be under a **braking** effect, FA-OFF does not cancel out this effect.

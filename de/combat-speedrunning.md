@@ -49,7 +49,7 @@ Bei Speedruns geht es um das schnellstmögliche Besiegen von Thargoids, ohne auf
 
 Umn den Anfang zu machen, solltest du zuerst einmal das genaue Verhalten der Thargoid-Ki, bei Zerstörung eines Herzens, studieren. Das zu verstehen ist wichtig, um Panik und Fehler bei der folgenden "Schildnutzung" zu vermeiden.
 
-![speedrund.png](/img/speedrund.png =600x)
+!\[speedrund.png\](/img/speedrund.png =600x)
 
 # Speedrun Techniken
 

@@ -1,14 +1,14 @@
 ---
-title: Common Mistakes
-description: Without a solid understanding of AX Mechanics it is very easy to make simple mistake when putting together an AX Ship.
-published: true
+title: Errores comunes
+description: Sin un conocimiento sólido de la mecánica AX, es muy fácil cometer un simple error al armar un barco AX.
+published: verdadero
 date: 2021-06-10T07:25:30.677Z
-tags: builds, outfitting, engineer
+tags: construcciones, equipamiento, ingeniero
 editor: markdown
 dateCreated: 2021-06-10T07:16:26.785Z
 ---
 
-# Common Build Mistakes
+# Errores comunes de construcción
 Without a solid understanding of AX Mechanics it is very easy to make simple mistake when putting together an AX Ship. Here are some common mistakes people have made in the past… so you don’t have to!
 
 ## Useless Utilities

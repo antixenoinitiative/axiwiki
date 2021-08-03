@@ -9,7 +9,7 @@ dateCreated: 2021-06-15T10:36:00.013Z
 ---
 
 # Éclaireurs
-![scouts.jpg\](/img/scouts.jpg =450x){.align-right}Les éclaireurs sont un type de vaisseau Thargoid plus petit et peuvent se trouver dans tous les types de Sources de Signal Non Humaines. Les éclaireurs sont immédiatement hostiles et en groupe peuvent causer des dommages importants à un pilote non préparé. Les éclaireurs, contrairement aux intercepteurs, ont 77% de résistance aux armes humaines, au lieu de 99%. Cette résistance aux dégâts réduite permet de tuer les éclaireurs avec les systèmes d'armes humaines, Cependant, les systèmes d'armes spécialisés AX sont bien plus efficaces que leurs homologues humains.
+!\[scouts.jpg\](/img/scouts.jpg =450x){.align-right}Les éclaireurs sont un type de vaisseau Thargoid plus petit et peuvent se trouver dans tous les types de Sources de Signal Non Humaines. Les éclaireurs sont immédiatement hostiles et en groupe peuvent causer des dommages importants à un pilote non préparé. Les éclaireurs, contrairement aux intercepteurs, ont 77% de résistance aux armes humaines, au lieu de 99%. Cette résistance aux dégâts réduite permet de tuer les éclaireurs avec les systèmes d'armes humaines, Cependant, les systèmes d'armes spécialisés AX sont bien plus efficaces que leurs homologues humains.
 
 # Variants
 
