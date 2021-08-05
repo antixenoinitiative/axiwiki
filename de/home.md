@@ -62,7 +62,7 @@ Ein großes Dankeschön an unser Content- und Entwicklungsteam! ❤️
 - CMDR panther_neo
 - CMDR SGUDestiny
 - CMDR Archiebeales
-- CMDR Douglasjor2
+- CMDR Konstantine Novakov
 
 **Entwickler**
 - CMDR Sanctified (Willhof)
