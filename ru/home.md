@@ -62,7 +62,7 @@ dateCreated: 2021-06-08T12:40:49.911Z
 - CMDR panther_neo
 - CMDR SGUDestiny
 - CMDR Archiebeales
-- CMDR Douglasjor2
+- CMDR Konstantine Novakov
 
 **Разработчики**
 - CMDR Sanctified (Willhof)
