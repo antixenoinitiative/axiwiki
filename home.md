@@ -63,7 +63,7 @@ A big thanks to our content and development team! ❤️
 - CMDR panther_neo
 - CMDR SGUDestiny
 - CMDR Archiebeales
-- CMDR Douglasjor2
+- CMDR Konstantine Novakov
 
 **Developers**
 - CMDR Sanctified (Willhof)
