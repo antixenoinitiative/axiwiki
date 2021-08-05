@@ -62,7 +62,7 @@ La **Wiki de la Anti-Xeno Initiative** tiene muchos temas, si no puedes encontra
 - CMDR panther_neo
 - CMDR SGUDestiny
 - CMDR Archiebeales
-- CMDR Douglasjor2
+- CMDR Konstantine Novakov
 
 **Desarrolladores**
 - CMDR Sanctified (Willhof)
