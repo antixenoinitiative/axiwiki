@@ -31,4 +31,4 @@ dateCreated: 2021-06-15T05:19:41.184Z
 
 ## Другие примеры
 
-Сведения Corvette и Anaconda ![convergence.jpg](/img/convergence.jpg)
+Сведение Corvette и Anaconda ![convergence.jpg](/img/convergence.jpg)
