@@ -62,7 +62,7 @@ Un grand merci à notre équipe de développement et d'écriture ! ❤️
 - CMDR panther_neo
 - CMDR SGUDestiny
 - CMDR Archiebeales
-- CMDR Douglasjor2
+- CMDR Konstantine Novakov
 
 **Développeurs**
 - CMDR Sanctified (Willhof)

@@ -43,11 +43,11 @@ dateCreated: 2021-06-08T12:40:49.911Z
 - КМДР Maligno
 
 **Переводчики**
-- КМДР alterNERDtive
-- КМДР Trex63
-- КМДР Xarionn
-- КМДР St4n2012
-- КМДР Trebiscotti
+- CMDR alterNERDtive
+- CMDR Trex63
+- CMDR Xarionn
+- CMDR St4n2012
+- CMDR Trebiscotti
 - CMDR AlexMG1
 - CMDR Domtron
 - CMDR Grincake
@@ -62,7 +62,7 @@ dateCreated: 2021-06-08T12:40:49.911Z
 - CMDR panther_neo
 - CMDR SGUDestiny
 - CMDR Archiebeales
-- CMDR Douglasjor2
+- CMDR Konstantine Novakov
 
 **Разработчики**
 - CMDR Sanctified (Willhof)

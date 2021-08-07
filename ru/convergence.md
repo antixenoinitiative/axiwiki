@@ -1,5 +1,5 @@
 ---
-title: Convergence
+title: Сведение
 description: A short guide on convergence and how it affects fixed weapons
 published: true
 date: 2021-06-15T05:19:44.486Z
@@ -8,27 +8,27 @@ editor: markdown
 dateCreated: 2021-06-15T05:19:41.184Z
 ---
 
-# Convergence
+# Сведение
 
-Convergence is a term commonly used in regards to how well fixed weapons converge on the enemy target. For example, a very wide ship with weapons on each wing-tip may have very poor convergence because the hardpoints are very far apart from each other.
+Сведение — это термин, который часто используют относительно того, как хорошо фиксированное оружие сводится на цели. К примеру, очень широкий корабль с оружием на кончиках крыльев может иметь очень плохое сведение, потому что гнёзда слишком далеко друг от друга.
 
-This becomes very important when using weapons that do not have any gimbal/turreted or automatic adjustment (micro-gimbal, such as small Gauss).
+Оно становится очень важным при использовании оружия, не использующего карданную/турельную наводку или автоматическую корректировку (микро-доводка как у, например, маленьких пушек Гаусса).
 
-In AX combat, it is important that your weapons (Gauss in particular) have a very small convergence area. This will allow all of your weapons to be able to hit a small target (like a Thargoid Heart) simultaneously.
+В AX-сражении очень важно, чтобы ваше оружие (а именно пушки Гаусса) хорошо сводились. Это позволит всем вашим орудиям попадать по маленьким целям (например, Таргоидским Сердцам) одновременно.
 
-You can place weapons in hardpoints that are physically close together to improve convergence.
+Вы можете разместить оружие в гнёздах, которые расположены близко друг к другу чтобы улучшить сведение.
 
-You can use [Elite Dangerous Ship Anatomy](http://a.teall.info/edsa/) to see how each ship's hardpoints converge, and to decide which hardpoints lead to optimal convergance. You can also use this to see the location of internals and utility slots.
+На [Elite Dangerous Ship Anatomy](http://a.teall.info/edsa/) можно посмотреть, как сводятся гнёзда каждого корабля и решить, какие из них приведут к оптимальному сведению. Также вы можете использовать этот сайт, чтобы посмотреть расположение внутренних отсеков и внешних креплений.
 
 
-## Good Convergence
+## Хорошее сведение
 
-These hardpoints have a very tight convergence. ![](/img/convergegood.png)
+Эти гнёзда очень хорошо сводятся. ![](/img/convergegood.png)
 
-## Bad Convergence
+## Плохое сведение
 
-The outer hardpoints on the cutter have very poor convergence. ![convergebad.png](/img/convergebad.png)
+Внешние гнёзда каттера очень плохо сводятся. ![convergebad.png](/img/convergebad.png)
 
-## Other Examples
+## Другие примеры
 
-Corvette vs Anaconda Convergence ![convergence.jpg](/img/convergence.jpg)
+Сведения Corvette и Anaconda ![convergence.jpg](/img/convergence.jpg)
