@@ -39,14 +39,14 @@ To use these sites, you will need to go to the celestial body corresponding to t
 ## Selen und Thargoid Barnacles
 Selen ist (ironischerweise) am schwierigsten zu farmen, da man es nur von Klasse 2 Ressourcen-Standorten bekommt. Es gibt viele Wege an Selen ranzukommen, aber keine sind sehr effizient, im Gegensatz zu den Kristallinen Standorten wie oben erwähnt.
 
-Thargoid Barnacles can provide a good source of it since breaking the spikes most commonly drops G1-G2 materials, but locating the correct barnacle may be tricky. You can use this spreadsheet compiled by CMDR Panpiper to find the correct sites. Look for Allripe Barnacles with Selenium present on the planet. Additionally relogging will cause the spikes to reappear, which means you can repeatedly farm the same site.
+Thargoid Barnacles können eine gute Quelle dafür sein, da die Stacheln meist G1-G2 Materialien fallen lassen, aber es kann schwierig sein den richtigen Barnacle zu finden. Du kannst die von CMDR Panpiper erstellte Tabelle nutzen, um den richtigen Standort zu finden. Look for Allripe Barnacles with Selenium present on the planet. Außerdem wird das erneute einloggen die Stacheln neu laden, wodurch man sie erneut aufsammeln kann.
 
-Other known Selenium Sites
+Weitere bekannte Selen Orte
 
-- **Wolf 587 4 E A** has geo sites and high Selenium %
-- **HIP 83204 3 B A** is slightly higher (5% selenium, 1.3% arsenic and 1% zirconium in the G2-level drops, geo sites 10, 1, 2, 8, 7, and 14)
+- **Wolf 587 4 E A** hat Geo-Sites und hohe Selen %
+- **HIP 83204 3 B A** ist etwas besser (5% Selen, 1.3% Arsen und 1% Zirkonium in den G2-Stufen, Geo-Sites 10, 1, 2, 8, 7 und 14)
 
-# Manufactured Materials
+# Hergestellte Materiale
 ## HGE Looping
 *Guide By CMDR Jetlagged*
 
@@ -64,7 +64,7 @@ The contents of a given HGE are determined by system allegiance (Federation/Empi
 
 If you have a weak PC (or want to speed up the grind even more) you can load the vanilla (non-horizon) version of the game, as it loads faster.
 
-# Encoded Materials
+# Verschlüsselte Materialien
 ## Jameson's Crashed Cobra
 You can find a collection of high grade encoded materials by travelling to Jameson's crashed cobra and scanning the small red beacons surrounding the crash site, once you log out/in these will refresh and you can continue to do this until your materials are full.
 
