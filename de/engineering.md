@@ -48,9 +48,9 @@ Weitere bekannte Selen Orte
 
 # Hergestellte Materiale
 ## HGE Looping
-*Guide By CMDR Jetlagged*
+*Anleitung von CMDR Jetlagged*
 
-HGE Looping is a time-efficient method of grinding Grade 5 Manufactured materials. Ideally you will want to be using a ship with at least 3 collector limpets and a good turn rate in supercruise.
+HGE Looping ist eine zeiteffiziente Methode um an Hergestellte Materialien von Klasse 5 zu kommen. Bestenfalls fliegst du ein Schiff mit mindestens 3 Sammeldrohnen-Controler und einer guten Wendezeit im Supercruise.
 
 1. Start by finding a HGE that contains the desired materials which has longer than 20 minutes on the decay timer.
 1. Drop into this HGE and collect the contents with your collector limpets.
@@ -65,7 +65,7 @@ The contents of a given HGE are determined by system allegiance (Federation/Empi
 If you have a weak PC (or want to speed up the grind even more) you can load the vanilla (non-horizon) version of the game, as it loads faster.
 
 # Verschlüsselte Materialien
-## Jameson's Crashed Cobra
+## Jamesons abgestürzte Cobra
 You can find a collection of high grade encoded materials by travelling to Jameson's crashed cobra and scanning the small red beacons surrounding the crash site, once you log out/in these will refresh and you can continue to do this until your materials are full.
 
 1. Equip an SRV and Detailed Surface Scanner
