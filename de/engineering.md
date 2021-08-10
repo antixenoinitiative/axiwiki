@@ -11,33 +11,33 @@ dateCreated: 2021-06-15T05:40:06.134Z
 # Ingenieur Leitfaden
 Dies ist ein allgemeiner Leitfaden zum Sammeln von Materialien für die Modifikation deines Schiffes in Elite Dangerous.
 
-> This guide is primarily focussed on gathering materials. For information on how to engineer your ship, see our [Ship Build Theory](/en/shipbuildtheory) page. 
+> Dieser Guide behandelt hauptsächlich das Sammeln der Materialien. Weitere Informationen wie man sein Schiff modifiziert findet man auf der Seite [Schiffs Build Theorie](/en/shipbuildtheory). 
 > 
 > {.is-info}
 
-> **Other Useful Sites** [Scavengers Spreadsheet](https://docs.google.com/spreadsheets/d/1yo1iHP9KUXpoBaIzJsRsDxfAcQa7cBq0YUIFy3m2NII/edit#gid=585994681) [Panpipers's Pleiades Survivor Guide to Barnacles and More](https://docs.google.com/spreadsheets/d/1giHvc1SISUcD7BPKjlbutkuwPrWQwHuSxnBwQ3MPQME/edit#gid=0) 
+> **Weitere wichtige Seiten**  [Scavengers Tabelle](https://docs.google.com/spreadsheets/d/1yo1iHP9KUXpoBaIzJsRsDxfAcQa7cBq0YUIFy3m2NII/edit#gid=585994681)  [Panpipers' Pleiades Überlebenstaktik für Barnacles und mehr](https://docs.google.com/spreadsheets/d/1giHvc1SISUcD7BPKjlbutkuwPrWQwHuSxnBwQ3MPQME/edit#gid=0) 
 > 
 > {.is-success}
 
-# Raw Materials
+# Rohe Materialien
 
 ## Shard Farming
-*Guide By CMDR Secretpro*
+*Anleitung von CMDR Secretpro*
 
-Raw materials (Grade 4) can be easily obtained en masse at special **Crystalline Shard Biological Sites**. A large cluster of these sites, consisting of purely the highest grade (G4) of Raw materials can be found at two systems approximately 1500-1800Ly from the bubble. We recommend putting together a decent exploration ship (unengineered works) and visiting both systems to completely fill on all G4 materials (except Selenium) which you can trade down for any lower grade materials you may need. This should last you for multiple full ship engineering builds.
+Rohmaterialien (Stufe 4) können massenhaft an **Kristalinen Biologischen Standorten** gefunden werden. Ein Haufen dieser Standorte, die nur aus Rohmaterialien bester Klasse (G4) bestehen, kann man in zwei Systemen circa 1500- 1800Ly von der Bubble entfernt finden. Wir empfehlen ein akteptables Entdeckungsschiff zusammenzustellen (unmodifiziert ist in Ordnung) und dann die beiden Systeme zu besuchen, um dort auf allen G4 Rohstoffen (außer Selen) aufzustocken. Diese kann man dann für jegliche Materialien mit geringerer Qualität eintauschen. Das sollte für mehrere ganze Schiffs Builds reichen.
 
 - **Yttrium** - Outotz LS-K D8-3 B 5 A
-- **Antimony** - Outotz LS-K D8-3 B 5 C
+- **Antimon** - Outotz LS-K D8-3 B 5 C
 - **Ruthenium** - Outotz LS-K D8-3 B 7 B
 - **Polonium** - HIP 36601 C 1 A
-- **Tellurium** - HIP 36601 C 3 B
+- **Tellur** - HIP 36601 C 3 B
 - **Technetium** - HIP 36601 C 5 A
 
-To use these sites, you will need to go to the celestial body corresponding to the material you require and use your Detailed Surface Scanner (DSS) on it. When this is done, go down to any of the biological sites and hop in your SRV. You should be able to find plenty of rare raw materials for all your engineering and synthesis needs.
+To use these sites, you will need to go to the celestial body corresponding to the material you require and use your Detailed Surface Scanner (DSS) on it. Daraufhin kannst du zu irgendeinem Standort fliegen und ins SRV steigen. Hier sollte man genug Rohmaterialien für jeden Ingenieur finden.
 
 **Do not forget to bring a Detailed Surface Scanner**
-## Selenium and Thargoid Barnacles
-Selenium is (ironically) the most difficult material to farm since it only drops from Grade 2 resource nodes. There are multiple ways to collect it, but none so efficient as the Crystalline Shards are for other materials as mentioned above.
+## Selen und Thargoid Barnacles
+Selen ist (ironischerweise) am schwierigsten zu farmen, da man es nur von Klasse 2 Ressourcen-Standorten bekommt. Es gibt viele Wege an Selen ranzukommen, aber keine sind sehr effizient, im Gegensatz zu den Kristallinen Standorten wie oben erwähnt.
 
 Thargoid Barnacles can provide a good source of it since breaking the spikes most commonly drops G1-G2 materials, but locating the correct barnacle may be tricky. You can use this spreadsheet compiled by CMDR Panpiper to find the correct sites. Look for Allripe Barnacles with Selenium present on the planet. Additionally relogging will cause the spikes to reappear, which means you can repeatedly farm the same site.
 
