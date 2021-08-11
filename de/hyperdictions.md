@@ -12,33 +12,33 @@ dateCreated: 2021-06-15T11:06:57.862Z
 
 Aus dem Hyperraum abgefangen zu werden, ist ein weniger direkter Weg Thargoids zu finden…. weil die Thargoids DICH finden. Hyperdictions passieren, während man in Gebieten mit Thargoids von System zu System springt.
 
-When a Hyperdiction occurs you will be ripped out of Hyperspace and left floating somewhere in-between the star systems you were jumping from (you will actually still be in the origin system). One of the hyperdicting thargoids will perform an EMP attack, which will shut down your ship if you are not protected (see: Modules). Similar to any other encounter, If the Scans you while carrying Thargoid or Guardian technology (cargo), it will become hostile if you do not drop the items.
+Bei einer Hyperdiction wirst du aus dem Hyperraum gezogen und strandest irgendwo zwischen den Systemen zwischen denen du gesprungen bist (Aber du bleibst noch im alten System). Einer der abfangenden Thargoid wird eine EMP auslösen, die dein Schiff herunterfährt, außer du schützt dich (siehe Module). Wenn sie dich scannen während du Fracht von Thargoids oder Guardians trägst, werden sie feindlich, wenn du die Fracht nicht sofort abwirfst; ähnlich zu jeder Interaktion mit Thargoids.
 
-If you have a Shutdown Field Neutralizer, it is possible to avoid the shutdown and proceed to engage the Interceptors.
+Mit einem Abschaltfeld-Neutalisator kann man das Herunterfahren vermeiden und auf die Interceptor eingehen.
 
-> Hyperdictions can have more than 1 interceptor, up to 4 in total. 
+> Hyperdictions können mehr als einen Interceptor haben, bis zu vier insgesamt. 
 > 
 > {.is-info}
 
-Based on combined research from Canonn and AXI we have found that collecting a sensor and jumping at least once with the sensor activates a hidden permanent ‘**marked**’ effect that applies a 20% Hyperdiction chance in the Pleiades and Witch Head Region.
+Basierend auf vereinten Forschungen zwischen Canonn und der AXI, haben wir herausgefunden, dass das Aufsammeln eines Thargoid Sensors und das Springen mit diesem permanent einen versteckten **Markiert** Effekt aktiviert. Dieser bringt eine 20% Chance im Pleiades und Witch Head Nebel hyperdictet zu werden.
 
-To gather this data we performed the following test several times over on different accounts:
+Um diese Daten zu erheben, haben wir mehrmals folgende Tests auf verschiedenen Accounts durchgeführt:
 
-1. Jump 100 times between two systems in Pleiades (Result: Zero Hyperdictions)
-1. Collect a Thargoid Sensor (Also tested Probes and the Proximity Scan from the sensor)
-1. Jump 100 times between the same two systems in the Pleiades (Results: ~20 Hyperdictions)
-1. To further confirm the Hyperdiction rate, CMDR Maligno has done over ~500 Jumps around these regions and found a very constant rate of ~20% per jump (once ‘marked’)
+1. 100 mal zwischen zwei Systemen in Pleiades springen (Ergebnis: 0 Hyperdictions)
+1. Einen Thargoid Senso aufsammeln (Es wurden auch Proben und die Scans der Sensoren getestet)
+1. 100 mal zwischen zwei Systemen in Pleiades springen (Ergebnis: ~20 Hyperdictions)
+1. Um die Hyperdiction Wahrscheinlichkeit weiter zu bestätigen, hat CMDR Maligno über ~500 Sprünge durch diese Regionen gemacht und fand eine sehr konstante Rate von ~20% pro Sprung (sofern 'markiert')
 
-## How to get Hyperdictions
-Thargoid Hyperdictions currently only occur when jumping to/from systems within two different regions of space.
+## Wie man hyperdictet wird
+Thargoid Hyperdictions treten nur in zwei Regionen der Galaxie auf, wenn man zwischen zwei Systemen springt.
 
-- The Pleiades Bubble (all systems within 100Ly of Merope)
+- Die Pleiades Region (Alle Systeme in einem 100Ly Radius von Merope)
 
-- The Witch Head Bubble (all systems within 75Ly of Witch Head Sector IR-W C1-9)
+- Die Witch Head Region (Alle Systeme in einem 75Ly Radius von Witch Head Sector IR-W C1-9)
 
-These Hyperdictions will not occur for most pilots unless you activate a hidden "**marked**" effect that is applied by collecting rare Thargoid Commodities.
+Diese Hyperdictions passieren nicht, bis man einen versteckten "**Markiert**" Effekt bekommt, den man durch das Aufsammeln von seltenen Thargoid Waren kriegt.
 
-Based on extensive research from the Anti-Xeno Initiative and Canonn Interstellar Research Group, we have found a distinctive correlation between certain types of Thargoid Commodities causing players to get hyperdicted. The current best understanding is the following:
+Aufgrund von ausführlicher Forschung der Anti-Xeno Initiative und Canonn Interstellar Reasearch Group haben wir eine distinktive Korrelation zwischen bestimmten Thargoid Waren und der Rate von abgefangenen Spielern. So versteht man es am besten:
 
 Collecting a Thargoid Sensor applies a permanent "**marked**" affect on your player that will cause frequent Hyperdictions in the Pleiades and Witch Head Nebula. This affect is permanent once collecting a sensor and will continue to apply without the item in your cargo.
 
