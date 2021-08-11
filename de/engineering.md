@@ -52,35 +52,35 @@ Weitere bekannte Selen Orte
 
 HGE Looping ist eine zeiteffiziente Methode um an Hergestellte Materialien von Klasse 5 zu kommen. Bestenfalls fliegst du ein Schiff mit mindestens 3 Sammeldrohnen-Controler und einer guten Wendezeit im Supercruise.
 
-1. Start by finding a HGE that contains the desired materials which has longer than 20 minutes on the decay timer.
-1. Drop into this HGE and collect the contents with your collector limpets.
-1. Exit the game to desktop and restart via the launcher.
-1. Join the same mode you were in originally, charge your FSD, and boost. Do not use your throttle.
-1. Upon transitioning to supercruise, immediately set throttle to 0% (it should already be) and open the left panel.
-1. The nearest Unknown Signal Source should be a few hundred km away and is the same HGE you dropped into the first time.
-1. Drop in, collect the contents and repeat until material storage is full or the HGE times out.
+1. Zuerst musst du High Grade Emissions finden, die die gewünschten Materialien enthalten und einen Timer, der mehr als 20 min anzeigt.
+1. Springe ins Signal und sammle die Materialien mit den Drohnen auf.
+1. Schließe das Spiel und starte es über den Launcher neu.
+1. Tritt dem gleichem Modus bei, wo du vorher warst, lade dein FSA auf und booste. Benutze deine Schubdüsen nicht.
+1. Kurz bevor du den Supercruise betrittst musst du deine Drosselung auf 0% setzen (sollte es schon sein). Dann öffnest du den linken Bildschirm.
+1. Die näheste unbekannte Signal sollte ein paar hundert km entfernt sein und ist dieselbe HGE, in die du das erste Mal gesprungen bist.
+1. Spring rein, sammle alles und wiederhole alles bis das Lager für Materialien voll ist, oder das Signal verfällt.
 
-The contents of a given HGE are determined by system allegiance (Federation/Empire) and minor faction state (Outbreak, War, etc.) and spawn at random in systems in such states. See [ED Materials](https://sites.google.com/view/ed-materials/ed-materials/manufactured-items) for more information on what material corresponds to each faction state.
+Der Inhalt eines Signals werden von der Zugehörigkeit des Systems (Föderation/Imperium) und dem Status von kleineren Fraktionen (Krieg, Seuche, etc.) bestimmt. HGEs findet man in Systemen mit solchen Bedingungen. Besuche[ED Materialien](https://sites.google.com/view/ed-materials/ed-materials/manufactured-items) für mehr Informationen bezüglich Stati und deren Materialien.
 
-If you have a weak PC (or want to speed up the grind even more) you can load the vanilla (non-horizon) version of the game, as it loads faster.
+Falls du einen schlechten PC hast (oder du das ganze noch schneller machen möchtest), kannst du die Vanilla (Nicht-Horizon) Version des Spiels starten, da es schneller lädt.
 
 # Verschlüsselte Materialien
 ## Jamesons abgestürzte Cobra
-You can find a collection of high grade encoded materials by travelling to Jameson's crashed cobra and scanning the small red beacons surrounding the crash site, once you log out/in these will refresh and you can continue to do this until your materials are full.
+Am Ort von Jamesons gestrandeter Cobra kann man eine Sammlung von wertvollen Materialien finden, indem man die kleinen roten Sender scannt, die um dem Schiff herum verteilt sind. Nachdem man sich aus und einloggt werden diese sich zurücksetzten und man kann das wiederholen, bis die Materialien voll sind.
 
 1. Equip an SRV and Detailed Surface Scanner
-1. Travel to HIP 12099 Planet 1B (-54.3803, -50.3575)
+1. Fliege zu HIP 12099 Planet 1B (-54.3803, -50.3575)
 1. Use your Detailed Surface Scanner to scan the planet and locate the crash site.
-1. Drop into the site and deploy your SRV.
-1. Drive up the the Cobra and using your Data Link Scanner, scan all the red beacons.
-1. Log off and back on.
-1. Repeat from step 5.
+1. Lande vor Ort und benutze das SRV.
+1. Fahre zur Cobra und nutzte den Data Link Scanner, um alle roten Sender zu scannen.
+1. Schließe und starte das Spiel.
+1. Wiederhole von Schritt 5.
 
-# Other Materials
-## Sensor Fragments
-Required to unlock the Engineer Professor Palin, sensor fragments can be gathered from Thargoid Scavengers or by destroying Thargoid Sensors. You can find Thargoid Sensor fragments very close to Professor Palins lab at a recently discovered crashed ship at the following location.
+# Andere Materialien
+## Sensor Fragment
+Benötigt um den Ingenieur Professor Palin freizuschalten. Sensorfragmente können von Thargoid Scavenger oder zerstörten Thargoid Sensoren gesammelt werden. Thargoid Sensoren kann man sehr nah an Professor Palins Labor bei einem kürzlich entdeckten, abgestürtzten Schiff finden.
 
-**System**: Solati **Body**: Halla **Coordinates**: -70.9912 x -156.4383 **Stuff**: 1 Thargoid Sensor, 1 Cargo Rack which drops one of the following (V, Cr, Zr, Zn, Mn, Sb), Ship Data Core.
+**System**: Solati **Planet**: Halla **Koordinaten**: -70.9912 x -156. 383 **Gegenstände**: 1 Thargoid-Sensor, 1 Frachtgestell das eines der folgenden (V, Cr, Zr, Zn, Zn, Mn, Sb) fallen lässt, Ship Data Core.
 
 This is the closest system to Arque (Palin) to get Sensor Fragments at less than 28 LYs distance. Destroy the Sensor to gather the fragments. You can relog at this site to spawn another.
 
