@@ -82,17 +82,17 @@ Benötigt um den Ingenieur Professor Palin freizuschalten. Sensorfragmente könn
 
 **System**: Solati **Planet**: Halla **Koordinaten**: -70.9912 x -156. 383 **Gegenstände**: 1 Thargoid-Sensor, 1 Frachtgestell das eines der folgenden (V, Cr, Zr, Zn, Zn, Mn, Sb) fallen lässt, Ship Data Core.
 
-This is the closest system to Arque (Palin) to get Sensor Fragments at less than 28 LYs distance. Destroy the Sensor to gather the fragments. You can relog at this site to spawn another.
+Dies ist das nächstgelegenste System zu Arque (Palin), um Sensorfragmente in weniger als 28 LYs Entfernung zu erhalten. Zerstöre den Sensor, um die Fragmente zu sammeln. Du kannst an diesem Standort neustarten, um einen weiteren zu sammeln.
 
-Credit to CMDR FlyBoyXD of the FRC.
+Danksagung an CMDR FlyBoyXD der FRC.
 
-# Material Trading
-If you are not able to obtain the materials you need directly, it is possible to trade other materials of the same type at a material trader for a cost. Different material traders will handle different material types such as Data, Raw and Manufactured.
+# Handel mit Materialien
+Wenn du nicht alle Materialien selbst sammeln konntest, kannst du sie mit Verlust gegen andere Materialien des selben Typs eintauschen. Verschiedene Materialhändler handeln mit unterschiedlichen Materialtypen wie Daten, Rohmaterial und Hergestelltem Material.
 
-You can find the nearest trader with [this tool](https://inara.cz/galaxy-nearest/25).
+Deinen nächsten Händler kannst du mit [diesem Tool](https://inara.cz/galaxy-nearest/25)finden.
 
-When trading you will always lose some value. You will lose even more if you trade across different categories.
+Beim Tausch machst du immer etwas Verlust. Man verliert noch viel mehr wenn man zwischen Kategorien tauscht.
 
-**Ideally you want to gather materials at the highest grade possible and trade downwards.**
+**Idealerweise will man möglichst hochwertige Materialien sammeln und nach unten handeln.**
 
 ![convert1.png](/img/convert1.png) ![convert2.png](/img/convert2.png)
