@@ -10,7 +10,7 @@ dateCreated: 2021-06-15T11:06:57.862Z
 
 # Hyperdictions
 
-Hyperdictions are another less direct means to find Thargoids…. for Thargoids to find YOU. Hyperdictions occur when jumping from systems to system in Thargoid activity areas.
+Aus dem Hyperraum abgefangen zu werden, ist ein weniger direkter Weg Thargoids zu finden…. weil die Thargoids DICH finden. Hyperdictions passieren, während man in Gebieten mit Thargoids von System zu System springt.
 
 When a Hyperdiction occurs you will be ripped out of Hyperspace and left floating somewhere in-between the star systems you were jumping from (you will actually still be in the origin system). One of the hyperdicting thargoids will perform an EMP attack, which will shut down your ship if you are not protected (see: Modules). Similar to any other encounter, If the Scans you while carrying Thargoid or Guardian technology (cargo), it will become hostile if you do not drop the items.
 
