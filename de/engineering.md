@@ -1,9 +1,9 @@
 ---
-title: Engineering Materials Guide
-description: Guide on gathering and collecting materials for engineering your ship
+title: Ingenieur Leitfaden
+description: Leitfaden zum Sammeln von Materialien für die Modifikation deines Schiffes
 published: true
 date: 2021-06-17T00:16:23.801Z
-tags: engineering, outfitting, materials
+tags: Engineering, Ausrüstung, Materialien
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
 ---
