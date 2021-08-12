@@ -1,18 +1,18 @@
 ---
-title: Mechanic Bypass Guide
-description: How to skip certain mechanics in a thargoid fight
+title: Mechaniken überspringen
+description: Wie man bestimmte Mechaniken im Thargoid-Kampf überspringt
 published: true
 date: 2021-06-21T02:32:28.077Z
-tags: combat, thargoids, interceptors
+tags: Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
 ---
 
-# SLEEP PHASE MECHANICS
+# SCHLAFZUSTAND MECHANIK
 
-Thargoid Interceptors use various special abilities (read more about these in our [Special Attacks](/en/special-attacks) page) which occur whenever a Thargoid Heart is broken. The Caustic Missiles, Shutdown Pulse and the Panic Shield Regeneration abilities require the Interceptor to have a **Target Lock** for it to be able to activate them (similar to how seeker missiles work).
+Thargoid Interceptor haben einige Spezialangriffe (mehr dazu auf der Seite [Spezialangriffe](/en/special-attacks)), die sie einsetzen nachdem ein Herz zerstört wurde. Für kaustische Raketen, das Abschaltfeld und den Panikschild muss der Interceptor ein **Ziel aufgeschaltet** haben, damit er sie einsetzen kann (ähnlich zu Suchraketen).
 
-When the Thargoid Heart is broken, it will begin looking for a **Target Lock**. The Interceptor can only make a **Target Lock** when the current active target (most damage dealt) has a heat signature above the **minimum detection threshold** (~20%) or are within the **minimum detection range** (~700m).
+Nachdem ein Thargoid Herz zerstört wurde, versucht der Interceptor ein **Ziel aufzuschalten**. Der Interceptor kann nur **aufschalten**, wenn das jetztige aktive Ziel (am meisten Schaden gemacht) eine Hitzesignatur über dem **Mindest-Erfassungswert** (~20%) hat, oder innerhalb der **Mindest-Erfassungsreichweite** (~700m) ist.
 
 The Interceptor will continue to try and get a **Target Lock** on the current target until **35** **Seconds** have passed. This is called the **“Sleep Phase”**. After this period, the Interceptor will give up on getting a target lock, deploy new [Thargon Swarms](/en/thargon-swarms) (if one is not already active) and continue the fight. _Effectively skipping any Caustic Missiles or Shutdown Fields that were due for that Heart_
 
