@@ -14,19 +14,19 @@ Thargoid Interceptor haben einige Spezialangriffe (mehr dazu auf der Seite [Spez
 
 Nachdem ein Thargoid Herz zerstört wurde, versucht der Interceptor ein **Ziel aufzuschalten**. Der Interceptor kann nur **aufschalten**, wenn das jetztige aktive Ziel (am meisten Schaden gemacht) eine Hitzesignatur über dem **Mindest-Erfassungswert** (~20%) hat, oder innerhalb der **Mindest-Erfassungsreichweite** (~700m) ist.
 
-The Interceptor will continue to try and get a **Target Lock** on the current target until **35** **Seconds** have passed. This is called the **“Sleep Phase”**. After this period, the Interceptor will give up on getting a target lock, deploy new [Thargon Swarms](/en/thargon-swarms) (if one is not already active) and continue the fight. _Effectively skipping any Caustic Missiles or Shutdown Fields that were due for that Heart_
+Der Interceptor wird **35** ** Sekunden** lang versuchen ein **Ziel aufzuschalten**. Dies nennt man die **„Schlafzustand“**. Nach dieser Phase gibt der Interceptor auf ein Ziel zu finden und lässt einen neuen [Thargon Schwarm](/en/thargon-swarms) frei (wenn es momentan keinen gibt) und macht mit dem Kampf weiter. _ Das überdpring praktisch allen kaustischen Raketen oder Abschaltfelder, die hätten eingesetzt werden sollen._
 
-> If the current target can **maintain minimum distance** and **stay cold/silent running**, the Thargoid Interceptor will not be able to get a **Target Lock** and will not deploy its **special abilities**. 
+> Wenn also das aktuelle Ziel einen **Mindestabstand** halten kann und eine geringe **Hitzesignatur** abgibt, wird der Thargoid Interceptor nicht in der Lage sein ein **Ziel aufzuschalten** und dadurch keine **Spezialattacken** einsetzen. 
 > 
 > {.is-warning}
 
-The ‘Current Target’ can change while the Thargoid is in the “Sleep Phase”. If the new target is not cold enough or too close, the Thargoid will **wake up** and use its special abilities. Ensure your teammates know this so they do not pull aggro while hot or attack the target during the sleep phase.
+Das 'aktuelle Ziel' kann sich ändern, während sich der Thargoid im Schlafzustand befindet. Wenn das neue Ziel nicht kalt genug oder zu nah ist, wird der Thargoid **aufwachen** und seine Fähigkeiten einsetzen. Stell sicher, dass deine Mitspieler das wissen, damit sie kein Aggro ziehen oder das Ziel während dem Schlafzustand angreifen.
 
-If you destroyed the previous swarm **during** the current sleep phase, the Thargoid will fire **one volley of main-cannon fire** before deploying the next swarm. If you destroyed the previous swarm **before** the current sleep phase began, this will not happen and the Thargoid will deploy the swarm immediately.
+Wenn du den vorherigen Schwarm **während** der aktuellen Schlafphase zerstörst, feuert der Thargoid **eine Salve der Hauptkanone ab** und lässt dann einen Schwarm frei. Wenn du den vorherigen Schwarm zerstörst **bevor** die aktuelle Schlafphase begonnen hat, wird das alles nicht passieren und die Thargoid wird den Schwarm sofort bereitstellen.
 
-## COMBAT TACTICS
+## KAMPF-TAKTIKEN
 
-### Solo Tactics
+### Einzelkämpfertaktik
 
 In a solo fight, the Sleep Mechanics can be used to skip the special abilities (**Shutdown Pulse** and **Caustic Missiles**) and also open up a window of opportunity to use **ramming tactics** to destroy the [Thargoid Shields](/en/shields) very quickly.
 
