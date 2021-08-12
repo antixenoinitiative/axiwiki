@@ -65,12 +65,12 @@ Zum Beispiel:
 
 Of course, any damage dealt during the **Target Swap Lockout** will count towards the next aggro change once the timeout expires.
 
-Additionally, once the shield is removed in this manner, everyone but the aggro-holder are free to open fire on the Interceptor, exerting and destroying the next heart before the sleep phase ends. This will trigger a new sleep after the initial 35s have passed, and the Interceptor will not launch a swarm or fire its cannon when transitioning between the first and second sleep phase. This allows an efficient wing to stun-lock an Interceptor and take it down without taking any (ramming excluded) damage.
+Außerdem kann, sobald der Schild zerstört wurde jeder außer der mit Aggro auf den Interceptor feuern, das Herz freilegen und zerstören, bis der Schlafzustand aufhört. Nach den ersten 35 Sekunden löst das noch einen Schlafzustand aus und der Interceptor wird keinen Schwarm aussenden oder seine Kannone abfeuern, während er von der ersten zur zweiten Schlafphase übergeht. Damit haben Wings einen einfachen Weg den Interceptor festzusetzen und zu töten, ohne Schaden zu nehmen (außer das Rammen).
 
-### Panic Shields
+### Panikschilde
 
-*For a more detailed overview on panic shields, see* [***_Thargoid Shields_***](/en/shields)
+*Für einen detailierteren Überblick über Panikschilde, besuche* [***_Thargoid-Schilde_***](/en/shields)
 
-A Panic shield is an instantly-regenerated shield that the Thargoid Interceptor can create if the shield is broken too soon after losing a heart. The panic shield will also activate if the Interceptor shield is broken prior to the “Sleep Phase” ending, however this **requires** a **Target Lock** and if the ‘current target’ remains undetected, the shield will not regenerate.
+Ein Panikschild ist ein sofort zurückgesetzter Schild, der der Thargoid Interceptor einsetzen kann, wenn der alte Schild zu schnell durchbrochen wurde. Der Panikschild aktiviert sich auch, wenn der alte Schild zerstört wurde, bevor der Interceptor in den "Schlafzustand" verlassen hat, was aber ein **aufgeschaltetes Ziel** **voraussetzt**; und wenn das 'jetzige Ziel' unsichtbar bleibt, wird sich der Schild nicht regenerieren.
 
-Hence, if you break the shield before the end of the “Sleep Phase” you must ensure that the Interceptor is not able **wake** **up** from the “Sleep Phase” until it ends.
+Also wenn man den Schild zerstört, bevor die Schlafphase vorbei ist, muss man sichergehen, dass der Interceptor nicht **aufwachen** kann bevor die Phase aufhört.
