@@ -1,76 +1,76 @@
 ---
-title: Mechanic Bypass Guide
-description: How to skip certain mechanics in a thargoid fight
+title: Mechaniken überspringen
+description: Wie man bestimmte Mechaniken im Thargoid-Kampf überspringt
 published: true
 date: 2021-06-21T02:32:28.077Z
-tags: combat, thargoids, interceptors
+tags: Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
 ---
 
-# SLEEP PHASE MECHANICS
+# SCHLAFZUSTAND MECHANIK
 
-Thargoid Interceptors use various special abilities (read more about these in our [Special Attacks](/en/special-attacks) page) which occur whenever a Thargoid Heart is broken. The Caustic Missiles, Shutdown Pulse and the Panic Shield Regeneration abilities require the Interceptor to have a **Target Lock** for it to be able to activate them (similar to how seeker missiles work).
+Thargoid Interceptor haben einige Spezialangriffe (mehr dazu auf der Seite [Spezialangriffe](/en/special-attacks)), die sie einsetzen nachdem ein Herz zerstört wurde. Für kaustische Raketen, das Abschaltfeld und den Panikschild muss der Interceptor ein **Ziel aufgeschaltet** haben, damit er sie einsetzen kann (ähnlich zu Suchraketen).
 
-When the Thargoid Heart is broken, it will begin looking for a **Target Lock**. The Interceptor can only make a **Target Lock** when the current active target (most damage dealt) has a heat signature above the **minimum detection threshold** (~20%) or are within the **minimum detection range** (~700m).
+Nachdem ein Thargoid Herz zerstört wurde, versucht der Interceptor ein **Ziel aufzuschalten**. Der Interceptor kann nur **aufschalten**, wenn das jetztige aktive Ziel (am meisten Schaden gemacht) eine Hitzesignatur über dem **Mindest-Erfassungswert** (~20%) hat, oder innerhalb der **Mindest-Erfassungsreichweite** (~700m) ist.
 
-The Interceptor will continue to try and get a **Target Lock** on the current target until **35** **Seconds** have passed. This is called the **“Sleep Phase”**. After this period, the Interceptor will give up on getting a target lock, deploy new [Thargon Swarms](/en/thargon-swarms) (if one is not already active) and continue the fight. _Effectively skipping any Caustic Missiles or Shutdown Fields that were due for that Heart_
+Der Interceptor wird **35** ** Sekunden** lang versuchen ein **Ziel aufzuschalten**. Dies nennt man die **„Schlafzustand“**. Nach dieser Phase gibt der Interceptor auf ein Ziel zu finden und lässt einen neuen [Thargon Schwarm](/en/thargon-swarms) frei (wenn es momentan keinen gibt) und macht mit dem Kampf weiter. _ Das überdpring praktisch allen kaustischen Raketen oder Abschaltfelder, die hätten eingesetzt werden sollen._
 
-> If the current target can **maintain minimum distance** and **stay cold/silent running**, the Thargoid Interceptor will not be able to get a **Target Lock** and will not deploy its **special abilities**. 
+> Wenn also das aktuelle Ziel einen **Mindestabstand** halten kann und eine geringe **Hitzesignatur** abgibt, wird der Thargoid Interceptor nicht in der Lage sein ein **Ziel aufzuschalten** und dadurch keine **Spezialattacken** einsetzen. 
 > 
 > {.is-warning}
 
-The ‘Current Target’ can change while the Thargoid is in the “Sleep Phase”. If the new target is not cold enough or too close, the Thargoid will **wake up** and use its special abilities. Ensure your teammates know this so they do not pull aggro while hot or attack the target during the sleep phase.
+Das 'aktuelle Ziel' kann sich ändern, während sich der Thargoid im Schlafzustand befindet. Wenn das neue Ziel nicht kalt genug oder zu nah ist, wird der Thargoid **aufwachen** und seine Fähigkeiten einsetzen. Stell sicher, dass deine Mitspieler das wissen, damit sie kein Aggro ziehen oder das Ziel während dem Schlafzustand angreifen.
 
-If you destroyed the previous swarm **during** the current sleep phase, the Thargoid will fire **one volley of main-cannon fire** before deploying the next swarm. If you destroyed the previous swarm **before** the current sleep phase began, this will not happen and the Thargoid will deploy the swarm immediately.
+Wenn du den vorherigen Schwarm **während** der aktuellen Schlafphase zerstörst, feuert der Thargoid **eine Salve der Hauptkanone ab** und lässt dann einen Schwarm frei. Wenn du den vorherigen Schwarm zerstörst **bevor** die aktuelle Schlafphase begonnen hat, wird das alles nicht passieren und die Thargoid wird den Schwarm sofort bereitstellen.
 
-## COMBAT TACTICS
+## KAMPF-TAKTIKEN
 
-### Solo Tactics
+### Einzelkämpfertaktik
 
-In a solo fight, the Sleep Mechanics can be used to skip the special abilities (**Shutdown Pulse** and **Caustic Missiles**) and also open up a window of opportunity to use **ramming tactics** to destroy the [Thargoid Shields](/en/shields) very quickly.
+In einem Solokampf kann die Schlafmechanik benutzt werden, um die speziellen Fähigkeiten zu überspringen (**Abschaltfeld** und **Kaustische Raketen**), was die Chance ermöglicht, besondere **Rammtaktiken** zu benutzen, um die [Thargoid-Schilde](/en/shields) sehr schnell zu zerstören.
 
-When you break the heart of a Thargoid (using either Heatsinks, Silent Running or a [Thermal Vent Beam Laser](/en/lasers)) reduce your ships temperature below the **minimum detection threshold** (~20%) and wait **35** **Seconds**. This will allow you to skip the Special mechanics.
+When you break the heart of a Thargoid (using either Heatsinks, Silent Running or a [Thermal Vent Beam Laser](/en/lasers)) reduce your ships temperature below the **minimum detection threshold** (~20%) and wait **35** **Seconds**. Dadurch kannst du die Spezialtechniken überspringen.
 
-This does not allow you to skip the lightning attack after the first heart!
+Allerdings kann man damit nicht den Blitz-Angriff nach dem ersten Herz überspringen!
 
-After the **35 Second** sleep phase, the Thargoid will begin deploying its swarm. During the deployment the Thargoid Interceptor is inactive for ~7 seconds. Should you **ram** the Thargoid with your ship during this inactivity, you can effectively destroy the shields without risking being hit by **Lightning**.
+Nach den **35 Sekunden** Schlafzustand wird der Thargoid seinen Schwarm einsetzen. Während des Einsetzens ist der Thargoid Interceptor für ~7 Sekunden inaktiv. Solltest du während dieser Zeit den Thargoid mit deinem Schiff **rammen**, kannst du den Schild effektiv beschädigen, ohne vom **Blitz** getroffen zu werden.
 
-For Example:
+Zum Beispiel:
 
-1. Destroy the Heart.
+1. Zerstöre das Herz.
 1. Use your TV beam or Heatsinks or Silent Running to stay cold.
-1. Position yourself 1000-1500m infront of the Thargoid.
-1. Wait until you hear the Interceptor make a “Swarm Deployment” Sound (2x Loud Honk Noises)
-1. Hit **Boost!**
-1. Slam into the Thargoid Interceptor (Aim for about half-way along a petal)
-1. Continue to boost past the Thargoid.
+1. Positioniere dich 1000- 1500m vor den Thargoid.
+1. Warte bis der Interceptor den "Schwarm entsendet"-Laut macht (2x lautes Horn).
+1. Drücke **Boost!**
+1. Ramme in den Interceptor (Ziel mittig in ein Blatt)
+1. Booste weiter am Thargoid vorbei.
 
-Ramming the Interceptor before the swarm deploys while solo will not work as this will trigger the “Panic Shield”
+Den Interceptor zu rammen bevor er den Schwarm freilässt, wird im Solo-Kampf nicht funktionieren, weil er dann den "Panikschild" aktiviert.
 
-### Wing Tactics
+### Strategien für Wings
 
-The wing tactics that can utilize the sleep mode include the **solo tactics** mentioned above plus a the ability to have a second wingmate take advantage of not having aggro.
+Die Wing-Strategien, die den Schlafzustand ausnutzen, beinhalten die **Einzelkämpfertaktik**, die oben genannt wurde plus die Möglichkeit einen Mitspieler den fehlenden Aggro ausnutzen zu lassen.
 
-During the **Sleep Phase** the Thargoid is only concerned with the heat and distance of the current target. Any other pilots in the fight are essentially ignored. These pilots can use this to enable opportunities for ramming damage and other attacks.
+Während der **Schlafphase** beschäftigt sich der Thargoid nur mit der Hitze und der Entfernung des aktuellen Ziels. Alle anderen Piloten im Kampf werden im Wesentlichen ignoriert. Diese Spieler können diese Möglichkeit nutzen, um zu rammen oder andere Angriffe auszuführen.
 
-As mentioned previously, whenever the Thargoid does a target swap, there is a **Target Swap Lockout** period, where it will be locked to the new target. During this time, other commanders can do anything to the Thargoid without the risk of **waking** it up and regenerating a “Panic Shield”.
+Wie bereits erwähnt gibt es immer wenn der Thargoid das Ziel wechselt einen Zeitraum der **Zielwechsel-Sperre**, in dem er an das neue Ziel gebunden ist. Während dieser Zeitspanne können andere Piloten alles tun, ohne den Thargoid **aufzuwecken** und den Panikschild regenerieren zu lassen.
 
-For Example:
+Zum Beispiel:
 
-1. Destroy the Heart
+1. Zerstört das Herz
 1. CMDR 1 goes cold and holds the Thargoid using only Heatsinks or silent running (no TV beam)
-1. CMDR 2 uses a TV beam to take the [**Aggro**](/en/threat-management) and cause a target swap to occur.
-1. CMDR 1 uses the **Target Swap Lockout** window to ram the interceptor and destroy it’s shields.
+1. CMDR 2 verwendet einen Laser, um den [**Aggro**](/en/threat-management) zu ziehen und einen Zielwechsel zu bewirken.
+1. CMDR 1 verwendet den Zeitraum der **Zielwechsel-Sperre**, um den Interceptor zu rammen und seine Schilde zu zerstören.
 
-Of course, any damage dealt during the **Target Swap Lockout** will count towards the next aggro change once the timeout expires.
+Näturlich zählt jeglicher Schaden, der während der **Zielwechsel-Sperre** ausgeteilt wurde zum nächsten Wechsel von Aggro sobald die Sperre vorbei ist.
 
-Additionally, once the shield is removed in this manner, everyone but the aggro-holder are free to open fire on the Interceptor, exerting and destroying the next heart before the sleep phase ends. This will trigger a new sleep after the initial 35s have passed, and the Interceptor will not launch a swarm or fire its cannon when transitioning between the first and second sleep phase. This allows an efficient wing to stun-lock an Interceptor and take it down without taking any (ramming excluded) damage.
+Außerdem kann, sobald der Schild zerstört wurde jeder außer der mit Aggro auf den Interceptor feuern, das Herz freilegen und zerstören, bis der Schlafzustand aufhört. Nach den ersten 35 Sekunden löst das noch einen Schlafzustand aus und der Interceptor wird keinen Schwarm aussenden oder seine Kannone abfeuern, während er von der ersten zur zweiten Schlafphase übergeht. Damit haben Wings einen einfachen Weg den Interceptor festzusetzen und zu töten, ohne Schaden zu nehmen (außer das Rammen).
 
-### Panic Shields
+### Panikschilde
 
-*For a more detailed overview on panic shields, see* [***_Thargoid Shields_***](/en/shields)
+*Für einen detailierteren Überblick über Panikschilde, besuche* [***_Thargoid-Schilde_***](/en/shields)
 
-A Panic shield is an instantly-regenerated shield that the Thargoid Interceptor can create if the shield is broken too soon after losing a heart. The panic shield will also activate if the Interceptor shield is broken prior to the “Sleep Phase” ending, however this **requires** a **Target Lock** and if the ‘current target’ remains undetected, the shield will not regenerate.
+Ein Panikschild ist ein sofort zurückgesetzter Schild, der der Thargoid Interceptor einsetzen kann, wenn der alte Schild zu schnell durchbrochen wurde. Der Panikschild aktiviert sich auch, wenn der alte Schild zerstört wurde, bevor der Interceptor in den "Schlafzustand" verlassen hat, was aber ein **aufgeschaltetes Ziel** **voraussetzt**; und wenn das 'jetzige Ziel' unsichtbar bleibt, wird sich der Schild nicht regenerieren.
 
-Hence, if you break the shield before the end of the “Sleep Phase” you must ensure that the Interceptor is not able **wake** **up** from the “Sleep Phase” until it ends.
+Also wenn man den Schild zerstört, bevor die Schlafphase vorbei ist, muss man sichergehen, dass der Interceptor nicht **aufwachen** kann bevor die Phase aufhört.
