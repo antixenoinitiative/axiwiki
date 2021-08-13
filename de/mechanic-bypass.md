@@ -54,7 +54,7 @@ Die Wing-Strategien, die den Schlafzustand ausnutzen, beinhalten die **Einzelkä
 
 Während der **Schlafphase** beschäftigt sich der Thargoid nur mit der Hitze und der Entfernung des aktuellen Ziels. Alle anderen Piloten im Kampf werden im Wesentlichen ignoriert. Diese Spieler können diese Möglichkeit nutzen, um zu rammen oder andere Angriffe auszuführen.
 
-As mentioned previously, whenever the Thargoid does a target swap, there is a **Target Swap Lockout** period, where it will be locked to the new target. Während dieser Zeitspanne können andere Piloten alles tun, ohne den Thargoid **aufzuwecken** und den Panikschild regenerieren zu lassen.
+Wie bereits erwähnt gibt es immer wenn der Thargoid das Ziel wechselt einen Zeitraum der **Zielwechsel-Sperre**, in dem er an das neue Ziel gebunden ist. Während dieser Zeitspanne können andere Piloten alles tun, ohne den Thargoid **aufzuwecken** und den Panikschild regenerieren zu lassen.
 
 Zum Beispiel:
 
