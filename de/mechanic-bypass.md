@@ -61,9 +61,9 @@ Zum Beispiel:
 1. Zerstört das Herz
 1. CMDR 1 goes cold and holds the Thargoid using only Heatsinks or silent running (no TV beam)
 1. CMDR 2 verwendet einen Laser, um den [**Aggro**](/en/threat-management) zu ziehen und einen Zielwechsel zu bewirken.
-1. CMDR 1 uses the **Target Swap Lockout** window to ram the interceptor and destroy it’s shields.
+1. CMDR 1 verwendet den Zeitraum der **Zielwechsel-Sperre**, um den Interceptor zu rammen und seine Schilde zu zerstören.
 
-Of course, any damage dealt during the **Target Swap Lockout** will count towards the next aggro change once the timeout expires.
+Näturlich zählt jeglicher Schaden, der während der **Zielwechsel-Sperre** ausgeteilt wurde zum nächsten Wechsel von Aggro sobald die Sperre vorbei ist.
 
 Außerdem kann, sobald der Schild zerstört wurde jeder außer der mit Aggro auf den Interceptor feuern, das Herz freilegen und zerstören, bis der Schlafzustand aufhört. Nach den ersten 35 Sekunden löst das noch einen Schlafzustand aus und der Interceptor wird keinen Schwarm aussenden oder seine Kannone abfeuern, während er von der ersten zur zweiten Schlafphase übergeht. Damit haben Wings einen einfachen Weg den Interceptor festzusetzen und zu töten, ohne Schaden zu nehmen (außer das Rammen).
 
