@@ -1,16 +1,16 @@
 ---
 title: Sentry
-description: AXI Sentry monitors Thargoid Incursions and provides realtime updates.
+description: Die AXI Sentry überwacht Thargoid Verseuchungen und liefert Echtzeit-Updates.
 published: true
 date: 2021-07-27T04:02:39.662Z
-tags: incursions
+tags: Verseuchung
 editor: markdown
 dateCreated: 2021-07-27T04:02:39.662Z
 ---
 
 # Sentry
-Your content here
+Dein Inhalt hier
 
-## Active Incursions
-Active Systems
-- List
+## Aktive Seuchen
+Betroffene Systeme
+- Liste
