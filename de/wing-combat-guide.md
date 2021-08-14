@@ -1,32 +1,32 @@
 ---
-title: Wing Combat Guide
-description: How to fight thargoids in a wing of multiple pilots.
+title: Kampfanleitung Wing
+description: Wie man Thargoids in einem Wing aus mehreren Piloten bekämpft.
 published: true
 date: 2021-06-24T23:51:31.755Z
-tags: combat, thargoids, interceptors, wing
+tags: Gefecht, Thargoids, Interceptors, Wing
 editor: markdown
 dateCreated: 2021-06-17T05:36:40.698Z
 ---
 
-# Wing Combat Guide
+# Kampfanleitung Wing
 
-By CMDR Ghosti
+Von CMDR Ghosti
 
-Wing fights are any fight in which more than one Player CMDR is present. This introduces a slew of different mechanical effects and gameplay bugs that can make Wing fights more or less challenging than a solo depending on how you handle them. Wing fights differ from solo fights in a few key points, which are as follows:
+Wing-Kämpfe sind Kämpfe, wo mehr als ein Spieler-CMDR vorhanden ist. Dies führt eine Reihe von besonderen Mechaniken und Gameplay-Fehlern ein, die Wing-Kämpfe mehr oder weniger herausfordernder machen können als Solo, je nachdem, wie du mit ihnen umgeht. Wing-Kämpfe unterscheiden sich von Solo-Kämpfen in einigen wichtigen Aspekten, die folgendermaßen lauten:
 
--   Aggro management
--   Swarm management (related to point 1. above)
--   Handling the shield decay
--   Distance management
--   Difficulty with cold reboots after heart destruction
--   Coordination & communication
--   Bug management
+-   Aggro-Verwaltung
+-   Swarm Management (bezogen auf Punkt 1. oben)
+-   Umgang mit dem Schildverfall
+-   Umgang mit der Distanz
+-   Schwierigkeiten bei kalten Neustarts nach der Zerstörung des Herzens
+-   Koordination & Kommunikation
+-   Umgang mit Bugs
 
-## Aggro Management
+## Aggro-Verwaltung
 
-In solo fights, the ship always has the aggro of the Interceptor, whereas in wing fights the Interceptor always focuses on one ship at a time. This is important to note for 2 main reasons:
+In Einzelkämpfen hat das Schiff immer den Aggro vom Interceptor, wohingegen in Wing-Kämpfen der Interceptor sich immer auf ein Schiff fokusiert. Das ist aus zwei Gründen wichtig:
 
-1.  **Heart sniping:** Taking out the heart is always easiest for the pilot whose ship the Interceptor is currently focusing on (aggro of the 'goid), This is the main reason you should avoid pulling aggro if you're not optimally positioned to take out the heart (distance is beyond the falloff range, for example) or if the "invincible heart bug" is in effect
+1.  **Herz Sniping:**Das Herz zu zerstören ist immer für dem am einfachsten, der gerade vom Thargoid fokusiert wird (Aggro des Thargoids). Das ist der Hauptgrund, warum man den Aggro nicht auf sich ziehen sollte, wenn man nicht optimal positioniert ist (z. B.: Man ist zu weit entfernt, um effektiv Schaden zu machen) oder wenn der "Invincible heat bug" stattfindet
 2.  **Heat Management and Reboot/Repair:** Thargoid abilities can be bypassed by maintaining low temperatures, this depends on the heat level of the current target. Also taking the heat off a specific pilot to enable them to reboot, synth, repair etc.
 
 The Interceptor will always target the ‘highest threat’ - the ship that has dealt the most damage to it recently. However, Interceptor aggro is ‘sticky’ and won’t switch for ~30 seconds after selecting a new target. What this means is that for a short time after an aggro switch there exists a **‘safe window’** \- the wingmates that don’t have aggro are completely safe from lightning attacks, triggering caustics and can purely focus on damaging or ramming the Interceptor. (Make sure to pay attention to whether your ram causes the Cycle Reset Bug - where the Interceptor deploys a new shield and caustics. If that happens, try to avoid ramming entirely in that fight)
