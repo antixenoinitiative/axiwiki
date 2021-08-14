@@ -36,4 +36,4 @@ Durch diese Technik kann man alle Signale, die auf dem FSS auftauchen, vorhersag
 
 Prüfe die Ergebnisse hier: [Xarionn’s Excel](https://docs.google.com/spreadsheets/d/14Ik0S1fV8FHJR5iJQpiSbJ1t_yntRJVBB6axeL3XErk/edit#gid=0)
 
-Image Credit to CMDR Orlandu
+Credits für die Bilder an CMDR Orlandu
