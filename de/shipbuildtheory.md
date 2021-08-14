@@ -1,26 +1,26 @@
 ---
-title: Ship Build Theory
+title: Schiffs Build Theorie
 description:
   This is a comprehensive guide on general AX build theory, for each of the build styles: Bi-Weave Hybrids,  Shieldless Cold Orbiters,  Shield Tanks
 published: true
 date: 2021-06-10T07:17:02.238Z
-tags: builds, theory, engineering, outfitting
+tags: Builds, Theorie, Engineering, Ausrüstung
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
 ---
 
-# Ship Build Theory
-This is a comprehensive guide on general AX build theory, for each of the build styles:
+# Schiffs Build Theorie
+Das hier ist ein umfassender Leitfaden zur allgemeinen AX-Build-Theorie, für jeden der folgenden Build-Styles:
 
-- Bi-Weave Hybrids
-- Shieldless Cold Orbiters
+- Bi-Wave-Hybride
+- Schildlose kalte Orbiter
 - Shield Tanks
 
 # General Themes
 
 ## Engineering
 
-**All components** of an Anti-Xeno ship **should be fully engineered** for maximum performance. Thargoids are incredibly advanced and deal far more damage than any human NPC in the game. Not only this, but they have a slew of special attacks that can devastate a ship that is not properly prepared. If you are unable to engineer everything due to constraints, the bare minimum is:
+**Alle Module** in einem Anti-Xeno Schiff **sollten komplett modifiziert sein** für maximale Leistung. Thargoids sind extrem fortschrittlich und machen mehr Schaden als irgendein menschlicher NPC im Spiel. Nicht nur das, sie haben ebenfalls eine Reihe an speziellen Angriffen, die ein unvorbereitetes Schiff auslöschen. If you are unable to engineer everything due to constraints, the bare minimum is:
 
 - Thrusters
 - Power Distributor
