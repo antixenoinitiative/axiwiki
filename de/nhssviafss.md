@@ -1,39 +1,39 @@
 ---
-title: Predicting NHSS content via FSS tuning
-description: It is possible to predict and map all NHSS showing up on the FSS
+title: NHSS-Inhalt durch FSS-Tuning vorhersagen
+description: Man kann NHSS vorhersagen und auf dem Spektrum des FSS zuordenen
 published: true
 date: 2021-08-03T13:32:41.413Z
-tags: nhss
+tags: NHSS
 editor: markdown
 dateCreated: 2021-08-03T12:11:12.142Z
 ---
 
-# Predicting NHSS content via FSS tuning
+# NHSS-Inhalt durch FSS-Tuning vorhersagen
 
-Lead Researchers: CMDR Mechan, CMDR Xarionn
+Forschungsleiter: CMDR Mechan, CMDR Xarionn
 
-The NHSS spectrum can be divided in 3 categories, left | middle | right :
+Das NHSS-Spektrum kann in drei Bereiche aufgeteilt werden; links | mitte | rechts :
 
 ![signalsourcesboth.png](/signalsourcesboth.png)
 
-- Signals showing up on the left side of the spectrum will always contain scouts or scouts + interceptor.
-- Signals showing up on the middle of the spectrum will contain everything, scouts, scouts + interceptor, interceptor…
-- Signals showing up on the right side of the spectrum will always contain interceptor or empty instances.
+- Signale auf der linken Seite werden immer Scouts oder Scouts+Interceptor haben.
+- Signale in der Mitte werden alles enthalten können; Scouts, Scouts+Interceptor, Interceptor…
+- Signale rechts werden immer einen einzelnen Interceptor oder leere Instanzen enthalten.
 
-By using this technique, it is possible to predict and map all NHSS showing up on the FSS, here is an example :
+Durch diese Technik kann man alle Signale, die auf dem FSS auftauchen, vorhersagen und zuordnen. Hier ein Beispiel:
 
-- Left side of the spectrum:
+- Linke Seite des Spektrums:
 
 ![Left.png](https://media.discordapp.net/attachments/854844543823642674/872095282656071690/Left.jpg?width=1290&height=726)
 
-- Right side of the spectrum
+- Rechte Seite des Spektrums
 
 ![Right.png](https://media.discordapp.net/attachments/854844543823642674/872095289354367066/Right.jpg?width=1290&height=726)
 
-- Middle of the spectrum
+- Mitte des Spektrums
 
 ![Middle.png](https://media.discordapp.net/attachments/854844543823642674/872095297478725712/Middle.jpg?width=1290&height=726)
 
-Review the Data here: [Xarionn’s spreadsheet](https://docs.google.com/spreadsheets/d/14Ik0S1fV8FHJR5iJQpiSbJ1t_yntRJVBB6axeL3XErk/edit#gid=0)
+Prüfe die Ergebnisse hier: [Xarionn’s Excel](https://docs.google.com/spreadsheets/d/14Ik0S1fV8FHJR5iJQpiSbJ1t_yntRJVBB6axeL3XErk/edit#gid=0)
 
 Image Credit to CMDR Orlandu
