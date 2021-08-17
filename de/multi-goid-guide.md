@@ -1,14 +1,14 @@
 ---
-title: Multi-Goid Combat Guide
-description: How to take on multiple interceptors simultaneously
+title: Multi-Thargoid-Kampfleitfaden
+description: Wie man mehrere Interceptor gleichzeitig bekämpft
 published: true
 date: 2021-06-24T23:53:38.588Z
-tags: combat, thargoids, interceptors
+tags: Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-17T05:44:58.820Z
 ---
 
-# Multi-Thargoid Combat Manual
+# Multi-Thargoid-Kampfleitfaden
 
 *Von CMDR EuanAB*
 
