@@ -87,24 +87,24 @@ Schild-"Heilungs"-Laser oder die experimentellen Effekte "Regenerationssequenz" 
 
 Kommunikation in Wing-Kämpfen ist essentiell. Bestenfalls sind alle Piloten, die im Kampf beteiligt sind auf dem Radio, oder achten wenigstens auf den Textkanal im Spiel. Dem Sprachkanal zuzuhören, während man selbst stummgeschalten ist, ist auch eine Option, wenn man nur schreiben kann.
 
-Try to limit voice communication to the essential updates, callouts etc. Recommendations on what to call out or send:
+Versuche die Kommunikation im Sprachkanal auf das wichtigste zu beschränken. Empfehlungen was man sagen oder schreiben sollte:
 
--   Energy surge / EMP
--   Calling for assistance (eg. asking someone to pull aggro)
--   Shield down / strength percentage
--   Coordinating the attack runs
--   Swarm state and behavior
--   What are your intentions
+-   Energiespitze / EMP
+-   Um Hilfe bitten (z. B.: Jemanden bitten Aggro zu nehmen)
+-   Schild kaputt / verbleibender Prozentsatz
+-   Koordinieren des Angriffs
+-   Zustand und Verhalten des Schwarms
+-   Was deine Vorhaben sind
 
-When the final heart has been destroyed, even a Hydra can be relatively easily destroyed by only one ship.
+Wenn das letzte Herz zerstört wurde ist sogar eine Hydra leicht durch ein einzelnes Schiff getötet.
 
-Please consider your wingmates when performing the final attack run and make sure all pilots have landed shots on the Interceptor before its hull reaches 0%, in order to ensure everyone gets the reward for the joint effort to kill it. This is again one point where communication is key.
+Bitte nimm Rücksicht auf deine Mitspieler während du den letzten Angiff ausführst uns geh sicher, dass alle Piloten den Interceptor getroffen haben, bevor seine Hülle auf 0% fällt, damit auch jeder die Belohnung für den gemeinsamen Kill bekommt. Dafür ist wieder einmal Kommunikation essentiell.
 
-## Bug Management
+## Umgang mit Bugs
 
-Every pilot engaged in a wing fight should try and limit the occurrence of AX related bugs manifesting during the fight. Recommended actions:
+Jeder Pilot in einem Wing-Kampf sollte versuchen das Auftreten von Bugs während des Kampfes zu vermeiden. Empfohlene Aktionen:
 
--   Drop in on the signal source simultaneously (use the nav lock function)
--   Avoid ramming unless you know what you are doing
--   Enable manual port forwarding instead of UPnP if possible ([Port Forwarding Mega Guide](https://www.reddit.com/r/EliteDangerous/comments/da2qh3/elitedangerous_port_forwarding_mega_guide/))
--   Communication
+-   Springt alle gleichzeitig in das Signal (nutzt dafür die Nav Lock Funktion)
+-   Vermeide es zu rammen, außer du weißt was du tust
+-   Benutze Manuelle Port-Weiterleitung anstatt UPnP, falls möglich ([ Ultimative Anleitung für Port-Weiterleitung](https://www.reddit.com/r/EliteDangerous/comments/da2qh3/elitedangerous_port_forwarding_mega_guide/))
+-   Kommunikation
