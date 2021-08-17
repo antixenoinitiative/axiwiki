@@ -30,7 +30,7 @@ Wenn du den vorherigen Schwarm **während** der aktuellen Schlafphase zerstörst
 
 In einem Solokampf kann die Schlafmechanik benutzt werden, um die speziellen Fähigkeiten zu überspringen (**Abschaltfeld** und **Kaustische Raketen**), was die Chance ermöglicht, besondere **Rammtaktiken** zu benutzen, um die [Thargoid-Schilde](/en/shields) sehr schnell zu zerstören.
 
-When you break the heart of a Thargoid (using either Heatsinks, Silent Running or a [Thermal Vent Beam Laser](/en/lasers)) reduce your ships temperature below the **minimum detection threshold** (~20%) and wait **35** **Seconds**. Dadurch kannst du die Spezialtechniken überspringen.
+Wenn du das Herz eines Thargoids zerstörst (entweder mit Kühlkörpern, der Schleichfahrt oder einem [Thermal Vent Laser](/en/lasers)) verringere die Temperatur deines Schiffs unter die **Mindest-Erkennungs Schwelle** (~20%) und warte **35** **Sekunden**. Dadurch kannst du die Spezialtechniken überspringen.
 
 Allerdings kann man damit nicht den Blitz-Angriff nach dem ersten Herz überspringen!
 
@@ -39,7 +39,7 @@ Nach den **35 Sekunden** Schlafzustand wird der Thargoid seinen Schwarm einsetze
 Zum Beispiel:
 
 1. Zerstöre das Herz.
-1. Use your TV beam or Heatsinks or Silent Running to stay cold.
+1. Nutze den thermischen Laser, Kühlkörper oder die Schleichfahrt, um kalt zu bleiben.
 1. Positioniere dich 1000- 1500m vor den Thargoid.
 1. Warte bis der Interceptor den "Schwarm entsendet"-Laut macht (2x lautes Horn).
 1. Drücke **Boost!**
@@ -59,7 +59,7 @@ Wie bereits erwähnt gibt es immer wenn der Thargoid das Ziel wechselt einen Zei
 Zum Beispiel:
 
 1. Zerstört das Herz
-1. CMDR 1 goes cold and holds the Thargoid using only Heatsinks or silent running (no TV beam)
+1. CMDR 1 wird kalt und hält den Thargoid nur mit Kühlkörpern oder der Schleichfahrt hin (kein TV Laser)
 1. CMDR 2 verwendet einen Laser, um den [**Aggro**](/en/threat-management) zu ziehen und einen Zielwechsel zu bewirken.
 1. CMDR 1 verwendet den Zeitraum der **Zielwechsel-Sperre**, um den Interceptor zu rammen und seine Schilde zu zerstören.
 
