@@ -97,13 +97,13 @@ Vermeide häufige Fehler, die man [hier](/en/commonmistakes) finden kann.
 The optional internal loadout is where the main differences lie between build styles, and can even vary from Commander to Commander. Below are the three general loadouts of the three build types. For more information on the uses of each optional internal, refer to the [Core and Optional Internals](/en/internals) page.
 
 
-## Cold Orbiters
+## Kalte Orbiter
 - Largest possible D-rated repair limpet controller and 16t or 64t cargo rack
 - One class four or five GMRP and two smaller MRPs
 - 2A AFMU
 - HRPs in the rest of the internal slots
 
-## Bi-Weave Hybrids
+## Bi-Wave-Hybride
 - Largest possible Bi-Weave Shield with Reinforce blueprint and either Fast Charge or Lo-Draw experimental.
 - 1A AFMU
 - One or two GMRPs or MRPs
@@ -118,13 +118,13 @@ The optional internal loadout is where the main differences lie between build st
 - AFMU, size depending on preference
 - HRPs in the rest of the slots
 
-# Utility Slots
+# Werkzeug-Steckplätze
 
-## Heatsink Launchers
+## Kühlkörperwerfer
 Essential for Cold Oribing vessels to dissipate the heat generation of gauss cannons. Most if not all utility slots will be filled with these on Cold Orbiter and Bi-weave hybrid builds. Engineering them with the Ammo Capacity blueprint gives one extra heatsink per launcher.
 
-## Shield Boosters
+## Schild-Booster
 Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
 
-## Other Modules
+## Weitere Module
 For information on Xeno Scanners and Shutdown Field Neutralizers, see the [Core and Optional Internals](/en/internals) page. These two utilities are not recommended except in specific situations, as the slot is better fit with a heatsink or shield booster.
