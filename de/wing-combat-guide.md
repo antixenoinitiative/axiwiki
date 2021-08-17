@@ -43,9 +43,9 @@ Manchmal kann man den Aggro des Schwarms nehmen, wenn man mit einem Laser auf si
 
 ## Umgang mit dem Schildverfall
 
-In wing fights, the shield of the Interceptor can be taken down significantly faster by multiple ships firing their Thermal Vent Beam lasers (TV beams) on the Interceptor while shields are present. Ramming is also viable, but great care should be taken since there are circumstances where ramming the Interceptor can trigger the "heart cycle reset" bug. This is closely related to the current aggro target.
+In Wing-Kämpfen kann der Schild des Interceptors sehr viel schneller durchbrochen werden, wenn mehrere Schiffe mit ihren thermischen Laseren (TV Laser) auf den Interceptor schießen. Man kann ihn auch rammen, aber das erfordert Vorsicht, um nicht den "heart cycle reset"-Bug auszulösen. Dies steht im engen Zusammenhang mit dem aktuellen Aggro-Ziel.
 
-## Distance Management
+## Umgang mit der Distanz
 
 In solo fights, the ship can kite the Interceptor for long distances without much concern. In wing fights, however, one should always consider the wingmates when flying at high speed in one direction when holding the aggro of the Interceptor. Slower ships may have trouble catching up.
 
