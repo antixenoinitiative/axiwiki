@@ -12,7 +12,7 @@ dateCreated: 2021-06-17T05:44:58.820Z
 
 *Von CMDR EuanAB*
 
-When dealing with multiple thargoids at once there are certain strategies and techniques you will need to account for to make sure you don’t end on a rebuy. This guide will be broken in to 4 parts:
+Während du gegen mehrere Thargoids gleichzeitig antrittst, gibt es besondere Strategien und Techniken, die du beachten musst, damit du nicht abkratzt. Dieser Leitfaden gliedert sich in vier Teile:
 
 -   Mehrere langsame Thargoids
 -   Mehrere Basilisks
@@ -21,30 +21,30 @@ When dealing with multiple thargoids at once there are certain strategies and te
 
 ## Allgemeine Taktiken
 
-You can summon a Cyclops into an instance by supplying any interceptor(s) present with 5 items of Thargoid tech such as meta alloys. This can be used to get a triple Cyclops without having to be hyperdicted, using a distress call. However only one can be summoned. The only way to have more than a single Thargoid summoned is to get hyperdicted by 3+ interceptors, then feed them 15+ meta alloys. Often, they will fight over the meta alloys and aggro before summoning any thargoids, and to prevent that you need to mask your heat signature with either heatsinks or silent running. Up to 3 can be summoned depending on how much the interceptors fight for the meta alloys. If you want to summon more, spin while jettisoning the meta alloys to place them in different places, minimising the chance of them fighting.
+Man kann einen Interceptor in die Instanz rufen, indem du irgendeinen Interceptor mit 5 Einheiten an Thargoid Technologie, wie z. B. Meta-Legierungen versorgst. Das kann man nutzten, um einen dreifachen Cyclops zu kriegen, ohne hyperdictet werden zu müssen, indem man in einen Notruf geht. Es kann aber nur einer gerufen werden. Der einzige Weg wie man mehr als nur einen Thargoid ruft, ist indem man von 3+ Interceptoren abgefangen wird und denen dann 15+ Meta-Legierungen gibt. Sie werden dann häufig über die Meta-Legierungen streiten und Aggro werden bevor sie irgendwelche Interceptor holen. Und um das zu verhindern, muss man seine Hitzesignatur mit Kühlkörpern oder der Schleichfahrt verbergen. Bis zu drei können geholt werden, je nachdem wie viele sich Interceptoren über die Legierungen streiten. Wenn du mehr Interceptors haben willst, dann dreh dich während du die Legierungen abwirfst, damit es wahrscheinlicher wird, dass sie sich nicht streiten.
 
-Without flak, there may be problems, but you should only not have flak on a small ship, as large ships should have more than enough weapon spaces and mediums usually do, too. But if you don't have one you should orbit well around the interceptor(s), and keep away from the swarm, as if it envelopes you it may turn to missiles. This may give you more time to rearm and repair if you can outrun all the thargoids, as you have no swarm to deal with.
+Keine Flak zu haben könnte problematisch sein, aber man sollte nur auf kleinen Schiffen keine Flak haben, weil die großen und mittleren Schiffe mehr als genug Waffenplätze haben. Falls du keine hast, solltest du die Interceptor(en) gut umkreisen können und dich vom Schwarm fernhalten, da er zur Raketen wird, wenn du in ihn fliegst. Dies kann dir mehr Zeit zum nachladen und reparieren geben, da du vor allen Thargoids wegrennen kannst, weil es kein Schwarm gibt, um den du dich kümmern musst.
 
-Enrage in multigoid fights is not too bad, if you have flak you can reduce them to a very low number and carry on and if you have no flak enrage does not mean much as you can continue orbiting and not letting the swarm envelope you, which stops it from becoming a barrage of missiles.
+Wut in Multigoid Kämpfen ist nicht allzu schlimm, wenn du eine Flak hast, da du den Schwarm auf eine kleine Anzahl runterschießen und weitermachen kannst. Und wenn du keine Flak hast, macht das auch nichts, weil du einfach weiter orbiten kannst, während du dem Schwarm ausweichst, damit er nicht zu einer Welle an Raketen wird.
 
 ## Mehrere langsame Thargoids
 
 *Dies gilt für den Kampf gegen mehrere langsame Thargoids (Cyclops, Medusa, Hydra).*
 
-They're the same speed (~450m/s), slower than the swarm, making it easier to flak if you have one. You can treat it like a normal kill.
+Sie habern alle die gleiche Geschwindigkeit (~450m/s), langsamer als ein Schwarm, was es einfach für dich macht, sie mit der Flak zu zerstören, wenn du eine hast. Du kannst das wie einen normalen Kill betrachten.
 
-If there are multiple different variants, killing hearts on the weaker variants then moving to the strong ones is better as you will take less damage killing the harder hearts. Kill hearts like you usually would, but be aware of the damage you are taking. If it's too much you may have to run, and repair. Take one interceptor at a time, having multiple with lightning available is very risky as you could get lightning from an interceptor you are not targeting. This allows the rest to destroy you quite quickly as you are stationary.
+Wenn es verschiedene Interceptor-Varianten gibt, sollte man die Herzen auf den Schwächeren zerstören und dann von den Stärkeren, da man dadurch bei den stärkeren Herzen weniger Schaden nimmt. Zerstöre die Herzen wie üblich, aber achte auf den genommenen Schaden. Wird es zuviel, dann renn weg und repariere dich. Zestöre einen Interceptor auf einmal. Mehrere Interceptoren mit Blitzen zu haben, ist sehr riskant, da man von Gegenern geschockt werden kann, die man nicht als Ziel hat. So können die anderen dich leicht auseinander nehmen, während du dich nicht bewegen kannst.
 
 ## Mehrere Basilisks
 
-*This applies to having multiple Thargoid Basilisk variants in one fight.*
+*Dies gilt für mehrere Thargoid-Basilisk-Varianten in einem Kampf.*
 
-Basilisks go around 530m/s, which is faster than the swarm, making it potentially difficult to flak if you have one. Make sure that is done before an attack run. Basilisks generally have quite weak hearts, so try to make quick work of them one at a time. Try not to get hit by lightning during an attack run, that will allow the others to kill you very quickly. Stay aware of your hull during an attack run, as you may have to bail.
+Basilisken fliegen mit circa 530m/s, was schneller als der Schwarm ist und es schwieriger macht, sie mit der Flak zu treffen. Stell sicher ihn zu töten, bevor du in die Angriffsphase gehst. Basilisken haben ziemlich schwache Herzen, also mach einen auf einmal schnell fertig. Versuche während der Angriffsphase nicht von einem Blitz getroffen zu werden, was dich leicht umbringen kann. Achte auf deine Hülle wärend einer Angriffsphase, da du vieleicht abbrechen musst.
 
 ## Mehrere langsame Thargoids und Basilisks
 
-*This applies to having a mix of Basilisks and other slow thargoids in one fight.*
+*Dies gilt für eine Mischung aus Basilisken und anderen langsamen Thargoiden in einem Kampf.*
 
-Having these all together means the Basilisk(s) will fly ahead. It is convenient to kill them, as outrunning them will mean the others fall behind and can despawn, or wake out. The order thus is Basilisk > Cyclops > Medusa > Hydra.
+Alle auf einmal zu haben, bedeutet, dass der/die Basilisk(en) vorraus fliegen werden. Es ist vorteilhaft sie zu töten, da vor ihnen weglaufen bedeuten würde, dass die anderen nach hinten fallen und despawnen oder wegspringen könnten. Deshalb ist die Reihenfolge Basilisk > Cyclops > Medusa > Hydra.
 
 For any multikills in ships that can't outrun any of them (Corvette, Anaconda) try to kill as many interceptors as fast as possible while taking the absolute least amount of damage possible, making sure you do not try to reboot as they will be able to get to you faster and kill you without shields. Once there is only one thargoid left, you may resume normal kill tactics.
