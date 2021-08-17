@@ -47,4 +47,4 @@ Basilisken fliegen mit circa 530m/s, was schneller als der Schwarm ist und es sc
 
 Alle auf einmal zu haben, bedeutet, dass der/die Basilisk(en) vorraus fliegen werden. Es ist vorteilhaft sie zu töten, da vor ihnen weglaufen bedeuten würde, dass die anderen nach hinten fallen und despawnen oder wegspringen könnten. Deshalb ist die Reihenfolge Basilisk > Cyclops > Medusa > Hydra.
 
-For any multikills in ships that can't outrun any of them (Corvette, Anaconda) try to kill as many interceptors as fast as possible while taking the absolute least amount of damage possible, making sure you do not try to reboot as they will be able to get to you faster and kill you without shields. Once there is only one thargoid left, you may resume normal kill tactics.
+Für Multikills in Schiffen, die vor keinem Thargoid weglaufen können (Corvette, Anaconda), versuche soviele Interceptor so schnell wie möglich zu töten, während du so wenig Schaden wie möglich nimmst, und geh sicher, dass du dein Schiff nicht neustartest, da sie dich ohne Schild schneller zerstören können. Sobald nur noch ein Thargoid übrig bleibt, kannst du den Kampf wie üblich kämpfen.
