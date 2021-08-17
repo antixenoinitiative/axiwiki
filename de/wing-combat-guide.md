@@ -47,45 +47,45 @@ In Wing-Kämpfen kann der Schild des Interceptors sehr viel schneller durchbroch
 
 ## Umgang mit der Distanz
 
-In solo fights, the ship can kite the Interceptor for long distances without much concern. In wing fights, however, one should always consider the wingmates when flying at high speed in one direction when holding the aggro of the Interceptor. Slower ships may have trouble catching up.
+In Einzelkämpfen kann das Schiff den Interceptor ohne Probleme auf große Entfernung hinhalten. In Wing-Kämpfen muss man aber die Teammates beachten, wenn man mit hoher Geschwindigkeit in eine Richtung fliegt, während man Aggro hat. Langsamere Schiffe könnten nicht mithalten.
 
-When the shield is down and when performing the attack run, it is possible to cause problems to a wingmate's orbit by unnecessarily disrupting the distance management.
+Während der Schild kaputt ist und man in der Angriffspahse ist, kann man den Orbit eines Teammates behindern, weil man unnötigerweise seinen Umgang mit der Distanz stört.
 
-When exerting the hearts, all pilots should open fire on the Interceptor in a coordinated manner and avoid increasing the Interceptor's distance from other firing ships unnecessarily. Similarly, pilots should avoid pulling the Interceptor away from others when the heart is exerted unless they are absolutely confident that they can destroy it while it is still in exerted state.
+Wenn man das Herz freilegt, sollen alle Piloten koordiniert auf den Interceptor schießen und verhindern, dass man die Distanz des Interceptors zu den Mitspielern vergrößert. Außerdem sollte man auch vermeiden den Interceptor weg von anderen zu locken, wenn das Herz offen ist, außer man ist sich sehr sicher, dass man das Herz alleine zerstören kann.
 
 ## Interceptor Scan
 
-The Thargoid Interceptor scan is shared across all CMDRs in the wing, so in wing fights it is enough for only one CMDR to have a Xeno scanner and scan the Interceptor, unless seeing the number of remaining Thargons in the swarm is desired. The scan can also be distributed to other wings by having a CMDR with scan data join a wing which did not have the scan beforehand.
+Der Scan für den Interceptor wird mit allen CMDRs im Wing geteilt, also reicht es in Wing-Kämpfen, wenn nur einer einen Xeno-Scanner mitnimmt, außer man möchte die Anzahl an Thargons im Schwarm wissen. Der Scan kann auch an andere Wings weitergegeben werden, indem ein CMDR mit dem Scan einem Wing beitritt, das den Scan noch nicht hat.
 
-## Post Heart Destruction Phase
+## Phase nach einem Herz
 
-After the Interceptor loses a heart, it will deploy a shield and enter the caustic missile phase. Caustic missiles will only be launched if the Interceptor’s **current target** is detected. This means that as long as the person who has aggro remains cold, or outside of 3km, there won’t be any caustic missiles or EMP.
+Nachdem ein Interceptor ein Herz verloren hat, wird er seinen Schild hochfahren und in die Phase mit kaustischen Raketen übergehen. Kaustische Raketen werden nur abgefeuert, wenn das **momentane Ziel** des Interceptors erkannt werden kann. Das bedeutet, dass es keine Kausalraketen oder keine EMPs geben wird, solange die Aggro-Person kalt bleibt oder 3 km entfernt ist.
 
--   If you **have aggro** after the heart is destroyed you can:
--   Deploy a heatsink and boost away. Make sure to be at least 3km away but don’t fly too far out
--   Deploy a heatsink to lower your temperature to 0, and use a Thermal Vent beam to maintain low temperature for the duration of this phase. Stay close to the interceptor so that it stays still, and wait for it to start attacking again.
--   In a shieldless ship, go Silent Running and either boost away, or use beams to maintain low temperature (if your ship runs cold enough)
+-   Wenn du **Aggro hast** nachdem ein Herz zerstört wurde, kannst du:
+-   Einen Kühlkörper einsetzen und weg boosten. Stell sicher, dass du mindestens 3km entfernt bist, aber flieg nicht zu weit weg.
+-   Aktiviere einen Kühlkörper, um deine Temperatur auf 0 zu bringen und nutze einen thermischen Laser, um eine niedrige Tempertatur beizubehalten solange die Phase hält. Bleib nahe am Interceptor, sodass er stehenbleibt und warte bis er wieder angreifft.
+-   In einem schildlosem Schiff, geh in die Schleichfahrt und booste weg, oder nutze die Laser, um deine Temperatur niedrig zu halten (wenn dein Schiff kalt genug ist)
 
-If you **don’t have aggro** after the heart is destroyed:
+Wenn du **kein Aggro hast** nachdem ein Herz zerstört wurde:
 
--   Do not fire on the interceptor at all if your temperature is above 15%. Even using a beam can pull its aggro in an instant and trigger caustics for everyone. Instead, first use a heatsink to get to 0 heat, and **then** fire your beam
--   Do not fire Gauss on the Interceptor
--   Do not try to ram the Interceptor (unless the ram is well coordinated with a safe window\*)
--   Do not boost far away, unless caustic missiles have already been triggered
+-   Feuere überhaupt nicht auf den Interceptor, wenn deine Temperatur über 15% ist. Sogar ein TV Laser kann das Aggro sofort auf dich ziehen und für Alle Raketen auslösen. Stattdessen verwende einen Kühlkörper, um deine Hitz auf 0 zu bringen und feuere **dann** deinen Laser.
+-   Feuere deine Kannonen nicht auf den Interceptor.
+-   Ramme den Intercptor nicht (außer der Ramm liegt in der sicheren Phase\*)
+-   Booste nicht weit weg, außer die kaustischen Raketen wurden schon ausgelöst.
 
-\*Take a look at the Aggro Management section
+\* Wirf einen Blick in die Sektion Aggro-Verwaltung
 
-If you manage to take down the shield before the caustic phase ends, **do not shoot** the Interceptor. Doing so will trigger a volley of caustic missiles and a new shield will be deployed.
+Falls ihr es schafft den Schild zu zerstören, bevor die Phase mit den Raketen aufhört, **dürft ihr nicht schießen**. Andernfalls werden eine Flut an kaustischen Raketen abgefeuert und es wird ein neuer Schild generiert.
 
-During this phase there is an opportunity for ships to recover their shields, either via reboot or with ‘healing’ lasers.
+Während dieser Phase gibt es für Schiffe die Möglichkeit, ihre Schilde entweder durch einen Neustart oder mit „heilenden“ Lasern zu regenerieren.
 
-*If a pilot is performing a cold reboot and another pilot above the 15-18% detection heat limit pulls aggro, it could disrupt the cold reboot because of launched caustic missiles. If there are problems with the communication, try to perform the reboots when outside the range of the Interceptor and consider changing your loadout accordingly for wing fights.*
+*Wenn ein Pilot einen Kaltneustart durchführt und ein anderer Pilot oberhalb der 15-18%igen Hitzegrenze Aggro zieht, könnte das den Kalten Neustart stören, wegen den kaustischen Raketen. Wenn es Probleme mit der Kommunikation gibt, versuch den Neustart außerhalb der Reichweite des Interceptors und überdenke, ob deine Ausrüstung für Wing-Kämpfe geeignet ist.*
 
-Shield "healing" lasers or the Regeneration sequence & Concordant sequence experimental effects can be useful in wing fights. It's possible to significantly regenerate a wingmate's shields with them. This is especially true for ships with Prismatic shields, which rarely get more than 50% shield strength in solo fights after the shield has dropped below that limit.
+Schild-"Heilungs"-Laser oder die experimentellen Effekte "Regenerationssequenz" &"Konkordanzsequenz" können in Wing-Kämpfen nützlich sein. Man kann mit Diesen den Schild eines Teammates signifikant regenerieren. Dies gilt insbesondere für Schiffe mit prismatischen Schilden, die in Solokämpfen selten mehr als 50 % Schildstärke erreichen, nachdem der Schild unter diese Grenze gefallen ist.
 
-## Coordination & Communication
+## Koordination & Kommunikation
 
-Communication is key in wing fights. Optimally, all pilots involved in the fight should be on voice comms or at the very least, have a common text channel in-game which they are actively monitoring. Listening on the voice comms with the mic muted is a valid option even if you cannot speak and must type instead.
+Kommunikation in Wing-Kämpfen ist essentiell. Bestenfalls sind alle Piloten, die im Kampf beteiligt sind auf dem Radio, oder achten wenigstens auf den Textkanal im Spiel. Dem Sprachkanal zuzuhören, während man selbst stummgeschalten ist, ist auch eine Option, wenn man nur schreiben kann.
 
 Try to limit voice communication to the essential updates, callouts etc. Recommendations on what to call out or send:
 
