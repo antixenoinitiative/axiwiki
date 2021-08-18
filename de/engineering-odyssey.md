@@ -1,24 +1,24 @@
 ---
-title: Odyssey Engineering
-description: Guide to engineering suits and on-foot weapons, and on the materials required to acquire them
+title: Odyssey Modifizieren
+description: Leitfaden zum modifizieren von Anzügen und Waffen für zu Fuß und bezüglich den Materialien, die dafür nötig sind
 published: true
 date: 2021-07-11T11:59:54.823Z
-tags: engineering, guide
+tags: Engineering, Guide
 editor: markdown
 dateCreated: 2021-06-10T12:19:05.577Z
 ---
 
-# **__How to farm materials is Odyssey__**
+# **__Wie man Materialien in Odyssey farmt__**
 
 ## Manufacturing Instructions (More or less for everything)
 
-Find a “impact site” PoI (use DSS on a landable planet) - these will generally have a crashed satellite with a habitat data port. Check & download Manufacturing Instructions. Relog. Rinse and repeat.
+Find a “impact site” PoI (use DSS on a landable planet) - these will generally have a crashed satellite with a habitat data port. Check & download Manufacturing Instructions. Starte das Spiel neu. Wiederhole solange du willst.
 
- ##  Weapon Schematics (For weapon upgrades)
+ ## Waffenschemata (Für Waffenupgrades)
 
-Find a “two containers plus crashed skimmer” or “three containers plus wrecked SRV” instance at “Irregular Markers” with a threat level. Arc Cutter and Overload container doors, cases inside will have weapon schematics aplenty (and drugs aplenty too.) Relog, rinse and repeat. “Larceny” type missions also spawn these instances - if you use a mission-spawned PoI, make sure to NOT pick up the mission item, or instance will de-spawn upon relog.
+Finde eine "zwei Container plus abgestürtzter Skimmer" oder "drei Container plus zerstörter SRV" Instanz mit Gefahrenstufe. Arc Cutter and Overload container doors, cases inside will have weapon schematics aplenty (and drugs aplenty too.) Spiel neustarten, wiederholen. "Larceny"-Missionstypen lassen diese Instanzen auch spawnen. Wenn du ein PoI einer Mission benutzt, dann achte darauf den Missionsgegenstand NICHT aufzusammeln, da sonst die Instanz nach einem Neustart verschwindet.
 
-## Suit Schematics (For suit upgrades)
+## Anzug Schemata (Für Anzug Upgrades)
 
 These are an absolute pain. There’s no fast way to do it. They are only found in large and small locked lockers in OPS rooms within command centers, and in small locked lockers in PWR rooms, but they are relatively rare. Missions can also give 1-2 suit schematics, but these are also uncommon. If anyone finds a faster way, please let me know.
 
