@@ -1,110 +1,110 @@
 ---
-title: Wing Combat Guide
-description: How to fight thargoids in a wing of multiple pilots.
+title: Kampfanleitung Wing
+description: Wie man Thargoids in einem Wing aus mehreren Piloten bekämpft.
 published: true
 date: 2021-06-24T23:51:31.755Z
-tags: combat, thargoids, interceptors, wing
+tags: Gefecht, Thargoids, Interceptors, Wing
 editor: markdown
 dateCreated: 2021-06-17T05:36:40.698Z
 ---
 
-# Wing Combat Guide
+# Kampfanleitung Wing
 
-By CMDR Ghosti
+Von CMDR Ghosti
 
-Wing fights are any fight in which more than one Player CMDR is present. This introduces a slew of different mechanical effects and gameplay bugs that can make Wing fights more or less challenging than a solo depending on how you handle them. Wing fights differ from solo fights in a few key points, which are as follows:
+Wing-Kämpfe sind Kämpfe, wo mehr als ein Spieler-CMDR vorhanden ist. Dies führt eine Reihe von besonderen Mechaniken und Gameplay-Fehlern ein, die Wing-Kämpfe mehr oder weniger herausfordernder machen können als Solo, je nachdem, wie du mit ihnen umgeht. Wing-Kämpfe unterscheiden sich von Solo-Kämpfen in einigen wichtigen Aspekten, die folgendermaßen lauten:
 
--   Aggro management
--   Swarm management (related to point 1. above)
--   Handling the shield decay
--   Distance management
--   Difficulty with cold reboots after heart destruction
--   Coordination & communication
--   Bug management
+-   Aggro-Verwaltung
+-   Swarm Management (bezogen auf Punkt 1. oben)
+-   Umgang mit dem Schildverfall
+-   Umgang mit der Distanz
+-   Schwierigkeiten bei kalten Neustarts nach der Zerstörung des Herzens
+-   Koordination & Kommunikation
+-   Umgang mit Bugs
 
-## Aggro Management
+## Aggro-Verwaltung
 
-In solo fights, the ship always has the aggro of the Interceptor, whereas in wing fights the Interceptor always focuses on one ship at a time. This is important to note for 2 main reasons:
+In Einzelkämpfen hat das Schiff immer den Aggro vom Interceptor, wohingegen in Wing-Kämpfen der Interceptor sich immer auf ein Schiff fokusiert. Das ist aus zwei Gründen wichtig:
 
-1.  **Heart sniping:** Taking out the heart is always easiest for the pilot whose ship the Interceptor is currently focusing on (aggro of the 'goid), This is the main reason you should avoid pulling aggro if you're not optimally positioned to take out the heart (distance is beyond the falloff range, for example) or if the "invincible heart bug" is in effect
-2.  **Heat Management and Reboot/Repair:** Thargoid abilities can be bypassed by maintaining low temperatures, this depends on the heat level of the current target. Also taking the heat off a specific pilot to enable them to reboot, synth, repair etc.
+1.  **Herz Sniping:**Das Herz zu zerstören ist immer für dem am einfachsten, der gerade vom Thargoid fokusiert wird (Aggro des Thargoids). Das ist der Hauptgrund, warum man den Aggro nicht auf sich ziehen sollte, wenn man nicht optimal positioniert ist (z. B.: Man ist zu weit entfernt, um effektiv Schaden zu machen) oder wenn der "Invincible heat bug" stattfindet
+2.  **Wärmemanagement und Reboot/Reparatur:** Thargoid-Fähigkeiten können durch die Beibehaltung niedriger Temperaturen umgangen werden. Das hängt von der Hitzesignatur des aktuellen Ziels ab. Das gibt dem Piloten auch eine bessere Chance zu rebooten, aufzustocken, zu reparieren, etc.
 
-The Interceptor will always target the ‘highest threat’ - the ship that has dealt the most damage to it recently. However, Interceptor aggro is ‘sticky’ and won’t switch for ~30 seconds after selecting a new target. What this means is that for a short time after an aggro switch there exists a **‘safe window’** \- the wingmates that don’t have aggro are completely safe from lightning attacks, triggering caustics and can purely focus on damaging or ramming the Interceptor. (Make sure to pay attention to whether your ram causes the Cycle Reset Bug - where the Interceptor deploys a new shield and caustics. If that happens, try to avoid ramming entirely in that fight)
+Der Interceptor wird immer die „größte Bedrohung“ ins Visier nehmen - das wäre das Schiff, das ihm in letzter Zeit den größten Schaden zugefügt hat. Allerdings ist der Aggro des Interceptors „träge“ und wird nach der Auswahl eines neuen Ziels für ~30 Sekunden nicht wechseln. Das heißt, dass nach einem Aggro-Wechsel kurz ein **'Sicherer Zeitraum'** herrscht, in dem die Wingmitglieder, die kein Aggro haben, vor Blitzangriffen und Kaustischen Raketen sicher sind und sich ausschließlich auf den Angriff oder das Rammen des Interceptors konzentrieren können. (Achten Sie darauf, ob das Rammen einen Zyklus-Reset-Bug verursacht, bei dem der Interceptor einen neuen Schild und Kaustische Raketen abfeuert. Falls ja, sollte rammen im gesammten Kampf vermieden werden)
 
-If you need to go repair/rearm at a station or megaship during an Interceptor fight, it's a good idea to make sure the Interceptor is aggro'd on someone else than you before jumping out. This is because the Interceptor might wake out when the pilot who has the aggro jumps away. The waking out might happen immediately or the Interceptor might stay in place until that player re-enters the instance, and then proceed to wake out. Naturally, none of the pilots receive any reward from the battle if the Interceptor wakes out. There is a chance of the Interceptor waking out also if it destroys one of the player vessels in the battle and there is no-one else nearby for it to focus on after that.
+Wenn du während eines Kampfes zum Reparieren/Aufrüsten zu einer Station oder Megashiff fliegen musst, ist es ist eine gute Idee sicherzustellen, dass der Interceptor auf jemand anderen aggro ist bevor du wegspringst. Das liegt daran, dass der Interceptor aus der Instanz springen könnte, wenn der Pilot, der das Aggro hatte geht. Das Wegspringen könnte sofort passieren oder der Interceptor bleibt stehen bis dieser Spieler wieder die Instanz betritt und springt dann weg. Offensichtlicherweise kriegt keiner der Piloten eine Belohnung für den Kampf, wenn der Interceptor wegspringt. Es besteht auch die Chance, dass der Interceptor geht, wenn er eines der Spielerschiffe in der Schlacht zerstört, und es keinen in der Nähe gibt, auf den er sich danach konzentrieren könnte.
 
-If the Invincible Heart Bug is present and you notice you’re not dealing any damage to the Heart, stop firing at the Interceptor. If you have aggro try to position yourself in such a way that the Interceptor is facing your wingmates so they can get a clear shot.
+Falls der Invincible-Heart-Bug besteht und man keinen Schaden am Interceptor macht, sollte man das Feuer einstellen. Wenn du Aggro hast, versucht dich so zu positionieren, dass der Interceptor in Richtung deiner Mitspieler sieht, damit sie einen guten Schuss kriegen können.
 
-## Swarm Management
+## Schwarm Bewältigung
 
-The swarm also focuses on one ship or fighter at a time by following them. However, the swarm will still fire on all ships and fighters currently in range. In wing fights, it is usually considered the responsibility of the ship which has the aggro of the swarm to take it out and **only** that ship should engage it while the rest deal with the Interceptor. If the ship that currently has aggro of the swarm is not equipped with Flak, it’s a good idea for one of the wingmates to try and pull its aggro with a beam. If the swarm breaks off its target the person who lost aggro should call it out (especially if it’s a large swarm or in a missile formation)
+Der Schwarm konzentriet sich ebenfalls auf einen Kämpfer auf einmal, indem sie ihm folgen. Aber sie werden immernoch auf alle Schiffe in Reichweite schießen. In Wing-Kämpfen ist es normalerweise die Verantwortung des Schiffs mit Aggro des Schwarms diesen zu zerstören und nur **dieses Schiff** sollte mit dem Schwarm kämpfen. Die anderen beschäftigen sich mit dem Interceptor. Wenn das Schiff, das den Aggro des Schwarms hat, keine Flak ausgerüstet hat, muss ein Wingmate versuchen den Aggro mit einem Laser zu nehmen. Wenn der Schwarm das Ziel wechselt, sollte diese Person das ankündigen (vor allem, wenn es ein großer Schwarm oder in Flugkörper-Formation ist).
 
-You can sometimes pull aggro of the swarm by firing on it with a laser or moving very close to it, but this does not happen immediately and is not guaranteed to work, but it can sometimes be useful to take aggro off a wingmate who is in danger or is unable to destroy the swarm.
+Manchmal kann man den Aggro des Schwarms nehmen, wenn man mit einem Laser auf sie feuert oder dirket neben ihnen ist, aber dafür gibt es keine Garantie. Es kann aber vorteilhaft sein den Aggro von einem Mitspieler zu nehmen, der gefährdet ist oder den Schwarm nicht töten kann.
 
-## Handling Shield Decay
+## Umgang mit dem Schildverfall
 
-In wing fights, the shield of the Interceptor can be taken down significantly faster by multiple ships firing their Thermal Vent Beam lasers (TV beams) on the Interceptor while shields are present. Ramming is also viable, but great care should be taken since there are circumstances where ramming the Interceptor can trigger the "heart cycle reset" bug. This is closely related to the current aggro target.
+In Wing-Kämpfen kann der Schild des Interceptors sehr viel schneller durchbrochen werden, wenn mehrere Schiffe mit ihren thermischen Laseren (TV Laser) auf den Interceptor schießen. Man kann ihn auch rammen, aber das erfordert Vorsicht, um nicht den "heart cycle reset"-Bug auszulösen. Dies steht im engen Zusammenhang mit dem aktuellen Aggro-Ziel.
 
-## Distance Management
+## Umgang mit der Distanz
 
-In solo fights, the ship can kite the Interceptor for long distances without much concern. In wing fights, however, one should always consider the wingmates when flying at high speed in one direction when holding the aggro of the Interceptor. Slower ships may have trouble catching up.
+In Einzelkämpfen kann das Schiff den Interceptor ohne Probleme auf große Entfernung hinhalten. In Wing-Kämpfen muss man aber die Teammates beachten, wenn man mit hoher Geschwindigkeit in eine Richtung fliegt, während man Aggro hat. Langsamere Schiffe könnten nicht mithalten.
 
-When the shield is down and when performing the attack run, it is possible to cause problems to a wingmate's orbit by unnecessarily disrupting the distance management.
+Während der Schild kaputt ist und man in der Angriffspahse ist, kann man den Orbit eines Teammates behindern, weil man unnötigerweise seinen Umgang mit der Distanz stört.
 
-When exerting the hearts, all pilots should open fire on the Interceptor in a coordinated manner and avoid increasing the Interceptor's distance from other firing ships unnecessarily. Similarly, pilots should avoid pulling the Interceptor away from others when the heart is exerted unless they are absolutely confident that they can destroy it while it is still in exerted state.
+Wenn man das Herz freilegt, sollen alle Piloten koordiniert auf den Interceptor schießen und verhindern, dass man die Distanz des Interceptors zu den Mitspielern vergrößert. Außerdem sollte man auch vermeiden den Interceptor weg von anderen zu locken, wenn das Herz offen ist, außer man ist sich sehr sicher, dass man das Herz alleine zerstören kann.
 
 ## Interceptor Scan
 
-The Thargoid Interceptor scan is shared across all CMDRs in the wing, so in wing fights it is enough for only one CMDR to have a Xeno scanner and scan the Interceptor, unless seeing the number of remaining Thargons in the swarm is desired. The scan can also be distributed to other wings by having a CMDR with scan data join a wing which did not have the scan beforehand.
+Der Scan für den Interceptor wird mit allen CMDRs im Wing geteilt, also reicht es in Wing-Kämpfen, wenn nur einer einen Xeno-Scanner mitnimmt, außer man möchte die Anzahl an Thargons im Schwarm wissen. Der Scan kann auch an andere Wings weitergegeben werden, indem ein CMDR mit dem Scan einem Wing beitritt, das den Scan noch nicht hat.
 
-## Post Heart Destruction Phase
+## Phase nach einem Herz
 
-After the Interceptor loses a heart, it will deploy a shield and enter the caustic missile phase. Caustic missiles will only be launched if the Interceptor’s **current target** is detected. This means that as long as the person who has aggro remains cold, or outside of 3km, there won’t be any caustic missiles or EMP.
+Nachdem ein Interceptor ein Herz verloren hat, wird er seinen Schild hochfahren und in die Phase mit kaustischen Raketen übergehen. Kaustische Raketen werden nur abgefeuert, wenn das **momentane Ziel** des Interceptors erkannt werden kann. Das bedeutet, dass es keine Kausalraketen oder keine EMPs geben wird, solange die Aggro-Person kalt bleibt oder 3 km entfernt ist.
 
--   If you **have aggro** after the heart is destroyed you can:
--   Deploy a heatsink and boost away. Make sure to be at least 3km away but don’t fly too far out
--   Deploy a heatsink to lower your temperature to 0, and use a Thermal Vent beam to maintain low temperature for the duration of this phase. Stay close to the interceptor so that it stays still, and wait for it to start attacking again.
--   In a shieldless ship, go Silent Running and either boost away, or use beams to maintain low temperature (if your ship runs cold enough)
+-   Wenn du **Aggro hast** nachdem ein Herz zerstört wurde, kannst du:
+-   Einen Kühlkörper einsetzen und weg boosten. Stell sicher, dass du mindestens 3km entfernt bist, aber flieg nicht zu weit weg.
+-   Aktiviere einen Kühlkörper, um deine Temperatur auf 0 zu bringen und nutze einen thermischen Laser, um eine niedrige Tempertatur beizubehalten solange die Phase hält. Bleib nahe am Interceptor, sodass er stehenbleibt und warte bis er wieder angreifft.
+-   In einem schildlosem Schiff, geh in die Schleichfahrt und booste weg, oder nutze die Laser, um deine Temperatur niedrig zu halten (wenn dein Schiff kalt genug ist)
 
-If you **don’t have aggro** after the heart is destroyed:
+Wenn du **kein Aggro hast** nachdem ein Herz zerstört wurde:
 
--   Do not fire on the interceptor at all if your temperature is above 15%. Even using a beam can pull its aggro in an instant and trigger caustics for everyone. Instead, first use a heatsink to get to 0 heat, and **then** fire your beam
--   Do not fire Gauss on the Interceptor
--   Do not try to ram the Interceptor (unless the ram is well coordinated with a safe window\*)
--   Do not boost far away, unless caustic missiles have already been triggered
+-   Feuere überhaupt nicht auf den Interceptor, wenn deine Temperatur über 15% ist. Sogar ein TV Laser kann das Aggro sofort auf dich ziehen und für Alle Raketen auslösen. Stattdessen verwende einen Kühlkörper, um deine Hitz auf 0 zu bringen und feuere **dann** deinen Laser.
+-   Feuere deine Kannonen nicht auf den Interceptor.
+-   Ramme den Intercptor nicht (außer der Ramm liegt in der sicheren Phase\*)
+-   Booste nicht weit weg, außer die kaustischen Raketen wurden schon ausgelöst.
 
-\*Take a look at the Aggro Management section
+\* Wirf einen Blick in die Sektion Aggro-Verwaltung
 
-If you manage to take down the shield before the caustic phase ends, **do not shoot** the Interceptor. Doing so will trigger a volley of caustic missiles and a new shield will be deployed.
+Falls ihr es schafft den Schild zu zerstören, bevor die Phase mit den Raketen aufhört, **dürft ihr nicht schießen**. Andernfalls werden eine Flut an kaustischen Raketen abgefeuert und es wird ein neuer Schild generiert.
 
-During this phase there is an opportunity for ships to recover their shields, either via reboot or with ‘healing’ lasers.
+Während dieser Phase gibt es für Schiffe die Möglichkeit, ihre Schilde entweder durch einen Neustart oder mit „heilenden“ Lasern zu regenerieren.
 
-*If a pilot is performing a cold reboot and another pilot above the 15-18% detection heat limit pulls aggro, it could disrupt the cold reboot because of launched caustic missiles. If there are problems with the communication, try to perform the reboots when outside the range of the Interceptor and consider changing your loadout accordingly for wing fights.*
+*Wenn ein Pilot einen Kaltneustart durchführt und ein anderer Pilot oberhalb der 15-18%igen Hitzegrenze Aggro zieht, könnte das den Kalten Neustart stören, wegen den kaustischen Raketen. Wenn es Probleme mit der Kommunikation gibt, versuch den Neustart außerhalb der Reichweite des Interceptors und überdenke, ob deine Ausrüstung für Wing-Kämpfe geeignet ist.*
 
-Shield "healing" lasers or the Regeneration sequence & Concordant sequence experimental effects can be useful in wing fights. It's possible to significantly regenerate a wingmate's shields with them. This is especially true for ships with Prismatic shields, which rarely get more than 50% shield strength in solo fights after the shield has dropped below that limit.
+Schild-"Heilungs"-Laser oder die experimentellen Effekte "Regenerationssequenz" &"Konkordanzsequenz" können in Wing-Kämpfen nützlich sein. Man kann mit Diesen den Schild eines Teammates signifikant regenerieren. Dies gilt insbesondere für Schiffe mit prismatischen Schilden, die in Solokämpfen selten mehr als 50 % Schildstärke erreichen, nachdem der Schild unter diese Grenze gefallen ist.
 
-## Coordination & Communication
+## Koordination & Kommunikation
 
-Communication is key in wing fights. Optimally, all pilots involved in the fight should be on voice comms or at the very least, have a common text channel in-game which they are actively monitoring. Listening on the voice comms with the mic muted is a valid option even if you cannot speak and must type instead.
+Kommunikation in Wing-Kämpfen ist essentiell. Bestenfalls sind alle Piloten, die im Kampf beteiligt sind auf dem Radio, oder achten wenigstens auf den Textkanal im Spiel. Dem Sprachkanal zuzuhören, während man selbst stummgeschalten ist, ist auch eine Option, wenn man nur schreiben kann.
 
-Try to limit voice communication to the essential updates, callouts etc. Recommendations on what to call out or send:
+Versuche die Kommunikation im Sprachkanal auf das wichtigste zu beschränken. Empfehlungen was man sagen oder schreiben sollte:
 
--   Energy surge / EMP
--   Calling for assistance (eg. asking someone to pull aggro)
--   Shield down / strength percentage
--   Coordinating the attack runs
--   Swarm state and behavior
--   What are your intentions
+-   Energiespitze / EMP
+-   Um Hilfe bitten (z. B.: Jemanden bitten Aggro zu nehmen)
+-   Schild kaputt / verbleibender Prozentsatz
+-   Koordinieren des Angriffs
+-   Zustand und Verhalten des Schwarms
+-   Was deine Vorhaben sind
 
-When the final heart has been destroyed, even a Hydra can be relatively easily destroyed by only one ship.
+Wenn das letzte Herz zerstört wurde ist sogar eine Hydra leicht durch ein einzelnes Schiff getötet.
 
-Please consider your wingmates when performing the final attack run and make sure all pilots have landed shots on the Interceptor before its hull reaches 0%, in order to ensure everyone gets the reward for the joint effort to kill it. This is again one point where communication is key.
+Bitte nimm Rücksicht auf deine Mitspieler während du den letzten Angiff ausführst uns geh sicher, dass alle Piloten den Interceptor getroffen haben, bevor seine Hülle auf 0% fällt, damit auch jeder die Belohnung für den gemeinsamen Kill bekommt. Dafür ist wieder einmal Kommunikation essentiell.
 
-## Bug Management
+## Umgang mit Bugs
 
-Every pilot engaged in a wing fight should try and limit the occurrence of AX related bugs manifesting during the fight. Recommended actions:
+Jeder Pilot in einem Wing-Kampf sollte versuchen das Auftreten von Bugs während des Kampfes zu vermeiden. Empfohlene Aktionen:
 
--   Drop in on the signal source simultaneously (use the nav lock function)
--   Avoid ramming unless you know what you are doing
--   Enable manual port forwarding instead of UPnP if possible ([Port Forwarding Mega Guide](https://www.reddit.com/r/EliteDangerous/comments/da2qh3/elitedangerous_port_forwarding_mega_guide/))
--   Communication
+-   Springt alle gleichzeitig in das Signal (nutzt dafür die Nav Lock Funktion)
+-   Vermeide es zu rammen, außer du weißt was du tust
+-   Benutze Manuelle Port-Weiterleitung anstatt UPnP, falls möglich ([ Ultimative Anleitung für Port-Weiterleitung](https://www.reddit.com/r/EliteDangerous/comments/da2qh3/elitedangerous_port_forwarding_mega_guide/))
+-   Kommunikation
