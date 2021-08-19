@@ -33,9 +33,9 @@ Rohmaterialien (Stufe 4) können massenhaft an **Kristalinen Biologischen Stando
 - **Tellur** - HIP 36601 C 3 B
 - **Technetium** - HIP 36601 C 5 A
 
-To use these sites, you will need to go to the celestial body corresponding to the material you require and use your Detailed Surface Scanner (DSS) on it. Daraufhin kannst du zu irgendeinem Standort fliegen und ins SRV steigen. Hier sollte man genug Rohmaterialien für jeden Ingenieur finden.
+Um an diese Standorte zu kommen, muss du zu den Himmelskörper fliegen, der die entsprechenden Ressourcen hat und dann deinen Detail-Oberflächenscanner (DSS) benutzten. Daraufhin kannst du zu irgendeinem Standort fliegen und ins SRV steigen. Hier sollte man genug Rohmaterialien für jeden Ingenieur finden.
 
-**Do not forget to bring a Detailed Surface Scanner**
+**Vergiss nicht einen Detail-Oberflächenscanner mitzubringen**
 ## Selen und Thargoid Barnacles
 Selen ist (ironischerweise) am schwierigsten zu farmen, da man es nur von Klasse 2 Ressourcen-Standorten bekommt. Es gibt viele Wege an Selen ranzukommen, aber keine sind sehr effizient, im Gegensatz zu den Kristallinen Standorten wie oben erwähnt.
 
@@ -68,9 +68,9 @@ Falls du einen schlechten PC hast (oder du das ganze noch schneller machen möch
 ## Jamesons abgestürzte Cobra
 Am Ort von Jamesons gestrandeter Cobra kann man eine Sammlung von wertvollen Materialien finden, indem man die kleinen roten Sender scannt, die um dem Schiff herum verteilt sind. Nachdem man sich aus und einloggt werden diese sich zurücksetzten und man kann das wiederholen, bis die Materialien voll sind.
 
-1. Equip an SRV and Detailed Surface Scanner
+1. Rüste einen SRV und Detail-Oberflächenscanner aus
 1. Fliege zu HIP 12099 Planet 1B (-54.3803, -50.3575)
-1. Use your Detailed Surface Scanner to scan the planet and locate the crash site.
+1. Verwende deinen Detail-Oberflächenscanner, um den Planeten zu scannen und die Absturzstelle zu finden.
 1. Lande vor Ort und benutze das SRV.
 1. Fahre zur Cobra und nutzte den Data Link Scanner, um alle roten Sender zu scannen.
 1. Schließe und starte das Spiel.
