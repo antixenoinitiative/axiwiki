@@ -16,7 +16,7 @@ Das hier ist ein umfassender Leitfaden zur allgemeinen AX-Build-Theorie, für je
 - Schildlose kalte Orbiter
 - Shield Tanks
 
-# General Themes
+# Allgemeine Aspekte
 
 ## Engineering
 
