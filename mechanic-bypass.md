@@ -2,13 +2,13 @@
 title: Mechanic Bypass Guide
 description: How to skip certain mechanics in a thargoid fight
 published: true
-date: 2021-06-21T02:32:28.077Z
+date: 2021-08-20T01:57:10.991Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
 ---
 
-# SLEEP PHASE MECHANICS
+# Sleep Phase Mechanics
 
 Thargoid Interceptors use various special abilities (read more about these in our [Special Attacks](/en/special-attacks) page) which occur whenever a Thargoid Heart is broken. The Caustic Missiles, Shutdown Pulse and the Panic Shield Regeneration abilities require the Interceptor to have a **Target Lock** for it to be able to activate them (similar to how seeker missiles work).
 
@@ -17,13 +17,13 @@ When the Thargoid Heart is broken, it will begin looking for a **Target Lock**. 
 The Interceptor will continue to try and get a **Target Lock** on the current target until **35** **Seconds** have passed. This is called the **“Sleep Phase”**. After this period, the Interceptor will give up on getting a target lock, deploy new [Thargon Swarms](/en/thargon-swarms) (if one is not already active) and continue the fight. _Effectively skipping any Caustic Missiles or Shutdown Fields that were due for that Heart_
 
 > If the current target can **maintain minimum distance** and **stay cold/silent running**, the Thargoid Interceptor will not be able to get a **Target Lock** and will not deploy its **special abilities**.
-{.is-warning}
+{.is-info}
 
 The ‘Current Target’ can change while the Thargoid is in the “Sleep Phase”. If the new target is not cold enough or too close, the Thargoid will **wake up** and use its special abilities. Ensure your teammates know this so they do not pull aggro while hot or attack the target during the sleep phase.
 
 If you destroyed the previous swarm **during** the current sleep phase, the Thargoid will fire **one volley of main-cannon fire** before deploying the next swarm. If you destroyed the previous swarm **before** the current sleep phase began, this will not happen and the Thargoid will deploy the swarm immediately.
 
-## COMBAT TACTICS
+## Combat Tactics
 
 ### Solo Tactics
 
