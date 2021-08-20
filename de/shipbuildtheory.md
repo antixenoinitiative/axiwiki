@@ -98,7 +98,7 @@ Beim optionalen internen Loadout liegt der Hauptunterschied zwischen verschieden
 
 
 ## Kalte Orbiter
-- Largest possible D-rated repair limpet controller and 16t or 64t cargo rack
+- Größte mögliche Reparaturdrohnen Steuerung der d-klasse und 16t oder 64t Laderaum.
 - One class four or five GMRP and two smaller MRPs
 - 2A AFMU
 - HRPs in the rest of the internal slots
