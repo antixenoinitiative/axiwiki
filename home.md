@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the Anti-Xeno Initiative Wiki. Your complete repository for Anti-Xeno Combat.
 published: true
-date: 2021-08-20T06:08:18.797Z
+date: 2021-08-20T06:11:24.172Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-08T12:40:49.911Z
@@ -22,9 +22,8 @@ Or use the **Navigation bar** on the **left-hand** side to browse through the wi
 
 The **Anti-Xeno Initiative Wiki** has many topics, if you can’t find something, let us know in the **#website-discussion** channel in the AXI Discord.
 
-## Contribute
+[![AXI Discord](https://discord.com/api/guilds/380246809076826112/embed.png?style=banner3)](https://discord.gg/bqmDxdm)
 
-![https://github.com/antixenoinitiative/axiwiki](/img/github.png)  
 Want to take part in the **Anti-Xeno Initiative Wiki** project? Head to our [GitHub Repository](https://github.com/antixenoinitiative/axiwiki) or join us in the [AXI discord](https://discord.gg/bqmDxdm).
 
 ## Credits
