@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
 ---
 
-# Optionale Einbauteile
+# Intern (optional)
 
 ## Rumpfhüllenverstärkung Paket
 
