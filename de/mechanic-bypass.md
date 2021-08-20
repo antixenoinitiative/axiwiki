@@ -24,7 +24,7 @@ Das 'aktuelle Ziel' kann sich ändern, während sich der Thargoid im Schlafzusta
 
 Wenn du den vorherigen Schwarm **während** der aktuellen Schlafphase zerstörst, feuert der Thargoid **eine Salve der Hauptkanone ab** und lässt dann einen Schwarm frei. Wenn du den vorherigen Schwarm zerstörst **bevor** die aktuelle Schlafphase begonnen hat, wird das alles nicht passieren und die Thargoid wird den Schwarm sofort bereitstellen.
 
-## Combat Tactics
+## Kampftaktiken
 
 ### Einzelkämpfertaktik
 
