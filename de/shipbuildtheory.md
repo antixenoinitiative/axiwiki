@@ -54,23 +54,23 @@ Vermeide häufige Fehler, die man [hier](/en/commonmistakes) finden kann.
 
 ## Kraftwerk
 
-**Die Meta:** Klasse A in der größten verfügbaren Größe mit der Gepanzert Blaupause und Thermal Spread Effekt. Für die meisten Builds bietet Gepanzert das perfekte Gleichgewicht zwischen mehr Energie, mehr Integrität und bessere Wärme. Klasse A Kraftwerke sind die kühlsten aus allen Klassen.
+**Die Meta:** Klasse A in der größten verfügbaren Größe mit der Gepanzert Blaupause und Thermal Spread Effekt. Für die meisten Builds bietet Panzerung das perfekte Gleichgewicht zwischen mehr Energie, mehr Integrität und besserer Wärme. Klasse A Kraftwerke sind die kühlsten aus allen Klassen.
 
 **Alternativen:**
 
-- Monstered Experimental - provides a little extra juice when needed, at the cost of slightly worse thermals.
+- Monsterhaft-Experiment - Liefert etwas mehr Kraft, falls benötigt, für etwas schlechterer Wärme.
 - Low Emissions blueprint with Monstered experimental - A high grade of LE can allow a ship to idle under 20% heat.
-- Overcharged blueprint  - should only be used when absolutely necessary, and to the lowest grade possible.
+- Überladungskraftwerk - Sollte man nur verwenden, wenn es absolut notwendig ist, auf dem kleinsten Grad.
 
 ## Schubdüsen
 
-**The Meta:** A-rated in the largest size available with Dirty Tuning blueprint and Drag Drives experimental. Although the thermal load increase may seem like a problem, in practice the performance of dirty drag drives far exceeds any alternative.
+**Die Meta:** Klasse A in der größten verfügbaren Größe mit der Aggresiven Antriebstuning-Bauplan und Drag-Antrieben. Obwohl die größere thermische Ladung wie ein Problem erscheint, übertrifft in der Praxis die Leistung von aggresiven Antrieben die Alternativen bei weitem.
 
 **Alternative:** Drive Distributors experimental - only for use on small ships utilizing Enhanced Performance Thrusters (EPTs)
 
 ## Frameshiftantrieb
 
-**The Meta:**  A-rated in the largest size available with Increased Range blueprint and Mass Manager experimental. Thargoids are often found in "bubbles" of space, so being able to move around in a small range is required for AX combat.
+**Die Meta:** Klasse A in der größten verfügbaren Größe mit dem Erhöhte Reichweite-Bauplan und dem Massemanager-Experiment. Thargoid findet man in "Blasen" im All, also ist es für den AX-Kampf wichtig, sich in einer kleinen Reichweite bewegen zu können.
 
 **Alternative:** 2D FSD with grade one fast boot and Stripped Down experimental - provides a small speed boost at the cost of being unable to jump your ship any meaningful distance.
 
@@ -78,23 +78,23 @@ Vermeide häufige Fehler, die man [hier](/en/commonmistakes) finden kann.
 
 **The Meta:** D-rated with Lightweight blueprint. D-rated has the lowest power draw and weight, and still has a long enough timer for repeated oxygen synths if your canopy blows.
 
-**Alternative:** A-rated allowing for longer time between required synthing.
+**Alternative:** Klasse A erlaubt eine längere Zeit zwischen den benötigten Synthesen.
 
 ## Energieverteiler
 
-**The Meta:** A-rated in the largest size available with Charge Enhanced blueprint and Super Conduits experimental. Gauss Cannons have extreme distributor draw, so having the maximum possible WEP capacitor regen is essential. The capacity loss of these modifications is also not a problem, since most ships can fire two of their gauss cannons at a time without spiking over 20% heat.
+**Die Meta:** Klasse A in der größten verfügbaren Größe mit dem Ladungsoptimierungs-Bauplan und Superleiter-Experiment. Gauss Kanonnen ziehen extrem viel vom Verteiler, also ist es wichtig die größtmögliche Regeneration für den WAF-Kondensator zu haben. Der Kapazitätsverlust dieser Modifikation ist auch kein Problem, da die meisten Schiffe zwei ihrer Gausskanonen gleichzeitig abfeuern können, ohne über 20% Hitze zu gehen.
 
 **Alternative:** Weapon Focused blueprint. Increased WEP capacitor size at the cost of boost frequency. Some ships require this modification to keep their heat below the threshold required for proper cold orbiting.
 
 ## Sensoren
 
-**The Meta:** D-rated with Long Range experimental. Thargoids always emit a signal that can be detected at the maximum sensor range, meaning that A-rated sensors provide no benefits to D-rated, but weigh more and cost more power.
+**The Meta:** D-rated with Long Range experimental. Thargoiden emittieren immer ein Signal, das mit der maximalen Reichweite des Sensors erkannt werden kann, was bedeutet, dass Klasse-A Sensoren keine Vorteile im Vergleich zu Klasse-D haben, sondern mehr wiegen und mehr Leistung brauchen.
 
 **Alternativen:** Keine
 
 # Intern (optional)
 
-The optional internal loadout is where the main differences lie between build styles, and can even vary from Commander to Commander. Below are the three general loadouts of the three build types. For more information on the uses of each optional internal, refer to the [Core and Optional Internals](/en/internals) page.
+Beim optionalen internen Loadout liegt der Hauptunterschied zwischen verschiedenen Build-Stilen und kann von Commander zu Commander stark variieren. Unten sind die drei allgemeinen Loadouts der drei Build-Typen. For more information on the uses of each optional internal, refer to the [Core and Optional Internals](/en/internals) page.
 
 
 ## Kalte Orbiter
