@@ -124,7 +124,7 @@ Beim optionalen internen Loadout liegt der Hauptunterschied zwischen verschieden
 Essential for Cold Oribing vessels to dissipate the heat generation of gauss cannons. Most if not all utility slots will be filled with these on Cold Orbiter and Bi-weave hybrid builds. Engineering them with the Ammo Capacity blueprint gives one extra heatsink per launcher.
 
 ## Schild-Booster
-Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
+Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Die Modifikation Schwerer Schildbooster mit dem Experiment Superkondensatoren geben den größten absoluten MJ Bonus.
 
 ## Weitere Module
-For information on Xeno Scanners and Shutdown Field Neutralizers, see the [Core and Optional Internals](/en/internals) page. These two utilities are not recommended except in specific situations, as the slot is better fit with a heatsink or shield booster.
+For information on Xeno Scanners and Shutdown Field Neutralizers, see the [Core and Optional Internals](/en/internals) page. Diese beiden Werkzeuge sind, außer in bestimmten Umständen nicht empfohlen, weil der Platz besser für Kühlkörper oder Schildbooster aufgehoben ist.
