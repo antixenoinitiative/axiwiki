@@ -103,7 +103,7 @@ Beim optionalen internen Loadout liegt der Hauptunterschied zwischen verschieden
 - 2A AFMU
 - HRPs in the rest of the internal slots
 
-## Bi-Wave-Hybride
+## Bi-Weave-Hybride
 - Largest possible Bi-Weave Shield with Reinforce blueprint and either Fast Charge or Lo-Draw experimental.
 - 1A AFMU
 - One or two GMRPs or MRPs
