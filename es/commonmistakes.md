@@ -9,23 +9,23 @@ dateCreated: 2021-06-10T07:16:26.785Z
 ---
 
 # Errores comunes de construcción
-Without a solid understanding of AX Mechanics it is very easy to make simple mistake when putting together an AX Ship. Here are some common mistakes people have made in the past… so you don’t have to!
+Sin un conocimiento sólido de la mecánica AX, es muy fácil cometer un simple error al armar un barco AX. Aquí hay algunos errores comunes que la gente ha cometido en el pasado... ¡así que no es necesario que lo haga!
 
-## Useless Utilities
+## Utilidades inútiles
 ### tabs {.tabset}
-#### Point Defence
-Although it may seem like a good idea at first, point defence is hopelessly ineffective in Thargoid combat. Point Defence will fire upon both caustic and Thargon missiles, but it is incapable of actually hitting them. On top of this, they also have a habit of shooting down friendly Flak Launcher projectiles.
+#### Punto de defensa
+Aunque pueda parecer una buena idea al principio, el Punto Defensa es desesperadamente ineficaz en el combate Thargoid. Punto Defensa disparará sobre misiles cáusticos y Thargon, pero es incapaz de Acertarlos. Además de esto, también tienen la costumbre de derribar proyectiles Lanzador antiaéreo amistosos.
 
-#### Chaff
-Chaff does not affect Thargoids in any way, the use of chaff in AX combat will not help you. A similar effect can be achieved by Cold Orbiting instead.
+#### Lanzador de Virutas
+Lanzador de Virutas no afecta a Thargoids de ninguna manera, el uso del Lanzador de Virutas en el combate AX no te ayudará. Un efecto similar puede lograrse mediante la orbitación fría en su lugar.
 
-#### Electronic Countermeasures
-Similar to chaff, Electronic Countermeasures have no effect on Thargoid missiles or other weapons systems.
+#### Contramedidas electrónicas
+Al igual que Lanzador de Virutas, las contramedidas electrónicas no tienen ningún efecto sobre los misiles Thargoid u otros sistemas de armas.
 
-## Ship Launched Fighters
-A somewhat controversial topic as there are still some particular uses for these, however in typical AX fights, Ship Launched Fighters (or SLFs) are more of a bother than they are a benefit. Due to their paper thin hull, mediocre damage and laughable lifespan, even a SLF in the hands of a good pilot will still be less beneficial to perhaps using that same module slot for some more armour. Keep in mind that an AI pilot will also be taking a cut of all profits and rank obtained in the meantime too.
+## Hangar de Cazas
+Un tema un tanto controvertido ya que todavía hay algunos usos particulares para estos, sin embargo, en las peleas típicas de AX, los Cazas Lanzados de Nave (o SLF) son más una molestia que un beneficio. Debido a su casco delgado como el papel, daño mediocre y vida útil ridícula, incluso un SLF en manos de un buen piloto seguirá siendo menos beneficioso que quizás usar esa misma ranura de módulo para un poco más de armadura. Tenga en cuenta que un piloto de IA también tomará una parte de todas las ganancias y el rango obtenido mientras tanto.
 
-Also:
+También:
 - SLF will aggro the swarm making it fly erratically, thus harder to destroy
 - SLF NPC will steal half your combat rank
 - SLF will not aggro the interceptor
