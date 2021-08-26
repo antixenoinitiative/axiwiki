@@ -26,14 +26,14 @@ Al igual que Lanzador de Virutas, las contramedidas electrónicas no tienen ning
 Un tema un tanto controvertido ya que todavía hay algunos usos particulares para estos, sin embargo, en las peleas típicas de AX, los Cazas Lanzados de Nave (o SLF) son más una molestia que un beneficio. Debido a su casco delgado como el papel, daño mediocre y vida útil ridícula, incluso un SLF en manos de un buen piloto seguirá siendo menos beneficioso que quizás usar esa misma ranura de módulo para un poco más de armadura. Tenga en cuenta que un piloto de IA también tomará una parte de todas las ganancias y el rango obtenido mientras tanto.
 
 También:
-- SLF aggro el enjambre haciéndolo volar erráticamente, por lo tanto más difícil de destruir
+- SLF enfurecera al enjambre haciéndolo volar erráticamente, por lo tanto más difícil de destruir, tambien llamado tener el "aggro" lo que lo hara volar tras el SLF
 - El NPC SLF robará la mitad de tu rango de combate
-- El SLF no aggrará al interceptor
-- The swarm will destroy a SLF in 4-5 hits, due to phasing damage.
+- El interceptor no pondra su aggro en el SLF
+- El enjambre destruirá un SLF en 4-5 golpes, debido al daño gradual.
 
 ![slf.gif](/img/slf.gif) {.align-center}
 
-## Flechette VS Flak
+## Flak VS Flechette
 Remote Release Flak Launcher and Remote Release Flechette Launcher are easily mixed up…
 
 > Flak is super effective against Thargon swarms
