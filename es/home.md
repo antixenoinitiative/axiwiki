@@ -20,13 +20,13 @@ Or use the **Navigation bar** on the **left-hand** side to browse through the wi
 
 Want to take part in the **Anti-Xeno Initiative Wiki** project? Head to our [GitHub Repository](https://github.com/antixenoinitiative/axiwiki) or join us in the [AXI discord](https://discord.gg/bqmDxdm).
 
-[![AXI Discord](https://discord.com/api/guilds/380246809076826112/embed.png?style=banner3)](https://discord.gg/bqmDxdm)
+[![Discord AXI](https://discord.com/api/guilds/380246809076826112/embed.png?style=banner3)](https://discord.gg/bqmDxdm)
 
-## Credits
+## Créditos
 
-A big thanks to our content and development team! ❤️
+¡Un gran agradecimiento a nuestro equipo de contenido y desarrollo! ❤️
 
-**Content Creators**
+**Creadores de Contenido**
 
 -   CMDT Aranionros Stormrage
 -   CMDT Mechan
@@ -35,7 +35,7 @@ A big thanks to our content and development team! ❤️
 -   CMDT Avasa Siuu
 -   CMDT Maligno
 
-**Translators**
+**Traductores**
 
 -   CMDT alterNERDtive
 -   CMDT Trex63
@@ -58,8 +58,8 @@ A big thanks to our content and development team! ❤️
 -   CMDR Archiebeales
 -   CMDR Konstantine Novakov
 
-**Developers**
+**Desarrolladores**
 
 -   CMDR Sanctified (Willhof)
 
-And to everyone else in the Anti-Xeno Initiative who has helped make this project possible!
+¡Y a todos los demás de la Anti-Xeno Initiative que han ayudado a hacer posible este proyecto!
