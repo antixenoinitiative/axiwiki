@@ -26,9 +26,9 @@ Al igual que Lanzador de Virutas, las contramedidas electrónicas no tienen ning
 Un tema un tanto controvertido ya que todavía hay algunos usos particulares para estos, sin embargo, en las peleas típicas de AX, los Cazas Lanzados de Nave (o SLF) son más una molestia que un beneficio. Debido a su casco delgado como el papel, daño mediocre y vida útil ridícula, incluso un SLF en manos de un buen piloto seguirá siendo menos beneficioso que quizás usar esa misma ranura de módulo para un poco más de armadura. Tenga en cuenta que un piloto de IA también tomará una parte de todas las ganancias y el rango obtenido mientras tanto.
 
 También:
-- SLF will aggro the swarm making it fly erratically, thus harder to destroy
-- SLF NPC will steal half your combat rank
-- SLF will not aggro the interceptor
+- SLF aggro el enjambre haciéndolo volar erráticamente, por lo tanto más difícil de destruir
+- El NPC SLF robará la mitad de tu rango de combate
+- El SLF no aggrará al interceptor
 - The swarm will destroy a SLF in 4-5 hits, due to phasing damage.
 
 ![slf.gif](/img/slf.gif) {.align-center}
