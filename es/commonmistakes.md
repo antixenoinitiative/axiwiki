@@ -34,25 +34,25 @@ También:
 ![slf.gif](/img/slf.gif) {.align-center}
 
 ## Flak VS Flechette
-Remote Release Flak Launcher and Remote Release Flechette Launcher are easily mixed up…
+El lanzador antiaéreo remoto y el lanzador Flechette remoto se mezclan fácilmente…
 
-> Flak is super effective against Thargon swarms
+> Flak es súper efectivo contra enjambres de Thargon
 > 
-> Flechette is not… 
+> Flechette no lo es… 
 > 
 > {.is-warning}
 
 
-## Resistances
-Thargoid weapons deal absolute/caustic damage, this means any Thermal/Kinetic/Explosion resistances on either your shields or hull will do nothing and be completely bypassed. Focus only on absolute shield and hull values. Resistance is futile.
+## Resistencias
+Las armas Thargoid causan daño absoluto / cáustico, esto significa que cualquier resistencia Térmica / Cinética / Explosión en sus escudos o casco no hará nada y será completamente ignorada. Concéntrese sólo en los valores absolutos del escudo y del casco. La resistencia es inútil.
 
-## Weapons
-Although other AX weapons may be interesting and fun, nothing beats a Gauss Cannon. Due to Armour Penetration values, Guardian Gauss cannons have the highest effective AX damage per second. Focus on learning how to use Gauss Cannons properly and you will have a far easier time as the Interceptors you engage get tougher.
+## Armas
+Aunque otras armas AX pueden ser interesantes y divertidas, nada supera a un cañón Gauss. Debido a los valores de Penetración de armadura, los cañones Guardian Gauss tienen el daño de AX efectivo más alto por segundo. Concéntrese en aprender a usar los cañones de Gauss correctamente y le resultará mucho más fácil a medida que los interceptores a los que te enfrentas son más duro.
 
-Guardian Shard Cannons and Guardian Plasma Chargers simply cannot keep up with the DPS and effectiveness of Gauss.
+Los Cañones Esquirlas Guardianes y los Cargadores de Plasma Guardian simplemente no pueden seguir el ritmo del DPS y la efectividad de Gauss.
 
-Shards also require the pilot to be within Lightning attack range to achieve maximum DPS effect.
+Cañones Esquirlas Guardianes también requieren que el piloto esté dentro del rango de ataque del rayo para lograr el máximo efecto de DPS.
 
-For scout hunting, avoid fixed AXMCs. Scouts have very erratic movement and they can prove very difficult to hit with fixed projectile-based weapons. They make for good Gauss target practice though, since they are roughly the same size as an Interceptor’s Heart, and Gauss is a hitscan-based weapon.
+Para la caza de exploradores, evite AXMC fijos. Los exploradores tienen movimientos muy erráticos y pueden resultar muy difíciles de golpear con armas fijas basadas en proyectiles. Sin embargo, son una buena práctica de tiro de Gauss, ya que son aproximadamente del mismo tamaño que el corazón de un interceptor, y Gauss es un arma basada en hitscan (Parecido al Railgun).
 
-Read more on the [Weapons](/en/weapons) page.
+Lea más en la página de [Armas](/en/weapons).
