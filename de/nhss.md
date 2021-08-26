@@ -2,7 +2,7 @@
 title: Nichtmenschliche Signalquellen (NHSS)
 description: Über Nichtmenschliche Signalquellen und wie man Thargoids findet
 published: true
-date: 2021-06-15T10:52:49.181Z
+date: 2021-08-25T23:17:11.754Z
 tags: Thargoids, Interceptors, Scouts
 editor: markdown
 dateCreated: 2021-06-15T10:51:53.374Z
@@ -52,5 +52,10 @@ Bedrohungsstufen:
 ## Garantierte Signalquellen für Interceptors
 Wenn eine NHSS ein **Bergung**-Symbol im Navigations-Panel hat, wird man IMMER einen einzelnen Interceptor gemäß der Bedrohungsstufe antreffen. Zum Beispiel; hier eine garantierte **Basilisk** Signalquelle. Außerdem sind diese Instanzen leicht anders, sie beinhalten nur kleine Trümmer und keine grüne Wolke. ![nhss.png](/img/nhss.png) Hinweis: Das kleine Kanister-Symbol auf der Linken.
 
-## NHSS Erscheinungs-Tabelle
+## Full-Spectrum Scanner
+The FSS can also be used to identify the contents of a NHSS instance, read more [here](https://wiki.antixenoinitiative.com/en/nhssviafss).
+
+!\[signalsourcesboth.png\](/signalsourcesboth.png =600x)
+
+## NHSS Spawn Table
 ![nhsstable.png](/img/nhsstable.png)

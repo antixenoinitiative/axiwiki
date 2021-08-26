@@ -2,7 +2,7 @@
 title: Non-Human Signal Sources
 description: About Non-Human Signal Sources and Finding Thargoids
 published: true
-date: 2021-06-15T10:52:49.181Z
+date: 2021-08-25T23:17:11.754Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:51:53.374Z
@@ -51,6 +51,11 @@ Threat Levels:
 
 ## Guaranteed Interceptor Signals
 If a NHSS has a **Salvage** icon next to it in the navigation panel, you will ALWAYS get a solo Interceptor based of the list above. For example, here is a guaranteed **Basilisk** signal source. Additionally, this instance is slightly different, as it only includes small debris and no green cloud. ![nhss.png](/img/nhss.png) Note: The small canister symbol on the left.
+
+## Full-Spectrum Scanner
+The FSS can also be used to identify the contents of a NHSS instance, read more [here](https://wiki.antixenoinitiative.com/en/nhssviafss).
+
+!\[signalsourcesboth.png\](/signalsourcesboth.png =600x)
 
 ## NHSS Spawn Table
 ![nhsstable.png](/img/nhsstable.png)

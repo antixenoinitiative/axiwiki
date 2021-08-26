@@ -2,13 +2,13 @@
 title: Mechaniken überspringen
 description: Wie man bestimmte Mechaniken im Thargoid-Kampf überspringt
 published: true
-date: 2021-06-21T02:32:28.077Z
+date: 2021-08-20T01:57:10.991Z
 tags: Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
 ---
 
-# SCHLAFZUSTAND MECHANIK
+# Sleep Phase Mechanics
 
 Thargoid Interceptor haben einige Spezialangriffe (mehr dazu auf der Seite [Spezialangriffe](/en/special-attacks)), die sie einsetzen nachdem ein Herz zerstört wurde. Für kaustische Raketen, das Abschaltfeld und den Panikschild muss der Interceptor ein **Ziel aufgeschaltet** haben, damit er sie einsetzen kann (ähnlich zu Suchraketen).
 
@@ -18,13 +18,13 @@ Der Interceptor wird **35** ** Sekunden** lang versuchen ein **Ziel aufzuschalte
 
 > Wenn also das aktuelle Ziel einen **Mindestabstand** halten kann und eine geringe **Hitzesignatur** abgibt, wird der Thargoid Interceptor nicht in der Lage sein ein **Ziel aufzuschalten** und dadurch keine **Spezialattacken** einsetzen. 
 > 
-> {.is-warning}
+> {.is-info}
 
 Das 'aktuelle Ziel' kann sich ändern, während sich der Thargoid im Schlafzustand befindet. Wenn das neue Ziel nicht kalt genug oder zu nah ist, wird der Thargoid **aufwachen** und seine Fähigkeiten einsetzen. Stell sicher, dass deine Mitspieler das wissen, damit sie kein Aggro ziehen oder das Ziel während dem Schlafzustand angreifen.
 
 Wenn du den vorherigen Schwarm **während** der aktuellen Schlafphase zerstörst, feuert der Thargoid **eine Salve der Hauptkanone ab** und lässt dann einen Schwarm frei. Wenn du den vorherigen Schwarm zerstörst **bevor** die aktuelle Schlafphase begonnen hat, wird das alles nicht passieren und die Thargoid wird den Schwarm sofort bereitstellen.
 
-## KAMPF-TAKTIKEN
+## Kampftaktiken
 
 ### Einzelkämpfertaktik
 

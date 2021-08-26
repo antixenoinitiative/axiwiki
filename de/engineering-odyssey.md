@@ -48,7 +48,7 @@ Fastest way for most other data is as mission rewards. Board missions can give u
 
 Mats that can be cross-traded at the bartender are usually a non-issue, as any of the relog and/or supercruise methods above will yield huge amounts of them.
 
-# __**How many materials you will need****
+# __**Wie viele Materialien du benötigst****
 
 ## Anzüge
 
