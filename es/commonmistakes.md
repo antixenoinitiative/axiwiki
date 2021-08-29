@@ -9,50 +9,50 @@ dateCreated: 2021-06-10T07:16:26.785Z
 ---
 
 # Errores comunes de construcción
-Without a solid understanding of AX Mechanics it is very easy to make simple mistake when putting together an AX Ship. Here are some common mistakes people have made in the past… so you don’t have to!
+Sin un conocimiento sólido de la mecánica AX, es muy fácil cometer un simple error al armar un barco AX. Aquí hay algunos errores comunes que la gente ha cometido en el pasado... ¡así que no es necesario que lo haga!
 
-## Useless Utilities
+## Utilidades inútiles
 ### tabs {.tabset}
-#### Point Defence
-Although it may seem like a good idea at first, point defence is hopelessly ineffective in Thargoid combat. Point Defence will fire upon both caustic and Thargon missiles, but it is incapable of actually hitting them. On top of this, they also have a habit of shooting down friendly Flak Launcher projectiles.
+#### Punto de defensa
+Aunque pueda parecer una buena idea al principio, el Punto Defensa es desesperadamente ineficaz en el combate Thargoid. Punto Defensa disparará sobre misiles cáusticos y Thargon, pero es incapaz de Acertarlos. Además de esto, también tienen la costumbre de derribar proyectiles Lanzador antiaéreo amistosos.
 
-#### Chaff
-Chaff does not affect Thargoids in any way, the use of chaff in AX combat will not help you. A similar effect can be achieved by Cold Orbiting instead.
+#### Lanzador de Virutas
+Lanzador de Virutas no afecta a Thargoids de ninguna manera, el uso del Lanzador de Virutas en el combate AX no te ayudará. Un efecto similar puede lograrse mediante la orbitación fría en su lugar.
 
-#### Electronic Countermeasures
-Similar to chaff, Electronic Countermeasures have no effect on Thargoid missiles or other weapons systems.
+#### Contramedidas electrónicas
+Al igual que Lanzador de Virutas, las contramedidas electrónicas no tienen ningún efecto sobre los misiles Thargoid u otros sistemas de armas.
 
-## Ship Launched Fighters
-A somewhat controversial topic as there are still some particular uses for these, however in typical AX fights, Ship Launched Fighters (or SLFs) are more of a bother than they are a benefit. Due to their paper thin hull, mediocre damage and laughable lifespan, even a SLF in the hands of a good pilot will still be less beneficial to perhaps using that same module slot for some more armour. Keep in mind that an AI pilot will also be taking a cut of all profits and rank obtained in the meantime too.
+## Hangar de Cazas
+Un tema un tanto controvertido ya que todavía hay algunos usos particulares para estos, sin embargo, en las peleas típicas de AX, los Cazas Lanzados de Nave (o SLF) son más una molestia que un beneficio. Debido a su casco delgado como el papel, daño mediocre y vida útil ridícula, incluso un SLF en manos de un buen piloto seguirá siendo menos beneficioso que quizás usar esa misma ranura de módulo para un poco más de armadura. Tenga en cuenta que un piloto de IA también tomará una parte de todas las ganancias y el rango obtenido mientras tanto.
 
-Also:
-- SLF will aggro the swarm making it fly erratically, thus harder to destroy
-- SLF NPC will steal half your combat rank
-- SLF will not aggro the interceptor
-- The swarm will destroy a SLF in 4-5 hits, due to phasing damage.
+También:
+- SLF enfurecera al enjambre haciéndolo volar erráticamente, por lo tanto más difícil de destruir, tambien llamado tener el "aggro" lo que lo hara volar tras el SLF
+- El NPC SLF robará la mitad de tu rango de combate
+- El interceptor no pondra su aggro en el SLF
+- El enjambre destruirá un SLF en 4-5 golpes, debido al daño gradual.
 
 ![slf.gif](/img/slf.gif) {.align-center}
 
-## Flechette VS Flak
-Remote Release Flak Launcher and Remote Release Flechette Launcher are easily mixed up…
+## Flak VS Flechette
+El lanzador antiaéreo remoto y el lanzador Flechette remoto se mezclan fácilmente…
 
-> Flak is super effective against Thargon swarms
+> Flak es súper efectivo contra enjambres de Thargon
 > 
-> Flechette is not… 
+> Flechette no lo es… 
 > 
 > {.is-warning}
 
 
-## Resistances
-Thargoid weapons deal absolute/caustic damage, this means any Thermal/Kinetic/Explosion resistances on either your shields or hull will do nothing and be completely bypassed. Focus only on absolute shield and hull values. Resistance is futile.
+## Resistencias
+Las armas Thargoid causan daño absoluto / cáustico, esto significa que cualquier resistencia Térmica / Cinética / Explosión en sus escudos o casco no hará nada y será completamente ignorada. Concéntrese sólo en los valores absolutos del escudo y del casco. La resistencia es inútil.
 
-## Weapons
-Although other AX weapons may be interesting and fun, nothing beats a Gauss Cannon. Due to Armour Penetration values, Guardian Gauss cannons have the highest effective AX damage per second. Focus on learning how to use Gauss Cannons properly and you will have a far easier time as the Interceptors you engage get tougher.
+## Armas
+Aunque otras armas AX pueden ser interesantes y divertidas, nada supera a un cañón Gauss. Debido a los valores de Penetración de armadura, los cañones Guardian Gauss tienen el daño de AX efectivo más alto por segundo. Concéntrese en aprender a usar los cañones de Gauss correctamente y le resultará mucho más fácil a medida que los interceptores a los que te enfrentas son más duro.
 
-Guardian Shard Cannons and Guardian Plasma Chargers simply cannot keep up with the DPS and effectiveness of Gauss.
+Los Cañones Esquirlas Guardianes y los Cargadores de Plasma Guardian simplemente no pueden seguir el ritmo del DPS y la efectividad de Gauss.
 
-Shards also require the pilot to be within Lightning attack range to achieve maximum DPS effect.
+Cañones Esquirlas Guardianes también requieren que el piloto esté dentro del rango de ataque del rayo para lograr el máximo efecto de DPS.
 
-For scout hunting, avoid fixed AXMCs. Scouts have very erratic movement and they can prove very difficult to hit with fixed projectile-based weapons. They make for good Gauss target practice though, since they are roughly the same size as an Interceptor’s Heart, and Gauss is a hitscan-based weapon.
+Para la caza de exploradores, evite AXMC fijos. Los exploradores tienen movimientos muy erráticos y pueden resultar muy difíciles de golpear con armas fijas basadas en proyectiles. Sin embargo, son una buena práctica de tiro de Gauss, ya que son aproximadamente del mismo tamaño que el corazón de un interceptor, y Gauss es un arma basada en hitscan (Parecido al Railgun).
 
-Read more on the [Weapons](/en/weapons) page.
+Lea más en la página de [Armas](/en/weapons).

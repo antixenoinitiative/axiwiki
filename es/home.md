@@ -10,23 +10,23 @@ dateCreated: 2021-06-08T12:40:49.911Z
 
 # ¡Bienvenido!
 
-Welcome to the Anti-Xeno Initiative Wiki. This is the primary repository of information gathered by the Anti-Xeno Initiative, here you will find tutorials, guides and all kinds of data regarding Thargoid Combat in Elite Dangerous.
+Bienvenido a la Wiki de la Iniciativa Anti-Xeno. Este es el repositorio principal de información recopilada por la Iniciativa Anti-Xeno, aquí encontrarás tutoriales, guías y todo tipo de datos sobre Combate Thargoid en Elite Dangerous.
 
-Use the **Search bar** at the **top** of this page to get started
+Utilice la ** Barra de Búsqueda ** en la ** parte superior ** de esta página para comenzar
 
 ![](/img/2021-06-21_15_15_32-home___anti-xeno_initiative_wiki_-_beta.png)
 
-Or use the **Navigation bar** on the **left-hand** side to browse through the wiki.
+O use la ** Barra de Navegación ** en el ** lado izquierdo ** para navegar por la wiki.
 
-Want to take part in the **Anti-Xeno Initiative Wiki** project? Head to our [GitHub Repository](https://github.com/antixenoinitiative/axiwiki) or join us in the [AXI discord](https://discord.gg/bqmDxdm).
+¿Quiere participar en el proyecto ** Anti-Xeno Initiative Wiki **? Dirígete a nuestro [ Repositorio de GitHub ](https://github.com/antixenoinitiative/axiwiki) o únete a nosotros en el [ Discord AXI ](https://discord.gg/bqmDxdm).
 
-[![AXI Discord](https://discord.com/api/guilds/380246809076826112/embed.png?style=banner3)](https://discord.gg/bqmDxdm)
+[![Discord AXI](https://discord.com/api/guilds/380246809076826112/embed.png?style=banner3)](https://discord.gg/bqmDxdm)
 
-## Credits
+## Créditos
 
-A big thanks to our content and development team! ❤️
+¡Un gran agradecimiento a nuestro equipo de contenido y desarrollo! ❤️
 
-**Content Creators**
+**Creadores de Contenido**
 
 -   CMDT Aranionros Stormrage
 -   CMDT Mechan
@@ -35,7 +35,7 @@ A big thanks to our content and development team! ❤️
 -   CMDT Avasa Siuu
 -   CMDT Maligno
 
-**Translators**
+**Traductores**
 
 -   CMDT alterNERDtive
 -   CMDT Trex63
@@ -58,8 +58,8 @@ A big thanks to our content and development team! ❤️
 -   CMDR Archiebeales
 -   CMDR Konstantine Novakov
 
-**Developers**
+**Desarrolladores**
 
 -   CMDR Sanctified (Willhof)
 
-And to everyone else in the Anti-Xeno Initiative who has helped make this project possible!
+¡Y a todos los demás de la Anti-Xeno Initiative que han ayudado a hacer posible este proyecto!
