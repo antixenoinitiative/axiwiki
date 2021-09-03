@@ -2,7 +2,7 @@
 title: Ace Score Calculator: A brief treatise
 description: 
 published: true
-date: 2021-09-03T01:52:39.198Z
+date: 2021-09-03T02:14:54.890Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -64,3 +64,4 @@ The only way to properly account for such issues would be to separately request 
 3. Replace "time taken in seconds" input with a more user-friendly "hh:mm:ss" format
 4. Integrate with a leaderboard database, adding the optional "submit" and "video link" parameters
 5. Add more cool visuals in addition to, or as an optional replacement of, the radar chart
+6. Integrate with EDSY to allow for builds import
