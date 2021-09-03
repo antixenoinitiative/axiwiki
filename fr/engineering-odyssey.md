@@ -2,7 +2,7 @@
 title: Modifications d'ingénieur sur Odyssey
 description: Guide sur les modifications d'armures et d'armes à pied et sur les matériaux nécessaires pour les acquérir
 published: true
-date: 2021-07-11T11:59:54.823Z
+date: 2021-08-29T18:55:42.652Z
 tags: engineering, guide
 editor: markdown
 dateCreated: 2021-06-10T12:19:05.577Z
@@ -35,6 +35,10 @@ These spawn in small/large locked Industrial lockers and occasionally in small l
 These are a pain. Best way I’ve found is go to one of the tourist settlements in Robigo. These have 8 habitat ports each. Assuming you already have the Sirius permit / Marco Qwent unlocked, just go to town and slaughter everyone and scan the data ports. Then hop in your ship, supercruise and drop right back and repeat. It’s terribly slow but still the fastest method by a mile, and it will also quickly drop your Sirius Corp reputation which is required for one of the final engineer unlocks.
 
 Once you're happy with how much you've gotten on the wrong side of Sirius Corp, you can also do this at an Anarchy settlement, avoiding the bounties hassle.
+
+## Smear Campaign Plans
+
+Go to LHS 1541 - Chon Tourist Hotel. Check Habitat data ports. Usually 2-3x per run, very fast.
 
 ## Settlement Defense Plans (Also for engineer unlock)
 

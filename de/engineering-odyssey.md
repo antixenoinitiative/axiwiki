@@ -2,7 +2,7 @@
 title: Odyssey Modifizieren
 description: Leitfaden zum modifizieren von Anzügen und Waffen für zu Fuß und bezüglich den Materialien, die dafür nötig sind
 published: true
-date: 2021-07-11T11:59:54.823Z
+date: 2021-08-29T18:55:42.652Z
 tags: Engineering, Guide
 editor: markdown
 dateCreated: 2021-06-10T12:19:05.577Z
@@ -36,6 +36,10 @@ These are a pain. Best way I’ve found is go to one of the tourist settlements 
 
 Once you're happy with how much you've gotten on the wrong side of Sirius Corp, you can also do this at an Anarchy settlement, avoiding the bounties hassle.
 
+## Smear Campaign Plans
+
+Go to LHS 1541 - Chon Tourist Hotel. Check Habitat data ports. Usually 2-3x per run, very fast.
+
 ## Settlement Defense Plans (Also for engineer unlock)
 
 These drop with about 16% chance per relog from the "crashed skimmer" data port which is spawned in irregular markers PoI - look for the "two container" instance with the crahed skimmer, NOT for the the "three container" instance with the crashed SRV.
@@ -50,7 +54,7 @@ Mats that can be cross-traded at the bartender are usually a non-issue, as any o
 
 # __**Wie viele Materialien du benötigst****
 
-## Anzüge
+## Suits
 
 Assuming you’ll buy Artemis/Dominator/Maverick G3s from stores, and you’ll keep the Artemis at G3 (who needs a G5 Artemis?!), taking your Maverick and Dominator both from G3->G5 will require:
 - 50 suit schematics
@@ -61,7 +65,7 @@ Assuming you’ll buy Artemis/Dominator/Maverick G3s from stores, and you’ll k
 - 60 carbon fibre plating
 - 60 titanium plating
 
-## Waffen
+## Weapons
 
 For Plasma, assuming you’ll buy Executioner/Oppressor/Intimidator/Tormentor at G3 from stores, and that you will set aside and utterly ignore the pathetic Oppressor rifle (currently the worst weapon in the game), and take G3->G5 the other three, you will need:
 - 75 manufacturing instructions
