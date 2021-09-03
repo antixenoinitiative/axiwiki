@@ -2,7 +2,7 @@
 title: Ace Score Calculator: A brief treatise
 description: 
 published: true
-date: 2021-09-03T02:14:54.890Z
+date: 2021-09-03T02:15:10.602Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -46,7 +46,7 @@ After the initial spreadsheet was created, Discord introduced slash (/score) com
 CMDR Mechan then edited and expanded the port, with signficant expansions and logic changes.
 
 In particular:
-1. 
+[SECTION PENDING]
 
 ## Current design choices and limitations
 
