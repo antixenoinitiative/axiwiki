@@ -2,7 +2,7 @@
 title: Ace Score Calculator: A brief treatise
 description: 
 published: true
-date: 2021-09-06T23:29:37.531Z
+date: 2021-09-06T23:32:17.632Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
