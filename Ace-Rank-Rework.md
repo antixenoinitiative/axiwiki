@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description: 
 published: true
-date: 2021-09-06T23:33:17.984Z
+date: 2021-09-06T23:34:55.231Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -112,9 +112,8 @@ As of September 6, 2021, no one CMDR has ever been successful at the -mechalleng
 
 ## Backlog for new features, in decreasing order of priority
 
-1. Finalize score parameters - still need more testing
-2. Fix any new bugs which pop up, including but not limited to inputs sanitization
+1. Integrate leaderboard
+2. Add SLEF integration for EDSY build import
 3. Replace "time taken in seconds" input with a more user-friendly "hh:mm:ss" format
-4. Integrate with a leaderboard database, adding the optional "submit" and "video link" parameters
-5. Add more cool visuals in addition to, or as an optional replacement of, the radar chart
-6. Integrate with EDSY to allow for builds import
+4. Add more cool visuals in addition to, or as an optional replacement of, the radar chart
+5. Other code factoring and cleanup
