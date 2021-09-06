@@ -1,14 +1,14 @@
 ---
-title: Ace Score Calculator: A brief treatise
+title: Ace Rank Rework of September 2021
 description: 
 published: true
-date: 2021-09-06T23:32:17.632Z
+date: 2021-09-06T23:32:59.399Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
 ---
 
-# The Ace Score Calculator
+# The Ace rank Rework of September 2021
 This page contains the history and details behind the Ace Score Calculator, for future CMDRs to access for reference.
 
 ## The origing and "history thus far" of the Ace rank
