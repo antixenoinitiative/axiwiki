@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description: 
 published: true
-date: 2021-09-07T13:43:51.773Z
+date: 2021-09-07T13:45:12.829Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -17,7 +17,7 @@ Ever since the introduction of Discord server ranks, the AXI has considered the 
 
 The introduction of the Vanguard scoring system laid the groundwork of the "old Ace" system, with a leaderboard which recognized CMDRs who accomplished the most stunning multigoid kills, and further so with less-than-optimal ships to boot.
 
-As the overall combat skill of CMDRs grew, and as the knowledge of ships and AX combat progressed, eventually the Ace board became something that strictly required a hyperdiction instance to even attempt - and, namely, a one-in-thousands-of-jumps occurrance, which further carried a risk of "failing" as CMDRs has a small window to summon additional cyclopi and engage all goids before they left.
+As the overall combat skill of CMDRs grew, and as the knowledge of ships and AX combat progressed, eventually the Ace board became something that strictly required a hyperdiction instance to even attempt - and, namely, a one-in-thousands-of-jumps occurrance, which further carried a risk of "failing" as CMDRs has a small window to summon additional cyclopes and engage all goids before they left.
 
 The relaxation of the "megaships rules" helped little in that the creation of these instances still required 2 CMDRs a significant amount of time (hours) to do, and the fight itself was typically also several hours long. Couple with the grind for mats involved (for ammo and MAs for interdictions in particular), it is no surprise that the Ace rank broadly fell out of favor, and that new submissions were rare and far between.
 
@@ -26,7 +26,7 @@ An Ace rank overhaul thus became a priority.
 ## The principles guiding the creation of the new Ace rank
 
 In setting the principles for the creation of the new Ace rank, we aspired to:
-- Quantitatively assess the best possible approximation of "the ineherent skill displayed in a fight by a CMDR"
+- Quantitatively assess the best possible approximation of "the inherent skill displayed in a fight by a CMDR"
 - Limit the grind required to the bare minimum
 - Limit the overall duration of a fight attempt to about 30 minutes (or less), while still providing enough of a challenge to differentiate CMDRs
 - Provide a scoring system where a "perfect score" would be near impossible to achieve (to the point we'd expect fewer than 3-5 CMDRs to ever achieve it, *IF* any ever achieve it)
