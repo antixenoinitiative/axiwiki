@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description: 
 published: true
-date: 2021-09-07T13:45:12.829Z
+date: 2021-09-07T13:50:22.740Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -38,7 +38,7 @@ In setting the principles for the creation of the new Ace rank, we aspired to:
 
 For the purpose of consistency and to meet the principles above, the Medusa was chosen as the goid-of-reference for the new Ace rank. (A Hydra would have made for a much longer and much grindier fight, and a Basilisk -or Clops- would have run into speedrunning balancing issues.)
 
-The new Ace rank set the bar of a perfect (100-point) solo Medusa fight as follows:
+The new Ace rank set the bar of an Ace-level-reference (set at 100 points) solo Medusa fight as follows:
 - Meets "Myrmidon" time thresholds: 24 minutes for a small ship, 12 for medium, 6 for a large
 - Meets "Astraea's Clarity" 82% ammo efficiency threshold
 - Meets "100% Club" less-than-1%-hull-lost threshold
