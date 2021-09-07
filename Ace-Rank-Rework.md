@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description: 
 published: true
-date: 2021-09-07T13:39:27.008Z
+date: 2021-09-07T13:39:52.560Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -94,7 +94,7 @@ If there is any problem with the submission, a staff member will let you know an
 Based on how the scoring system works, a tie is only possible with an exact 100 score.
 
 Should two or more CMDRs score 100 points, the following criteria will be used in decreasing order of priority to break such tie:
-- Lowest vanguard score (100 score with lowest Vanguard-points-ship used will always be #1 on the board)
+- Lowest vanguard score (100 score with lowest Vanguard-points-ship used will always be #1 on the board, regardless of any other factors)
 - Assuming same vanguard score, highest ammo efficiency % will break the time
 - In the extremely unlikely event that ammo efficiency % is exactly the same, then time taken (as a % of the Myrmidon threshold for ship class) will be the final tie breaker
  
