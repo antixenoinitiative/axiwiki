@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description: 
 published: true
-date: 2021-09-07T14:29:10.440Z
+date: 2021-09-07T14:38:46.375Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -11,7 +11,7 @@ dateCreated: 2021-09-03T01:21:34.494Z
 # The Ace rank Rework of September 2021
 This page contains the history and details behind the Ace Score Calculator, for future CMDRs to access for reference.
 
-## The origing and "history thus far" of the Ace rank
+## The origin and "history thus far" of the Ace rank
 
 Ever since the introduction of Discord server ranks, the AXI has considered the idea of recognizing our very best CMDRs with a rank that was "competitive" in nature, that is, it could be earned but it could also be lost as new CMDRs achieved higher levels of skill.
 
