@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description: 
 published: true
-date: 2021-09-07T13:39:52.560Z
+date: 2021-09-07T13:43:51.773Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -53,7 +53,7 @@ Note the accuracy calculations are based on damage vs individual rounds to allow
 
 As of September 6, 2021, the penalty coefficients as follows:
 - For every point used ship is above 40 vanguard points: -0.25 points
-- For every percentage point the time taken was above the Myrmidon threshold: -0.108 points
+- For every percentage point the time taken was above the Myrmidon threshold: -0.108 points [*Note: // Factor of -0.108 was obtained by matching penalties from old system with a 30m medium run to new system, as follows // (1800 - 720) * -0.025 = 27; Old system // 1800/720 * 100x = 27 --> x = 27 * 720 / 1800 / 100 -> x = 0.108; New system*]
 - For every accuracy point below 82%: -0.125 points
 - For every hull percentage point lost: -0.2 points
 - For using standard ammo (instead of basic) = -12.5 points
