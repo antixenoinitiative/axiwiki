@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description: 
 published: true
-date: 2021-09-06T23:34:55.231Z
+date: 2021-09-07T13:39:27.008Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -88,6 +88,15 @@ Once you've completed a Medusa solo fight you are happy with, please use the /sc
 A staff member will review your submission and will either approve or reject it for addition to the leaderboard. Also, if your submission is among the Top 10, you'll get the shiny new Ace rank!
 
 If there is any problem with the submission, a staff member will let you know and will try their best to remedy it so that it can be adjusted and/or resubmitted correctly.
+
+## What happens if there is a tie?
+
+Based on how the scoring system works, a tie is only possible with an exact 100 score.
+
+Should two or more CMDRs score 100 points, the following criteria will be used in decreasing order of priority to break such tie:
+- Lowest vanguard score (100 score with lowest Vanguard-points-ship used will always be #1 on the board)
+- Assuming same vanguard score, highest ammo efficiency % will break the time
+- In the extremely unlikely event that ammo efficiency % is exactly the same, then time taken (as a % of the Myrmidon threshold for ship class) will be the final tie breaker
  
 ## What happens to the old Ace rank?
 
