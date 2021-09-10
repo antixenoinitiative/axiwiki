@@ -2,7 +2,7 @@
 title: Inicio
 description: Bienvenido a la Wiki de la Anti-Xeno Initiative. Su repositorio completo para Combate Anti-Xeno.
 published: verdadero
-date: 2021-08-20T06:14:16.957Z
+date: 2021-09-10T01:17:00.036Z
 tags:
 editor: markdown
 dateCreated: 2021-06-08T12:40:49.911Z
@@ -18,37 +18,45 @@ Utilice la ** Barra de Búsqueda ** en la ** parte superior ** de esta página p
 
 O use la ** Barra de Navegación ** en el ** lado izquierdo ** para navegar por la wiki.
 
-¿Quiere participar en el proyecto ** Anti-Xeno Initiative Wiki **? Dirígete a nuestro [ Repositorio de GitHub ](https://github.com/antixenoinitiative/axiwiki) o únete a nosotros en el [ Discord AXI ](https://discord.gg/bqmDxdm).
+## Common Topics
+Browse through some of our most common topics to get you started!
 
-[![Discord AXI](https://discord.com/api/guilds/380246809076826112/embed.png?style=banner3)](https://discord.gg/bqmDxdm)
+- [Thargoid Interceptors](/en/interceptors)
+- [How to find Thargoids](/en/finding-thargoids)
+- [Recommended Ship Builds](/en/builds)
+- [Basic Combat Guide](/en/basic-combat-guide)
 
-## Créditos
+## Credits
 
-¡Un gran agradecimiento a nuestro equipo de contenido y desarrollo! ❤️
+Want to take part in the **Anti-Xeno Initiative Wiki** project? Head to our [GitHub Repository](https://github.com/antixenoinitiative/axiwiki) or join us in the [AXI discord](https://discord.gg/bqmDxdm).
 
-**Creadores de Contenido**
+[![AXI Discord](https://discord.com/api/guilds/380246809076826112/embed.png?style=banner3)](https://discord.gg/bqmDxdm)
 
--   CMDT Aranionros Stormrage
--   CMDT Mechan
--   CMDT Aterius
--   CMDT EuanAB
--   CMDT Avasa Siuu
--   CMDT Maligno
+A big thanks to our content and development team! ❤️
 
-**Traductores**
+**Content Creators**
 
--   CMDT alterNERDtive
--   CMDT Trex63
--   CMDT Xarionn
--   CMDT St4n2012
--   CMDT Trebiscotti
+-   CMDR Aranionros Stormrage
+-   CMDR Mechan
+-   CMDR Aterius
+-   CMDR EuanAB
+-   CMDR Avasa Siuu
+-   CMDR Maligno
+
+**Translators**
+
+-   CMDR alterNERDtive
+-   CMDR Trex63
+-   CMDR Xarionn
+-   CMDR St4n2012
+-   CMDR Trebiscotti
 -   CMDR AlexMG1
 -   CMDR Domtron
 -   CMDR Grincake
 -   CMDR Batro
 -   CDMR Blaston
 -   CMDR Aileen Leith
--   CMDR Westboyrake
+-   CMDR Westboyrke
 -   CMDR Habba-nero
 -   CMDR Talixe
 -   CMDR Jugom
@@ -58,8 +66,8 @@ O use la ** Barra de Navegación ** en el ** lado izquierdo ** para navegar por 
 -   CMDR Archiebeales
 -   CMDR Konstantine Novakov
 
-**Desarrolladores**
+**Developers**
 
 -   CMDR Sanctified (Willhof)
 
-¡Y a todos los demás de la Anti-Xeno Initiative que han ayudado a hacer posible este proyecto!
+And to everyone else in the Anti-Xeno Initiative who has helped make this project possible!
