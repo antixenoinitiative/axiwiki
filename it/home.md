@@ -2,7 +2,7 @@
 title: Home
 description: Benvenuti nella Wiki della Anti Xeno Initiative. Il tuo riferimento per il combattimento Anti-Xeno.
 published: true
-date: 2021-08-20T06:14:16.957Z
+date: 2021-09-10T01:17:00.036Z
 tags:
 editor: markdown
 dateCreated: 2021-06-08T12:40:49.911Z
@@ -18,11 +18,19 @@ Use the **Search bar** at the **top** of this page to get started
 
 Or use the **Navigation bar** on the **left-hand** side to browse through the wiki.
 
+## Common Topics
+Browse through some of our most common topics to get you started!
+
+- [Thargoid Interceptors](/en/interceptors)
+- [How to find Thargoids](/en/finding-thargoids)
+- [Recommended Ship Builds](/en/builds)
+- [Basic Combat Guide](/en/basic-combat-guide)
+
+## Credits
+
 Want to take part in the **Anti-Xeno Initiative Wiki** project? Head to our [GitHub Repository](https://github.com/antixenoinitiative/axiwiki) or join us in the [AXI discord](https://discord.gg/bqmDxdm).
 
 [![AXI Discord](https://discord.com/api/guilds/380246809076826112/embed.png?style=banner3)](https://discord.gg/bqmDxdm)
-
-## Credits
 
 A big thanks to our content and development team! ❤️
 
