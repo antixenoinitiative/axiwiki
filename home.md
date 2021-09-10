@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the Anti-Xeno Initiative Wiki. Your complete repository for Anti-Xeno Combat.
 published: true
-date: 2021-09-10T01:13:39.613Z
+date: 2021-09-10T01:14:05.455Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-08T12:40:49.911Z
@@ -23,6 +23,7 @@ Want to take part in the **Anti-Xeno Initiative Wiki** project? Head to our [Git
 [![AXI Discord](https://discord.com/api/guilds/380246809076826112/embed.png?style=banner3)](https://discord.gg/bqmDxdm)
 
 # Common Topics
+Browse through some of our most common topics to get you started!
 
 - [Thargoid Interceptors](/en/interceptors)
 - [How to find Thargoids](/en/finding-thargoids)
