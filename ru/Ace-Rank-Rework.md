@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description:
 published: true
-date: 2021-09-13T13:39:29.705Z
+date: 2021-09-13T16:50:10.265Z
 tags:
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -85,13 +85,13 @@ Starting from a perfect-threshold fight, points are subtracted for how "far off"
     
         // Ammo efficiency parameters
         let a0_1 = 1 // This is 100% ammo efficiency
-        let a0_2 = 1 / 0.82 // 82% is Astrae's level
+        let a0_2 = 1 / (143 / 175) // 82% is Astrae's level ... 175 is Astrae limit
         let a0_3 = 1 / 0.35 // 35% is conventionally "new serpent's nemesis level"
         let da = 2; // Shape of the curve, as determined by Orodruin
         let ammoEffPenalty = 0;
         ammoEffPenalty = 200 * (0.5 + (1/Math.PI)*Math.atan(p0*((shot_damage_fired/damage_threshold + da)/(a0_2+da))*((a0_3-shot_damage_fired/damage_threshold)/(a0_3-a0_2))*((a0_2-a0_1)/(shot_damage_fired/damage_threshold-a0_1))));
     
-        // Calculatre the final score
+        // Calculate the final score
         let finalScore = targetRun - (1/3)*(timeTakenPenalty + ammoEffPenalty + damageTakenPenalty)
 
 Note the ammo efficiency calculations are based on damage vs individual rounds to allow for mixed gauss usage. The source-data spreadsheet is available here: https://docs.google.com/spreadsheets/d/1p2axhJwSSSPS9eaI7R92f2sNpOPz-iiup-v09aakFFM/edit#gid=0. The specific math is quite complicated - please contact CMDR Orodruin if you have questions as to the specific logic behind them.
