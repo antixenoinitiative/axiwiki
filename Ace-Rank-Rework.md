@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description: 
 published: true
-date: 2021-09-13T04:13:04.627Z
+date: 2021-09-13T04:16:16.829Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
