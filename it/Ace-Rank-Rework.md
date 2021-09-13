@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description:
 published: true
-date: 2021-09-13T04:01:31.849Z
+date: 2021-09-13T04:30:49.592Z
 tags:
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -111,7 +111,7 @@ For clarity, the following are explicitly ALLOWED:
 1. You can use any gauss configuration you want (ammo efficiency rating will auto-adjust)
 2. You can reload and/or synth as few or as many times you want
 3. You can use flak or not use flak - entirely up to you
-4. You can use beams, TV or otherwise, is ok, so long as you don't specifically use them as a means to do significant damage to the goids hull at the end of the fight (use of beams to stay cool for sub-minute periods is ok)
+4. You can use beams, TV or otherwise, so long as you don't specifically use them as a means to do significant damage to the goids hull at the end of the fight (use of beams to stay cool for sub-minute periods is ok)
 4. You're welcome to use a repair build, noting any hull repaired must be factored into the scoring submission calculation
 
 ### The known, and accepted, limitations of the new Ace rank
@@ -140,7 +140,21 @@ To provide everyone with a fresh challenge, only new fight submissions with ship
 
 Once you've completed a Medusa solo fight you are happy with, please use the /ace command in Discord with the optional "submit" parameter set to TRUE, and add also the optional "video link" parameter with a link to the fight.
 
-**PLEASE CHECK YOUR SUBMISSION BEFORE POSTING IT BY RUNNING THE /SCORE COMMAND FIRST WITH SUBMIT TO "FALSE", TO MAKE SURE THE SUBMISSION LOOKS LIKE IT'S SUPPOSED TO. IT WILL SAVE US ALL A LOT OF TIME AND FRUSTRATION. THANK YOU!**
+**PLEASE CHECK YOUR SUBMISSION BEFORE POSTING IT BY RUNNING THE /ACE COMMAND FIRST WITH SUBMIT TO "FALSE", TO MAKE SURE THE SUBMISSION LOOKS LIKE IT'S SUPPOSED TO. IT WILL SAVE US ALL A LOT OF TIME AND FRUSTRATION. THANK YOU!**
+
+### When is the earliest I can actually record a fight?
+
+So long as your ships includes a "GTM" tag in its name, and the fight meets the other criteria listed herein, it will be accepted even if the fight is performed before the role officially launches.
+
+Submissions will begin to be processed on Monday, September 27, 2021, so please don't submit fights before then (or, at the very least, don't expect a response before then.)
+
+You are, however, welcome to score your fights (set submit=false) before then using the `/ace` command.
+
+### Can I submit multiple fights over time?
+
+You can submit as many fights as you like, over any period of time. Do note that, however, only your "personal best" will remain on the board, and any lower-score fights will be overwritten once you submit a higher personal best.
+
+You cannot submit a fight with a score LOWER than your current personal best - the submission bot will reject your entry automatically. So don't worry about accidentally erasing your best run!
 
 ### What happens after I submit a score?
 
@@ -150,13 +164,13 @@ If there is any problem with the submission, a staff member will let you know an
 
 ### What happens if there is a tie?
 
-Based on how the scoring system works, a tie is effectively impossible.
+Based on how the scoring system works, a tie is effectively impossible. Should an apparent tie appear, the detailed score will be analyzed to check which CMDR holds the best score, beyond 2 significant digits.
 
 ### What happens to the old Ace rank?
 
 CMDRs holding the top 10 spots on the Ace board will lose the rank on 12:01am UTC on Monday, October 4, 2021. These CMDRs will be memorialized in the Hall of Fame and celebrated for their accomplishments. The legacy board will remain accessible to view - but no more entries will be processed from thereon out.
 
-Furthermore, ALL CMDRs holding a spot (even much below 10) on the Ace board will be granted the "Old Guard" rank - similar to what was done when the old Collector rank was retired.
+Furthermore, ALL CMDRs holding a spot (even below 10) on the Ace board will be granted the "Old Guard" rank - similar to what was done when the old Collector rank was retired.
 
 ### Difference between Ace score and -mechallenge/quadchallenge
 
@@ -174,8 +188,7 @@ As of September 10, 2021, no one CMDR has ever been successful at the -mechallen
 
 ## Backlog for new /ace features, in decreasing order of priority
 
-1. Integrate leaderboard
-2. Add SLEF integration for EDSY build import
-3. Replace "time taken in seconds" input with a more user-friendly "hh:mm:ss" format
-4. Add more cool visuals in addition to, or as an optional replacement of, the radar chart
-5. Other code and data factoring and cleanup
+1. Add SLEF integration for EDSY build import
+2. Replace "time taken in seconds" input with a more user-friendly "hh:mm:ss" format
+3. Add more cool visuals in addition to, or as an optional replacement of, the radar chart
+4. Other code and data factoring and cleanup
