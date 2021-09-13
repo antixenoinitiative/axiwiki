@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description: 
 published: true
-date: 2021-09-13T04:01:31.849Z
+date: 2021-09-13T04:12:11.085Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -140,7 +140,21 @@ To provide everyone with a fresh challenge, only new fight submissions with ship
 
 Once you've completed a Medusa solo fight you are happy with, please use the /ace command in Discord with the optional "submit" parameter set to TRUE, and add also the optional "video link" parameter with a link to the fight.
 
-**PLEASE CHECK YOUR SUBMISSION BEFORE POSTING IT BY RUNNING THE /SCORE COMMAND FIRST WITH SUBMIT TO "FALSE", TO MAKE SURE THE SUBMISSION LOOKS LIKE IT'S SUPPOSED TO. IT WILL SAVE US ALL A LOT OF TIME AND FRUSTRATION. THANK YOU!** 
+**PLEASE CHECK YOUR SUBMISSION BEFORE POSTING IT BY RUNNING THE /ACE COMMAND FIRST WITH SUBMIT TO "FALSE", TO MAKE SURE THE SUBMISSION LOOKS LIKE IT'S SUPPOSED TO. IT WILL SAVE US ALL A LOT OF TIME AND FRUSTRATION. THANK YOU!** 
+
+### When is the earliest I can actually record a fight?
+
+So long as your ships includes a "GTM" tag in its name, and the fight meets the other criteria listed herein, it will be accepted even if the fight is performed before the role officially launches.
+
+Submissions will begin to be processed on Monday, September 27, 2021, so please don't submit fights before then (or, at the very least, don't expect a response before then.)
+
+You are, however, welcome to score your fights (set submit=false) before then using the `/ace` command.
+
+### Can I submit multiple fights over time?
+
+You can submit as many fights as you like, over any period of time. Do note that, however, only your "personal best" will remain on the board, and any lower-score fights will be overwritten once you submit a higher personal best.
+
+You cannot submit a fight with a score LOWER than your current personal best - the submission bot will reject your entry automatically. So don't worry about accidentally erasing your best run!
 
 ### What happens after I submit a score?
 
@@ -174,8 +188,7 @@ As of September 10, 2021, no one CMDR has ever been successful at the -mechallen
 
 ## Backlog for new /ace features, in decreasing order of priority
 
-1. Integrate leaderboard
-2. Add SLEF integration for EDSY build import
-3. Replace "time taken in seconds" input with a more user-friendly "hh:mm:ss" format
-4. Add more cool visuals in addition to, or as an optional replacement of, the radar chart
-5. Other code and data factoring and cleanup
+1. Add SLEF integration for EDSY build import
+2. Replace "time taken in seconds" input with a more user-friendly "hh:mm:ss" format
+3. Add more cool visuals in addition to, or as an optional replacement of, the radar chart
+4. Other code and data factoring and cleanup
