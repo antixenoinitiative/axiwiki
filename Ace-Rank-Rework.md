@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description: 
 published: true
-date: 2021-09-13T04:12:11.085Z
+date: 2021-09-13T04:13:04.627Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -164,7 +164,7 @@ If there is any problem with the submission, a staff member will let you know an
 
 ### What happens if there is a tie?
 
-Based on how the scoring system works, a tie is effectively impossible.
+Based on how the scoring system works, a tie is effectively impossible. Should an apparent tie appear, the detailed score will be analyzed to check which CMDR holds the best score, beyond 2 significant digits.
  
 ### What happens to the old Ace rank?
 
