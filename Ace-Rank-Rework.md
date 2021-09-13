@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description: 
 published: true
-date: 2021-09-13T04:16:25.204Z
+date: 2021-09-13T04:30:03.948Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -111,7 +111,7 @@ For clarity, the following are explicitly ALLOWED:
 1. You can use any gauss configuration you want (ammo efficiency rating will auto-adjust)
 2. You can reload and/or synth as few or as many times you want
 3. You can use flak or not use flak - entirely up to you
-4. You can use beams, TV or otherwise, is ok, so long as you don't specifically use them as a means to do significant damage to the goids hull at the end of the fight (use of beams to stay cool for sub-minute periods is ok)
+4. You can use beams, TV or otherwise, so long as you don't specifically use them as a means to do significant damage to the goids hull at the end of the fight (use of beams to stay cool for sub-minute periods is ok)
 4. You're welcome to use a repair build, noting any hull repaired must be factored into the scoring submission calculation
 
 ### The known, and accepted, limitations of the new Ace rank
