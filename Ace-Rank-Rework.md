@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description: 
 published: true
-date: 2021-09-13T04:30:49.592Z
+date: 2021-09-13T13:39:29.705Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -31,7 +31,7 @@ In setting the principles for the creation of the new Ace rank, we aspired to:
 - Quantitatively assess the best possible approximation of "the inherent skill displayed in a fight by a CMDR"
 - Leverage the meta inherent to the current state of AX Combat: The Alliance Chieftain (rather than create a system which would inherently generate a specific alternate meta)
 - Limit the grind required to the bare minimum
-- Limit the overall duration of a fight attempt to about 30 minutes (or less), while still providing enough of a challenge to differentiate CMDRs
+- Limit the overall duration of a fight attempt to about 30 minutes (or less), while still providing enough of a challenge to highlight differences between "good" and "great" fights
 - Provide a scoring system where a "perfect score" would be impossible to achieve 
 - Provide a scoring system where even brand new CMDRs can compare themselves to the AXI aces, and observe as their own skills improve over time
 - Provide a scoring system which tests all areas (time, ammo efficiency, and evasiveness / damage avoidance) equally, without the ability to min/max one over another
