@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description: 
 published: true
-date: 2021-09-13T04:16:16.829Z
+date: 2021-09-13T04:16:25.204Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -170,7 +170,7 @@ Based on how the scoring system works, a tie is effectively impossible. Should a
 
 CMDRs holding the top 10 spots on the Ace board will lose the rank on 12:01am UTC on Monday, October 4, 2021. These CMDRs will be memorialized in the Hall of Fame and celebrated for their accomplishments. The legacy board will remain accessible to view - but no more entries will be processed from thereon out.
 
-Furthermore, ALL CMDRs holding a spot (even much below 10) on the Ace board will be granted the "Old Guard" rank - similar to what was done when the old Collector rank was retired.
+Furthermore, ALL CMDRs holding a spot (even below 10) on the Ace board will be granted the "Old Guard" rank - similar to what was done when the old Collector rank was retired.
 
 ### Difference between Ace score and -mechallenge/quadchallenge
 
