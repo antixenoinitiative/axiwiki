@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description: 
 published: true
-date: 2021-09-13T00:05:32.743Z
+date: 2021-09-13T00:08:25.622Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -41,23 +41,26 @@ In setting the principles for the creation of the new Ace rank, we aspired to:
 
 For the purpose of consistency and to meet the principles above, the Medusa was chosen as the goid-of-reference for the new Ace rank. (A Hydra would have made for a much longer and much grindier fight, and a Basilisk -or Clops- would have run into speedrunning balancing issues.)
 
-The new Ace rank sets two "reference fights" solo Medusa fight thresholds:
+The new Ace rank sets three "reference fights" solo Medusa fight thresholds:
 
 1. The bar for an "ideal" fight (set at 100 points):
 - Time Taken: 2 minutes and 45 seconds [note the current medium Glint record is 3m04s]
 - Ammo Efficiency: 100% ammo efficiency
-- Damage Taken: Less than 1% total hull damage (including damage repaired with repair limpets, if any)
+- Damage Taken: Less than 1% total hull damage taken (including damage repaired with repair limpets, if any)
 
-2. The bar for an "entry level" fight (set at 0 points):
+2. The bar for an "excellent" fight (set at 80 points):
+- Time Taken: 18 minutes (compared to average 99-100% DBX runs of 20.5-22 minutes)
+- Ammo Efficiency: 82% ammo efficiency (Astraea's Clarity level)
+- Damage Taken: 10% total hull damage taken (including damage repaired with repair limpets, if any)
+
+3. The bar for an "entry level" fight (set at 0 points):
 - Time Taken: 30 minutes
 - Ammo Efficiency: 35% ammo efficiency
-- Damage Taken: 125% total hull damage (including damage repaired with repair limpets)
+- Damage Taken: 125% total hull damage taken (including damage repaired with repair limpets, if any)
 
 Do note, that scoring higher than the threshold is technically impossible for Ammo Efficiency and Damage Taken, and practically impossible for Time Taken
 
-Starting from a perfect-threshold fight, points are subtracted for how "far off" a CMDR was on each dimension, interpolating with a logarithmic formula which leads to 33.33 (100/3) penalty points on each dimension at the "entry level" fight values.
-
-Penalties are then calculated as follows:
+Starting from a perfect-threshold fight, points are subtracted for how "far off" a CMDR was on each dimension, using a complex set of formulas designed by CMDR Orodruin as follows: 
 
         // Calculations
 
