@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description:
 published: true
-date: 2021-09-13T00:23:31.114Z
+date: 2021-09-13T04:01:31.849Z
 tags:
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -132,7 +132,7 @@ In the future we may consider expanding the core idea of this rank to other ship
 
 The new system will go live on 12:01am UTC on Monday, October 4, 2021.
 
-Submissions for the new Ace rank will start being accepted a week before then - starting from 12:01am UTC on Monday, September 30, 2021.
+Submissions for the new Ace rank will start being accepted a week before then - starting from 12:01am UTC on Monday, September 27, 2021.
 
 ### How do I submit a score for review?
 
