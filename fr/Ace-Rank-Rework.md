@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description:
 published: true
-date: 2021-09-11T03:11:59.737Z
+date: 2021-09-13T00:08:25.622Z
 tags:
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -41,43 +41,58 @@ In setting the principles for the creation of the new Ace rank, we aspired to:
 
 For the purpose of consistency and to meet the principles above, the Medusa was chosen as the goid-of-reference for the new Ace rank. (A Hydra would have made for a much longer and much grindier fight, and a Basilisk -or Clops- would have run into speedrunning balancing issues.)
 
-The new Ace rank sets two "reference fights" solo Medusa fight thresholds:
+The new Ace rank sets three "reference fights" solo Medusa fight thresholds:
 
 1. The bar for an "ideal" fight (set at 100 points):
 - Time Taken: 2 minutes and 45 seconds [note the current medium Glint record is 3m04s]
 - Ammo Efficiency: 100% ammo efficiency
-- Damage Taken: Less than 1% total hull damage (including damage repaired with repair limpets, if any)
+- Damage Taken: Less than 1% total hull damage taken (including damage repaired with repair limpets, if any)
 
-2. The bar for an "entry level" fight (set at 0 points):
+2. The bar for an "excellent" fight (set at 80 points):
+- Time Taken: 18 minutes (compared to average 99-100% DBX runs of 20.5-22 minutes)
+- Ammo Efficiency: 82% ammo efficiency (Astraea's Clarity level)
+- Damage Taken: 10% total hull damage taken (including damage repaired with repair limpets, if any)
+
+3. The bar for an "entry level" fight (set at 0 points):
 - Time Taken: 30 minutes
 - Ammo Efficiency: 35% ammo efficiency
-- Damage Taken: 125% total hull damage (including damage repaired with repair limpets)
+- Damage Taken: 125% total hull damage taken (including damage repaired with repair limpets, if any)
 
 Do note, that scoring higher than the threshold is technically impossible for Ammo Efficiency and Damage Taken, and practically impossible for Time Taken
 
-Starting from a perfect-threshold fight, points are subtracted for how "far off" a CMDR was on each dimension, interpolating with a logarithmic formula which leads to 33.33 (100/3) penalty points on each dimension at the "entry level" fight values.
-
-Penalties are then calculated as follows:
+Starting from a perfect-threshold fight, points are subtracted for how "far off" a CMDR was on each dimension, using a complex set of formulas designed by CMDR Orodruin as follows: 
 
         // Calculations
     
+        // I have no idea what this is; Orodruin says "p0 is related to the score of the "good" run" :)
+        let p0 = Math.tan((1/10-0.5)*Math.PI);
+    
+        // Time taken parameters
+        let t0_1 = 2.75 // 2 minutes and 45 seconds - thought to be the upper limit of a medium-ship perfect time
+        let t0_2 = 18 // 18 minutes - thought to be a good time for a damage-less run
+        let t0_3 = 30; // 30 minutes; is conventionally "new serpent's nemesis level"
+        let dt = 100; // Shape of the curve, as determined by Orodruin
         let timeTakenPenalty = 0;
-        timeTakenPenalty = 100 / 3 * Math.log10(args.time_in_seconds/timeTakenTargetBaseline) / Math.log10(timeTakenZeroBaseline/timeTakenTargetBaseline)
-        console.log("Time Taken Penalty:" + timeTakenPenalty)
+        timeTakenPenalty = 200 * (0.5 + (1/Math.PI)*Math.atan(p0*((args.time_in_seconds/60 + dt)/(t0_2+dt))*((t0_3-args.time_in_seconds/60)/(t0_3-t0_2))*((t0_2-t0_1)/(args.time_in_seconds/60-t0_1))));
     
-        let ammoEffPenalty = 0;
-        ammoEffPenalty = 100 / 3 * Math.log10(damage_threshold/shot_damage_fired) / Math.log10(ammoEffZeroBaseline)
-        console.log("Ammo Efficiency Penalty:" + ammoEffPenalty)
-    
+        // Hull lost parameter
+        let h0_1 = 0 // No hull lost; perfect "100% club" run
+        let h0_2 = 0.1 // 10% hull lost; is conventially "good run"
+        let h0_3 = 1.25 // 125% total hull lost; is conventionally "new serpent's nemesis level"
+        let dh = 5; // Shape of the curve, as determined by Orodruin
         let damageTakenPenalty = 0;
-        damageTakenPenalty = 100 / 3 * Math.log10(1+args.percenthulllost/100) / Math.log10(1+hullLostZeroBaseline/100)
-        console.log("Damage Taken Penalty:" + damageTakenPenalty)
+        damageTakenPenalty = 200 * (0.5 + (1/Math.PI)*Math.atan(p0*((args.percenthulllost/100 + dh)/(h0_2+dh))*((h0_3-args.percenthulllost/100)/(h0_3-h0_2))*((h0_2-h0_1)/(args.percenthulllost/100-h0_1))));
     
-        let totalPenalty = 0;
-        totalPenalty = timeTakenPenalty + ammoEffPenalty + damageTakenPenalty
-        console.log("Total Penalty:" + totalPenalty)
+        // Ammo efficiency parameters
+        let a0_1 = 1 // This is 100% ammo efficiency
+        let a0_2 = 1 / 0.82 // 82% is Astrae's level
+        let a0_3 = 1 / 0.35 // 35% is conventionally "new serpent's nemesis level"
+        let da = 2; // Shape of the curve, as determined by Orodruin
+        let ammoEffPenalty = 0;
+        ammoEffPenalty = 200 * (0.5 + (1/Math.PI)*Math.atan(p0*((shot_damage_fired/damage_threshold + da)/(a0_2+da))*((a0_3-shot_damage_fired/damage_threshold)/(a0_3-a0_2))*((a0_2-a0_1)/(shot_damage_fired/damage_threshold-a0_1))));
     
-        let finalScore = targetRun - totalPenalty
+        // Calculatre the final score
+        let finalScore = targetRun - (1/3)*(timeTakenPenalty + ammoEffPenalty + damageTakenPenalty)
 
 Note the ammo efficiency calculations are based on damage vs individual rounds to allow for mixed gauss usage. The source-data spreadsheet is available here: https://docs.google.com/spreadsheets/d/1p2axhJwSSSPS9eaI7R92f2sNpOPz-iiup-v09aakFFM/edit#gid=0. The specific math is quite complicated - please contact CMDR Orodruin if you have questions as to the specific logic behind them.
 
