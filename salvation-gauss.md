@@ -2,7 +2,7 @@
 title: Salvation Gauss Cannons
 description: Everything we currently know about the Salvation Modified Guardian Gauss Cannons
 published: true
-date: 2021-09-17T15:56:42.713Z
+date: 2021-09-17T15:59:11.563Z
 tags: builds, weapons, guardians
 editor: markdown
 dateCreated: 2021-09-17T15:42:13.928Z
@@ -23,17 +23,19 @@ The weapons are first mentioned in a message from Salvation on 17th Sept 3307:
 > 
 > As you know, we cannot rely on Aegis to save us from the Thargoids. Only I am capable of achieving this, and courageous pilots like you can ensure my triumph.
 
+This message was sent to a handful of commanders in-game. The current criteria to recieve this message is unknown.
+
 ## Specifications
 
-Currently Unknown ❓
+❓ Currently Unknown ❓
 
 > ...modified Class Two Guardian Gauss Cannon with increased capacity and burst fire but reduced optimal range.
 
 ## How to Obtain
 
-Transport Cargo of Basic Medicines (Unspecified Amount) from the **Heart of Taurus** Megaship in **Pegasi Sector ON-S b4-8** to ANY of the Rescue Megaships in **Cornsar** before Monday 20th September 3307
+Transport Cargo of Basic Medicines (Unspecified Amount) from the **Heart of Taurus** Megaship in **Pegasi Sector ON-S b4-8** to ANY of the Rescue Megaships in **Cornsar** before Monday 20th September 3307.
 
-You will then be able to collect the Module from **the Bright Sentinel** in **Mbooni** on Thursday 23rd of September 3307
+You will then be able to collect the Module from **the Bright Sentinel** in **Mbooni** on Thursday 23rd of September 3307.
 
 ## Notes from Frontier
 
