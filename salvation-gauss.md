@@ -2,7 +2,7 @@
 title: Salvation Gauss Cannons
 description: Everything we currently know about the Salvation Modified Guardian Gauss Cannons
 published: true
-date: 2021-09-17T15:50:14.645Z
+date: 2021-09-17T15:56:42.713Z
 tags: builds, weapons, guardians
 editor: markdown
 dateCreated: 2021-09-17T15:42:13.928Z
@@ -25,7 +25,7 @@ The weapons are first mentioned in a message from Salvation on 17th Sept 3307:
 
 ## Specifications
 
-Currently Unknown
+Currently Unknown ❓
 
 > ...modified Class Two Guardian Gauss Cannon with increased capacity and burst fire but reduced optimal range.
 
@@ -37,7 +37,7 @@ You will then be able to collect the Module from **the Bright Sentinel** in **Mb
 
 ## Notes from Frontier
 
-The following information is taken from Discussions with CM Zac in the [Anti-Xeno Initiative Discord](https://discord.gg/bqmDxdm).
+The following information is taken from discussions with Community Manager Zac in the [Anti-Xeno Initiative Discord](https://discord.gg/bqmDxdm).
 
 - You don't need the message from Salvation to be able to participate.
 - You don't need previous participation with Salvation events to participate.
