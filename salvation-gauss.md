@@ -2,7 +2,7 @@
 title: Salvation Gauss Cannons
 description: Everything we currently know about the Salvation Modified Guardian Gauss Cannons
 published: true
-date: 2021-09-17T15:59:11.563Z
+date: 2021-09-17T15:59:35.891Z
 tags: builds, weapons, guardians
 editor: markdown
 dateCreated: 2021-09-17T15:42:13.928Z
@@ -29,7 +29,7 @@ This message was sent to a handful of commanders in-game. The current criteria t
 
 ❓ Currently Unknown ❓
 
-> ...modified Class Two Guardian Gauss Cannon with increased capacity and burst fire but reduced optimal range.
+> ...modified Class Two Guardian Gauss Cannon with **increased capacity** and **burst fire** but **reduced optimal range**.
 
 ## How to Obtain
 
