@@ -2,7 +2,7 @@
 title: Salvation Gauss Cannons
 description: Everything we currently know about the Salvation Modified Guardian Gauss Cannons
 published: true
-date: 2021-09-17T15:42:13.928Z
+date: 2021-09-17T15:50:14.645Z
 tags: builds, weapons, guardians
 editor: markdown
 dateCreated: 2021-09-17T15:42:13.928Z
@@ -44,3 +44,8 @@ The following information is taken from Discussions with CM Zac in the [Anti-Xen
 - No specific "amount of medicines" required / commanders.
 - The gauss will be obtainable later even if you didn't participate.
 - You will be able to get as many "hammer gauss" as you want eventually.
+
+![](https://cdn.discordapp.com/attachments/625989888432537611/888450639967965184/unknown.png)
+![](https://cdn.discordapp.com/attachments/625989888432537611/888450754115952650/unknown.png)
+![](https://cdn.discordapp.com/attachments/625989888432537611/888450900094517308/unknown.png)
+![](https://cdn.discordapp.com/attachments/625989888432537611/888451081028390942/unknown.png)
