@@ -2,7 +2,7 @@
 title: Salvation Gauss Cannons
 description: Everything we currently know about the Salvation Modified Guardian Gauss Cannons
 published: true
-date: 2021-09-17T15:42:13.928Z
+date: 2021-09-17T15:59:35.891Z
 tags: builds, weapons, guardians
 editor: markdown
 dateCreated: 2021-09-17T15:42:13.928Z
@@ -23,24 +23,28 @@ The weapons are first mentioned in a message from Salvation on 17th Sept 3307:
 > 
 > As you know, we cannot rely on Aegis to save us from the Thargoids. Only I am capable of achieving this, and courageous pilots like you can ensure my triumph.
 
+This message was sent to a handful of commanders in-game. The current criteria to recieve this message is unknown.
+
 ## Specifications
 
-Currently Unknown
+❓ Currently Unknown ❓
 
-> ...modified Class Two Guardian Gauss Cannon with increased capacity and burst fire but reduced optimal range.
+> ...modified Class Two Guardian Gauss Cannon with **increased capacity** and **burst fire** but **reduced optimal range**.
 
 ## How to Obtain
 
-Transport Cargo of Basic Medicines (Unspecified Amount) from the **Heart of Taurus** Megaship in **Pegasi Sector ON-S b4-8** to ANY of the Rescue Megaships in **Cornsar** before Monday 20th September 3307
+Transport Cargo of Basic Medicines (Unspecified Amount) from the **Heart of Taurus** Megaship in **Pegasi Sector ON-S b4-8** to ANY of the Rescue Megaships in **Cornsar** before Monday 20th September 3307.
 
-You will then be able to collect the Module from **the Bright Sentinel** in **Mbooni** on Thursday 23rd of September 3307
+You will then be able to collect the Module from **the Bright Sentinel** in **Mbooni** on Thursday 23rd of September 3307.
 
 ## Notes from Frontier
 
-The following information is taken from Discussions with CM Zac in the [Anti-Xeno Initiative Discord](https://discord.gg/bqmDxdm).
+The following information is taken from discussions with Community Manager Zac in the [Anti-Xeno Initiative Discord](https://discord.gg/bqmDxdm).
 
 - You don't need the message from Salvation to be able to participate.
 - You don't need previous participation with Salvation events to participate.
 - No specific "amount of medicines" required / commanders.
 - The gauss will be obtainable later even if you didn't participate.
 - You will be able to get as many "hammer gauss" as you want eventually.
+
+![](https://cdn.discordapp.com/attachments/625989888432537611/888450639967965184/unknown.png) ![](https://cdn.discordapp.com/attachments/625989888432537611/888450754115952650/unknown.png) ![](https://cdn.discordapp.com/attachments/625989888432537611/888450900094517308/unknown.png) ![](https://cdn.discordapp.com/attachments/625989888432537611/888451081028390942/unknown.png)
