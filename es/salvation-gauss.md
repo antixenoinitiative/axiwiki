@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-09-17T15:42:13.928Z
 ---
 
-# Salvation Gauss Cannons
+# Cañón Gauss de Salvation
 Salvation Gauss Cannons are a modified version of the Guardian Gauss Cannon, these will be available as part of the Salvation Storyline (and in the future) in elite.
 
 The weapons are first mentioned in a message from Salvation on 17th Sept 3307:
