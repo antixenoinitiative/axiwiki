@@ -1,8 +1,8 @@
 ---
 title: Thargoid Shields
-description: Thargoid Interceptors can generate powerful shields that can absorb large amounts of damage. These shields can appear multiple times and can be very tough.
+description: Explanation of Thargoid Shields and related mechanics
 published: true
-date: 2021-06-17T00:56:22.011Z
+date: 2021-09-19T11:14:10.690Z
 tags: combat, thargoids, interceptors, shields
 editor: markdown
 dateCreated: 2021-06-17T00:54:20.812Z
