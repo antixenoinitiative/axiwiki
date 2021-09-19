@@ -1,8 +1,8 @@
 ---
 title: Thargoide Schilde
-description: Thargoid-Interceptoren können mächtige Schilde erzeugen, die grosse Mengen an Schaden absorbieren können. Diese Schilde können mehrfach auftreten und sehr zäh sein.
+description: Explanation of Thargoid Shields and related mechanics
 published: ja
-date: 2021-06-17T00:56:22.011Z
+date: 2021-09-19T11:14:10.690Z
 tags: Gefect, Thargoids, Interceptors, Schilde
 editor: markdown
 dateCreated: 2021-06-17T00:54:20.812Z
