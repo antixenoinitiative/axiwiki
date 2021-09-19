@@ -1,8 +1,8 @@
 ---
 title: Weapons
-description: Deatils and how-to obtain Anti-Xeno Weaponry
+description: Detailed breakdown of Anti-Xeno Weaponry
 published: true
-date: 2021-09-19T11:10:28.473Z
+date: 2021-09-19T11:10:48.357Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
