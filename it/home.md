@@ -2,8 +2,8 @@
 title: Home
 description: Benvenuti nella Wiki della Anti Xeno Initiative. Il tuo riferimento per il combattimento Anti-Xeno.
 published: true
-date: 2021-09-10T01:17:00.036Z
-tags:
+date: 2021-09-19T07:56:05.682Z
+tags: admin
 editor: markdown
 dateCreated: 2021-06-08T12:40:49.911Z
 ---
