@@ -1,8 +1,8 @@
 ---
 title: Odyssey Modifizieren
-description: Leitfaden zum modifizieren von Anzügen und Waffen für zu Fuß und bezüglich den Materialien, die dafür nötig sind
+description: Guide to engineering suits and on-foot weapons
 published: true
-date: 2021-08-29T18:55:42.652Z
+date: 2021-09-19T11:12:31.337Z
 tags: Engineering, Guide
 editor: markdown
 dateCreated: 2021-06-10T12:19:05.577Z
