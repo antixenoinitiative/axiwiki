@@ -1,8 +1,8 @@
 ---
 title: Speedrun Schiffsausstattungen
-description: Es gibt mehrere Unterschiede zwischen klassischen AX-Ausstattungen und denen zum Speedrunnen - der Hauptunterschied liegt in der Überlebensfähigkeit
+description: Ship builds designed for killing Thargoids quickly
 published: true
-date: 2021-06-10T03:53:16.987Z
+date: 2021-09-19T11:09:29.773Z
 tags: builds, outfitting, speedrunning
 editor: markdown
 dateCreated: 2021-06-10T03:49:40.037Z
