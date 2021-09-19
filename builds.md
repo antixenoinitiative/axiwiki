@@ -1,13 +1,12 @@
 ---
 title: Recommended Builds
-description: Anti-Xeno Ship Builds
+description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2021-06-23T10:01:06.084Z
+date: 2021-09-19T11:07:39.839Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
 ---
-
 
 # Recommended Builds
 Thargoid Hunting requires specialised ship builds as Thargoids have special resistances and deal special damage types that will typically cause issues on any standard combat build. As such, we have put together the following guide to help you make the correct decisions to lead you towards building the most effective vessel for hunting down alien ships. These ship builds are designed to give you a balance of firepower and survivability, while also being forgiving enough to make a few mistakes.
