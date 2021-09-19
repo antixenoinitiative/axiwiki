@@ -1,8 +1,8 @@
 ---
 title: Speedrun Builds
-description: There are several differences between a general-purpose AX build and a speedrunner - they key difference being the focus of survivability and versatility in general builds
+description: Ship builds designed for killing Thargoids quickly
 published: true
-date: 2021-06-10T03:53:16.987Z
+date: 2021-09-19T11:09:29.773Z
 tags: builds, outfitting, speedrunning
 editor: markdown
 dateCreated: 2021-06-10T03:49:40.037Z
