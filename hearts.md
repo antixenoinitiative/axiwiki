@@ -1,8 +1,8 @@
 ---
 title: Thargoid Hearts
-description: All Thargoids have a specific number of internal modules known as hearts, these grant the Thargoid Interceptor very fast hull regeneration.
+description: Explanation of Thargoid Hearts and related mechanics
 published: true
-date: 2021-06-17T00:35:52.830Z
+date: 2021-09-19T11:13:43.707Z
 tags: combat, thargoids, interceptors, hearts
 editor: markdown
 dateCreated: 2021-06-17T00:35:26.084Z
