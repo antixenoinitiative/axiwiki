@@ -1,8 +1,8 @@
 ---
 title: Thargoid Herzen
-description: Alle Thargoids haben eine bestimmte Anzahl von internen Modulen, die als Herz bekannt sind, diese erlauben dem Interceptor seine Leben sehr schnell zu regenerieren.
+description: Explanation of Thargoid Hearts and related mechanics
 published: true
-date: 2021-06-17T00:35:52.830Z
+date: 2021-09-19T11:13:43.707Z
 tags: Gefecht, Thargoids, Interceptors, Herzen
 editor: markdown
 dateCreated: 2021-06-17T00:35:26.084Z
