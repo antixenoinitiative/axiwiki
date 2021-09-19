@@ -1,8 +1,8 @@
 ---
 title: Odyssey Engineering
-description: Guide to engineering suits and on-foot weapons, and on the materials required to acquire them
+description: Guide to engineering suits and on-foot weapons
 published: true
-date: 2021-08-29T18:55:42.652Z
+date: 2021-09-19T11:12:31.337Z
 tags: engineering, guide
 editor: markdown
 dateCreated: 2021-06-10T12:19:05.577Z
