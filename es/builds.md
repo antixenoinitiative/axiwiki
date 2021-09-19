@@ -1,13 +1,12 @@
 ---
 title: Construcciones Recomendadas
-description: Construcciones de Naves Anti-Xeno
+description: Recommended Anti-Xeno Ship Builds
 published: verdadero
-date: 2021-06-23T10:01:06.084Z
+date: 2021-09-19T11:07:39.839Z
 tags: construcciones
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
 ---
-
 
 # Construcciones Recomendadas
 La Cacería de Thargoides requiere construcciones especializadas de naves, ya que los Thargoides tienen resistencias especiales y causan daños especiales que normalmente causarán problemas en cualquier construcción de combate estándar. Como tal, hemos elaborado la siguiente guía para ayudarlo a tomar las decisiones correctas que lo guiarán hacia la construcción de la nave más efectiva para cazar naves alienígenas. Estas construcciones de naves están diseñadas para brindarle un equilibrio de potencia de fuego y capacidad de supervivencia, al mismo tiempo que son lo suficientemente indulgentes como para cometer algunos errores.
