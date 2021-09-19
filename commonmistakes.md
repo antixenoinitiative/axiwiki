@@ -1,8 +1,8 @@
 ---
 title: Common Mistakes
-description: Frequently made mistakes to avoid when hunting Thargoids
+description: Common mistakes and misconceptions to avoid when hunting Thargoids
 published: true
-date: 2021-09-19T11:11:16.727Z
+date: 2021-09-19T11:11:33.936Z
 tags: builds, outfitting, engineer
 editor: markdown
 dateCreated: 2021-06-10T07:16:26.785Z
