@@ -2,7 +2,7 @@
 title: Salvation Gauss Cannons
 description: Everything we currently know about the Salvation Modified Guardian Gauss Cannons
 published: true
-date: 2021-09-17T15:59:35.891Z
+date: 2021-09-19T12:23:55.239Z
 tags: builds, weapons, guardians
 editor: markdown
 dateCreated: 2021-09-17T15:42:13.928Z
@@ -25,21 +25,37 @@ Las armas se mencionan por primera vez en un mensaje del Salvation el 17 de Sept
 
 Este mensaje fue enviado a un puñado de comandantes en el juego. Los criterios actuales para recibir este mensaje son desconocidos.
 
+A second announcement was made from The Heart of Taurus Megaship on the 19th of September 3307
+
+> SYSTEM BROADCAST FROM HEART OF TAURUS MEGASHIP A message from Taurus Mining Ventures to all ships in the Pegasi Sector ON-S b4-8 system.
+> 
+> This is Captain Chae-Won Lee, commanding the Heart of Taurus. Our company has been Contracted by Salvation to spearhead an operation against the Thargoids.
+> 
+> All independent pilots are requested to dock with this Megaship. to collect as many units of basic medicines as possible. The cargo needs to be delivered to either of the rescue ships in the Corns. System. It is Imperative that these deliveries are made before Monday me 20th of September.
+> 
+> These commodities are registered as medicinal goods to minimize inspection by the Cornsar authorities. but In truth contain advanced technical components. Individually the shipments have little value, but sufficient quantities of them will enable Salvation's prototype anti-xeno weapon to become operational.
+> 
+> Taurus Mining Ventures has been authorized to reward those who support this initiative. Providing you have delivered the requested cargo. you will be granted entry to the permit-locked Mbooni system on Thursday the 23rd of September.
+> 
+> A modified Class Two Guardian Gauss Cannon, which has increased capacity and burst fire but reduced optimal range, will be offered as payment This will be waiting for you in storage at our sister ship, the Bright Sentinel.
+> 
+> On behalf of Salvation, I wish you good luck.
+
 ## Especificaciones
 
-❓ Actualmente Desconocido ❓
+❓ Currently Unknown ❓
 
-> ...Cañon Gauss Guardián modificado con **capacidad aumentada** and **disparo de ráfaga** pero **rango optimo reducido**.
+> ...modified Class Two Guardian Gauss Cannon with **increased capacity** and **burst fire** but **reduced optimal range**.
 
 ## Cómo conseguir
 
-Transporte de Medicinas Básicas (Cantidad no especificada) de la meganave **Heart of Taurus** en **Pegasi Sector ON-S b4-8** a CUALQUIER meganave de Rescate en **Cornsar** antes del lunes 20 de septiembre 3307.
+Transport Cargo of Basic Medicines (Unspecified Amount) from the **Heart of Taurus** Megaship in **Pegasi Sector ON-S b4-8** to ANY of the Rescue Megaships in **Cornsar** before Monday 20th September 3307.
 
-Entonces podrás recolectar el Módulo de **Bright Sentinel** en **Mbooni** el jueves 23 de septiembre 3307.
+You will then be able to collect the Module from **the Bright Sentinel** in **Mbooni** on Thursday 23rd of September 3307.
 
 ## Notas de Frontier
 
-La siguiente información se extrae de las discusiones con el Community Manager Zac en el [Discord de AntiXeno Initiative](https://discord.gg/bqmDxdm).
+The following information is taken from discussions with Community Manager Zac in the [Anti-Xeno Initiative Discord](https://discord.gg/bqmDxdm).
 
 - No necesitas el mensaje del Salvation para poder participar.
 - No necesitas participación previa en los eventos del Salvation para participar.
