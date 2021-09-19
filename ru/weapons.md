@@ -1,8 +1,8 @@
 ---
 title: Оружия
-description: Оружия Стражей являются наиболее эффективными АХ оружиями в игре (особенно Гаусс Стражей) в основном неприменимыми для всех видов АХ оружия человечества.
+description: Detailed breakdown of Anti-Xeno Weaponry
 published: Опубликовано
-date: 2021-06-15T04:13:36.575Z
+date: 2021-09-19T11:10:48.357Z
 tags: аутфиттинг, модули
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
