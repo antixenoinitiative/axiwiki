@@ -12,7 +12,7 @@ dateCreated: 2021-06-10T04:04:18.230Z
 There are a multitude of different Anti-Xeno weapons in the game, and they come in two main variants:
 
 - **Human AX Weapons** (AX Multi-Cannon, AX Missile Rack, Advanced Multi-Cannon, Advanced Missile Rack, Remote Release Flak Launcher)
-- **Guardian Weapons** (Guardian Gauss Cannon, Guardian Plasma Charger, Guardian Shard Cannon)
+- **Guardian Weapons** (Guardian Gauss Cannon, Guardian Plasma Charger, Guardian Shard Cannon, and their Engineered Variants)
 
 Guardian weapons are the most effective AX weapons in the game (specifically the Guardian Gauss Cannon) with human AX weapons being mostly unusable (with the exception of the Remote Release Flak Launcher).
 
@@ -74,6 +74,22 @@ Note: Does not count against the 4 experimental weapon limit.
 
 Similar to the Advanced Multi-Cannon, these are an engineerable clone of the normal Missile Rack which requires synth to deal AX damage. Due to their extreme splash damage, synth requirement, and lack of weapon number limit, they are banned from use in AXI ranks. 
 
-**Recommendation:** Use at own discretion (Cannot use without synth, Banned from progression kills)
+**Recommendation:** Use at own discretion (Cannot use without synth, Banned from use in AXI ranks)
 
 Note: Does not count against the 4 experimental weapon limit.
+
+## Focused Long-Range High-Penetration Guardian Shard Cannon (Class Two)
+
+An extremely powerful version of the normal shard cannon, able to reliably hit interceptors from outside 3km range. It functions very differently, having near-hitscan shot speed and extremely long range. Due to this and the fact that it is not obtainable for most CMDRs, it is banned from use in ranks.
+
+**Recommendation:** Use at own discretion (Banned from use in AXI ranks)
+
+Note: Cannot currently be obtained unless you participated in the initial CG
+
+## Hi-Cap Burst Fire Guardian Gauss Cannon (Class Two)
+
+Another one of Salvation's pet projects, the stats for this weapon remain to be seen.
+
+**Recommendation:** None yet, although it is expected to be powerful.
+
+Note: See [Salvation Gauss](https://wiki.antixenoinitiative.com/es/salvation-gauss) for more information
