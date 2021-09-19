@@ -2,7 +2,7 @@
 title: Salvation Gauss Cannons
 description: Everything we currently know about the Salvation Modified Guardian Gauss Cannons
 published: true
-date: 2021-09-19T12:21:23.544Z
+date: 2021-09-19T12:22:34.043Z
 tags: builds, weapons, guardians
 editor: markdown
 dateCreated: 2021-09-17T15:42:13.928Z
@@ -28,7 +28,7 @@ This message was sent to a handful of commanders in-game. The current criteria t
 A second announcement was made from The Heart of Taurus Megaship on the 19th of September 3307
 
 > SYSTEM BROADCAST FROM HEART OF TAURUS MEGASHIP
-> A message from Taurus Mining Ventures to all ships in the Pepsi Senior ON-S b4-8 system.
+> A message from Taurus Mining Ventures to all ships in the Pegasi Sector ON-S b4-8 system.
 > 
 > This is Captain Chae-Won Lee, commanding the Heart of Taurus. Our company nas been Contracted by Salvation to spearhead an operation against the Thargoids.
 > 
