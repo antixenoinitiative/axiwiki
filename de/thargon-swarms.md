@@ -1,8 +1,8 @@
 ---
 title: Thargon Schwärme
-description: Dieses Artikel erklärt detailliert die Mechanik und das Verhalten von Thargon Schwärmen, die von Thargoid Interceptors eingesetzt werden.
+description: Detailed behaviour and mechanics of Thargon Swarms
 published: ja
-date: 2021-06-15T12:00:46.639Z
+date: 2021-09-19T11:13:03.841Z
 tags: thargoids, interceptors, schwärme
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
