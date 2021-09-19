@@ -1,8 +1,8 @@
 ---
 title: Thargoid-Spezialangriffe
-description: Nach dem Zerstören eines jeden Herzens eines Thargoid Interceptors treten verschiedene Spezialangriffe auf. Hier eine Zusammenfassung aller Spezialangriffe und wann sie auftreten.
+description: Detailed explanation of Thargoid special attacks and abilities
 published: true
-date: 2021-06-17T01:08:00.506Z
+date: 2021-09-19T11:14:41.284Z
 tags: Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-17T01:05:26.462Z
