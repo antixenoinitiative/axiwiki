@@ -1,8 +1,8 @@
 ---
 title: Таргонские рои
-description: Эта страница детально объясняет механики и поведение роя.
+description: Detailed behaviour and mechanics of Thargon Swarms
 published: true
-date: 2021-06-15T12:00:46.639Z
+date: 2021-09-19T11:13:03.841Z
 tags: thargoids, interceptors, swarms
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
