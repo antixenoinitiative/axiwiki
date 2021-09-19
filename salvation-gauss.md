@@ -2,7 +2,7 @@
 title: Salvation Gauss Cannons
 description: Everything we currently know about the Salvation Modified Guardian Gauss Cannons
 published: true
-date: 2021-09-19T12:22:34.043Z
+date: 2021-09-19T12:23:55.239Z
 tags: builds, weapons, guardians
 editor: markdown
 dateCreated: 2021-09-17T15:42:13.928Z
@@ -30,17 +30,17 @@ A second announcement was made from The Heart of Taurus Megaship on the 19th of 
 > SYSTEM BROADCAST FROM HEART OF TAURUS MEGASHIP
 > A message from Taurus Mining Ventures to all ships in the Pegasi Sector ON-S b4-8 system.
 > 
-> This is Captain Chae-Won Lee, commanding the Heart of Taurus. Our company nas been Contracted by Salvation to spearhead an operation against the Thargoids.
+> This is Captain Chae-Won Lee, commanding the Heart of Taurus. Our company has been Contracted by Salvation to spearhead an operation against the Thargoids.
 > 
-> All independent pilots are requested to dock with this Megashlp. to collect as many units of basic medicines as possible. The cargo needs to be dellVered to either of the rescue ships in the Corns. System. It is Imperative that these deliveries are made before Monday me 20th of September.
+> All independent pilots are requested to dock with this Megaship. to collect as many units of basic medicines as possible. The cargo needs to be delivered to either of the rescue ships in the Corns. System. It is Imperative that these deliveries are made before Monday me 20th of September.
 > 
-> These commodities are registered as medicinal goods to minimise inspection by the Cornsar autherlties. but In truth contain advanced technical components. Individually the shipments have little value, but sufncient quantities of them will enable Salvation's prototype anti-xeno weapon to become operational.
+> These commodities are registered as medicinal goods to minimize inspection by the Cornsar authorities. but In truth contain advanced technical components. Individually the shipments have little value, but sufficient quantities of them will enable Salvation's prototype anti-xeno weapon to become operational.
 > 
-> Taurus Mining Ventures has been authorised to reward those who support this initiative. Providing you have delivered the requested cargo. you will be granted entry to the permit-locked Mbooni system on Thursday the 23rd of September. 
+> Taurus Mining Ventures has been authorized to reward those who support this initiative. Providing you have delivered the requested cargo. you will be granted entry to the permit-locked Mbooni system on Thursday the 23rd of September.
 > 
-> A modified Class Two Guardian Gauss Gannon, which has increased capacity and burst fire but reduced optimal range, will be offered as payment This will be waiting for you in storage at our sister ship, the Bright Sentinel.
+> A modified Class Two Guardian Gauss Cannon, which has increased capacity and burst fire but reduced optimal range, will be offered as payment This will be waiting for you in storage at our sister ship, the Bright Sentinel.
 > 
-> On behalf of Salvation, I wish you good luck. 
+> On behalf of Salvation, I wish you good luck.
 
 ## Specifications
 
