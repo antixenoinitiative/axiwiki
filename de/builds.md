@@ -1,13 +1,12 @@
 ---
 title: Empfohlene Builds
-description: Anti-Xeno Schiffsbauten
+description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2021-06-23T10:01:06.084Z
+date: 2021-09-19T11:07:39.839Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
 ---
-
 
 # Empfohlene Builds
 Die Thargoid-Jagt erfordert spezialisierte Schiffsbauten, da Thargoids spezielle Resistenzen haben und besondere Typen an Schaden machen, die normalerweise ein Problem für normale Kampf Builds darstellen. Deshalb haben wir folgenden Leitfaden erstellt, um dir dabei zu helfen die richtigen Entscheidungen zu treffen, beim Bau eines möglichst effektiven Schiffes für die Thargoid jagt. Diese Builds sind so designt, dass sie ein Gleichgewicht zwischen Feuerkraft und Überlebensfähigkeit, währeddessen man sogar noch Platz für Fehler hat.
