@@ -1,8 +1,8 @@
 ---
 title: Les cœurs thargoids
-description: Tous les thargoids ont un certain nombre de modules internes connus sous le nom de cœurs. Ils permettent aux intercepteurs Thargoid une régénération de coque très rapide.
+description: Explanation of Thargoid Hearts and related mechanics
 published: true
-date: 2021-06-17T00:35:52.830Z
+date: 2021-09-19T11:13:43.707Z
 tags: combat, thargoids, interceptors, hearts
 editor: markdown
 dateCreated: 2021-06-17T00:35:26.084Z
