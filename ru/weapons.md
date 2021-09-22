@@ -12,7 +12,7 @@ dateCreated: 2021-06-10T04:04:18.230Z
 В игре есть достаточно много различных АХ оружий, их два основных варианта:
 
 - **Человеческое Анти-Ксено оружие** (Многоствольное орудие АИ, Блок Ракет АИ, Продвинутое Многоствольное оружие, Продвинутый Ракетный Лоток, Установка со снарядами дистанционного подрыва)
-- **Оружия Стражей** (Гаусс Стражей, Ускоритель плазмы Стражей, Осколочное орудие Стражей)
+- **Guardian Weapons** (Guardian Gauss Cannon, Guardian Plasma Charger, Guardian Shard Cannon, and their Engineered Variants)
 
 Оружия Стражей наиболее эффективные АХ оружия в игре (особенно Гаусс Стражей) в основном неприменимы с АХ оружием человечества (с исключением в виде Установки со снарядами с дистанционным подрывом).
 
@@ -74,6 +74,22 @@ dateCreated: 2021-06-10T04:04:18.230Z
 
 Подобно Продвинутому Многоствольному Орудию, это улучшаемый у инженера клон обычного ракетного лотка, который требует синтез специальных боеприпасов, чтобы нанести АХ урон. Из-за их экстремального урона по площади, необходимость в синтезе и участие в лимите на количество оружия, они исключены из использования в рангах AXI.
 
-**Рекомендация:** Использовать по своему усмотрению (Не может быть использовано без синтеза боеприпасов, Исключено из прогресса убийств)
+**Recommendation:** Use at own discretion (Cannot use without synth, Banned from use in AXI ranks)
 
 Примечание: Не считается в лимите на 4 экспериментальных оружия на один корабль.
+
+## Focused Long-Range High-Penetration Guardian Shard Cannon (Class Two)
+
+An extremely powerful version of the normal shard cannon, able to reliably hit interceptors from outside 3km range. It functions very differently, having near-hitscan shot speed and extremely long range. Due to this and the fact that it is not obtainable for most CMDRs, it is banned from use in ranks.
+
+**Recommendation:** Use at own discretion (Banned from use in AXI ranks)
+
+Note: Cannot currently be obtained unless you participated in the initial CG
+
+## Hi-Cap Burst Fire Guardian Gauss Cannon (Class Two)
+
+Another one of Salvation's pet projects, the stats for this weapon remain to be seen.
+
+**Recommendation:** None yet, although it is expected to be powerful.
+
+Note: See [Salvation Gauss](https://wiki.antixenoinitiative.com/es/salvation-gauss) for more information
