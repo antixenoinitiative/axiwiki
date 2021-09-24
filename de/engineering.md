@@ -62,11 +62,13 @@ HGE Looping ist eine zeiteffiziente Methode um an Hergestellte Materialien von K
 
 Der Inhalt eines Signals werden von der Zugehörigkeit des Systems (Föderation/Imperium) und dem Status von kleineren Fraktionen (Krieg, Seuche, etc.) bestimmt. HGEs findet man in Systemen mit solchen Bedingungen. Besuche[ED Materialien](https://sites.google.com/view/ed-materials/ed-materials/manufactured-items) für mehr Informationen bezüglich Stati und deren Materialien.
 
-Falls du einen schlechten PC hast (oder du das ganze noch schneller machen möchtest), kannst du die Vanilla (Nicht-Horizon) Version des Spiels starten, da es schneller lädt.
+You can use the [min-ed-launcher](https://github.com/Rfvgyhn/min-ed-launcher#features)'s auto-restart feature to save some time on each game restart.
+
+If you have a weak PC (or want to speed up the grind even more) you can load the vanilla (non-horizon) version of the game, as it loads faster.
 
 # Verschlüsselte Materialien
 ## Jamesons abgestürzte Cobra
-Am Ort von Jamesons gestrandeter Cobra kann man eine Sammlung von wertvollen Materialien finden, indem man die kleinen roten Sender scannt, die um dem Schiff herum verteilt sind. Nachdem man sich aus und einloggt werden diese sich zurücksetzten und man kann das wiederholen, bis die Materialien voll sind.
+You can find a collection of high grade encoded materials by travelling to Jameson's crashed cobra and scanning the small red beacons surrounding the crash site, once you log out/in these will refresh and you can continue to do this until your materials are full.
 
 1. Rüste einen SRV und Detail-Oberflächenscanner aus
 1. Fliege zu HIP 12099 Planet 1B (-54.3803, -50.3575)
@@ -78,21 +80,21 @@ Am Ort von Jamesons gestrandeter Cobra kann man eine Sammlung von wertvollen Mat
 
 # Andere Materialien
 ## Sensor Fragment
-Benötigt um den Ingenieur Professor Palin freizuschalten. Sensorfragmente können von Thargoid Scavenger oder zerstörten Thargoid Sensoren gesammelt werden. Thargoid Sensoren kann man sehr nah an Professor Palins Labor bei einem kürzlich entdeckten, abgestürtzten Schiff finden.
+Required to unlock the Engineer Professor Palin, sensor fragments can be gathered from Thargoid Scavengers or by destroying Thargoid Sensors. You can find Thargoid Sensor fragments very close to Professor Palins lab at a recently discovered crashed ship at the following location.
 
-**System**: Solati **Planet**: Halla **Koordinaten**: -70.9912 x -156. 383 **Gegenstände**: 1 Thargoid-Sensor, 1 Frachtgestell das eines der folgenden (V, Cr, Zr, Zn, Zn, Mn, Sb) fallen lässt, Ship Data Core.
+**System**: Solati **Body**: Halla **Coordinates**: -70.9912 x -156.4383 **Stuff**: 1 Thargoid Sensor, 1 Cargo Rack which drops one of the following (V, Cr, Zr, Zn, Mn, Sb), Ship Data Core.
 
-Dies ist das nächstgelegenste System zu Arque (Palin), um Sensorfragmente in weniger als 28 LYs Entfernung zu erhalten. Zerstöre den Sensor, um die Fragmente zu sammeln. Du kannst an diesem Standort neustarten, um einen weiteren zu sammeln.
+This is the closest system to Arque (Palin) to get Sensor Fragments at less than 28 LYs distance. Destroy the Sensor to gather the fragments. You can relog at this site to spawn another.
 
-Danksagung an CMDR FlyBoyXD der FRC.
+Credit to CMDR FlyBoyXD of the FRC.
 
 # Handel mit Materialien
-Wenn du nicht alle Materialien selbst sammeln konntest, kannst du sie mit Verlust gegen andere Materialien des selben Typs eintauschen. Verschiedene Materialhändler handeln mit unterschiedlichen Materialtypen wie Daten, Rohmaterial und Hergestelltem Material.
+If you are not able to obtain the materials you need directly, it is possible to trade other materials of the same type at a material trader for a cost. Different material traders will handle different material types such as Data, Raw and Manufactured.
 
-Deinen nächsten Händler kannst du mit [diesem Tool](https://inara.cz/galaxy-nearest/25)finden.
+You can find the nearest trader with [this tool](https://inara.cz/galaxy-nearest/25).
 
-Beim Tausch machst du immer etwas Verlust. Man verliert noch viel mehr wenn man zwischen Kategorien tauscht.
+When trading you will always lose some value. You will lose even more if you trade across different categories.
 
-**Idealerweise will man möglichst hochwertige Materialien sammeln und nach unten handeln.**
+**Ideally you want to gather materials at the highest grade possible and trade downwards.**
 
 ![convert1.png](/img/convert1.png) ![convert2.png](/img/convert2.png)
