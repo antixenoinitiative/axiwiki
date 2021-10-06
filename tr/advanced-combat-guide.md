@@ -71,7 +71,7 @@ Video: [Unlocking Engineers (Mühendisleri açmak - İngilizce) by CMDR Exigeous
 
 # Gemi ve Mühendisliğin Amacı
 - Verilen donanım ve mühendislik listesiyle elinizdeki donanımdan, mevcut olan mühendislik seçenekleriyle en etkin şekilde faydalanmayı sağlamak bu öğretinin temel noktasıdır. Mühendislerden tamamen faydalandığınız zaman Chieftain'in tüm kabiliyetlerine sahip olup, tüm Interceptor türleriyle etkin ve etkili çatışmaya girebilirsiniz.
-- Önerilen mühendislikle birlikte Chieftain'in minimum 500 m/s boost sürati, herhangi bir Interceptor türüne karşı fazlasıya yeterlidir. Basilisk hızı sebebiyle ek manevra gerektirir. Basilisk'le İlgili Dikkat Edilecek Hususlar kısmına göz atın.
+- Önerilen mühendislikle birlikte Chieftain'in minimum 500 m/s boost sürati, herhangi bir Interceptor türüne karşı fazlasıya yeterlidir. Basilisk hızı sebebiyle ek manevra gerektirir. Basilisk Hakkında Dikkat Edilecek Hususlar kısmına göz atın.
 
 - Kalkan yerine "Repair Limpet Controller" kullanılmasının amacı pilotların herhangi bir hata halinde gemilerini onarmalarına imkan sağlamaktır. Ayrıca Thargon Swarm, kalkanlı gemilere karşı daha fazla "phasing" hasarı (gövdeyi geçip, iç modüllere uygulanan hasar) uyguladığından kalkansız gemiler Swarm'a karşı biraz daha avantaj sahibidirler. Alınan hasara göre, özellikle üst seviye türlere karşı, Limpet "synthesize" etmek gerekebilir.
 
@@ -87,7 +87,7 @@ Video: [Unlocking Engineers (Mühendisleri açmak - İngilizce) by CMDR Exigeous
 
 - Eğer bir kalbi parçaladıktan sonraki sıcaklığınız 15%'in üzerindeyse heatsink kullanımı gerebilir. Uyku modu Bölüm VIII'de daha detaylı açıklanmıştır.
 
-# Savaş Başlangıcı/İlk Kalp Saldırısı ve Sonraki Kalp Çatışma Döngüsü
+# Savaş Başlangıcı/İlk Kalp Saldırısı ve Akabindeki Kalp Çatışma Döngüsü
 - Bir "Non-Human Signal Source" (NHSS) içindeki bir Thargoid Interceptor'üyle karşılaştıktan sonraki savaş başlangıcı Interceptor sizi taramayı bitirdikten sonra olmalıdır. Bunun amacı, eğer Xeno Scanner'ınız varsa sizin de aynı sürede Interceptor'ü taramanıza olanak sağlamaktır.
 -
 - Flight Assist'i kapatın ve Beam Laser ile saldırıyı başlatın. [Pip: 0-4-2]
@@ -104,37 +104,37 @@ Video: [Unlocking Engineers (Mühendisleri açmak - İngilizce) by CMDR Exigeous
 -
 - Heatsink'lerinizi, bir Kalbi parçalayana dek, COVAS'ınız "Heatsink Deployed" dedikçe ateşlemeye devam edin.
 -
-- Her Interceptor türünün kendi saldırı penceresi, yüzü size dönük saldırmaya devam ettiği süre, vardır ve bu sürede yörüngenizi korumanızı sağlayacaktır. Once outside of its attack run window the Interceptor will change direction and reset for its own attack run forcing you to have to adjust your orbit accordingly. Use of your thermal vent beam during this time may be recommended if you drift outside of your orbit envelope.
+- Her Interceptor türünün kendi saldırı penceresi (yüzü size dönük saldırmaya devam ettiği süre) vardır ve bu sürede yörüngenizi korumanızı sağlayacaktır. Bu saldırı penceresi sona erdiğinde Interceptor yön değiştirip kendi saldırı penceresini resetleyerek sizi yörüngenizi yeniden düzenlemeye zorlayacaktır. Bu süreçte yörüngenizin dışına çıktığınız takdirde yeniden toparlayana dek Thermal Vent Beam'inizi kullanarak sıcaklığınızı düşük tutmanız tavsiye edilebilir.
 -
-- Cyclops ≈30 Seconds -Basilisk & Medusa ≈26 Seconds -Hydra ≈20 Seconds
+- Cyclops ≈30 saniye -Basilisk & Medusa ≈26 saniye -Hydra ≈20 saniye
 -
-- Once the first heart is destroyed immediately switch back to your beam laser and begin cooling your ship while also attempting to gain a minimum distance of 3km (engaging reverse thrust) from the Interceptor. This is the time to set a pip into Systems to recharge systems capacitor from your use of heat sinks. [Pips at: 1-4-1]
+- İlk Kalp parçalandıktan sonra derhal Beam Laser'inize geçin ve geminizi soğutmaya başlayın. Bu sürede geri itiş uygulayarak minimum 3km mesafe açın. Bu süreçte SYS kısmına bir pip ekleyerek, heatsink kullanmaktan azalmış kapasitörü şarj edin. [Pip: 1-4-1]
 -
-- The first heart is when the Interceptor is the most aggressive with its lightning ability with which it will aggressively chase you down. To avoid the ability, continue applying your beam laser to the Interceptor and once it reaches a distance of 1.5km apply downward thrust and forward thrust while engaging your boost while attempting to keep your beam laser on target and keep more than 800m away from the Interceptor. (For subsequent hearts the Interceptor is not as aggressive and you can maintain your distance from it by adjusting your reverse and forward thrust.)
+- İlk Kalp, Interceptor'ün en saldırgan olduğu, sizi şimşek saldırısını kullanmak için takip ettiği aşamadır. Bundan kaçınmak için Beam Laser'inizi kullanmaya devam edin, 1.5km menzile ulaşınca aşağı ve ileri itiş uygularken boostlayın ve Laser'inizi hedefte tutmaya çalışın, Interceptor ile aranızda en az 800m mesafe bulundurun. (Sonraki Kalplerde Interceptor bu kadar saldırgan olmayacaktır, Kalp parçaladıktan sonraki uyku modunda mesafenizi yalnızca ileri ve geri itiş kullanarak kontrol edebilirsiniz.)
 -
-- This maneuver will allow you to do a half orbit around the Interceptor forcing it to change its momentum (and all Interceptors are slow at changing direction) and keeping you under the 15% heat threshold keeping the Interceptor in sleep mode (Section VII Thargoid Interceptor Sleep Mode)
+- Bu manevrayla Interceptor etrafında yarım yörünge kat ederek onu momentumunu değiştirmeye zorlarsınız (tüm Interceptor'ler çok yavaş yön değiştirir) ve sıcaklığınızı 15%'in altında tutup, Interceptor'ün uyku modunda kalmasını sağlarsınız. (Bölüm VII Thargoid Interceptor Uyku Modu)
 -
-- Begin reverse thrust away from the Interceptor while still applying your beam laser on target. [Pips at: 0-4-2]
+- Beam Laser'inizi hedefte tutarak geri itişle Interceptor'den uzaklaşmaya başlayın. [Pip: 0-4-2]
 -
-- Once the Interceptor begins launching its swarm you will want to maintain a distance of about 3.5km-6km until it launches its swarm fully and begin a 180 maneuver away from the Interceptor and begin boosting away. Use this time now to begin any repairs or synthesis if needed.
+- Interceptor Swarm'unu salmaya başladığında 3.5 - 6 km menzilde olmalısınız ve Swarm tamamen salındıktan sonra arkanızı Interceptor'e dönerek boostlayak uzaklaşın. Bu süreyi onarım ya da sentez yapmak için kullanabilirsiniz.
 -
-- Begin the initial swarm engagement stated above.
+- Yukarıda daha önce belirtilen Swarm saldırısını başlatın.
 -
-- This time the Interceptor will have a shield up (Shields goes up after the first heart is destroyed) and it will continue to decay over time.
+- Bu sefer Interceptor'ün kalkanı olacak (Kalp parçalandıktan sonra kalkan kazanır) ve bu kalkan zamanla eriyip yok olacaktır.
 -
-- To maximize the time you have for heart destruction you can decrease the shield uptime by applying your beam laser to the Interceptor degrading its shields faster.
+- Kalp parçalamak için daha fazla süre kazanmak isterseniz Beam Laser'inizi uygulayarak Interceptor'ün kalkanını daha hızlı eritebilirsiniz.
 -
-- Once the shields are down begin the cold orbit cycle listed above as part of the combat loop for all the subsequent hearts. (Using Gauss cannons against the shields is a waste of ammo especially when using precious premium synthesis)
+- Kalkan düştüğünde daha önce belirtilen cold orbit döngüsüne başlayın ve geri kalan tüm Kalpler için uygulayın. (Kalkanlara karşı Gauss Cannon kullanmak mermi israfıdır, özellikle de premium mermi sentezlediğiniz savaşlarda.)
 -
-- Begin your next combat loop with pips set at 0-2-4
+- Sıradaki çatışma döngünüze pipler 0-2-4 konumundayken başlayın.
 -
-- Another similar tactic to the cold boost would be to engage silent running and perform your boost maneuver 180 degrees past the Basilisk. (The options taken will be dependent upon the commander.) The purpose of this maneuver is to allow the commander to save a heat sink and achieve the same outcome while taking advantage of the shieldless build.
+- Soğuk boosta benzer başka bir taktik ise "silent running" uygulayarak Basilisk'in yanından boostlayıp geçmektir. (Kullanılacak seçenekler pilotun kararına kalmıştır.) Bu manevranın amacı pilotun heatsink harcamadan kalkansız geminin avantajını kullanarak aynı sonuca ulaşmasını sağlamaktır.
 
-## Basilisk'le İlgili Dikkat Edilecek Hususlar
-The Basilisk variant has a top speed of 530m/s. The doctrine chieftain can not outrun the Basilisk if followed to the fitting. A required maneuver of a cold boost (engaging a heat sink before boosting 180 degrees past the Basilisk) will allow you to gain valuable distance from the Basilisk to allow you to synthesize more heat sinks or ammo or perform any repairs to your ship before committing to your next combat loop. The Basilisk does not do well when it has to adjust its momentum from one direction to the opposite. Do take in mind this will put you in the path of the swarm also triggering its agitated state if you fly through it.
+## Basilisk Hakkında Dikkat Edilecek Hususlar
+Basilisk 530 m/s hıza çıkabilmektedir. Bu öğretideki Chieftain, eğer önerilen donanım kullanıldıysa Basilisk'ten hızlı kaçamaz. Gereken bir manevra olarak soğuk boost (heatsink ateşleyip Basilisk'in yanından boostlayıp geçmek) Basilisk'le aranızda değerli bir mesafe açarak, gerekli sentezleri ve/veya onarımları yapmanıza olanak tanıyacaktır. Basilisk bir yönde tam hız gidiyorsa zıt yönüne dönerken zorlanır. Genel olarak Interceptorler çok süratli gidebilseler de bu sürati kazanmaları, fren yapmaları ve yön değiştirmeleri çok zaman alır. Unutmayın ki bu manevra sizi Swarm'ın uçuş yoluna sokabilir ve eğer Swarm'ın içinden geçecek olursanız Swarm'ın "huzursuz" durumunu tetikleyebilirsiniz.
 
 # Swarm Yönetimi
-The purpose of engaging the swarm first on the initial engagement is to remove the “banked” swarm of the Interceptor from the equation. Whenever an Interceptor is engaged and the heart is destroyed first, the banked swarm will then launch forcing the commander to have to deal with a second swarm. Removing the banked swarm from the equation will allow the commander to efficiently use his time to focus on all subsequent hearts.
+İlk önce Swarm'a saldırmanın amacı, Interceptor'deki depolanan Swarm'ı olaya dahil etmemektir. İlk önce Interceptor'e saldırıp Kalbini parçalarsanız, ilk Swarm'ın üstüne bir de depolanmış Swarm'ını salarak sizi iki Swarm'la uğraşmaya itecektir. Depolanmış Swarm'ın olaya dahil oluşunu engellemek Kalp parçalamalar sonrasındaki zamanınızı daha iyi kullanmanıza ve kalan Kalplere odaklanmanıza yardımcı olacaktır.
 
 # Cold Orbit (Soğuk Yörünge) Amacı
 - The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
