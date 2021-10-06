@@ -9,11 +9,11 @@ dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
 # İleri Düzey Savaş Rehberi
-Bu öğretinin amacı yeni ya da tecrübeli pilotlara tüm Thargoid Interceptor türlerine karşı etkili bir savaş stili ve gemi donanımı sunmaktır. Bu öğretinin bedeli, herhangi bir pilotun herhangi bir Thargoid Interceptor'le savaşa girebilmesi için olabildiğince düşük tutulmuştur. Taktik ve manevralar da, Basilisk'in hızı dolayasıyla gereken ekstra bir manevra hariç, tüm Interceptor türleri için aynıdır.
+Bu öğretinin amacı yeni ya da tecrübeli kumandanlara tüm Thargoid Interceptor türlerine karşı etkili bir savaş stili ve gemi donanımı sunmaktır. Bu öğretinin bedeli, herhangi bir kumandanın herhangi bir Thargoid Interceptor'le savaşa girebilmesi için olabildiğince düşük tutulmuştur. Taktik ve manevralar da, Basilisk'in hızı dolayasıyla gereken ekstra bir manevra hariç, tüm Interceptor türleri için aynıdır.
 
-Bu öğretinin etkili olabilmesi için pilotların "flight assist off" uçuşlarına temel düzeyde hakim olması gerekmektedir. Bu öğreti, bir çok manevrayı imkansız kılacağı için "flight assist on" uçuşları için tasarlanmamıştır.
+Bu öğretinin etkili olabilmesi için kumandanların "flight assist off" uçuşlarına temel düzeyde hakim olması gerekmektedir. Bu öğreti, bir çok manevrayı imkansız kılacağı için "flight assist on" uçuşları için tasarlanmamıştır.
 
-Bu öğreti tekrar eden bir savaş stili etrafında şekillenmiştir. Temel olarak, tüm kalpler için (savaş başlangıcı hariç) aynı taktikleri tekrarlıyor olacaksınız. Bu da pilotların sürekli tekrar eden bu hareketlerde giderek ustalaşmasını sağlayacaktır.
+Bu öğreti tekrar eden bir savaş stili etrafında şekillenmiştir. Temel olarak, tüm Kalpler için (savaş başlangıcı hariç) aynı taktikleri tekrarlıyor olacaksınız. Bu da kumandanların sürekli tekrar eden bu hareketlerde giderek ustalaşmasını sağlayacaktır.
 
 Ayrıca bu öğreti "pip" yönetimine minimum gereksinim sağlar. Kalkansız bir gemi kullanacağınız için önceliklerinizi ve odağınızı başka yerlere verebilirsiniz.
 
@@ -52,7 +52,7 @@ Bu öğretinin merkezinde Chieftain vardır. Challenger da hardpoint'lerdeki ufa
 Not: Eğer Xeno Scanner tercih etmez de fazladan Heatsink Launcher alırsanız, düşük seviye Interceptor savaşlarında hiç heatsink "synthesize" etmeniz gerekmeyebilir.
 
 # Mühendislik (Engineering)
-Burada listelenen mühendislerle, giriş seviyesindeki pilotlar için gereken mühendisliği en alt seviyede tutmak ancak aynı zamanda daha deneyimli pilotların ileri düzey mühendislikle gemilerini en üst seviyeye çıkarabilmelerini sağlamak amaçlanmıştır. Gereken mühendisler aşağıda listelenmiştir:
+Burada listelenen mühendislerle giriş seviyesindeki kumandanlar için gereken mühendisliği en alt seviyede tutmak, ancak aynı zamanda da daha deneyimli kumandanların ileri düzey mühendislikle gemilerini en üst seviyeye çıkarabilmelerini sağlamak amaçlanmıştır. Gereken mühendisler aşağıda listelenmiştir:
 
 ## Minimum Mühendisler:
 - The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
@@ -73,19 +73,19 @@ Video: [Unlocking Engineers (Mühendisleri açmak - İngilizce) by CMDR Exigeous
 - Verilen donanım ve mühendislik listesiyle elinizdeki donanımdan, mevcut olan mühendislik seçenekleriyle en etkin şekilde faydalanmayı sağlamak bu öğretinin temel noktasıdır. Mühendislerden tamamen faydalandığınız zaman Chieftain'in tüm kabiliyetlerine sahip olup, tüm Interceptor türleriyle etkin ve etkili çatışmaya girebilirsiniz.
 - Önerilen mühendislikle birlikte Chieftain'in minimum 500 m/s boost sürati, herhangi bir Interceptor türüne karşı fazlasıya yeterlidir. Basilisk hızı sebebiyle ek manevra gerektirir. Basilisk Hakkında Dikkat Edilecek Hususlar kısmına göz atın.
 
-- Kalkan yerine "Repair Limpet Controller" kullanılmasının amacı pilotların herhangi bir hata halinde gemilerini onarmalarına imkan sağlamaktır. Ayrıca Thargon Swarm, kalkanlı gemilere karşı daha fazla "phasing" hasarı (gövdeyi geçip, iç modüllere uygulanan hasar) uyguladığından kalkansız gemiler Swarm'a karşı biraz daha avantaj sahibidirler. Alınan hasara göre, özellikle üst seviye türlere karşı, Limpet "synthesize" etmek gerekebilir.
+- Kalkan yerine "Repair Limpet Controller" kullanılmasının amacı kumandanların herhangi bir hata halinde gemilerini onarmalarına imkan sağlamaktır. Ayrıca Thargon Swarm, kalkanlı gemilere karşı daha fazla "phasing" hasarı (gövdeyi geçip, iç modüllere uygulanan hasar) uyguladığından kalkansız gemiler Swarm'a karşı biraz daha avantaj sahibidirler. Alınan hasara bağlı olarak, özellikle üst seviye türlere karşı, Limpet sentezlemek gerekebilir.
 
-- 3 adet "Heatsink Launcher (Ammo capacity)", fazlasıyla heatsink sağlayarak, tüm türlere karşı fazlasıyla "cold orbit" zamanı sağlar. Deneyimli pilotlar, kalp başına; Cyclops'a karşı 1-2, Basilisk'e karşı 2-3, Medusa'ya karşı 3-5 ve Hydra'ya karşı tüm 9 heatsink'i kullanabilir.
+- 3 adet "Heatsink Launcher (Ammo capacity)", bol miktarda heatsink sağlayarak, tüm türlere karşı fazlasıyla "cold orbit" zamanı sağlar. Deneyimli kumandanlar Kalp başına; Cyclops'a karşı 1-2, Basilisk'e karşı 2-3, Medusa'ya karşı 3-5 ve Hydra'ya karşı tüm 9 heatsink'i kullanabilir.
 
-- Deneyimsiz pilotlar için ise bu ek heatsinkler, daha fazla hata payına sahip olmalarını sağlayacaktır.
+- Deneyimsiz kumandanlar için ise bu ek heatsinkler, daha fazla hata payına sahip olmalarını sağlayacaktır.
 
-- Heatsink sentezleme gereksinimi savaşılan Interceptor türü ve pilot deneyimine bağlı olarak değişiklik gösterir.
+- Heatsink sentezleme gereksinimi, savaşılan Interceptor türü ve kumandan deneyimine bağlı olarak değişiklik gösterir.
 
-- Guardian Gauss Cannon'lar 2 atış grubuna ayrılmalıdır; her atış grubunda 1 medium ve 1 small olacak şekilde. Bu sayede sırayla ateş ederken en iyi sıcaklık yönetimi sağlanarak Chieftain, heatsink kullanırken 20% sıcaklık seviyesinin altında tutulabilir.
+- Guardian Gauss Cannon'lar 2 atış grubuna ayrılmalıdır; her atış grubunda 1 medium ve 1 small olacak şekilde. Bu sayede dönüşümlü ateş ederken en iyi sıcaklık yönetimi sağlanarak Chieftain, heatsink kullanırken 20% sıcaklık seviyesinin altında tutulabilir.
 
 - (Long Range + Thermal Vent) Beam Laser'ın öncelikli amacı Interceptor'ı heatsink kullanmadan "uyku modu"na sokabilmektir.
 
-- Eğer bir kalbi parçaladıktan sonraki sıcaklığınız 15%'in üzerindeyse heatsink kullanımı gerebilir. Uyku modu Bölüm VIII'de daha detaylı açıklanmıştır.
+- Eğer bir Kalbi parçaladıktan sonraki sıcaklığınız 15%'in üzerindeyse heatsink kullanımı gerebilir. Uyku modu Bölüm VIII'de daha detaylı açıklanmıştır.
 
 # Savaş Başlangıcı/İlk Kalp Saldırısı ve Akabindeki Kalp Çatışma Döngüsü
 - Bir "Non-Human Signal Source" (NHSS) içindeki bir Thargoid Interceptor'üyle karşılaştıktan sonraki savaş başlangıcı Interceptor sizi taramayı bitirdikten sonra olmalıdır. Bunun amacı, eğer Xeno Scanner'ınız varsa sizin de aynı sürede Interceptor'ü taramanıza olanak sağlamaktır.
@@ -128,7 +128,7 @@ Video: [Unlocking Engineers (Mühendisleri açmak - İngilizce) by CMDR Exigeous
 -
 - Sıradaki çatışma döngünüze pipler 0-2-4 konumundayken başlayın.
 -
-- Soğuk boosta benzer başka bir taktik ise "silent running" uygulayarak Basilisk'in yanından boostlayıp geçmektir. (Kullanılacak seçenekler pilotun kararına kalmıştır.) Bu manevranın amacı pilotun heatsink harcamadan kalkansız geminin avantajını kullanarak aynı sonuca ulaşmasını sağlamaktır.
+- Soğuk boosta benzer başka bir taktik ise "silent running" uygulayarak Basilisk'in yanından boostlayıp geçmektir. (Kullanılacak seçenekler kumandanın kararına kalmıştır.) Bu manevranın amacı kumandanların heatsink harcamadan kalkansız geminin avantajını kullanarak aynı sonuca ulaşmalarını sağlamaktır.
 
 ## Basilisk Hakkında Dikkat Edilecek Hususlar
 Basilisk 530 m/s hıza çıkabilmektedir. Bu öğretideki Chieftain, eğer önerilen donanım kullanıldıysa Basilisk'ten hızlı kaçamaz. Gereken bir manevra olarak soğuk boost (heatsink ateşleyip Basilisk'in yanından boostlayıp geçmek) Basilisk'le aranızda değerli bir mesafe açarak, gerekli sentezleri ve/veya onarımları yapmanıza olanak tanıyacaktır. Basilisk bir yönde tam hız gidiyorsa zıt yönüne dönerken zorlanır. Genel olarak Interceptorler çok süratli gidebilseler de bu sürati kazanmaları, fren yapmaları ve yön değiştirmeleri çok zaman alır. Unutmayın ki bu manevra sizi Swarm'ın uçuş yoluna sokabilir ve eğer Swarm'ın içinden geçecek olursanız Swarm'ın "huzursuz" durumunu tetikleyebilirsiniz.
@@ -137,15 +137,15 @@ Basilisk 530 m/s hıza çıkabilmektedir. Bu öğretideki Chieftain, eğer öner
 İlk önce Swarm'a saldırmanın amacı, Interceptor'deki depolanan Swarm'ı olaya dahil etmemektir. İlk önce Interceptor'e saldırıp Kalbini parçalarsanız, ilk Swarm'ın üstüne bir de depolanmış Swarm'ını salarak sizi iki Swarm'la uğraşmaya itecektir. Depolanmış Swarm'ın olaya dahil oluşunu engellemek Kalp parçalamalar sonrasındaki zamanınızı daha iyi kullanmanıza ve kalan Kalplere odaklanmanıza yardımcı olacaktır.
 
 # Cold Orbit (Soğuk Yörünge) Amacı
-- The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
+- Cold orbit (soğuk yörünge) doğru uygulandığı takdirde, yeterli hız ve mesafeyi koruyarak Interceptor'ün namlusunun 15 derece dışında ve bu süreçte 20% sıcaklığın altında kalınması, Interceptor'den gelen hasardan kaçınmanızı sağlayacaktır. Bu taktik çok sayıda deneyimli AX kumandanı tarafından hasardan kaçınarak, özellikle üst seviye Interceptor'lerle olan savaşlarda, modül ve gövde onarımıyla kaybedilecek çok değerli zamandan tasarruf sağlamak amacıyla kullanılmaktadır.
 -
-- Cold orbiting is also the basis for more advanced Interceptor combat when wanting to use smaller ships and also for more advanced Thargon swarm management for small ships when flak launchers cannot be fitted. (beyond the scope of this guide)
+- Cold orbit, aynı zamanda daha küçük gemilerle savaşmanın ve/veya Flak Launcher kullanamadığınız donanımlarla Swarm yönetmenin temelini oluşturur. (bu rehberin kapsamı dışında)
 -
-- The amount of heat sinks within this doctrine will allow the destruction of any heart on any variants as long as the commander maintains a 900m-1.5km orbit maximising the damage output of the Gauss cannon.
+- Bu öğretideki önerilen heatsink miktarı, kumandan 900m-1.5km mesafedeki yörüngede kalıp Gauss Cannon'ların verdiği hasarı en üst düzeyde tuttuğu sürece herhangi bir türün herhangi bir Kalbini parçalamak için gerekli süreyi sağlayacaktır.
 
-Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
+Yörünge sınırları dışına çıkmak hedefle aranızdaki menzili artıracağından Gauss Cannon'ların hasarının düşmesine ve fazladan mermi harcamanızın gerekmesine sebep olabileceğinden heatsink ihtiyacı artabilir. Çatışma menzili dışından ateş etmek tavsiye edilmez.
 
-# Thargoid Sleep Mode
+# Thargoid Uyku Modu
 - The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
 -
 - Cold orbiting is also the basis for more advanced Interceptor combat when wanting to use smaller ships and also for more advanced Thargon swarm management for small ships when flak launchers cannot be fitted. (beyond the scope of this guide)
@@ -154,8 +154,8 @@ Being outside of the orbit envelope may cost extra rounds from the Gauss cannons
 -
 - Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
 
-`CREDITS
-Thank you to the Anti-Xeno Initiative discord for assistance in refining this doctrine and to the following AXI Commanders for their contribution:
+`Emeği Geçenler
+Anti-Xeno Initiative Discord sunucusuna bu öğretiyi iyileştirme yönündeki yardımlarından ve aşağıdaki AXI Kumandanlarına katkılarından dolayı teşekkürler:
 CMDR Mgram,
 CMDR BADRACINGDRIVER,
 CMDR Mackenheimer,
