@@ -9,85 +9,85 @@ dateCreated: 2021-06-08T12:52:54.657Z
 ---
 
 # Önerilen Gemi Donanımları
-Thargoid Hunting requires specialised ship builds as Thargoids have special resistances and deal special damage types that will typically cause issues on any standard combat build. As such, we have put together the following guide to help you make the correct decisions to lead you towards building the most effective vessel for hunting down alien ships. These ship builds are designed to give you a balance of firepower and survivability, while also being forgiving enough to make a few mistakes.
+Thargoidlerin kendilerine has dirençleri ve hasar verme biçimleri alışılagelmiş savaş gemisi donanımları için sorun teşkil ettiğinden Thargoid Avı özelleşmiş gemi donanımları gerektirir. Bu sebeple, uzaylı gemilerini yok etmek için gereken en etkili gemiyi oluştururken doğru kararları verebilmeniz için bu rehberi hazırladık. Bu gemiler size dengeli bir ateş gücü ve hayatta kalma imkanı verirken aynı zamanda daha fazla hata payı da sağlamak için tasarlanmıştır.
 
-> Please see our [Ship Build Theory](/en/shipbuildtheory) page for a more in-depth explanation behind the outfitting decisions. 
+> Bileşenleri seçme aşamasındaki arka plan kararları hakkında daha fazla fikir sahibi olmak için [Gemi Donanım Teorisi](/en/shipbuildtheory) sayfasını ziyaret edebilirsiniz. 
 > 
 > {.is-info}
 
-## Ship Build Types
+## Gemi Donanım Biçimleri
 
-Firstly, note there are two main types of Thargoid: **Thargoid Scouts** and **Thargoid Interceptors**. Since these enemies have very different mechanics and abilities, we will typically need a different type of build for each one.
+İlk olarak iki ana çeşit Thargoid olduğundan bahsedelim: **Thargoid Scoutlar** ve **Thargoid Interceptorler**. Farklı mekanik ve yeteneklere sahip olduklarından, bu iki düşman karşısında farklı donanımlara ihtiyaç duyacağız.
 
-# Interceptor Builds
+# Interceptor Donanımları
 
-Thargoid Interceptors are very tough and powerful enemies that will require equally strong ships to be able to stand a chance in combat. Due to the incredibly high damage output of Thargoid Interceptors, there are only a handful of different styles and methods you can use effectively.
+Thargoid Interceptorler çok sağlam ve güçlü düşmanlardır ve baş edebilmek için eş seviyede güçlü gemilere ihtiyaç vardır. Thargoid Interceptorlerin yüksek hasar verme kabiliyetlerine bağlı olarak etkili biçimde kullanabileceğiniz metot ve stiller sınırlıdır.
 
-These are the most common types of builds used for Anti-Xeno Combat.
+Aşağıda Anti-Xeno savaşlarında en yaygın kullanılan gemi donanım biçimleri verilmiştir:
 
--   **Fast Shielded Builds** (Bi-Weave Hybrids) - Ships with good speed and small shields that regenerate quickly (Beginner)
+-   **Kalkanlı Hızlı Gemiler** (Bi-Weave Hibritler) - İyi bir hıza ve çabuk yenilenen küçük kalkanlara sahip gemiler. (Başlangıç seviyesi)
 
--   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage (Moderate)
+-   **Kalkansız Hızlı Gemiler** (Cold Orbiters - Soğuk Yörüngeciler) - Kalkan kullanmayan, soğuk kalma mekanikleriyle hasardan kaçınan hızlı gemiler. (Orta seviye)
 
--   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically (Moderate/Advanced)
+-   **Kalkanlı Yavaş Gemiler** (Kalkan Tankları) - Yeniden başlatmalarla kalkanlarını yenileyen, büyük kalkanlara sahip yavaş gemiler. (Orta/İleri seviye)
 
 
-## Beginner Builds
+## Başlangıç Seviyesi Donanımlar
 
-These builds all utilize shields to provide a more familiar style of combat, while also being equipped for cold orbiting techniques. If you are looking to ease into AX combat, shielded builds are recommended because of their ease of use on Cyclops and Basilisk variant Interceptors. These ships fall under two categories: Bi-Weave Hybrids, which make use of Cold Orbiting techniques but provide shields as a backup, and Shield Tanks, which rely on massive raw shield MJ to keep them alive.
+Bu gemilerin hepsi daha tanıdık bir savaş stili sunmak için kalkanlara sahip olmakla birlikte cold orbiting (soğuk yörünge) teknikleri için de donatılmışlardır. Eğer AX savaşlarında kolay bir başlangıç istiyorsanız, Cyclops ve Basilisk savaşlarındaki kolay kullanımları sebebiyle kalkanlı gemiler önerilmektedir. Bu gemiler iki kategoriye ayrılır: Bi-Weave Hibritler, cold orbiting'le savaşan ama hataları telafi için kalkan barındıranlar ve Kalkan Tankları, saf devasa kalkan güçleriyle hayatta kalan gemiler.
 
 ## Tabset {.tabset}
 
-### Krait Mk.II (Shielded)
+### Krait Mk.II (Kalkanlı)
 
-#### **Krait Mk.II (Shielded)**
+#### **Krait Mk.II (Kalkanlı)**
 
-The most commonly recommended and best all-round AX ship for anyone interested in killing Thargoids, the Krait Mk.II has enough firepower to kill the tougher interceptors while also having enough shields and hull to be able to recover from a few mistakes. A very capable AX vessel, although the shielded version can only go so far.
+Thargoidleri öldürmek için en yaygın olarak önerilen ve en çok yönlü AX gemisidir. Kraik Mk.II en güçlü Thargoidleri öldürebilecek ateş gücüne sahip olmakla birlikte yeterli kalkan ve gövde dayanıklılığıyla hatalarınızı telafi etmenize olanak tanır. Kabiliyeti yüksek bir AX aracıdır, ancak kalkanlı versiyonu bi yere kadar etkilidir.
 
-Type: **Bi-Weave Hybrid**
+Tip: **Bi-Weave Hibrit**
 
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐
-- Shield: ⭐⭐⭐⭐
-- Armour: ⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
+- Sürat: ⭐⭐⭐⭐⭐
+- Çeviklik: ⭐⭐⭐
+- Kalkan: ⭐⭐⭐⭐
+- Zırh: ⭐⭐⭐
+- Ateş gücü: ⭐⭐⭐⭐
 
-Recommendation: Best starting ship for new pilots in AX.
+Öneri: Yeni AX pilotları için en iyi başlangıç gemisi.
 
-[Coriolis Shielded Build](https://s.orbis.zone/f8l4)
+[Coriolis Kalkanlı](https://s.orbis.zone/f8l4)
 
-[EDSY Shielded Build](https://edsy.org/s/vbLKqFW)
+[EDSY Kalkanlı](https://edsy.org/s/vbLKqFW)
 
-AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
+AX Krait Mk.II İnceleme Videosu: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
-Note: While this build uses Lo-Draw on the shields, Fast Charge experimental is also a great option that requires more pip management but faster recharge.
+Not: Bu gemi kalkanlarda "Lo-Draw" kullansa da "Fast Charge" deneyseli de daha fazla pip yönetimi gerektiren ama daha hızlı kalkan yenileyen iyi bir seçenektir.
 
-### Alliance Chieftain (Shielded)
+### Alliance Chieftain (Kalkanlı)
 
-#### **Alliance Chieftain (Shielded)**
+#### **Alliance Chieftain (Kalkanlı)**
 
-The Alliance Chieftain, similar to the Krait Mk.II is a very capable AX Ship. The Chieftain has slightly lower overall firepower but is able to equip a Thermal Vent Beam laser allowing pilots to begin to learn cold orbiting techniques. Much more agile than the Krait Mk.II, this build is perfect for people looking to fly the meta shieldless Chieftain but still want the comfort of shields.
+Alliance Chieftain, Krait Mk.II gibi çok kabiliyetli bir AX gemisidir. Chieftain, birazcık daha az ateş gücüne sahip olsa da Thermal Vent Beam Laser kullanabildiği için pilotların cold orbit tekniklerini öğrenmelerine imkan sağlar. Krait Mk.II'den çok daha çevik olan bu gemi, meta olan kalkansız Chieftain'i kullanmak isteyen ama kalkanların konforundan vazgeçmeye hazır olmayanlar için mükemmeldir.
 
-Type: **Bi-Weave Hybrid**
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐⭐⭐
-- Shield: ⭐⭐
-- Armour:   ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐
+Tip: **Bi-Weave Hibrit**
+- Sürat: ⭐⭐⭐⭐⭐
+- Çeviklik: ⭐⭐⭐⭐⭐
+- Kalkan: ⭐⭐
+- Zırh:   ⭐⭐⭐⭐
+- Ateş gücü: ⭐⭐⭐
 
-Recommendation: Good upgrade path for confident pilots. More potential in the long run.
+Öneri: Kendine güvenen pilotlar için gelişime açık platform. Uzun vadede daha yüksek potansiyel.
 
-[Coriolis Shielded Build](https://s.orbis.zone/eua5)
+[Coriolis Kalkanlı](https://s.orbis.zone/eua5)
 
-[EDSY Shielded Build](https://edsy.org/s/vgDtxz2)
+[EDSY Kalkanlı](https://edsy.org/s/vgDtxz2)
 
-AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
+AX Chieftain İnceleme Videosu: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
 
-### Imperial Cutter (Shielded)
+### Imperial Cutter (Kalkanlı)
 
-#### **Imperial Cutter (Shielded)**
+#### **Imperial Cutter (Kalkanlı)**
 
-If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
+Büyük gemilerle uçmayı tercih ediyorsanız önerilen gemi Imperial Cutter'dır. Tüm büyük gemilerin arasında yalnızca Cutter çoğu Thargoid Interceptor'ünden kaçabilecek hıza sahiptir. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
 
 Type: **Shield Tank**
 
