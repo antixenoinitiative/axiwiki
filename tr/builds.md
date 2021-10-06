@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
 ---
 
-# Önerilen Gemi Donanımları
+# Önerilen Gemiler
 Thargoidlerin kendilerine has dirençleri ve hasar verme biçimleri alışılagelmiş savaş gemisi donanımları için sorun teşkil ettiğinden Thargoid Avı özelleşmiş gemi donanımları gerektirir. Bu sebeple, uzaylı gemilerini yok etmek için gereken en etkili gemiyi oluştururken doğru kararları verebilmeniz için bu rehberi hazırladık. Bu gemiler size dengeli bir ateş gücü ve hayatta kalma imkanı verirken aynı zamanda daha fazla hata payı da sağlamak için tasarlanmıştır.
 
 > Bileşenleri seçme aşamasındaki arka plan kararları hakkında daha fazla fikir sahibi olmak için [Gemi Donanım Teorisi](/en/shipbuildtheory) sayfasını ziyaret edebilirsiniz. 
@@ -19,7 +19,7 @@ Thargoidlerin kendilerine has dirençleri ve hasar verme biçimleri alışılage
 
 İlk olarak iki ana çeşit Thargoid olduğundan bahsedelim: **Thargoid Scoutlar** ve **Thargoid Interceptorler**. Farklı mekanik ve yeteneklere sahip olduklarından, bu iki düşman karşısında farklı donanımlara ihtiyaç duyacağız.
 
-# Interceptor Donanımları
+# Interceptor Gemileri
 
 Thargoid Interceptorler çok sağlam ve güçlü düşmanlardır ve baş edebilmek için eş seviyede güçlü gemilere ihtiyaç vardır. Thargoid Interceptorlerin yüksek hasar verme kabiliyetlerine bağlı olarak etkili biçimde kullanabileceğiniz metot ve stiller sınırlıdır.
 
@@ -32,7 +32,7 @@ Aşağıda Anti-Xeno savaşlarında en yaygın kullanılan gemi donanım biçiml
 -   **Kalkanlı Yavaş Gemiler** (Kalkan Tankları) - Yeniden başlatmalarla kalkanlarını yenileyen, büyük kalkanlara sahip yavaş gemiler. (Orta/İleri seviye)
 
 
-## Başlangıç Seviyesi Donanımlar
+## Başlangıç Seviyesi Gemiler
 
 Bu gemilerin hepsi daha tanıdık bir savaş stili sunmak için kalkanlara sahip olmakla birlikte cold orbiting (soğuk yörünge) teknikleri için de donatılmışlardır. Eğer AX savaşlarında kolay bir başlangıç istiyorsanız, Cyclops ve Basilisk savaşlarındaki kolay kullanımları sebebiyle kalkanlı gemiler önerilmektedir. Bu gemiler iki kategoriye ayrılır: Bi-Weave Hibritler, cold orbiting'le savaşan ama hataları telafi için kalkan barındıranlar ve Kalkan Tankları, saf devasa kalkan güçleriyle hayatta kalan gemiler.
 
@@ -87,131 +87,131 @@ AX Chieftain İnceleme Videosu: [https://www.youtube.com/watch?v=ipyvolMlX4E](ht
 
 #### **Imperial Cutter (Kalkanlı)**
 
-Büyük gemilerle uçmayı tercih ediyorsanız önerilen gemi Imperial Cutter'dır. Tüm büyük gemilerin arasında yalnızca Cutter çoğu Thargoid Interceptor'ünden kaçabilecek hıza sahiptir. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
+Büyük gemilerle uçmayı tercih ediyorsanız önerilen gemi Imperial Cutter'dır. Tüm büyük gemilerin arasında yalnızca Cutter çoğu Thargoid Interceptor'ünden kaçabilecek hıza sahiptir. Cutter, yüksek miktardaki hasarlara direnmek için Prismatik kalkanlara güvenir. Eğer Cutter kullanmaya niyetiniz varsa Anti-Xeno Büyük Gemi Rehberi'ni okumanızı öneririz.
 
-Type: **Shield Tank**
+Tip: **Kalkan Tankı**
 
-- Speed: ⭐⭐⭐⭐
-- Agility: ⭐⭐
-- Shield: ⭐⭐⭐⭐⭐
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
+- Sürat: ⭐⭐⭐⭐
+- Çeviklik: ⭐⭐
+- Kalkan: ⭐⭐⭐⭐⭐
+- Zırh: ⭐⭐⭐⭐
+- Ateş gücü: ⭐⭐⭐⭐
 
-Recommendation: Different fighting style and generally very capable with weaker Interceptors. Becomes much harder for tougher variants.
+Öneri: Farklı savaş stili ve genel olarak zayıf Interceptor'lere karşı çok etkili. Güçlü türlere karşı kullanımı zorlaşıyor.
 
-[Coriolis Shielded Build](https://s.orbis.zone/3wbf)
+[Coriolis Kalkanlı](https://s.orbis.zone/3wbf)
 
-[EDSY Shielded Build](https://is.gd/DgmHXb)
+[EDSY Kalkanlı](https://is.gd/DgmHXb)
 
-## Intermediate Builds
+## Orta Seviye Gemiler
 
-These builds are targeted at more experienced commanders, either those who have flown the above ships against Thargoids before or have prior PVP combat experience. These ships are generally more capable than the beginner builds, and are better suited for all variants of Interceptors. These builds are cold orbiters, which make use of Cold Orbiting to evade most damage and repair limpets repair hull damage sustained.
+Bu gemiler daha önce Thargoidlere karşı savaşmış, ya da PvP savaş deneyimine sahip kumandanlara yöneliktir. Bu gemiler genel olarak başlangıç seviyesi gemilerinden daha kabiliyetli olup, tüm Interceptor'lere yönelik donatılmışlardır. Bu gemiler cold orbiter'lardır. Cold Orbit teknikleriyle hasarın büyük kısmından kaçınıp Repair Limpet'lerle onarım yaparak hayatta kalırlar.
 
 ## Tabset {.tabset}
 
-### Alliance Chieftain (Shieldless)
+### Alliance Chieftain (Kalkansız)
 
-#### **Alliance Chieftain (Shieldless)**
+#### **Alliance Chieftain (Kalkansız)**
 
-The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-de-Lance in PVP. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
+Kalkansız Alliance Chieftain tartışmasız AX metasıdır, tıpkı Fer-de-Lance'in PvP'de olduğu gibi. İyi gövde dayanıklılığı, kargo alanı, çeviklik ve ateş gücü sağlayan Chieftain, yok edici ateş gücü sağlarken eforsuzca cold orbit yapabilir. Yeterli sayıdaki hardpointleri, 4 Gauss Cannon'ın yanı sıra bir Flak Launcher'ı ve bir Thermal Vent Beam Laser'ı da kuşanmaya olanak sağlar. Kardeş gemisi Alliance Challenger, süratinden taviz vererek daha fazla hasar ve gövde dayanıklılığı sağlar.
 
-Type: **Cold**
+Tip: **Cold Orbiter**
 
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐⭐⭐
-- Shield:
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐
+- Sürat: ⭐⭐⭐⭐⭐
+- Çeviklik: ⭐⭐⭐⭐⭐
+- Kalkan:
+- Zırh: ⭐⭐⭐⭐
+- Ateş gücü: ⭐⭐⭐
 
-Recommendation: Unarguably the best ship and build style for AX combat.
+Öneri: AX savaşının tartışmasız en iyi gemisi ve donanımı.
 
-[Coriolis Meta Shieldless Build](https://s.orbis.zone/eu9w)
+[Coriolis Meta Kalkansız](https://s.orbis.zone/eu9w)
 
-[EDSY Meta Shieldless Build](https://edsy.org/s/vwJ9Lqq)
+[EDSY Meta Kalkansız](https://edsy.org/s/vwJ9Lqq)
 
-AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
-### Krait Mk.II (Shieldless)
+AX Chieftain İnceleme Videosu: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
+### Krait Mk.II (Kalkansız)
 
-#### **Krait Mk.II (Shieldless)**
+#### **Krait Mk.II (Kalkansız)**
 
-A shieldless version of the beginner Krait MK.II. The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive power plant also allows it to idle under 20% heat, which allows for cold approaches without a heatsink or thermal vent beam.
+Başlangıç seviyesi Krait Mk.II'nin kalkansız versiyonu. Kalkansız Krait, Chieftain'in manevra kabiliyetine sahip olmasa da daha fazla hasar verir. Krait'in dev güç kaynağı, rölantide 20% sıcaklığın altında kalmasını sağlayarak heatsink veya Thermal Vent Beam kullanmadan soğuk yaklaşmalara izin verir.
 
-Type: **Cold Orbiter**
+Tip: **Cold Orbiter**
 
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐
-- Shield:
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐⭐
+- Sürat: ⭐⭐⭐⭐⭐
+- Çeviklik: ⭐⭐⭐
+- Kalkan:
+- Zırh: ⭐⭐⭐⭐
+- Ateş gücü: ⭐⭐⭐⭐⭐
 
-Recommendation: A great upgrade from the shielded build.
+Öneri: Kalkanlısından sonra iyi bir geliştirme.
 
-[Coriolis Shieldless Build](https://s.orbis.zone/eu9v)
+[Coriolis Kalkansız](https://s.orbis.zone/eu9v)
 
-[EDSY Shieldless Build](https://edsy.org/s/vtQUkCk)
+[EDSY Kalkansız](https://edsy.org/s/vtQUkCk)
 
-AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
+AX Krait Mk.II İnceleme Videosu: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
-### Alliance Challenger (Shieldless)
+### Alliance Challenger (Kalkansız)
 
-#### **Alliance Challenger (Shieldless)**
+#### **Alliance Challenger (Kalkansız)**
 
-The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower but more stable alternative with slightly higher damage output. Depending on preference, it can also have more raw hull than a standard Chieftain build.
+Daha popüler Alliance Chieftain'in kardeşi olan Alliance Challenger, daha yavaş ama daha dengeli ve biraz daha yüksek hasara sahip bir alternatiftir. Tercihe bağlı olarak daha fazla saf gövde dayanıklılığına sahip olabilir.
 
-Type: **Cold Orbiter**
+Tip: **Cold Orbiter**
 
-- Speed: ⭐⭐⭐⭐
-- Agility: ⭐⭐⭐⭐
-- Shield:
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
+- Sürat: ⭐⭐⭐⭐
+- Çeviklik: ⭐⭐⭐⭐
+- Kalkan:
+- Zırh: ⭐⭐⭐⭐
+- Ateş gücü: ⭐⭐⭐⭐
 
-Recommendation: A great ship for those who find the Chieftain too responsive.
+Öneri: Chieftain'i fazla kıvrak bulanlar için iyi bir gemi.
 
-[Coriolis Shieldless Build](https://s.orbis.zone/fnnx)
+[Coriolis Kalkansız](https://s.orbis.zone/fnnx)
 
-[EDSY Shieldless Build](https://edsy.org/s/v6Rppcb)
+[EDSY Kalkansız](https://edsy.org/s/v6Rppcb)
 
-### Federal Corvette (Shieldless)
+### Federal Corvette (Kalkansız)
 
-#### **Federal Corvette (Shieldless)**
+#### **Federal Corvette (Kalkansız)**
 
-One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. When shieldless, it stays icy cold while firing on all cylinders.
+Büyük üçlüden biri olan Federal Corvette hafife alınmaması gereken bir güçtür. Dev bir "Power Distributor" ve gövde dayanıklılığı sunan gemi sadece sürat söz konusu olunca kaybeder. Bu gemiyle savaşmak çok daha fazla yetenek gerektirse de pek çok deneyimli AX pilotunun favorisidir. Kalkansızken tüm silahları ateşlese de buz gibi kalmayı başarır.
 
-Type: **Cold Orbiter**
+Tip: **Cold Orbiter**
 
-- Speed: ⭐⭐
-- Agility: ⭐⭐⭐
-- Shield:
-- Armour: ⭐⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
+- Sürat: ⭐⭐
+- Çeviklik: ⭐⭐⭐
+- Kalkan:
+- Zırh: ⭐⭐⭐⭐⭐
+- Ateş gücü: ⭐⭐⭐⭐
 
-Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
+Öneri: İsteyenler için seçkin bir büyük gemi. AX mekaniklerine dair iyi bir bilgi birikimi gerektirir.
 
-[Coriolis Build](https://s.orbis.zone/fnn_)
+[Coriolis Kalkansız](https://s.orbis.zone/fnn_)
 
-[EDSY Build](https://edsy.org/s/vA8F5FD)
+[EDSY Kalkansız](https://edsy.org/s/vA8F5FD)
 
-### Federal Corvette (Shielded)
+### Federal Corvette (Kalkanlı)
 
-#### **Federal Corvette (Shielded)**
+#### **Federal Corvette (Kalkanlı)**
 
-One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. By utilizing prismatic or even bi-weave shields, the Corvette can slug it out with the toughest of targets. Type: **Shield Tank**
+Büyük üçlüden biri olan Federal Corvette hafife alınmaması gereken bir güçtür. Dev bir "Power Distributor" ve gövde dayanıklılığı sunan gemi sadece sürat söz konusu olunca kaybeder. Bu gemiyle savaşmak çok daha fazla yetenek gerektirse de pek çok deneyimli AX pilotunun favorisidir. Prismatic, hatta Bi-Weave kalkanları kullanabilen Corvette, en güçlü hedeflerle kozları paylaşabilir. Tip: **Kalkan Tankı**
 
-- Speed: ⭐⭐
-- Agility: ⭐⭐⭐
-- Shield:⭐⭐⭐⭐
-- Armour: ⭐⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
+- Sürat: ⭐⭐
+- Çeviklik: ⭐⭐⭐
+- Kalkan:⭐⭐⭐⭐
+- Zırh: ⭐⭐⭐⭐⭐
+- Ateş gücü: ⭐⭐⭐⭐
 
-Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
+Öneri: İsteyenler için seçkin bir büyük gemi. AX mekaniklerine dair iyi bir bilgi birikimi gerektirir.
 
-[Coriolis Build](https://s.orbis.zone/fno6)
+[Coriolis Kalkanlı](https://s.orbis.zone/fno6)
 
-[EDSY Build](https://edsy.org/s/vWNQLwX)
+[EDSY Kalkanlı](https://edsy.org/s/vWNQLwX)
 
 
-## Advanced Builds
+## İleri Seviye Gemiler
 A collection of more advanced builds can be found on the Advanced Builds page.
 
 View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
