@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-06-11T00:55:18.207Z
 ---
 
-# Beginners Guide to AX
+# Yeni Başlayanlar İçin AX Rehberi
 
 
-< Step by step guide for beginners linking to other pages and where to find information >
+< Yeni başlayanlar için, diğer sayfalara yönlendiren linkler içeren kademe kademe ilerleyen rehber >
