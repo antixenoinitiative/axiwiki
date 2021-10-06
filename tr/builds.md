@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
 ---
 
-# Recommended Builds
+# Önerilen Yapılar
 Thargoid Hunting requires specialised ship builds as Thargoids have special resistances and deal special damage types that will typically cause issues on any standard combat build. As such, we have put together the following guide to help you make the correct decisions to lead you towards building the most effective vessel for hunting down alien ships. These ship builds are designed to give you a balance of firepower and survivability, while also being forgiving enough to make a few mistakes.
 
 > Please see our [Ship Build Theory](/en/shipbuildtheory) page for a more in-depth explanation behind the outfitting decisions. 
