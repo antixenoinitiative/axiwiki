@@ -8,10 +8,10 @@ editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
-# Advanced Thargoid Combat Guide
-The purpose of this doctrine is to introduce new or veteran commanders to a specific fighting style and ship build that works against all four Thargoid Interceptor variants. The entry cost of this doctrine is designed to be as minimal as possible to allow any commander the ability to engage in Thargoid Interceptor combat against any of the variants. The tactics and maneuvers involved also carry over through all four Interceptor variants with only one additional maneuver needed for Basilisks due to their speed.
+# İleri Düzey Savaş Rehberi
+Bu öğretinin amacı yeni ya da tecrübeli pilotlara tüm Thargoid Interceptor türlerine karşı etkili bir savaş stili ve gemi build'i sunmaktır. Bu öğretinin bedeli, herhangi bir pilotun herhangi bir Thargoid Interceptor'le savaşa girebilmesi için olabildiğince düşük tutulmuştur. Taktik ve manevralar da, Basilisk'in hızı dolayasıyla gereken ekstra bir manevra hariç, tüm Interceptor türleri için aynıdır.
 
-For this doctrine to be effective a commander must have a basic understanding of flying with flight assist off. This doctrine is not designed for flight assist on combat, since it would interfere with many maneuvers within this doctrine.
+Bu öğretinin etkili olabilmesi için pilotların "flight assist off" uçuşlarına temel düzeyde hakim olması gerekmektedir. Bu öğreti, bir çok manevrayı imkansız kılacağı için "flight assist on" uçuşları için tasarlanmamıştır.
 
 This doctrine is centered around a combat loop - essentially you are repeating the same tactics for all hearts (Save for the initial engagement) allowing any commander to refine their abilities in the specific motions of this doctrine.
 
