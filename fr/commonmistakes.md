@@ -1,8 +1,8 @@
 ---
 title: Erreurs fréquentes
-description: Sans une solide compréhension des mécaniques de l'AX, il est très facile de commettre des erreurs simples lorsque l'on équipe un vaisseau AX.
+description: Common mistakes to avoid when hunting Thargoids
 published: true
-date: 2021-06-10T07:25:30.677Z
+date: 2021-09-19T11:15:47.195Z
 tags: builds, outfitting, engineer
 editor: markdown
 dateCreated: 2021-06-10T07:16:26.785Z

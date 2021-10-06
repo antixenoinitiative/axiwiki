@@ -1,8 +1,8 @@
 ---
 title: Häufige Fehler
-description: Ohne ein solides Verständnis der AX-Mechanik kann man bei der Zusammenstellung eines AX-Schiffes sehr leicht einfache Fehler machen.
+description: Common mistakes to avoid when hunting Thargoids
 published: ja
-date: 2021-06-10T07:25:30.677Z
+date: 2021-09-19T11:15:47.195Z
 tags: Aufbau, Ausrüsten, Ingenieur
 editor: markdown
 dateCreated: 2021-06-10T07:16:26.785Z

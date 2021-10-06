@@ -1,13 +1,12 @@
 ---
 title: Équipements Recommandés
-description: Vaisseaux Anti-Xéno
+description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2021-06-23T10:01:06.084Z
+date: 2021-09-19T11:07:39.839Z
 tags: équipement
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
 ---
-
 
 # Equipements Recommandés
 Le combat de Thagoids requiert un équipement très spécialisé. En effet, les Thargoids ont des résistances particulières et infligent certains types de dégâts qui posent des problèmes aux vaisseaux de combat standard. Nous avons donc établi le guide ci-dessous pour vous aider à prendre les bonnes décisions et vous guider dans l'équipement du vaisseau de chasse aux Thargoids le plus efficace possible. Ces configurations ont été conçues pour être à l'équilibre entre puissance de feu et solidité, tout en restant assez souples pour encaisser quelques erreurs.

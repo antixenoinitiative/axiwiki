@@ -1,8 +1,8 @@
 ---
 title: Errores comunes
-description: Sin un conocimiento sólido de la mecánica AX, es muy fácil cometer un simple error al armar un barco AX.
+description: Common mistakes to avoid when hunting Thargoids
 published: verdadero
-date: 2021-06-10T07:25:30.677Z
+date: 2021-09-19T11:15:47.195Z
 tags: construcciones, equipamiento, ingeniero
 editor: markdown
 dateCreated: 2021-06-10T07:16:26.785Z

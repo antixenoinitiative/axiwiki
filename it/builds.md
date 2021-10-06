@@ -1,13 +1,12 @@
 ---
 title: '“Builds” raccomandate'
-description: Allestimenti Navi Anti-Xeno
+description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2021-06-23T10:01:06.084Z
+date: 2021-09-19T11:07:39.839Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
 ---
-
 
 # “Builds” raccomandate
 Per cacciare i Thargoid sono necessari allestimenti specialistici poiché i Thargoid hanno resistenze particolari e infliggono particolari tipi di danno che causano diversi problemi alle “build” da combattimento tradizionale. Questa guida è pensata per aiutarvi nell’allestimento della vostra nave, per renderla il più efficace possibile nella caccia ai vascelli alieni. Queste “builds” sono pensate per offrire il giusto bilanciamento tra potenza di fuoco e resistenza ed al contempo abbastanza flessibili per perdonarvi eventuali errori.

@@ -2,8 +2,8 @@
 title: Inicio
 description: Bienvenido a la Wiki de la Anti-Xeno Initiative. Su repositorio completo para Combate Anti-Xeno.
 published: verdadero
-date: 2021-09-10T01:17:00.036Z
-tags:
+date: 2021-09-19T07:56:05.682Z
+tags: admin
 editor: markdown
 dateCreated: 2021-06-08T12:40:49.911Z
 ---

@@ -1,8 +1,8 @@
 ---
 title: Распространенные ошибки
-description: Без чёткого понимания AX механик очень легко ошибиться во время сборки AX-корабля.
+description: Common mistakes to avoid when hunting Thargoids
 published: true
-date: 2021-06-10T07:25:30.677Z
+date: 2021-09-19T11:15:47.195Z
 tags: builds, outfitting, engineer
 editor: markdown
 dateCreated: 2021-06-10T07:16:26.785Z

@@ -1,8 +1,8 @@
 ---
 title: Waffen
-description: Guardian Waffen sind die effektivsten AX-Waffen im Spiel (speziell die Guardian Gauss Kanone) und menschliche AX-Waffen sind größtenteils unbrauchbar.
+description: Detailed breakdown of Anti-Xeno Weaponry
 published: true
-date: 2021-06-15T04:13:36.575Z
+date: 2021-09-19T11:10:48.357Z
 tags: Ausrüsten, Module
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-10T04:04:18.230Z
 Es gibt eine Vielzahl verschiedener Anti-Xeno-Waffen im Spiel, und sie sind in zwei Hauptvarianten erhältlich:
 
 - **Menschliche AX Waffen** (AX Merfachgeschütz, AX Raketenrampe, Fortgeschrittene Mehrfachgeschütz, Fortgeschrittene Raketenrampe, Flakwerfer mit Fernzündung)
-- **Guardian Waffen** (Guardian Gausskanone, Guardian Plasmalader, Guardian Splitterkanone)
+- **Guardian Weapons** (Guardian Gauss Cannon, Guardian Plasma Charger, Guardian Shard Cannon, and their Engineered Variants)
 
 Guardian Waffen sind die effektivsten AX-Waffen im Spiel (speziell die Guardian Gauss Kanone) und menschliche AX-Waffen sind größtenteils unbrauchbar (Ausnahme bildet der Flakwerfer mit Fernzündung).
 
@@ -74,6 +74,22 @@ Hinweis: Zählt nicht beim Limit für 4 experimentelle Waffen.
 
 Wie beim verbesserten Mehrfachgeschütz, sind diese vom Ingenieur bearbeitbare Klone der normalen Raketenrampe und benötigen Synthesen um AX Schaden zu verursachen. Aufgrund ihres extremen Schadens, der Synth-Anforderung und des Mangels an Waffenzahlbegrenzung sind sie bei AXI-Rängen verboten.
 
-**Empfehlung:** Nach eigenem Ermessen verwenden (nutzlos ohne Synthese, von offiziellen Kills gebannt)
+**Recommendation:** Use at own discretion (Cannot use without synth, Banned from use in AXI ranks)
 
 Hinweis: Zählt nicht beim Limit für 4 experimentelle Waffen.
+
+## Focused Long-Range High-Penetration Guardian Shard Cannon (Class Two)
+
+An extremely powerful version of the normal shard cannon, able to reliably hit interceptors from outside 3km range. It functions very differently, having near-hitscan shot speed and extremely long range. Due to this and the fact that it is not obtainable for most CMDRs, it is banned from use in ranks.
+
+**Recommendation:** Use at own discretion (Banned from use in AXI ranks)
+
+Note: Cannot currently be obtained unless you participated in the initial CG
+
+## Hi-Cap Burst Fire Guardian Gauss Cannon (Class Two)
+
+Another one of Salvation's pet projects, the stats for this weapon remain to be seen.
+
+**Recommendation:** None yet, although it is expected to be powerful.
+
+Note: See [Salvation Gauss](https://wiki.antixenoinitiative.com/es/salvation-gauss) for more information
