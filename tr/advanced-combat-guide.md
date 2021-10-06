@@ -9,25 +9,25 @@ dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
 # İleri Düzey Savaş Rehberi
-Bu öğretinin amacı yeni ya da tecrübeli pilotlara tüm Thargoid Interceptor türlerine karşı etkili bir savaş stili ve gemi build'i sunmaktır. Bu öğretinin bedeli, herhangi bir pilotun herhangi bir Thargoid Interceptor'le savaşa girebilmesi için olabildiğince düşük tutulmuştur. Taktik ve manevralar da, Basilisk'in hızı dolayasıyla gereken ekstra bir manevra hariç, tüm Interceptor türleri için aynıdır.
+Bu öğretinin amacı yeni ya da tecrübeli pilotlara tüm Thargoid Interceptor türlerine karşı etkili bir savaş stili ve gemi donanımı sunmaktır. Bu öğretinin bedeli, herhangi bir pilotun herhangi bir Thargoid Interceptor'le savaşa girebilmesi için olabildiğince düşük tutulmuştur. Taktik ve manevralar da, Basilisk'in hızı dolayasıyla gereken ekstra bir manevra hariç, tüm Interceptor türleri için aynıdır.
 
 Bu öğretinin etkili olabilmesi için pilotların "flight assist off" uçuşlarına temel düzeyde hakim olması gerekmektedir. Bu öğreti, bir çok manevrayı imkansız kılacağı için "flight assist on" uçuşları için tasarlanmamıştır.
 
-This doctrine is centered around a combat loop - essentially you are repeating the same tactics for all hearts (Save for the initial engagement) allowing any commander to refine their abilities in the specific motions of this doctrine.
+Bu öğreti tekrar eden bir savaş stili etrafında şekillenmiştir. Temel olarak, tüm kalpler için (çarpışma başlangıcı hariç) aynı taktikleri tekrarlıyor olacaksınız. Bu da herhangi bir pilotun bu tekrar eden hareketlerde giderek ustalaşmasını sağlayacaktır.
 
-This doctrine also allows for minimal focus on pip management due to the fact that it concerns flying without a shield, allowing you to set your power priorities and focus elsewhere.
+Ayrıca bu öğreti "pip" yönetimine minimum gereksinim sağlar. Kalkansız bir gemi kullanacağınız için önceliklerinizi ve odağınızı başka yerlere verebilirsiniz.
 
-# Ship Loadout
-This doctrine centers itself around the Chieftain as its primary ship. The Challenger may also be used as a substitute with minor changes to its hardpoints. (Challenger build guide under construction) Ships such as the Krait MKII, Krait Phantom or FAS may also be used but due to the cheap entry cost of the Chieftain, its hard point layout and maneuverability, it is the primary focus for this doctrine.
+# Gemi Donanımı
+Bu öğretinin merkezinde Chieftain vardır. Challenger da hardpoint'lerdeki ufak değişiklerle kullanılabilir. (Challenger donanım rehberi şu an yapım aşamasında) Krait MKII, Krait Phantom ya da FAS gibi gemiler de kullanılabilir ancak Chieftain, hardpoint düzeni ve manevra kabiliyeti ve ucuz fiyatı sebebiyle bu öğretinin ana odağındadır.
 
 ## Core Internals
 - Military Grade Composite (Heavy Duty/Deep Plate)
 - 6A Power Plant (Armored/Thermal Spread)
 - 6A Thrusters (Dirty/Drag Drives)
-- 5A Frame Shift Drive (Any class/modification optional depending on commander)
-- 5A Life Support (Lightweight optional)
+- 5A Frame Shift Drive (Pilot tercihine göre opsiyonel mühendislik)
+- 5A Life Support (Lightweight opsiyonel)
 - 6A Power Distributor (Charge Enhanced/Super Conduits)
-- 4D Sensors (Long range optional)
+- 4D Sensors (Long range opsiyonel)
 - 4C Fuel Tank
 
 ## Optional Internals
@@ -40,38 +40,38 @@ This doctrine centers itself around the Chieftain as its primary ship. The Chall
 - 1A Auto Field-Management Unit
 
 ## Hardpoints
-- 2B Guardian Gauss Cannons x2 (Fitted in the 2 Large Slots)
-- 2B Remote Release Flak Launcher (Medium Slot)
-- 1D Guardian Gauss Cannons x2 (Fitted in the two small slots to the left and right of the hull)
-- 1G Beam Laser (Long Range/Thermal Vent fitted in the small middle weapon slot)
+- 2B Guardian Gauss Cannons x2 (2 Large Slota)
+- 2B Remote Release Flak Launcher (Medium Slota)
+- 1D Guardian Gauss Cannons x2 (Sağ ve sol iki Small Slota)
+- 1G Beam Laser (Long Range/Thermal Vent ortadaki Small Slota)
 
 ## Utility
-- 3x OI Heat Sink Launchers(Ammo Capacity)
-- Xeno Scanner/Heat Sink Launcher (Dependent on commander if they wish to see the Thargoid's hull and swarm numbers.)
+- 3x OI Heatsink Launchers(Ammo Capacity)
+- Xeno Scanner/Heatsink Launcher (Tercihinize göre, eğer Thargoid'lerin HP'sini ya da Swarm'ın sayısını görmek isterseniz Xeno Scanner alın, yoksa Heatsink Launcher.)
 
-If you have no preference for the Xeno Scanner especially for the lower variants having the 4th heat sink slot will ensure you should never need to synthesize heat sinks on the lower Interceptor variants.
+Not: Eğer Xeno Scanner tercih etmez de fazladan Heatsink Launcher alırsanız, düşük seviye Interceptor savaşlarında hiç heatsink "synthesize" etmeniz gerekmeyebilir.
 
-# Engineering
-The purpose of the engineers listed is to minimize the needed engineers for entry level commanders into this doctrine while also allowing the more experienced commanders to utilize further engineers to maximize their ship. The engineers needed for the modifications are as follows:
+# Mühendislik (Engineering)
+Burada listelenen mühendislerle, giriş seviyesindeki pilotlar için gereken mühendisliği en alt seviyede tutmak ancak aynı zamanda daha deneyimli pilotların ileri düzey mühendislikle gemilerini en üst seviyeye çıkarabilmelerini sağlamak amaçlanmıştır. Gereken mühendisler aşağıda listelenmiştir:
 
-## Minimum Engineers:
+## Minimum Mühendisler:
 - The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
 - Selene Jean (Kuk) - G5 Hull Reinforcement Package (Heavy Duty/Deep Plate)
 - G5 Armor (Heavy Duty/Deep Plate)
 - Hera Tani (Kuwemaki) - G5 Power Plant (Armored/Thermal Spread)
 - Professor Palin (Arque) - G5 Thrusters(Dirty/Drag Drives)
 - Broo Tarquin (Muang) - G5 Beam Laser (Long Range/Thermal Vent)
-- Ram Tah (Meene) - Heat Sink Launcher (Ammo Capacity)
+- Ram Tah (Meene) - Heatsink Launcher (Ammo Capacity)
 
-## Optional Engineers:
-- Felicity Farseer (Deciat) - G5 Frame Shift Drive engineering
-- Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensors engineering
+## Opsiyonel Mühendisler:
+- Felicity Farseer (Deciat) - G5 Frame Shift Drive mühendisliği
+- Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensors mühendisliği
 
-VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
+Video: [Unlocking Engineers (Mühendisleri açmak - İngilizce) by CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
-# Purpose of Ship and Engineering
-- With the fitting and engineers listed this is the baseline of the doctrine needed to fully utilize the fitting of the ship with the engineers available for each module. If utilizing all engineers you are fully maximizing the capabilities of the Chieftain to allow you to engage all Interceptor variants efficiently and effectively.
-- The speed of the Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 500 m/s which is more than needed to engage any Interceptor variant. Basilisks requires an additional maneuver to combat due to its speed. See Basilisk Considerations
+# Gemi ve Mühendisliğin Amacı
+- Verilen donanım ve mühendislik listesiyle elinizdeki donanımdan, mevcut olan mühendislik seçenekleriyle en etkin şekilde faydalanmayı sağlamak bu öğretinin temel noktasıdır. Mühendislerden tamamen faydalandığınız zaman Chieftain'in tüm kabiliyetlerine sahip olup, tüm Interceptor türleriyle etkin ve etkili çatışmaya girebilirsiniz.
+- Önerilen mühendislikle birlikte Chieftain'in minimum 500 m/s boost sürati, herhangi bir Interceptor türüne karşı fazlasıya yeterlidir. Basilisk hızı sebebiyle ek manevra gerektirir. See Basilisk Considerations
 
 - The purpose of using a repair limpet controller instead of a shield generator is to allow commanders to repair their ship in case of a mistake. The Thargon swarm also does more phasing damage to ships that are shielded compared to those that are unshielded providing a bit of an advantage against the swarm and for power purposes of the ship. Synthesis of limpets may be needed dependent on damage received especially with the higher variants
 
