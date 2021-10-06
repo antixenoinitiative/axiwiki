@@ -1,0 +1,60 @@
+<!--
+title: Caustic Resistance Study
+description: An in-depth study into Thargoid Caustic Resistance and Phasing Damage
+published: true
+date: 2021-09-19T08:35:44.195Z
+tags: thargoids, caustic missiles, study
+editor: ckeditor
+dateCreated: 2021-06-21T05:30:25.120Z
+-->
+
+<h1>
+    Caustic Resistance Study
+</h1>
+<p>
+    <i>
+        By CMDR Maligno
+    </i>
+</p>
+<p>
+    The goal of this study is to reconfirm the following two questions:
+</p>
+<p>
+    Is the phasing damage (through shields) from a Thargoid Interceptors main cannon mitigated by hull with caustic
+    resistance? (Guardian Hull Reinforcement Modules)
+</p>
+<p>
+    Does the Guardian Hull Reinforcement Module caustic resistance stack in a linear or non-linear fashion?
+</p>
+<h2>Experiment 1
+</h2>
+<p>
+    Tested each build against a Medusa Interceptor after eliminating the swarm (from afar, so not to take damage).
+    Before the shields collapsed, in each case the hull was reduced to 48%, which means that cannon phasing damage
+    ignores hull caustic resistance.
+</p>
+<h2>
+    Experiment 2
+</h2>
+<p>
+    Tested each build, but without shields, against a Medusa Interceptor after eliminating the swarm. Again, care was
+    taken not to take any damage. As shown in the figure below, the test run with caustic resistance mitigated incident
+    damage by roughly the right amount. There is an inherent 0.9% error in the measurements, plus a slight difference in
+    hull between the two builds (just 4 points of health), and the occasional missed shot from the Interceptor.
+</p>
+<figure class="image image_resized">
+    <img
+        src="./img/caustic_resistance_study.png">
+</figure>
+<h2>
+    Bottom Line
+</h2>
+<p>
+    No, phasing damage is not mitigated by caustic resistance, as previously thought.
+</p>
+<p>
+    Yes, caustic resistances seem to be working as previously thought and documented in EDSY by stacking in a non-linear
+    method. See
+    <a href="/en/internals"> Modules</a>
+    for full details.
+</p>
