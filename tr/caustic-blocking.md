@@ -8,8 +8,8 @@ editor: markdown
 dateCreated: 2021-06-21T02:24:42.124Z
 ---
 
-# Caustic Missile Blocking
-Thargoid Caustic missiles are launched in volleys, and when in a multi-CMDR fight, there will be one volley of missiles assigned for each CMDR that the Interceptor is in combat with at the time the missiles are activated. When the Thargoid Interceptor is able to successfully begin a Caustic Missile attack, each volley for each commander is launched sequentially, one after the other until each volley has been deployed. **If the ‘current target’ is detected and triggers a Caustic Volley, all other CMDRs will also get a volley assigned, regardless of heat and distance.**
+# Caustic Füze Engelleme
+Thargoid Caustic füzeleri yaylım ateşiyle atılır ve çoklu-CMDR savaşlarında, savaşa dahil olan her CMDR'a birer grup füze yağar. When the Thargoid Interceptor is able to successfully begin a Caustic Missile attack, each volley for each commander is launched sequentially, one after the other until each volley has been deployed. **If the ‘current target’ is detected and triggers a Caustic Volley, all other CMDRs will also get a volley assigned, regardless of heat and distance.**
 
 When the Interceptor launches a volley, it must be able to make a **Target Lock** on them to fire. The Thargoid Interceptor can only make a **Target Lock** when the volley target has a heat signature above the **minimum detection threshold** (~20%) or are within the **minimum detection range** (~700m).
 
