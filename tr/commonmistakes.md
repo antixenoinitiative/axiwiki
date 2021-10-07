@@ -8,16 +8,16 @@ editor: markdown
 dateCreated: 2021-06-10T07:16:26.785Z
 ---
 
-# Common Build Mistakes
-Without a solid understanding of AX Mechanics it is very easy to make simple mistake when putting together an AX Ship. Here are some common mistakes people have made in the past… so you don’t have to!
+# Yaygın Donanım Hataları
+AX mekanikleri net bir şekilde anlaşılmadığında AX gemisi toplarken basit hatalar yapmak çok kolaydır. İnsanların geçmişte sık yaptıkları hatalardan bazılarını sunuyoruz ki siz yapmayın:
 
-## Useless Utilities
+## Gereksiz "Utility"ler
 ### tabs {.tabset}
 #### Point Defence
-Although it may seem like a good idea at first, point defence is hopelessly ineffective in Thargoid combat. Point Defence will fire upon both caustic and Thargon missiles, but it is incapable of actually hitting them. On top of this, they also have a habit of shooting down friendly Flak Launcher projectiles.
+İlk başta güzel bir fikir gibi gözükse de Point Defence Thargoid savaşlarında tamamen işlevsiz. Hem Caustic hem de Thargon füzelerine karşı savunma ateşi açsa da onları vurabilme becerisinden yoksun. Destek olmadıkları gibi bir de dost Flak mermilerini vurarak köstek olma alışkanlıkları var.
 
 #### Chaff
-Chaff does not affect Thargoids in any way, the use of chaff in AX combat will not help you. A similar effect can be achieved by Cold Orbiting instead.
+Chaff'ın hiçbir Thargoid'e karşı bir etkisi yoktur ve AX savaşında size hiçbir fayda sağlamaz. Onun yerine benzer bir etkiyi Cold Orbiting ile yakalamalısınız.
 
 #### Electronic Countermeasures
 Similar to chaff, Electronic Countermeasures have no effect on Thargoid missiles or other weapons systems.
