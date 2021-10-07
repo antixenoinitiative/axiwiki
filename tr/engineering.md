@@ -8,14 +8,14 @@ editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
 ---
 
-# Engineering Materials Guide
-This is a general guide on gathering and collecting materials for engineering your ship in Elite Dangerous.
+# Mühendislik Materyalleri Rehberi
+Bu, Elite: Dangerous'ta geminizi mühendislikle yükseltmek için gereken materyalleri toplamaya yönelik bir rehberdir.
 
-> This guide is primarily focussed on gathering materials. For information on how to engineer your ship, see our [Ship Build Theory](/en/shipbuildtheory) page. 
+> Bu rehberin ana odağı materyal toplamaktır. Geminizi hangi mühendisliklerle yükseltmeniz gerektiğine dair bilgiler için [Gemi Toplama Teorisi](/en/shipbuildtheory) sayfasına göz atın. 
 > 
 > {.is-info}
 
-> **Other Useful Sites** [Scavengers Spreadsheet](https://docs.google.com/spreadsheets/d/1yo1iHP9KUXpoBaIzJsRsDxfAcQa7cBq0YUIFy3m2NII/edit#gid=585994681) [Panpipers's Pleiades Survivor Guide to Barnacles and More](https://docs.google.com/spreadsheets/d/1giHvc1SISUcD7BPKjlbutkuwPrWQwHuSxnBwQ3MPQME/edit#gid=0) 
+> **Diğer Kullanışlı Kaynaklar** [Scavengers Spreadsheet](https://docs.google.com/spreadsheets/d/1yo1iHP9KUXpoBaIzJsRsDxfAcQa7cBq0YUIFy3m2NII/edit#gid=585994681) [Panpipers's Pleiades Survivor Guide to Barnacles and More](https://docs.google.com/spreadsheets/d/1giHvc1SISUcD7BPKjlbutkuwPrWQwHuSxnBwQ3MPQME/edit#gid=0) 
 > 
 > {.is-success}
 
