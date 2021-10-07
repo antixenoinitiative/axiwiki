@@ -9,12 +9,12 @@ dateCreated: 2021-06-21T02:24:42.124Z
 ---
 
 # Caustic Füze Engelleme
-Thargoid Caustic füzeleri yaylım ateşiyle atılır ve çoklu-CMDR savaşlarında, savaşa dahil olan her CMDR'a birer grup füze yağar. When the Thargoid Interceptor is able to successfully begin a Caustic Missile attack, each volley for each commander is launched sequentially, one after the other until each volley has been deployed. **If the ‘current target’ is detected and triggers a Caustic Volley, all other CMDRs will also get a volley assigned, regardless of heat and distance.**
+Thargoid Caustic füzeleri yaylım ateşiyle atılır ve çoklu-CMDR savaşlarında, savaşa dahil olan her CMDR'a birer grup füze yağar. Thargoid Interceptor, Caustic Füze saldırısını her kumandan için sırayla birer yaylım olacak şekilde atar. **Eğer "mevcut hedef", tespit edilmiş ve Caustic Yaylım'ı tetiklediyse diğer tüm CMDR'lara da, sıcaklık ve uzaklıkları ne olursa olsun, birer yaylım füze hazırlanacaktır.**
 
-When the Interceptor launches a volley, it must be able to make a **Target Lock** on them to fire. The Thargoid Interceptor can only make a **Target Lock** when the volley target has a heat signature above the **minimum detection threshold** (~20%) or are within the **minimum detection range** (~700m).
+Interceptor bir yaylım ateşleyeceği zaman **"Hedefe Kilitli"** olmalıdır. Thargoid Interceptor, yalnızca söz konusu hedefin sıcaklığı **en düşük algılama eşiğinin üzerindeyse (>~20%)** ya da uzaklığı **en düşük algılama menzilinin içindeyse (<~700 m)** **"Hedefe Kilitli"** durumuna geçebilir.
 
-If the Interceptor cannot get a **Target Lock** on the specific CMDR for that volley, it will wait **indefinitely** until it can get it. This effectively put **ALL** other caustic missiles on-hold **until the pending volley is fired**. Aka: The Thargoid is now constipated.
+Eğer ki Interceptor yaylımı hazırladıysa ancak belli bir CMDR için **Hedefe Kilitli** durumuna geçemediyse o yaylımı **süresiz** olarak hazırda bekletir. Bu da diğer **TÜM** caustic füzelerin, **hazırda bekletilen yaylım ateşlenene kadar** beklemede tutulmasına sebep olur. Tabiri caizse Thargoid kabız olmuştur.
 
-Should the target of the pending volleys remain cold and undetectable for the rest of the fight, **the Interceptor will not be able to fire any more Caustic Missiles.**
+Olur da bekletilen yaylımın hedefi savaşın sonuna kadar soğuk ve tespit edilemez kalırsa **Interceptor daha fazla Caustic Füze ateşleyemeyecektir.**
 
-It is worth noting that unlike triggering the volley itself (which requires you to be within 3km), if a volley is assigned to you and, for example, 2 out of 3 missiles are launched before you become undetectable, the last missile can be launched at any range and at any time as soon as your heat goes above the detection range.
+Belirtilmelidir ki yaylımı tetiklemiş olmanın aksine (3 km menzil içinde bulunmanızı gerektirir), eğer size bir yaylım atandıysa ve mesela 3 füzeden 2'si siz tespit edilemez konumuna gelmeden önce ateşlendiyse kalan son füze, sıcaklığınız tespit eşiğinin üzerine çıktığı anda herhangi bir mesafe ve zamanda ateşlenebilir.
