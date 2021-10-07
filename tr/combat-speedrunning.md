@@ -8,71 +8,71 @@ editor: markdown
 dateCreated: 2021-06-10T13:56:57.206Z
 ---
 
-# Introduction
+# Giriş
 
-First things first: Speedrunning is not for newcomer pilots to Anti-Xeno combat.
+Her şeyden önce; "speedrun", yeni Anti-Xeno savaş pilotları için değildir.
 
-We generally recommend CMDRs attain at least the Serpent's Nememis rank (Medusa solo) before they focus on learning the advanced techniques involved in speedrunning.
+CMDR'ların speedrun'da kullanılan ileri düzey teknikleri öğrenmeye başlamadan önce, en azından Serpent's Nemesis (Medusa solo) rütbesine sahip olmasını öneririz.
 
-# Speedrunning Ranks
+# Speedrun Rütbeleri
 
-There are two ranks associated with speed kills: Myrmidon and Caduceus' Glint
+Hızlı öldürüşlerle ilgili iki adet rütbe vardır: Myrmidon ve Caduceus' Glint
 
-## Myrmidon - "Silver" color
+## Myrmidon - "Gümüş" rengi
 
-Myrmidon is the "Vanguard" equivalent rank for speedrunning kills. Whereas Vanguard requires you to do a complex or off-meta kill, but gives you no time limit, Myrmidon allows you to use a meta ship, but gives you a strict time limit.
+Myrmidon, speedrun öldürüşlerinde "Vanguard" ayarı rütbedir. Vanguard, karmaşık veya meta dışı bir öldürme gerektirip zaman sınırı vermezken; Myrmidon, meta gemisi kullanmanıza izin verirken zaman sınırı koyar.
 
-Time limits, for a solo Medusa kill,are as follows:
-- 24’00’’000’’’ - Small Ship
-- 12’00’’000’’’ - Medium Ship
-- 6’00’’000’’’ - Large Ship
+Solo Medusa öldürüşü için zaman sınırları şöyledir:
+- 24’00’’000’’’ - Küçük Gemiler
+- 12’00’’000’’’ - Orta Gemiler
+- 6’00’’000’’’ - Büyük Gemiler
 
-Applications are to be submitted using the form below: https://docs.google.com/forms/d/e/1FAIpQLSf5BGMqarMg3eQnDsvu0PcPq8NaLWjH6lKlbjSHO_RaTrTSnA/viewform
+Başvurular bu form kullanılarak yapılmalıdır: https://docs.google.com/forms/d/e/1FAIpQLSf5BGMqarMg3eQnDsvu0PcPq8NaLWjH6lKlbjSHO_RaTrTSnA/viewform
 
-## Cadeceus' Glint - "Gold" color
+## Cadeceus' Glint - "Altın" rengi
 
-Caduceus' glint, or glint for short, is the "Ace" equivalent for speedrunning kills. It is one of only two "competitive" ranks - as in, you can lose this rank.
+Caduceus' glint ya da kısaca glint, speedrun öldürüşlerinde "Ace" ayarı rütbedir. İki adet "rekabete dayalı" rütbeden biridir - bu rütbeyi kaybedebilirsiniz.
 
-Only up to 9 glint CMDRs can exist at any one point, and typically (because a CMDR can hold a record in more than one category) there will be fewer than 9.
+Herhangi bir zamanda aynı anda en fazla 9 adet glint CMDR var olabilir ve çoğunlukla (Bir CMDR birden fazla kategoride rekoru elinde bulundurabileceğinden) bu sayı 9'dan az olur.
 
-Glint is awarded for the fastest small/medium/large ship kill on Basilisk, Medusa, and Hydra. Cyclops do NOT award a Glint rank.
+Glint; Basilisk, Medusa ve Hydra'yı, küçük/orta/büyük gemilerle en hızlı sürede öldürenlere verilir. Cyclops Glint rütbesi vermez.
 
-The speedboard with the latest rankings is available here: https://www.antixenoinitiative.com/leaderboards/speed-kills
+Son sıralamaları içeren Hıztablosu'na buradan ulaşabilirsiniz: https://www.antixenoinitiative.com/leaderboards/speed-kills
 
-Applications are to be submitted using the form below: https://docs.google.com/forms/d/e/1FAIpQLSf5BGMqarMg3eQnDsvu0PcPq8NaLWjH6lKlbjSHO_RaTrTSnA/viewform
+Başvurular bu form kullanılarak yapılmalıdır: https://docs.google.com/forms/d/e/1FAIpQLSf5BGMqarMg3eQnDsvu0PcPq8NaLWjH6lKlbjSHO_RaTrTSnA/viewform
 
-Feeling skilled? Try to see if you can collect them all nine golden rings ...
+Gereken beceriye sahip olduğunuzu mu düşünüyorsunuz? Deneyin ve 9 altın yüzüğün hepsini toplayabilecek misiniz görün.
 
-# Speedrunning Theory
+# Speedrun Teorisi
 
-Speedrunning is about killing a Thargoid in the shortest amount possible, without resorting to bugs or unintended mechanics (e.g., "gibbing").
+Speedrun; bir Thargoid'i hiçbir bug ve usulsüz mekanik (mesela "gibbing") kullanmadan en kısa sürede öldürmektir.
 
-In order to get started, the first thing you'll want to understand is the detailed behavior of Goid AI upon heart distruction. Understanding this is critical to avoid triggering "panic shields":
+Başlangıç için ilk önce Goid AI'ının Kalp parçalanma sonrası nasıl davrandığını anlamanız gerekiyor. Bunu anlamak, "panik kalkanları"nı tetiklemenin önüne geçmek için kritik önem taşıyor:
 
 !\[speedrund.png\](/img/speedrund.png =600x)
 
-# Speedrunning Techniques
+# Speedrun Teknikleri
 
-## Shield Ramming
+## Kalkan Toslaması
 
-*Out of Ammo? Use your Rammo!*
+*"Out of Ammo? Use your Rammo!"*
 
-TBD
+-Yapım Aşamasında-
 
-## Silent Running firing "SR Max"
+## Silent Running ateşlemesi "SR Max"
 
-TBD
+-Yapım Aşamasında-
 
-## Heart "underpopping"
+## Kalp "erkençıkarması"
 
-TBD
+-Yapım Aşamasında-
 
-## Aggro Switching (duo fights only)
+## "Aggro" Değişimi (yalnızca "duo" savaşlarında)
 
-# Speedrunning builds
+# Speedrun Gemileri
 
-See [speedrunbuilds](/en/speedrunbuilds)
+Bakınız [Speedrun Gemileri](/en/speedrunbuilds)
 
-# Speedrunning Tutorial
+# Speedrun Eğitimi
 
-TBD
+-Yapım Aşamasında-
