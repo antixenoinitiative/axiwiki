@@ -8,27 +8,27 @@ editor: markdown
 dateCreated: 2021-06-15T05:19:41.184Z
 ---
 
-# Convergence
+# Yakınsaklık
 
-Convergence is a term commonly used in regards to how well fixed weapons converge on the enemy target. For example, a very wide ship with weapons on each wing-tip may have very poor convergence because the hardpoints are very far apart from each other.
+Yakınsaklık, sabit monte edilmiş silahların ateş ettiklerinde düşman üzerinde vurdukları noktaların birbirine yakınlığı için kullanılan bir terimdir. Örnek olarak, geniş bir gemide kanat uçlarında bulunan silahlar zayıf bir yakınsaklığa sahiptir, çünkü hardpointler birbirinden çok uzaktır ve ateş edildiğinde birbirinden uzak noktaları vururlar.
 
-This becomes very important when using weapons that do not have any gimbal/turreted or automatic adjustment (micro-gimbal, such as small Gauss).
+Taretli/mafsallı ya da otomatik ayarlı ("micro mafsallı", small Gauss gibi) silahlar kullanılmadığında bu konu büyük önem kazanıyor.
 
-In AX combat, it is important that your weapons (Gauss in particular) have a very small convergence area. This will allow all of your weapons to be able to hit a small target (like a Thargoid Heart) simultaneously.
+AX savaşlarında Gauss'larınızın yakınsaklığının yüksek olması önemlidir. Tüm silahlarınızın, Thargoid Kalbi gibi küçük bir alana sahip hedefleri aynı anda vurabilmesini sağlar.
 
-You can place weapons in hardpoints that are physically close together to improve convergence.
+Silahlarınızı birbirine yakın konumlardaki hardpoint'lere kuşanarak yakınsaklığınızı geliştirebilirsiniz.
 
-You can use [Elite Dangerous Ship Anatomy](http://a.teall.info/edsa/) to see how each ship's hardpoints converge, and to decide which hardpoints lead to optimal convergance. You can also use this to see the location of internals and utility slots.
+[Elite Dangerous Ship Anatomy](http://a.teall.info/edsa/) linkini kullanarak gemilerin hardpoint'lerinin yakınsaklıklarını inceleyebilir ve hangilerini kullanmak istediğinize karar verebilirsiniz. Ayrıca Internal ve Utiliy slotlarının yerlerini görmek için de kullanabilirsiniz.
 
 
-## Good Convergence
+## İyi Yakınsaklık
 
-These hardpoints have a very tight convergence. ![](/img/convergegood.png)
+Bu hardpointler iyi bir yakınsaklığa sahip. ![](/img/convergegood.png)
 
-## Bad Convergence
+## Kötü Yakınsaklık
 
-The outer hardpoints on the cutter have very poor convergence. ![convergebad.png](/img/convergebad.png)
+Cutter'ın dış hardpointleri kötü bir yakınsaklığa sahip. ![convergebad.png](/img/convergebad.png)
 
-## Other Examples
+## Diğer Örnekler
 
-Corvette vs Anaconda Convergence ![convergence.jpg](/img/convergence.jpg)
+Corvette ile Anaconda karşılaştırması ![convergence.jpg](/img/convergence.jpg)
