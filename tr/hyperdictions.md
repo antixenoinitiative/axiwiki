@@ -1,6 +1,6 @@
 ---
-title: Hyperdictions
-description: About Thargoid Hyperdictions
+title: Hyperdiction'lar
+description: Thargoid Hyperdiction'ları hakkında
 published: true
 date: 2021-06-15T11:09:57.281Z
 tags: thargoids, interceptors
@@ -8,15 +8,15 @@ editor: markdown
 dateCreated: 2021-06-15T11:06:57.862Z
 ---
 
-# Hyperdictions
+# Hyperdiction'lar
 
-Hyperdictions are another less direct means to find Thargoids…. for Thargoids to find YOU. Hyperdictions occur when jumping from systems to system in Thargoid activity areas.
+"Hyperdiction" terimi, sistemler arası sıçrayış yaparken Interceptorlerin "yolunuzu kesmesi", bizi hiperuzaydan çekip çıkarması için kullanılır. Hyperspace + Interdiction kelimelerinin birleşimiyle türetilmiştir. Thargoidleri bulmanın- ya da Thargoidlerin sizi bulmasının bir başka yolu denebilir. Hyperdictionlar; Thargoid etkinlik bölgesindeki sistemlere sıçrarken ya da bu sistemlerden sıçrarken başınıza gelebilir.
 
-When a Hyperdiction occurs you will be ripped out of Hyperspace and left floating somewhere in-between the star systems you were jumping from (you will actually still be in the origin system). One of the hyperdicting thargoids will perform an EMP attack, which will shut down your ship if you are not protected (see: Modules). Similar to any other encounter, If the Scans you while carrying Thargoid or Guardian technology (cargo), it will become hostile if you do not drop the items.
+Hyperdiction başınıza geldiğinde hiperuzaydan sökülüp, sıçrama yaptığınız sistemler arasında bir yere atılırsınız (aslen sıçramaya başladığınız sistemden ayrılamazsınız) . Daha sonra hyperdiction uygulayan Thargoidlerden birisi EMP saldırısını yapıp, eğer korunmuyorsanız gemi sistemlerinizi devre dışı bırakır (bkz: Modüller). Tıpkı diğer karşılaşmalar gibi sizi taramaya sokar; eğer herhangi bir Thargoid ya da Guardian "kargosu" taşıyorsanız bir uyarı verir ve belirli bir süre içerisinde bırakmadığınız takdirde saldırı durumuna geçerler. (Geminizdeki modüllerin bi etkisi yoktur.)
 
-If you have a Shutdown Field Neutralizer, it is possible to avoid the shutdown and proceed to engage the Interceptors.
+Shutdown Field Neutraliser'ınız varsa EMP'ye karşı kullanabilirsiniz.
 
-> Hyperdictions can have more than 1 interceptor, up to 4 in total. 
+> Hyperdiction'larda 1 ile 4 arası Interceptor bulunabilir. 
 > 
 > {.is-info}
 
