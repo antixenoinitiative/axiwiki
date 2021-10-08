@@ -51,5 +51,5 @@ CMDR Aranionros Stormrage tarafından hazırlanan bu kısa videoda ölü Interce
 ## Kalpler Nasıl Hızlıca Toplanır
 - Toplayıcı Limpet'ler geminizin hızına bağıl fırlatılır, dolayısıyla Kalbe doğru hızlı giderken fırlatmak onlara başlangıçta hız desteği sağlar.
 - Caustic bulut henüz küçükken Kalbe yakın geçmeniz mümkündür.
-- Launching multiple limpets is advised as sometimes they crash into the dead Thargoid.
-- Using a B-rated collector limpet controller will give you more range, therefore a bit more room to work with. A size 3B controller should be enough (though a 5B was used in this video)
+- Bazen Thargoid'in cesedine çakıldıklarından birden fazla Limpet kullanmanız tavsiye edilir.
+- B sınıfı bir kontrolcü kullanmanız size daha fazla menzil kazandırır. 3B kontrolcüsü yeterlidir (videoda 5B kullanılmıştır)
