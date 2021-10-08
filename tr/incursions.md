@@ -1,6 +1,6 @@
 ---
-title: Incursions
-description: About Thargoid Incursions and Infestations
+title: Incursion'lar
+description: Thargoid Incursion ve Infestation'larına dair
 published: true
 date: 2021-06-17T01:25:35.134Z
 tags: thargoids, incursions, infestations
@@ -8,8 +8,8 @@ editor: markdown
 dateCreated: 2021-06-17T01:24:54.361Z
 ---
 
-# Thargoid Infestations
-During times of active Thargoid behaviour, on a weekly basis a number of systems will become “Infested” each week and enter the **Infestation** state. This is first noted by the presence of [Non-Human Signal Sources](/en/nhss) containing various Scout and Interceptor variants. An Infestation indicates an incoming invasion in the same system, unless a large quantity of Thargoid vessels are destroyed in the system.
+# Thargoid Infestation
+Thargoidlerin etkin olduğu dönemlerde, haftalık bazda bir grup sistem "istila edilir" ve **Infestation** (istila) durumuna geçer. Bu durum ilk başta, çeşitli Scout ve Interceptor türlerini içeren [Non-Human Signal Sources (NHSS)](/en/nhss) sinyallerinin ortaya çıkmasıyla fark edilir. An Infestation indicates an incoming invasion in the same system, unless a large quantity of Thargoid vessels are destroyed in the system.
 
 If an Insufficient number of vessels are destroyed, the system will enter a Incursion state (after the next weekly tick)
 
