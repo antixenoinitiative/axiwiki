@@ -9,28 +9,28 @@ dateCreated: 2021-06-17T01:24:54.361Z
 ---
 
 # Thargoid Infestation
-Thargoidlerin etkin olduğu dönemlerde, haftalık bazda bir grup sistem "istila edilir" ve **Infestation** (istila) durumuna geçer. Bu durum ilk başta, çeşitli Scout ve Interceptor türlerini içeren [Non-Human Signal Sources (NHSS)](/en/nhss) sinyallerinin ortaya çıkmasıyla fark edilir. An Infestation indicates an incoming invasion in the same system, unless a large quantity of Thargoid vessels are destroyed in the system.
+Thargoidlerin etkin olduğu dönemlerde, haftalık bazda bir grup sistem "kuşatılır" ve **Infestation** (kuşatılmış) durumuna geçer. Bu durum ilk başta, çeşitli Scout ve Interceptor türlerini içeren [Non-Human Signal Sources (NHSS)](/en/nhss) sinyallerinin ortaya çıkmasıyla fark edilir. Infestation durumu, eğer çok sayıda Thargoid yok edilip savunulmadığı takdirde sistemin istila edileceğinin belirtisidir.
 
-If an Insufficient number of vessels are destroyed, the system will enter a Incursion state (after the next weekly tick)
+Eğer yeterli sayıda Thargoid yok edilemezse, bir sonraki haftalık güncellemede sistem Incursion (istila edilmiş) durumuna geçer.
 
-The Eagle Eye system will identify a new wave of infested systems each week.
+Eagle Eye sistemi her hafta yeni bir kuşatılmış sistem dalgası tespit eder.
 
-# Thargoid Incursions
-Should a system enter the Incursion state it will become under full Thargoid Assault. Once underway the system’s allegiance will change to “Thargoid” and multiple cumulative negative effects can be observed as the incursion persists.
+# Thargoid Incursion
+Incursion durumuna düşmüş bir sistem tam ölçekli bir Thargoid istilası altındadır. Sistemin sahipliği "Thargoid"lere geçer ve bu durum devam ettiği sürece ortaya çıkan olumsuz etkiler artarak birikebilir.
 
-- One Undamaged starport will become **Damaged** in the system per week, until the Incursion is cleared.
-- **All Bulk Cruiser Megaships** will become damaged at the start of the incursion.
-- Stronger Thargoid Variants will appear.
-- Anti-Xeno Conflict Zones will appear in the system. (Read more in: Anti-Xeno Conflict Zones)
+- Incursion durumu temizlenene kadar her hafta yeni bir sağlam "starport" (büyük istasyon) **Hasarlı** durumunu alır.
+- Sistemdeki **tüm Megashipler ** Incursion başlangıcında hasar alır.
+- Daha güçlü Thargoid türleri ortaya çıkmaya başlar.
+- Anti-Xeno Conflict Zone (Çatışma Bölgeleri) ortaya çıkmaya başlar. (Bilgi için: Anti-Xeno Çatışma Bölgeleri)
 
-Ships may be hyperdicted while jumping into a system under Incursion.
+Incursion durumundaki sistemlere sıçrayan gemiler hyperdiction'a maruz kalabilir.
 
-The GalNet Thargoid Activity report will provide an up-to-date report on the remaining presence of Thargoids within an Incursion system. As more Thargoid vessels are destroyed, the presence level will decrease until the incursion is cleared completely.
+GalNet Thargoid Activity Report (Eylem Raporu), Incursion durumundaki sistemlerde bulunan Thargoid yoğunluğu hakkında güncel bilgi içerir. Thargoid gemileri yok edildikçe Incursion bitene kadar yoğunluk miktarları azalır.
 
-Presence Levels are:
+Yoğunluk seviyeleri:
 
-- Massive Thargoid Presence **0-25% Cleared**
-- Significant Thargoid Presence **25-50% Cleared**
-- Moderate Thargoid Presence **50-75% Cleared**
-- Marginal Thargoid Presence **75-100% Cleared**
-- No Thargoid Presence **100% Cleared**
+- Massive Thargoid Presence **0-25% Temizlenmiş**
+- Significant Thargoid Presence **25-50% Temizlenmiş**
+- Moderate Thargoid Presence **50-75% Temizlenmiş**
+- Marginal Thargoid Presence **75-100% Temizlenmiş**
+- No Thargoid Presence **100% Temizlenmiş**
