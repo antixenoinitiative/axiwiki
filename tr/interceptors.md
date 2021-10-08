@@ -68,16 +68,16 @@ Parlak yeşil renkler barındıran Hydra türü birtakım fiziksel farklılıkla
 ## **Orthrus**
 !\[orthrus.png\](/img/orthrus.png =300x){.align-right}Beşinci tür olan Orthrus, Professor Palin'in Maia'daki araştırma merkezinden tahliyesi sırasında geçici süreyle ortaya çıkmıştır. Daha sonra ortadan kaybolmuş ve oyun içerisinde bir daha görülmemiştir.
 
-During its brief appearance, the Orthrus variant could be seen momentarily flying away from Palin's Base before High-Waking away. At the time the Orthrus did not appear to have any combat mechanics and would glitch if destroyed. The Orthrus variant had similar stats to the Basilisk. When a sample was taken with the Research a “Basilisk Tissue sample” was received.
+Kısa süreli ortaya çıkışında Palin'in üssünden ayrılıp, High-Wake ile bölgeyi terk ederken gözlemlenmiştir. Herhangi bir savaş mekaniğine sahipmiş gibi gözükmeyen Orthrus, öldürüldüğünde "glitch"e sebep olmuştur. Basilisk'e yakın özellikleri vardır. Doku örneği alındığında, "Basilisk doku örneği" vermiştir.
 
-Pilots noted at the time, the Orthrus variant exhibited what appears to be barnacle-like growths on each petal, suggesting this interceptor may have had something to do with the Barnacles that Thargoids actively interact with.
+Pilotlar tarafından, yapraklarında barnacle tarzı oluşumlar fark edilen Orthrus, barnaclelarla ilgili bir görevi olduğu izlenimi uyandırmıştır.
 
-> The Orthrus can no longer be found in-game. 
+> Şu an için oyunda mevcut değildir. 
 > 
 > {.is-danger}
 
-During a ‘Let’s Play' Livestream, Community Manager, Stephen Bendetti confirmed that the Orthrus was a mistake and not intended to be in the game.
+Bir canlı yayında Topluluk Yöneticisi Stephen Bendetti, Orthrus'un bir hata olduğunu ve oyunda hiç bulunmaması gerektiğini doğrulamıştır.
 
-"Just a bug" Video: https://www.twitch.tv/videos/533401140 Timestamp: 41:15 (Unfortunately the clip is no longer available.)
+"Sadece bir bug" Video: https://www.twitch.tv/videos/533401140 Timestamp: 41:15 (Ne yazık ki klip artık mevcut değil.)
 
-Frontier Developments Developer “KSE” has confirmed “the Orthrus was never meant to appear in the game” confirming it is no longer canon in the storyline.
+Frontier Developments geliştiricilerinden "KSE"; "Orthrus oyunda hiç olmamalıydı" diyerek Orthrus'un oyunda yeri olmadığını doğrulamıştır.
