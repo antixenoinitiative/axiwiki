@@ -1,6 +1,6 @@
 ---
-title: Thargoid Hearts
-description: Explanation of Thargoid Hearts and related mechanics
+title: Thargoid Kalpleri
+description: Thargoid Kalpleri ve mekanikleri hakkında bilgiler
 published: true
 date: 2021-09-19T11:13:43.707Z
 tags: combat, thargoids, interceptors, hearts
@@ -8,48 +8,48 @@ editor: markdown
 dateCreated: 2021-06-17T00:35:26.084Z
 ---
 
-# Thargoid Hearts
-All Thargoids have a specific number of internal modules known as hearts, these grant the Thargoid Interceptor very fast hull regeneration. The hearts are positioned around the outside of the Interceptor as petals, depending on the variant you will be able to break a number of these petals off completely, indicating that the heart has been broken
+# Thargoid Kalpleri
+Tüm Interceptorler "Kalp" olarak adlandırılan ve çok hızlı gövde sağlık yenilenmesi sağlayan belirli sayılarda iç modüllere sahiplerdir. Bu Kalpler, Interceptorlerin "yaprak" kısımlarında konuşlanmışlardır ve parçalandıklarında bu yaprak da beraberlerinde parçalanır.
 
-## Regeneration
+## Yenilenme
 
-Thargoid Hearts give the Interceptor incredibly fast regeneration, this will make destroying the Interceptor nearly impossible until all hearts are broken.
+Kalpler, Interceptorlere çok hızlı sağlık yenilenmesi sağlarlar ve bu yüzden bir Interceptor'ü tüm Kalplerini parçalamadan öldürmek neredeyse imkansızdır.
 
-## Exertion
+## Pörtletme
 
-Thargoid Hearts are immune to damage by default. However you can make the hearts vulnerable by dealing enough damage to the Thargoid Interceptor and **Exerting** the heart. You must deal 20% of the remaining total hull to cause the heart to become exerted. Once exerted, the Thargoid will regenerate its health rapidly and the Heart will begin glowing brightly for ~45 seconds.
+Thargoid Kalpleri normal konumlarında hasar almazlar. Interceptor gövdesine yeterli hasarı uygulayarak bu Kalpleri **Pörtletmeniz** hasar alır konuma geçmelerini sağlar. Bir Kalbi pörtletmek için Interceptor'ün kalan gövde sağlığının 20%'si kadar hasar vermeniz gerekir. Pörtlediği zaman Kalp ~45 saniyeliğine parlamaya başlar ve Thargoid'in yenilenme hızı üst seviyeye çıkar.
 
 ## {.tabset}
 
-### Exerted Cyclops Heart
+### Pörtlemiş Cyclops Kalbi
 !\[clopsheart.png\](/img/clopsheart.png =400x)
 
-### Exerted Hydra Heart
+### Pörtlemiş Hydra Kalbi
 !\[hydraheart.png\](/img/hydraheart.png =400x)
 
-## Destroying the Heart
+## Kalp Parçalamak
 
-During the exertion, any direct AX damage dealt to the heart will cause it to lose health. Hearts to do not regenerate and any damage done to them is permanant. If you fail to break the heart during this 45 second window, you will have to re-exert the Thargoid Interceptor again, this will always exert the same heart.
+Pörtlemiş halde Kalp, AX hasarı almaya başlar. Kalpler kendi sağlıklarını yenileyemez ve aldıkları her hasar kalıcıdır. 45 saniyelik süre zarfında Kalbi parçalayamazsanız Kalp kapanır ve tekrar pörtletmeniz gerekir, yine aynı Kalp pörtleyecek ve kaldığınız yerden devam edebileceksiniz.
 
-Once all the Interceptors hearts are destroyed, any damage to the Interceptor is permanent.
+Tüm Kalpler parçalandığında Interceptor'e uyguladığınız hasarlar kalıcı hale gelir.
 
-The Heart has a very small hit-box and you must be very precise in-order to deal damage to it.
+Kalplerin boyutları küçüktür ve hasar vermek için iyi nişan almanız gerekir.
 
-## Location
+## Konum
 
-Thargoid Hearts are located in the petals of the Interceptor. They spawn in a semi-consistent pattern for each variant however they will be exerted in a random pattern for each kill.
+Interceptorlerin yapraklarında yer alırlar. Her türün yarı-tutarlı Kalp düzeni vardır ancak Kalplerin pörtleme sıraları değişiklik gösterir.
 
-You can sub-target the hearts if you use a Xeno-Scanner on the Interceptor and complete a full-scan. This will also allow you to see the status of all hearts in the contacts panel.![heart_location.png](/img/heart_location.png)
+Xeno Scanner taraması yaparsanız sol menüdeki "sub-target" sekmesinden Kalpleri seçip nişan alabilirsiniz. Bu panelde Kalplerin durumu hakkında bilgileri de görebilirsiniz.![heart_location.png](/img/heart_location.png)
 
-# Collecting Hearts
+# Kalpleri Toplamak
 
-A short video by CMDR Aranionros Stormrage on a very fast and effective way to collect Thargoid Hearts from a dead Thargoid Interceptor without waiting for the Caustic cloud to dissapate.
+CMDR Aranionros Stormrage tarafından hazırlanan bu kısa videoda ölü Interceptorlerden Caustic bulutun dağılmasını beklemeden Kalpleri toplamanın hızlı ve etkili bir yöntemini görebilirsiniz.
 
 [Video by CMDR Aranionros Stormrage](https://youtu.be/YBM9TqCZJMg)
 
 
-## How to Scoop Hearts Quickly
-- Collector limpets inherit ship velocity, so moving quickly towards the heart when launching them will give them a great speed boost.
-- You can pass quite close to the heart while the cloud is still small.
+## Kalpler Nasıl Hızlıca Toplanır
+- Toplayıcı Limpet'ler geminizin hızına bağıl fırlatılır, dolayısıyla Kalbe doğru hızlı giderken fırlatmak onlara başlangıçta hız desteği sağlar.
+- Caustic bulut henüz küçükken Kalbe yakın geçmeniz mümkündür.
 - Launching multiple limpets is advised as sometimes they crash into the dead Thargoid.
 - Using a B-rated collector limpet controller will give you more range, therefore a bit more room to work with. A size 3B controller should be enough (though a 5B was used in this video)
