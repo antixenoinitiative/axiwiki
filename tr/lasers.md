@@ -1,6 +1,6 @@
 ---
-title: Lasers
-description: Using laser in AX combat.
+title: Lazerler
+description: AX savaşlarında lazer kullanmak
 published: true
 date: 2021-06-10T06:08:40.833Z
 tags: outfitting, modules
@@ -8,22 +8,22 @@ editor: markdown
 dateCreated: 2021-06-10T04:07:02.325Z
 ---
 
-# Lasers
-`Guide by CMDR Naddesh and CMDR Ghosti`
+# Lazerler
+`CMDR Naddesh ve CMDR Ghosti tarafından hazırlanmış bir rehberdir.`
 
-Overall human weapons are largely useless in Anti-Xeno combat. There are however a few exceptions which give added utility and allow for certain special tactics that can greatly improve your combat prowess.
+Normal insan silahları Anti-Xeno savaşlarında çoğunlukla işlevsizdir. Ancak birkaç istisna vardır ki bazı özel taktikleri uygulamanızı sağlar ve işlevsellik kazandırarak savaş alanındaki etkinizi artırır.
 
 ## Thermal Vent Beam Lasers
 
-The most popular variant is the Thermal Vent Long Range Beam Laser.
+En yaygın kullanılanı Thermal Vent Long Range Beam Laser'leridir.
 
-The primary function is its cooling effect which comes from the experimental effect ‘Thermal Vent’. AX pilots can use the TV beam to cool their ship below the 20% heat threshold outside of an attack run (when not exerting and destroying hearts).
+Ana görevi, deneysel mühendislik ürünü olan "Thermal Vent"ten gelen soğutma etkisidir. AX pilotları TV Beam'leri kullanarak gemilerini 20% sıcaklık eşiğinin altında tutmayı başarabilirler.
 
-The main example of this function is cooling down when starting the attack run. Here the long range modification proves its worth. Since the Interceptor does not fire upon you unless you closer than 3 kilometers away, with the long range beam you can start cooling even at 6 kilometers away (G5) without having to waste a heatsink on the approach (minimum recommended engineering is G3).
+Bu fonksiyonun en önemli örneği olarak, saldırı hareketinize başlamadan önce geminizi soğutmak gösterilebilir. Burda da Long Range (uzun menzil) modifiyesi ön plana çıkar. Interceptorler size 3 km menzil dışından saldırıya başlamadıklarından 6 km menzile çıkabilen uzun menzil sayesinde çok daha uzaktan heatsink kullanmanıza gerek kalmaksızın geminizi soğutabilirsiniz.
 
-Another example is orbiting the Interceptor practically indefinitely without using heatsinks, which is useful when you need to quickly synth something, use your AFMU, or kite the Interceptor until your wingmates can rejoin the fight.
+Bir diğer örnek, Interceptor etrafında heatsink kullanmadan süresiz soğuk yörünge hareketi yapabilmeniz olabilir ki hızlıca bir şey sentezlemeniz, AFMU onarımı yapmanız veya Interceptor'ü wing arkadaşlarınız gelene kadar oyalamanız gerektiğinde çok işe yarayabilir.
 
-A third usage case, specific to large ship combat, is using TV beams in combination with a heatsink to keep cool while synthing and prior to performing a cold reboot after the heart. This is an advanced tactic, for more information refer to the Large Ship Guide.
+Üçüncü kullanım biçimi, özellikle büyük gemi savaşlarında TV Beam'inizi heatsinklerinize destek olarak, sentezleme yaparken ya da Kalp parçalama sonrası cold reboot yaparken soğuk kalmak için ateşlemektir. Bu ileri seviye bir taktiktir, daha fazla bilgi için Büyük Gemi Rehberi'ne danışın.
 
 The cooling of the TV beam depends on the thermal load the beam produces (**The more heat generated per second, the more effective the cooling will be**)
 
