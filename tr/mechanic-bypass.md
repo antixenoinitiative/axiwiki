@@ -1,6 +1,6 @@
 ---
-title: Mechanic Bypass Guide
-description: How to skip certain mechanics in a thargoid fight
+title: Mekanik Atlama Rehberi
+description: Thargoid savaşlarında bazı mekanikler nasıl atlanır
 published: true
 date: 2021-08-20T01:57:10.991Z
 tags: combat, thargoids, interceptors
@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
 ---
 
-# Sleep Phase Mechanics
+# Uyku Evresi Mekanikleri
 
-Thargoid Interceptors use various special abilities (read more about these in our [Special Attacks](/en/special-attacks) page) which occur whenever a Thargoid Heart is broken. The Caustic Missiles, Shutdown Pulse and the Panic Shield Regeneration abilities require the Interceptor to have a **Target Lock** for it to be able to activate them (similar to how seeker missiles work).
+Thargoid Interceptorler, Kalp parçalanmaları sonrası bazı özel yetenekler kullanırlar (bkz. [Özel Yetenekler](/en/special-attacks)). "Caustic Füzeler", "Shutdown Pulse" ve "Panik Kalkanları" yeteneklerini kullanmak için Interceptor'ün **Hedefe Kilitli** olması gerekir.
 
-When the Thargoid Heart is broken, it will begin looking for a **Target Lock**. The Interceptor can only make a **Target Lock** when the current active target (most damage dealt) has a heat signature above the **minimum detection threshold** (~20%) or are within the **minimum detection range** (~700m).
+Thargoid, Kalbi parçalandığı zaman **Hedefe Kilitli** durumuna geçmek ister. Thargoid Interceptor, yalnızca "mevcut hedef" (en yüksek hasar uygulamış)'in sıcaklığı **en düşük algılama eşiğinin üzerindeyse (>~20%)** ya da uzaklığı **en düşük algılama menzilinin içindeyse (<~700 m)** **"Hedefe Kilitli"** durumuna geçebilir.
 
-The Interceptor will continue to try and get a **Target Lock** on the current target until **35** **Seconds** have passed. This is called the **“Sleep Phase”**. After this period, the Interceptor will give up on getting a target lock, deploy new [Thargon Swarms](/en/thargon-swarms) (if one is not already active) and continue the fight. _Effectively skipping any Caustic Missiles or Shutdown Fields that were due for that Heart_
+Interceptor **35** **saniye** boyunca **Hedefe Kilitli** olabilmek için mevcut hedefi arayacaktır. Bu evreye **“Uyku Evresi”** deriz. Ardından Interceptor pes eder ve halihazırda mevcut değilse bir [Thargon Swarm'ı](/en/thargon-swarms) konuşlandırır. _Bu da o Kalp sonrası kullanılacak Caustic Füzeler ya da Shutdown Field'ı es geçmiş olduğunuz anlamına gelir._
 
 > If the current target can **maintain minimum distance** and **stay cold/silent running**, the Thargoid Interceptor will not be able to get a **Target Lock** and will not deploy its **special abilities**. 
 > 
