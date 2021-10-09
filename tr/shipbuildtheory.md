@@ -63,27 +63,27 @@ Thargoidler hızlı ve çeviktir ve bu yüzden azami hız ve manevra kabiliyeti 
 
 ## Thrusters
 
-**The Meta:** A-rated in the largest size available with Dirty Tuning blueprint and Drag Drives experimental. Although the thermal load increase may seem like a problem, in practice the performance of dirty drag drives far exceeds any alternative.
+**Meta:** En büyük A sınıfı - Dirty Tuning ve Drag Drives mühendislikleriyle. Termal performansları düşük olsa da Dirty Drag sürücülerinin performansı başka bir şeyle kıyaslanamaz.
 
-**Alternative:** Drive Distributors experimental - only for use on small ships utilizing Enhanced Performance Thrusters (EPTs)
+**Alternatif:** Drive Distributors deneyseli - sadece Enhanced Performance Thrusters kullanan küçük gemiler için.
 
 ## Frame Shift Drive
 
-**The Meta:**  A-rated in the largest size available with Increased Range blueprint and Mass Manager experimental. Thargoids are often found in "bubbles" of space, so being able to move around in a small range is required for AX combat.
+**Meta:** En büyük A sınıfı - Increased Range ve Mass Manager mühendislikleriyle. Thargoidler genel olarak uzaydaki belirli "baloncuklar" içerisinde bulunduklarından mesafe kat edebilen bir gemiye sahip olmak iyi bir fikirdir.
 
-**Alternative:** 2D FSD with grade one fast boot and Stripped Down experimental - provides a small speed boost at the cost of being unable to jump your ship any meaningful distance.
+**Alternatif:** 2D FSD Grade 1 Fast Boot ve Stripped Down mühendislikleriyle - geminizin sıçrama menzilini ortadan kaldırarak biraz daha süratli olmanızı sağlar.
 
 ## Life Support
 
-**The Meta:** D-rated with Lightweight blueprint. D-rated has the lowest power draw and weight, and still has a long enough timer for repeated oxygen synths if your canopy blows.
+**Meta:** D sınıfı Lightweight mühendisliği ile. D sınıfları en hafiftir ve en düşük güç tüketimine sahiptir. Yine de, kanopiniz kırıldığında oksijen sentezleyerek hayatta kalmanız için gerekli zamanı sağlar.
 
-**Alternative:** A-rated allowing for longer time between required synthing.
+**Alternatif:** A sınıfı, sentezlemeler arasında daha uzun süre yaşam desteği sağlar.
 
 ## Power Distributor
 
-**The Meta:** A-rated in the largest size available with Charge Enhanced blueprint and Super Conduits experimental. Gauss Cannons have extreme distributor draw, so having the maximum possible WEP capacitor regen is essential. The capacity loss of these modifications is also not a problem, since most ships can fire two of their gauss cannons at a time without spiking over 20% heat.
+**Meta:** En büyük A sınıfı - Charge Enhanced ve Super Conduits mühendislikleriyle. Gauss Cannon'ları çok yüksek distribütör çekişine sahip olduklarından mümkün olan en hızlı WEP yenilenmesine sahip olmanız gerekmektedir. Bu yükseltmelerle kaybedilen kapasite de sorun teşkil etmez, çoğu gemi iki Gauss'u 20% sıcaklığın üzerine çıkmadan ateşleyebilir.
 
-**Alternative:** Weapon Focused blueprint. Increased WEP capacitor size at the cost of boost frequency. Some ships require this modification to keep their heat below the threshold required for proper cold orbiting.
+**Alternatif:** Weapon Focused yükseltmesi. WEP kapasitör boyutunu artırır ancak yenilenme hızı düşük kalır. Bazı gemiler düzgün bir soğuk yörünge hareketi yapabilmek için gerekli olan sıcaklık eşiğinin altında kalabilmek için bu yükseltmeye ihtiyaç duyar.
 
 ## Sensors
 
