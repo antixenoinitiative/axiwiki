@@ -9,16 +9,16 @@ dateCreated: 2021-06-21T02:36:55.841Z
 ---
 
 # Pip Yönetimi Rehberi
-Pip yönetimini kendiniz yapabileceğiniz gibi daha etkili bir yöntem olarak bir makro programı da kullanabilirsiniz, örneğin AutoHotKey (https://autohotkey.com/). AHK can almost instantaneously rebalance your pips more accurately than even the most trained pilot. Voice attack can also be used for pip management, either via voice commands (not recommended due to speed) or binding to mouse/function keys.
+Pip yönetimini kendiniz yapabileceğiniz gibi daha etkili bir yöntem olarak bir makro programı da kullanabilirsiniz, örneğin AutoHotKey (https://autohotkey.com/). AHK, piplerinizi neredeyse anında ve isabetli bir şekilde düzenleyerek en deneyimli pilotlardan bile daha iyi iş çıkarır. Voice Attack da ister sesli komutlarla (yavaş olacağından önerilmez), isterseniz fare/fonksiyon tuş atamalarıyla pip yönetimi için kullanılabilir.
 
-The following AHK script binds the most common pip distributions to function keys F1-F8. You can then use your mouse’s software to bind additional mouse keys (side buttons for example) to a selection of function keys that suits your playstyle.
+Bu AHK scripti, yaygın kullanılan pip dağılımlarını F1-F8 arasındaki fonksiyon tuşlarına atar. Daha sonra farenizin yazılımını kullanarak bu fonksiyon tuşlarını fare tuşlarınıza atayıp kullanabilirsiniz.
 
-[Download AutoHotkey Script](https://cdn.discordapp.com/attachments/641134486003777536/703747638062874634/AutoHotkey.ahk)
+[AutoHotkey Scriptini buradan indirin](https://cdn.discordapp.com/attachments/641134486003777536/703747638062874634/AutoHotkey.ahk)
 
-Pip management is essential to effectively utilizing your gauss while maximizing mobility during the Thargoid assault. When kiting the Thargoid and tackling the swarm, pip management minimizes the time necessary for restoration of your shields. Any time spent with no pips in systems with shields at less than 100% is less shield strength available when returning to fight the Thargoid.
+Pip yönetimi, Gauss'larınızdan en etkin biçimde faydalanıp bir yandan manevra kabiliyetinizi de kontrol altında tutmak için önemlidir. Thargoid'i kite'layıp Swarm'la dalaşırken pip yönetimiyle kalkanlarınız için gereken yenilenmeyi azaltabilirsiniz. Kalkanlarınız 100% seviyesinin altındayken sistem kapasitöründe pip bulundurmadan geçirdiğiniz süre, Thargoid'le savaşa döndüğünüzde sahip olacağınız daha az kalkan gücü demektir.
 
-When firing gauss, make sure you keep 3-4 pips in WEP to reduce the amount of heat generated with each shot.
+Gauss ateşlerken WEP'te 3-4 pip bulundurarak olabildiğince az ısı çıkardığınızdan emin olun.
 
-Another example of the benefits: Transferring 4 pips to sys right before impact of the interceptor cannon leads to a 60% increase to shield damage resistance, which translates to an ~2.6x increase in shield strength. Using macros can allow you to quickly switch from 4-0-2 to 0-2-4, to maintain maximum recharge rate on your gauss, keep your engine constantly boosting, and ensure your shields are always at peak resistance. Always avoid running out of systems energy as this will prevent you from firing a heatsink.
+Bir başka örnek ise: Interceptor'ün ana silahından hasar almadan hemen önce SYS'e 4 pip aktarmak kalkanlarınızın hasar direncini %60 yükselterek kalkan gücünüzde ~2.6 kat artış sağlar. Makro kullanımı, 4-0-2 ve 0-2-4 arasında hızlı geçişler yapmanızı sağlayarak hasar alırken en iyi kalkan gücüne, saldırı yaparken en iyi silah durumuna sahip olmanıza imkan sağlar. SYS kapasitörünün boşalmasına asla izin vermeyin zira heatsink kullanamazsınız.
 
 ![pips.png](/img/pips.png) {.align-center}
