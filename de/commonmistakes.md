@@ -1,7 +1,7 @@
 ---
 title: Häufige Fehler
-description: Common mistakes to avoid when hunting Thargoids
-published: ja
+description: Häufige Fehler bei der Jagd auf Thargoids
+published: true
 date: 2021-09-19T11:15:47.195Z
 tags: Aufbau, Ausrüsten, Ingenieur
 editor: markdown
