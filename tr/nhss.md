@@ -1,6 +1,6 @@
 ---
 title: Non-Human Signal Sources
-description: About Non-Human Signal Sources and Finding Thargoids
+description: Non-Human Signal Sources sinyalleri ve Thargoidleri bulmaya dair
 published: true
 date: 2021-08-25T23:17:11.754Z
 tags: thargoids, interceptors, scouts
@@ -8,54 +8,54 @@ editor: markdown
 dateCreated: 2021-06-15T10:51:53.374Z
 ---
 
-# Non-Human Signal Sources
-Non-Human Signal Sources are a special type of signal source that can be found in areas of Thargoid activity, Upon finding and entering a NHSS there is a chance you will get one of three outcomes:
+# Non-Human Signal Source Sinyalleri
+Kısaca NHSS olarak bahsettiğimiz bu sinyal tipleri Thargoid etkinliği olan bölgelerde yar alan sistemlerde ortaya çıkarlar ve içinde bu üç durumdan biriyle karşılaşırsınız:
 
-- A single Thargoid Interceptor (Cyclops, Basilisk, Medusa or Hydra)
-- A swarm of scouts + a Thargoid Interceptor (Hostile)
-- A swarm of scouts (Lower NHSS)
+- Tek Thargoid Interceptor (Cyclops, Basilisk, Medusa veya Hydra)
+- Scout birliği + Thargoid Interceptor (Saldırgan)
+- Scout birliği (Düşük NHSS'lerde)
 
-If you get option 2, the Thargoid Interceptor will emit an EMP pulse when it arrives and it will be immediately hostile
+İkinci seçenekle karşılaşırsanız Interceptor saldırgan durumda, EMP ile giriş yapar.
 
-A NHSS can only be seen while in supercruise. Since they will often appear in bulk, to easily scan them all drop onto the Nav Beacon and scan it. Once you jump into supercruise all NHSS will be unveiled.
+NHSS'ler sadece supercruise'da görülebilirler. Genelde çok sayıda birden bulunduklarından, hepsini kolayca taramak için Nav Beacon'ı tarayın. Supercruise'a geri döndüğünüzde tüm NHSS'lerin ne olduklarını görebileceksiniz.
 
-NHSS are dynamic and will appear and disappear over time, lasting anywhere up to 30 minutes each.
+NHSS'ler sürekli olarak ortaya çıkıp kaybolurlar ve 30 dakikaya kadar varlıklarını sürdürebilirler.
 
-In some rare cases (Threat 5-8 only) you will have an empty instance with only damaged ships, in these instances there is a chance you may find a Thargoid Probe or a Thargoid Sensor.
+Bazı nadir durumlarda (sadece threat 5-8 seviyesi) sadece gemi enkazlarının bulunduğu boş ortamlarla karşılaşabilirsiniz ve bu ortamlarda Thargoid Probe veya Thargoid Sensor bulabilirsiniz.
 
-See this investigation into NHSS spawn rates and possible instances: [NHSS Spawn Analysis](https://docs.google.com/spreadsheets/d/e/2PACX-1vRbZ2vWwaUPZlSx9Olg8o8Ml0xGVXQ8Ks7wtYycWfXymCZjn30tvP76fc5ACM1mx_O0ZvYBqI6VW3sa/pubhtml)
+NHSS içerik bulundurma ve doğurma oranlarıyla ilgili araştırma sonuçları için: [NHSS Doğurma Analizi](https://docs.google.com/spreadsheets/d/e/2PACX-1vRbZ2vWwaUPZlSx9Olg8o8Ml0xGVXQ8Ks7wtYycWfXymCZjn30tvP76fc5ACM1mx_O0ZvYBqI6VW3sa/pubhtml)
 
-The Anti-Xeno Initiative recommends Asterope in the Pleiades Nebula as one of the best Thargoid hunting systems in the game.
+Anti-Xeno Initiative, en iyi Thargoid av sahası olarak Pleiades Nebulası'ndaki Asterope sistemini önerir.
 
-- The system always has a large number of NHSS.
-- Most of the NHSS spawn around the main star and the single station orbiting that star.
-- There are no other planetary bodies or gravity wells to slow you down.
+- Sistem her zaman yüksek miktarda NHSS barındırır.
+- Çoğu NHSS, ana yıldız ya da yıldız yörüngesindeki tek istasyon çevresinde ortaya çıkar.
+- Sizi yavaşlatacak başka bir gezegen veya yerçekimi kuyusu yoktur.
 
-## Threat Level
-Depending on the Threat Level of the NHSS you will find different types of Interceptors or more Scouts. Understanding this is key to finding the Thargoids you’re after for solo attempts.
+## Tehdit Seviyeleri
+NHSS'in tehdit seviyesine bağlı olarak içinde farklı sayıda veya türde Scout ve Interceptor'le karşılaşırsınız. Bu bilgiye sahip olmak istediğiniz Thargoid türünü bulabilmeniz için önemlidir.
 
-Threat Levels:
+Tehdit Seviyeleri:
 
 - **[Threat 2]** - 1x Thargoid Probe
-- **[Threat 3]** - 2x Scouts
-- **[Threat 4]** - 4-7x Scouts OR 1-2x Human Ships + 4-7x Scouts (Typically 4 Scouts)
-- **[Threat 5]** - 1x Cyclops OR 4-8x Scouts
-- **[Threat 6]** - 1x Basilisk OR 1x Cyclops + 4x Scouts
-- **[Threat 7]** - 1x Medusa OR 1x Basilisk + 4x Scouts
-- **[Threat 8]** - 1x Hydra* OR 1x Medusa + 4x Scouts
-- **[Threat 9]** - 1x Hydra + 4x Scouts
+- **[Threat 3]** - 2x Scout
+- **[Threat 4]** - 4-7x Scout YA DA 1-2x İnsan gemisi + 4-7x Scout (genelde 4 Scout)
+- **[Threat 5]** - 1x Cyclops YA DA 4-8x Scout
+- **[Threat 6]** - 1x Basilisk YA DA 1x Cyclops + 4x Scout
+- **[Threat 7]** - 1x Medusa YA DA 1x Basilisk + 4x Scout
+- **[Threat 8]** - 1x Hydra* YA DA 1x Medusa + 4x Scout
+- **[Threat 9]** - 1x Hydra + 4x Scout
 
-> Lone Hydras can only currently be found in the Coalsack Nebula. Every Threat 8 in the Pleiades Nebula or the Witch Head Nebula will contain 1x Medusa + 4x Scouts. **With one exception**: The system Pleiades Sector MI-S B4-0 contains Solo Hydras, present in both regular and guaranteed Threat 8 signal sources 
+> Tek Hydra'lar şu an için yalnızca Coalsack Nebulası'nda bulunabilirler. Pleiades veya Witch Head Nebulası'ndaki tüm [Threat 8] sinyalleri 1x Medusa + 4x Scout içerir. **İstisna olarak**: Pleiades Sector MI-S B4-0 tek Hyda içeren, hem normal hem garanti [Threat 8] sinyallerine sahiptir. 
 > 
 > {.is-info}
 
-## Guaranteed Interceptor Signals
-If a NHSS has a **Salvage** icon next to it in the navigation panel, you will ALWAYS get a solo Interceptor based of the list above. For example, here is a guaranteed **Basilisk** signal source. Additionally, this instance is slightly different, as it only includes small debris and no green cloud. ![nhss.png](/img/nhss.png) Note: The small canister symbol on the left.
+## Garanti Interceptor Sinyalleri
+Eğer bir NHSS, seyir panelindeki isminin yanında **"Salvage"** simgesi bulunduruyorsa içinde daime tek Interceptor'le karşılaşırsınız. Öğrneğin bu bir garanti **Basilisk** sinyali. Ek olarak bu ortam ufak bir enkaz içermesi ama hiç yeşil bulut bulundurmaması bakımından biraz farklı. ![nhss.png](/img/nhss.png) Not: Solundaki küçük teneke kutu simgesi.
 
 ## Full-Spectrum Scanner
-The FSS can also be used to identify the contents of a NHSS instance, read more [here](https://wiki.antixenoinitiative.com/en/nhssviafss).
+NHSS içeriğini öngörmek için FSS de kullanılabilir, [buradan](https://wiki.antixenoinitiative.com/en/nhssviafss) daha fazla bilgiye ulaşabilirsiniz.
 
 !\[signalsourcesboth.png\](/signalsourcesboth.png =600x)
 
-## NHSS Spawn Table
+## NHSS Doğurma Tablosu
 ![nhsstable.png](/img/nhsstable.png)
