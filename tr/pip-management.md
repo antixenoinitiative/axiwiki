@@ -1,6 +1,6 @@
 ---
-title: Pip Management Guide
-description: How to best manage pips in Thargoid Combat
+title: Pip Yönetimi Rehberi
+description: Thargoid savaşlarında en iyi pip yönetimi nasıl olmalıdır
 published: true
 date: 2021-06-21T02:36:57.627Z
 tags: combat, controls
@@ -8,8 +8,8 @@ editor: markdown
 dateCreated: 2021-06-21T02:36:55.841Z
 ---
 
-# Pip Management Guide
-Pip management can be performed manually, but it is significantly more effective to utilize a macro program such as AutoHotKey (https://autohotkey.com/). AHK can almost instantaneously rebalance your pips more accurately than even the most trained pilot. Voice attack can also be used for pip management, either via voice commands (not recommended due to speed) or binding to mouse/function keys.
+# Pip Yönetimi Rehberi
+Pip yönetimini kendiniz yapabileceğiniz gibi daha etkili bir yöntem olarak bir makro programı da kullanabilirsiniz, örneğin AutoHotKey (https://autohotkey.com/). AHK can almost instantaneously rebalance your pips more accurately than even the most trained pilot. Voice attack can also be used for pip management, either via voice commands (not recommended due to speed) or binding to mouse/function keys.
 
 The following AHK script binds the most common pip distributions to function keys F1-F8. You can then use your mouse’s software to bind additional mouse keys (side buttons for example) to a selection of function keys that suits your playstyle.
 
