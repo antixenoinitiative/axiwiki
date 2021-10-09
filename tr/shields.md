@@ -1,6 +1,6 @@
 ---
-title: Thargoid Shields
-description: Explanation of Thargoid Shields and related mechanics
+title: Thargoid Kalkanları
+description: Thargoid kalkanları ve mekanikleri hakkında bilgiler
 published: true
 date: 2021-09-19T11:14:10.690Z
 tags: combat, thargoids, interceptors, shields
@@ -8,28 +8,28 @@ editor: markdown
 dateCreated: 2021-06-17T00:54:20.812Z
 ---
 
-# Thargoid Shields
-Thargoid Interceptors can generate powerful shields that can absorb large amounts of damage. These shields can appear multiple times and can be very tough.
+# Thargoid Kalkanları
+Thargoid Interceptorler yüksek miktarda hasar emen güçlü kalkanlar üretebilirler. Bu kalkanlar birçok defa oluşturulabilir ve zorlayıcı olabilir.
 
-## Generation
-Thargoid Interceptors will generate a new shield each time they lose one of their hearts. This means Interceptors with more hearts will also generate more shields. The shield strength is determined by the Thargoid Variant with the Hydra generating the toughest shields. Once the Thargoid’s heart is broken it will try to deploy its shield instantly.
+## Üretimleri
+Thargoid Interceptorler Kalp kaybettikleri her seferinde yeni bir kalkan üretirler. Dolayısıyla daha fazla Kalbe sahip Interceptorler daha fazla kalkan üretirler. Kalkan gücü Interceptor türüne bağlıdır ve en güçlü kalkanları Hydra üretir. Thargoid, Kalbi parçalandıktan hemen sonra kalkan üretmeye çalışır.
 
-Shield deployment can be delayed if the Thargoid is actively using one of its special attacks, such as the lightning attack. This makes it possible to destroy two hearts at once if you time it very carefully.
+Kalkan üretimi; şimşek saldırısı gibi bazı özel saldırılar dolayısıyla gecikebilir. Bu da eğer iyi zamanlarsanız iki Kalp birden parçalayabileceğiniz anlamına gelir.
 
-## Identify the Shield
-You can detect if a Thargoid has an active shield in two different ways, with a Xeno-Scanner and without a Xeno-Scanner.
+## Kalkanı Görmek
+Thargoid'in kalkanı olup olmadığını iki farklı durumda belirleyebilirsiniz; Xeno Scanner varsa ve yoksa.
 
 ## {.tabset}
-### With a Scanner
-!\[withscanner.png\](/img/withscanner.png =500x){.align-center} The Shield will appear around the hologram when targeting the Interceptor and in the contacts panel can show you the remaining shield percentage.
+### Scanner Varsa
+!\[withscanner.png\](/img/withscanner.png =500x){.align-center} Interceptor'ü hedef aldığınızda, kalkan hologramın çevresinde görülebilir ve "Contacts" panelinde kalan yüzdesi gösterilir.
 
-### Without a Scanner
-!\[withoutscanner.png\](/img/withoutscanner.png =500x){.align-center} Without a scanner you can identify if the Thargoid has a shield by looking for the blue “shield ping” whenever you deal damage to the Interceptor. If the ping appears, then the Interceptor still has a shield.
+### Scanner Yoksa
+!\[withoutscanner.png\](/img/withoutscanner.png =500x){.align-center} Scanner'ınız yoksa, Thargoid'e hasar verdiğinizde görebileceğiniz mavi bir parlamayla kalkana sahip olup olmadığını anlayabilirsiniz. Parlamayı görürseniz kalkan hala etkin demektir.
 
-## Decay
-Thargoid Shields always decay over time. The decay begins immediately and is a constant speed for all Thargoid Variants, **25MJ/s**. However due to the different size of shields for each variant, it will take longer for the shield to decay for each type of Interceptor.
+## Zayıflama
+Thargoid kalkanları daima zaman içinde zayıflayarak yok olur. Bu erime hemen başlar ve tüm Thargoid türleri için sabit miktardadır; **25MJ/s**. Türlerin kalkan güçlerinin farklılık göstermesi sebebiyle kalkanlarının erime süreleri de farklıdır.
 
-Dealing damage to Thargoids with a beam will accelerate the shield degeneration. Thargoid Shields do not have the same resistances to conventional weapons that the Hull has, so Lasers and other weapons can be utilized against Thargoid Shields. In fact, the shield has a negative resistance to thermal damage, so **thermal weapons recieve a 20% damage bonus against the Shield**.
+Beam Laser ile bu kalkanların erimesini hızlandırabilirsiniz. Thargoid Shields do not have the same resistances to conventional weapons that the Hull has, so Lasers and other weapons can be utilized against Thargoid Shields. In fact, the shield has a negative resistance to thermal damage, so **thermal weapons recieve a 20% damage bonus against the Shield**.
 
 **Shield Decay Time**
 - Cyclops - 1:35
