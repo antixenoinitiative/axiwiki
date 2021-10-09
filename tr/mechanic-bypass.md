@@ -30,27 +30,27 @@ Uyku Evresi'ndeyken Thargoid'in mevcut hedefi değişebilir. Eğer yeterince so�
 
 Bireysel savaşlarda uyku evresinden faydalanarak Thargoid'in özel yeteneklerini es geçebilmenizin yanında [Thargoid kalkanlarını](/en/shields) hızlıca kırmak için **kalkan toslaması**na fırsat sağlayabilirsiniz.
 
-When you break the heart of a Thargoid (using either Heatsinks, Silent Running or a [Thermal Vent Beam Laser](/en/lasers)) reduce your ships temperature below the **minimum detection threshold** (~20%) and wait **35** **Seconds**. This will allow you to skip the Special mechanics.
+Thargoid kalbini parçaladıktan sonra; heatsink, "silent running" veya [Thermal Vent Beam Laser](/en/lasers) kullanarak geminizin sıcaklığını **en düşük algılama eşiği (~20%)**'nin altına indirip **35** **saniye** bekleyiniz. Bu yöntem özel yetenekleri atlatmanızı sağlayacaktır.
 
-This does not allow you to skip the lightning attack after the first heart!
+İlk Kalp sonrasındaki şimşek saldırısını bu yöntemle atlatamazsınız!
 
-After the **35 Second** sleep phase, the Thargoid will begin deploying its swarm. During the deployment the Thargoid Interceptor is inactive for ~7 seconds. Should you **ram** the Thargoid with your ship during this inactivity, you can effectively destroy the shields without risking being hit by **Lightning**.
+**35 saniyelik** uyku evresinden sonra Thargoid, Swarm'ını konuşlandırmaya başlayacaktır. Bu konuşlandırma sürecinde Thargoid Interceptor ~7 saniyeliğine durgun kalır. Bu süre zarfında Thargoid'e **toslarsanız**, kalkanlarını **şimşek saldırısı**na maruz kalma riskine girmeden kırabilirsiniz.
 
-For Example:
+Örneğin:
 
-1. Destroy the Heart.
-1. Use your TV beam or Heatsinks or Silent Running to stay cold.
-1. Position yourself 1000-1500m infront of the Thargoid.
-1. Wait until you hear the Interceptor make a “Swarm Deployment” Sound (2x Loud Honk Noises)
-1. Hit **Boost!**
-1. Slam into the Thargoid Interceptor (Aim for about half-way along a petal)
-1. Continue to boost past the Thargoid.
+1. Kalbi parçalayın.
+1. TV Beam, heatsink veya silent running kullanarak soğuk kalın.
+1. Thargoid'le aranıza 1000-1500 m mesafe koyun.
+1. Interceptor, "Swarm konuşlandırma" sesini çıkarana kadar bekleyin. (iki kez arka arkaya korna çalma gibi)
+1. **Boostlayın!**
+1. Thargoid'e toslayın. (Yaprakların ortalarına doğru nişan alın)
+1. Boostlayıp uzaklaşmaya devam edin.
 
-Ramming the Interceptor before the swarm deploys while solo will not work as this will trigger the “Panic Shield”
+Interceptor'e, Swarm konuşlandırmadan önce toslamak panik kalkanlarını tetikleyeceğinden işe yaramaz.
 
-### Wing Tactics
+### Wing Taktikleri
 
-The wing tactics that can utilize the sleep mode include the **solo tactics** mentioned above plus a the ability to have a second wingmate take advantage of not having aggro.
+Wing taktikleri yukarıda belirtilen **bireysel taktikler**de bahsedilen uyku evresinden faydalanma yöntemlerinin yanı sıra aggro sahibi olmayan bir wing arkadaşının varlığından da faydalanır.
 
 During the **Sleep Phase** the Thargoid is only concerned with the heat and distance of the current target. Any other pilots in the fight are essentially ignored. These pilots can use this to enable opportunities for ramming damage and other attacks.
 
