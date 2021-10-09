@@ -16,19 +16,19 @@ Thargoid, Kalbi parçalandığı zaman **Hedefe Kilitli** durumuna geçmek ister
 
 Interceptor **35** **saniye** boyunca **Hedefe Kilitli** olabilmek için mevcut hedefi arayacaktır. Bu evreye **“Uyku Evresi”** deriz. Ardından Interceptor pes eder ve halihazırda mevcut değilse bir [Thargon Swarm'ı](/en/thargon-swarms) konuşlandırır. _Bu da o Kalp sonrası kullanılacak Caustic Füzeler ya da Shutdown Field'ı es geçmiş olduğunuz anlamına gelir._
 
-> If the current target can **maintain minimum distance** and **stay cold/silent running**, the Thargoid Interceptor will not be able to get a **Target Lock** and will not deploy its **special abilities**. 
+> Eğer mevcut hedef **gerekli mesafeyi korur** ve **soğuk kalır/silent running kullanırsa** Thargoid Interceptor **Hedefe Kilitli** olamayacak ve **özel yeteneklerini** kullanamayacaktır. 
 > 
 > {.is-info}
 
-The ‘Current Target’ can change while the Thargoid is in the “Sleep Phase”. If the new target is not cold enough or too close, the Thargoid will **wake up** and use its special abilities. Ensure your teammates know this so they do not pull aggro while hot or attack the target during the sleep phase.
+Uyku Evresi'ndeyken Thargoid'in mevcut hedefi değişebilir. Eğer yeterince soğuk olmayan veya çok yaklaşan bir hedef bulursa Thargoid **uyanır** ve özel yeteneklerini kullanır. Tüm takım arkadaşlarınızın uyku evresini bozmamaları gerektiğinin farkında olduğundan emin olun.
 
-If you destroyed the previous swarm **during** the current sleep phase, the Thargoid will fire **one volley of main-cannon fire** before deploying the next swarm. If you destroyed the previous swarm **before** the current sleep phase began, this will not happen and the Thargoid will deploy the swarm immediately.
+Önceden kalmış bir Swarm varsa ve şu anki uyku evresi **sürerken** yok ederseniz; Thargoid, yeni Swarm'ı konuşlandırmadan önce **bir yaylım ana silah atışı** yapacaktır. Uyku evresinden **önce** yok ederseniz bu olmayacak ve Swarm uyku evresinden hemen sonra konuşlandırılacaktır.
 
-## Combat Tactics
+## Savaş Taktikleri
 
-### Solo Tactics
+### Bireysel Taktikler
 
-In a solo fight, the Sleep Mechanics can be used to skip the special abilities (**Shutdown Pulse** and **Caustic Missiles**) and also open up a window of opportunity to use **ramming tactics** to destroy the [Thargoid Shields](/en/shields) very quickly.
+Bireysel savaşlarda uyku evresinden faydalanarak Thargoid'in özel yeteneklerini es geçebilmenizin yanında [Thargoid kalkanlarını](/en/shields) hızlıca kırmak için **kalkan toslaması**na fırsat sağlayabilirsiniz.
 
 When you break the heart of a Thargoid (using either Heatsinks, Silent Running or a [Thermal Vent Beam Laser](/en/lasers)) reduce your ships temperature below the **minimum detection threshold** (~20%) and wait **35** **Seconds**. This will allow you to skip the Special mechanics.
 
