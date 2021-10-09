@@ -52,25 +52,25 @@ Interceptor'e, Swarm konuşlandırmadan önce toslamak panik kalkanlarını teti
 
 Wing taktikleri yukarıda belirtilen **bireysel taktikler**de bahsedilen uyku evresinden faydalanma yöntemlerinin yanı sıra aggro sahibi olmayan bir wing arkadaşının varlığından da faydalanır.
 
-During the **Sleep Phase** the Thargoid is only concerned with the heat and distance of the current target. Any other pilots in the fight are essentially ignored. These pilots can use this to enable opportunities for ramming damage and other attacks.
+**Uyku evresi**nde Thargoid yalnızca mevcut hedefin sıcaklık ve mesafesiyle ilgilenir. Savaştaki diğer pilotlar bir nevi göz ardı edilir. Bu pilotlar durumdan faydalanarak, toslama ve diğer saldırı yöntemleri için fırsat kollayabilr.
 
-As mentioned previously, whenever the Thargoid does a target swap, there is a **Target Swap Lockout** period, where it will be locked to the new target. During this time, other commanders can do anything to the Thargoid without the risk of **waking** it up and regenerating a “Panic Shield”.
+Daha önce belirtildiği gibi; Thargoid ne zaman hedef değiştirse, bir **Hedef Değiştirme Kilidi** evresine girer ve yeni kilitlendiği hedefte kalır. Diğer kumandanlar bu süreçte **uyandırma** ve panik kalkanlarını tetikleme riskine girmeden, Thargoid'e istediklerini yapabilir.
 
-For Example:
+Örneğin:
 
-1. Destroy the Heart
-1. CMDR 1 goes cold and holds the Thargoid using only Heatsinks or silent running (no TV beam)
-1. CMDR 2 uses a TV beam to take the [**Aggro**](/en/threat-management) and cause a target swap to occur.
-1. CMDR 1 uses the **Target Swap Lockout** window to ram the interceptor and destroy it’s shields.
+1. Kalbi parçalayın.
+1. CMDR 1, heatsink ya da silent running kullanarak soğuk kalıp Thargoid'i üzerinde tutar (TV Beam kullanmadan)
+1. CMDR 2, TV Beam'le saldırarak [**Aggro**](/en/threat-management)yu üzerine alarak hedef değiştirmeye sebep olur.
+1. CMDR 1 **Hedef Değiştirme Kilidi** sürecinden faydalanarak Interceptor'e toslayarak kalkanlarını kırar.
 
-Of course, any damage dealt during the **Target Swap Lockout** will count towards the next aggro change once the timeout expires.
+**Hedef Değiştirme Kilidi** sürecinde verilen tüm hasarlar, bu süreç bittikten sonraki aggro için hesaplamaya katılır.
 
-Additionally, once the shield is removed in this manner, everyone but the aggro-holder are free to open fire on the Interceptor, exerting and destroying the next heart before the sleep phase ends. This will trigger a new sleep after the initial 35s have passed, and the Interceptor will not launch a swarm or fire its cannon when transitioning between the first and second sleep phase. This allows an efficient wing to stun-lock an Interceptor and take it down without taking any (ramming excluded) damage.
+Ek olarak; bu şekildeki bir kalkan kırmanın ardından, aggro sahibi hariç herkes uyku evresinin bitmesini beklemeden Interceptor'e saldırıp Kalbi pörtletip parçalama imkanına sahiptir. Bu olay, ilk 35 saniyelik süre geçtikten sonra başlayacak yeni bir uyku evresini tetikler ve Interceptor, iki uyku arası ne yeni bi Swarm konuşlandırır ne de silahını ateşler. Etkin bir wing, bu yöntemle Interceptor'ü savaş boyunca sersemletme kilidine sokup herhangi bir hasar almadan (toslama dahil) yok edebilir.
 
-### Panic Shields
+### Panik Kalkanları
 
-*For a more detailed overview on panic shields, see* [***_Thargoid Shields_***](/en/shields)
+*Panik kalkanları için detaylı bili için bkz.* [***_Thargoid Kalkanları_***](/en/shields)
 
-A Panic shield is an instantly-regenerated shield that the Thargoid Interceptor can create if the shield is broken too soon after losing a heart. The panic shield will also activate if the Interceptor shield is broken prior to the “Sleep Phase” ending, however this **requires** a **Target Lock** and if the ‘current target’ remains undetected, the shield will not regenerate.
+Panik kalkanı; Thargoid Interceptor'ün, bir Kalbi kaybettikten sonra ortaya çıkardığı kalkanını çok erken sürede kaybederse ortaya bir anda çıkardığı kalkandır. Ayrıca, kalkanlar uyku evresi bitmeden önce kırılırsa da panik kalkanı tetiklenebilir. Ancak bunun için kalkanı kıran hedefin mevcut hedef olması ve **Hedefe Kilitli** durumu gerekir.
 
-Hence, if you break the shield before the end of the “Sleep Phase” you must ensure that the Interceptor is not able **wake** **up** from the “Sleep Phase” until it ends.
+Dolayısıyla, kalkanları uyku evresinden önce yok ederseniz Interceptor'ün bu evre bitmeden önce **uyanmayacağına** emin olmalısınız.
