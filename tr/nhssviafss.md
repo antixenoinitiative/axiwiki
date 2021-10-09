@@ -1,6 +1,6 @@
 ---
-title: Predicting NHSS content via FSS tuning
-description: It is possible to predict and map all NHSS showing up on the FSS
+title: FSS akorduyla NHSS içeriğini öngörmek
+description: FSS kullanarak tüm NHSS içeriklerini tahmin etmek mümkündür
 published: true
 date: 2021-08-03T13:32:41.413Z
 tags: nhss
@@ -8,32 +8,32 @@ editor: markdown
 dateCreated: 2021-08-03T12:11:12.142Z
 ---
 
-# Predicting NHSS content via FSS tuning
+# FSS akorduyla NHSS içeriğini öngörmek
 
-Lead Researchers: CMDR Mechan, CMDR Xarionn
+Baş Araştırmacılar: CMDR Mechan, CMDR Xarionn
 
-The NHSS spectrum can be divided in 3 categories, left | middle | right :
+NHSS tayfı üç kategoriye ayrılabilir; sol | orta | sağ:
 
 ![signalsourcesboth.png](/signalsourcesboth.png)
 
-- Signals showing up on the left side of the spectrum will always contain scouts or scouts + interceptor.
-- Signals showing up on the middle of the spectrum will contain everything, scouts, scouts + interceptor, interceptor…
-- Signals showing up on the right side of the spectrum will always contain interceptor or empty instances.
+- Sol tarafta bulunan sinyaller Scout ya da Scout + Interceptor içerirler.
+- Orta kısımda bulunun sinyaller her durumu barındırabilir; Scout, Scout + Interceptor, Interceptor.
+- Sağ tarafta bulunan sinyaller her zaman Interceptor veya boş ortam içerirler.
 
-By using this technique, it is possible to predict and map all NHSS showing up on the FSS, here is an example :
+Bu yöntemi kullanarak FSS ile NHSS'leri tahmin etmek ve okuma yapmak mümkündür, örneğin:
 
-- Left side of the spectrum:
+- Tayfın sol kısmı:
 
 ![Left.png](https://media.discordapp.net/attachments/854844543823642674/872095282656071690/Left.jpg?width=1290&height=726)
 
-- Right side of the spectrum
+- Tayfın sağ kısmı:
 
 ![Right.png](https://media.discordapp.net/attachments/854844543823642674/872095289354367066/Right.jpg?width=1290&height=726)
 
-- Middle of the spectrum
+- Tayfın orta kısmı:
 
 ![Middle.png](https://media.discordapp.net/attachments/854844543823642674/872095297478725712/Middle.jpg?width=1290&height=726)
 
-Review the Data here: [Xarionn’s spreadsheet](https://docs.google.com/spreadsheets/d/14Ik0S1fV8FHJR5iJQpiSbJ1t_yntRJVBB6axeL3XErk/edit#gid=0)
+Verileri buradan inceleyebilirsiniz: [Xarionn’un Çizelgesi](https://docs.google.com/spreadsheets/d/14Ik0S1fV8FHJR5iJQpiSbJ1t_yntRJVBB6axeL3XErk/edit#gid=0)
 
-Image Credit to CMDR Orlandu
+Görseller: CMDR Orlandu
