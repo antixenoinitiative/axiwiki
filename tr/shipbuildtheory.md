@@ -87,43 +87,43 @@ Thargoidler hızlı ve çeviktir ve bu yüzden azami hız ve manevra kabiliyeti 
 
 ## Sensors
 
-**The Meta:** D-rated with Long Range experimental. Thargoids always emit a signal that can be detected at the maximum sensor range, meaning that A-rated sensors provide no benefits to D-rated, but weigh more and cost more power.
+**Meta:** D sınıfı Long Range yükseltmesiyle. Thargoidler her zaman için en yüksek sensör menzilinden tespit edilebilecek güçte sinyal yaydıklarından A sınıflarının hiçbir avantajı yoktur ve D sınıfları daha hafiftir ve daha az enerji çekerler.
 
-**Alternatives:** There are none.
+**Alternatif:** Yok.
 
 # Optional Internals
 
-The optional internal loadout is where the main differences lie between build styles, and can even vary from Commander to Commander. Below are the three general loadouts of the three build types. For more information on the uses of each optional internal, refer to the [Core and Optional Internals](/en/internals) page.
+Burası gemiler arasındaki ana farkların oluşmaya başladığı yerdir ve kumandanların kendi tercihlerine göre farklılık gösterebilir. Aşağıda üç genel gemi tipi için donanım önerileri verilmiştir. Bu modüller hakkında daha detaylı bilgi için [Optional Internals](/en/internals) sayfasına göz atın.
 
 
-## Cold Orbiters
-- Largest possible D-rated repair limpet controller and 16t or 64t cargo rack
-- One class four or five GMRP and two smaller MRPs
-- 2A AFMU
-- HRPs in the rest of the internal slots
+## Soğuk Yörüngeciler
+- Alınabilecek en büyük D sınıfı Repair Limpet Controller ve 16t veya 64t kargo deposu.
+- Bir adet sınıf 4 ya da 5 GMRP ve iki adet küçük MRP.
+- 2A AFMU.
+- Geri kalan Optional Internal slotlarında HRP'ler.
 
-## Bi-Weave Hybrids
-- Largest possible Bi-Weave Shield with Reinforce blueprint and either Fast Charge or Lo-Draw experimental.
+## Bi-Weave Hibritler
+- Alınabilecek en büyük Bi-Weave kalkanı - Reinforced ve Fast Charge/Lo-Draw mühendislikleriyle birlikte.
 - 1A AFMU
-- One or two GMRPs or MRPs
-- HRPs in the rest of the slots
-- GSRP as per personal preference
+- Bir ya da iki adet GMRP veya MRP
+- Diğer slotlarda HRP'ler.
+- GSRP'ler kişisel tercihe kalmış.
 
-## Shield Tanks
-- Largest possible Prismatic Shield with Reinforced blueprint and Hi-Capacity experimental
-- Large Shield Cell Banks with Specialized blueprint and Boss Cells experimental
-- One or two GMRPs or MRPs
-- Decontamination Limpet Controller if preferred
-- AFMU, size depending on preference
-- HRPs in the rest of the slots
+## Kalkan Tankları
+- Alınabilecek en büyük Prismatic kalkan - Reinforced ve Hi-Capacity mühendislikleriyle.
+- Büyük SCB'ler - Specialized ve Boss Cells mühendislikleriyle.
+- Bir ya da iki adet GMRP veya MRP
+- Tercihen Decontamination Limpet Controller.
+- AFMU, boyutu tercihe kalmış.
+- Diğer slotlarda HRP'ler.
 
 # Utility Slots
 
-## Heatsink Launchers
-Essential for Cold Oribing vessels to dissipate the heat generation of gauss cannons. Most if not all utility slots will be filled with these on Cold Orbiter and Bi-weave hybrid builds. Engineering them with the Ammo Capacity blueprint gives one extra heatsink per launcher.
+## Heatsink Launcher
+Soğuk Yörünge gemileri için Gauss kaynaklı sıcaklıktan kurtulmak için temel ihtiyaçtır. Bi-Weave Hibritleri ve Soğuk Yörüngeciler'in, tamamı olmasa da çoğu slotuna bunlar yüklenecektir. Ammo Capacity mühendisliğiyle yükseltmek fazladan bir adet heatsink daha taşımalarını sağlar (sentezlediğinizde de bu fazladan heatsinke sahip olursunuz).
 
 ## Shield Boosters
-Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
+Soğuk Yörüngeciler'de bariz olarak kullanışsızlar, Bi-Weave Hibritler genelde 1-2 adet taşırken büyük Kalkan Tankları 6-7 adede kadar kullanır. Heavy Duty ve Super Capacitors mühendislikleriyle yükselterek en yüksek saf MJ değerlerini elde edin.
 
-## Other Modules
-For information on Xeno Scanners and Shutdown Field Neutralizers, see the [Core and Optional Internals](/en/internals) page. These two utilities are not recommended except in specific situations, as the slot is better fit with a heatsink or shield booster.
+## Diğer Modüller
+Xeno Scanner ve Shutdown Field Neutralizer hakkında bilgi için [Optional Internals](/en/internals) sayfasına göz atın. Bu iki modül bazı özel durumlar dışında önerilmezler ve bunlar yerine fazladan heatsink ya da shield booster almanız daha iyi olacaktır.
