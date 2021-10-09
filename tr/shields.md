@@ -26,29 +26,29 @@ Thargoid'in kalkanı olup olmadığını iki farklı durumda belirleyebilirsiniz
 ### Scanner Yoksa
 !\[withoutscanner.png\](/img/withoutscanner.png =500x){.align-center} Scanner'ınız yoksa, Thargoid'e hasar verdiğinizde görebileceğiniz mavi bir parlamayla kalkana sahip olup olmadığını anlayabilirsiniz. Parlamayı görürseniz kalkan hala etkin demektir.
 
-## Zayıflama
-Thargoid kalkanları daima zaman içinde zayıflayarak yok olur. Bu erime hemen başlar ve tüm Thargoid türleri için sabit miktardadır; **25MJ/s**. Türlerin kalkan güçlerinin farklılık göstermesi sebebiyle kalkanlarının erime süreleri de farklıdır.
+## Erime
+Thargoid kalkanları daima zaman içinde eriyerek yok olur. Bu erime hemen başlar ve tüm Thargoid türleri için sabit miktardadır; **25MJ/s**. Türlerin kalkan güçlerinin farklılık göstermesi sebebiyle kalkanlarının erime süreleri de farklıdır.
 
-Beam Laser ile bu kalkanların erimesini hızlandırabilirsiniz. Thargoid Shields do not have the same resistances to conventional weapons that the Hull has, so Lasers and other weapons can be utilized against Thargoid Shields. In fact, the shield has a negative resistance to thermal damage, so **thermal weapons recieve a 20% damage bonus against the Shield**.
+Beam Laser ile bu kalkanların erimesini hızlandırabilirsiniz. Thargoid kalkanları, gövdesiyle aynı dirençlere sahip olmadığından normal insan silahlarıyla zayıflatılabilirler. Üstelik, termal hasara karşı negatif dirence sahip olduğundan **termal silahların kalkana karşı fazladan 20% hasarı vardır.**
 
-**Shield Decay Time**
+**Kalkan Erime Süreleri**
 - Cyclops - 1:35
 - Basilisk - 3:00
 - Medusa - 4:00
 - Hydra - 5:20
 
-## Breaking Shields
-When an Interceptors shield breaks, you can identify it by a large green particle effect that explodes outwards from the Interceptor.
+## Kalkanları Kırmak
+Interceptor'ün kalkanının düşüşünü, çevresinde oluşan yeşil renkli patlamayla fark edebilirsiniz.
 
 !\[shieldbreak.jpg\](/img/shieldbreak.jpg =500x){.align-center}
 
-## Panic Shields
-Under several conditions, the Interceptor can deploy shields independently of hearts being destroyed. Since these conditions usually involve massive damage, we refer to these shields as 'panic' shields.
+## Panik Kalkanları
+Bazı durumlarda, Kalp parçalanmalarından bağımsız olarak, Interceptorler kalkan üretebilir. Bu durumlar genelde Interceptor'ün büyük hasar aldığı zamanlar olduğundan, bu olaya "panik" kalkanları deriz.
 
-1. **Overwhelming hull damage** - If the Interceptor's hull continues to drop in spite of the rapid regeneration when a heart is exerted, it will deploy a panic shield. This happens often if using premium ammo against a Cyclops solo, when a wing tries to exert a Cyclops, or when trying to instagib any of the stronger variants.
+1. **Ezici gövde hasarı** - Eğer Interceptor Kalbi pörtledikten sonraki yüksek yenilenme kabiliyetine rağmen aldığı hasara direnemezse bir panik kalkanı üretir. Cyclops'a karşı premium mermi kullanırken, wingle Cyclops Kalbi pörtletirken veya daha güçlü türlere instagib yapmaya kalkıştığınızda bu durumla sıkça karşılaşırsınız.
 
-2. **Overwhelming shield damage** - If the Interceptor's shield is destroyed within 10 seconds of it being deployed, it will immediately regenerate it. (**This cannot happen after the first heart because of the Lightning phase**). This scenario most often occurs when one uses a ram to immediately destroy a deployed shield, or if sufficient firepower is deployed against one of the weaker variants (shard cannons against Cyclops). You can tell if this 10 second window is over when the Interceptor's red glowing petals stop rapidly flashing and switch to slowly pulsating.
+2. **Ezici kalkan hasarı** - Eğer Interceptor kalkan ürettikten sonraki 10 saniye içinde bu kalkanı kaybederse anında yeniler. (**Şimşek evresi sebebiyle ilk Kalpten sonra bu durum oluşamaz**). Bu durum en sık, kalkan üretildikten kısa süre sonra toslamaya bağlı ya da zayıf türlerden birinin kalkanına yüksek hasar uygulandığında (Cyclops kalkanına karşı Shard hasarı gibi) meydana gelir. Bu 10 saniyelik sürecin bittiğini, Interceptor'ün hızlıca kırmızı yanıp sönen yaprakları sakinleyip yavaşladığı zaman anlayabilirsiniz.
 
-3. **Countermeasure Deployment** - If the Interceptor launches a volley of caustic missiles but its shield is down, it will deploy a new one.
+3. **Tedbir Konuşlandırması** - Eğer Interceptor caustic füze yaylımı gerçekleştirdiğinde kalkanı düşmüşse yenisini üretir.
 
-This scenario often occurs in conditions that trigger scenario 2, but it can also happen past the 10 second window. For example, if wing tactics are used to bring the shield down during the sleep phase  but the aggro holder is detected after the shield is destroyed, a new one will be generated alongside the caustic barrage.
+Bu, genelde senaryo 2'de belirtilen durumlarda ortaya çıkar ancak 10 saniye sürecinden sonra da oluşabilir. Örneğin; eğer ki uyku evresinde kalkanı düşürmek için wing taktikleri kullanılmışsa ancak kalkan düştükten sonra aggro sahibi tespit edilirse caustic yaylım ateşiyle beraber yeni bir kalkan üretilir.
