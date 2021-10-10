@@ -1,6 +1,6 @@
 ---
-title: Static Signal Sources
-description: Static Thargoid Locations
+title: Sabit Sinyal Kaynakları
+description: Sabit Thargoid Yerleşkeleri
 published: true
 date: 2021-08-26T13:35:31.049Z
 tags: thargoids, interceptors, scouts
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-06-15T11:22:37.088Z
 ---
 
-# Static Thargoid Signal Sources
+# Sabit Thargoid Sinyal Kaynakları
 Across human space there are a handful of permanent Distress Calls and Megaships that can spawn Interceptors. These will typically have 1-2 Interceptors spawn upon arrival. Megaships also will sometimes have scouts instead.
 
 Relogging (exit to menu and log in) will cause these locations to refresh with potentially different Thargoids.
