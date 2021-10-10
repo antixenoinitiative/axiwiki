@@ -1,6 +1,6 @@
 ---
-title: Staggering Gauss Fire
-description: The advantages and different ways you can stagger gauss fire.
+title: Gauss Atışlarını Bölmek
+description: Gauss atışlarını bölmenin faydaları ve farklı yolları.
 published: true
 date: 2021-06-24T06:27:14.908Z
 tags: combat, weapons, controls
@@ -8,17 +8,17 @@ editor: markdown
 dateCreated: 2021-06-24T06:27:14.908Z
 ---
 
-# Staggering Gauss
-Dividing your gauss into 2 per trigger is a very helpful tool for heat management and is critical to performing successful [Cold Orbiting](/en/cold-orbiting).
+# Gauss Atışlarını Bölmek
+Gauss'larınızı tetik başına 2 adet olarak bölerek, [Soğuk Yörünge](/en/cold-orbiting) için yardımcı olacak sıcaklık yönetimi elde edebilirsiniz.
 
-there are 4 main ways of doing it (+ a "bonus one", if we wanna call it that):
-- all at once
-- alternating
-- burst stagger
-- overlapping stagger the "additional" one is gatling gauss, which was invented by CMDR Aranionros Stormrage.
+Bunu yapmanın 4 (ve tabiri caizse bir adet bonus) ana yolu vardır:
+- Hepsi birden
+- Dönüşümlü
+- Ani atış
+- Üst üste binmiş Ek olarak; "taramalı" gauss, CMDR Aranionros Stormrage tarafından icat edilmiştir.
 
-## All at Once
-this tecnique implies not actually spitting your gauss, and as such it's the worst for heat given the fact that the distro draw isn't spread out. that said, some ships such as the vulture and corvette can actually utilize this tecnique because their distro is oversized compared to their gauss combination. it's also sometimes used by experienced pilots to aid in heart sniping because of the higher alpha damage.
+## Hepsi birden
+Bu yöntem Gauss atışlarınızı bölmeden tümünü aynı anda ateşlemektir ve distribütörünüze binen yükü yaymadığınızı için en kötü termal performansa sahiptir. that said, some ships such as the vulture and corvette can actually utilize this tecnique because their distro is oversized compared to their gauss combination. it's also sometimes used by experienced pilots to aid in heart sniping because of the higher alpha damage.
 
 ## Alternating
 this is the entry-level version of stagger. it's far from optimal, but it's still a big step forward in terms of heat management compared to firing all of your gauss at once. however, it doesn't allow for the maximum dps. this tecnique implies dividing your gauss into two, and then only start charging one set of gauss when the other one is done firing.
