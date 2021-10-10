@@ -16,10 +16,10 @@ Oturup kapatıp açma (ana menüye dönüp tekrar giriş yapmak) bu ortamların 
 Bazı önemli yerler:
 
 - **HR 1185** - Kalıcı Disctress Call. Çoklu-Goid savaşları ve solo Hydra bulmak için iyi bir yer. Doğum oranları için daha fazla bilgiye buradan ulaşabilirsiniz.
-- **Deciat** - A few damaged Megaships (Scenarios around these can spawn Interceptors)
-- **Gree** - This systems contains 2 megaships that can be used to summon Thargoids. Currently this is the only system officially approved by AXI for hosting megaship events.
+- **Deciat** - Birkaç hasarlı Megaship (Bu gemiler çevresindeki senaryolar Interceptor doğurabilir).
+- **Gree** - Thargoid doğurmak için kullanabileceğiniz 2 Megaship vardır. Şu an için AXI tarafından, megaship etkinlikleri için onaylanmış tek sistemdir.
 
-For an extended list, check out the [Thargoid Attacks Spreadsheet](https://docs.google.com/spreadsheets/d/1hnJTNAwAu0fY9Asu8SgXsfpjyTFxRhW_4oPCJS5Ydv4/edit#gid=0)
+Listenin devamı için: [Thargoid Saldırıları Çizelgesi](https://docs.google.com/spreadsheets/d/1hnJTNAwAu0fY9Asu8SgXsfpjyTFxRhW_4oPCJS5Ydv4/edit#gid=0)
 
 
 
