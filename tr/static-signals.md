@@ -9,13 +9,13 @@ dateCreated: 2021-06-15T11:22:37.088Z
 ---
 
 # Sabit Thargoid Sinyal Kaynakları
-Across human space there are a handful of permanent Distress Calls and Megaships that can spawn Interceptors. These will typically have 1-2 Interceptors spawn upon arrival. Megaships also will sometimes have scouts instead.
+İnsan uzayında yer alan bazı kalıcı Distress Call sinyalleri ve Megaship'ler Interceptor doğururlar. Genel olarak girişte 1-2 Interceptor ile karşılaşırsınız. Megashipler ise bazen Scout içerebilirler.
 
-Relogging (exit to menu and log in) will cause these locations to refresh with potentially different Thargoids.
+Oturup kapatıp açma (ana menüye dönüp tekrar giriş yapmak) bu ortamların yenilenmesine ve farklı Thargoidler doğurmalarına sebep olur.
 
-A few notable locations:
+Bazı önemli yerler:
 
-- **HR 1185** - Permanent Distress Call (Very useful to find multi-goid fights or solo Hydras outside of the Witch Head Nebula) - Read about the HR 1185 Distress Call Spawns here.
+- **HR 1185** - Kalıcı Disctress Call. Çoklu-Goid savaşları ve solo Hydra bulmak için iyi bir yer. Doğum oranları için daha fazla bilgiye buradan ulaşabilirsiniz.
 - **Deciat** - A few damaged Megaships (Scenarios around these can spawn Interceptors)
 - **Gree** - This systems contains 2 megaships that can be used to summon Thargoids. Currently this is the only system officially approved by AXI for hosting megaship events.
 
