@@ -76,9 +76,9 @@ Medusa ve Hydra tarafından sıkça kullanılan füze düzeni olan Ölüm Halkas
 
 # İleri Düzey Mekanikler
 ## Durumlar
-Thargon Swarm iki durumdan birinde bulunabilir. These states are independent of formations, and the only thing that triggers a state change is the swarm passing through a ship. We shall refer to these states as ‘Standard’ and ‘Agitated’.
+Thargon Swarm iki durumdan birinde bulunabilir. Bu durumlar uçuş düzeninden bağımsızdır ve durum değişimini tetikleyen tek şey Swarm'ın bir geminin içinden geçmesidir. Bu durumlardan "standart" ve "huzursuz" olarak bahsedeceğiz.
 
-When a swarm is deployed, it is always in the Standard state. While in this state it will never enter a missile formation, **not even if the Interceptor is enraged**. In addition to this, a swarm deployed while an Interceptor is enraged is also initially in the Standard state. This state changes **only if the swarm passes through a ship**. (The state won’t change to Agitated for a short time after the swarm is released for a period of up to 30s, even if a ship boosts through the swarm).
+Bir Swarm her zaman standart durumda konuşlandırılır. Bu durumdayken asla füze düzenine geçmeyecektir, **Interceptor enraged bile olsa**. Buna ek olarak, Interceptor enraged durumundayken de standart Swarm konuşlandırır. Swarm durumu **yalnızca gemi içinden geçince değişir.** (Durum değişimi Swarm ortaya çıktıktan 30 saniye sonrasına kadar, Swarm bir gemi içinden geçse dahi gerçekleşmeyecekir.)
 
 When the swarm passes through a ship it enters the Agitated state. This state is visually indistinguishable from the Standard state, but it differs in the fact that while in this state the swarm will periodically (every 20-30s) enter a missile formation. Missile formations are slower than the regular ones (360m/s as opposed to 500m/s), and a swarm will remain in missile formation indefinitely as long as it remains in range of the Interceptor, and until it deploys several missiles (usually 10-15% of the swarm’s maximum number). After deploying missiles it will revert to a random regular formation and remain in Agitated state. This state will only end if the swarm passes through a ship once more, or if the swarm is killed and a new one takes its place.
 
