@@ -23,11 +23,11 @@ Listenin devamı için: [Thargoid Saldırıları Çizelgesi](https://docs.google
 
 
 
-> Distress Call Points Of Interest that contain megaships or capital ships attacked by thargoids are leftovers of the initial bubble invasion. They have been placed there manually by FDev, who forgot to remove them once the invasion was over. Deciat specifically was attacked on July 5th 2018, and there are about 40+ more systems with the same type of POI all over the bubble and pleiades region. These POIs are not an indication of any actual thargoid activity by themselves, only Non-Human Signal Sources or AX Combat Zones are. Keep in mind though, that NHSS are naturally present in pleiades region (roughly 150Ly around Merope) and Witch Head nebula, and do not necessarily mean those systems are in danger. 
+> Thargoidler tarafından saldırıya uğrayan megaship ve capital gemilerine sahip Distress Call sinyalleri, uzayküremizin ilk Thargoid istilasından arta kalanlardır. FDev tarafından yerleştirilmiş ve daha sonra kaldırılmaları unutulmuştur. Deciat, 5 Temmuz 2018 tarihinde saldırıya uğramıştır ve 40'tan fazla benzer sistem vardır. Bu POI'lar herhangi bir Thargoid etkinliği göstergesi değildir. Yalnızca Non-Human Signal Source ve AX Combat Zone'ları bu işlevdedir. Ancak unutmayın ki Pleiades ve Witch Head Nebulası normal şartlarda da çok sayıda NHSS içerir ve bu durum, sistemlerin tehlike altında olduğu anlamına gelmez. 
 > 
 > {.is-info}
 
 
-List and Project Lead: CMDR Melting Cube.
+Liste ve Proje Lideri: CMDR Melting Cube
 
-Contributors: CMDR Aranionros Stormrage and CMDR Darth Vader
+Destekleyenler: CMDR Aranionros Stormrage ve CMDR Darth Vader
