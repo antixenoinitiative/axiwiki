@@ -9,16 +9,16 @@ dateCreated: 2021-06-17T01:05:26.462Z
 ---
 
 # Thargoid Özel Yetenekleri
-Different special attacks will occur after destroying each heart on a Thargoid interceptor. Here is a breakdown of all special attacks and timings.
+Kalp parçalamaları sonrası farklı özel yetenekler kullanılır. Hangi saldırıların ne zaman gerçekleşeceğini bu tabloda kısaca görebilirsiniz.
 
-> For detailed breakdown of Thargoid Attack values, visit out [**Thargoid Spec Sheet**](/en/thargoid-specs). 
+> Detaylı analizler için [**Thargoid Özellikleri Çizelgesi**](/en/thargoid-specs)ni inceleyebilirsiniz. 
 > 
 > {.is-info}
 
 !\[attack_pattern.png\](/img/attack_pattern.png =550x){.align-center}
 
 ## Şimşek
-After the destruction of the first heart, the interceptor will begin to use its lightning when approaching within 800 m which will heavily damage your shields, render you immobile, and knock out your systems. Although your engines may still somewhat function, for a small period of time after the attack, you will struggle to build up speed as your ship will be under a **braking** effect, FA-OFF does not cancel out this effect.
+İlk Kalbi parçalandıktan sonra, Interceptor, şimşek saldırısını kullanma teşebbüsüyle peşinizden gelip 800 m menzile girmeye çalışacaktır. Bu saldırı kalkanlarınıza devasa hasar verir, rastgele seçilen bazı modüllerinizi geçici olarak devre dışı bırakır ve hareketinizi kısıtlar. Although your engines may still somewhat function, for a small period of time after the attack, you will struggle to build up speed as your ship will be under a **braking** effect, FA-OFF does not cancel out this effect.
 
 ## Caustic Füzeler
 After the second heart, the interceptor will use caustic missiles, which are slow-moving (~350 m/s) missiles that applies a **permanent DoT (damage over time)** on your hull. Caustic Damage can be removed by bringing your heat above 180% for several seconds, or to 250% for instant removal, or by using a decontamination limpet. To achieve these temperatures, you can use SCBs, firing gauss cannons, or if you can afford to drop shields, using silent running.
