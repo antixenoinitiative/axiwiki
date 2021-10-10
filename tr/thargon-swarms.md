@@ -1,6 +1,6 @@
 ---
-title: Thargon Swarms
-description: Detailed behaviour and mechanics of Thargon Swarms
+title: Thargon Swarmları
+description: Thargon Swarmlarının davranış ve mekaniklerine dair detaylı bilgiler
 published: true
 date: 2021-09-19T11:13:03.841Z
 tags: thargoids, interceptors, swarms
@@ -8,75 +8,75 @@ editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
 ---
 
-# Thargon Swarms
+# Thargon Swarmları
 
-Each Interceptor can deploy and control a Thargon swarm, consisting of 32, 64, 96 and 128 Thargons for Cyclops, Basilisk, Medusa and Hydra variants respectively.
+Interceptor türleri Cyclops, Basilisk, Medusa ve Hydra; sırasıyla 32, 64, 96 ve 128 üyeden oluşan Thargon Swarmları kullanır.
 
-During planetary engagements, the Interceptor will not deploy swarms.
+Gezegen yakını savaşlarda Interceptorler Swarm kullanmaz.
 
-**The Thargon swarm has two methods of inflicting damage:**
+**Thargon Swarm'ı hasar vermek için iki yöntem kullanır:**
 
-- **Caustic projectiles** that do heavy damage to shields and penetrate them, dealing hull damage. Against shieldless targets, these projectiles are very inaccurate and the swarm will miss most of its shots. Heat signature does not visibly affect their accuracy, but rapidly changing your vector or rolling will protect you somewhat. This attack has a maximum range of around 2km. Despite the name, these do not apply caustic stacks but rather deal caustic damage, which is effected by modules such as the Guardian Hull Reinforcement Package.
-- **Kamikaze missiles** that kill the Thargon, but inflict massive hull and module damage. The missiles are fast (roughly 600m/s) but short-lived. Against an unshielded target, these will do tremendous damage, but a shielded build with 4 pips to SYS should survive a regular missile volley with relative ease. Without shields these can potentially 1-shot modules even through a Guardian Module Reinforcement Package. These missiles appear to do collision damage, as they do not interrupt synthesis or reboots. This attack triggers within 3km range, and only if the swarm is in missile formation.
+- **Caustic mermiler** kalkanlarınıza yüksek hasar verir ve bir miktar delip geçerek gövdenize vurabilirler. Kalkansız hedeflere karşı bu mermiler düşük isabete sahiptirler ve çoğu oranda ıskalarlar. Sıcaklığınız, isabet oranını etkilemez ancak hızlıca yön değiştirmek veya yuvarlanmak faydalı olabilir. Bu saldırının azami menzili 2 km civarındadır. İsmine karşın bu saldırı caustic kirlenme birikimine sebep olmaz ancak caustic hasar türüne sahiptir.
+- **Kamikaze füzeler**, Thargonların intihar saldırısı düzenleyerek devasa gövde ve iç modül hasarı uygular. Bu füzeler hızlıdır (~600 m/s) ama kısa ömre sahiptir. Kalkansız bir hedefe karşı bu saldırı devasa bir hasar uygular ama kalkanlı bir gemi, SYS'e 4 pip kaydırarak bu saldırıya kolayca dayanabilir. Kalkansız gemilerde, GMRP bile olsa, bu saldırı modüllere tek atabilir. Bu füzeler çarpma hasarı uyguluyor gibi gözüküyor çünkü sentez ve yeniden başlatmayı etkilemiyorlar. Bu saldırı 3 km menzil içindeyken tetiklenir ve sadece, Swarm füze düzenindeyken yapılır.
 
-If a non-aggressive Interceptor’s personal space is invaded (500m), it will deploy a warning swarm as well as glow red and ‘threaten’ the pilot who got too close. This swarm will not immediately attack, but instead will circle around the Interceptor, ready to engage at a moment’s notice. If the threat backs away, the Interceptor will recall the swarm and continue its previous actions. If it does not, the swarm will detach and the battle begins.
+Eğer saldırgan olmayan bir Interceptor'ün kişisel alanı (500 m) taciz edilirse bir uyarı Swarm'ı konuşlandırır, kırmızı ışıklar yakarak yaklaşan pilotlara uyarı verirler. Bu Swarm hemen saldırıya başlamayacak, Interceptor çevresinde her an saldırıya hazır dolanacaktır. Eğer tehdit uzaklaşırsa, Interceptor Swarm'ını geri çağıracak ve işine kaldığı yerden devam edecektir. Aksi takdirde Swarm Interceptor'den ayrılacak ve savaş başlayacaktır.
 
-If a non-aggressive Interceptor is shot or rammed, a hostile swarm will immediately be deployed and the interceptor will attack.
+Eğer saldırgan olmayan bir Interceptor saldırıya uğrarsa, derhal saldırgan bir Swarm konuşlandırıp saldırıya başlar.
 
-# Deployment Mechanisms
-The Thargoid Interceptor will always try to deploy a swarm when it enters combat, furthermore it will do the following:
+# Konuşlandırma Mekanizmaları
+Thargoid Interceptor her savaşta Swarm konuşlandırmaya çalışır ve sonrasında aşağıdakileri yapar:
 # {.tabset}
-## Banking
-In addition to the first swarm launched at the start of the fight, the Interceptor can deploy another one for every heart it loses (only one may be deployed at a time). If there is an existing swarm and a heart is destroyed, the Interceptor will ‘bank’ one swarm (and only one, it can’t bank multiple) and release it immediately upon the destruction of the existing one.
+## Depolama
+Savaş başında çıkarılan Swarm'a ek olarak her Kalp parçalanışında yeni bir Swarm çıkarılır (tek seferde yalnızca bir tanesi meydanda olabilir). Eğer konuşlandırılmış bir Swarm mevcutken bir Kalp parçalanırsa Interceptor bir adet Swarm'ı (ve yalnızca bir adet) depoya alır ve mevcut Swarm'ın yok edilişini takiben konuşlandırır.
 
-## Refills
-The Interceptor may send out a ‘refill’ call at any time, usually if the swarm is low in number, which will cause the swarm to respond with a screeching sound and return to the Interceptor completely refilling its numbers. This does not count against the banked swarm, and there doesn’t have to be a banked swarm for a refill to happen.
+## Takviye
+Swarm'ın sayısı azaltığında Interceptor, Swarm'ı takviye için geri çağırıp sayısını yenileyebilir. Bu olay, depolanan Swarm'la ilgili değildir ve depoda bir Swarm olmasa dahi gerçekleşebilir.
 
 ## Enrage
-After some time passes without a heart being destroyed, the Interceptor will enter an ‘enraged’ state. The timer for this is 6 minutes for the Cyclops, 7 minutes for the Basilisk and Medusa, and 8 minutes for the Hydra. The timer starts the moment the Interceptor enters combat, and is reset every time a heart is destroyed. Upon triggering the enrage, replacement swarms are immediately released upon one’s destruction and if a Thargon Missile attack is triggered the entire swarm will turn into missiles at the same time. This attack is usually fatal unless avoided.
+Kalp parçalanmadan belirli bir süre geçerse Interceptor "enraged" dediğimiz bir duruma girer. Bu süre Cyclops için 6 dakika, Basilisk ve Medusa için 7 ve Hydra için 8 dakikadır. Bu geri sayım, Interceptor savaşa girer girmez başlar ve her Kalp parçalanışında yenilenir. Enrage durumundayken, bir Swarm yok edilir edilmez yenisi ortaya çıkarılır ve eğer Thargon Füzesi saldırısı tetiklenirse tüm Swarm füzeye dönüşerek saldırır. Bu saldırı kaçınılmadığı takdirde genelde ölümcüldür.
 
-# Formations
-Swarms will user various formations, these can tell us information about it's behaviour and how it will react.
+# Uçuş Düzeni
+Swarmlar çeşitli düzenlerde uçar ve buna bağlı olarak davranışları öngörülebilir.
 
 # {.tabset}
-## Ball Formation
-![embeddedimage_(1).png](/img/embeddedimage_(1).png) Left to Right: Cyclops Ball, Medusa Ball
+## Top Düzeni
+![embeddedimage_(1).png](/img/embeddedimage_(1).png) Soldan sağa: Cyclops Top, Medusa Topu
 
-This is the Cyclops’ only non-missile formation, and it is also used by the other variants (though more rarely as they prefer their more advanced formations). This formation is easiest to destroy, requiring only a very few well placed shots in the center of the ball.
-
-
-## Ring Formation
-![embeddedimage_(2).png](/img/embeddedimage_(2).png) Left to Right: Medusa Ring, Hydra Ring
-
-The dreaded ring formation is the preferred formation with the Medusae and Hydrae. It is significantly more difficult to destroy, with flak shells detonating in the center doing no damage whatsoever. Widely offset flak (such as on the Cutter’s wings) or manually aiming away from the reticle are necessary to deal with this form.
+Bu Cyclops'un, füze olmayan tek düzenidir ve diğer türler tarafından da (ancak daha nadiren, çünkü daha gelişmiş düzenler tercih ederler). Bu düzen yok edilmesi en kolay olanıdır ve sadece merkezine atılan birkaç isabetli atışla üstesinden gelinebilir.
 
 
-## Cone/Spiral Formation
-![embeddedimage_(3).png](/img/embeddedimage_(3).png) Left to Right: Basilisk Cone, Medusa Cone
+## Halka Düzeni
+![embeddedimage_(2).png](/img/embeddedimage_(2).png) Soldan sağa: Medusa Halkası, Hydra Halkası
 
-The Cone or Spiral formation is first used by the Basilisk and it is not uncommon with stronger variants. Much like the Ball formation, this one is easy to destroy, with only several shots at the tip of the spiral needed.
-
-
-## Death Wall Formation
-![embeddedimage_(4).png](/img/embeddedimage_(4).png) Left to Right: Cyclops Death Wall, Medusa Death Wall
-
-The Death Wall (Flat Spiral) is the Cyclops’ only missile formation, and it is also used by the other variants (though more rarely as they prefer their more advanced formations)
+Korkunç halka düzeni Medusa ve Hydra tarafından tercih edilen düzendir. Yok edilmesi çok daha zordur. Merkezden uzak nişan alınmış saldırılar ancak yok etmeyi başarabilir.
 
 
-## Death Spiral Formation
-![embeddedimage_(5).png](/img/embeddedimage_(5).png) Left to Right: Basilisk Death Spiral, Hydra Death Spiral
+## Külah/Sarmal Düzen
+![embeddedimage_(3).png](/img/embeddedimage_(3).png) Soldan sağa: Basilisk Sarmalı, Medusa Sarmalı
 
-The Death Spiral is a missile formation first used by the Basilisk, and it is not uncommon with stronger variants. Unlike the regular Cone/Spiral, this formation has a gap at the center so is more difficult to destroy. Flak shells detonating at the center will cause less damage (but still kill at least a few Thargons)
+Külah ya da Sarmal düzen Basilisk tarafından kullanılmaya başlar ve daha güçlü türlerde çok nadir değildir. Top düzeni gibi bunu da merkeze atılmış birkaç atışla yok etmek kolaydır.
 
 
-## Ring of Death Formation
-![embeddedimage_(6).png](/img/embeddedimage_(6).png) Left to Right: Medusa Ring Of Death, Hydra Ring Of Death
+## Ölüm Duvarı Düzeni
+![embeddedimage_(4).png](/img/embeddedimage_(4).png) Soldan sağa: Cyclops Ölüm Duvarı, Medusa Ölüm Duvarı
 
-The Ring of Death is used commonly by the Medusa and Hydra, and attempting to destroy this ring is not recommended. It would cost too much time and ammunition - instead the missiles should be baited and the swarm destroyed in a simpler formation.
+Ölüm Duvarı, Cyclops'un tek füze düzenidir ve nadiren diğer türler tarafından da kullanılr.
 
-# Advanced Mechanics
-## States
-The Thargon swarm can exist in one of two states. These states are independent of formations, and the only thing that triggers a state change is the swarm passing through a ship. We shall refer to these states as ‘Standard’ and ‘Agitated’.
+
+## Ölüm Sarmalı Düzeni
+![embeddedimage_(5).png](/img/embeddedimage_(5).png) Soldan sağa: Basilisk Ölüm Sarmalı, Hydra Ölüm Sarmalı
+
+Ölüm Sarmalı, Basilisk tarafından kullanılmaya başlanılan ancak daha güçlü türlerde de karşılaşılan füze düzenidir. Sıradan Külah/Sarmal düzenden farklı olaran bu düzen merkezinde bir boşluğa sahiptir ve yok edilmesi biraz daha zordur. Merkezde patlatılan Flak mermileri daha az hasara sebep olur.
+
+
+## Ölüm Halkası Düzeni
+![embeddedimage_(6).png](/img/embeddedimage_(6).png) Soldan sağa: Medusa Ölüm Halkası, Hydra Ölüm Halkası
+
+Medusa ve Hydra tarafından sıkça kullanılan füze düzeni olan Ölüm Halkasını vurmaya çalışmak önerilmez. Çok fazla vakit ve mermi israfına sebep olur - bunun yerine füzeleri yemlemeli ve Swarm daha basit bir düzene geçince yok edilmelidir.
+
+# İleri Düzey Mekanikler
+## Durumlar
+Thargon Swarm iki durumdan birinde bulunabilir. These states are independent of formations, and the only thing that triggers a state change is the swarm passing through a ship. We shall refer to these states as ‘Standard’ and ‘Agitated’.
 
 When a swarm is deployed, it is always in the Standard state. While in this state it will never enter a missile formation, **not even if the Interceptor is enraged**. In addition to this, a swarm deployed while an Interceptor is enraged is also initially in the Standard state. This state changes **only if the swarm passes through a ship**. (The state won’t change to Agitated for a short time after the swarm is released for a period of up to 30s, even if a ship boosts through the swarm).
 
