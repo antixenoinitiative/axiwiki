@@ -1,6 +1,6 @@
 ---
-title: Synthesis
-description: Information on Sythnesis in AX combat.
+title: Sentezleme
+description: AX savaşlarında sentezleme hakkında bilgiler.
 published: true
 date: 2021-06-10T07:08:32.143Z
 tags: engineering
@@ -8,36 +8,36 @@ editor: markdown
 dateCreated: 2021-06-10T04:08:01.614Z
 ---
 
-# Synthesis
-For extended combat scenarios it is recommended that you bring materials for synthesizing more ammunition. We recommend carrying at least a few of the most important synths for each fight, nothing is more frustrating than having to leave a potential kill because you ran out of ammo.
+# Sentezleme
+Uzun sürecek savaşlarda mühimmat sentezleyebilmeniz için gerekli materyalleri getirmeniz önerilir. Merminiz bittiği için avı tamamlayamama durumuna düşmemeniz için her savaşa gerekebilecek tüm sentezlemeleri en azından birkaç sefer gerçekleştirebilmek için gereken malzemeleri getirmenizi öneririz.
 
-Solo Hydra will require at least 2-3 full Gauss synths for each hardpoint.
+Bireysel Hydra, her silah için en az 2-3 tam Gauss sentezi gerektirir.
 
-## Synthesis Panel
+## Sentez Panosu
 
-Access the synthesis panel on the in-game UI through the following steps:
+Oyun içi arayüzde sentez panosuna ulaşmak için bu adımları izleyebilirsiniz:
 
-`Right Panel > Inventory > Second Last Menu > Synthesis Panel`
+`Sağ Pano > Inventory > Sondan İkinci Menü > Sentez Paneli`
 
 !\[synthpanel1.png\](/img/synthpanel1.png =500x) !\[synthpanel2.png\](/img/synthpanel2.png =500x)
 
-# Required Materials
-> Calculate the exact amount you need with the [Synthesis Calculator](/en/synthesiscalculator) by CMDR Th3Hero 
+# Gerekli Materyaller
+> CMDR Th3Hero tarafından geliştirilen [Sentez Hesaplayıcısı](/en/synthesiscalculator)'nı kullanarak ihtiyacınız olan malzeme miktarlarını hesaplayabilirsiniz. 
 > 
 > {.is-info}
 # {.tabset}
-## Heatsinks
+## Heatsinkler
 
-Heatsinks are critical for reducing your ship's temperature to safe ranges while firing extended gauss volleys or avoiding damage with cold tactics.
+Heatsinkler, hasardan kaçınmak için uyguladığınız soğuk taktikleri mümkün kılar.
 
-We recommend only using Basic heatsink synths as there is no useful benefit to standard or premium.
+Standart ve premium seviyeleri herhangi bir fayda sağlamadığı için yalnızca "basic" heatsinkler sentezlemenizi öneririz.
 
 ### Basic
 - 2x Basic Conductors
 - 2x Heat Conduction Wiring
 
 ## Remote Release Flak
-Required to deal with Thargon swarms, expect to use a few synths for Basilisk and higher fights. We recommend only using Basic Flak synths as there is no tangible benefit to standard or premium.
+Swarm'la baş edebilmek içindir ve Basilik ve üstü türler için sentezleme yapmanız gerekecektir. Standart ve premium seviyeleri herhangi bir fayda sağlamadığı için yalnızca "basic" mühimmat sentezlemenizi öneririz.
 
 ### Basic
 
@@ -46,7 +46,7 @@ Required to deal with Thargon swarms, expect to use a few synths for Basilisk an
 - 4x Nickel
 
 ## Guardian Gauss Cannon
-Guardian Gauss Cannons are currently the most effective AX weapon and due to their low ammo total we recommend carrying a few synths for solo Medusa and higher. Premium Gauss Synths are strongly recommended for Hydra variant Interceptors.
+Guardian Gauss Cannon şu an için açık ara en etkili AX silahıdır ve düşük mermi kapasiteleri sebebiyle Medusa ve üstü savaşlara, birkaç sentez getirmenizi öneririz. Hydra türü için "premium" mermiler şiddetle tavsiye edilir.
 
 ### Basic
 
@@ -55,7 +55,7 @@ Guardian Gauss Cannons are currently the most effective AX weapon and due to the
 - 3x Manganese
 - 4x Guardian Wreckage Components
 
-### Standard (+15% dmg)
+### Standard (+15% hasar)
 
 - 3x Heat Resistant Ceramics
 - 3x Guardian Sentinel Weapon Parts
@@ -63,31 +63,31 @@ Guardian Gauss Cannons are currently the most effective AX weapon and due to the
 - 5x Manganese
 - 5x Focus Crystals
 
-### Premium (+30% dmg)
+### Premium (+30% hasar)
 
 - 6x Filament Composites
 - 6x Guardian Technology Components
 - 8x Manganese
 - 10x Focus Crystals
 
-For the maximum possible Premium Gauss synths you will need:
+En fazla premium Gauss sentezi için ihtiyacınız olanlar:
 
 - 200x Focus Crystals
 - 160x Manganese
 - 120x Filament Composites
 - 120x Guardian Tech Components
 
-## Limpets
-For repairs and decontamination limpets.
+## Limpetler
+Onarım ve arındırma Limpetleri için.
 
 ### Basic
 - 10x Iron
 - 10x Nickel
 
-## AFM Refills
-In longer fights, you will need to refill your AFMU multiple times to keep your Module Reinforcements and other modules at full integrity.
+## AFMU Dolumları
+Uzun süren savaşlarda MRP ve diğer modüllerinizin sağlamlığını koruyabilmek için AFMU mühimmatını yenilemeniz gerekecektir.
 
-We recommend only using Basic AFM refills as there is no useful benefit to standard or premium.
+Standart ve premium seviyeleri herhangi bir fayda sağlamadığı için yalnızca "basic" dolum sentezlemenizi öneririz.
 
 ### Basic
 - 2x Nickel
