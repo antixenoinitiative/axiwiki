@@ -1,6 +1,6 @@
 ---
-title: Salvation Gauss Cannons
-description: Everything we currently know about the Salvation Modified Guardian Gauss Cannons
+title: Salvation Gauss Cannonları
+description: Salvation Değiştirilmiş Guardian Gauss Cannonları hakkında şu ana kadar bildiklerimiz.
 published: true
 date: 2021-09-19T12:23:55.239Z
 tags: builds, weapons, guardians
@@ -8,10 +8,10 @@ editor: markdown
 dateCreated: 2021-09-17T15:42:13.928Z
 ---
 
-# Salvation Gauss Cannons
-Salvation Gauss Cannons are a modified version of the Guardian Gauss Cannon, these will be available as part of the Salvation Storyline (and in the future) in elite.
+# Salvation Gauss Cannonları
+Salvation Gauss Cannonları, Guardian Gauss Cannonlarının modifiye edilmiş versiyonlarıdır ve Salvation Hikayesinin ve sonrasının bir parçası olarak erişilebilir olacaklardır.
 
-The weapons are first mentioned in a message from Salvation on 17th Sept 3307:
+Bu silahlardan, ilk kez 17 Eylül 3307 tarihinde Salvation tarafından gönderilen bir mesajda bahsedilmiştir (orijinal İngilizce):
 
 > You have performed well in my service before, and now i require your help again. This is an urgent matter, with millions of lives at risk. 
 > 
@@ -23,7 +23,7 @@ The weapons are first mentioned in a message from Salvation on 17th Sept 3307:
 > 
 > As you know, we cannot rely on Aegis to save us from the Thargoids. Only I am capable of achieving this, and courageous pilots like you can ensure my triumph.
 
-This message was sent to a handful of commanders in-game. The current criteria to recieve this message is unknown.
+Bu mesaj yalnızca bir grup kumandana yollanmıştır. Bu mesajı alma koşulları hakkında bir bilgiye sahip değiliz.
 
 A second announcement was made from The Heart of Taurus Megaship on the 19th of September 3307
 
