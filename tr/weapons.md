@@ -1,6 +1,6 @@
 ---
-title: Weapons
-description: Detailed breakdown of Anti-Xeno Weaponry
+title: Silahlar
+description: Anti-Xeno silahlarına dair detaylı analizler
 published: true
 date: 2021-09-19T11:10:48.357Z
 tags: outfitting, modules
@@ -8,31 +8,31 @@ editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
 ---
 
-# AX Weapons
-There are a multitude of different Anti-Xeno weapons in the game, and they come in two main variants:
+# AX Silahları
+Oyunda birçok Anti-Xeno silahı vardır ve iki ana kategoriye sahiptir:
 
-- **Human AX Weapons** (AX Multi-Cannon, AX Missile Rack, Advanced Multi-Cannon, Advanced Missile Rack, Remote Release Flak Launcher)
-- **Guardian Weapons** (Guardian Gauss Cannon, Guardian Plasma Charger, Guardian Shard Cannon, and their Engineered Variants)
+- **İnsan AX Silahları** (AX Multi-Cannon, AX Missile Rack, Advanced Multi-Cannon, Advanced Missile Rack, Remote Release Flak Launcher)
+- **Guardian Silahları** (Guardian Gauss Cannon, Guardian Plasma Charger, Guardian Shard Cannon ve yükseltilmiş halleri)
 
-Guardian weapons are the most effective AX weapons in the game (specifically the Guardian Gauss Cannon) with human AX weapons being mostly unusable (with the exception of the Remote Release Flak Launcher).
+Guardian silahları oyundaki en etkili AX silahlarıdır (özellikle Guardian Gauss Cannon) ve insan AX silahları en kullanışsız olanlardır (tek istisna Remote Release Flak Launcher).
 
-Some builds will also include Thermal Vent Beam Lasers which allow pilots to easily reduce ship heat and avoid significant amounts of Thargoid fire. For more information, see Cold Orbiting and [Lasers](/en/lasers).
+Bazı gemiler ek olarak Thermal Vent Beam Laser'ları vardır ve bu sayede heatsink kullanmadan sıcaklık düşürülmesi sağlanır. Daha fazla bilgi için Cold Orbiting ve [Lazerler](/en/lasers) bölümlerine bakınız.
 
-For detailed stats on AX weapons, see the [AX Balance Research Spreadsheet](https://docs.google.com/spreadsheets/d/1kNZwBn16nYcrqpaua08VQb_ea3PF9SYcO-1IWivPZsA/edit#gid=1860633931)
+AX silahlarının detaylı verileri için: [AX Denge Araştırması Çizelgesi](https://docs.google.com/spreadsheets/d/1kNZwBn16nYcrqpaua08VQb_ea3PF9SYcO-1IWivPZsA/edit#gid=1860633931)
 
 ![weaponsgraph.png](/img/weaponsgraph.png)
 
 ## Remote Release Flak Launcher
 
-Currently the only effective weapon to deal with Thargon Swarms.
+Thargon Swarm'larını yok etmek için şu an için tek etkili silahtır.
 
-**Recommendation:** Must have! (Required to take out swarms)
+**Öneri:** Mutlaka bulundurulmalı! (Swarm'ı yok etmek için gereklidir)
 
-Note: Does not count against the 4 experimental weapon limit.
+Not: 4 deneysel silah bulundurabilme sınırına dahil değildir.
 
 ## Guardian Gauss Cannon
 
-Current undisputed AX meta. Guardian Gauss Cannons function like a Railgun with a short delay before firing. Heavy Armour Penetration means it is effective against even the toughest Thargoids. Coming in only small and medium classes, these allow a surprisingly even playing field between all ship classes. They have a maximum range of 3km and a damage falloff start of 1.5km, allowing for precision heart sniping at range. Its only downside is high heat generation which necessitates constant heatsink use.
+Tartışmax AX metası. Guardian Gauss Cannon'ları Railgun gibi tetiğe basılı tutulduktan kısa bir süre sonra ateşlenir. Yüksek zırh delme kabiliyetleri ile en güçlü Thargoidlere karşı dahi etkilidirler. Yalnızca küçük ve büyük boyutlarda gelirler ve tüm gemi sınıflarının bu silahlardan aynı ölçüde faydalanmalarını sağlarlar. Azami menzilleri 3 km olur, hasarlarının azalması 1.5 km'den başlar ve bu menzil içerisindeyken Kalplere keskin nişanlama imkanı sunarlar. Its only downside is high heat generation which necessitates constant heatsink use.
 
 **Recommendation:** Best AX weapon (Great armour penetration, High damage, Accurate)
 
