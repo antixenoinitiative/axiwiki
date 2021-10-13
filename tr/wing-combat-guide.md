@@ -1,6 +1,6 @@
 ---
-title: Wing Combat Guide
-description: How to fight thargoids in a wing of multiple pilots.
+title: Wing Savaş Rehberi
+description: Thargoidlerle wingle nasıl savaşılır.
 published: true
 date: 2021-06-24T23:51:31.755Z
 tags: combat, thargoids, interceptors, wing
@@ -8,28 +8,28 @@ editor: markdown
 dateCreated: 2021-06-17T05:36:40.698Z
 ---
 
-# Wing Combat Guide
+# Wing Savaş Rehberi
 
-By CMDR Ghosti
+CMDR Ghosti tarafından
 
-Wing fights are any fight in which more than one Player CMDR is present. This introduces a slew of different mechanical effects and gameplay bugs that can make Wing fights more or less challenging than a solo depending on how you handle them. Wing fights differ from solo fights in a few key points, which are as follows:
+Wing savaşarı birden fazla oyuncu içeren tüm savaşlardır. Bu durum farklı mekanikler ve oyun hataları ortaya koyduğundan, ele alış biçiminize bağlı olarak wing savaşları daha zor ya da kolay olabilir. Wing savaşları bireysel savaşlardan birkaç önemli noktada ayrılır:
 
--   Aggro management
--   Swarm management (related to point 1. above)
--   Handling the shield decay
--   Distance management
--   Difficulty with cold reboots after heart destruction
--   Coordination & communication
--   Bug management
+-   Aggro yönetimi
+-   Swarm yönetimi (yukarıdaki 1. sebebe bağlı olarak)
+-   Kalkan erimesini ele almak
+-   Uzaklık yönetimi
+-   Kalp parçalaması sonrası soğuk yeniden başlatmaların zorluğu
+-   Koordinasyon & iletişim
+-   Bug yönetimi
 
-## Aggro Management
+## Aggro Yönetimi
 
-In solo fights, the ship always has the aggro of the Interceptor, whereas in wing fights the Interceptor always focuses on one ship at a time. This is important to note for 2 main reasons:
+Bireysel savaşlarda aggro her zaman üzerinizdedir ancak wing savaşlarında Interceptor yalnızca bir kişiye odaklanır. Bu, 2 ana sebeple önemlidir.
 
-1.  **Heart sniping:** Taking out the heart is always easiest for the pilot whose ship the Interceptor is currently focusing on (aggro of the 'goid), This is the main reason you should avoid pulling aggro if you're not optimally positioned to take out the heart (distance is beyond the falloff range, for example) or if the "invincible heart bug" is in effect
-2.  **Heat Management and Reboot/Repair:** Thargoid abilities can be bypassed by maintaining low temperatures, this depends on the heat level of the current target. Also taking the heat off a specific pilot to enable them to reboot, synth, repair etc.
+1.  **Kalbe nişan alma:** Interceptor'ün odaklandığı pilot için Kalplere nişan almak her zaman daha kolaydır. Bu sebeple, eğer avantajlı konumda değilseniz (1.5 km menzil dışı gibi) ya da "hasar almaz kalp bugı" ortaya çıktıysa aggroyu üzerinize almamalısınız.
+2.  **Sıcaklık Yönetimi ve Yeniden başlatma/Onarım:** Thargoid yetenekleri düşük sıcaklık seviyeleri korunarak es geçilebilir ve mevcut hedefin sıcaklığı esas alınır. Ayrıca Thargoid'in dikkatini yeniden başlatma, onarım, sentez gibi ihtiyaçları olan bir pilottan uzaklaştırmak da mümkün olabilir.
 
-The Interceptor will always target the ‘highest threat’ - the ship that has dealt the most damage to it recently. However, Interceptor aggro is ‘sticky’ and won’t switch for ~30 seconds after selecting a new target. What this means is that for a short time after an aggro switch there exists a **‘safe window’** \- the wingmates that don’t have aggro are completely safe from lightning attacks, triggering caustics and can purely focus on damaging or ramming the Interceptor. (Make sure to pay attention to whether your ram causes the Cycle Reset Bug - where the Interceptor deploys a new shield and caustics. If that happens, try to avoid ramming entirely in that fight)
+Interceptor her zaman en yüksek tehdide sahip, yani en yüksek hasar vermiş gemiye odaklanır. Ancak Interceptor'ün aggrosu "yapışkandır" ve ilk ~30 saniye boyunca başka hedef seçmez. What this means is that for a short time after an aggro switch there exists a **‘safe window’** \- the wingmates that don’t have aggro are completely safe from lightning attacks, triggering caustics and can purely focus on damaging or ramming the Interceptor. (Make sure to pay attention to whether your ram causes the Cycle Reset Bug - where the Interceptor deploys a new shield and caustics. If that happens, try to avoid ramming entirely in that fight)
 
 If you need to go repair/rearm at a station or megaship during an Interceptor fight, it's a good idea to make sure the Interceptor is aggro'd on someone else than you before jumping out. This is because the Interceptor might wake out when the pilot who has the aggro jumps away. The waking out might happen immediately or the Interceptor might stay in place until that player re-enters the instance, and then proceed to wake out. Naturally, none of the pilots receive any reward from the battle if the Interceptor wakes out. There is a chance of the Interceptor waking out also if it destroys one of the player vessels in the battle and there is no-one else nearby for it to focus on after that.
 
