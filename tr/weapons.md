@@ -32,64 +32,64 @@ Not: 4 deneysel silah bulundurabilme sınırına dahil değildir.
 
 ## Guardian Gauss Cannon
 
-Tartışmax AX metası. Guardian Gauss Cannon'ları Railgun gibi tetiğe basılı tutulduktan kısa bir süre sonra ateşlenir. Yüksek zırh delme kabiliyetleri ile en güçlü Thargoidlere karşı dahi etkilidirler. Yalnızca küçük ve büyük boyutlarda gelirler ve tüm gemi sınıflarının bu silahlardan aynı ölçüde faydalanmalarını sağlarlar. Azami menzilleri 3 km olur, hasarlarının azalması 1.5 km'den başlar ve bu menzil içerisindeyken Kalplere keskin nişanlama imkanı sunarlar. Its only downside is high heat generation which necessitates constant heatsink use.
+Tartışmax AX metası. Guardian Gauss Cannon'ları Railgun gibi tetiğe basılı tutulduktan kısa bir süre sonra ateşlenir. Yüksek zırh delme kabiliyetleri ile en güçlü Thargoidlere karşı dahi etkilidirler. Yalnızca küçük ve büyük boyutlarda gelirler ve tüm gemi sınıflarının bu silahlardan aynı ölçüde faydalanmalarını sağlarlar. Azami menzilleri 3 km olur, hasarlarının azalması 1.5 km'den başlar ve bu menzil içerisindeyken Kalplere keskin nişanlama imkanı sunarlar. Tek olumsuz tarafları yüksek miktarda sıcaklık ortaya çıkarmalarıdır ve sürekli heatsink kullanımı gerektirirler.
 
-**Recommendation:** Best AX weapon (Great armour penetration, High damage, Accurate)
+**Öneri:** En iyi AX silahı (Yüksek zırh delme, hasar ve isabet)
 
-Note: When using Gauss Cannons, it is important to ensure your hardpoints have good Convergence
+Not: Gauss Cannon kullanırken hardpointlerinizin iyi bir yakınsaklığa sahip olması önemlidir.
 
 ## Guardian Shard Cannon
 
-Similar to a Frag Cannon, very wide spread with only around a 700m effective range which means to be used effectively the pilot must fly within lightning range. While a potent weapon for speedrunning, the requirement of firing from within lightning range means that they are ineffective otherwise.
+Frag Cannon'a benzer şekilde geniş atış alanına sahiptir ve yalnızca 700 m etkili menzili vardır. Bu sebeple de şimşek saldırısı menzilinin içerisinde uçmanızı gerektirir. Speedrunlarda kullanım alanı olsa da şimşek saldırısı menziline girilmesini gerektirdiğinden etkisiz sayılırlar.
 
-**Recommendation:** Do not use (Low effective range, Poor armour penetration)
+**Öneri:** Kullanmayın (Düşük etkin menzil, zayıf zırh delme)
 
 ## Guardian Plasma Charger
 
-Similar to a Plasma Accelerator, but poor armour penetration value makes it less effective against tougher Interceptors and difficulty to aim makes it bad for using on hearts. Damage dealt is also unpredictable.
+Plasma Accelerator'a benzer ancak zayıf zırh delmesi ve isabet edilmelerinin güçlüğünden üst seviye türlere ve Kalplere karşı etkisizdirler. Hasar verme miktarı da tutarsızdır.
 
-**Recommendation:** Do not use (Poor armour penetration, Difficult to aim, Terrible capacitor draw)
+**Öneri:** Kullanmayın (Düşük zırh delme, nişan alması zor, yüksek kapasitör tüketimi)
 
 ## AX Multi-Cannon
 
-AXMCs come in two types - Turreted and Fixed, and in two sizes - Medium and Large. The Large Turreted ones are the most effective Scout hunting weapon in the game, but the Large Fixed ones are only passable against the weakest Interceptor variant, the Cyclops, and the others are very ineffective.
+AXMC'ler iki türdedir - Turreted ve Fixed, ve iki boyuttadır - Medium ve Large. Large Turreted'ler, Scout avı için en etkili silahlardır ancak Large Fixed olanı belki Cyclops'a karşı biraz iş görebilir, diğerleri ise etkisizdir.
 
-**Recommendation:** Great for Scouts, Awful for Interceptors
+**Öneri:** Scoutlar için iyi, Interceptorler için berbat
 
 ## AX Missile Rack
 
-Okay, but very difficult to aim as they are slow moving and dumbfire only. Minimal ammo.
+Vasattırlar, düşük hızları yüzünden isabet ettirilmeleri zordur. Mühimmat kapasiteleri düşük.
 
-**Recommendation:** Do Not Use (Poor damage)
+**Öneri:** Kullanmayın (Düşük hasar)
 
 ## Advanced Multi-Cannon
 
-Same as a normal Multi-Cannon and can be engineered, however it will not do AX damage unless ammo is synthesized.
+Normal Multi-Cannon'lar gibidir ve mühendislikle yükseltilebilir ancak gerekli mermi sentezlenmedikçe AX hasarı uygulamaz.
 
-**Recommendation:** Do not use (Poor damage, Cannot use without synth)
+**Öneri:** Kullanmayın (Düşük hasar, sentezsiz kullanılamaz)
 
-Note: Does not count against the 4 experimental weapon limit.
+Not: 4 deneysel silah bulundurabilme sınırına dahil değildir.
 
 ## Advanced Missile Racks
 
-Similar to the Advanced Multi-Cannon, these are an engineerable clone of the normal Missile Rack which requires synth to deal AX damage. Due to their extreme splash damage, synth requirement, and lack of weapon number limit, they are banned from use in AXI ranks.
+Advanced Multi-Cannon'lar gibi, normal Missile Rack'lerin kopyasıdır, mühendislikle yükseltilebilir ve AX hasarı verebilmesi için mermi sentezi gerektirir. Abartılı alan hasarları ve adet sınırlarının olmamaları sebebiyle AXI rütbelerinden yasaklanmışlardır.
 
-**Recommendation:** Use at own discretion (Cannot use without synth, Banned from use in AXI ranks)
+**Öneri:** Kendi sorumluluğunuzda kullanın (Sentezsiz kullanılamazlar ve AXI rütbelerinde kullanımları yasaktır)
 
-Note: Does not count against the 4 experimental weapon limit.
+Not: 4 deneysel silah bulundurabilme sınırına dahil değildir.
 
 ## Focused Long-Range High-Penetration Guardian Shard Cannon (Class Two)
 
-An extremely powerful version of the normal shard cannon, able to reliably hit interceptors from outside 3km range. It functions very differently, having near-hitscan shot speed and extremely long range. Due to this and the fact that it is not obtainable for most CMDRs, it is banned from use in ranks.
+Shard Cannon'ın abartılı güçlü versiyonudur ve 3 km dışından Interceptorlere isabetli atışlar kaydedebilirler. Farklı bir kullanıma sahiptir, neredeyse anlık vururlar ve abartılı menzilleri vardır. Bu sebeplerle ve çoğu CMDR için ulaşılamaz olduklarından AXI rütbelerinde kullanımları yasaktır.
 
-**Recommendation:** Use at own discretion (Banned from use in AXI ranks)
+**Öneri:** Kendi sorumluluğunuzda kullanın (AXI rütbelerinde kullanımları yasaktır)
 
-Note: Cannot currently be obtained unless you participated in the initial CG
+Not: CG etkinliğine katılmadıysanız elde edemezsiniz.
 
 ## Hi-Cap Burst Fire Guardian Gauss Cannon (Class Two)
 
-Another one of Salvation's pet projects, the stats for this weapon remain to be seen.
+Salvation'un bir başka projesi, bu silahın verilerini de bekleyip göreceğiz.
 
-**Recommendation:** None yet, although it is expected to be powerful.
+**Öneri:** Henüz yok ancak güçlü olması bekleniyor.
 
-Note: See [Salvation Gauss](https://wiki.antixenoinitiative.com/es/salvation-gauss) for more information
+Not: Daha fazla bilgi için [Salvation Gauss](https://wiki.antixenoinitiative.com/en/salvation-gauss)'a bakınız.
