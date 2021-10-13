@@ -83,18 +83,18 @@ Bir Swarm her zaman standart durumda konuşlandırılır. Bu durumdayken asla f�
 Swarm, bir geminin içinden geçerse "huzursuz" durumunu alır. Görünüşünde, standart durumundan bir fark oluşmaz ancak Swarm bu durumdayken zaman zaman (20-30 saniyede bir) füze düzenini alır. Füze düzeni daha yavaş hareket eder (500 m/s yerine 360 m/s) ve Interceptor'ün menzilinde kaldığı sürece ve birkaç füze ateşlenene kadar (genellikle tam sayısının 10-15%'i kadar) bu halini korur. Füzeleri ateşledikten sonra normal düzenlerden birini alır ve huzursuz durumunu korur. Bu durum yalnızca, Swarm bir kez daha bir geminin içinden geçerse ya da mevcut Swarm öldürülür ve yenisi konuşlanırsa sona erer.
 
 ## Karşı Manevralar
-Swarm, savaş boyunca standart durumda tutulabilir. This means that agile ships such as the chieftain (particularly shieldless versions) can avoid using flak altogether. The low accuracy of the swarm’s caustic projectiles against shieldless targets combined with the lack of Thargon Missiles eliminates the threat that the swarm presents. If the swarm at any point enters an Agitated state, one can bait the missiles before boosting through the swarm, reverting it back to the Standard state.
+Swarm, savaş boyunca standart durumda tutulabilir. Bu sebeple, Chieftain gibi çevik bir gemi kullanılarak (özellikle de kalkansız) Flak kullanımına gerek duyulmayabilir. Kalkansız hedeflere karşı caustic mermilerin düşük isabete sahip olması ve Thargon Füzleri'nin engellenmesi Swarm tehdidini büyük ölçüde ortadan kaldırır. Eğer Swarm herhangi bir noktada huzursuz durumuna geçerse füzeleri yemleyip Swarm'ın tekrar içinden geçerek standart durumuna döndürebilirsiniz.
 
-The easiest way to bait a swarm is to allow it to catch up (missile formation moves at around 360m/s when near firing range) and once it is within 3km missiles will begin to fire. Maintain distance of 2.9km reversing at around 300m/s and the missiles will expire before reaching you. Follow this up with a boost through the swarm after it reverts to a non-missile formation.
+Yemlemenin en kolay yolu size ulaşmasına izin vermek (füze düzeni atış menzilindeyken ~360 m/s hızla hareket eder) ve 3 km menzile girdiğinde ateş etmesini sağlamaktır. 2.9 km menzili koruyarak yaklaşık 300 m/s hızla kaçarak füzelerin size ulaşmadan infilak etmesini sağlayabilirsiniz. Bunu takiben boostlayarak Swarm'ın içinden geçerek standart durumuna döndürün.
 
-[See this video for a visual example of how to bait the swarm.](https://youtu.be/kTBdvXzyYx8)
+[Swarm nasıl yemlenir görmek için bu videoyu izleyin.](https://youtu.be/kTBdvXzyYx8)
 
 
-If the Interceptor is enraged, bring the swarm down to low numbers (15-30 Thargons) and attempt to maintain the Standard state. If the Agitated state is triggered, boost away and bait the swarm. Make sure to cause every single one of them to launch. Afterwards a new swarm in the Standard state will be launched.
+Interceptor enraged ise Swarm'ı düşük sayılara indirin (15-30) ve standart durumunu korumasını sağlayın. Eğer huzursuz durum tetiklenirse boostlayak uzaklaşın ve yemleme yöntemini uygulayın. Her birinin ateşlenmesini sağladığınızdan emin olun. Yeni Swarm normal durumda ortaya çıkacaktır.
 
-Also, should the swarm reach approximately 10km from the Thargoid, it will turn around and fly back to the Interceptor.
+Ayrıca, Swarm Interceptor'den yaklaşık 10 km uzaklaşırsa arkasını dönüp Interceptor'e dönecektir.
 
-## Switching Interceptor and Swarm Position
-In some cases, such as when the player is too far away from the Interceptor when the swarm is released (beyond 6km), the swarm will stay behind the Interceptor and engaging it will be impossible without taking fire from the Interceptor. To switch their positions, boost past the Interceptor (but not directly at it). Its inertia will cause it to drift away but the swarm will make a much sharper turn.
+## Interceptor ve Swarm'ın Yerlerini Değiştirme
+Bazı durumlarda, mesela Swarm çıktığında çok uzaktaysanız (6 km ötesi), Swarm Interceptor'ün arkasında kalabilir ve yok edilmesi güç hale gelebilir. Yerlerini değiştirmek için Interceptor'e doğru boostlayıp (tam üstüne değil) yanından geçin. Interceptor; arkasını dönüp takibe devam edene kadar, daha düşük ivmeye sahip olduğundan eylemsizliğiyle biraz daha fazla sürüklenecek ve daha keskin dönüş yapabilen Swarm'ın arkasında kalacaktır.
 
-[See this video for a visual example of how to switch Interceptor and Swarm positions.](https://youtu.be/nvEDF6eI1z8)
+[Interceptor ve Swarm'ın yerleri nasıl değiştirilir görmek için bu videoyu izleyin.](https://youtu.be/nvEDF6eI1z8)
