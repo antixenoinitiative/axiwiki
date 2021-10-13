@@ -1,5 +1,5 @@
 ---
-title: Ace Rank Rework of September 2021
+title: Eylül 2021 Ace Rütbesi Yenilenmesi
 description:
 published: true
 date: 2021-09-19T14:12:19.953Z
@@ -8,10 +8,10 @@ editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
 ---
 
-# The Ace rank Rework of September 2021
-This page contains the history and details behind the Ace Score Calculator, for future CMDRs to access for reference.
+# Eylül 2021 Ace Rütbesi Yenilenmesi
+Bu sayfa, Ace Skor Hesaplayıcısı'nın geçmişi ve detayları hakkında bilgi içerir.
 
-## The origin and "history thus far" of the Ace rank
+## Ace rütbesinin ortaya çıkışı ve şu ana kadarki süreç
 
 Ever since the introduction of Discord server ranks, the AXI has considered the idea of recognizing our very best CMDRs with a rank that was "competitive" in nature, that is, it could be earned but it could also be lost as new CMDRs achieved higher levels of skill.
 
