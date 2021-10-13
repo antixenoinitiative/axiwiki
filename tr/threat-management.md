@@ -1,6 +1,6 @@
 ---
-title: Threat Management
-description: Understanding Thargoid Interceptor Threat Management
+title: Tehdit Yönetimi
+description: Thargoid Interceptor Tehdit Yönetimini Anlamak
 published: true
 date: 2021-09-19T08:34:57.255Z
 tags: combat, guide, thargoids, interceptors, threat
@@ -8,19 +8,19 @@ editor: markdown
 dateCreated: 2021-06-21T02:12:44.684Z
 ---
 
-# Threat Management
-Thargoid Interceptors will aggro (attack) onto whichever player has the highest Threat. Threat is calculated based on highest damage dealt to the interceptor since the last time it changed target. Whenever a Thargoid changes target, it will be unable to change target for ~35 seconds (Target Swap Lockout) or until the target dies or leaves the fight. During the target swap lockout, any damage dealt to the Interceptor will be considered for the next target swap, however the Interceptor will not actually change target until the lockout period has expired (or the current target has died/left).
+# Tehdit Yönetimi
+Aggro; bir düşmanın saldırmak için yaptığı hedef seçimine denir. Thargoid Interceptorler de en yüksek "tehdit"e sahip oyuncu tarafından aggronalanacaktır. Tehdit, en son hedef değiştirmesinden sonra Interceptor'e verilen hasarla hesaplanır. Thargoid hedef değiştirdikten sonra, ~35 saniyeliğine (Hedef Değişim Kilidi) ya da hedef yok edilene/savaştan ayrılana kadar bu hedefi değiştiremez. Bu kilit aşamasında, Interceptor aldığı hasarı hatırlayacak ve bir sonraki hedef değişimi için tehdit hesaplarken kullanacak ancak bu süreçte hedef değişimi yapamayacaktır.
 
-Threat can be increased by dealing damage. This can be beneficial for various reasons.
+Tehdit, hasar vererek artırılabilir. Birçok sebeple kullanışlı olabilir.
 
-- Controlling the Thargoid's Movements.
-- Saving another CMDR from death.
-- Giving another CMDR an opportunity to ram a Thargoid.
+- Thargoid'in hareketlerini kontrol altında tutmak.
+- Başka bir CMDR'ın hayatını kurtarmak.
+- Başka bir CMDR'a Thargoid'e toslaması için fırsat sağlamak.
 
-A good example of this is the following:
+Bu duruma iyi bir örnek olarak:
 
-1. CMDR1 is kiting the Thargoid around with full aggro.
-1. CMDR2 uses his weapons to take the aggro and distract the Interceptor.
-1. CMDR1 uses the Target Swap Lockout window to ram the Interceptor without any threat of being hit by Lightning.
+1. CMDR1 tam aggro ile Thargoid etrafında kitelıyor.
+1. CMDR2 ateş ederek aggroyu alıyor ve Thargoid'in dikkatini çekiyor.
+1. CMDR1 Hedef Değişim Kilidi sürecinden faydalanarak şimşek saldırısına uğrama riski olmadan Thargoid'in kalkanlarını toslayarak parçalıyor.
 
-[Click here to see a video demonstrating threat management.](https://youtu.be/pGBnAZDxVCU)
+[Tehdit yönetimi uygulamasını görmek için bu videoyu izleyin.](https://youtu.be/pGBnAZDxVCU)
