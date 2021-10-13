@@ -25,7 +25,7 @@ Bu silahlardan, ilk kez 17 Eylül 3307 tarihinde Salvation tarafından gönderil
 
 Bu mesaj yalnızca bir grup kumandana yollanmıştır. Bu mesajı alma koşulları hakkında bir bilgiye sahip değiliz.
 
-A second announcement was made from The Heart of Taurus Megaship on the 19th of September 3307
+İkinci bir duyuru ise The Heart of Taurus Megaship'i tarafından 19 Eylül 3307 tarihinde yapılmıştır (orijinal İngilizce):
 
 > SYSTEM BROADCAST FROM HEART OF TAURUS MEGASHIP A message from Taurus Mining Ventures to all ships in the Pegasi Sector ON-S b4-8 system.
 > 
@@ -41,26 +41,26 @@ A second announcement was made from The Heart of Taurus Megaship on the 19th of 
 > 
 > On behalf of Salvation, I wish you good luck.
 
-## Specifications
+## Özellikler
 
-❓ Currently Unknown ❓
+❓ Henüz Bilinmiyor ❓
 
-> ...modified Class Two Guardian Gauss Cannon with **increased capacity** and **burst fire** but **reduced optimal range**.
+> ...modified Class Two Guardian Gauss Cannon with **increased capacity** and **burst fire** but **reduced optimal range**. (Sınıf 2 Guardian Gauss Cannons - **artırılmış kapasite** ve **ani hasar** fakat **düşük etki menzili**).
 
-## How to Obtain
+## Nasıl Edinilir
 
-Transport Cargo of Basic Medicines (Unspecified Amount) from the **Heart of Taurus** Megaship in **Pegasi Sector ON-S b4-8** to ANY of the Rescue Megaships in **Cornsar** before Monday 20th September 3307.
+**Pegasi Sector ON-S b4-8** sistemindeki **Heart of Taurus** Megaship'inden **Cornsar** sistemindeki herhangi bir Rescue Megaship'ine (belirtilmemiş miktarda) Basic Medicines nakliye etmek.
 
-You will then be able to collect the Module from **the Bright Sentinel** in **Mbooni** on Thursday 23rd of September 3307.
+Sonrasında, 23 Eylül 3307 tarihinden itibaren **Mbooni** sistemindeki **the Bright Sentinel**'den modülünüzü teslim alabilirsiniz.
 
-## Notes from Frontier
+## Frontier'den Notlar
 
-The following information is taken from discussions with Community Manager Zac in the [Anti-Xeno Initiative Discord](https://discord.gg/bqmDxdm).
+Aşağıdaki bilgiler, [Anti-Xeno Initiative Discord](https://discord.gg/bqmDxdm)'unda Topluluk Yöneticisi Zac ile yapılan konuşmalardan edinilmiştir.
 
-- You don't need the message from Salvation to be able to participate.
-- You don't need previous participation with Salvation events to participate.
-- No specific "amount of medicines" required / commanders.
-- The gauss will be obtainable later even if you didn't participate.
-- You will be able to get as many "hammer gauss" as you want eventually.
+- Katılmak için Salvation'dan mesaj almanıza gerek yok.
+- Katılmak için daha önceki Salvation etkinliklerinde bulunmuş olmanıza gerek yok.
+- Kumandan başına nakliye edilmesi gereken belli miktarda "Basic Medicines" yok.
+- Gauss, etkinliğe katılmamış kişiler tarafından da daha sonra edinilebilecek.
+- Nihayetinde istediğiniz kadar silaha sahip olabileceksiniz.
 
 ![](https://cdn.discordapp.com/attachments/625989888432537611/888450639967965184/unknown.png) ![](https://cdn.discordapp.com/attachments/625989888432537611/888450754115952650/unknown.png) ![](https://cdn.discordapp.com/attachments/625989888432537611/888450900094517308/unknown.png) ![](https://cdn.discordapp.com/attachments/625989888432537611/888451081028390942/unknown.png)
