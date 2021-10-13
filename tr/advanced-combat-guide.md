@@ -146,13 +146,13 @@ Basilisk 530 m/s hıza çıkabilmektedir. Bu öğretideki Chieftain, eğer öner
 Yörünge sınırları dışına çıkmak hedefle aranızdaki menzili artıracağından Gauss Cannon'ların hasarının düşmesine ve fazladan mermi harcamanızın gerekmesine sebep olabileceğinden heatsink ihtiyacı artabilir. Çatışma menzili dışından ateş etmek tavsiye edilmez.
 
 # Thargoid Uyku Modu
-- The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
+- [[[ tbd tbd
 -
-- Cold orbiting is also the basis for more advanced Interceptor combat when wanting to use smaller ships and also for more advanced Thargon swarm management for small ships when flak launchers cannot be fitted. (beyond the scope of this guide)
+- tbd tbd
 -
-- The amount of heat sinks within this doctrine will allow the destruction of any heart on any variants as long as the commander maintains a 900m-1.5km orbit maximising the damage output of the Gauss cannon.
+- tbd
 -
-- Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
+- tbd tbd ]]]
 
 `Emeği Geçenler
 Anti-Xeno Initiative Discord sunucusuna bu öğretiyi iyileştirme yönündeki yardımlarından ve aşağıdaki AXI Kumandanlarına katkılarından dolayı teşekkürler:
