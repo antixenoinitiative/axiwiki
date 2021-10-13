@@ -1,6 +1,6 @@
 ---
-title: Odyssey Engineering
-description: Guide to engineering suits and on-foot weapons
+title: Odyssey Mühendisliği
+description: Kıyafet ve piyade silahları mühendisliği rehberi
 published: true
 date: 2021-09-19T11:12:31.337Z
 tags: engineering, guide
@@ -8,23 +8,23 @@ editor: markdown
 dateCreated: 2021-06-10T12:19:05.577Z
 ---
 
-# **__How to farm materials is Odyssey__**
+# **__Odyssey'de nasıl materyal farmlanır__**
 
-## Manufacturing Instructions (More or less for everything)
+## Manufacturing Instructions (Aşağı yukarı her şey için)
 
-Find a “impact site” PoI (use DSS on a landable planet) - these will generally have a crashed satellite with a habitat data port. Check & download Manufacturing Instructions. Relog. Rinse and repeat.
+Bir "impact site" POI'ı bulun (iniş yapılabilen bir gezegende DSS taraması yapın) - genellikle çakılmış bir uydu ve veri portu içerirler. Tıklayın ve indirin. Oturumunuzu kapatıp açın. Tekrarlayın.
 
- ##  Weapon Schematics (For weapon upgrades)
+ ##  Weapon Schematics (silah geliştirmek için)
 
-Find a “two containers plus crashed skimmer” or “three containers plus wrecked SRV” instance at “Irregular Markers” with a threat level. Arc Cutter and Overload container doors, cases inside will have weapon schematics aplenty (and drugs aplenty too.) Relog, rinse and repeat. “Larceny” type missions also spawn these instances - if you use a mission-spawned PoI, make sure to NOT pick up the mission item, or instance will de-spawn upon relog.
+Tehdit seviyesi olan "Irregular Markers"'ta "İki konteyner ve çakılmış skimmer" veya "3 konteyner ve hurda SRV" bulun. Konteyner kapılarında Arc Cutter ve Overload uygulayın, içerideki çantalarda bolca Weapon Schematics (ve Drugs) bulacaksınız. Oturumunuzu kapatıp açın ve tekrarlayın. "Larceny" tipi görevlerde de bu tip ortamlar ortaya çıkar - görev tarafından doğrulan bir ortamdaysanız görev eşyasını ALMAYIN, aksi takdirde ortam yok olur ve yeniden giriş yaptığınızda orada olmaz.
 
-## Suit Schematics (For suit upgrades)
+## Suit Schematics (Kıyafet geliştirmek için)
 
-These are an absolute pain. There’s no fast way to do it. They are only found in large and small locked lockers in OPS rooms within command centers, and in small locked lockers in PWR rooms, but they are relatively rare. Missions can also give 1-2 suit schematics, but these are also uncommon. If anyone finds a faster way, please let me know.
+Bunları tam bir bela. Hızlıca toplamanın bir yolu yok. Yalnızca komuta merkezine sahip OPS odalarındaki Large ve Small Locked Lockers'ta ve daha nadir olan PWR odalarındaki Small Locked Locers'ta bulunuyorlar. Görevler de 1-2 adet verebiliyor fakat nadiren. Daha hızlı bir yöntem keşfederseniz lütfen bilgilendirin.
 
-## Power Regulators (For suit upgrades)
+## Power Regulators (Kıyafet geliştirmek için)
 
-Pick up 5-10 restore missions. Immediately abandon them. You now have 5-10 power regulators, for the moderate price (in fines) of 100k each. Repeat until you have as many as you need.
+5-10 adet Restore görevi alın. Görevi iptal edin. You now have 5-10 power regulators, for the moderate price (in fines) of 100k each. Repeat until you have as many as you need.
 
 ## Ionized Gas (For Manticore {Plasma} and TK {Laser} Weapons Upgrades)
 
