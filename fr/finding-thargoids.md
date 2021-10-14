@@ -2,7 +2,7 @@
 title: Trouver des Thargoids
 description: Comment trouver des Thargoids dans Elite Dangerous
 published: true
-date: 2021-06-15T11:22:39.700Z
+date: 2021-10-14T22:49:54.945Z
 tags: thargoids, intercepteurs, éclaireurs
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -13,20 +13,22 @@ Les Thargoids savent se faire discrets mais il existe des astuces et des zones d
 
 > ## Zones d'activité actuelles
 > 
-> Pleiades Nebula (~100 al autour de Merope) Witch Head Nebula (~75 al autour de Witch Head Sector IR-W C1-9) Coalsack Nebula (taille de la région inconnue) 
+> Pleiades Nebula (~175Ly around Merope) Witch Head Nebula (~75Ly around Witch Head Sector IR-W C1-9) Coalsack Nebula (~Region Size Unknown) 
 > 
 > {.is-info}
 
+Source: [Pleiades NHSS Survey Spreadsheet](https://docs.google.com/spreadsheets/d/1DhDTU3SLvmoNjBb_Ymy-S6RV1DsYztPRiULh1zR26lA/edit#gid=0)
+
 ## Emplacements Thargoids
 
-Les Thargoids peuvent se trouver dans divers endroits, comme :
-- [Les Sources de Signal Non Humaines](/en/nhss)
-- [Hyperdictions](/en/hyperdictions)
-- [Sources de Signal Statiques](/en/static-signals)
-- [Structures Thargoids](https://canonn.science/codex/the-unknown-structure/?highlight=structure)
+Thargoids can be found in various locations, such as:
+- [Non-Human Signal Sources](/en/nhss) (Pleaides, Witch Head and Coalsack Nebula)
+- [Hyperdictions](/en/hyperdictions) (Pleaides, Witch Head and Coalsack Nebula)
+- [Static Signal Sources](/en/static-signals) (Bubble, Pleaides, Witch Head and Coalsack Nebula)
+- [Thargoid Structures](https://canonn.science/codex/the-unknown-structure/?highlight=structure) (Pleaides, Witch Head and Coalsack Nebula)
 
 ## Carte des activités
 
 ![thargoidmap.png](/img/thargoidmap.png)
 
-[Cliquez ici pour une image en taille complète](https://cdn.discordapp.com/attachments/625989888432537611/854310144946208808/Thargoid_Activity_Map_v0.5.png)
+[Click here for a full sized image](https://cdn.discordapp.com/attachments/625989888432537611/854310144946208808/Thargoid_Activity_Map_v0.5.png)
