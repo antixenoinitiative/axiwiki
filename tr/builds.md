@@ -1,6 +1,6 @@
 ---
-title: Recommended Builds
-description: Recommended Anti-Xeno Ship Builds
+title: Önerilen Gemiler
+description: Önerilen Anti-Xeno Gemileri
 published: true
 date: 2021-09-19T11:07:39.839Z
 tags: builds
@@ -9,21 +9,21 @@ dateCreated: 2021-06-08T12:52:54.657Z
 ---
 
 # Önerilen Gemiler
-Thargoidlerin kendilerine has dirençleri ve hasar verme biçimleri alışılagelmiş savaş gemisi donanımları için sorun teşkil ettiğinden Thargoid Avı özelleşmiş gemi donanımları gerektirir. Bu sebeple, uzaylı gemilerini yok etmek için gereken en etkili gemiyi oluştururken doğru kararları verebilmeniz için bu rehberi hazırladık. Bu gemiler size dengeli bir ateş gücü ve hayatta kalma imkanı verirken aynı zamanda daha fazla hata payı da sağlamak için tasarlanmıştır.
+Thargoidlerin kendilerine has dirençleri ve hasar verme biçimleri alışılagelmiş savaş gemisi donanımları için sorun teşkil ettiğinden Thargoid Avı özelleşmiş gemi donanımları gerektirir. Uzaylı gemilerini yok etmek için gereken en etkili gemiyi oluştururken doğru kararları verebilmeniz için bu rehberi hazırladık. Bu gemiler size dengeli bir ateş gücü ve hayatta kalma imkanı verirken aynı zamanda daha fazla hata payı sağlamak için tasarlanmıştır.
 
-> Bileşenleri seçme aşamasındaki arka plan kararları hakkında daha fazla fikir sahibi olmak için [Gemi Donanım Teorisi](/en/shipbuildtheory) sayfasını ziyaret edebilirsiniz. 
+> Bileşenleri seçme aşamasındaki arka plan kararları hakkında daha fazla fikir sahibi olmak için [Gemi Donatım Teorisi](/en/shipbuildtheory) sayfasını ziyaret edebilirsiniz. 
 > 
 > {.is-info}
 
-## Gemi Donanım Biçimleri
+## Gemi Donatım Biçimleri
 
 İlk olarak iki ana çeşit Thargoid olduğundan bahsedelim: **Thargoid Scoutlar** ve **Thargoid Interceptorler**. Farklı mekanik ve yeteneklere sahip olduklarından, bu iki düşman karşısında farklı donanımlara ihtiyaç duyacağız.
 
 # Interceptor Gemileri
 
-Thargoid Interceptorler çok sağlam ve güçlü düşmanlardır ve baş edebilmek için eş seviyede güçlü gemilere ihtiyaç vardır. Thargoid Interceptorlerin yüksek hasar verme kabiliyetlerine bağlı olarak etkili biçimde kullanabileceğiniz metot ve stiller sınırlıdır.
+Thargoid Interceptorler çok sağlam ve güçlü düşmanlardır ve baş edebilmek için eş seviyede güçlü gemilere ihtiyaç vardır. Thargoid Interceptorlerin yüksek hasar verme kabiliyetleri dolayısıyla etkili olabilecek yöntemler sınırlıdır.
 
-Aşağıda Anti-Xeno savaşlarında en yaygın kullanılan gemi donanım biçimleri verilmiştir:
+Aşağıda Anti-Xeno savaşlarında en yaygın kullanılan gemi donatım biçimleri verilmiştir:
 
 -   **Kalkanlı Hızlı Gemiler** (Bi-Weave Hibritler) - İyi bir hıza ve çabuk yenilenen küçük kalkanlara sahip gemiler. (Başlangıç seviyesi)
 
@@ -60,7 +60,7 @@ Tip: **Bi-Weave Hibrit**
 
 AX Krait Mk.II İnceleme Videosu: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
-Not: Bu gemi kalkanlarda "Lo-Draw" kullansa da "Fast Charge" deneyseli de daha fazla pip yönetimi gerektiren ama daha hızlı kalkan yenileyen iyi bir seçenektir.
+Not: Bu gemi kalkanlarda "Lo-Draw" kullansa da, daha fazla pip yönetimi gerektiren ama daha hızlı kalkan yenileyen "Fast Charge" deneyseli de iyi bir seçenektir.
 
 ### Alliance Chieftain (Kalkanlı)
 
@@ -115,7 +115,7 @@ Bu gemiler daha önce Thargoidlere karşı savaşmış, ya da PvP savaş deneyim
 
 Kalkansız Alliance Chieftain tartışmasız AX metasıdır, tıpkı Fer-de-Lance'in PvP'de olduğu gibi. İyi gövde dayanıklılığı, kargo alanı, çeviklik ve ateş gücü sağlayan Chieftain, yok edici ateş gücü sağlarken eforsuzca cold orbit yapabilir. Yeterli sayıdaki hardpointleri, 4 Gauss Cannon'ın yanı sıra bir Flak Launcher'ı ve bir Thermal Vent Beam Laser'ı da kuşanmaya olanak sağlar. Kardeş gemisi Alliance Challenger, süratinden taviz vererek daha fazla hasar ve gövde dayanıklılığı sağlar.
 
-Tip: **Cold Orbiter**
+Tip: **Soğuk Yörüngeci**
 
 - Sürat: ⭐⭐⭐⭐⭐
 - Çeviklik: ⭐⭐⭐⭐⭐
@@ -136,7 +136,7 @@ AX Chieftain İnceleme Videosu: [https://www.youtube.com/watch?v=ipyvolMlX4E](ht
 
 Başlangıç seviyesi Krait Mk.II'nin kalkansız versiyonu. Kalkansız Krait, Chieftain'in manevra kabiliyetine sahip olmasa da daha fazla hasar verir. Krait'in dev güç kaynağı, rölantide 20% sıcaklığın altında kalmasını sağlayarak heatsink veya Thermal Vent Beam kullanmadan soğuk yaklaşmalara izin verir.
 
-Tip: **Cold Orbiter**
+Tip: **Soğuk Yörüngeci**
 
 - Sürat: ⭐⭐⭐⭐⭐
 - Çeviklik: ⭐⭐⭐
@@ -158,7 +158,7 @@ AX Krait Mk.II İnceleme Videosu: [https://www.youtube.com/watch?v=isamR6yLLMQ](
 
 Daha popüler Alliance Chieftain'in kardeşi olan Alliance Challenger, daha yavaş ama daha dengeli ve biraz daha yüksek hasara sahip bir alternatiftir. Tercihe bağlı olarak daha fazla saf gövde dayanıklılığına sahip olabilir.
 
-Tip: **Cold Orbiter**
+Tip: **Soğuk Yörüngeci**
 
 - Sürat: ⭐⭐⭐⭐
 - Çeviklik: ⭐⭐⭐⭐
@@ -178,7 +178,7 @@ Tip: **Cold Orbiter**
 
 Büyük üçlüden biri olan Federal Corvette hafife alınmaması gereken bir güçtür. Dev bir "Power Distributor" ve gövde dayanıklılığı sunan gemi sadece sürat söz konusu olunca kaybeder. Bu gemiyle savaşmak çok daha fazla yetenek gerektirse de pek çok deneyimli AX pilotunun favorisidir. Kalkansızken tüm silahları ateşlese de buz gibi kalmayı başarır.
 
-Tip: **Cold Orbiter**
+Tip: **Soğuk Yörüngeci**
 
 - Sürat: ⭐⭐
 - Çeviklik: ⭐⭐⭐
