@@ -182,13 +182,13 @@ Dolayısıyla -mechallenge, Ace'ten farklı (daha katı ama ulaşılabilir sın�
 - Gauss konfigürasyonu ne olursa olsun en fazla 175 adet mermi kullanılmalı (Astraea's Clarity)
 - Onarım yapan gemiler kullanılamaz (100% Club)
 
-Pratikte, mükemmel bir Ace savaşı bile -mechallenge kriterlerine uymaz (Vanguard kuralları sebebiyle). They are, effectively, different challenges meant to test slightly different skills (-mechallenge is, in practice, small-ship Dusa mastery; Ace is the ultimate hypermeta Chieftain mastery challenge.)
+Pratikte, mükemmel bir Ace savaşı bile -mechallenge kriterlerine uymaz (Vanguard kuralları sebebiyle). Dolayısıyla bu ikisi farklı meydan okumalardır ve farklı becerileri sınar (-mechallenge küçük gemilerle Medusa öldürme ustalığı iken Ace ise Chieftain ustalığı).
 
-As of September 10, 2021, no one CMDR has ever been successful at the -mechallenge (which is exceptionally hard but achievable), nor has anyone achieved a perfect Ace score (which is, by design, humanly unachievable).
+10 Eylül 2021 itibariyle -mechallenge'da (çok zor ama yapılabilir) başarılı olan bir CMDR mevcut değildir ve kimse mükemmel Ace skoruna ulaşamamıştır (zaten insan sınırları içinde mümkün değil).
 
-## Backlog for new /ace features, in decreasing order of priority
+## Önem sırasına göre eklenmesi planlanan yeni /ace özellikleri
 
-1. Add SLEF integration for EDSY build import
-2. Replace "time taken in seconds" input with a more user-friendly "hh:mm:ss" format
-3. Add more cool visuals in addition to, or as an optional replacement of, the radar chart
-4. Other code and data factoring and cleanup
+1. EDSY gemi içe aktarması için SLEF birleşmesi eklenmesi
+2. Süre giriş yöntemini "saniye bazında savaş süresi"nden daha kullanıcı dostu "sa:dk:sn" biçimine dönüştürmek
+3. Daha havalı görsel arayüzler eklemek, radar grafiğine ek ya da seçenek olarak
+4. Diğer veri hesaplama sistemleri, kodu ve temizlik
