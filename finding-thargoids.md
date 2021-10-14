@@ -2,7 +2,7 @@
 title: Finding Thargoids
 description: How to find Thargoids in Elite Dangerous
 published: true
-date: 2021-10-14T22:48:43.899Z
+date: 2021-10-14T22:49:54.945Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -22,10 +22,10 @@ Source: [Pleiades NHSS Survey Spreadsheet](https://docs.google.com/spreadsheets/
 ## Thargoid Locations
 
 Thargoids can be found in various locations, such as:
-- [Non-Human Signal Sources](/en/nhss)
-- [Hyperdictions](/en/hyperdictions)
-- [Static Signal Sources](/en/static-signals)
-- [Thargoid Structures](https://canonn.science/codex/the-unknown-structure/?highlight=structure)
+- [Non-Human Signal Sources](/en/nhss) (Pleaides, Witch Head and Coalsack Nebula)
+- [Hyperdictions](/en/hyperdictions) (Pleaides, Witch Head and Coalsack Nebula)
+- [Static Signal Sources](/en/static-signals) (Bubble, Pleaides, Witch Head and Coalsack Nebula)
+- [Thargoid Structures](https://canonn.science/codex/the-unknown-structure/?highlight=structure) (Pleaides, Witch Head and Coalsack Nebula)
 
 ## Activity Map
 
