@@ -105,84 +105,84 @@ Savaşta aşağıdaki kurallar yürürlüktedir:
 3. Thargoid'in gövdesine ve Kalplerine hasar vermek için yalnızca Medium ya da Small Gauss'lar kullanılabilir. Kalkanlar üzerinde istediğiniz silahı kullanabilirsiniz. Ek olarak tüm Kalpler parçalandıktan ve son kalkan düştükten sonra Thargoid'in gövdesine hasar vermek için toslama yapmak yasaktır. Kazara oluşmuş durumlar görevliler tarafından değerlendirilir. (Ayrıca aklınızda bulundurun ki Advanced Missile Racks ve CG Shard Cannon kullanımları da, tüm AXI rütbelerinde olduğu gibi burada da yasaktır.)
 4. Tüm savaşı içeren bir video ile başvuru yapmalısınız.
 5. "Zaman"; "goid'e hasar verilen ilk kare" ile "goidin radarda gözüktüğü son kare" veya radarda hedeflenmiş değilse "patlamanın ikinci karesi" arasında geçen süredir. Yani, goidin ölüm animasyonu bu zamana dahil olup patlama değildir.
-6. As per general rank rules - *"Use of any bugs, exploits, cheats or other methods of killing the interceptor in an unintended way (including gibbing) is forbidden, and such submissions will be rejected."*; this includes, but is not limited to, the following: "deleting the swarm" bug exploit; using ship kits to block incoming damage (Odyssey); and anything else we might not have thought of, which would reasonably be considered to be an exploit
+6. Genel rütbe kuralları gereğince - *"Herhangi bir bug, exploit, fırsatçılık, hile ve istemsizce ortaya çıkan diğer tüm durumlardan faydalanarak; Interceptor'ü veya Swarm'ı öldürmek, Interceptor'e veya Swarm'a hasar vermek veya herhangi bir biçimde savaşı usulsüzce lehinize çevirmek, gibbing dahil, yasaktır ve başvurunuz reddedilecektir."* Bunlara örnek olan bazı durumlar: "Swarm'ı yok etme" bugı, ship kits (arx ile satın aldığınız kozmetik eklentiler) kullanılarak hasar engelleme (Odyssey). Bunlar nihai sınırları çizmez ve bizim henüz aklımıza gelmemiş diğer başka yasa dışı fayda sağlama yöntemleri de fırsatçılık kabul edilebilir.
 
-For clarity, the following are explicitly ALLOWED:
-1. You can use any gauss configuration you want (ammo efficiency rating will auto-adjust)
-2. You can reload and/or synth as few or as many times you want
-3. You can use flak or not use flak - entirely up to you
-4. You can use beams, TV or otherwise, so long as you don't specifically use them as a means to do significant damage to the goids hull at the end of the fight (use of beams to stay cool for sub-minute periods is ok)
-4. You're welcome to use a repair build, noting any hull repaired must be factored into the scoring submission calculation
+Kuralları netleştirmek adına, aşağıdakilere İZİN VERİLMEKTEDİR:
+1. İstediğiniz Gauss kombinasyonunu kullanabilirsiniz (mühimmat verimliliği kendiliğinden ayarlanacaktır)
+2. Mühimmat ve diğer ihtiyaçlarınızı istediğiniz kadar sentezleyebilirsiniz.
+3. Flak kullanabilir ya da kullanmayabilirsiniz - size kalmış.
+4. Beam Laser'leri, TV veya değil, savaş sonunda goidin gövdesine yüksek hasarlar uygulama niyeti dışında (mesela soğuk kalmak için) kullanabilirsiniz.
+4. Savaş sırasında onarım yapabilirsiniz, yapılan onarımları skor başvurusunda belirtmelisiniz.
 
-### The known, and accepted, limitations of the new Ace rank
+### Yeni Ace rütbesinin bilinen ve kabul edilmiş sınırları
 
-Given the principles we followed, we are well aware that the new Ace scoring systems comes with specific limitations; in particular:
-- It does not assess a CMDR's ability to fight in a multigoid scenario, nor their endurance in sustaining fights that last for many hours
-- It limits the fight to a single specific ship (the Chieftain)
+Sunduğumuz prensiplere bağlı olarak hazırladığımız yeni Ace puanlama sisteminde bulunan bazı sınırların farkındayız. Mesela:
+- CMDR'ların multi-goid savaşlarındaki becerilerini ve uzun savaşların gerektirdiği dayanıklılık gereksinimini hesaba katmıyor.
+- Savaşı yalnızca tek bir gemiyle (Chieftain) sınırlandırıyor.
 
-Both limitations are known and are by design. We will be evolving the multigoid leaderboards and launching an associated rank to address multi-goid CMDR concers.
+İki sınır da bilinen, tasarımsal sonuçlardır. Multigoid skor tablolarını geliştireceğiz ve multigoid savaşlarını seven CMDR'lar için bir rütbe hazırlayacağız.
 
-We are ok limiting, by design, this rank to a solo fight. It's intended to test a CMDR's skill under controlled conditions, while minimizing grind.
+Bu rütbeyi tasarımın sonucu olarak bire bir savaşla sınırlandırmak konusunda bir şikayetimiz yok. En nihayetinde amaç, bir CMDR'ın becerilerini grind gerektirmeyen kontrol şartları altında sınamaktı.
 
-In the future we may consider expanding the core idea of this rank to other ships but, at launch, the focus will be the Chieftain.
+Gelecekte, diğer gemiler için de bu rütbe sistemini geliştirmeyi düşünebiliriz ancak şu an için odağımız sadece Chieftain.
 
-## FAQs
+## SSS
 
-### When will the new Ace rank go live?
+### Yeni Ace rütbesi ne zaman devreye girecek?
 
-The new system will go live on 12:01am UTC on Monday, October 4, 2021.
+4 Ekim 2021 Pazartesi günü saat 00:01'de.
 
-Submissions for the new Ace rank will start being accepted a week before then - starting from 12:01am UTC on Monday, September 27, 2021.
+Yeni Ace rütbesi için başvurular bir hafta öncesinden - 27 Eylül 2021 Pazartesi saat 00:01 UTC itibariyle alınmaya başlanacaktır.
 
-### How do I submit a score for review?
+### Nasıl başvuru yapabilirim?
 
-To provide everyone with a fresh challenge, only new fight submissions with ships which include the tag "GTM" (short for "Glory, To Mankind!" in case you're wondering) will be accepted.
+Herkese yeniden bir mücadele ortamı sunmak için yalnızca "GTM" (Glory, To Mankind!) tagını isminde bulunduran gemilerle yapılan savaşlara ait başvurular kabul edilecektir.
 
-Once you've completed a Medusa solo fight you are happy with, please use the /ace command in Discord with the optional "submit" parameter set to TRUE, and add also the optional "video link" parameter with a link to the fight.
+Discord sunucumuzda /ace komutunu kullandıktan sonra, "submit" parametresini TRUE olarak ayarlayıp, "video link" kısmına savaş videonuzun linkini girerek başvurunuzu yapabilirsiniz.
 
-**PLEASE CHECK YOUR SUBMISSION BEFORE POSTING IT BY RUNNING THE /ACE COMMAND FIRST WITH SUBMIT TO "FALSE", TO MAKE SURE THE SUBMISSION LOOKS LIKE IT'S SUPPOSED TO. IT WILL SAVE US ALL A LOT OF TIME AND FRUSTRATION. THANK YOU!**
+**LÜTFEN BAŞVURUNUZU YOLLAMADAN ÖNCE SUBMIT BÖLÜMÜ "FALSE" KONUMUNDAYKEN /ACE KOMUTUNU KULLANIP BAŞVURUNUZUN OLMASI GEREKTİĞİ GİBİ GÖRÜNDÜĞÜNDEN EMİN OLUN. AKSİ TAKDİRDE GEREKSİZ İŞLERLE ZAMAN KAYBEDERİZ. TEŞEKKÜRLER!**
 
-### When is the earliest I can actually record a fight?
+### En erken ne zaman savaş videosu kaydedebilirim?
 
-So long as your ships includes a "GTM" tag in its name, and the fight meets the other criteria listed herein, it will be accepted even if the fight is performed before the role officially launches.
+Geminizde "GTM" tagı bulunduğu ve diğer savaş kurallarına uyulduğu sürece başvurunuz kabul edilecektir.
 
-Submissions will begin to be processed on Monday, September 27, 2021, so please don't submit fights before then (or, at the very least, don't expect a response before then.)
+Başvurular 27 Eylül 2021 Pazartesi gününden itibaren değerlendirilmeye başlanacağından lütfen daha önce başvuru yapmayın. (ya da başvurunuza dair yanıt beklemeyin)
 
-You are, however, welcome to score your fights (set submit=false) before then using the `/ace` command.
+Yine de ne olursa olsun, submit "false" konumundayken `/ace` komutuyla istediğiniz kadar skor hesaplayabilirsiniz.
 
-### Can I submit multiple fights over time?
+### Daha sonra başka savaşlarla da ek başvurular yapabilir miyim?
 
-You can submit as many fights as you like, over any period of time. Do note that, however, only your "personal best" will remain on the board, and any lower-score fights will be overwritten once you submit a higher personal best.
+İstediğiniz kadar başvuru yapabilirsiniz. Ancak yalnızca "kişisel en iyi" skorunuz listelenecektir ve daha yüksek skor elde ettiğiniz takdirde düşük olan skorunuz kaldırılacaktır.
 
-You cannot submit a fight with a score LOWER than your current personal best - the submission bot will reject your entry automatically. So don't worry about accidentally erasing your best run!
+Mevcut kişisel rekorunuzdan daha DÜŞÜK bir skorla başvuru yapamazsınız, bot başvurunuzu reddedecektir. Dolayısıyla rekorunuzu yanlışlıkla silmekten endişe etmeyin!
 
-### What happens after I submit a score?
+### Başvuru yaptıktan sonra ne oluyor?
 
-A staff member will review your submission and will either approve or reject it for addition to the leaderboard. Also, if your submission is among the Top 10, you'll get the shiny new Ace rank!
+Görevlilerimizden biri başvurunuzu değerlendirecek ve onay durumuna göre skor tablosuna ekleyecektir. Ayrıca En İyi 10 arasına girerseniz yeni Ace rütbesini kazanacaksınız!
 
-If there is any problem with the submission, a staff member will let you know and will try their best to remedy it so that it can be adjusted and/or resubmitted correctly.
+Başvurunuzda sorun olması durumunda görevliler size durumu bildirecek ve düzeltmek/ayarlama yapmak için yardımcı olmaya çalışacaktır.
 
-### What happens if there is a tie?
+### Beraberlik durumunda ne olur?
 
-Based on how the scoring system works, a tie is effectively impossible. Should an apparent tie appear, the detailed score will be analyzed to check which CMDR holds the best score, beyond 2 significant digits.
+Skor sisteminin işleyişi itibariyle beraberlik imkansız sayılabilir. Yine de bir mucize eseri beraberlik olursa skorların virgülün sağındaki iki basamaktan sonrasına da bakılır.
 
-### What happens to the old Ace rank?
+### Eski Ace rütbesine ne olacak?
 
-CMDRs holding the top 10 spots on the Ace board will lose the rank on 12:01am UTC on Monday, October 4, 2021. These CMDRs will be memorialized in the Hall of Fame and celebrated for their accomplishments. The legacy board will remain accessible to view - but no more entries will be processed from thereon out.
+4 Ekim 2021 Pazartesi günü saat 00:01 UTC itibariyle eski Ace rütbesine sahip CMDR'lar bu rütbeyi kaybedeceler. Bu CMDR'lar Onur Listemizde yer alacak ve başarıları taçlandırılacaktır. Eski skor tablosu görülebilir kalacak ancak yeni giriş yapılmayacaktır.
 
-Furthermore, ALL CMDRs holding a spot (even below 10) on the Ace board will be granted the "Old Guard" rank - similar to what was done when the old Collector rank was retired.
+Ek olarak Ace listesindeki tüm CMDR'lara (ilk 10 haricinde de), daha önce Collector rütbesi emekliye ayrıldığında olduğu gibi, "Old Guard" rütbesi verilecektir.
 
-### Difference between Ace score and -mechallenge/quadchallenge
+### Ace skoru ve -mechallenge/quadchallenge arasındaki farklar
 
-The -mechallenge (and known as "quadchallenge" or "mechan challenge") is a strict interpretation of a fight that meets the criteria for ALL of Vanguard, Myrmidon, 100% Club, and Astrae's Clarity.
+-mechallenge (ya da "quadchallenge"/"mechan challenge"), Vanguard, Myrmidon, 100% Club ve Astraea's Clarity rütbelerinden toplanan katı kurallar dahilinde yapılan savaşlardır.
 
-Consequently, the -mechallenge has different (generally stricter, but with more accessible thresholds) rules than Ace, specifically:
-- No builds above 40 vanguard points (for Vanguard)
-- Max 3 medium gauss and basic ammo (from Astraea's Clarity)
-- Maximum 175 rounds of ammo used, regardless of gauss configuration (from Astraea's Clarity)
-- No repair builds (from 100% Club)
+Dolayısıyla -mechallenge, Ace'ten farklı (daha katı ama ulaşılabilir sınırlarda) kurallara sahiptir:
+- 40 Vanguard puanı üstü gemi kullanılamaz (Vanguard)
+- En fazla 3 adet Medium Gauss ve Basic mühimmat (Astraea's Clarity)
+- Gauss konfigürasyonu ne olursa olsun en fazla 175 adet mermi kullanılmalı (Astraea's Clarity)
+- Onarım yapan gemiler kullanılamaz (100% Club)
 
-In practice, even a theoretically perfect Ace run would not meet the criteria of the -mechallenge (as it would not comply with Vanguard.) They are, effectively, different challenges meant to test slightly different skills (-mechallenge is, in practice, small-ship Dusa mastery; Ace is the ultimate hypermeta Chieftain mastery challenge.)
+Pratikte, mükemmel bir Ace savaşı bile -mechallenge kriterlerine uymaz (Vanguard kuralları sebebiyle). They are, effectively, different challenges meant to test slightly different skills (-mechallenge is, in practice, small-ship Dusa mastery; Ace is the ultimate hypermeta Chieftain mastery challenge.)
 
 As of September 10, 2021, no one CMDR has ever been successful at the -mechallenge (which is exceptionally hard but achievable), nor has anyone achieved a perfect Ace score (which is, by design, humanly unachievable).
 
