@@ -71,24 +71,24 @@ Video: CMDR Exigeous tarafından hazırlanan [Unlocking Engineers (Mühendisleri
 
 # Gemi ve Mühendisliğin Amacı
 - Verilen donanım ve mühendislik listesiyle, elinizdeki donanımdan mevcut olan mühendislik seçenekleriyle en etkin şekilde faydalanmayı sağlamak bu öğretinin temel noktasıdır. Mühendislerden tamamen faydalandığınız zaman Chieftain'in tüm kabiliyetlerine sahip olup, tüm Interceptor türleriyle etkin ve etkili çatışmaya girebilirsiniz.
-- Önerilen mühendislikle birlikte Chieftain'in minimum 500 m/s boost sürati, herhangi bir Interceptor türüne karşı fazlasıya yeterlidir. Basilisk hızı sebebiyle ek manevra gerektirir. Basilisk Hakkında Dikkat Edilecek Hususlar kısmına göz atın.
+- Chieftain'in önerilen yükseltmeyle erişilen minimum 500 m/s boost sürati, herhangi bir Interceptor türüne karşı fazlasıya yeterlidir. Basilisk, hızı sebebiyle ek manevra gerektirir. Basilisk Hakkında Dikkat Edilecek Hususlar kısmına göz atın.
 
-- Kalkan yerine "Repair Limpet Controller" kullanılmasının amacı kumandanların herhangi bir hata halinde gemilerini onarmalarına imkan sağlamaktır. Ayrıca Thargon Swarm, kalkanlı gemilere karşı daha fazla "phasing" hasarı (gövdeyi geçip, iç modüllere uygulanan hasar) uyguladığından kalkansız gemiler Swarm'a karşı biraz daha avantaj sahibidirler. Alınan hasara bağlı olarak, özellikle üst seviye türlere karşı, Limpet sentezlemek gerekebilir.
+- Kalkan yerine "Repair Limpet Controller" kullanılmasının amacı kumandanların herhangi bir hata halinde gemilerini onarmalarına imkan sağlamaktır. Ayrıca Thargon Swarm, kalkanlı gemilere karşı ek olarak "phasing" hasarı da (kalkanı delip geçen hasar) uyguladığından kalkansız gemiler Swarm'a karşı biraz daha avantaj sahibidirler. Alınan hasara bağlı olarak, özellikle üst seviye türlere karşı, Limpet sentezlemek gerekebilir.
 
 - 3 adet "Heatsink Launcher (Ammo capacity)", bol miktarda heatsink sağlayarak, tüm türlere karşı fazlasıyla "cold orbit" zamanı sağlar. Deneyimli kumandanlar Kalp başına; Cyclops'a karşı 1-2, Basilisk'e karşı 2-3, Medusa'ya karşı 3-5 ve Hydra'ya karşı tüm 9 heatsink'i kullanabilir.
 
-- Deneyimsiz kumandanlar için ise bu ek heatsinkler, daha fazla hata payına sahip olmalarını sağlayacaktır.
+- Deneyimsiz kumandanlar için ise bu ek heatsinkler daha fazla hata payına sahip olmalarını sağlayacaktır.
 
 - Heatsink sentezleme gereksinimi, savaşılan Interceptor türü ve kumandan deneyimine bağlı olarak değişiklik gösterir.
 
-- Guardian Gauss Cannon'lar 2 atış grubuna ayrılmalıdır; her atış grubunda 1 medium ve 1 small olacak şekilde. Bu sayede dönüşümlü ateş ederken en iyi sıcaklık yönetimi sağlanarak Chieftain, heatsink kullanırken 20% sıcaklık seviyesinin altında tutulabilir.
+- Guardian Gauss Cannon'lar 2 atış grubuna ayrılmalıdır; her atış grubunda 1 medium ve 1 small olacak şekilde. Bu sayede dönüşümlü ateş ederken en iyi sıcaklık yönetimi sağlanarak, heatsink kullanımıyla Chieftain 20% sıcaklık eşiğinin altında tutulabilir.
 
-- (Long Range + Thermal Vent) Beam Laser'ın öncelikli amacı Interceptor'ı heatsink kullanmadan "uyku modu"na sokabilmektir.
+- (Long Range + Thermal Vent) Beam Laser'ın öncelikli amacı Interceptor'ı "uyku evresi"ne heatsink kullanmadan sokabilmektir.
 
-- Eğer bir Kalbi parçaladıktan sonraki sıcaklığınız 15%'in üzerindeyse heatsink kullanımı gerebilir. Uyku modu Bölüm VIII'de daha detaylı açıklanmıştır.
+- Eğer bir Kalbi parçaladıktan sonraki sıcaklığınız 15%'in üzerindeyse heatsink kullanımı gerebilir. Uyku Evresi, Bölüm VIII'de daha detaylı açıklanmıştır.
 
 # Savaş Başlangıcı/İlk Kalp Saldırısı ve Akabindeki Kalp Çatışma Döngüsü
-- Bir "Non-Human Signal Source" (NHSS) içindeki bir Thargoid Interceptor'üyle karşılaştıktan sonraki savaş başlangıcı Interceptor sizi taramayı bitirdikten sonra olmalıdır. Bunun amacı, eğer Xeno Scanner'ınız varsa sizin de aynı sürede Interceptor'ü taramanıza olanak sağlamaktır.
+- Bir "Non-Human Signal Source" (NHSS) içindeki bir Thargoid Interceptor'üyle karşılaştıktan sonraki savaş başlangıcı, Interceptor sizi taramayı bitirdikten sonra olmalıdır. Bunun amacı, eğer Xeno Scanner'ınız varsa sizin de aynı sürede Interceptor'ü taramanıza olanak sağlamaktır.
 -
 - Flight Assist'i kapatın ve Beam Laser ile saldırıyı başlatın. [Pip: 0-4-2]
 -
@@ -96,23 +96,23 @@ Video: CMDR Exigeous tarafından hazırlanan [Unlocking Engineers (Mühendisleri
 -
 - Mesafe açtıktan sonra hareketinize devam ederken 180 derece dönün ve Thargon Swarm'ına saldırınızı başlatın. (Eğer Swarm yönetimi gerekiyorsa Bölüm V Swarm Yönetimi kısmına göz atın) [Pip: 0-4-2]
 -
-- Swarm'ı yok ettikten sonra Interceptor'e saldırınızı Beam Laser ile başlatabilirsiniz (tercihen 5km menzilde). Bu sıcaklığınızı 20%'nin altına düşürerek Interceptor etrafındaki cold orbit'inizi başlatmanıza olanak sağlayacaktır. [Pip: 0-4-2]
+- Swarm'ı yok ettikten sonra Interceptor'e saldırınızı Beam Laser ile başlatabilirsiniz (tercihen 5km menzilde). Sıcaklığınızı 20%'nin altına düşürerek Interceptor etrafındaki cold orbit'inizi başlatmanıza olanak sağlayacaktır. [Pip: 0-4-2]
 -
-- Cold orbit saldırınızı; aşağı ve ileri yönde itişi, yaklaşık 180 m/s hıza ulaşana ve 900m-1.5km menzile gelene kadar uygulayarak başlatın. **NOT: Bu süreçte Thermal Vent Laser'inizi kullanmak hasar almadan yörüngenizi oluşturmanıza olanak sağlayacaktır.**
+- Cold orbit saldırınızı; aşağı ve ileri yönde itişi, yaklaşık 180 m/s hıza ulaşana ve 900m-1.5km menzile gelene kadar uygulayarak başlatın. **NOT: Bu süreçte Thermal Vent Laser'inizi kullanmak, gövde ısı emisyonunu düşük tutup hasar almadan yörüngenizi oluşturmanıza olanak sağlayacaktır.**
 -
-- Yörüngenizi oluşturduktan sonra Gauss Cannon atış grubuna geçin, heatsink ateşleyip, Gauss Cannon'larınızı dönüşümlü ateşlemeye başlayın. (Dönüşümlü ateşleme; ikinci grubu, birinci grup ateş ettikten hemen sonra şarj etmeye başlayarak yapılmalıdır.)
+- Yörüngenizi oluşturduktan sonra Gauss Cannon atış grubuna geçin; bir heatsink tetikleyip, Gauss Cannon'larınızı dönüşümlü ateşlemeye başlayın. (Dönüşümlü ateşleme; ikinci grubu, birinci grup ateş ettikten hemen sonra tetikleyerek yapılabilir.)
 -
-- Heatsink'lerinizi, bir Kalbi parçalayana dek, COVAS'ınız "Heatsink Deployed" dedikçe ateşlemeye devam edin.
+- Heatsink'lerinizi, ta ki bir Kalbi parçalayana dek, COVAS'ınız "Heatsink Deployed" dedikçe tetiklemeye devam edin.
 -
-- Her Interceptor türünün kendi saldırı penceresi (yüzü size dönük saldırmaya devam ettiği süre) vardır ve bu sürede yörüngenizi korumanızı sağlayacaktır. Bu saldırı penceresi sona erdiğinde Interceptor yön değiştirip kendi saldırı penceresini resetleyerek sizi yörüngenizi yeniden düzenlemeye zorlayacaktır. Bu süreçte yörüngenizin dışına çıktığınız takdirde yeniden toparlayana dek Thermal Vent Beam'inizi kullanarak sıcaklığınızı düşük tutmanız tavsiye edilebilir.
+- Her Interceptor türünün kendine has bir saldırı evresi (yüzü size dönük saldırmaya devam ettiği süre) vardır ve bu sürede yörüngenizi koruyabilmeniz mümkün olacaktır. Bu saldırı evresi sona erdiğinde Interceptor yön değiştirip kendi saldırı evresini sıfırlayacak ve bu durum sizi yörüngenizi yeniden düzenlemeye zorlayacaktır. Bu süreçte yörüngenizin dışına çıktığınız takdirde, yeniden toparlayana dek Thermal Vent Beam'inizi kullanarak sıcaklığınızı düşük tutmanız tavsiye edilebilir.
 -
-- Cyclops ≈30 saniye -Basilisk & Medusa ≈26 saniye -Hydra ≈20 saniye
+- Cyclops ~30 saniye -Basilisk & Medusa ~26 saniye -Hydra ~20 saniye
 -
-- İlk Kalp parçalandıktan sonra derhal Beam Laser'inize geçin ve geminizi soğutmaya başlayın. Bu sürede geri itiş uygulayarak minimum 3km mesafe açın. Bu süreçte SYS kısmına bir pip ekleyerek, heatsink kullanmaktan azalmış kapasitörü şarj edin. [Pip: 1-4-1]
+- İlk Kalp parçalandıktan sonra derhal Beam Laser'inize geçin ve geminizi soğutmaya başlayın. Bu sürede geri itiş uygulayarak minimum 3km uzaklaşın. Bu süreçte SYS kısmına bir pip ekleyerek, heatsink kullanımına bağlı azalmış kapasitörü şarj edin. [Pip: 1-4-1]
 -
-- İlk Kalp, Interceptor'ün en saldırgan olduğu, sizi şimşek saldırısını kullanmak için takip ettiği aşamadır. Bundan kaçınmak için Beam Laser'inizi kullanmaya devam edin, 1.5km menzile ulaşınca aşağı ve ileri itiş uygularken boostlayın ve Laser'inizi hedefte tutmaya çalışın, Interceptor ile aranızda en az 800m mesafe bulundurun. (Sonraki Kalplerde Interceptor bu kadar saldırgan olmayacaktır, Kalp parçaladıktan sonraki uyku modunda mesafenizi yalnızca ileri ve geri itiş kullanarak kontrol edebilirsiniz.)
+- İlk Kalp sonrası, Interceptor'ün en saldırgan olduğu, şimşek saldırısını kullanmak için sizi takip ettiği aşamadır. Bundan kaçınmak için Beam Laser'inizi kullanmaya devam edin, 1.5km menzile ulaşınca aşağı ve ileri itiş uygularken boostlayın ve Laser'inizi hedefte tutmaya çalışın, Interceptor ile aranızda en az 800m mesafe bulundurun. (Sonraki Kalplerde Interceptor bu kadar saldırgan olmayacaktır, Kalp parçaladıktan sonraki uyku modunda mesafenizi yalnızca ileri ve geri itiş kullanarak kontrol edebilirsiniz.)
 -
-- Bu manevrayla Interceptor etrafında yarım yörünge kat ederek onu momentumunu değiştirmeye zorlarsınız (tüm Interceptor'ler çok yavaş yön değiştirir) ve sıcaklığınızı 15%'in altında tutup, Interceptor'ün uyku modunda kalmasını sağlarsınız. (Bölüm VII Thargoid Interceptor Uyku Modu)
+- Bu manevrayla Interceptor etrafında yarım yörünge kat ederek onu momentumunu değiştirmeye zorlarsınız (Interceptor'ler çok yavaş yön değiştirir) ve sıcaklığınızı 15%'in altında tutup, Interceptor'ün uyku evresinde kalmasını sağlarsınız. (Bölüm VII Thargoid Interceptor Uyku Evresi)
 -
 - Beam Laser'inizi hedefte tutarak geri itişle Interceptor'den uzaklaşmaya başlayın. [Pip: 0-4-2]
 -
@@ -131,13 +131,13 @@ Video: CMDR Exigeous tarafından hazırlanan [Unlocking Engineers (Mühendisleri
 - Soğuk boosta benzer başka bir taktik ise "silent running" uygulayarak Basilisk'in yanından boostlayıp geçmektir. (Kullanılacak seçenekler kumandanın kararına kalmıştır.) Bu manevranın amacı kumandanların heatsink harcamadan kalkansız geminin avantajını kullanarak aynı sonuca ulaşmalarını sağlamaktır.
 
 ## Basilisk Hakkında Dikkat Edilecek Hususlar
-Basilisk 530 m/s hıza çıkabilmektedir. Bu öğretideki Chieftain, eğer önerilen donanım kullanıldıysa Basilisk'ten hızlı kaçamaz. Gereken bir manevra olarak soğuk boost (heatsink ateşleyip Basilisk'in yanından boostlayıp geçmek) Basilisk'le aranızda değerli bir mesafe açarak, gerekli sentezleri ve/veya onarımları yapmanıza olanak tanıyacaktır. Basilisk bir yönde tam hız gidiyorsa zıt yönüne dönerken zorlanır. Genel olarak Interceptorler çok süratli gidebilseler de bu sürati kazanmaları, fren yapmaları ve yön değiştirmeleri çok zaman alır. Unutmayın ki bu manevra sizi Swarm'ın uçuş yoluna sokabilir ve eğer Swarm'ın içinden geçecek olursanız Swarm'ın "huzursuz" durumunu tetikleyebilirsiniz.
+Basilisk 530 m/s hıza çıkabilmektedir. Bu öğretideki Chieftain, eğer önerilen donanım kullanıldıysa Basilisk'ten hızlı kaçamaz. Gereken bir manevra olarak soğuk boost (heatsink ateşleyip Basilisk'in yanından boostlayıp geçmek) Basilisk'le aranızda değerli bir mesafe açarak, gerekli sentezleri ve/veya onarımları yapmanıza olanak tanıyacaktır. Basilisk bir yönde tam hız giderken zıt yöne dönmekte zorlanır. Genel olarak, Interceptorler çok süratli gidebilseler de bu sürati kazanmaları, fren yapmaları ve yön değiştirip tekrar hızlanmaları çok zaman alır. Unutmayın ki bu manevra sizi Swarm'ın uçuş yoluna sokabilir ve eğer Swarm'ın içinden geçecek olursanız Swarm'ın "huzursuz" durumunu tetikleyebilirsiniz.
 
 # Swarm Yönetimi
 İlk önce Swarm'a saldırmanın amacı, Interceptor'deki depolanan Swarm'ı olaya dahil etmemektir. İlk önce Interceptor'e saldırıp Kalbini parçalarsanız, ilk Swarm'ın üstüne bir de depolanmış Swarm'ını salarak sizi iki Swarm'la uğraşmaya itecektir. Depolanmış Swarm'ın olaya dahil oluşunu engellemek Kalp parçalamalar sonrasındaki zamanınızı daha iyi kullanmanıza ve kalan Kalplere odaklanmanıza yardımcı olacaktır.
 
 # Cold Orbit (Soğuk Yörünge) Amacı
-- Cold orbit (soğuk yörünge) doğru uygulandığı takdirde, yeterli hız ve mesafeyi koruyarak Interceptor'ün namlusunun 15 derece dışında ve bu süreçte 20% sıcaklığın altında kalınması, Interceptor'den gelen hasardan kaçınmanızı sağlayacaktır. Bu taktik çok sayıda deneyimli AX kumandanı tarafından hasardan kaçınarak, özellikle üst seviye Interceptor'lerle olan savaşlarda, modül ve gövde onarımıyla kaybedilecek çok değerli zamandan tasarruf sağlamak amacıyla kullanılmaktadır.
+- Cold orbit (soğuk yörünge) doğru uygulandığı takdirde; yeterli hız ve mesafeyi koruyarak Interceptor'ün namlu doğrultusunun 15 derece dışında ve bu süreçte 20% sıcaklığın altında kalınması, Interceptor'den gelen hasardan kaçınmanızı sağlayacaktır. Bu taktik çok sayıda deneyimli AX kumandanı tarafından hasardan kaçınarak, özellikle üst seviye Interceptor'lerle olan savaşlarda, modül ve gövde onarımıyla kaybedilecek çok değerli zamandan tasarruf sağlamak amacıyla kullanılmaktadır.
 -
 - Cold orbit, aynı zamanda daha küçük gemilerle savaşmanın ve/veya Flak Launcher kullanamadığınız donanımlarla Swarm yönetmenin temelini oluşturur. (bu rehberin kapsamı dışında)
 -
@@ -155,7 +155,7 @@ Yörünge sınırları dışına çıkmak hedefle aranızdaki menzili artıraca�
 - tbd tbd ]]]
 
 `Emeği Geçenler
-Anti-Xeno Initiative Discord sunucusuna bu öğretiyi iyileştirme yönündeki yardımlarından ve aşağıdaki AXI Kumandanlarına katkılarından dolayı teşekkürler:
+Bu öğretiyi iyileştirme yönündeki yardımlarından dolayı Anti-Xeno Initiative Discord sunucusuna ve katkılarından dolayı aşağıdaki AXI Kumandanlarına teşekkürler:
 CMDR Mgram,
 CMDR BADRACINGDRIVER,
 CMDR Mackenheimer,
