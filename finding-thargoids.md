@@ -2,7 +2,7 @@
 title: Finding Thargoids
 description: How to find Thargoids in Elite Dangerous
 published: true
-date: 2021-06-15T11:22:39.700Z
+date: 2021-10-14T22:48:43.899Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -12,10 +12,12 @@ dateCreated: 2021-06-15T10:50:27.574Z
 Thargoids are an elusive bunch but there are certain tricks and hotspots that can help you find what you are looking for. The most consistent means is to find Thargoids in **Non-Human Signal Sources (NHSS)** in either the Pleiades Region, Coalsack Nebula or the Witch Head Nebula. However, you can also find Thargoids at a few static locations across human space.
 
 > ## Current Active Regions
->Pleiades Nebula (~100Ly around Merope)
+>Pleiades Nebula (~175Ly around Merope)
 >Witch Head Nebula (~75Ly around Witch Head Sector IR-W C1-9)
 >Coalsack Nebula (~Region Size Unknown)
 {.is-info}
+
+Source: [Pleiades NHSS Survey Spreadsheet](https://docs.google.com/spreadsheets/d/1DhDTU3SLvmoNjBb_Ymy-S6RV1DsYztPRiULh1zR26lA/edit#gid=0)
 
 ## Thargoid Locations
 
