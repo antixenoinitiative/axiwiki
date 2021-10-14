@@ -1,6 +1,6 @@
 ---
-title: Speedrunning Guide
-description: Can kill goids? Yes? But can you kill them quick?
+title: Speedrun Rehberi
+description: Goidleri öldürebilir misiniz? Evet? Ama çabuk öldürebilir misiniz?
 published: true
 date: 2021-06-10T23:22:48.988Z
 tags:
