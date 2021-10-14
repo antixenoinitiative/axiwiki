@@ -1,6 +1,6 @@
 ---
-title: Advanced Combat Guide
-description: Based on the Odysseus Doctrine by CMDR Avasa Siuu
+title: İleri Düzey Savaş Rehberi
+description: CMDR Avasa Siuu tarafından hazırlanan Odysseus Öğretisi'ne dayanmaktadır.
 published: true
 date: 2021-06-17T04:01:30.341Z
 tags: outfitting, combat, thargoids, interceptors
@@ -9,13 +9,13 @@ dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
 # İleri Düzey Savaş Rehberi
-Bu öğretinin amacı yeni ya da tecrübeli kumandanlara tüm Thargoid Interceptor türlerine karşı etkili bir savaş stili ve gemi donanımı sunmaktır. Bu öğretinin bedeli, herhangi bir kumandanın herhangi bir Thargoid Interceptor'le savaşa girebilmesi için olabildiğince düşük tutulmuştur. Taktik ve manevralar da, Basilisk'in hızı dolayasıyla gereken ekstra bir manevra hariç, tüm Interceptor türleri için aynıdır.
+Bu öğretinin amacı yeni ya da tecrübeli kumandanlara tüm Thargoid Interceptor türlerine karşı etkili bir savaş stili ve gemi donanımı sunmaktır. Bu öğreti için gereken ücret, herhangi bir kumandanın herhangi bir Thargoid Interceptor'le savaşa girebilmesi için olabildiğince düşük tutulmuştur. Taktik ve manevralar da, Basilisk'in hızı dolayasıyla gereken ekstra bir manevra hariç, tüm Interceptor türleri için aynıdır.
 
 Bu öğretinin etkili olabilmesi için kumandanların "flight assist off" uçuşlarına temel düzeyde hakim olması gerekmektedir. Bu öğreti, bir çok manevrayı imkansız kılacağı için "flight assist on" uçuşları için tasarlanmamıştır.
 
-Bu öğreti tekrar eden bir savaş stili etrafında şekillenmiştir. Temel olarak, tüm Kalpler için (savaş başlangıcı hariç) aynı taktikleri tekrarlıyor olacaksınız. Bu da kumandanların sürekli tekrar eden bu hareketlerde giderek ustalaşmasını sağlayacaktır.
+Bu öğreti tekrar eden bir savaş stili etrafında şekillenmiştir. Temel olarak, tüm Kalpler için (savaş başlangıcı hariç) aynı taktikleri tekrarlıyor olacaksınız. Bu da kumandanların sürekli tekrar eden bu hareketlerde giderek ustalaşmalarını sağlayacaktır.
 
-Ayrıca bu öğreti "pip" yönetimine minimum gereksinim sağlar. Kalkansız bir gemi kullanacağınız için önceliklerinizi ve odağınızı başka yerlere verebilirsiniz.
+Ayrıca bu öğreti "pip" yönetimine minimum gereksinim sağlar. Kalkansız bir gemi kullanacağınız için güç aktarımını ve odağınızı başka yerlerde tutabilirsiniz.
 
 # Gemi Donanımı
 Bu öğretinin merkezinde Chieftain vardır. Challenger da hardpoint'lerdeki ufak değişiklerle kullanılabilir. (Challenger donanım rehberi şu an yapım aşamasında) Krait MKII, Krait Phantom ya da FAS gibi gemiler de kullanılabilir ancak Chieftain, hardpoint düzeni ve manevra kabiliyeti ve ucuz fiyatı sebebiyle bu öğretinin ana odağındadır.
@@ -49,9 +49,9 @@ Bu öğretinin merkezinde Chieftain vardır. Challenger da hardpoint'lerdeki ufa
 - 3x OI Heatsink Launchers(Ammo Capacity)
 - Xeno Scanner/Heatsink Launcher (Tercihinize göre, eğer Thargoid'lerin HP'sini ya da Swarm'ın sayısını görmek isterseniz Xeno Scanner alın, yoksa Heatsink Launcher.)
 
-Not: Eğer Xeno Scanner tercih etmez de fazladan Heatsink Launcher alırsanız, düşük seviye Interceptor savaşlarında hiç heatsink "synthesize" etmeniz gerekmeyebilir.
+Not: Eğer Xeno Scanner tercih etmez de fazladan Heatsink Launcher alırsanız, düşük seviye Interceptor savaşlarında heatsink sentezlemeniz gerekmeyebilir.
 
-# Mühendislik (Engineering)
+# Mühendislik
 Burada listelenen mühendislerle giriş seviyesindeki kumandanlar için gereken mühendisliği en alt seviyede tutmak, ancak aynı zamanda da daha deneyimli kumandanların ileri düzey mühendislikle gemilerini en üst seviyeye çıkarabilmelerini sağlamak amaçlanmıştır. Gereken mühendisler aşağıda listelenmiştir:
 
 ## Minimum Mühendisler:
@@ -64,13 +64,13 @@ Burada listelenen mühendislerle giriş seviyesindeki kumandanlar için gereken 
 - Ram Tah (Meene) - Heatsink Launcher (Ammo Capacity)
 
 ## Opsiyonel Mühendisler:
-- Felicity Farseer (Deciat) - G5 Frame Shift Drive mühendisliği
-- Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensors mühendisliği
+- Felicity Farseer (Deciat) - G5 Frame Shift Drive
+- Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensors
 
-Video: [Unlocking Engineers (Mühendisleri açmak - İngilizce) by CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
+Video: CMDR Exigeous tarafından hazırlanan [Unlocking Engineers (Mühendisleri açmak - İngilizce)](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
 # Gemi ve Mühendisliğin Amacı
-- Verilen donanım ve mühendislik listesiyle elinizdeki donanımdan, mevcut olan mühendislik seçenekleriyle en etkin şekilde faydalanmayı sağlamak bu öğretinin temel noktasıdır. Mühendislerden tamamen faydalandığınız zaman Chieftain'in tüm kabiliyetlerine sahip olup, tüm Interceptor türleriyle etkin ve etkili çatışmaya girebilirsiniz.
+- Verilen donanım ve mühendislik listesiyle, elinizdeki donanımdan mevcut olan mühendislik seçenekleriyle en etkin şekilde faydalanmayı sağlamak bu öğretinin temel noktasıdır. Mühendislerden tamamen faydalandığınız zaman Chieftain'in tüm kabiliyetlerine sahip olup, tüm Interceptor türleriyle etkin ve etkili çatışmaya girebilirsiniz.
 - Önerilen mühendislikle birlikte Chieftain'in minimum 500 m/s boost sürati, herhangi bir Interceptor türüne karşı fazlasıya yeterlidir. Basilisk hızı sebebiyle ek manevra gerektirir. Basilisk Hakkında Dikkat Edilecek Hususlar kısmına göz atın.
 
 - Kalkan yerine "Repair Limpet Controller" kullanılmasının amacı kumandanların herhangi bir hata halinde gemilerini onarmalarına imkan sağlamaktır. Ayrıca Thargon Swarm, kalkanlı gemilere karşı daha fazla "phasing" hasarı (gövdeyi geçip, iç modüllere uygulanan hasar) uyguladığından kalkansız gemiler Swarm'a karşı biraz daha avantaj sahibidirler. Alınan hasara bağlı olarak, özellikle üst seviye türlere karşı, Limpet sentezlemek gerekebilir.
