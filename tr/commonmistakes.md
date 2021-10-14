@@ -1,6 +1,6 @@
 ---
-title: Common Mistakes
-description: Common mistakes to avoid when hunting Thargoids
+title: Yaygın Hatalar
+description: Thargoid avında kaçınılması gereken yaygın hatalar
 published: true
 date: 2021-09-19T11:15:47.195Z
 tags: builds, outfitting, engineer
