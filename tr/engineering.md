@@ -1,6 +1,6 @@
 ---
-title: Engineering Materials Guide
-description: Guide on gathering and collecting materials for engineering your ship
+title: Mühendislik Materyalleri Rehberi
+description: Geminizi mühendislikle yükseltmek için gereken materyalleri elde etme rehberi
 published: true
 date: 2021-06-17T00:16:23.801Z
 tags: engineering, outfitting, materials
