@@ -2,7 +2,7 @@
 title: Thargoidleri Bulmak
 description: 'Elite: Dangerous''ta Thargoidler nasıl bulunur'
 published: true
-date: 2021-06-15T11:22:39.700Z
+date: 2021-10-14T22:49:54.945Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -13,20 +13,22 @@ Thargoidler pek sık karşılaşılmasalar da nereye bakacağınızı bilirseniz
 
 > ## Etkin Bölgeler
 > 
-> Pleiades Nebulası (Merope'un ~100Ly çevresi) Witch Head Nebulası (Witch Head Sector IR-W C1-9 sisteminin ~75Ly çevresi) Coalsack Nebulası (Bölge büyüklüğü bilinmiyor) 
+> Pleiades Nebula (~175Ly around Merope) Witch Head Nebula (~75Ly around Witch Head Sector IR-W C1-9) Coalsack Nebula (~Region Size Unknown) 
 > 
 > {.is-info}
 
+Source: [Pleiades NHSS Survey Spreadsheet](https://docs.google.com/spreadsheets/d/1DhDTU3SLvmoNjBb_Ymy-S6RV1DsYztPRiULh1zR26lA/edit#gid=0)
+
 ## Thargoid Bulunan Yerler
 
-Thargoidler çeşitli yerlerde bulunabilirler, bunlar:
-- [Non-Human Signal Source (NHSS) sinyalleri,](/en/nhss)
-- ["Hyperdiction" dediğimiz, sistemler arası atlayış yaparken Interceptorlerin "yolunuzu kesmesi",](/en/hyperdictions)
-- [Bazı sabit sinyal kaynakları](/en/static-signals)
-- [Thargoid Yapıları](https://canonn.science/codex/the-unknown-structure/?highlight=structure)
+Thargoids can be found in various locations, such as:
+- [Non-Human Signal Sources](/en/nhss) (Pleaides, Witch Head and Coalsack Nebula)
+- [Hyperdictions](/en/hyperdictions) (Pleaides, Witch Head and Coalsack Nebula)
+- [Static Signal Sources](/en/static-signals) (Bubble, Pleaides, Witch Head and Coalsack Nebula)
+- [Thargoid Structures](https://canonn.science/codex/the-unknown-structure/?highlight=structure) (Pleaides, Witch Head and Coalsack Nebula)
 
 ## Etkinlik Haritası
 
 ![thargoidmap.png](/img/thargoidmap.png)
 
-[Tam boyutlu görsel için tıklayınız](https://cdn.discordapp.com/attachments/625989888432537611/854310144946208808/Thargoid_Activity_Map_v0.5.png)
+[Click here for a full sized image](https://cdn.discordapp.com/attachments/625989888432537611/854310144946208808/Thargoid_Activity_Map_v0.5.png)
