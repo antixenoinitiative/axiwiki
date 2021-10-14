@@ -13,54 +13,54 @@ Bu sayfa, Ace Skor Hesaplayıcısı'nın geçmişi ve detayları hakkında bilgi
 
 ## Ace rütbesinin ortaya çıkışı ve şu ana kadarki süreç
 
-Ever since the introduction of Discord server ranks, the AXI has considered the idea of recognizing our very best CMDRs with a rank that was "competitive" in nature, that is, it could be earned but it could also be lost as new CMDRs achieved higher levels of skill.
+AXI, Discord sunucunda rütbelerin ortaya çıkışından beri, rekabete dayalı ve daha iyi bir CMDR geldiği zaman kaybedilebilen bir rütbe fikrini irdelemiştir.
 
-The introduction of the Vanguard scoring system laid the groundwork of the "old Ace" system, with a leaderboard which recognized CMDRs who accomplished the most stunning multigoid kills, and further so with less-than-optimal ships to boot.
+Vanguard puanlama sisteminin sunulması "eski Ace" sistemine bir temel oluşturmuş ve meta dışı gemilerle çoklu-Goid katleden CMDR'ların muhteşem skorları listelenmiştir.
 
-As the overall combat skill of CMDRs grew, and as the knowledge of ships and AX combat progressed, eventually the Ace board became something that strictly required a hyperdiction instance to even attempt - and, namely, a one-in-thousands-of-jumps occurrance, which further carried a risk of "failing" as CMDRs has a small window to summon additional cyclopes and engage all goids before they left.
+CMDR'ların savaş becerileri geliştikçe ve AX gemileri hakkında bilgilerimiz arttıkça; Ace panosu, sadece kendinizi denemek için bile, binde bir görülen güçlü türlere sahip çoklu-goid hyperdiction ortamlarına ek olarak fazladan Cyclops çağırmak için kullanılan riskli yöntemlerin de başarılı olma ihtimalinin gerçekleşmesini gerektirmeye başlamıştır.
 
-The relaxation of the "megaships rules" helped little in that the creation of these instances still required 2 CMDRs a significant amount of time (hours) to do, and the fight itself was typically also several hours long. Couple with the grind for mats involved (for ammo and MAs for interdictions in particular), it is no surprise that the Ace rank broadly fell out of favor, and that new submissions were rare and far between.
+Megaship kurallarının hafifletilmesi, bu ortamların elde edilmesini biraz kolaylaştırsa da; yine de 2 CMDR gerekmekte ve bu kişilerin sadece ortam denk getirmeye çalışmasının bile saatlerce sürmesine sebep olmuştur. Üzerine bir de gerekli materyalleri toplamak için gereken grindı eklerseniz (özellikle mermi ve MA) bu rütbenin pek gözde olmadığına ve başvuruların nadiren gerçekleştiğine şaşırmazsınız.
 
-An Ace rank overhaul thus became a priority.
+Dolayısıyla Ace rütbesinin gözden geçirilmesi bir öncelik haline geldi.
 
-## The New Ace rank
+## Yeni Ace Rütbesi
 
-### The principles guiding the creation of the new Ace rank
+### Yeni Ace rütbesinin dayandığı prensipler
 
-In setting the principles for the creation of the new Ace rank, we aspired to:
-- Quantitatively assess the best possible approximation of "the inherent skill displayed in a fight by a CMDR"
-- Leverage the meta inherent to the current state of AX Combat: The Alliance Chieftain (rather than create a system which would inherently generate a specific alternate meta)
-- Limit the grind required to the bare minimum
-- Limit the overall duration of a fight attempt to about 30 minutes (or less), while still providing enough of a challenge to highlight differences between "good" and "great" fights
-- Provide a scoring system where a "perfect score" would be impossible to achieve
-- Provide a scoring system where even brand new CMDRs can compare themselves to the AXI aces, and observe as their own skills improve over time
-- Provide a scoring system which tests all areas (time, ammo efficiency, and evasiveness / damage avoidance) equally, without the ability to min/max one over another
-- Provide maximum possible player agency; allowing any mix of gauss
+Yeni Ace rütbesinin temeli olacak prensipleri oluştururken arzuladıklarımız:
+- "Bir CMDR'ın bir savaşta gösterdiği becerileri" mümkün olan en iyi yaklaşımlarla nicel sonuçlara dökmek.
+- AX Savaşlarında doğal olarak varlık kazanan metadan faydalanmak: Alliance Chieftain (yapay başka bir metanın ortaya çıkmasına sebep olacak bir sistem yerine)
+- Grind gerekliliğini mümkün olan en düşük seviyede tutmak.
+- Savaş süresini yaklaşık 30 dakika ve daha kısa olacak şekilde sınırlandırmak, ancak yine de üstesinden gelinmesi gereken zorlukları yeterli oranda sunarak "iyi" ve "muhteşem" savaşlar arasındaki farkları ortaya koyabilmek.
+- "Mükemmel puan"ı elde etmenin imkansız olduğu bir puanlama sistemi hazırlamak.
+- En yeni CMDR'ların bile kendilerini AXI Ace'leriyle karşılaştırıp, gelişimlerini gözlemleyebilecekleri bir puanlama sistemi hazırlamak.
+- Savaşın tüm gerekliliklerini sınayan (zaman, mühimmat verimliliği, hasardan kaçınma), herhangi birinde ustalaşıp diğerlerinin görmezden gelinmesine sebep olmayacak bir puanlama sistemi hazırlamak.
+- Oyuncuların istedikleri Gauss kombinasyonlarını yapmalarına imkan vermek.
 
-### The mechanics of the new Ace rank
+### Yeni Ace rütbesinin işleyiş esasları
 
-For the purpose of consistency and to meet the principles above, the Medusa was chosen as the goid-of-reference for the new Ace rank. (A Hydra would have made for a much longer and much grindier fight, and a Basilisk -or Clops- would have run into speedrunning balancing issues.)
+Yukarıdaki prensipleri karşılaması ve tutarlılık sunması adına referans goid olarak Medusa seçilmiştir. (Hydra çok daha fazla grind ve zaman isterdi ve Basilisk -veya Cyclops- speedrun dengeleme sorunlarına yol açardı.)
 
-The new Ace rank sets three "reference fights" solo Medusa fight thresholds:
+Yeni Ace rütbesi, bireysel Medusa savaşlarındaki eşikleri üç "referans savaş" ile belirliyor:
 
-1. The bar for an "ideal" fight (set at 100 points):
-- Time Taken: 2 minutes and 45 seconds [note the current medium Glint record is 3m04s]
-- Ammo Efficiency: 100% ammo efficiency
-- Damage Taken: Less than 1% total hull damage taken (including damage repaired with repair limpets, if any)
+1. "Kusursuz" savaş eşiği (100 puan):
+- Harcanan Zaman: 2 dakike 45 saniye [şu anki Glink rekoru 3d04s]
+- Mühimmat Verimliliği: 100% mühimmat verimliliği
+- Alınan Hasar: 1%'den az gövde hasarı alınması (Limpetlerle onarılanlar dahil)
 
-2. The bar for an "excellent" fight (set at 80 points):
-- Time Taken: 18 minutes (compared to average 99-100% DBX runs of 20.5-22 minutes)
-- Ammo Efficiency: 82% ammo efficiency (Astraea's Clarity level)
-- Damage Taken: 10% total hull damage taken (including damage repaired with repair limpets, if any)
+2. "Muhteşem" savaş eşiği (80 puan):
+- Harcanan Zaman: 18 dakika (99-100% DBX savaşlarının 20.5-22 dakika ortalama süresine kıyasla)
+- Mühimmat Verimliliği: 82% mühimmat verimliliği (Astraea's Clarity düzeyi)
+- Alınan Hasar: 10%'den az gövde hasarı alınması (Limpetlerle onarılanlar dahil)
 
-3. The bar for an "entry level" fight (set at 0 points):
-- Time Taken: 30 minutes
-- Ammo Efficiency: 35% ammo efficiency
-- Damage Taken: 125% total hull damage taken (including damage repaired with repair limpets, if any)
+3. "Giriş seviyesi" savaş eşiği (0 puan):
+- Harcanan Zaman: 30 dakika
+- Mühimmat Verimliliği: 35% mühimmat verimliliği
+- Alınan Hasar: 125% gövde hasarı alınması (Limpetlerle onarılanlar dahil)
 
-Do note, that scoring higher than the threshold is technically impossible for Ammo Efficiency and Damage Taken, and practically impossible for Time Taken
+Mükemmel eşiğin üzerine çıkmak mühimmat verimliliği ve alınan hasar konularında imkansız olup harcanan zaman için de mümkün değil denebilir.
 
-Starting from a perfect-threshold fight, points are subtracted for how "far off" a CMDR was on each dimension, using a complex set of formulas designed by CMDR Orodruin as follows: 
+Mükemmel eşik değerlerinden başlanarak, CMDR'ların bu değerlere uzaklıklarına bağlı olarak düşülen puanlarla, CMDR Orodruin tarafından tasarlanan, aşağıda yer alan formüllerle hesaplanıyor: 
 
         // Calculations
     
@@ -94,17 +94,17 @@ Starting from a perfect-threshold fight, points are subtracted for how "far off"
         // Calculate the final score
         let finalScore = targetRun - (1/3)*(timeTakenPenalty + ammoEffPenalty + damageTakenPenalty)
 
-Note the ammo efficiency calculations are based on damage vs individual rounds to allow for mixed gauss usage. The source-data spreadsheet is available here: https://docs.google.com/spreadsheets/d/1p2axhJwSSSPS9eaI7R92f2sNpOPz-iiup-v09aakFFM/edit#gid=0. The specific math is quite complicated - please contact CMDR Orodruin if you have questions as to the specific logic behind them.
+Karışık Gauss kullanımının önünü açmak için mühimmat verimliliği hesaplarının, münferit mermiler yerine hasara bağlı hesaplandığına dikkat edin. Kaynak verisi çizelgesine buradan ulaşabilirsiniz: https://docs.google.com/spreadsheets/d/1p2axhJwSSSPS9eaI7R92f2sNpOPz-iiup-v09aakFFM/edit#gid=0 Kullanılan matematiksel yöntemler bir hayli karmaşık - sorularınız olması durumunda lütfen CMDR Orodruin ile iletişime geçin.
 
-### Specific rules of the new Ace rank
+### Yeni Ace rütbesiyle ilgili özel kurallar
 
-The following rules apply to the fight:
-1. You must kill a Medusa in a solo fight, in a non-planetary setting
-2. You must use an Alliance Chieftain. Apologies if you love other ships ... for the time being we are NOT making exceptions to this rule
-3. You must use basic ammo. Standards and Premiums are NOT allowed in this Ace challenge (main reason being to limit grind required)
-3. Only guardian gauss cannons are allowed to damage the Thargoid's hull and hearts; medium, small, or a mix are allowed - as few or as many as you like; [sorry shard lovers ... this isn't the fight for you]; You can use any weapons you wish on the Thargoid's shield, including any human weapons of your choice; Note this rule also implies Advanced Missile racks are not allowed (which are generally banned from AXI ranks as they are "broken"); Specifically, intentionally ramming the goid after all hearts are destroyed (to save ammo) is prohibited [cases of collisions claimed to be "accidental" will be evaluated on a case-by-case basis by staff]
-4. You must submit a link to a video of the entire fight for it to be considered for inclusion in the leaderboard
-5. "Time" is defined as from "the first frame where damage of any kind registers on the goid" to "the first frame where the goid has disappeared from the scanner [or, if the goid was not targeted at time of explosion, the SECOND frame of the explosion]." Specifically, time INCLUDES the death animation of the goid up to (but not including) the actual explosion.
+Savaşta aşağıdaki kurallar yürürlüktedir:
+1. Bir Medusa'yı bireysel olarak öldürmelisiniz, gezegen yakını olmayacak şekilde.
+2. Alliance Chieftain kullanmalısınız. Sevdiğiniz başka gemiler varsa özür dileriz, şu an için istisna kabul etmiyoruz.
+3. Basic mermi kullanmalısınız. Standart ve Premium sentezler grind gerekliliğini ortadan kaldırmak için kabul edilmemektedir.
+3. Thargoid'in gövdesine ve Kalplerine hasar vermek için yalnızca Medium ya da Small Gauss'lar kullanılabilir. Kalkanlar üzerinde istediğiniz silahı kullanabilirsiniz. Ek olarak tüm Kalpler parçalandıktan ve son kalkan düştükten sonra Thargoid'in gövdesine hasar vermek için toslama yapmak yasaktır. Kazara oluşmuş durumlar görevliler tarafından değerlendirilir. (Ayrıca aklınızda bulundurun ki Advanced Missile Racks ve CG Shard Cannon kullanımları da, tüm AXI rütbelerinde olduğu gibi burada da yasaktır.)
+4. Tüm savaşı içeren bir video ile başvuru yapmalısınız.
+5. "Zaman"; "goid'e hasar verilen ilk kare" ile "goidin radarda gözüktüğü son kare" veya radarda hedeflenmiş değilse "patlamanın ikinci karesi" arasında geçen süredir. Yani, goidin ölüm animasyonu bu zamana dahil olup patlama değildir.
 6. As per general rank rules - *"Use of any bugs, exploits, cheats or other methods of killing the interceptor in an unintended way (including gibbing) is forbidden, and such submissions will be rejected."*; this includes, but is not limited to, the following: "deleting the swarm" bug exploit; using ship kits to block incoming damage (Odyssey); and anything else we might not have thought of, which would reasonably be considered to be an exploit
 
 For clarity, the following are explicitly ALLOWED:
