@@ -1,6 +1,6 @@
 ---
-title: Convergence
-description: A short guide on convergence and how it affects fixed weapons
+title: Yakınsaklık
+description: Yakınsaklık ve sabit silahları nasıl etkilediğine dair kısa bir rehber
 published: true
 date: 2021-06-15T05:19:44.486Z
 tags: outfitting, weapons
