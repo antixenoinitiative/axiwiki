@@ -1,6 +1,6 @@
 ---
-title: Finding Thargoids
-description: How to find Thargoids in Elite Dangerous
+title: Thargoidleri Bulmak
+description: 'Elite: Dangerous''ta Thargoidler nasıl bulunur'
 published: true
 date: 2021-06-15T11:22:39.700Z
 tags: thargoids, interceptors, scouts
@@ -9,7 +9,7 @@ dateCreated: 2021-06-15T10:50:27.574Z
 ---
 
 # Thargoidleri Bulmak
-Thargoidler pek yaygın olmasalar da nereye bakacağınızı bilirseniz işiniz kolaydır. Thargoidleri bulmanın en tutarlı yolu; Pleiades Bölgesi, Coalsack Nebulası veya Witch Head Nebulası'nda bulabileceğiniz **Non-Human Signal Source (NHSS)** sinyalleridir. Ayrıca insan yerleşim bölgesinde de Thargoidleri bulabileceğiniz bazı sabit yerler varıdr.
+Thargoidler pek sık karşılaşılmasalar da nereye bakacağınızı bilirseniz işiniz kolaydır. Thargoidleri bulmanın en tutarlı yolu; Pleiades Bölgesi, Coalsack Nebulası veya Witch Head Nebulası'nda bulabileceğiniz **Non-Human Signal Source (NHSS)** sinyalleridir. Ayrıca insan uzayküresinde de Thargoidleri bulabileceğiniz bazı sabit yerler vardır.
 
 > ## Etkin Bölgeler
 > 
