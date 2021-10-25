@@ -12,7 +12,7 @@ dateCreated: 2021-06-10T04:04:18.230Z
 Es gibt eine Vielzahl verschiedener Anti-Xeno-Waffen im Spiel, und sie sind in zwei Hauptvarianten erhältlich:
 
 - **Menschliche AX Waffen** (AX Merfachgeschütz, AX Raketenrampe, Fortgeschrittene Mehrfachgeschütz, Fortgeschrittene Raketenrampe, Flakwerfer mit Fernzündung)
-- **Guardian Weapons** (Guardian Gauss Cannon, Guardian Plasma Charger, Guardian Shard Cannon, and their Engineered Variants)
+- **Guardian Waffen** (Guardian Gauss-Kanone, Guardian Plasma-Ladekanone, Guardian Splitterkanone und ihre modifizierte Variante)
 
 Guardian Waffen sind die effektivsten AX-Waffen im Spiel (speziell die Guardian Gauss Kanone) und menschliche AX-Waffen sind größtenteils unbrauchbar (Ausnahme bildet der Flakwerfer mit Fernzündung).
 
@@ -74,7 +74,7 @@ Hinweis: Zählt nicht beim Limit für 4 experimentelle Waffen.
 
 Wie beim verbesserten Mehrfachgeschütz, sind diese vom Ingenieur bearbeitbare Klone der normalen Raketenrampe und benötigen Synthesen um AX Schaden zu verursachen. Aufgrund ihres extremen Schadens, der Synth-Anforderung und des Mangels an Waffenzahlbegrenzung sind sie bei AXI-Rängen verboten.
 
-**Recommendation:** Use at own discretion (Cannot use without synth, Banned from use in AXI ranks)
+**Empfehlung:** Nach eigenem Ermessen verwenden (Nutzlos ohne Synthese, für offizielle Ränge gebannt)
 
 Hinweis: Zählt nicht beim Limit für 4 experimentelle Waffen.
 
