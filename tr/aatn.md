@@ -18,6 +18,7 @@ Scout                  | Speedrun        | Materyal          | Kalp
 Guardian               | Hyperdiction    | Opsiyonel         | Silah
 
 ## Sözlük
+**DoT:** (damage over time) Zamanla verilen hasar - Bazı saldırılar, ilk vuruş hasarlarına nazaran üzerinizde bıraktığı belirli aralıklarla sürekli hasar veren etkilerle öne çıkarlar. Elite: Dangerous oyununda Thargoidlerden aldığımız caustic hasar da böyledir.
 **Kite / Kitelama:** Bir düşmanla aranızdaki mesafeyi koruyarak hareket etme anlamına gelir, uçurtma uçurma eyleminden esinlenilmiştir. Ne çok uzaklaşırsınız, ne de çok yakınlaşırsınız. Sizin lehinize fakat düşmanın aleyhine olan mesafeyi korursunuz.
 
 **Target Lock:** Hedefe Kilitli - Interceptor'ün bazı özel yeteneklerini kullanabilmesi için bulunması gereken durum.
