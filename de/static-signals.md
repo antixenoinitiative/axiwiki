@@ -23,7 +23,7 @@ Nähere Informationen findest du in der [Thargoid Attacken-Liste](https://docs.g
 
 
 
-> Distress Call Points Of Interest that contain megaships or capital ships attacked by thargoids are leftovers of the initial bubble invasion. They have been placed there manually by FDev, who forgot to remove them once the invasion was over. Deciat specifically was attacked on July 5th 2018, and there are about 40+ more systems with the same type of POI all over the bubble and pleiades region. These POIs are not an indication of any actual thargoid activity by themselves, only Non-Human Signal Sources or AX Combat Zones are. Keep in mind though, that NHSS are naturally present in pleiades region (roughly 150Ly around Merope) and Witch Head nebula, and do not necessarily mean those systems are in danger. 
+> Notruf-Signalquellen, die Megaschiffe beinhalten, die von Thargoids angegriffen wurden, sind Überreste der ursprünglichen Bubble-Invasion. Sie wurden dort manuell von FDev platziert, die sie nach der Invasion vergessen hatten zu entfernen. Deziat speziell, wurde am 5. Juli 2018 angegriffen und es gibt rund 40+ mehr Systeme mit der gleichen Art von Signalquellen in der ganzen Bubble und Pleiades Region. Diese Signalquellen sind kein Indiz dafür, dass es tatsächliche Aktivität von Thargoids gab. Das sind nur NHSS' und AXCZs. Beachte aber, dass die NHSS in Pleiades (etwa 150Ly rund um Merope) und im Hexenkopfnebel natürlich vorhanden sind und das nicht unbedingt bedeut, dass diese Systeme in Gefahr sind. 
 > 
 > {.is-info}
 
