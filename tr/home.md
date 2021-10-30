@@ -2,14 +2,15 @@
 title: Ana Sayfa
 description: Anti-Xeno Initiative Wiki'sine hoş geldiniz. Anti-Xeno Savaşı için ana kaynağınız.
 published: true
-date: 2021-10-30T11:33:46.870Z
+date: 2021-10-30T18:13:59.809Z
 tags: admin
 editor: markdown
 dateCreated: 2021-10-06T05:49:31.808Z
 ---
 
 # Hoşgeldiniz! 
-Anti-Xeno Initiative Wiki'sine hoş geldiniz. Anti-Xeno Initiative'in bu ana kaynağında; Elite: Dangerous'taki Thargoidlerle olan savaşımızda faydalanabileceğiniz her türlü rehbere, bilgiye ve detaylı analiz dökümlerine ulaşabilirsiniz. Sayfa başındaki **arama çubuğunu** kullanarak başlayabilirsiniz. ![](/img/2021-06-21_15_15_32-home___anti-xeno_initiative_wiki_-\_beta.png) 
+Anti-Xeno Initiative Wiki'sine hoş geldiniz. Anti-Xeno Initiative'in bu ana kaynağında; Elite: Dangerous'taki Thargoidlerle olan savaşımızda faydalanabileceğiniz her türlü rehbere, bilgiye ve detaylı analiz dökümlerine ulaşabilirsiniz. Sayfa başındaki **arama çubuğunu** kullanarak başlayabilirsiniz. 
+![](/img/2021-06-21_15_15_32-home___anti-xeno_initiative_wiki_-\_beta.png) 
 Ya da **sol tarafta** bulabileceğiniz **gezinti çubuğunu** kullanarak sayfaları dolaşabilirsiniz.
 ## Popüler Konular
 En sık ziyaret edilen konulara göz atarak başlayabilirsiniz! 
