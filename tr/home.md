@@ -2,7 +2,7 @@
 title: Ana Sayfa
 description: Anti-Xeno Initiative Wiki'sine hoş geldiniz. Anti-Xeno Savaşı için ana kaynağınız.
 published: true
-date: 2021-10-30T11:32:30.803Z
+date: 2021-10-30T11:33:46.870Z
 tags: admin
 editor: markdown
 dateCreated: 2021-10-06T05:49:31.808Z
@@ -13,10 +13,10 @@ Anti-Xeno Initiative Wiki'sine hoş geldiniz. Anti-Xeno Initiative'in bu ana kay
 Ya da **sol tarafta** bulabileceğiniz **gezinti çubuğunu** kullanarak sayfaları dolaşabilirsiniz.
 ## Popüler Konular
 En sık ziyaret edilen konulara göz atarak başlayabilirsiniz! 
-- [Thargoid Interceptorler](/en/interceptors) 
-- [Thargoidler Nasıl Bulunur](/en/finding-thargoids) 
-- [Önerilen Gemiler](/en/builds) 
-- [Temel Savaş Rehberi](/en/basic-combat-guide) 
+- [Thargoid Interceptorler](/tr/interceptors) 
+- [Thargoidler Nasıl Bulunur](/tr/finding-thargoids) 
+- [Önerilen Gemiler](/tr/builds) 
+- [Temel Savaş Rehberi](/tr/basic-combat-guide) 
 
 
 ---
