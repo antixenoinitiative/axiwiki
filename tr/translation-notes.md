@@ -1,6 +1,16 @@
-`
-temp  page
-`
+---
+title: Çeviri Notları
+description: Çevirilere dair
+published: false
+date: 2021-10-30T12:16:39.662Z
+tags: translation, notes, çeviri, notları
+editor: markdown
+dateCreated: 2021-10-30T12:16:39.662Z
+---
+
+```
+in construction
+```
 
 
 # Çeviri Notları
