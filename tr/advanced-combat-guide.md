@@ -9,13 +9,13 @@ dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
 # İleri Düzey Savaş Rehberi
-Bu öğretinin amacı yeni ya da tecrübeli kumandanlara tüm Thargoid Interceptor türlerine karşı etkili bir savaş stili ve gemi donanımı sunmaktır. Bu öğreti için gereken ücret, herhangi bir kumandanın herhangi bir Thargoid Interceptor'le savaşa girebilmesi için olabildiğince düşük tutulmuştur. Taktik ve manevralar da, Basilisk'in hızı dolayasıyla gereken ekstra bir manevra hariç, tüm Interceptor türleri için aynıdır.
+Bu öğretinin amacı, yeni ya da tecrübeli tüm kumandanlara tüm Thargoid Interceptor türlerine karşı etkili bir savaş stili ve gemi donanımı sunmaktır. Bu öğreti için gereken maliyet, herhangi bir kumandanın herhangi bir Thargoid Interceptor'le savaşa girebilmesi için olabildiğince düşük tutulmuştur. Taktik ve manevralar da, Basilisk'in hızı dolayasıyla gereken ekstra bir manevra hariç, tüm Interceptor türleri için aynıdır.
 
 Bu öğretinin etkili olabilmesi için kumandanların "flight assist off" uçuşlarına temel düzeyde hakim olması gerekmektedir. Bu öğreti, bir çok manevrayı imkansız kılacağı için "flight assist on" uçuşları için tasarlanmamıştır.
 
-Bu öğreti tekrar eden bir savaş stili etrafında şekillenmiştir. Temel olarak, tüm Kalpler için (savaş başlangıcı hariç) aynı taktikleri tekrarlıyor olacaksınız. Bu da kumandanların sürekli tekrar eden bu hareketlerde giderek ustalaşmalarını sağlayacaktır.
+Bu öğreti tekrar eden bir savaş stili etrafında şekillenmiştir. Temel olarak, tüm Kalpler için (savaş başlangıcı hariç) aynı taktikleri tekrarlıyor olacaksınız. Bu da kumandanların sürekli tekrar ettikleri bu hareketlerde giderek ustalaşmalarını sağlayacaktır.
 
-Ayrıca bu öğreti "pip" yönetimine minimum gereksinim sağlar. Kalkansız bir gemi kullanacağınız için güç aktarımını ve odağınızı başka yerlerde tutabilirsiniz.
+Ayrıca bu öğreti pip yönetimine minimum gereksinim sağlar. Kalkansız bir gemi kullanacağınız için güç dağıtımını ve odağınızı başka yerlerde tutabilirsiniz.
 
 # Gemi Donanımı
 Bu öğretinin merkezinde Chieftain vardır. Challenger da hardpoint'lerdeki ufak değişiklerle kullanılabilir. (Challenger donanım rehberi şu an yapım aşamasında) Krait MKII, Krait Phantom ya da FAS gibi gemiler de kullanılabilir ancak Chieftain, hardpoint düzeni ve manevra kabiliyeti ve ucuz fiyatı sebebiyle bu öğretinin ana odağındadır.
@@ -52,9 +52,9 @@ Bu öğretinin merkezinde Chieftain vardır. Challenger da hardpoint'lerdeki ufa
 Not: Eğer Xeno Scanner tercih etmez de fazladan Heatsink Launcher alırsanız, düşük seviye Interceptor savaşlarında heatsink sentezlemeniz gerekmeyebilir.
 
 # Mühendislik
-Burada listelenen mühendislerle giriş seviyesindeki kumandanlar için gereken mühendisliği en alt seviyede tutmak, ancak aynı zamanda da daha deneyimli kumandanların ileri düzey mühendislikle gemilerini en üst seviyeye çıkarabilmelerini sağlamak amaçlanmıştır. Gereken mühendisler aşağıda listelenmiştir:
+Burada listelenen mühendislerle, giriş seviyesindeki kumandanlar için gereken mühendisliği en alt seviyede tutmakla birlikte daha deneyimli kumandanların ileri düzey yükseltmelerle gemilerini en üst seviyeye çıkarabilmelerini sağlamak amaçlanmıştır. Gereken mühendisler aşağıda listelenmiştir:
 
-## Minimum Mühendisler:
+## Gerekli Mühendisler:
 - The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
 - Selene Jean (Kuk) - G5 Hull Reinforcement Package (Heavy Duty/Deep Plate)
 - G5 Armor (Heavy Duty/Deep Plate)
@@ -70,20 +70,20 @@ Burada listelenen mühendislerle giriş seviyesindeki kumandanlar için gereken 
 Video: CMDR Exigeous tarafından hazırlanan [Unlocking Engineers (Mühendisleri açmak - İngilizce)](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
 # Gemi ve Mühendisliğin Amacı
-- Verilen donanım ve mühendislik listesiyle, elinizdeki donanımdan mevcut olan mühendislik seçenekleriyle en etkin şekilde faydalanmayı sağlamak bu öğretinin temel noktasıdır. Mühendislerden tamamen faydalandığınız zaman Chieftain'in tüm kabiliyetlerine sahip olup, tüm Interceptor türleriyle etkin ve etkili çatışmaya girebilirsiniz.
-- Chieftain'in önerilen yükseltmeyle erişilen minimum 500 m/s boost sürati, herhangi bir Interceptor türüne karşı fazlasıya yeterlidir. Basilisk, hızı sebebiyle ek manevra gerektirir. Basilisk Hakkında Dikkat Edilecek Hususlar kısmına göz atın.
+- Verilen donanım ve mühendis listesiyle; elinizdeki donanımdan, mevcut olan yükseltme seçeneklerinden en etkin şekilde faydalanmayı sağlamak bu öğretinin temel hedefidir. Mühendislerle tam yükseltme yaptığınızda Chieftain'in tüm kabiliyetlerine sahip olup, tüm Interceptor türleriyle etkin ve etkili çatışmaya girebilirsiniz.
+- Chieftain'in önerilen yükseltmelerle erişilen asgari 500 m/s boost sürati, herhangi bir Interceptor türüne karşı fazlasıya yeterlidir. Yalnızca Basilisk hızı sebebiyle ek bir manevra gerektirir. Basilisk Hakkında Dikkat Edilecek Hususlar kısmına göz atın.
 
-- Kalkan yerine "Repair Limpet Controller" kullanılmasının amacı kumandanların herhangi bir hata halinde gemilerini onarmalarına imkan sağlamaktır. Ayrıca Thargon Swarm, kalkanlı gemilere karşı ek olarak "phasing" hasarı da (kalkanı delip geçen hasar) uyguladığından kalkansız gemiler Swarm'a karşı biraz daha avantaj sahibidirler. Alınan hasara bağlı olarak, özellikle üst seviye türlere karşı, Limpet sentezlemek gerekebilir.
+- Kalkan yerine "Repair Limpet Controller" kullanılmasının amacı kumandanların herhangi bir hata yapmaları durumunda gemilerini onarmalarına imkan sağlamaktır. Ayrıca Thargon Swarm, kalkanlı gemilere karşı ek olarak "phasing" hasarı da (kalkanı delip geçen hasar) uyguladığından kalkansız gemiler Swarm'a karşı biraz daha avantaj sahibidirler. Alınan hasara bağlı olarak, özellikle üst seviye türlere karşı, Limpet sentezlemek gerekebilir.
 
-- 3 adet "Heatsink Launcher (Ammo capacity)", bol miktarda heatsink sağlayarak, tüm türlere karşı fazlasıyla "cold orbit" zamanı sağlar. Deneyimli kumandanlar Kalp başına; Cyclops'a karşı 1-2, Basilisk'e karşı 2-3, Medusa'ya karşı 3-5 ve Hydra'ya karşı tüm 9 heatsink'i kullanabilir.
+- 3 adet Heatsink Launcher (Ammo Capacity), bol miktarda heatsink sağlayarak, tüm türlere karşı fazlasıyla cold orbit zamanı sağlar. Deneyimli kumandanlar Kalp başına; Cyclops'a karşı 1-2, Basilisk'e karşı 2-3, Medusa'ya karşı 3-5 ve Hydra'ya karşı tüm 9 heatsinkten faydalanabilir.
 
-- Deneyimsiz kumandanlar için ise bu ek heatsinkler daha fazla hata payına sahip olmalarını sağlayacaktır.
+- Deneyimsiz kumandanlar ise bu ek heatsinklerle daha fazla hata payına sahip olacaklardır.
 
 - Heatsink sentezleme gereksinimi, savaşılan Interceptor türü ve kumandan deneyimine bağlı olarak değişiklik gösterir.
 
-- Guardian Gauss Cannon'lar 2 atış grubuna ayrılmalıdır; her atış grubunda 1 medium ve 1 small olacak şekilde. Bu sayede dönüşümlü ateş ederken en iyi sıcaklık yönetimi sağlanarak, heatsink kullanımıyla Chieftain 20% sıcaklık eşiğinin altında tutulabilir.
+- Guardian Gauss Cannon'lar 2 atış grubuna ayrılmalıdır; her atış grubunda 1 Medium ve 1 Small olacak şekilde. Bu sayede dönüşümlü ateş ederken en iyi sıcaklık yönetimi sağlanarak, heatsink kullanımıyla Chieftain 20% sıcaklık eşiğinin altında tutulabilir.
 
-- (Long Range + Thermal Vent) Beam Laser'ın öncelikli amacı Interceptor'ı "uyku evresi"ne heatsink kullanmadan sokabilmektir.
+- (Long Range + Thermal Vent) Beam Laser'ın öncelikli amacı Interceptor'ı uyku evresine heatsink kullanmadan sokabilmektir.
 
 - Eğer bir Kalbi parçaladıktan sonraki sıcaklığınız 15%'in üzerindeyse heatsink kullanımı gerebilir. Uyku Evresi, Bölüm VIII'de daha detaylı açıklanmıştır.
 
@@ -139,13 +139,13 @@ Basilisk 530 m/s hıza çıkabilmektedir. Bu öğretideki Chieftain, eğer öner
 # Cold Orbit (Soğuk Yörünge) Amacı
 - Cold orbit (soğuk yörünge) doğru uygulandığı takdirde; yeterli hız ve mesafeyi koruyarak Interceptor'ün namlu doğrultusunun 15 derece dışında ve bu süreçte 20% sıcaklığın altında kalınması, Interceptor'den gelen hasardan kaçınmanızı sağlayacaktır. Bu taktik çok sayıda deneyimli AX kumandanı tarafından hasardan kaçınarak, özellikle üst seviye Interceptor'lerle olan savaşlarda, modül ve gövde onarımıyla kaybedilecek çok değerli zamandan tasarruf sağlamak amacıyla kullanılmaktadır.
 -
-- Cold orbit, aynı zamanda daha küçük gemilerle savaşmanın ve/veya Flak Launcher kullanamadığınız donanımlarla Swarm yönetmenin temelini oluşturur. (bu rehberin kapsamı dışında)
+- Cold orbit, aynı zamanda daha küçük gemilerle savaşmanın ve/veya Flak Launcher kullanamadığınız donanımlarla Swarm yönetmenin temelini oluşturur. (Bu rehberin kapsamı dışında)
 -
 - Bu öğretideki önerilen heatsink miktarı, kumandan 900m-1.5km mesafedeki yörüngede kalıp Gauss Cannon'ların verdiği hasarı en üst düzeyde tuttuğu sürece herhangi bir türün herhangi bir Kalbini parçalamak için gerekli süreyi sağlayacaktır.
 
 Yörünge sınırları dışına çıkmak hedefle aranızdaki menzili artıracağından Gauss Cannon'ların hasarının düşmesine ve fazladan mermi harcamanızın gerekmesine sebep olabileceğinden heatsink ihtiyacı artabilir. Çatışma menzili dışından ateş etmek tavsiye edilmez.
 
-# Thargoid Uyku Modu
+# Thargoid Uyku Evresi
 - [[[ tbd tbd
 -
 - tbd tbd
@@ -154,9 +154,13 @@ Yörünge sınırları dışına çıkmak hedefle aranızdaki menzili artıraca�
 -
 - tbd tbd ]]]
 
-`Emeği Geçenler
+```
+Emeği Geçenler
+
 Bu öğretiyi iyileştirme yönündeki yardımlarından dolayı Anti-Xeno Initiative Discord sunucusuna ve katkılarından dolayı aşağıdaki AXI Kumandanlarına teşekkürler:
+
 CMDR Mgram,
 CMDR BADRACINGDRIVER,
 CMDR Mackenheimer,
-CMDR vini500300`
+CMDR vini500300
+```

@@ -22,16 +22,16 @@ dateCreated: 2021-06-15T10:10:09.264Z
 [**Canonn Research Websitesinde Thargoidler Hakkında Daha Fazlasını Okuyabilirsiniz**](https://canonn.science/codex/xeno-technology/)
 
 ## Thargoid Araçları
-Thargoid [**Interceptorler**](/en/interceptors) kolaydan zora doğru sıralya: Cyclops, Basilisk, Medusa ve Hydra türlerine sahiptir. Her daha güçlü tür, öncekilere kıyasla daha fazla [**Kalbe**](/en/hearts) sahiptir, daha dayanıklıdır ve Kalplerini pörtletmek ve parçalamak için daha fazla hasar vermek gerekir.
+Thargoid [**Interceptorler**](/tr/interceptors) kolaydan zora doğru sıralya: Cyclops, Basilisk, Medusa ve Hydra türlerine sahiptir. Her daha güçlü tür, öncekilere kıyasla daha fazla [**Kalbe**](/tr/hearts) sahiptir, daha dayanıklıdır ve Kalplerini pörtletmek ve parçalamak için daha fazla hasar vermek gerekir.
 
-Thargoid [**Scoutlar**](/en/scouts) daha küçük türlerdir ve farklı yeteneklere sahip farklı türleri vardır. Daha fazla bilgiye Thargoid [**Scoutlar**](/en/scouts) sayfasıdan ulaşabilirsiniz.
+Thargoid [**Scoutlar**](/tr/scouts) daha küçük türlerdir ve farklı yeteneklere sahip farklı türleri vardır. Daha fazla bilgiye Thargoid [**Scoutlar**](/tr/scouts) sayfasıdan ulaşabilirsiniz.
 
-Interceptorler çok zorlayıcıdır, wing savaşlarına daha uygundur ve onları tek başınıza öldürmek büyük başarı sayılır. Interceptorler; yüksek hasar veren silahlar, eylem kısıtlamasına sebep olan yetenekler ve bağımsız hareket eden [**drone'lar**](/en/thargon-swarms) kullanarak savaş alanında hakimiyet kurarlar.
+Interceptorler çok zorlayıcıdır, wing savaşlarına daha uygundur ve onları tek başınıza öldürmek büyük başarı sayılır. Interceptorler; yüksek hasar veren silahlar, eylem kısıtlamasına sebep olan yetenekler ve bağımsız hareket eden [**drone'lar**](/tr/thargon-swarms) kullanarak savaş alanında hakimiyet kurarlar.
 
 Uygun silahlar ve savunmaya sahip olmadan Thargoidlerle savaşmaya çalışmak imkansız denebilir. Interceptorler güçlü bir zırha ve hızlı yenilenme kabiliyetlerine sahiptir ve bu sebeple sıradan silahlar (Multi-cannon, Füzeler, Plasma ve Laser silahları vs.) onlara karşı hiçbir işe yaramaz.
 
-Neyse ki insanlık, kendi AX (Anti-Xeno) silahlarını geliştirmenin yanı sıra, kadim Guardian teknolojisinden faydalanıp, çok daha etkili ve güçlü hibrit silahlar da üretmiştir.
+Neyse ki insanoğlu, kendi AX (Anti-Xeno) silahlarını geliştirmenin yanı sıra, kadim Guardian teknolojilerinden faydalanıp, çok daha etkili ve güçlü hibrit silahlar da üretmiştir.
 
-[**Interceptorler hakkında daha fazla bilgi için**](/en/interceptors)
+[**Interceptorler hakkında daha fazla bilgi için**](/tr/interceptors)
 
-[**Scoutlar hakkında daha fazla bilgi için**](/en/scouts)
+[**Scoutlar hakkında daha fazla bilgi için**](/tr/scouts)
