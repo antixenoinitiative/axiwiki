@@ -1,6 +1,6 @@
 ---
 title: Optional Internals
-description: A short introduction to the use of various modules in AX.
+description: AX'da kullanılan modüllere kısa bir giriş
 published: true
 date: 2021-06-10T05:35:13.831Z
 tags: outfitting, modules
@@ -12,93 +12,93 @@ dateCreated: 2021-06-10T04:05:26.162Z
 
 ## Hull Reinforcement Package
 
-Hull Reinforcement Packages come in three variants:
+Hull Reinforcement Package üç çeşit olarak bulunur:
 
 - **Hull Reinforcement Package (HRP)**
 - **Guardian Hull Reinforcement Package (GHRP)**
 - **Meta-Alloy Hull Reinforcement Package**
 
-HRPs add extra hull to your ship. GHRPs also provide 5% caustic resistance, which reduces damage taken from Interceptor Cannon Fire, Caustic Missiles, Thargon Projectiles, and other Caustic effects. Due to the inability to engineer GHRPs and their power draw,  we DO NOT recommend using these for most builds.
+HRP'ler geminize fazladan gövde sağlamlığı sağlar. GHRP'ler ek olarak 5% caustic direnci sağlar; Interceptor'lerin ana silahından, caustic füzelerden, Thargon atışlarından ve diğer caustic etkilerden gelen hasarın azaltılmasına katkıda bulunur. GHRP'lerin mühendislikle yükseltilememesi ve güç gerektirmesi sebebiyle çoğu gemi donanımında önermiyoruz.
 
-Normal human Hull Reinforcement Packages with G5 Heavy Duty/Deep Plating will greatly outperform a GHRP in the majority of cases.
+Normal HRP'ler, G5 Heavy Duty + Deep Plating mühendislikleriyle yükseltildiklerinde, GHRP'lerden çok daha üstün hale gelirler.
 
-The phasing damage from Thargoid Interceptors is absolute meaning it will ignore this added resistance if you have a shield. In a shieldless build, running a single class one or class two GHRP can be beneficial as it will apply the caustic resistance to your entire hull, making up for the comparative loss to an engineered HRP of the same size.
+Interceptorlerden gelen phasing hasarı "absolute" sınıfı hasar uygular ve geminizde kalkan varsa bu direnci yok sayar. Kalkansız gemilerde bir adet birinci ya da ikinci sınıf GHRP faydalı olabilir. Mühensilikli HRP ile arasındaki fark çok düşük olduğundan sağladığı fazladan caustic direnci öne çıkabilir.
 
-**Meta-Alloy Hull Reinforcements are inferior to both HRPs and GHRPs.**
+**Meta-Alloy Hull Reinforcement'ları her halükarda HRP ve GHRP'lerden kötüdür.**
 
 ## Module Reinforcement Package
 
-Module Reinforcement Packages (MRPs) come in two variants: guardian and normal.
+Module Reinforcement Package (MRP)'ler iki çeşittir: Guardian (GMRP) ve normal (MRP).
 
-Guardian Module Reinforcement Packages (GMRPs) act similar to normal MRPs, however they have 10% higher integrity and extra added effects. They also draw a small amount of power.
+GMRP'ler normal MRP'lerden 10% daha fazla sağlamlığa ve ek etkilere sahiptir. Ayrıca düşük seviyede güç çeker.
 
-MRPs come in two versions:
+MRP'ler iki sınıfta gelir:
 
-- **D Class:** Higher Absorption 60%, Lower integrity
-- **E Class:** Lower Absorption 30%, Higher integrity and weight
+- **D Sınıfı:** Yüksek hasar emiş 60%, Düşük sağlamlık
+- **E Sınıfı:** Düşük hasar emiş 30%, Yüksek sağlamlık ve fazla ağırlık
 
-MRPs work by absorbing a portion of module damage onto themselves, reducing the amount taken by other modules. External modules only get half the absorption rate of internal modules.
+MRP'ler modüllere gelen hasarı üzerlerine çekip diğer modüllerin az hasar almasını sağlarlar. Dış modüller, iç modüllerin sahip olduğu korumanın yalnızca yarısına sahip olabilirler.
 
-GMRPs stack multiplicatively, as follows using D class for example.
+GMRP'lerin koruması çarpılarak eklenir, D sınıfını örnek verecek olursak:
 
-*1x D Class = 60%, 2x D Class = 84%, 3x D Class = 94%*
+*1x D Sınıfı = 60%, 2x D Sınıfı = 84%, 3x D Sınıfı = 94%*
 
-Most builds recommend at least 1x GMRP to avoid modules being destroyed instantly from Thargoid weapons. Shieldless ship builds usually include three as any damage can be devastating without. The largest MRP that is not in a military slot is damage first, followed by smaller MRPs outside the military slots, and finishing with those in military slots. Due to this, many builds will use only one large GMRP (C4 or C5) and two smaller MRPs (C1 and C2).
+Thargoid silahları tarafından modüllerinizin anında yok edilmemesi için çoğu gemide en azından bir adet GMRP bulundurulmasını tavsiye ediyoruz. Kalkansız gemiler genelde üç adet bulundururlar zira alınacak herhangi bir hasar yıkıcı olabilir. İlk önce "askeri slot"ta olmayan en büyük MRP hasar alır, daha sonra küçüklere doğru ilerler ve en son "askeri slot"lardaki modüllere geçilir. Bu sebeple çoğu gemi bir adet büyük GMRP (C4 veya C5) ve iki adet küçük MRP (C1 ve C2) bulundurur.
 
-*GMRPs are also supposed to prevent modules from being shut down by lightning attacks. Instead, they only add another module to the pool that can be shut down. We don’t recommend testing this out yourself*.
+*GMRP'lerin ayrıca modüllerin şimşek saldırısı tarafından kapatılmasını engellemeleri lazımdı. Bunun yerine, sadece kapatılabilecek başka bir modül görevi görüyorlar. Bunu test etmenizi önermiyoruz*.
 
 ## Guardian Shield Reinforcement Package
 
-Guardian Shield Reinforcement Packages (GSRP) increase your shield's total MJ capacity by a fixed amount. This also extends the recharge time accordingly.
+Guardian Shield Reinforcement Package (GSRP)'lar kalkanınızın toplam MJ kapasitesini sabit miktarda artırırlar. Bu ayrıca şarj olma süresini de miktara bağlı artırır.
 
-GSRPs stack additively ie: 2x 1D = 2x the extra MJ.
+GSRP'ler değerleri toplanarak birikir: 2 adet 1D = 2 kat MJ.
 
-GSRPs work best with bi-weaves because of the shield regeneration and recovery effects. When running low MJ bi-weaves, the additional flat increase to MJs from GSRPs can significantly boost available MJs. Their usefulness is far reduced when dealing with high MJ prismatics, by way of comparison. 215 extra MJs is 20% of a 1000MJ bi-weave shield with fast charge, and significantly less when compared to the MJs of an equal sized Prismatic shield with reinforced.
+GSRP'ler, kalkan yeniden şarj olma ve yenilenme kabiliyetleri sebebiyle en iyi Bi-Weave'lerle iş görür. Düşük MJ Bi-Weave'ler kullanırken eklenecek GSRP'den gelen sabit değer, daha önce sahip olunana oranlara çok daha fazla kalkan gücü sağlar. Kullanışlılıkları ise yüksek MJ'e sahip Prismatic'ler söz konusu olduğunda, verdikleri MJ miktarı oran olarak çok düşük kalacağı için azalır. Fazladan 215 MJ, 1000 MJ'lük yüksek şarjlı bir Bi-Weave kalkanının 20%'si anlamına gelirken aynı boyuttaki bir Prismatic kalkanın MJ değeri söz konusu olduğunda oran olarak çok daha düşük kalacaktır.
 
-*Credit to CMDR Vengefire and CMDR Jetlagged*
+*CMDR Vengefire ve CMDR Jetlagged*
 
 ## Repair Limpet Controller
-The repair limpet controller allows you to deploy a limpet from your cargo hold that will repair your ship's hull and canopy. The controller requires a cargo rack with at least 1x Limpet. The Limpet can also be sent to another player’s ship if it is within range. These are a staple of shieldless builds, allowing for a ship to return to 100% hull in between hearts.
+"Onarım Limpet Kontrolcüsü", kargonuzda bulunan bir Limpet'i gövde ve kokpitinizi tamir etmek için kullanabilmenizi sağlar. Kontrolcü, kargonuzda en az bir adet Limpet'e ihtiyaç duyar. Limpet, menzil içerisindeki başka bir oyuncunun gemisini tamir etmek için de kullanılabilir. Bunlar kalkansız donanımların temel unsurunu oluştururlar, Kalpler arasında tekrar 100% gövde sağlığına ulaşmanızı sağlarlar.
 
 ## Decontamination Limpet Controller
-The decontamination limpet controller allows you to deploy a limpet from your cargo hold that will scrub your ship clean of caustic stacks. The controller requires a cargo rack with at least 1x Limpet. The Limpet can also be sent to another player’s ship if it is within range. Decontamination limpets take a few seconds to remove caustic and also will repair your ship slightly in the process.
+Arındırma Limpet Kontrolcüsü; kargonuzdaki bir Limpet'i kullanarak, geminize bulaşmış caustic maddeyi temizlemenizi sağlar. Kontrolcü, kargonuzda en az bir adet Limpet'e ihtiyaç duyar. Limpet, menzil içerisindeki başka bir oyuncunun gemisini arındırmak için de kullanılabilir. Bu Limpet'ler, geminizi caustic maddeden arındırmanızı sağlarken biraz da onarım yaparlar.
 
-Caustic Effects can come in different levels of intensity, For example the caustic effect from a Scout Missile is far weaker than that of flying through a Caustic Cloud from a dead interceptor. This may mean you will require more than 1 limpet to remove the effect from a more intense source.
+Caustic etkiler farklı şiddete olabilir. Mesela bir Scout füzesinin caustic etkisi, ölmüş bir Interceptor'ün çevreye saçtığı caustic buluttan çok daha zayıftır. Dolayısıyla, çok şiddetli bir caustic kirlenmeye maruz kaldığınızda birden fazla Limpet kullanmanız gerekebilir.
 
-# Utility Modules
+# Utility Modülleri
 
 ## Xeno Scanner
-The Xeno Scanner allows you to identify details of Xeno Vessel that would not be possible without. Depending on the level of scan, this will give you access to more/less info.
+Xeno Scanner, Thargoid gemileri hakkında başka yollarla elde edemeyeceğiniz veriler sunar. Tarama seviyesine göre farklı bilgiler alırsınız.
 
-#### Basic Scan
+#### Temel Tarama
 
-- Health
-- Shield Health
-- Variant Name and 3D Model
+- Sağlık
+- Kalkan gücü
+- Tür ismi ve 3D modeli
 
-#### Full Scan
+#### Tam Tarama
 
-- All the above
-- Sub-Targeting and sub-target Status (Heart integrity % )
+- Yukarıdakilerin tümü
+- Alt-hedefleme ve alt-hedef durumu (sub-target) - Kalp sağlığı yüzdesi
 
-In a wing, only one person requires a scanner, your ship will share the data with your wing once the scan is complete.
+Wing üyelerinden yalnızca birinin modüle sahip olması ve tarama yapması, tüm üyelerin bu bilgiye sahip olması için yeterlidir.
 
 ![xenoscan.png](/img/xenoscan.png)
 
-##### Key
-1. Remaining Hearts
-2. Total Health
-3. Sub-Target Health
-4. Variant Name
+##### Lejant
+1. Kalan Kalpler
+2. Toplam Sağlık
+3. Alt-hedef Sağlığı
+4. Tür İsmi
 
 ## Shutdown Field Neutralizer
-A Shutdown field neutralizer (SFN) allows you to negate the Shutdown Field (EMP) mechanic in Thargoid fights.
+Shutdown Field Neutralizer (SFN) modülü, Interceptorlerin "Shutdown Field" (EMP) yeteneğinden korunmanızı sağlar.
 
-#### How it works
+#### Nasıl çalışır
 
-The SFN must be bound to a firegroup. When activated it will rapidly drain the SYS capacitor. The SFN will only stay active while the button is held down and will only prevent an EMP effect if the wave hits you while the SFN is active.
+Bir atış grubuna atanmalıdır. Etkinleştirildiğinde, SYS kapasitörünü hızla tüketecektir. SFN yalnız tetiğiniz basılı olduğu sürece etkin kalarak sizi EMP dalgasından korur. Dalga size isabet ettiğinde tetiğiniz basılı ve SFN aktif durumda olmalıdır.
 
-The SFN will also prevent the Shutdown Field from disabling anyone else within 3km of the ship using it.
+SFN ayrıca 3 km yarıçapında menzile sahip olup bu hacim içerisindeki tüm gemileri korur.
 
 ## Heatsink Launcher
-If your AX build doesn't have these, something is very wrong. Heatsinks are the only viable way of venting the extreme heat created by Guardian Gauss Cannons. They can either be bound to a firegroup or a dedicated hotkey. They require a small amount of SYS capacitor to use and provide 2 MW of WEP capacitor regeneration for their 10-second duration, in addition to providing rapid cooling. Heatsinks allow cold orbiting, which causes the Thargoid to miss most or all of its shots. For more information, see Cold Orbiting.
+AX donanımınızda bu modül yoksa çok yanlış yapıyorsunuz. Heatsinkler, Gauss'ların ortaya çıkardığı yüksek sıcaklıktan kurtulmanın tek etkin yoludur. Atış grubuna atayabilir ya da kısayol tuşuyla kullanabilirsiniz. Düşük miktarda SYS kapasitörü çekerken 10 saniyede hızlı soğuma sağlayıp WEP kapasitörüne 2 MW güç sağlarlar. Heatsinkler cold orbiting'e imkan sağlayarak, Thargoidlerin çoğu atışlarını ıskalamalarına sebep olur. Daha fazla bilgi için Cold Orbiting sayfasına göz atın.

@@ -1,6 +1,6 @@
 ---
-title: Ship Build Theory
-description: Comprehensive guide on general AX build theory
+title: Gemi Donatım Teorisi
+description: Genel AX donatım teorisine yönelik kapsamlı rehber
 published: true
 date: 2021-09-19T11:08:08.311Z
 tags: builds, theory, engineering, outfitting
@@ -8,122 +8,122 @@ editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
 ---
 
-# Ship Build Theory
-This is a comprehensive guide on general AX build theory, for each of the build styles:
+# Gemi Donatım Teorisi
+Bu aşağıda belirtilen her donanım türlerine yönelik hazırlanmış, genel AX donatım teorisine dair kapsamlı bir rehberdir:
 
-- Bi-Weave Hybrids
-- Shieldless Cold Orbiters
-- Shield Tanks
+- Bi-Weave Hibritler
+- Kalkansız Soğuk Yörüngeciler
+- Kalkan Tankları
 
-# General Themes
+# Genel Hususlar
 
-## Engineering
+## Mühendislik
 
-**All components** of an Anti-Xeno ship **should be fully engineered** for maximum performance. Thargoids are incredibly advanced and deal far more damage than any human NPC in the game. Not only this, but they have a slew of special attacks that can devastate a ship that is not properly prepared. If you are unable to engineer everything due to constraints, the bare minimum is:
+Bir Anti-Xeno gemisindeki **tüm bileşenler** en yüksek performans için **mühendislikle tamamen yükseltilmiş** olmalıdır. Thargoidler ileri düzey düşmanlardır ve herhangi bir insan NPC'sine kıyasla çok daha fazla hasar verirler. Bunun yanın hazırlıklı olmayan gemileri darmadağın edecek özel yetenek saldırılarına sahiptirler. Eğer ki herhangi bir sebeple geminizdeki her bileşeni tamamen yükseltemiyorsanız en azından yükseltmeniz gerekenler:
 
 - Thrusters
 - Power Distributor
 - Hull Reinforcements
-- Power Plant (only if needed to reach the power requirement of the build)
+- Power Plant (sadece geminizin güç ihtiyacını karşılayacak kadar)
 
-**Once again, it is highly recommended that your ship be fully engineered before engaging Thargoids.**
+**Tekrar ederiz ki Thargoidlerle yüzleşmeden önce geminizin tamamen yükseltilmiş olmasını şiddetle tavsiye ederiz.**
 
-## Resistances
+## Dirençler
 
-Thargoid weapons ignore all resistances (besides caustic resistance) thus you should be aiming to have all armour and shields engineered for maximum **raw** hull/shield MJ.
+Thargoid silahları, sahip olduğunuz tüm dirençleri (caustic hariç) yok sayar. Bu yüzden tüm zırh ve kalkan güçlendirmeleriniz **safi dayanıklıklarını** artırmaya yönelik olmalıdır.
 
-## Speed and Maneuverability
+## Hız ve Manevra Kabiliyeti
 
-Thargoids are fast and agile, hence top speed and maneuverability heavily influences our ship recommendations. An AX ship should be able to boost over 450m/s minimum, with any extra speed being an added bonus, ideally you will want to be able to achieve over 500m/s to be able to handle Basilisk Variant Interceptors more easily
+Thargoidler hızlı ve çeviktir ve bu yüzden azami hız ve manevra kabiliyeti önerdiğimiz gemiler için önemli noktalardır. Bir AX gemisi en azından 450 m/s hıza boostlayabilmelidir ve ideal olarak 500 m/s üzerine çıkmayı hedeflemelisiniz ki Basilisk ile daha rahat baş edebilesiniz.
 
-## Common Mistakes
+## Yaygın Hatalar
 
-Avoid making these common mistakes listed [Here](/en/commonmistakes).
+[Burada](/en/commonmistakes) bahsettiğimiz yaygın görülen hataları yapmaktan kaçının.
 
 
 # Core Internals
 
 ## Bulkheads
 
-**The Meta:** Military Grade Alloys with Heavy Duty blueprint and Deep Plating experimental. In AX, resistances do not matter, so HD Military provides the highest possible health pool. Reinforced Alloys, when engineered, are directly inferior to Military and Lightweight Alloys, and Mirrored and Reactive Composite only raise the rebuy and do not provide any extra raw hull.
+**Meta:** Military Grade Alloys - Heavy Duty ve Deep Plating mühendislikleriyle. AX'de dirençler önemsizdir, dolayısıyla HD Military en yüksek sağlık havuzuna sahip olmanızı sağlar. Reinforced Alloys; yükseltildikleri zaman Military ve Lightweight Alloys'lardan daha zayıftırlar ve Mirrored ve Reactive Composite'ler aynı dayanıklılığı daha yüksek fiyattan sağladıkları için sadece masrafınızı yükseltirler.
 
-**Alternatives:**
-- Military Grade Alloys with Lightweight blueprint and Deep Plating - a balance of speed and raw hull
-- Lightweight Alloys with Heavy Duty blueprint and Deep Plating - sacrificing raw hull for a large speed boost.
+**Alternatifler:**
+- Military Grade Alloys - Lightweight ve Deep Plating mühendislikleriyle: Hız ve gövde sağlamlığı için dengeli yükseltme.
+- Lightweight Alloys - Heavy Duty ve Deep Plating: Gövde sağlamlığından taviz vererek yüksek hızlara çıkabilmek için.
 
 ## Power Plant
 
-**The Meta:** A-rated in the largest size available with Armored blueprint and Thermal Spread experimental. For most builds, armored provides the perfect tradeoff of extra power, additional integrity, and better thermals. A-rated power plants are the coolest of all ratings.
+**Meta:** Alabildiğiniz en büyük boyuttaki A sınıfı - Armoured ve Thermal Spread mühendislikleriyle. Çoğu gemi için Armoured; fazladan güç, sağlamlık ve termal performans için mükemmel dengeyi sağlar. A sınıfı "power plant"ler en serin çalışanlardır.
 
-**Alternatives:**
+**Alternatifler:**
 
-- Monstered Experimental - provides a little extra juice when needed, at the cost of slightly worse thermals.
-- Low Emissions blueprint with Monstered experimental - A high grade of LE can allow a ship to idle under 20% heat.
-- Overcharged blueprint  - should only be used when absolutely necessary, and to the lowest grade possible.
+- Monstered deneyseli - Daha fazla güç ihtiyacınız varsa, biraz daha kötü termal performans sunar.
+- Low Emissions ve Monstered mühendislikleri - Yüksek seviye LE mühendisliği geminizin rölantide 20% sıcaklığın altında kalmasını sağlar.
+- Overcharged yükseltmesi - Yalnızca başka çareniz yoksa, gereken en düşük seviyede alınmalıdır.
 
 ## Thrusters
 
-**The Meta:** A-rated in the largest size available with Dirty Tuning blueprint and Drag Drives experimental. Although the thermal load increase may seem like a problem, in practice the performance of dirty drag drives far exceeds any alternative.
+**Meta:** En büyük A sınıfı - Dirty Tuning ve Drag Drives mühendislikleriyle. Termal performansları düşük olsa da Dirty Drag sürücülerinin performansı başka bir şeyle kıyaslanamaz.
 
-**Alternative:** Drive Distributors experimental - only for use on small ships utilizing Enhanced Performance Thrusters (EPTs)
+**Alternatif:** Drive Distributors deneyseli - sadece Enhanced Performance Thrusters kullanan küçük gemiler için.
 
 ## Frame Shift Drive
 
-**The Meta:**  A-rated in the largest size available with Increased Range blueprint and Mass Manager experimental. Thargoids are often found in "bubbles" of space, so being able to move around in a small range is required for AX combat.
+**Meta:** En büyük A sınıfı - Increased Range ve Mass Manager mühendislikleriyle. Thargoidler genel olarak uzaydaki belirli "baloncuklar" içerisinde bulunduklarından mesafe kat edebilen bir gemiye sahip olmak iyi bir fikirdir.
 
-**Alternative:** 2D FSD with grade one fast boot and Stripped Down experimental - provides a small speed boost at the cost of being unable to jump your ship any meaningful distance.
+**Alternatif:** 2D FSD Grade 1 Fast Boot ve Stripped Down mühendislikleriyle - geminizin sıçrama menzilini ortadan kaldırarak biraz daha süratli olmanızı sağlar.
 
 ## Life Support
 
-**The Meta:** D-rated with Lightweight blueprint. D-rated has the lowest power draw and weight, and still has a long enough timer for repeated oxygen synths if your canopy blows.
+**Meta:** D sınıfı Lightweight mühendisliği ile. D sınıfları en hafiftir ve en düşük güç tüketimine sahiptir. Yine de, kanopiniz kırıldığında oksijen sentezleyerek hayatta kalmanız için gerekli zamanı sağlar.
 
-**Alternative:** A-rated allowing for longer time between required synthing.
+**Alternatif:** A sınıfı, sentezlemeler arasında daha uzun süre yaşam desteği sağlar.
 
 ## Power Distributor
 
-**The Meta:** A-rated in the largest size available with Charge Enhanced blueprint and Super Conduits experimental. Gauss Cannons have extreme distributor draw, so having the maximum possible WEP capacitor regen is essential. The capacity loss of these modifications is also not a problem, since most ships can fire two of their gauss cannons at a time without spiking over 20% heat.
+**Meta:** En büyük A sınıfı - Charge Enhanced ve Super Conduits mühendislikleriyle. Gauss Cannon'ları çok yüksek distribütör çekişine sahip olduklarından mümkün olan en hızlı WEP yenilenmesine sahip olmanız gerekmektedir. Bu yükseltmelerle kaybedilen kapasite de sorun teşkil etmez, çoğu gemi iki Gauss'u 20% sıcaklığın üzerine çıkmadan ateşleyebilir.
 
-**Alternative:** Weapon Focused blueprint. Increased WEP capacitor size at the cost of boost frequency. Some ships require this modification to keep their heat below the threshold required for proper cold orbiting.
+**Alternatif:** Weapon Focused yükseltmesi. WEP kapasitör boyutunu artırır ancak yenilenme hızı düşük kalır. Bazı gemiler düzgün bir soğuk yörünge hareketi yapabilmek için gerekli olan sıcaklık eşiğinin altında kalabilmek için bu yükseltmeye ihtiyaç duyar.
 
 ## Sensors
 
-**The Meta:** D-rated with Long Range experimental. Thargoids always emit a signal that can be detected at the maximum sensor range, meaning that A-rated sensors provide no benefits to D-rated, but weigh more and cost more power.
+**Meta:** D sınıfı Long Range yükseltmesiyle. Thargoidler her zaman için en yüksek sensör menzilinden tespit edilebilecek güçte sinyal yaydıklarından A sınıflarının hiçbir avantajı yoktur ve D sınıfları daha hafiftir ve daha az enerji çekerler.
 
-**Alternatives:** There are none.
+**Alternatif:** Yok.
 
 # Optional Internals
 
-The optional internal loadout is where the main differences lie between build styles, and can even vary from Commander to Commander. Below are the three general loadouts of the three build types. For more information on the uses of each optional internal, refer to the [Core and Optional Internals](/en/internals) page.
+Burası gemiler arasındaki ana farkların oluşmaya başladığı yerdir ve kumandanların kendi tercihlerine göre farklılık gösterebilir. Aşağıda üç genel gemi tipi için donanım önerileri verilmiştir. Bu modüller hakkında daha detaylı bilgi için [Optional Internals](/en/internals) sayfasına göz atın.
 
 
-## Cold Orbiters
-- Largest possible D-rated repair limpet controller and 16t or 64t cargo rack
-- One class four or five GMRP and two smaller MRPs
-- 2A AFMU
-- HRPs in the rest of the internal slots
+## Soğuk Yörüngeciler
+- Alınabilecek en büyük D sınıfı Repair Limpet Controller ve 16t veya 64t kargo deposu.
+- Bir adet sınıf 4 ya da 5 GMRP ve iki adet küçük MRP.
+- 2A AFMU.
+- Geri kalan Optional Internal slotlarında HRP'ler.
 
-## Bi-Weave Hybrids
-- Largest possible Bi-Weave Shield with Reinforce blueprint and either Fast Charge or Lo-Draw experimental.
+## Bi-Weave Hibritler
+- Alınabilecek en büyük Bi-Weave kalkanı - Reinforced ve Fast Charge/Lo-Draw mühendislikleriyle birlikte.
 - 1A AFMU
-- One or two GMRPs or MRPs
-- HRPs in the rest of the slots
-- GSRP as per personal preference
+- Bir ya da iki adet GMRP veya MRP
+- Diğer slotlarda HRP'ler.
+- GSRP'ler kişisel tercihe kalmış.
 
-## Shield Tanks
-- Largest possible Prismatic Shield with Reinforced blueprint and Hi-Capacity experimental
-- Large Shield Cell Banks with Specialized blueprint and Boss Cells experimental
-- One or two GMRPs or MRPs
-- Decontamination Limpet Controller if preferred
-- AFMU, size depending on preference
-- HRPs in the rest of the slots
+## Kalkan Tankları
+- Alınabilecek en büyük Prismatic kalkan - Reinforced ve Hi-Capacity mühendislikleriyle.
+- Büyük SCB'ler - Specialized ve Boss Cells mühendislikleriyle.
+- Bir ya da iki adet GMRP veya MRP
+- Tercihen Decontamination Limpet Controller.
+- AFMU, boyutu tercihe kalmış.
+- Diğer slotlarda HRP'ler.
 
 # Utility Slots
 
-## Heatsink Launchers
-Essential for Cold Oribing vessels to dissipate the heat generation of gauss cannons. Most if not all utility slots will be filled with these on Cold Orbiter and Bi-weave hybrid builds. Engineering them with the Ammo Capacity blueprint gives one extra heatsink per launcher.
+## Heatsink Launcher
+Soğuk Yörünge gemileri için Gauss kaynaklı sıcaklıktan kurtulmak için temel ihtiyaçtır. Bi-Weave Hibritleri ve Soğuk Yörüngeciler'in, tamamı olmasa da çoğu slotuna bunlar yüklenecektir. Ammo Capacity mühendisliğiyle yükseltmek fazladan bir adet heatsink daha taşımalarını sağlar (sentezlediğinizde de bu fazladan heatsinke sahip olursunuz).
 
 ## Shield Boosters
-Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
+Soğuk Yörüngeciler'de bariz olarak kullanışsızlar, Bi-Weave Hibritler genelde 1-2 adet taşırken büyük Kalkan Tankları 6-7 adede kadar kullanır. Heavy Duty ve Super Capacitors mühendislikleriyle yükselterek en yüksek saf MJ değerlerini elde edin.
 
-## Other Modules
-For information on Xeno Scanners and Shutdown Field Neutralizers, see the [Core and Optional Internals](/en/internals) page. These two utilities are not recommended except in specific situations, as the slot is better fit with a heatsink or shield booster.
+## Diğer Modüller
+Xeno Scanner ve Shutdown Field Neutralizer hakkında bilgi için [Optional Internals](/en/internals) sayfasına göz atın. Bu iki modül bazı özel durumlar dışında önerilmezler ve bunlar yerine fazladan heatsink ya da shield booster almanız daha iyi olacaktır.

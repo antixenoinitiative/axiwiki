@@ -1,6 +1,6 @@
 ---
-title: Odyssey Engineering
-description: Guide to engineering suits and on-foot weapons
+title: Odyssey Mühendisliği
+description: Kıyafet ve piyade silahları mühendisliği rehberi
 published: true
 date: 2021-09-19T11:12:31.337Z
 tags: engineering, guide
@@ -8,72 +8,72 @@ editor: markdown
 dateCreated: 2021-06-10T12:19:05.577Z
 ---
 
-# **__How to farm materials is Odyssey__**
+# **__Odyssey'de nasıl materyal farmlanır__**
 
-## Manufacturing Instructions (More or less for everything)
+## Manufacturing Instructions (Aşağı yukarı her şey için)
 
-Find a “impact site” PoI (use DSS on a landable planet) - these will generally have a crashed satellite with a habitat data port. Check & download Manufacturing Instructions. Relog. Rinse and repeat.
+Bir "impact site" POI'ı bulun (iniş yapılabilen bir gezegende DSS taraması yapın) - genellikle çakılmış bir uydu ve veri portu içerirler. Tıklayın ve indirin. Oturumunuzu kapatıp açın. Tekrarlayın.
 
- ##  Weapon Schematics (For weapon upgrades)
+ ##  Weapon Schematics (silah geliştirmek için)
 
-Find a “two containers plus crashed skimmer” or “three containers plus wrecked SRV” instance at “Irregular Markers” with a threat level. Arc Cutter and Overload container doors, cases inside will have weapon schematics aplenty (and drugs aplenty too.) Relog, rinse and repeat. “Larceny” type missions also spawn these instances - if you use a mission-spawned PoI, make sure to NOT pick up the mission item, or instance will de-spawn upon relog.
+Tehdit seviyesi olan "Irregular Markers"'ta "İki konteyner ve çakılmış skimmer" veya "3 konteyner ve hurda SRV" bulun. Konteyner kapılarında Arc Cutter ve Overload uygulayın, içerideki çantalarda bolca Weapon Schematics (ve Drugs) bulacaksınız. Oturumunuzu kapatıp açın ve tekrarlayın. "Larceny" tipi görevlerde de bu tip ortamlar ortaya çıkar - görev tarafından doğrulan bir ortamdaysanız görev eşyasını ALMAYIN, aksi takdirde ortam yok olur ve yeniden giriş yaptığınızda orada olmaz.
 
-## Suit Schematics (For suit upgrades)
+## Suit Schematics (Kıyafet geliştirmek için)
 
-These are an absolute pain. There’s no fast way to do it. They are only found in large and small locked lockers in OPS rooms within command centers, and in small locked lockers in PWR rooms, but they are relatively rare. Missions can also give 1-2 suit schematics, but these are also uncommon. If anyone finds a faster way, please let me know.
+Bunları tam bir bela. Hızlıca toplamanın bir yolu yok. Yalnızca komuta merkezine sahip OPS odalarındaki Large ve Small Locked Lockers'ta ve daha nadir olan PWR odalarındaki Small Locked Locers'ta bulunuyorlar. Görevler de 1-2 adet verebiliyor fakat nadiren. Daha hızlı bir yöntem keşfederseniz lütfen bilgilendirin.
 
-## Power Regulators (For suit upgrades)
+## Power Regulators (Kıyafet geliştirmek için)
 
-Pick up 5-10 restore missions. Immediately abandon them. You now have 5-10 power regulators, for the moderate price (in fines) of 100k each. Repeat until you have as many as you need.
+5-10 adet Restore görevi alın. Görevi iptal edin. Tanesine 100k Cr olmak üzere ufak bir ceza ücreti karşılığında 5-10 adedine sahipsiniz. İhtiyacınız kadarını elde edene kadar tekrarlayın.
 
-## Ionized Gas (For Manticore {Plasma} and TK {Laser} Weapons Upgrades)
+## Ionized Gas (Manticore {Plasma} ve TK {Laser} silah yükseltmeleri için)
 
-These spawn in small/large locked Industrial lockers and occasionally in small locked PWR lockers. Some “disrupt production” missions also give you one, which you can keep as per regulators above if you abandon the mission. Rarely, also available in 1-2 batches from mission boards.
+Small/Large Locked Industrial Lockers'ta veya ara sıra Small Locked PWR Lockers'ta bulunurlar. Bazı "Disrupt Production" görevleri de verebilir ve yukarıda bahsedilen görevi iptal etme yöntemiyle elinizde tutabilirsiniz. Nadiren, görev panosunda 1-2 adet bulabilirsiniz.
 
-## Financial Projections, Opinion Polls, Cat Literature, Multimedia Entertainment, Classic Entertainment (For engineer unlocks)
+## Financial Projections, Opinion Polls, Cat Literature, Multimedia Entertainment, Classic Entertainment (Mühendisleri açmak için)
 
-These are a pain. Best way I’ve found is go to one of the tourist settlements in Robigo. These have 8 habitat ports each. Assuming you already have the Sirius permit / Marco Qwent unlocked, just go to town and slaughter everyone and scan the data ports. Then hop in your ship, supercruise and drop right back and repeat. It’s terribly slow but still the fastest method by a mile, and it will also quickly drop your Sirius Corp reputation which is required for one of the final engineer unlocks.
+Bunlar da bela. Bulabildiğim en iyi yöntem Robigo'daki turist yerleşimleri. Her birinde 8 port var. Sirius izniniz olduğunu ve Marco Qwent'i açtığınızı varsayarak, gidip herkesi öldürün ve tüm veri portlarını tarayın. Geminize atlayın, supercruise'a çıkın ve ardından geri dönüp tekrarlayın. Çok yavaş bir yöntem olsa da hiç yoktan iyidir ve Sirius Corp itibarınızı düşürerek son mühendislerden birini açmak için gerekli durumu sağlayacaktır.
 
-Once you're happy with how much you've gotten on the wrong side of Sirius Corp, you can also do this at an Anarchy settlement, avoiding the bounties hassle.
+Sirius Corp'a karşı itibarınızı yeteri kadar zedelediğinizde bu işlem için "Anarchy" yerleşimlerinden birini de kullanabilir ve böylece başınıza konulan ödül derdinden kurtulabilirsiniz.
 
 ## Smear Campaign Plans
 
-Go to LHS 1541 - Chon Tourist Hotel. Check Habitat data ports. Usually 2-3x per run, very fast.
+LHS 1541 sistemi - Chon Tourist Hotel. Habitat veri portlarından. İşlem başına genellikle 2-3 adet, son derece hızlı.
 
-## Settlement Defense Plans (Also for engineer unlock)
+## Settlement Defense Plans (Mühendisleri açmak için)
 
-These drop with about 16% chance per relog from the "crashed skimmer" data port which is spawned in irregular markers PoI - look for the "two container" instance with the crahed skimmer, NOT for the the "three container" instance with the crashed SRV.
+Irregular Markers sinyalinde doğrulan "Crashed Skimmer" veri portundan 16% ihtimalle düşer. 2 konteyner ve crashed skimmer ortamı gerekli, SRV içeren "3 konteyner" ortamı DEĞİL.
 
-## Most other data
+## Çoğu diğer data
 
-Fastest way for most other data is as mission rewards. Board missions can give up to 5 each of any given type, and NPC-issued missions can double that if you have enough rep and rank to negotiate effectively.
+Diğer dataların çoğu için görev ödülleri en hızlı yol. Görev panosundaki görevler 5 adede kadar verebilir ve NPC tarafından verilen görevlerde itibarınıza ve pazarlığınıza bağlı olarak ikiye katlayabilirsiniz.
 
-## Most other mats
+## Çoğu diğer materyal
 
-Mats that can be cross-traded at the bartender are usually a non-issue, as any of the relog and/or supercruise methods above will yield huge amounts of them.
+Takaslayabildiğiniz materyaller genelde sorun yaratmaz ve yukarıda bahsedilen yöntemlerle bolca materyal elde edebilirsiniz.
 
-# __**How many materials you will need****
+# __**Ne kadar materyale ihtiyacınız var****
 
-## Suits
+## Kıyafetler
 
-Assuming you’ll buy Artemis/Dominator/Maverick G3s from stores, and you’ll keep the Artemis at G3 (who needs a G5 Artemis?!), taking your Maverick and Dominator both from G3->G5 will require:
-- 50 suit schematics
-- 50 health monitors
-- 50 power regulators
-- 50 manufacturing instructions
-- 120 graphene
-- 60 carbon fibre plating
-- 60 titanium plating
+Artemis/Dominator/Maverick G3'leri dükkanlardan satın alacağınızı ve Artemis'i G3'te bırakacağınızı varsayıp (kimin G5 Artemis'e ihtiyacı olur ki?) Maverick ve Dominator'ınızı G3'ten G5'e yükseltmek için ihtiyacınız olanlar:
+- 50 Suit Schematics
+- 50 Health Monitors
+- 50 Power Regulators
+- 50 Manufacturing Instructions
+- 120 Graphene
+- 60 Carbon Fibre Plating
+- 60 Titanium Plating
 
-## Weapons
+## Silahlar
 
-For Plasma, assuming you’ll buy Executioner/Oppressor/Intimidator/Tormentor at G3 from stores, and that you will set aside and utterly ignore the pathetic Oppressor rifle (currently the worst weapon in the game), and take G3->G5 the other three, you will need:
-- 75 manufacturing instructions
-- 75 ionized gas
-- 75 weapon schematics
-- 180 chemical superbase
-- 180 microelectrode
+Plasma için, Executioner/Oppressor/Intimidator/Tormentor G3'lerini dükkandan alacağınızı ve Oppressor tüfeğini yok sayacağınızı (şu anda oyundaki en kötü silah) varsayıp diğer üçünü G3'ten G5'e yükseltmek için ihtiyacınız olanlar:
+- 75 Manufacturing Instructions
+- 75 Ionized Gas
+- 75 Weapon Schematics
+- 180 Chemical Superbase
+- 180 Microelectrode
 
-Replace chemical superbase with optical fiber for TK weapons.
+TK silahları için Chemical Superbase yerine Optical Fiber kullanacaksınız.
 
-Replace Ionized Gas with Compression-Liquified gas, Chemical Superbases with Tungsten Carbide, and microelectrodes with weapon components for Karma weapons.
+Karma silahlar için ise; Ionised Gas yerine Compression-Liquified Gas, Chemical Superbases yerine Tungsten Carbide ve Microelectrodes yerine Weapon Components kullanacaksınız.

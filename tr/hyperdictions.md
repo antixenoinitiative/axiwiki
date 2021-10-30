@@ -1,6 +1,6 @@
 ---
-title: Hyperdictions
-description: About Thargoid Hyperdictions
+title: Hyperdiction'lar
+description: Thargoid Hyperdiction'ları hakkında
 published: true
 date: 2021-06-15T11:09:57.281Z
 tags: thargoids, interceptors
@@ -8,65 +8,65 @@ editor: markdown
 dateCreated: 2021-06-15T11:06:57.862Z
 ---
 
-# Hyperdictions
+# Hyperdiction'lar
 
-Hyperdictions are another less direct means to find Thargoids…. for Thargoids to find YOU. Hyperdictions occur when jumping from systems to system in Thargoid activity areas.
+"Hyperdiction" terimi, sistemler arası sıçrayış yaparken Interceptorlerin "yolunuzu kesmesi", bizi hiperuzaydan çekip çıkarması için kullanılır. Hyperspace + Interdiction kelimelerinin birleşimiyle türetilmiştir. Thargoidleri bulmanın- ya da Thargoidlerin sizi bulmasının bir başka yolu denebilir. Hyperdictionlar; Thargoid etkinlik bölgesindeki sistemlere sıçrarken ya da bu sistemlerden sıçrarken başınıza gelebilir.
 
-When a Hyperdiction occurs you will be ripped out of Hyperspace and left floating somewhere in-between the star systems you were jumping from (you will actually still be in the origin system). One of the hyperdicting thargoids will perform an EMP attack, which will shut down your ship if you are not protected (see: Modules). Similar to any other encounter, If the Scans you while carrying Thargoid or Guardian technology (cargo), it will become hostile if you do not drop the items.
+Hyperdiction başınıza geldiğinde hiperuzaydan sökülüp, sıçrama yaptığınız sistemler arasında bir yere atılırsınız (aslen sıçramaya başladığınız sistemden ayrılamazsınız) . Daha sonra hyperdiction uygulayan Thargoidlerden birisi EMP saldırısını yapıp, eğer korunmuyorsanız gemi sistemlerinizi devre dışı bırakır (bkz: Modüller). Tıpkı diğer karşılaşmalar gibi sizi taramaya sokar; eğer herhangi bir Thargoid ya da Guardian "kargosu" taşıyorsanız bir uyarı verir ve belirli bir süre içerisinde bırakmadığınız takdirde saldırı durumuna geçerler. (Geminizdeki modüllerin bi etkisi yoktur.)
 
-If you have a Shutdown Field Neutralizer, it is possible to avoid the shutdown and proceed to engage the Interceptors.
+Shutdown Field Neutraliser'ınız varsa EMP'ye karşı kullanabilirsiniz.
 
-> Hyperdictions can have more than 1 interceptor, up to 4 in total. 
+> Hyperdiction'larda 1 ile 4 arası Interceptor bulunabilir. 
 > 
 > {.is-info}
 
-Based on combined research from Canonn and AXI we have found that collecting a sensor and jumping at least once with the sensor activates a hidden permanent ‘**marked**’ effect that applies a 20% Hyperdiction chance in the Pleiades and Witch Head Region.
+Canonn ve AXI ortak araştırması sonucunda; kargonuzda Thargoid Sensor bulundururken en az bir sıçrayış gerçekleştirdiğiniz takdirde üzerinizde gizlice ‘**mimlenmiş**’ duruma geçtiğiniz ve bu durumun getirisi olarak Pleiades ve Witch Head bölgelerinde 20% ihtimalle hyperdictiona maruz kalma ihtimali elde ettiğiniz bulunmuştur.
 
-To gather this data we performed the following test several times over on different accounts:
+Bu veriyi elde etmek için farklı hesaplarda bu testleri defalarca uyguladık:
 
-1. Jump 100 times between two systems in Pleiades (Result: Zero Hyperdictions)
-1. Collect a Thargoid Sensor (Also tested Probes and the Proximity Scan from the sensor)
-1. Jump 100 times between the same two systems in the Pleiades (Results: ~20 Hyperdictions)
-1. To further confirm the Hyperdiction rate, CMDR Maligno has done over ~500 Jumps around these regions and found a very constant rate of ~20% per jump (once ‘marked’)
+1. Pleiades'te iki sistem arasında 100 sıçrama yapmak. (Sonuç: Sıfır hyperdiction)
+1. Thargoid Sensor toplamak (Probe ve Sensor'ün yakınlık taraması da test edilmiştir)
+1. Pleiades'teki aynı sistemler arasında 100 kez daha sıçrama yapmak (Sonuç: ~20 hyperdiction)
+1. Hyperdiction ihtimal oranını doğrulamak için CMDR Maligno ek olarak 500'den fazla sıçrama yapmış ve ihtimali ~20% olarak doğrulamıştır.
 
-## How to get Hyperdictions
-Thargoid Hyperdictions currently only occur when jumping to/from systems within two different regions of space.
+## Hyperdiction'a Nasıl Maruz Kalınır
+Şu an için, hyperdictionlar yalnızca bu iki bölgedeki sistemlerden ayrılmak ya da bu sistemlere gelmek için yapılan sıçrayışlarda ortaya çıkabilir:
 
-- The Pleiades Bubble (all systems within 100Ly of Merope)
+- Pleiades Balonu (Merope'un 100Ly çevresi içindeki tüm sistemler)
 
-- The Witch Head Bubble (all systems within 75Ly of Witch Head Sector IR-W C1-9)
+- Witch Head Balonu (Witch Head Sector IR-W C1-9 sisteminin 75 Ly çevresi içindeki tüm sistemler)
 
-These Hyperdictions will not occur for most pilots unless you activate a hidden "**marked**" effect that is applied by collecting rare Thargoid Commodities.
+Hyperdictionlar "**mimlenmiş**" olmadığınız takdirde başınıza gelmeyecektir.
 
-Based on extensive research from the Anti-Xeno Initiative and Canonn Interstellar Research Group, we have found a distinctive correlation between certain types of Thargoid Commodities causing players to get hyperdicted. The current best understanding is the following:
+Anti-Xeno Initiative ve Canonn Interstellar Research Group işbirliğinde yapılan detaylı araştırmalar sonucu oyuncuların hyperdiction'a maruz kalmasını sağlayan Thargoid eşyasını bulduk. Şu an için bildiklerimiz aşağıdaki gibidir:
 
-Collecting a Thargoid Sensor applies a permanent "**marked**" affect on your player that will cause frequent Hyperdictions in the Pleiades and Witch Head Nebula. This affect is permanent once collecting a sensor and will continue to apply without the item in your cargo.
+Thargoid Sensor toplamak üzerinize kalıcı bir "**mimlenmiş**" damgası uygular ve Pleiades ve Witch Head Nebulalarında hyperdictionlara maruz kalmaya başlamanıza sebep olur. Sensor'ü topladığınız anda bu etki kalıcı hale gelir ve Sensor'ü bıraksanız dahi devam eder.
 
-> Holding the sensor does not directly increase the chances, it only unlocks the 20% chance rate. 
+> Sensor'ü kargonuzda bulundurmak ihtimali artırmaz, yalnızca tek seferlik 20% ihtimali başlatır. 
 > 
 > {.is-info}
 
-The only exception to this is the Thargoid Incursions and Thargoid Infestation system state, which has an independant hyperdiction chance which can cause hyperdictions without any previous interaction with Thargoid Sensors.
+Tek istisna, Thargoid Incursion ve Infestation sistemlerinde bulunan, daha önce Sensor taşımaya bağlı olmayan hyperdiction ihtimalleridir.
 
-Thargoid sensors can be easily found at Crashed Thargoid Interceptor sites
+Çakılmış Thargoid Interceptor alanlarında kolaylıkla Thargoid Sensor bulabilirsiniz.
 
-## Hyperdiction Statistical Analysis
-*By CMDR Maligno - Canonn Research*
+## Hyperdiction İstastik Analizi
+*CMDR Maligno - Canonn Research tarafından,*
 
-When jumping between Celaeno and Asterope it was found that the Hyperdiction rate is 20.7%. When carrying 16 units of Meta-Alloys, the Hyperdiction rate was measured to be 21.6%, which is statistically the same as the baseline scenario. We can confidently conclude that the Hyperdiction rate in the core Pleiades systems is around 20% and is unaffected by carrying Meta-Alloys. [Update: additionally, hundreds of jumps were later carried out with 64 units of meta-alloys, which did not have an effect on the hyperdiction rate either]
+Celaeno ve Asterope arasındaki sıçrayışlarda Hyperdiction oranı 20.7% olarak saptanmıştır. 16 adet Meta-Alloy taşırken Hyperdiction oranı 21.6% olarak hesaplanmış olup, genel duruma uygundur. Pleiades sistemlerindeki Hyperdiction oranının 20% civarında olduğunu ve Meta-Alloy taşımanın buna bir etkisi olmadığını güvenle söyleyebiliriz. [Güncelleme: ek olarak 64 adet Meta-Alloy taşıyarak da sıçramalar gerçekleştirildi ve hyperdiction şansına hiçbir etkisi bulunamadı]
 
-We now turn to the composition of Hyperdiction scenarios, that is, what sort of Interceptors are present to greet a pilot that has been Hyperdicted.  The table below shows the combinations of Interceptors that were observed in this study, sorted by Interceptor lethality.  A total of 13 unique combinations were observed.  [Update: the results below are the result of further documentation of another several hundred hyperdiction instances]
+Şimdi Hyperdiction senaryolarının içerdiği Interceptor türlerinden bahsedeceğiz.  Aşağıdaki tablo, gözlemlenen Interceptor kombinasyonlarının ölümcüllük sırasına göre listelenmiş halini gösterir.  Toplamda 13 farklı kombinasyon gözlemlendi.  [Güncelleme: Aşağıdaki sonuçlar daha sonra belgelenmiş birkaç yüz hyperdiction senaryolarından derlenmiştir]
 
 !\[hyperanalysis.png\](/img/hyperanalysis.png =550x){.align-center}
 
-As expected, Hyperdiction containing only one or two Cyclopes are the most common, whereas those containing Hydras are far more rare. Of the 539 documented Hyperdictions, only 31 contained at least one Hydra, with 8 cases containing an additional 3 Basilisks and 7 cases containing an additional pair of Medusae. Currently the statistics in this study are sufficiently high that we can state with confidence that a single, unaccompanied Hydra is more common than one accompanied by other Interceptors. Judging from the data, it appears that 50% of the Hydra instances don’t have additional Interceptors, 25% have 3 Basilisks and another 25% have Medusae. The statistics are still too limited to judge if a Hydra accompanied by 2 Medusae is the rarer of the three possibilities. It is interesting to note that cases that have a Medusa as the ranking Interceptor have an analogous set of (less lethal) cohorts: one case with 3 Cyclopes and another with 2 Basilisks.
+Beklenildiği gibi, yalnızca bir ya da iki Cyclops içeren Hyperdiction'lar en sık rastlananlar olmakla birlikte, Hydra içerenler çok daha nadir. Belgelenen 539 Hyperdiction içinde sadece 31 tanesi en az bir Hydra içermiştir; bunlardan 8 tanesi ek olarak 3 Basilisk'e ve 7 tanesi ek olarak Medusa çiftine sahiptir. Tek Hydra'nın, diğer Interceptorlerle birlikte bulunmasından daha yaygın olduğunu söylemek için yeterli sayıya sahibiz. Verilere bakacak olursak; Hydra ortamlarının 50%'si ek Interceptor içermiyor, 25%'inde 3 Basilisk ve 25%inde Medusa çifti eşlik ediyor. Hydra'ya 2 Medusa eşlik etme ihtimalinin diğer ihtimallerden daha düşük olduğunu söylemek için elimizde yeterli sayıda veri yok. İlginçtir ki Medusa'nın üst tür olduğu ortamlarda, benzer şekilde; 3 Cyclops ya da 2 Basilisk eşlik etmiştir.
 
-No instances with two Hydras or two (unaccompanied) Medusae were ever observed. It’s entirely possible that those combinations exist but are simply exceedingly rare and have therefore not been observed yet.
+Çift Hydra bulunduran ya da yalnız bir çift Medusa bulunduran ortamlar gözlemlenmemiştir. Bu ortamların varlığının çok nadir ve dolayısıyla gözlemlenmemiş olma ihtimali de bulunmaktadır.
 
-Read the full report by CMDR Maligno here: [Study of Hyperdiction Statistics](https://canonn.science/codex/study-of-hyperdiction-statistics/)
+CMDR Maligno tarafından hazırlanan raporun tamamın buradan ulaşabilirsiniz: [Study of Hyperdiction Statistics](https://canonn.science/codex/study-of-hyperdiction-statistics/)
 
-## Hyperdiction Combat Guide
+## Hyperdiction Savaş Rehberi
 
-CMDR Katie Byrne has put together a comprehensive guide on Hyperdictions.  Her advice is highly encouraged for those who want to test their skills against many Thargoid Interceptors.
+CMDR Katie Byrne, Hyperdictionlar hakkında kapsamlı bir rehber hazırladı.  Çoklu Thargoid Interceptor ortamlarında yeteneklerinizi test etmek istiyorsanız onun önerilerini dinlemeniz şiddetle tavsiye edilir.
 
-[Hyperdiction Combat Guide](https://youtu.be/MpC02cetBlY)
+[Hyperdiction Savaş Rehberi](https://youtu.be/MpC02cetBlY)

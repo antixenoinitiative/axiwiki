@@ -1,6 +1,6 @@
 ---
-title: Scouts
-description: About Thargoid Scouts
+title: Scoutlar
+description: Thargoid Scoutlar Hakkında
 published: true
 date: 2021-06-15T10:36:02.053Z
 tags: thargoids, scouts
@@ -8,34 +8,34 @@ editor: markdown
 dateCreated: 2021-06-15T10:36:00.013Z
 ---
 
-# Scouts
-!\[scouts.jpg\](/img/scouts.jpg =450x){.align-right}Scouts are a smaller Thargoid vessel and can be found in all types of Non-Human Signal Source. Scouts are immediately hostile and in groups can deal significant damage to an unprepared pilot. Scouts, unlike interceptors, have 77% resistance to human weapons, rather than 99%. This reduced damage resistance makes it possible to kill Scouts with human weapon systems, however specialized AX weapon systems are still far more effective and efficient than their human counterparts.
+# Scoutlar
+!\[scouts.jpg\](/img/scouts.jpg =450x){.align-right}Scoutlar küçük Thargoid gemileridir ve her türde Non-Human Signal Source içerisinde bulunabilirler. Scoutlar daima saldırgandır ve grup halinde hazırlıksız pilotlara yüksek hasar verebilirler. Interceptorlerin 99% direncinin aksine Scoutların normal insan silahlarına karşı 77% dirençleri vardır. Daha az dirençleri sayesinde normal insan silahlarıyla Scoutları öldürmek mümkün olsa da özelleşmiş AX silahları ne olursa olsun çok daha etkilidir.
 
-# Variants
+# Türler
 
-Thargoid scouts come in multiple variants, each with their own special abilities.
+Thargoid Scoutlar her biri farklı özel yeteneklere sahip dört türden oluşur.
 
 ## Marauder
-Marauders are the basic variant of scout and the most common, They have a simple attack using a Basic Pulse Weapon and can also fire a simple Caustic missile.
+Marauder, en temel ve en yaygın Scout türüdür. Basit bir silaha sahip olmakla birlikte arada bir Caustic füze atarlar.
 
 ## Regenerator
-Regenerator variants are the same as the Marauder but have a special Regeneration pulse ability. The Regenerator may use this ability and apply a regeneration buff to all nearby scouts, rapidly regenerating their health. Regenerators will make an audible sound before using the attack and emit a green pulse. Regenerator variants will appear with a green coloration.
+Regenerator türü, Marauder özelliklerine ek olarak yenilenme patlaması özel yeteneğine sahiptir. Regenerator, bu yeteneğini kullanarak ortamdaki tüm Scoutlara yenilenme desteği sağlayarak canlarını yeniler. Regenarator, yeteneğini kullanmadan önce duyabileceğiniz bir ses çıkartır ve ardından yeşil bir patlamayla yenilenme desteğini uygular. Yeşil renklere sahiplerdir.
 
 ## Beserker
-Similar to Regenerator, Beserker variants are marauders with a special ability. Beserkers can emit a red energy pulse that will buff the damage of all nearby scouts and trigger all nearby non-beserker scouts to fire a caustic missile. Beserkers have an Orange/red appearance.
+Regenerator gibi Berserker de Marauder ile aynı özelliklere ek olarak özel yeteneğe sahiptir. Berserker, kırmızı bir ışık patlamasıyla yeteneğini kullanıp ortamdaki tüm Scoutlara hasar takviyesi uygular ve Berserker olmayan Scoutların caustic füzelerini ateşlemesini sağlar. Berserkerler kırmızı/turuncu bir görünüme sahiptirler.
 
 ## Inciter
-Inciters are the same as a marauders with a special ability. When used the scout will emit an energy pulse to all nearby scouts, buffing their speed and maneuverability temporarily. Inciters have a pink/red appearance.
+Inciterlar da aynı şekilde ek özel yeteneğe sahiptir. Kullanıldığında bir enerji patlaması yayar ve ortamdaki Scoutların hız ve manevra kabiliyetini artırır. Inciterlar pembe/kırmızı görünümdedirler.
 
-# Traits
-- Scouts are ALWAYS hostile.
-- Scouts have 77% resistance to conventional human weapons.
-- Scouts are immune to missiles and torpedoes (they bounce off).
-- Scouts occasionally shoot caustic missiles.
-- The pulse of the special Scouts is instance-wide, which means it can affect very distant targets.
+# Davranış Biçimleri
+- Scoutlar daime saldırgandır.
+- Normal insan silahlarına karşı 77% dirence sahiplerdir.
+- Füze ve torpidolara bağışıktırlar (sekip giderler).
+- Arada bir caustic füze fırlatırlar.
+- Scoutların özel yetenek patlamaları tüm ortamı etkiler - çok uzak mesafelere ulaşabilir.
 
-# Hunting Scouts
+# Scout Avlamak
 
-Hunting scouts is a very efficient method to increase combat rank. Due to the 77% resistance to human weapons it is very inefficient to use normal weapons against scouts. Due to the unpredictable nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multicannons as the most effective weapon for hunting scouts.
+Scout avlamak savaş rütbesi yükseltmek için çok etkili bir yöntemdir. Normal silahlara karşı sahip oldukları 77% direnç sebebiyle bu silahları onlara karşı kullanmak son derece etkisizdir. Öngörülemez uçuş stilleri sebebiyle Scoutlara karşı "Large Turreted Anti-Xeno Multi-Cannon"ları öneriyoruz.
 
-These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. Keep in mind that there is a limit of 4 Weapons per vessel.
+Bu silahlar 77% dirençten etkilenmedikleri, hedefe kilitli kalabildikleri ve mermileri verimli kullandıkları için çok uygundurlar. Gemi başına 4 adet AX silahı sınırı olduğunu unutmayın.

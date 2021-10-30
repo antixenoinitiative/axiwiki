@@ -2,7 +2,7 @@
 title: Thargoids finden
 description: Wie man Thargoids in Elite Dangerous findet
 published: true
-date: 2021-06-15T11:22:39.700Z
+date: 2021-10-16T01:00:44.114Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -13,20 +13,24 @@ Thargoiden sind ein schwer fassbarer Haufen, aber es gibt bestimmte Tricks und H
 
 > ## Momentan aktive Regionen
 > 
-> Pleiades Nebula (~100Ly um Merope) Witch Head Nebula (~75Ly um Witch Head Sector IR-W C1-9) Coalsack Nebula (~Region Größe unbekannt) 
+> Pleiades Nebula (~175ly around Merope) Witch Head Nebula (~75ly around Witch Head Sector IR-W C1-9) Coalsack Nebula (~60ly around Musca Dark Region PJ-P B6-1) 
 > 
 > {.is-info}
 
+Source: [NHSS Survey Spreadsheet](https://docs.google.com/spreadsheets/d/1DhDTU3SLvmoNjBb_Ymy-S6RV1DsYztPRiULh1zR26lA/edit#gid=0)
+
 ## Thargoid Standorte
 
-Thargoids können an verschiedenen Orten gefunden werden, wie:
-- [Nicht-menschliche Signalquellen (im englischen NHSS)](/en/nhss)
-- [Hyperdictions](/en/hyperdictions)
-- [Statische Signalquellen](/en/static-signals)
-- [Thargoid Strukturen](https://canonn.science/codex/the-unknown-structure/?highlight=structure)
+Thargoids can be found in various locations, such as:
+- [Non-Human Signal Sources](/en/nhss) (Pleaides, Witch Head and Coalsack Nebulae)
+- [Hyperdictions](/en/hyperdictions) (Pleaides, Witch Head and Coalsack Nebulae)
+- [Static Signal Sources](/en/static-signals) (Bubble, Pleaides, Witch Head and Coalsack Nebulae)
+- [Thargoid Structures](https://canonn.science/codex/the-unknown-structure/?highlight=structure) (Pleaides, Witch Head and Coalsack Nebulae)
+- **Megaships** (Bubble, Pleiades Nebula)
 
 ## Aktivitätskarte
+**Note:** This map is from before the Coalsack CG and Salvation CG which caused Coalsack NHSS to appear and the Pleiades region to expand, respectively.
 
 ![thargoidmap.png](/img/thargoidmap.png)
 
-[Klicke hier für ein Bild in voller Größe](https://cdn.discordapp.com/attachments/625989888432537611/854310144946208808/Thargoid_Activity_Map_v0.5.png)
+[Click here for a full sized image](https://cdn.discordapp.com/attachments/625989888432537611/854310144946208808/Thargoid_Activity_Map_v0.5.png)
