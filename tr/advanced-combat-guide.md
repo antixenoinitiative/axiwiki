@@ -2,7 +2,7 @@
 title: İleri Düzey Savaş Rehberi
 description: CMDR Avasa Siuu tarafından hazırlanan Odysseus Öğretisi'ne dayanmaktadır.
 published: true
-date: 2021-10-30T22:07:57.822Z
+date: 2021-10-30T22:13:49.014Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-10-06T05:48:29.523Z
@@ -17,39 +17,40 @@ Bu öğreti tekrar eden bir savaş stili etrafında şekillenmiştir. Temel olar
 
 Ayrıca bu öğreti pip yönetimine minimum gereksinim sağlar. Kalkansız bir gemi kullanacağınız için güç dağıtımını ve odağınızı başka yerlerde tutabilirsiniz.
 
-# Gemi Donanımı {.tabset}
-Bu öğretinin merkezinde Chieftain vardır. Challenger da hardpoint'lerdeki ufak değişiklerle kullanılabilir. (Challenger donanım rehberi şu an yapım aşamasında) Krait MKII, Krait Phantom ya da FAS gibi gemiler de kullanılabilir ancak Chieftain, hardpoint düzeni ve manevra kabiliyeti ve ucuz fiyatı sebebiyle bu öğretinin ana odağındadır.
-
+# Gemi Donanımı
+Bu öğretinin merkezinde Chieftain vardır. Challenger da hardpoint'lerdeki ufak değişiklerle kullanılabilir. (Challenger donanım rehberi şu an yapım aşamasında) Krait MKII, Krait Phantom ya da FAS gibi gemiler de kullanılabilir ancak Chieftain, hardpoint düzeni ve manevra kabiliyeti ve ucuz fiyatı sebebiyle bu öğretinin ana odağındadır.  
+# Modüller{.tabset}
 ## Core Internals
-- Military Grade Composite (Heavy Duty/Deep Plate)
-- 6A Power Plant (Armored/Thermal Spread)
-- 6A Thrusters (Dirty/Drag Drives)
-- 5A Frame Shift Drive (Pilot tercihine göre opsiyonel mühendislik)
-- 5A Life Support (Lightweight opsiyonel)
-- 6A Power Distributor (Charge Enhanced/Super Conduits)
-- 4D Sensors (Long range opsiyonel)
+- Military Grade Composite *(Heavy Duty/Deep Plate)*
+- 6A Power Plant *(Armored/Thermal Spread)*
+- 6A Thrusters *(Dirty/Drag Drives)*
+- 5A Frame Shift Drive *(Pilot tercihine göre opsiyonel mühendislik)*
+- 5A Life Support *(Lightweight opsiyonel)*
+- 6A Power Distributor *(Charge Enhanced/Super Conduits)*
+- 4D Sensors *(Long range opsiyonel)*
 - 4C Fuel Tank
 
 ## Optional Internals
 - 5D Repair Limpet Controller
-- 5D Hull Reinforcement Package (Heavy Duty/Deep Plate)
-- 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate)
+- 5D Hull Reinforcement Package *(Heavy Duty/Deep Plate)*
+- 4D Hull Reinforcement Package x3 *(Heavy Duty/Deep Plate)*
 - 4D Module Reinforcement Package
 - 2D Guardian Module Reinforcement Package
 - 2E Cargo rack
 - 1A Auto Field-Management Unit
 
 ## Hardpoints
-- 2B Guardian Gauss Cannons x2 (2 Large Slota)
-- 2B Remote Release Flak Launcher (Medium Slota)
-- 1D Guardian Gauss Cannons x2 (Sağ ve sol iki Small Slota)
-- 1G Beam Laser (Long Range/Thermal Vent - ortadaki Small Slota)
+- 2B Guardian Gauss Cannons x2 *(2 Large Slota)*
+- 2B Remote Release Flak Launcher *(Medium Slota)*
+- 1D Guardian Gauss Cannons x2 *(Sağ ve sol iki Small Slota)*
+- 1G Beam Laser *(Long Range/Thermal Vent - ortadaki Small Slota)*
 
 ## Utility
-- 3x OI Heatsink Launchers(Ammo Capacity)
-- Xeno Scanner/Heatsink Launcher (Tercihinize göre, eğer Thargoid'lerin HP'sini ya da Swarm'ın sayısını görmek isterseniz Xeno Scanner alın, yoksa Heatsink Launcher.)
+- 3x OI Heatsink Launchers *(Ammo Capacity)*
+- Xeno Scanner/Heatsink Launcher *(Tercihinize göre, eğer Thargoid'lerin HP'sini ya da Swarm'ın sayısını görmek isterseniz Xeno Scanner alın, yoksa Heatsink Launcher.)*
 
-Not: Eğer Xeno Scanner tercih etmez de fazladan Heatsink Launcher alırsanız, düşük seviye Interceptor savaşlarında heatsink sentezlemeniz gerekmeyebilir.
+> Not: Eğer Xeno Scanner tercih etmez de fazladan Heatsink Launcher alırsanız, düşük seviye Interceptor savaşlarında heatsink sentezlemeniz gerekmeyebilir.
+{.is-info}
 
 # Mühendislik
 Burada listelenen mühendislerle, giriş seviyesindeki kumandanlar için gereken mühendisliği en alt seviyede tutmakla birlikte daha deneyimli kumandanların ileri düzey yükseltmelerle gemilerini en üst seviyeye çıkarabilmelerini sağlamak amaçlanmıştır. Gereken mühendisler aşağıda listelenmiştir:
