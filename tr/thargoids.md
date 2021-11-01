@@ -2,7 +2,7 @@
 title: Thargoidler
 description: Thargoidler Hakkında
 published: true
-date: 2021-11-01T13:44:37.965Z
+date: 2021-11-01T13:48:22.457Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-10-06T05:51:15.788Z
@@ -11,9 +11,9 @@ dateCreated: 2021-10-06T05:51:15.788Z
 # Thargoidler
 ![cyclops-small.png](/img/Cyclops-small.png =250x){.align-right} ***Thargoidler** insanlığa karşı sürekli saldırganlık göstermiş, insan olmayan bir canlı türüdür.*
 
-> Kayda geçen ilk Thargoid karşılaşması 2849 yılında olmasına rağmen daha önce, belgelenmemiş karşılaşmaların olduğu da düşünülmektedir. Daha sonraki yıllarda, yalnız gezegen Thargoid araçlarıyla karşılaşmalar da ara ara rapor edilmiştir.*
+> Kayda geçen ilk Thargoid karşılaşması 2849 yılında olmasına rağmen daha önce, belgelenmemiş karşılaşmaların olduğu da düşünülmektedir. Daha sonraki yıllarda, yalnız gezegen Thargoid araçlarıyla karşılaşmalar da ara ara rapor edilmiştir.
 > 
-> *32'nci yüzyılda insanlar Thargoidlerle çarpıştılar ancak bu savaşa dair detaylı bilgilere nadir ulaşılması bir yana; gerçek bilgilerle, sansasyonalist medyada yayılan yalan haberleri birbirinden ayırmak çok zordu.
+> 32'nci yüzyılda insanlar Thargoidlerle çarpıştılar ancak bu savaşa dair detaylı bilgilere nadir ulaşılması bir yana; gerçek bilgilerle, sansasyonalist medyada yayılan yalan haberleri birbirinden ayırmak çok zordu.
 >
 > *Elite: Dangerous Codex'inden bir Girdi*
 
