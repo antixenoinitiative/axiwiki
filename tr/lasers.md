@@ -9,6 +9,7 @@ dateCreated: 2021-06-10T04:07:02.325Z
 ---
 
 # Lazerler
+
 `CMDR Naddesh ve CMDR Ghosti tarafından hazırlanmış bir rehberdir.`
 
 Normal insan silahları Anti-Xeno savaşlarında çoğunlukla işlevsizdir. Ancak birkaç istisna vardır ki bazı özel taktikleri uygulamanızı sağlar ve işlevsellik kazandırarak savaş alanındaki etkinizi artırır.
@@ -33,7 +34,7 @@ Sabit Beam Laser'ler yalnızca ufak miktarda daha kötüdür ama daha yüksek ha
 
 Taretli Beam Laser'ler düşük sıcaklık üretimine sahip olduklarından soğutma performansları da düşüktür ve iyi bir seçenek değillerdir. Tek olumlu tarafları kafanızı yormanıza gerek kalmadan hedefte kalabilme ve bu sayede az ama eforsuz soğuma sağlama yetenekleridir.
 
-*“Heatsinklere gerek kalmaksızın TV Beam'ler kullanarak savaşmak mümkün müdür?” diye düşünüyor olabilirsiniz. Kısacası "hayır". Gauss Cannon'larınızın ürettiği sıcaklığı atacak güçte olmadıkları gibi silah kapasitörlerinizi tüketerek Gauss'ların ürettiği sıcaklığın daha da artmasına sebep olurlar.*
+_“Heatsinklere gerek kalmaksızın TV Beam'ler kullanarak savaşmak mümkün müdür?” diye düşünüyor olabilirsiniz. Kısacası "hayır". Gauss Cannon'larınızın ürettiği sıcaklığı atacak güçte olmadıkları gibi silah kapasitörlerinizi tüketerek Gauss'ların ürettiği sıcaklığın daha da artmasına sebep olurlar._
 
 TV Beam'lerin ikincil görevi Interceptorlerin kalkanlarına hasar uygulamaktır. Interceptor kalkanları zamanla kendiliğinden eriseler de bu süreci hasar uygulayarak hızlandırmak mümkündür. Gauss'larınızı kullanmak bu iş için mermi israfı olsa da lazerler sınırsız atış imkanları ve uzun menzilleri ile biçilmiş kaftandır. Unutmayın, kalkanlar lazerlerden hasar alsalar da Interceptor'ün gövdesinin normal silahlara 99.97% direnci vardır.
 
@@ -44,7 +45,9 @@ Kalkan yenilemenize olanak sağlayan "Regeneration Sequence" ve "Concordant Sequ
 Regeneration Sequence ve Concordant Sequence lazerleri yalnızca dost wing arkadaşlarınız üzerinde etkilidirler.
 
 ### Regeneration Sequence Laser'ler
+
 Regeneration Sequence lazerleri ile wing arkadaşlarınızın kalkanlarını hızlıca yenilemeniz mümkündür. Özellikle de nadiren 50% seviyesinin üzerinde kalabilen Prismatic kalkanlar üzerinde çok kullanışlı olurlar. Wing arkadaşlarınızdan daha yavaş bir gemi kullanmıyorsanız "Efficient" modifikasyonuyla kullanmak mantıklı olabilir ama daha yavaş bir gemideyseniz "Long Range" daha iyi bir seçenek olacaktır.
 
 ### Concordant Sequence Lasers
+
 Concordant Sequence deneysel mühendislik etkisi, hedef geminin sahip olduğu doğal kalkan yenilemesine kısa bir süreliğine yüksek miktarda destek olarak çalışırlar. Dolayısıyla en işlevsel oldukları kalkanlar, halihazırda yüksek yenilenme hızlarına sahip Bi-Weave kalkanlarıdır. Unutmayın, iyi bir destek modülü olsalar da tamamen düşmüş kalkanlarda işe yaramazlar. En belirgin özellikleri hedefe sürekli ateş etmek zorunda kalmadan, sadece kısa bir atışla geliştirme uygulamanız diyebiliriz. Long Range Pulse Laser'ler; Concordant Sequence sadece tek bir atış gerektirdiği ve Pulse'lar en düşük enerji gereksinimine sahip oldukları için en iyi seçenektir.

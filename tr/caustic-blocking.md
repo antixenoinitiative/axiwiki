@@ -9,6 +9,7 @@ dateCreated: 2021-06-21T02:24:42.124Z
 ---
 
 # Caustic Füze Engelleme
+
 Thargoid Caustic füzeleri yaylım ateşiyle atılır ve çoklu-CMDR savaşlarında, savaşa dahil olan her CMDR'a birer yaylım füze yağar. Thargoid Interceptor, Caustic Füze saldırısını her kumandan için sırayla birer yaylım olacak şekilde atar. **Eğer "mevcut hedef", tespit edilmiş ve Caustic Yaylım'ı tetiklediyse diğer tüm CMDR'lara da, sıcaklık ve uzaklıkları ne olursa olsun, birer yaylım füze hazırlanacaktır.**
 
 Interceptor bir yaylım ateşleyeceği zaman **"Hedefe Kilitli"** olmalıdır. Thargoid Interceptor yalnızca hedefin sıcaklığı **en düşük algılama eşiğinin üzerindeyse (>~20%)** ya da uzaklığı **en düşük algılama menzilinin içindeyse (<~700 m)** **"Hedefe Kilitli"** durumuna geçebilir.

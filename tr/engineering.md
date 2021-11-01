@@ -9,20 +9,22 @@ dateCreated: 2021-06-15T05:40:06.134Z
 ---
 
 # Mühendislik Materyalleri Rehberi
+
 Bu, Elite: Dangerous'ta geminizi mühendislikle yükseltmek için gereken materyalleri toplamaya yönelik bir rehberdir.
 
-> Bu rehberin ana odağı materyal toplamaktır. Geminizi hangi mühendisliklerle yükseltmeniz gerektiğine dair bilgiler için [Gemi Toplama Teorisi](/en/shipbuildtheory) sayfasına göz atın. 
-> 
+> Bu rehberin ana odağı materyal toplamaktır. Geminizi hangi mühendisliklerle yükseltmeniz gerektiğine dair bilgiler için [Gemi Toplama Teorisi](/en/shipbuildtheory) sayfasına göz atın.
+>
 > {.is-info}
 
-> **Diğer Kullanışlı Kaynaklar** [Scavengers Spreadsheet](https://docs.google.com/spreadsheets/d/1yo1iHP9KUXpoBaIzJsRsDxfAcQa7cBq0YUIFy3m2NII/edit#gid=585994681) [Panpipers's Pleiades Survivor Guide to Barnacles and More](https://docs.google.com/spreadsheets/d/1giHvc1SISUcD7BPKjlbutkuwPrWQwHuSxnBwQ3MPQME/edit#gid=0) 
-> 
+> **Diğer Kullanışlı Kaynaklar** [Scavengers Spreadsheet](https://docs.google.com/spreadsheets/d/1yo1iHP9KUXpoBaIzJsRsDxfAcQa7cBq0YUIFy3m2NII/edit#gid=585994681) [Panpipers's Pleiades Survivor Guide to Barnacles and More](https://docs.google.com/spreadsheets/d/1giHvc1SISUcD7BPKjlbutkuwPrWQwHuSxnBwQ3MPQME/edit#gid=0)
+>
 > {.is-success}
 
 # "Raw" Materyaller
 
 ## Shard Farmları
-*CMDR Secretpro tarafından hazırlanmış rehber*
+
+_CMDR Secretpro tarafından hazırlanmış rehber_
 
 Raw materyaller (Grade 4) **"Crystalline Shard Biological Sites"** denilen gezegen/uydu üzerindeki biyolojik oluşum bölgelerinde bol miktarda toplanabilir. En yüksek Grade 4 seviyesinde materyal içeren bu alanlara sahip olan bölgeler "bubble"dan 1500-1800 Ly uzaklıkta iki sistemde bulunabilir. Düzgün bir keşif gemisi toplamanızı (mühendislik içermese de olur) ve iki sistemi de ziyaret edip tüm G4 materyal depolarınızı (Selenium hariç) doldurmanızı tavsiye ediyoruz. Bu sayede düşük seviye materyal gerektiğinde takaslayabilirsiniz. Bu size birden fazla tam mühendislikle donatılmış gemi toplamak için yeterli olur.
 
@@ -36,7 +38,9 @@ Raw materyaller (Grade 4) **"Crystalline Shard Biological Sites"** denilen gezeg
 Bu alanlardan faydalanmak için belirtilen sistem ve gezegene gidip DSS'inizle yüzey taraması yapmanız gerekmektedir. Daha sonra herhangi bir biyolojik oluşumun yanına iniş yapıp SRV'nizi kullanınız. Mühendislik ve sentez ihtiyaçlarınız için bolca Raw materyal bulacaksınız.
 
 **Detailed Surface Scanner getirmeyi unutmayın.**
+
 ## Selenium ve Thargoid Barnacle'ları
+
 Selenium, yalnızca Grade 2 kaynaklarından düşmesi sebebiyle farmlaması en zor materyaldir. Toplamak için pek çok yöntem olsa da hiçbiri Shard farmlarında belirtilen yöntemler gibi etkin değildir.
 
 Thargoid Barnacle'ları iyi bir kaynak olabilir ancak doğru barnacle bölgelerini bulmak zor olabilir. CMDR Panpiper tarafından hazırlanmış bu çizelgeyi kullanarak doğru siteleri bulabilirsiniz. Selenium içeren gezegenlerdeki "Allripe Barnacles"lara bakın. Ek olarak, ana menüye dönüp tekrar oyuna girerek dikenleri resetleyip ve tekrar tekrar toplayabilirsiniz.
@@ -47,8 +51,10 @@ Bilinen diğer Selenium Alanları
 - **HIP 83204 3 B A** biraz daha yüksek (G2 seviye düşüşlerde 5% Selenium, 1.3% Arsenic and 1% Zirconium - "geological" bölgeler 1, 2, 8, 7, 10 ve 14)
 
 # "Manufactured" Materyaller
+
 ## HGE Döngüsü
-*CMDR Jetlagged tarafından hazırlanmış rehber*
+
+_CMDR Jetlagged tarafından hazırlanmış rehber_
 
 HGE Döngüsü Grade 5 Manufactured materlay toplamak için zamandan kazandıran bir metottur. (HGE - High Grade Emissions - sistemlerde bulacağınız bir sinyal tipi). En az 3 toplama Limpet'ine ve supercruise'da iyi bir dönüş kabiliyetine sahip bir gemi kullanmanız faydalı olacaktır.
 
@@ -67,7 +73,9 @@ HGE içeriği; sistemin bağlı olduğu güce (Federasyon/Empire) ve Minor Facti
 Eğer zayıf bir PC'niz varsa ya da daha da hızlanmak isterseniz oyunun Horizon olmayan temel versiyonunu da kullanabilirsiniz.
 
 # Encoded Materyaller
+
 ## Jameson'ın Düşmüş Cobra'sı
+
 Jameson'ın çakıldığı alanda yüksek seviye "encoded" materyaller bulabilirsiniz. Alana gidin ve SRV'niz ile yanıp sönen küçük kırmızı ışıklara sağ tuşla tarama yapın. Daha sonra ana menüye dönüp oyuna girdiğinizde tekrar tarama yapabilirsiniz. Depolarınızı doldurana kadar tekrarlayın.
 
 1. Geminize SRV ve Detailed Surface Scanner yükleyin.
@@ -79,7 +87,9 @@ Jameson'ın çakıldığı alanda yüksek seviye "encoded" materyaller bulabilir
 1. 5. adımdan itibaren tekrar edin.
 
 # Diğer Materyaller
+
 ## Sensor Fragments
+
 Mühendis Profesör Palin'i açmak için gerekmekte. Thargoid Sensor'leri ya da Thargoid Scavenger'ları patlatarak elde edilebilir. Profesör Palin'in laboratuvarına çok yakın konumdaki aşağıdaki yeni keşfedilmiş yerde Thargoid Sensor'leri bulabilirsiniz.
 
 **Sistem**: Solati **Gezegen**: Halla **Koordinatlar**: -70.9912 x -156.4383 **İçerik**: 1 Thargoid Sensor, 1 Cargo Rack içinden çıkabilecekler (V, Cr, Zr, Zn, Mn, Sb), Ship Data Core.
@@ -89,6 +99,7 @@ Sensor Fragments bulabileceğiniz, Arque (Palin) sistemine en yakın sistem 28 L
 FRC'den CMDR FlyBoyXD emeği ile
 
 # Materyal Takası
+
 Eğer ki ihtiyacınız olan materyalleri doğrudan bulamıyorsanız, aynı türdeki diğer materyalleri takas edebilirsiniz. Farklı takasçılar farklı materyal tiplerini bulundururlar; Data, Raw ve Manufactured olarak 3 tip takasçı vardır.
 
 [Bu aracı](https://inara.cz/galaxy-nearest/25) kullanarak size en yakın takasçıyı (material trader) bulabilirsiniz.

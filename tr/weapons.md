@@ -9,6 +9,7 @@ dateCreated: 2021-06-10T04:04:18.230Z
 ---
 
 # AX Silahları
+
 Oyunda birçok Anti-Xeno silahı vardır ve iki ana kategoriye sahiptir:
 
 - **İnsan AX Silahları** (AX Multi-Cannon, AX Missile Rack, Advanced Multi-Cannon, Advanced Missile Rack, Remote Release Flak Launcher)

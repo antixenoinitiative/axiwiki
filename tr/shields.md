@@ -9,41 +9,50 @@ dateCreated: 2021-10-06T05:50:40.860Z
 ---
 
 # Thargoid Kalkanları
+
 Thargoid Interceptorler yüksek miktarda hasar emen güçlü kalkanlar üretebilirler. Bu kalkanlar birçok defa oluşturulabilir ve zorlayıcı olabilir.
 
 ## Oluşumları
+
 Thargoid Interceptorler Kalp kaybettikleri her seferinde yeni bir kalkan üretirler. Dolayısıyla daha fazla Kalbe sahip Interceptorler daha fazla kalkan üretirler. Kalkan gücü Interceptor türüne bağlıdır ve en güçlü kalkanları Hydra üretir. Thargoid, Kalbi parçalandıktan hemen sonra kalkan üretmeye çalışır.
 
 Kalkan üretimi; şimşek saldırısı gibi bazı özel saldırılar dolayısıyla gecikebilir. Bu da eğer iyi zamanlarsanız iki Kalp birden parçalayabileceğiniz anlamına gelir.
 
 ## Kalkanı Görmek
+
 Thargoid'in kalkanı olup olmadığını iki farklı durumda belirleyebilirsiniz; Xeno Scanner varsa ve yoksa.
 
 ## {.tabset}
+
 ### Scanner Varsa
+
 ![withscanner.png](/img/withscanner.png =500x){.align-center} Interceptor'ü hedef aldığınızda, kalkan hologramın çevresinde görülebilir ve "Contacts" panelinde kalan yüzdesi gösterilir.
 
 ### Scanner Yoksa
+
 ![withoutscanner.png](/img/withoutscanner.png =500x){.align-center} Scanner'ınız yoksa, Thargoid'e hasar verdiğinizde görebileceğiniz mavi bir parlamayla kalkana sahip olup olmadığını anlayabilirsiniz. Parlamayı görürseniz kalkan hala etkin demektir.
 
 ## Erime
+
 Thargoid kalkanları daima zaman içinde eriyerek yok olur. Bu erime hemen başlar ve tüm Thargoid türleri için sabit miktardadır; **25MJ/s**. Türlerin kalkan güçlerinin farklılık göstermesi sebebiyle kalkanlarının erime süreleri de farklıdır.
 
 Beam Laser ile bu kalkanların erimesini hızlandırabilirsiniz. Thargoid kalkanları, gövdesiyle aynı dirençlere sahip olmadığından normal insan silahlarıyla zayıflatılabilirler. Üstelik, termal hasara karşı negatif dirence sahip olduğundan **termal silahların kalkana karşı fazladan 20% hasarı vardır.**
 
 **Kalkan Erime Süreleri**
+
 - Cyclops - 1:35
 - Basilisk - 3:00
 - Medusa - 4:00
 - Hydra - 5:20
 
-
 ## Kalkanları Kırmak
+
 Interceptor'ün kalkanının düşüşünü, çevresinde oluşan yeşil renkli patlamayla fark edebilirsiniz.
 
 ![shieldbreak.jpg](/img/shieldbreak.jpg =500x){.align-center}
 
 ## Panik Kalkanları
+
 Bazı durumlarda, Kalp parçalanmalarından bağımsız olarak, Interceptorler kalkan üretebilir. Bu durumlar genelde Interceptor'ün büyük hasar aldığı zamanlar olduğundan, bu olaya "panik" kalkanları deriz.
 
 1. **Ezici gövde hasarı** - Eğer Interceptor Kalbi pörtledikten sonraki yüksek yenilenme kabiliyetine rağmen aldığı hasara direnemezse bir panik kalkanı üretir. Cyclops'a karşı premium mermi kullanırken, wingle Cyclops Kalbi pörtletirken veya daha güçlü türlere instagib yapmaya kalkıştığınızda bu durumla sıkça karşılaşırsınız.

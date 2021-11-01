@@ -20,10 +20,9 @@ Silahlarınızı birbirine yakın konumlardaki hardpoint'lere kuşanarak yakıns
 
 [Elite Dangerous Ship Anatomy](http://a.teall.info/edsa/) linkini kullanarak gemilerin hardpoint'lerinin yakınsaklıklarını inceleyebilir ve hangilerini kullanmak istediğinize karar verebilirsiniz. Ayrıca Internal ve Utiliy slotlarının yerlerini görmek için de kullanabilirsiniz.
 
-
 ## İyi Yakınsaklık
 
-Bu hardpointler iyi bir yakınsaklığa sahip. ![](/img/convergegood.png)
+Bu hardpointler iyi bir yakınsaklığa sahip. ![convergegood.png](/img/convergegood.png)
 
 ## Kötü Yakınsaklık
 
