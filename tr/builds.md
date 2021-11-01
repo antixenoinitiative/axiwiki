@@ -2,10 +2,10 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2021-09-19T11:07:39.839Z
-tags: builds
+date: 2021-11-01T15:31:21.797Z
+tags: önerilen, gemi, donanım
 editor: markdown
-dateCreated: 2021-06-08T12:52:54.657Z
+dateCreated: 2021-10-06T05:48:42.427Z
 ---
 
 # Önerilen Gemiler
