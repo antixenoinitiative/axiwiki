@@ -22,10 +22,10 @@ Thargoid Kalpleri normal konumlarında hasar almazlar. Interceptor gövdesine ye
 ## {.tabset}
 
 ### Pörtlemiş Cyclops Kalbi
-!\[clopsheart.png\](/img/clopsheart.png =400x)
+![clopsheart.png](/img/clopsheart.png =400x)
 
 ### Pörtlemiş Hydra Kalbi
-!\[hydraheart.png\](/img/hydraheart.png =400x)
+![hydraheart.png](/img/hydraheart.png =400x)
 
 ## Kalp Parçalamak
 

@@ -9,6 +9,7 @@ dateCreated: 2021-06-10T01:08:57.783Z
 ---
 
 # Gemi Donatım Teorisi
+
 Bu aşağıda belirtilen her donanım türlerine yönelik hazırlanmış, genel AX donatım teorisine dair kapsamlı bir rehberdir:
 
 - Bi-Weave Hibritler
@@ -38,8 +39,7 @@ Thargoidler hızlı ve çeviktir ve bu yüzden azami hız ve manevra kabiliyeti 
 
 ## Yaygın Hatalar
 
-[Burada](/en/commonmistakes) bahsettiğimiz yaygın görülen hataları yapmaktan kaçının.
-
+[Burada](/tr/commonmistakes) bahsettiğimiz yaygın görülen hataları yapmaktan kaçının.
 
 # Core Internals
 
@@ -48,6 +48,7 @@ Thargoidler hızlı ve çeviktir ve bu yüzden azami hız ve manevra kabiliyeti 
 **Meta:** Military Grade Alloys - Heavy Duty ve Deep Plating mühendislikleriyle. AX'de dirençler önemsizdir, dolayısıyla HD Military en yüksek sağlık havuzuna sahip olmanızı sağlar. Reinforced Alloys; yükseltildikleri zaman Military ve Lightweight Alloys'lardan daha zayıftırlar ve Mirrored ve Reactive Composite'ler aynı dayanıklılığı daha yüksek fiyattan sağladıkları için sadece masrafınızı yükseltirler.
 
 **Alternatifler:**
+
 - Military Grade Alloys - Lightweight ve Deep Plating mühendislikleriyle: Hız ve gövde sağlamlığı için dengeli yükseltme.
 - Lightweight Alloys - Heavy Duty ve Deep Plating: Gövde sağlamlığından taviz vererek yüksek hızlara çıkabilmek için.
 
@@ -93,16 +94,17 @@ Thargoidler hızlı ve çeviktir ve bu yüzden azami hız ve manevra kabiliyeti 
 
 # Optional Internals
 
-Burası gemiler arasındaki ana farkların oluşmaya başladığı yerdir ve kumandanların kendi tercihlerine göre farklılık gösterebilir. Aşağıda üç genel gemi tipi için donanım önerileri verilmiştir. Bu modüller hakkında daha detaylı bilgi için [Optional Internals](/en/internals) sayfasına göz atın.
-
+Burası gemiler arasındaki ana farkların oluşmaya başladığı yerdir ve kumandanların kendi tercihlerine göre farklılık gösterebilir. Aşağıda üç genel gemi tipi için donanım önerileri verilmiştir. Bu modüller hakkında daha detaylı bilgi için [Optional Internals](/tr/internals) sayfasına göz atın.
 
 ## Soğuk Yörüngeciler
+
 - Alınabilecek en büyük D sınıfı Repair Limpet Controller ve 16t veya 64t kargo deposu.
 - Bir adet sınıf 4 ya da 5 GMRP ve iki adet küçük MRP.
 - 2A AFMU.
 - Geri kalan Optional Internal slotlarında HRP'ler.
 
 ## Bi-Weave Hibritler
+
 - Alınabilecek en büyük Bi-Weave kalkanı - Reinforced ve Fast Charge/Lo-Draw mühendislikleriyle birlikte.
 - 1A AFMU
 - Bir ya da iki adet GMRP veya MRP
@@ -110,6 +112,7 @@ Burası gemiler arasındaki ana farkların oluşmaya başladığı yerdir ve kum
 - GSRP'ler kişisel tercihe kalmış.
 
 ## Kalkan Tankları
+
 - Alınabilecek en büyük Prismatic kalkan - Reinforced ve Hi-Capacity mühendislikleriyle.
 - Büyük SCB'ler - Specialized ve Boss Cells mühendislikleriyle.
 - Bir ya da iki adet GMRP veya MRP
@@ -120,10 +123,13 @@ Burası gemiler arasındaki ana farkların oluşmaya başladığı yerdir ve kum
 # Utility Slots
 
 ## Heatsink Launcher
+
 Soğuk Yörünge gemileri için Gauss kaynaklı sıcaklıktan kurtulmak için temel ihtiyaçtır. Bi-Weave Hibritleri ve Soğuk Yörüngeciler'in, tamamı olmasa da çoğu slotuna bunlar yüklenecektir. Ammo Capacity mühendisliğiyle yükseltmek fazladan bir adet heatsink daha taşımalarını sağlar (sentezlediğinizde de bu fazladan heatsinke sahip olursunuz).
 
 ## Shield Boosters
+
 Soğuk Yörüngeciler'de bariz olarak kullanışsızlar, Bi-Weave Hibritler genelde 1-2 adet taşırken büyük Kalkan Tankları 6-7 adede kadar kullanır. Heavy Duty ve Super Capacitors mühendislikleriyle yükselterek en yüksek saf MJ değerlerini elde edin.
 
 ## Diğer Modüller
-Xeno Scanner ve Shutdown Field Neutralizer hakkında bilgi için [Optional Internals](/en/internals) sayfasına göz atın. Bu iki modül bazı özel durumlar dışında önerilmezler ve bunlar yerine fazladan heatsink ya da shield booster almanız daha iyi olacaktır.
+
+Xeno Scanner ve Shutdown Field Neutralizer hakkında bilgi için [Optional Internals](/tr/internals) sayfasına göz atın. Bu iki modül bazı özel durumlar dışında önerilmezler ve bunlar yerine fazladan heatsink ya da shield booster almanız daha iyi olacaktır.

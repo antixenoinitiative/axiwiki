@@ -14,13 +14,13 @@ CMDR Ghosti tarafından
 
 Wing savaşarı birden fazla oyuncu içeren tüm savaşlardır. Bu durum farklı mekanikler ve oyun hataları ortaya koyduğundan, ele alış biçiminize bağlı olarak wing savaşları daha zor ya da kolay olabilir. Wing savaşları bireysel savaşlardan birkaç önemli noktada ayrılır:
 
--   Aggro yönetimi
--   Swarm yönetimi (yukarıdaki 1. sebebe bağlı olarak)
--   Kalkan erimesiyle baş etmek
--   Uzaklık yönetimi
--   Kalp parçalaması sonrası soğuk yeniden başlatmaların zorluğu
--   Koordinasyon & iletişim
--   Bug yönetimi
+- Aggro yönetimi
+- Swarm yönetimi (yukarıdaki 1. sebebe bağlı olarak)
+- Kalkan erimesiyle baş etmek
+- Uzaklık yönetimi
+- Kalp parçalaması sonrası soğuk yeniden başlatmaların zorluğu
+- Koordinasyon & iletişim
+- Bug yönetimi
 
 ## Aggro Yönetimi
 
@@ -61,17 +61,17 @@ Interceptor tarama bilgileri tüm wing üyeleriyle paylaşıldığından eğer k
 
 Interceptor bir Kalp kaybettikten sonra kalkan çıkarır ve caustic füze fırlatma evresine girer. Caustic füzeler, yalnızca Interceptor'ün **mevcut hedefi** tespit edilirse ateşlenir. Yani aggroya sahip kişi soğuk kaldığı takdirde herhangi bir caustic füzeyle ya da EMP ile karşılaşmak zorunda kalmazsınız.
 
--   Eğer Kalp parçalama sonrası **aggro sizdeyse**:
--   Heatsink tetikleyip boostlayıp uzaklaşın. En az 3 km uzakta olduğunuza emin olun ancak çok fazla uzaklaşmayın.
--   Sıcaklığınızı 0'a düşürmek için heatsink tetikleyin ve Thermal Vent lazerlerinizle düşük sıcaklığınızı koruyun. Interceptor'e yakın kalın ki o da tekrar saldırıya başlayana kadar sabit kalsın.
--   Kalkansız bir gemide silent running açıp boostla uzaklaşın ya da lazerlernizle soğuk kalın.
+- Eğer Kalp parçalama sonrası **aggro sizdeyse**:
+- Heatsink tetikleyip boostlayıp uzaklaşın. En az 3 km uzakta olduğunuza emin olun ancak çok fazla uzaklaşmayın.
+- Sıcaklığınızı 0'a düşürmek için heatsink tetikleyin ve Thermal Vent lazerlerinizle düşük sıcaklığınızı koruyun. Interceptor'e yakın kalın ki o da tekrar saldırıya başlayana kadar sabit kalsın.
+- Kalkansız bir gemide silent running açıp boostla uzaklaşın ya da lazerlernizle soğuk kalın.
 
 Eğer Kalp parçalama sonrası **aggro sizde değilse**:
 
--   Sıcaklığınız 15%'in üzerindeyse ateş etmeyin. TV Beam dahi bu durumda aggro çekip caustic füzeleri tüm wing için tetikleyebilir. Bunun yerine heatsinkle sıcaklığınızı **0'a düşürdükten sonra** Beam'inizi ateşleyin.
--   Gauss atışı yapmayın.
--   Toslama yapmayın (güvenli süreç\* için koordine olmadıysanız).
--   Çok uzağa boostlamayın (caustic füzelerden kaçmıyorsanız).
+- Sıcaklığınız 15%'in üzerindeyse ateş etmeyin. TV Beam dahi bu durumda aggro çekip caustic füzeleri tüm wing için tetikleyebilir. Bunun yerine heatsinkle sıcaklığınızı **0'a düşürdükten sonra** Beam'inizi ateşleyin.
+- Gauss atışı yapmayın.
+- Toslama yapmayın (güvenli süreç\* için koordine olmadıysanız).
+- Çok uzağa boostlamayın (caustic füzelerden kaçmıyorsanız).
 
 \*Aggro Yönetimi bölümüne bakınız
 
@@ -79,7 +79,7 @@ Kalkanları düşürmeyi başarsanız dahi caustic füze süreci sonra ermeden *
 
 Bu süreçte kalkanlı gemiler yeniden başlatma ya da kalkan iyileştirici lazerler ile kalkanlarını yenileyebilirler.
 
-*Eğer bir pilot soğuk yeniden başlatma yapıyorsa ve 15-18% tespit edilme eşiği üzerindeki bir başkası aggroyu üzerine alırsa fırlatılan caustic füzelerle bu yeniden başlatma bozulabilir. Eğer iletişim kurmanızda sorun varsa yeniden başlatmaları Interceptor'ün menzili dışındayken yapın ya da farklı bir donanım kullanmayı düşünün.*
+_Eğer bir pilot soğuk yeniden başlatma yapıyorsa ve 15-18% tespit edilme eşiği üzerindeki bir başkası aggroyu üzerine alırsa fırlatılan caustic füzelerle bu yeniden başlatma bozulabilir. Eğer iletişim kurmanızda sorun varsa yeniden başlatmaları Interceptor'ün menzili dışındayken yapın ya da farklı bir donanım kullanmayı düşünün._
 
 Kalkan yenilemenize olanak sağlayan "Regeneration Sequence" ve "Concordant Sequence" deneysel mühendislik etkileri wing savaşlarında kullanışlı olabilir. Wing arkadaşlarınızın kalkanlarını hızlıca yenilemeniz mümkün olur. Özellikle de nadiren 50% seviyesinin üzerinde kalabilen Prismatic kalkanlar üzerinde çok kullanışlı olurlar.
 
@@ -89,12 +89,12 @@ Wing savaşlarında iletişim kritiktir. Mümkünse savaştaki tüm pilotlar ses
 
 Sesli sohbeti yalnızca gerekli bilgileri paylaşırken kullanmaya özen gösterin. Konuşulması/duyurulması gerekenlere bazı örnekler:
 
--   Energy surge / EMP
--   Yardım çağrısı, başkasının aggro almasını istemek
--   Kalkan kırılması / kalkan yüzdesi durumu
--   Saldırı evrelerini koordine etmek
--   Swarm durumu ve davranışı
--   Gerçekleştireceğiniz eylemi belirtmek
+- Energy surge / EMP
+- Yardım çağrısı, başkasının aggro almasını istemek
+- Kalkan kırılması / kalkan yüzdesi durumu
+- Saldırı evrelerini koordine etmek
+- Swarm durumu ve davranışı
+- Gerçekleştireceğiniz eylemi belirtmek
 
 Son kalp parçalandığında, Hydra bile tek bir gemi tarafından kolayca yok edilebilir.
 
@@ -104,9 +104,7 @@ Son saldırıyla yok etmeden önce, tüm takım arkadaşlarınızın yakın zama
 
 Savaşa katılan tüm pilotlar AX ile ilgili buglara hakim olmalı ve olabildiğince engellemeye çalışmalıdır. Önerilen eylemler:
 
--   Sinyale aynı anda giriş yapmak.
--   Ne yaptığınızı bilmiyorsanız toslamaktan kaçınmak.
--   UPnP kullanımın aksine "port forwarding" yöntemini etkinleştirmek:
-Port Forwarding Mega Rehberi</li> 
-  
-  -   İletişim</ul>
+- Sinyale aynı anda giriş yapmak.
+- Ne yaptığınızı bilmiyorsanız toslamaktan kaçınmak.
+- UPnP kullanımın aksine "port forwarding" yöntemini etkinleştirmek: Port Forwarding Mega Rehberi
+- İletişim

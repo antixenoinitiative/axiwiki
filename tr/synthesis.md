@@ -9,6 +9,7 @@ dateCreated: 2021-06-10T04:08:01.614Z
 ---
 
 # Sentezleme
+
 Uzun sürecek savaşlarda mühimmat sentezleyebilmeniz için gerekli materyalleri getirmeniz önerilir. Merminiz bittiği için avı tamamlayamama durumuna düşmemeniz için her savaşa gerekebilecek tüm sentezlemeleri en azından birkaç sefer gerçekleştirebilmek için gereken malzemeleri getirmenizi öneririz.
 
 Bireysel Hydra, her silah için en az 2-3 tam Gauss sentezi gerektirir.
@@ -19,13 +20,16 @@ Oyun içi arayüzde sentez panosuna ulaşmak için bu adımları izleyebilirsini
 
 `Sağ Pano > Inventory > Sondan İkinci Menü > Sentez Paneli`
 
-!\[synthpanel1.png\](/img/synthpanel1.png =500x) !\[synthpanel2.png\](/img/synthpanel2.png =500x)
+![synthpanel1.png](/img/synthpanel1.png =500x) ![synthpanel2.png](/img/synthpanel2.png =500x)
 
 # Gerekli Materyaller
-> CMDR Th3Hero tarafından geliştirilen [Sentez Hesaplayıcısı](/en/synthesiscalculator)'nı kullanarak ihtiyacınız olan malzeme miktarlarını hesaplayabilirsiniz. 
-> 
+
+> CMDR Th3Hero tarafından geliştirilen [Sentez Hesaplayıcısı](/tr/synthesiscalculator)'nı kullanarak ihtiyacınız olan malzeme miktarlarını hesaplayabilirsiniz.
+>
 > {.is-info}
+
 # {.tabset}
+
 ## Heatsinkler
 
 Heatsinkler, hasardan kaçınmak için uyguladığınız soğuk taktikleri mümkün kılar.
@@ -33,10 +37,12 @@ Heatsinkler, hasardan kaçınmak için uyguladığınız soğuk taktikleri mümk
 Standart ve premium seviyeleri herhangi bir fayda sağlamadığı için yalnızca "basic" heatsinkler sentezlemenizi öneririz.
 
 ### Basic
+
 - 2x Basic Conductors
 - 2x Heat Conduction Wiring
 
 ## Remote Release Flak
+
 Swarm'la baş edebilmek içindir ve Basilik ve üstü türler için sentezleme yapmanız gerekecektir. Standart ve premium seviyeleri herhangi bir fayda sağlamadığı için yalnızca "basic" mühimmat sentezlemenizi öneririz.
 
 ### Basic
@@ -46,6 +52,7 @@ Swarm'la baş edebilmek içindir ve Basilik ve üstü türler için sentezleme y
 - 4x Nickel
 
 ## Guardian Gauss Cannon
+
 Guardian Gauss Cannon şu an için açık ara en etkili AX silahıdır ve düşük mermi kapasiteleri sebebiyle Medusa ve üstü savaşlara, birkaç sentez getirmenizi öneririz. Hydra türü için "premium" mermiler şiddetle tavsiye edilir.
 
 ### Basic
@@ -78,20 +85,23 @@ En fazla premium Gauss sentezi için ihtiyacınız olanlar:
 - 120x Guardian Tech Components
 
 ## Limpetler
+
 Onarım ve arındırma Limpetleri için.
 
 ### Basic
+
 - 10x Iron
 - 10x Nickel
 
 ## AFMU Dolumları
+
 Uzun süren savaşlarda MRP ve diğer modüllerinizin sağlamlığını koruyabilmek için AFMU mühimmatını yenilemeniz gerekecektir.
 
 Standart ve premium seviyeleri herhangi bir fayda sağlamadığı için yalnızca "basic" dolum sentezlemenizi öneririz.
 
 ### Basic
+
 - 2x Nickel
 - 2x Zinc
 - 2x Chromium
 - 3x Vanadium
-

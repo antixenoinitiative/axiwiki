@@ -22,9 +22,9 @@ Source: [NHSS Survey Spreadsheet](https://docs.google.com/spreadsheets/d/1DhDTU3
 ## Thargoid Bulunan Yerler
 
 Thargoids can be found in various locations, such as:
-- [Non-Human Signal Sources](/en/nhss) (Pleaides, Witch Head and Coalsack Nebulae)
-- [Hyperdictions](/en/hyperdictions) (Pleaides, Witch Head and Coalsack Nebulae)
-- [Static Signal Sources](/en/static-signals) (Bubble, Pleaides, Witch Head and Coalsack Nebulae)
+- [Non-Human Signal Sources](/tr/nhss) (Pleaides, Witch Head and Coalsack Nebulae)
+- [Hyperdictions](/tr/hyperdictions) (Pleaides, Witch Head and Coalsack Nebulae)
+- [Static Signal Sources](/tr/static-signals) (Bubble, Pleaides, Witch Head and Coalsack Nebulae)
 - [Thargoid Structures](https://canonn.science/codex/the-unknown-structure/?highlight=structure) (Pleaides, Witch Head and Coalsack Nebulae)
 - **Megaships** (Bubble, Pleiades Nebula)
 

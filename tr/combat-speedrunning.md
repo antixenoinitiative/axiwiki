@@ -23,6 +23,7 @@ Hızlı öldürüşlerle ilgili iki adet rütbe vardır: Myrmidon ve Caduceus' G
 Myrmidon, speedrun öldürüşlerinde "Vanguard" ayarı rütbedir. Vanguard, karmaşık veya meta dışı bir öldürme gerektirip zaman sınırı vermezken; Myrmidon, meta gemisi kullanmanıza izin verirken zaman sınırı koyar.
 
 Solo Medusa öldürüşü için zaman sınırları şöyledir:
+
 - 24’00’’000’’’ - Küçük Gemiler
 - 12’00’’000’’’ - Orta Gemiler
 - 6’00’’000’’’ - Büyük Gemiler
@@ -49,13 +50,13 @@ Speedrun; bir Thargoid'i hiçbir bug ve usulsüz mekanik (mesela "gibbing") kull
 
 Başlangıç için ilk önce Goid AI'ının Kalp parçalanma sonrası nasıl davrandığını anlamanız gerekiyor. Bunu anlamak, "panik kalkanları"nı tetiklemenin önüne geçmek için kritik önem taşıyor:
 
-!\[speedrund.png\](/img/speedrund.png =600x)
+![speedrund.png](/img/speedrund.png =600x)
 
 # Speedrun Teknikleri
 
 ## Kalkan Toslaması
 
-*"Out of Ammo? Use your Rammo!"*
+_"Mermi atamıyorsanız kafa atın!"_
 
 -Yapım Aşamasında-
 
@@ -71,7 +72,7 @@ Başlangıç için ilk önce Goid AI'ının Kalp parçalanma sonrası nasıl dav
 
 # Speedrun Gemileri
 
-Bakınız [Speedrun Gemileri](/en/speedrunbuilds)
+Bakınız [Speedrun Gemileri](/tr/speedrunbuilds)
 
 # Speedrun Eğitimi
 
