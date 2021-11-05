@@ -2,7 +2,7 @@
 title: Thargoids finden
 description: Wie man Thargoids in Elite Dangerous findet
 published: true
-date: 2021-10-16T01:00:44.114Z
+date: 2021-11-05T09:10:07.131Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -13,7 +13,7 @@ Thargoiden sind ein schwer fassbarer Haufen, aber es gibt bestimmte Tricks und H
 
 > ## Momentan aktive Regionen
 > 
-> Pleiades Nebula (~175ly around Merope) Witch Head Nebula (~75ly around Witch Head Sector IR-W C1-9) Coalsack Nebula (~60ly around Musca Dark Region PJ-P B6-1) 
+> Pleiades Nebula (~175ly around Merope) Witch Head Nebula (~75ly around Witch Head Sector IR-W C1-9) Coalsack Nebula (~60ly around Musca Dark Region PJ-P B6-1) California Nebula (~100ly around HIP 18390) 
 > 
 > {.is-info}
 
