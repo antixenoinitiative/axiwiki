@@ -2,7 +2,7 @@
 title: Thargoidleri Bulmak
 description: 'Elite: Dangerous''ta Thargoidler nasıl bulunur'
 published: true
-date: 2021-10-16T01:00:44.114Z
+date: 2021-11-05T09:10:07.131Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -13,7 +13,7 @@ Thargoidler pek sık karşılaşılmasalar da nereye bakacağınızı bilirseniz
 
 > ## Etkin Bölgeler
 > 
-> Pleiades Nebula (~175ly around Merope) Witch Head Nebula (~75ly around Witch Head Sector IR-W C1-9) Coalsack Nebula (~60ly around Musca Dark Region PJ-P B6-1) 
+> Pleiades Nebula (~175ly around Merope) Witch Head Nebula (~75ly around Witch Head Sector IR-W C1-9) Coalsack Nebula (~60ly around Musca Dark Region PJ-P B6-1) California Nebula (~100ly around HIP 18390) 
 > 
 > {.is-info}
 
@@ -22,9 +22,9 @@ Source: [NHSS Survey Spreadsheet](https://docs.google.com/spreadsheets/d/1DhDTU3
 ## Thargoid Bulunan Yerler
 
 Thargoids can be found in various locations, such as:
-- [Non-Human Signal Sources](/tr/nhss) (Pleaides, Witch Head and Coalsack Nebulae)
-- [Hyperdictions](/tr/hyperdictions) (Pleaides, Witch Head and Coalsack Nebulae)
-- [Static Signal Sources](/tr/static-signals) (Bubble, Pleaides, Witch Head and Coalsack Nebulae)
+- [Non-Human Signal Sources](/en/nhss) (Pleaides, Witch Head and Coalsack Nebulae)
+- [Hyperdictions](/en/hyperdictions) (Pleaides, Witch Head and Coalsack Nebulae)
+- [Static Signal Sources](/en/static-signals) (Bubble, Pleaides, Witch Head and Coalsack Nebulae)
 - [Thargoid Structures](https://canonn.science/codex/the-unknown-structure/?highlight=structure) (Pleaides, Witch Head and Coalsack Nebulae)
 - **Megaships** (Bubble, Pleiades Nebula)
 
