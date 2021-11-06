@@ -2,7 +2,7 @@
 title: Incursions
 description: About Thargoid Incursions and Infestations
 published: true
-date: 2021-06-17T01:25:35.134Z
+date: 2021-11-06T04:34:41.782Z
 tags: thargoids, incursions, infestations
 editor: markdown
 dateCreated: 2021-06-17T01:24:54.361Z
@@ -18,12 +18,11 @@ The Eagle Eye system will identify a new wave of infested systems each week.
 # Thargoid Incursions
 Should a system enter the Incursion state it will become under full Thargoid Assault. Once underway the system’s allegiance will change to “Thargoid” and multiple cumulative negative effects can be observed as the incursion persists.
 
-- One Undamaged starport will become **Damaged** in the system per week, until the Incursion is cleared.
-- **All Bulk Cruiser Megaships** will become damaged at the start of the incursion.
-- Stronger Thargoid Variants will appear.
-- Anti-Xeno Conflict Zones will appear in the system. (Read more in: Anti-Xeno Conflict Zones)
+- One undamaged **Starport** will become damaged in the system per week, until the Incursion is cleared.
+- All **Bulk Cruiser Megaships** will become damaged at the start of the incursion.
+- [Anti-Xeno Conflict Zones](/en/conflict-zones) will appear in the system.
 
-Ships may be hyperdicted while jumping into a system under Incursion.
+Ships may be hyperdicted while jumping into a system under Incursion, regardless of marked status.
 
 The GalNet Thargoid Activity report will provide an up-to-date report on the remaining presence of Thargoids within an Incursion system. As more Thargoid vessels are destroyed, the presence level will decrease until the incursion is cleared completely.
 
