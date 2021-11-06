@@ -2,7 +2,7 @@
 title: Incursion'lar
 description: Thargoid Incursion ve Infestation'larına dair
 published: true
-date: 2021-11-06T11:36:30.206Z
+date: 2021-11-06T11:41:01.974Z
 tags: thargoids, incursions, infestations
 editor: markdown
 dateCreated: 2021-10-06T05:49:43.590Z
@@ -15,8 +15,6 @@ Thargoidlerin etkin olduğu dönemlerde, haftalık bazda bir grup sistem "kuşat
 - Eğer yeterli sayıda Thargoid yok edilemezse, bir sonraki haftalık güncellemede sistem Incursion (istila edilmiş) durumuna geçer.
 
 - Eagle Eye sistemi her hafta yeni bir kuşatılmış sistem dalgası tespit eder. *(Bir süredir geçerli değil)*[^1]
-
-
 
 # Thargoid Incursion
 
