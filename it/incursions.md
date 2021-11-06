@@ -2,7 +2,7 @@
 title: Incursioni
 description: Informazioni sugli stati “Thargoid Incursion” e “Thargoid Infestation”
 published: true
-date: 2021-06-17T01:25:35.134Z
+date: 2021-11-06T04:34:41.782Z
 tags: thargoids, incursions, infestations
 editor: markdown
 dateCreated: 2021-06-17T01:24:54.361Z
@@ -18,12 +18,11 @@ Il sistema Eagle Eye identificherà una nuova ondata di sistemi infestati ogni s
 # Thargoid Incursions
 Se un sistema entrerà nello stato di “Incursion” verrà attaccato in massa dai Thargoid. Una volta in corso l’allineamento del sistema sarà indicato come “Thargoid” con un susseguirsi di molteplici effetti negativi sul sistema stesso con il persistere dell’incursione.
 
-- Una stazione nel sistema sarà **Danneggiata** ogni settimana, fino a quando l'Incursione non sarà respinta.
-- **Tutte le Megaships** Presenti nel sistema saranno danneggiate all’inizio dell’incursione.
-- Appariranno Varianti Thargoid più forti.
-- Delle zone di conflitto (Ax conflict Zone) appariranno nel sistema. (Per saperne di più in: Anti-Xeno Conflict Zone)
+- One undamaged **Starport** will become damaged in the system per week, until the Incursion is cleared.
+- All **Bulk Cruiser Megaships** will become damaged at the start of the incursion.
+- [Anti-Xeno Conflict Zones](/en/conflict-zones) will appear in the system.
 
-Le navi possono subire un Hyperdiction, mentre saltano in un sistema sotto Incursion.
+Ships may be hyperdicted while jumping into a system under Incursion, regardless of marked status.
 
 La sezione del GalNet “Thargoid Activity report “ fornisce un rapporto aggiornato sulla presenza residua di Thargoids all'interno di un sistema di Incursione. Man mano che più navi Thargoid vengono distrutte, il livello di presenza diminuirà fino a quando l'incursione non sarà completamente eliminata.
 
