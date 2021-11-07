@@ -16,11 +16,11 @@ Normal insan silahları Anti-Xeno savaşlarında çoğunlukla işlevsizdir. Anca
 
 ## Thermal Vent Beam Lasers
 
-En yaygın kullanılanı Thermal Vent Long Range Beam Laser'leridir.
+En yaygın kullanılanı **Thermal Vent Long Range Beam Laser**'leridir.
 
-Ana görevi, deneysel mühendislik ürünü olan "Thermal Vent"ten gelen soğutma etkisidir. AX pilotları TV Beam'leri kullanarak gemilerini 20% sıcaklık eşiğinin altında tutmayı başarabilirler.
+Ana görevi, deneysel mühendislik ürünü olan "**Thermal Vent**"ten gelen soğutma etkisidir. AX pilotları TV Beam'leri kullanarak gemilerini 20% sıcaklık eşiğinin altında tutmayı başarabilirler.
 
-Bu fonksiyonun en önemli örneği olarak, saldırı hareketinize başlamadan önce geminizi soğutmak gösterilebilir. Burda da Long Range (uzun menzil) modifiyesi ön plana çıkar. Interceptorler size 3 km menzil dışından saldırıya başlamadıklarından 6 km menzile çıkabilen uzun menzil sayesinde çok daha uzaktan heatsink kullanmanıza gerek kalmaksızın geminizi soğutabilirsiniz.
+Bu fonksiyonun en önemli örneği olarak, saldırı hareketinize başlamadan önce geminizi soğutmak gösterilebilir. Burda da **Long Range** (uzun menzil) modifiyesi ön plana çıkar. Interceptorler size 3 km menzil dışından saldırıya başlamadıklarından 6 km menzile çıkabilen uzun menzil sayesinde çok daha uzaktan heatsink kullanmanıza gerek kalmaksızın geminizi soğutabilirsiniz.
 
 Bir diğer örnek, Interceptor etrafında heatsink kullanmadan süresiz soğuk yörünge hareketi yapabilmeniz olabilir ki hızlıca bir şey sentezlemeniz, AFMU onarımı yapmanız veya Interceptor'ü wing arkadaşlarınız gelene kadar oyalamanız gerektiğinde çok işe yarayabilir.
 

@@ -14,7 +14,7 @@ Thargoidlerin etkin olduğu dönemlerde, haftalık bazda bir grup sistem "kuşat
 
 - Eğer yeterli sayıda Thargoid yok edilemezse, bir sonraki haftalık güncellemede sistem Incursion (istila edilmiş) durumuna geçer.
 
-- Eagle Eye sistemi her hafta yeni bir kuşatılmış sistem dalgası tespit eder. *(Bir süredir geçerli değil)*[^1]
+- Eagle Eye sistemi her hafta yeni bir kuşatılmış sistem dalgası tespit eder. _(Bir süredir geçerli değil)_[^1]
 
 # Thargoid Incursion
 
@@ -27,8 +27,9 @@ Incursion durumuna düşmüş bir sistem tam ölçekli bir Thargoid istilası al
 - [Non-Human Signal Sources (NHSS)](/tr/nhss) ortaya çıkmaya başlar. (Daha önce yoksa)
 - Incursion durumundaki sistemlere sıçrayan gemiler hyperdiction'a maruz kalabilir.
 
-**GalNet Thargoid Activity Report (Eylem Raporu)**, Incursion durumundaki sistemlerde bulunan Thargoid yoğunluğu hakkında güncel bilgi içerir. Thargoid gemileri yok edildikçe Incursion bitene kadar yoğunluk miktarları azalır.
+**GalNet Thargoid Activity Report (Eylem Raporu)**, Incursion durumundaki sistemlerde bulunan Thargoid yoğunluğu hakkında canlı bilgilendirme verir. Thargoid gemileri yok edildikçe, Incursion bitene kadar yoğunluk miktarları azalır.
 
+[**Thargoid.watch**](https://www.thargoid.watch/) sistemimiz güncel Incursion sistemleri ve Thargoidlerin bulunduğu diğer bölgeler hakkında güncel bilgi içerir.
 
 ## Yoğunluk seviyeleri:
 

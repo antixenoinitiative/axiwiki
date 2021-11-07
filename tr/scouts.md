@@ -10,7 +10,7 @@ dateCreated: 2021-06-15T10:36:00.013Z
 
 # Scoutlar
 
-![scouts.jpg](/img/scouts.jpg =450x){.align-right}Scoutlar küçük Thargoid gemileridir ve her türde Non-Human Signal Source içerisinde bulunabilirler. Scoutlar daima saldırgandır ve grup halinde hazırlıksız pilotlara yüksek hasar verebilirler. Interceptorlerin 99% direncinin aksine Scoutların normal insan silahlarına karşı 77% dirençleri vardır. Daha az dirençleri sayesinde normal insan silahlarıyla Scoutları öldürmek mümkün olsa da özelleşmiş AX silahları ne olursa olsun çok daha etkilidir.
+![scouts.jpg](/img/scouts.jpg =450x){.align-right}Scoutlar küçük Thargoid gemileridir ve her türde [Non-Human Signal Source](/tr/nhss) içerisinde bulunabilirler. Scoutlar daima saldırgandır ve grup halinde hazırlıksız pilotlara yüksek hasar verebilirler. Interceptorlerin 99% direncinin aksine Scoutların normal insan silahlarına karşı 77% dirençleri vardır. Daha az dirençleri sayesinde normal insan silahlarıyla Scoutları öldürmek mümkün olsa da özelleşmiş AX silahları ne olursa olsun çok daha etkilidir.
 
 # Türler
 
@@ -34,7 +34,7 @@ Inciterlar da aynı şekilde ek özel yeteneğe sahiptir. Kullanıldığında bi
 
 # Davranış Biçimleri
 
-- Scoutlar daime saldırgandır.
+- Scoutlar daima saldırgandır.
 - Normal insan silahlarına karşı 77% dirence sahiplerdir.
 - Füze ve torpidolara bağışıktırlar (sekip giderler).
 - Arada bir caustic füze fırlatırlar.
@@ -42,6 +42,6 @@ Inciterlar da aynı şekilde ek özel yeteneğe sahiptir. Kullanıldığında bi
 
 # Scout Avlamak
 
-Scout avlamak savaş rütbesi yükseltmek için çok etkili bir yöntemdir. Normal silahlara karşı sahip oldukları 77% direnç sebebiyle bu silahları onlara karşı kullanmak son derece etkisizdir. Öngörülemez uçuş stilleri sebebiyle Scoutlara karşı "Large Turreted Anti-Xeno Multi-Cannon"ları öneriyoruz.
+Scout avlamak savaş rütbesi yükseltmek için çok etkili bir yöntemdir. Normal silahlara karşı sahip oldukları 77% direnç sebebiyle bu silahları onlara karşı kullanmak son derece etkisizdir. Öngörülemez uçuş stilleri sebebiyle Scoutlara karşı **Large Turreted Anti-Xeno Multi-Cannon**ları öneriyoruz.
 
 Bu silahlar 77% dirençten etkilenmedikleri, hedefe kilitli kalabildikleri ve mermileri verimli kullandıkları için çok uygundurlar. Gemi başına 4 adet AX silahı sınırı olduğunu unutmayın.
