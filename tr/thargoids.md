@@ -10,7 +10,9 @@ dateCreated: 2021-10-06T05:51:15.788Z
 
 # Thargoidler
 
-![cyclops-small.png](/img/Cyclops-small.png =250x){.align-right} **\*Thargoidler** insanlığa karşı sürekli saldırganlık göstermiş, insan olmayan bir canlı türüdür.\*
+![cyclops-small.png](/img/Cyclops-small.png =250x){.align-right}
+
+**Thargoidler**, insanlığa uzun zamandır tehdit oluşturmuş, saldırgan bir uzaylı türüdür.
 
 > Kayda geçen ilk Thargoid karşılaşması 2849 yılında olmasına rağmen daha önce, belgelenmemiş karşılaşmaların olduğu da düşünülmektedir. Daha sonraki yıllarda, yalnız gezegen Thargoid araçlarıyla karşılaşmalar da ara ara rapor edilmiştir.
 >

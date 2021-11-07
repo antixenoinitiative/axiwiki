@@ -9,8 +9,7 @@ dateCreated: 2021-07-27T04:02:39.662Z
 ---
 
 # Sentry
--Yapım aşamasında-
 
-## Etkin Incursionlar
-Etkilenen Sistemler
-- Liste
+Thargoid istilalarını canlı takip sistemimiz [Thargoid.watch](https://www.thargoid.watch/) yayında.
+
+Ek olarak Thargoidlerin bulunduğu diğer bölgeler hakkında da bilgi sahibi olabilirsiniz.
