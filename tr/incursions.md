@@ -2,7 +2,7 @@
 title: Incursion'lar
 description: Thargoid Incursion ve Infestation'larına dair
 published: true
-date: 2021-11-06T04:39:40.115Z
+date: 2021-11-07T21:27:15.800Z
 tags: thargoids, incursions, infestations
 editor: markdown
 dateCreated: 2021-06-17T01:24:54.361Z
@@ -25,7 +25,10 @@ Incursion durumuna düşmüş bir sistem tam ölçekli bir Thargoid istilası al
 
 Ships may be hyperdicted while jumping into a system under Incursion, regardless of marked status.
 
-GalNet Thargoid Activity Report (Eylem Raporu), Incursion durumundaki sistemlerde bulunan Thargoid yoğunluğu hakkında güncel bilgi içerir. Thargoid gemileri yok edildikçe Incursion bitene kadar yoğunluk miktarları azalır.
+The **GalNet Thargoid Activity report** will provide an up-to-date report on the remaining presence of Thargoids within an Incursion system. Thargoid gemileri yok edildikçe Incursion bitene kadar yoğunluk miktarları azalır.
+
+> Our Thargoid activity monitor [Thargoid.watch](https://www.thargoid.watch/) has gone live. You can find about the systems in Incursion and the regions Thargoids have inhabited.{.is-info}
+
 
 Yoğunluk seviyeleri:
 
@@ -36,3 +39,5 @@ Yoğunluk seviyeleri:
 - No Thargoid Presence: **100% Cleared**
 
 Once a system has been cleared, damaged starports will enter the **Repairing** state at the next weekly tick.
+
+Damaged starports may enter the repairing state before the Incursion is cleared and they will destroyed again at the next tick if the Incursion persists.
