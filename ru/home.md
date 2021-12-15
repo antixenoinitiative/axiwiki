@@ -10,7 +10,7 @@ dateCreated: 2021-06-08T12:40:49.911Z
 
 # Добро пожаловать!
 
-Welcome to the Anti-Xeno Initiative Wiki. Это основное хранилище информации, собранной Anti-Xeno Initiative, здесь вы найдёте обучения, инструкции, а также много другой информации относящейся к боям с таргоидами в игре Elite: Dangerous.
+Добро пожаловать на Anti-Xeno Initiative Wiki. Это основное хранилище информации, собранной Anti-Xeno Initiative, здесь вы найдёте обучения, инструкции, а также много другой информации относящейся к боям с таргоидами в игре Elite: Dangerous.
 
 Используйте **строку поиска** в **верху** этой страницы для начала работы с данным ресурсом
 
@@ -23,18 +23,18 @@ Welcome to the Anti-Xeno Initiative Wiki. Это основное хранили
 
 - [Таргоидские перехватчики](/en/interceptors)
 - [Как найти таргоидов](/en/finding-thargoids)
-- [Recommended Ship Builds](/en/builds)
-- [Basic Combat Guide](/en/basic-combat-guide)
+- [Рекомендации по сборке кораблей](/en/builds)
+- [Базовое руководство по бою с таргоидами](/en/basic-combat-guide)
 
-## Credits
+## Благодарности
 
-Want to take part in the **Anti-Xeno Initiative Wiki** project? Head to our [GitHub Repository](https://github.com/antixenoinitiative/axiwiki) or join us in the [AXI discord](https://discord.gg/bqmDxdm).
+Хотите принять участие в проекте **Anti-Xeno Initiative Wiki**? Присоединяйтесь к нашему [GitHub Repository](https://github.com/antixenoinitiative/axiwiki) или посетите [AXI discord-сервер](https://discord.gg/bqmDxdm).
 
 [![AXI Discord](https://discord.com/api/guilds/380246809076826112/embed.png?style=banner3)](https://discord.gg/bqmDxdm)
 
-A big thanks to our content and development team! ❤️
+Большое спасибо нашей команде авторов и команде разработчиков! ❤️
 
-**Content Creators**
+**Авторы статей**
 
 -   CMDR Aranionros Stormrage
 -   CMDR Mechan
@@ -43,7 +43,7 @@ A big thanks to our content and development team! ❤️
 -   CMDR Avasa Siuu
 -   CMDR Maligno
 
-**Translators**
+**Переводчики**
 
 -   CMDR alterNERDtive
 -   CMDR Trex63
@@ -66,8 +66,8 @@ A big thanks to our content and development team! ❤️
 -   CMDR Archiebeales
 -   CMDR Konstantine Novakov
 
-**Developers**
+**Разработчики**
 
 -   CMDR Sanctified (Willhof)
 
-And to everyone else in the Anti-Xeno Initiative who has helped make this project possible!
+И всем остальным из Anti-Xeno Initiative кто помог сделать этот проект возможным!
