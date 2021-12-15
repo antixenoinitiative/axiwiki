@@ -1,20 +1,20 @@
 ---
-title: Interceptors
-description: About Thargoid Interceptors
-published: true
+title: Перехватчики
+description: О таргоидских перехватчиках
+published: опубликовано
 date: 2021-06-17T00:44:49.019Z
-tags: thargoids, interceptors
+tags: таргоиды, перехватчики
 editor: markdown
 dateCreated: 2021-06-15T10:23:32.433Z
 ---
 
-# Thargoid Interceptors
-Thargoid Interceptors come in four variants: **Cyclops**, **Basilisk**, **Medusa** and **Hydra**, in ascending level of difficulty. Each next variant has more hearts and is tougher than the last, requiring far more damage to exert and destroy hearts.
+# Таргоидские перехватчики
+Таргоидские перехватчики присутствуют в игре в четырёх видах, далее указано по возрастающему уровню сложности: **Циклоп**, **Василиск**, **Медуза** и **Гидра**. Каждый последующий вариант имеет больше "сердец" и сложнее предыдущего, а для уничтожения "сердец" требуется нанести перехватчикам гораздо больше урона.
 
-Interceptors are incredibly tough and typically are best suited to wing combat as soloing them is a huge achievement. Interceptors use very high damage output weapons, crowd-control style special abilities and independent drones to wreak havoc on the battlefield.
+Перехватчики невероятно прочные и, как правило, лучше всего подходят для боя в крыле/команде, так как уничтожить их в одиночном режиме игры (Соло) – это огромное достижение. Перехватчики наносят очень большой урон, используют особые способности в стиле управления как целым роем, так и отдельными дронами (таргонами), чтобы нести хаос на поле боя.
 
-## Behaviour
-Thargoid interceptors are typically non-hostile in most circumstances. Upon encountering a interceptor, they will approach your ship to ~500m and perform a ship scan. If you are carrying any Thargoid or Guardian Technology (Cargo, not modules) they will react accordingly.
+## Поведение
+Таргоидские перехватчики обычно в большинстве случаев не настроены враждебно. После встречи с перехватчиком, он приблизится к вашему кораблю примерно на 500 метров и выполнит сканирование корабля. Если вы перевозите любую из технологий таргоидов или Стражей (груз, не модули), перехватчик отреагирует соответствующим образом.
 
 - **Thargoid Technology** (Probe, Sensor, Meta Alloys, etc) - The Thargoid will react by making a sound, if you do not drop the cargo within approx, 30 sec, the Thargoid will become hostile and start attacking you.
 - **Guardian Technology** (Ancient Relic, Ancient Key, etc) - The Thargoid will become immediately hostile to you.
