@@ -50,7 +50,7 @@ dateCreated: 2021-06-15T10:23:32.433Z
 **Сердца**: 5 **Макс. скорость**: 530 м/с **Вознаграждение**: 24,000,000 Кр
 
 ## **Medusa**
-!\[medusa-small.png\](/img/medusa-small.png =250x){.align-right}Тип "Medusa" впервые был замечен 14 декабря 3303 во время атаки трёх станций. The Medusa is a greatly enhanced version of the Basiliks with much higher overall damage output and an extra heart. However the Medusa once again moves at the same speed as a Cyclops.
+!\[medusa-small.png\](/img/medusa-small.png =250x){.align-right}Тип "Medusa" впервые был замечен 14 декабря 3303 во время атаки трёх станций. Medusa - это значительно улучшенная версия "Basilisk", но гораздо более прочен и имеет дополнительное сердце. Однако "Medusa" медленнее, чем "Basilisk", а её скорость передвижения такая же, как и у типа "Cyclops".
 
 Not only is the Medusa a more vibrant red and black color, it also sports an array of sharp spine-like appendages that protrude from each petal and in-front of the canopy. This gives the Medusa variant a very menacing appearance.
 
