@@ -34,7 +34,7 @@ Inciters are the same as a marauders with a special ability. When used the scout
 - Scouts occasionally shoot caustic missiles.
 - The pulse of the special Scouts is instance-wide, which means it can affect very distant targets.
 
-# Hunting Scouts
+# Охота на разведчиков
 
 Hunting scouts is a very efficient method to increase combat rank. Due to the 77% resistance to human weapons it is very inefficient to use normal weapons against scouts. Due to the unpredictable nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multicannons as the most effective weapon for hunting scouts.
 
