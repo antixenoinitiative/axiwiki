@@ -45,7 +45,7 @@ dateCreated: 2021-06-10T01:08:57.783Z
 
 ## Переборки
 
-**The Meta:** Military Grade Alloys with Heavy Duty blueprint and Deep Plating experimental. In AX, resistances do not matter, so HD Military provides the highest possible health pool. Reinforced Alloys, when engineered, are directly inferior to Military and Lightweight Alloys, and Mirrored and Reactive Composite only raise the rebuy and do not provide any extra raw hull.
+**The Meta:** «Сплавы военного назначения» c чертежом «Толстая броня» и экспериментальным эффектом «Утолщённая броня». In AX, resistances do not matter, so HD Military provides the highest possible health pool. Reinforced Alloys, when engineered, are directly inferior to Military and Lightweight Alloys, and Mirrored and Reactive Composite only raise the rebuy and do not provide any extra raw hull.
 
 **Альтернативные варианты:**
 - Military Grade Alloys with Lightweight blueprint and Deep Plating - a balance of speed and raw hull
