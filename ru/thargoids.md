@@ -8,16 +8,16 @@ editor: markdown
 dateCreated: 2021-06-15T10:10:09.264Z
 ---
 
-# Thargoids
-!\[cyclops-small.png\](/img/Cyclops-small.png =250x){.align-right} *The **Thargoids** are a nonhuman race with a history of hostility towards humanity.*
+# Таргоиды
+!\[cyclops-small.png\](/img/Cyclops-small.png =250x){.align-right} ***Таргоиды** - нечеловеческая раса с историей враждебного отношения к человечеству.*
 
-*The first recorded encounter with a Thargoid ship took place in 2849, although earlier undocumented encounters are believed to have taken place. In the years that followed, contact with lone Thargoid vessels was intermittently reported.*
+*Первая зафиксированная встреча с кораблём таргоидов произошла в 2849 году, хотя считается, что ранее имели место незадокументированные встречи. В последующие годы периодически поступали сообщения о контактах с одинокими кораблями таргоидов.*
 
-*Humanity clashed with the Thargoids in the 32nd century, but details of the conflict remained scarce for many years, and it proved difficult to differentiate authentic accounts of Thargoid encounters from the sensationalist media stories of the time.*
+*Человечество столкнулось с таргоидами в 32 веке, но подробности конфликта оставались скудными в течение многих лет, и оказалось трудно отличить подлинные рассказы о столкновениях с таргоидами от сенсационных материалов СМИ того времени.*
 
-*Entry from Elite Dangerous Codex*
+*Вступление из Кодекса в Elite Dangerous*
 
-[**Learn more about the Thargoids on the official Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
+[**Узнайте больше о таргоидах на официальной вики**](https://elite-dangerous.fandom.com/wiki/Thargoid)
 
 [**Read about Thargoids on the Canonn Research Website**](https://canonn.science/codex/xeno-technology/)
 
