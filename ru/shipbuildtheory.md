@@ -45,11 +45,11 @@ dateCreated: 2021-06-10T01:08:57.783Z
 
 ## Переборки
 
-**The Meta:** «Сплавы военного назначения» c чертежом «Толстая броня» и экспериментальным эффектом «Утолщённая броня». В сборке AX, сопротивление урону не имеет значения, поэтому военная толстая броня обеспечивает максимально возможный запас здоровья. Reinforced Alloys, when engineered, are directly inferior to Military and Lightweight Alloys, and Mirrored and Reactive Composite only raise the rebuy and do not provide any extra raw hull.
+**The Meta:** «Сплавы военного назначения/Композит военного класса» c чертежом «Толстая броня» и экспериментальным эффектом «Утолщённая броня». В сборке AX, сопротивление урону не имеет значения, поэтому военная толстая броня обеспечивает максимально возможный запас здоровья. Укреплённые сплавы, если они модифицированы, напрямую уступают военным и лёгким сплавам, а композит с зеркальной или реактивной поверхностью только повышают стоимость повторной покупки и не дают никакого сверх raw корпуса.
 
 **Альтернативные варианты:**
-- Military Grade Alloys with Lightweight blueprint and Deep Plating - a balance of speed and raw hull
-- Lightweight Alloys with Heavy Duty blueprint and Deep Plating - sacrificing raw hull for a large speed boost.
+- «Сплавы военного назначения/Композит военного класса» с чертежом «Броня из лёгких сплавов» и «Толстая броня» - баланс скорости и raw корпуса
+- «Лёгкие сплавы» с чертежом «Толстая броня» и экспериментальным эффектом «Утолщённая броня» - жертвуем raw корпусом ради увеличенного форсажа.
 
 ## Силовая установка
 
@@ -89,7 +89,7 @@ dateCreated: 2021-06-10T01:08:57.783Z
 
 **The Meta:** D-rated with Long Range experimental. Thargoids always emit a signal that can be detected at the maximum sensor range, meaning that A-rated sensors provide no benefits to D-rated, but weigh more and cost more power.
 
-**Alternatives:** There are none.
+**Альтернативы:** Нет ни одного варианта.
 
 # Optional Internals
 
