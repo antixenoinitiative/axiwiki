@@ -1,67 +1,67 @@
 ---
-title: Ship Build Theory
-description: Comprehensive guide on general AX build theory
-published: true
+title: Теория сборки AX-корабля
+description: Подробное руководство по общей теории сборки АХ-кораблей
+published: опубликовано
 date: 2021-09-19T11:08:08.311Z
-tags: builds, theory, engineering, outfitting
+tags: сборка, теория, инженерные модификации, снаряжение
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
 ---
 
-# Ship Build Theory
-This is a comprehensive guide on general AX build theory, for each of the build styles:
+# Теория сборки AX-корабля
+Это подробное руководство по общей теории сборки AX-кораблей, для каждого стиля сборки:
 
-- Bi-Weave Hybrids
-- Shieldless Cold Orbiters
-- Shield Tanks
+- Гибридные сборки с двухпоточным щитогенератором
+- Безщитовые холодные сборки
+- Бронированные корабли со щитами
 
-# General Themes
+# Общие вопросы
 
-## Engineering
+## Инженерные модификации
 
-**All components** of an Anti-Xeno ship **should be fully engineered** for maximum performance. Thargoids are incredibly advanced and deal far more damage than any human NPC in the game. Not only this, but they have a slew of special attacks that can devastate a ship that is not properly prepared. If you are unable to engineer everything due to constraints, the bare minimum is:
+**Все модули** AX-кораблей **должны быть полностью модифицированы у инженеров** до их максимальных характеристик. Таргоиды невероятно продвинуты и наносят гораздо больше урона, чем любой NPC-корабль человеческой расы в игре. Мало того, они обладают множеством специальных техник нападения, которые могут уничтожить корабль, который не был подготовлен должным образом. Если вы не можете произвести полную модификацию у инженеров из-за ограничений, то вот минимальный набор:
 
-- Thrusters
-- Power Distributor
-- Hull Reinforcements
-- Power Plant (only if needed to reach the power requirement of the build)
+- Маневровые двигатели
+- Распределитель питания
+- Набор для усиления корпуса
+- Силовая установка (только если это необходимо для достижения требуемой мощности сборки)
 
-**Once again, it is highly recommended that your ship be fully engineered before engaging Thargoids.**
+**Ещё раз, настоятельно рекомендуется полностью модифицировать ваш корабль у инженеров, перед тем, как вступать в бой с таргоидами.**
 
-## Resistances
+## Сопротивление урону
 
-Thargoid weapons ignore all resistances (besides caustic resistance) thus you should be aiming to have all armour and shields engineered for maximum **raw** hull/shield MJ.
+Таргоидское оружие игнорирует все типы сопротивления урону (кроме сопротивления едкому урону), поэтому вы должны стремиться к тому, чтобы вся броня и щиты были рассчитаны на максимальный **сырой** корпус/щит МДж.
 
-## Speed and Maneuverability
+## Скорость и манёвренность
 
-Thargoids are fast and agile, hence top speed and maneuverability heavily influences our ship recommendations. An AX ship should be able to boost over 450m/s minimum, with any extra speed being an added bonus, ideally you will want to be able to achieve over 500m/s to be able to handle Basilisk Variant Interceptors more easily
+Таргоиды быстрые и проворные, поэтому максимальная скорость и манёвренность сильно влияют на наши рекомендации для сборок кораблей. AX-корабль должен быть способен разгоняться минимум до 450 м/с, а любая дополнительная скорость будет дополнительным бонусом. В идеале вы хотите достичь скорости более 500 м/с, чтобы легче справляться с перехватчиками типа «Basilisk»
 
-## Common Mistakes
+## Распространённые ошибки
 
-Avoid making these common mistakes listed [Here](/en/commonmistakes).
+Избегайте этих распространённых ошибок, перечисленных [здесь](/en/commonmistakes).
 
 
-# Core Internals
+# Основные системы
 
-## Bulkheads
+## Переборки
 
 **The Meta:** Military Grade Alloys with Heavy Duty blueprint and Deep Plating experimental. In AX, resistances do not matter, so HD Military provides the highest possible health pool. Reinforced Alloys, when engineered, are directly inferior to Military and Lightweight Alloys, and Mirrored and Reactive Composite only raise the rebuy and do not provide any extra raw hull.
 
-**Alternatives:**
+**Альтернативные варианты:**
 - Military Grade Alloys with Lightweight blueprint and Deep Plating - a balance of speed and raw hull
 - Lightweight Alloys with Heavy Duty blueprint and Deep Plating - sacrificing raw hull for a large speed boost.
 
-## Power Plant
+## Силовая установка
 
 **The Meta:** A-rated in the largest size available with Armored blueprint and Thermal Spread experimental. For most builds, armored provides the perfect tradeoff of extra power, additional integrity, and better thermals. A-rated power plants are the coolest of all ratings.
 
-**Alternatives:**
+**Альтернативные варианты:**
 
 - Monstered Experimental - provides a little extra juice when needed, at the cost of slightly worse thermals.
 - Low Emissions blueprint with Monstered experimental - A high grade of LE can allow a ship to idle under 20% heat.
 - Overcharged blueprint  - should only be used when absolutely necessary, and to the lowest grade possible.
 
-## Thrusters
+## Маневровые двигатели
 
 **The Meta:** A-rated in the largest size available with Dirty Tuning blueprint and Drag Drives experimental. Although the thermal load increase may seem like a problem, in practice the performance of dirty drag drives far exceeds any alternative.
 
@@ -73,19 +73,19 @@ Avoid making these common mistakes listed [Here](/en/commonmistakes).
 
 **Alternative:** 2D FSD with grade one fast boot and Stripped Down experimental - provides a small speed boost at the cost of being unable to jump your ship any meaningful distance.
 
-## Life Support
+## Система жизнеобеспечения
 
 **The Meta:** D-rated with Lightweight blueprint. D-rated has the lowest power draw and weight, and still has a long enough timer for repeated oxygen synths if your canopy blows.
 
 **Alternative:** A-rated allowing for longer time between required synthing.
 
-## Power Distributor
+## Распределитель питания
 
 **The Meta:** A-rated in the largest size available with Charge Enhanced blueprint and Super Conduits experimental. Gauss Cannons have extreme distributor draw, so having the maximum possible WEP capacitor regen is essential. The capacity loss of these modifications is also not a problem, since most ships can fire two of their gauss cannons at a time without spiking over 20% heat.
 
 **Alternative:** Weapon Focused blueprint. Increased WEP capacitor size at the cost of boost frequency. Some ships require this modification to keep their heat below the threshold required for proper cold orbiting.
 
-## Sensors
+## Сенсоры
 
 **The Meta:** D-rated with Long Range experimental. Thargoids always emit a signal that can be detected at the maximum sensor range, meaning that A-rated sensors provide no benefits to D-rated, but weigh more and cost more power.
 
@@ -96,20 +96,20 @@ Avoid making these common mistakes listed [Here](/en/commonmistakes).
 The optional internal loadout is where the main differences lie between build styles, and can even vary from Commander to Commander. Below are the three general loadouts of the three build types. For more information on the uses of each optional internal, refer to the [Core and Optional Internals](/en/internals) page.
 
 
-## Cold Orbiters
+## Холодные сборки
 - Largest possible D-rated repair limpet controller and 16t or 64t cargo rack
 - One class four or five GMRP and two smaller MRPs
 - 2A AFMU
 - HRPs in the rest of the internal slots
 
-## Bi-Weave Hybrids
+## Гибридные сборки с двухпоточным щитогенератором
 - Largest possible Bi-Weave Shield with Reinforce blueprint and either Fast Charge or Lo-Draw experimental.
 - 1A AFMU
 - One or two GMRPs or MRPs
 - HRPs in the rest of the slots
 - GSRP as per personal preference
 
-## Shield Tanks
+## Бронированные корабли со щитами
 - Largest possible Prismatic Shield with Reinforced blueprint and Hi-Capacity experimental
 - Large Shield Cell Banks with Specialized blueprint and Boss Cells experimental
 - One or two GMRPs or MRPs
@@ -125,5 +125,5 @@ Essential for Cold Oribing vessels to dissipate the heat generation of gauss can
 ## Shield Boosters
 Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
 
-## Other Modules
+## Другие модули
 For information on Xeno Scanners and Shutdown Field Neutralizers, see the [Core and Optional Internals](/en/internals) page. These two utilities are not recommended except in specific situations, as the slot is better fit with a heatsink or shield booster.
