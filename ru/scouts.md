@@ -25,17 +25,17 @@ dateCreated: 2021-06-15T10:36:00.013Z
 Подобно типу «Regenerator», тип «Beserker» – это «Marauder» с особой способностью. «Beserker» может испускать красный энергетический импульс, который увеличивает всем находящимся поблизости разведчикам наносимый урон и заставляет всех ближайших разведчиков, не являющихся типом «Beserker», выпустить едкую ракету. Тип «Beserker» имеет оранжевую/красную окраску.
 
 ## Inciter
-Тип «Inciter» – это то же самое, что и «Marauder», и также с особой способностью. When used the scout will emit an energy pulse to all nearby scouts, buffing their speed and maneuverability temporarily. Inciters have a pink/red appearance.
+Тип «Inciter» – это то же самое, что и «Marauder», и также с особой способностью. Во время боя тип разведчика «Inciter» излучает энергетический импульс на всех ближайших разведчиков, временно увеличивая их скорость и манёвренность. Тип «Inciter» имеет розовую/красную окраску.
 
 # Особенности
-- Scouts are ALWAYS hostile.
-- Scouts have 77% resistance to conventional human weapons.
-- Scouts are immune to missiles and torpedoes (they bounce off).
-- Scouts occasionally shoot caustic missiles.
-- The pulse of the special Scouts is instance-wide, which means it can affect very distant targets.
+- Разведчики ВСЕГДА настроены враждебно.
+- Разведчики имеют устойчивость к повреждениям от обычного вооружения на 77%.
+- Разведчики защищены от попаданий ракет и торпед (они от них рикошетят).
+- Разведчики иногда стреляют едкими ракетам.
+- Импульс особых разведчиков распространяется на всё пространство сигнала (инстанса), что означает, что они могут воздействовать на очень удалённые цели.
 
 # Охота на разведчиков
 
-Hunting scouts is a very efficient method to increase combat rank. Due to the 77% resistance to human weapons it is very inefficient to use normal weapons against scouts. Due to the unpredictable nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multicannons as the most effective weapon for hunting scouts.
+Охота на разведчиков – очень эффективный метод повышения боевого ранга. Из-за 77% устойчивости к повреждениям от человеческого оружия, использовать обычное оружие против разведчиков очень неэффективно. Из-за непредсказуемой природы разведчиков мы настоятельно рекомендуем использовать большие турельные AX-многоствольные орудия, как наиболее эффективное оружие для охоты на разведчиков.
 
-These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. Keep in mind that there is a limit of 4 Weapons per vessel.
+Они подходят лучше всего, так как на них не влияет устойчивость к повреждениям 77%, они могут активно держать разведчика в прицеле и очень экономно расходуют боеприпасы. Имейте в виду, что существует ограничение в 4 единицы экспериментального оружия на корабль.
