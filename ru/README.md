@@ -1,7 +1,7 @@
 ---
 title: README
 description:
-published: true
+published: опубликовано
 date: 2021-09-19T07:57:05.988Z
 tags: admin
 editor: markdown
