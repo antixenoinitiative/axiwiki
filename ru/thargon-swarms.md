@@ -1,7 +1,7 @@
 ---
 title: Таргонский рой
 description: Подробное поведение и механика таргонского роя
-published: true
+published: опубликовано
 date: 2021-09-19T11:13:03.841Z
 tags: таргоиды, перехватчики, рой
 editor: markdown
@@ -10,13 +10,13 @@ dateCreated: 2021-06-15T11:56:01.753Z
 
 # Таргонский рой
 
-Каждый таргоидский перехватчик может выпустить и управлять таргонским роем, состоящим из 32, 64, 96 и 128 таргонов для кораблей Циклоп, Василиск, Медуза и Гидра соответственно.
+Каждый таргоидский перехватчик может выпустить и управлять таргонским роем, состоящим из 32, 64, 96 и 128 таргонов для кораблей «Cyclops», «Basilisk», «Medusa» и «Hydra» соответственно.
 
 Во время боя около поверхности планетарного тела перехватчик не выпускают рой.
 
 **Рой имеет 2 метода нанесения урона:**
 
-- **Едкие снаряды**, которые наносят сильный урон щитам и проходят сквозь них, нанося урон корпусу. Против целей без щита эти снаряды очень не точные и Рой промахнется большинством снарядов. Количество тепла не влияет на их точность, но изменение вектора поможет избежать снаряды. Эта атака имеет максимальную дистанцию около 2 км. Несмотря на это название, они не применяют едкое вещество, а скорее наносят едкие повреждения, от которого можно защищаться такими модулями, как усиление корпуса Стражей.
+- **Едкие снаряды**, которые наносят сильный урон щитам и проходят сквозь них, нанося урон корпусу. Против целей без щита эти снаряды очень не точные и рой промахнётся большинством снарядов. Количество выделяемого кораблём тепла не влияет на их точность, но изменение вектора поможет избежать попадания снарядов. Дальность действия роя имеет максимальную дистанцию около 2 км. Несмотря на это название, они не применяют едкое вещество, а скорее наносят едкие повреждения, от которого можно защищаться такими модулями, как усиление корпуса Стражей.
 - **Kamikaze missiles** that kill the Thargon, but inflict massive hull and module damage. The missiles are fast (roughly 600m/s) but short-lived. Against an unshielded target, these will do tremendous damage, but a shielded build with 4 pips to SYS should survive a regular missile volley with relative ease. Without shields these can potentially 1-shot modules even through a Guardian Module Reinforcement Package. These missiles appear to do collision damage, as they do not interrupt synthesis or reboots. This attack triggers within 3km range, and only if the swarm is in missile formation.
 
 If a non-aggressive Interceptor’s personal space is invaded (500m), it will deploy a warning swarm as well as glow red and ‘threaten’ the pilot who got too close. This swarm will not immediately attack, but instead will circle around the Interceptor, ready to engage at a moment’s notice. If the threat backs away, the Interceptor will recall the swarm and continue its previous actions. If it does not, the swarm will detach and the battle begins.
@@ -40,37 +40,37 @@ After some time passes without a heart being destroyed, the Interceptor will ent
 
 # {.tabset}
 ## Формация шара
-![embeddedimage_(1).png](/img/embeddedimage_(1).png) Слева направо: шар Циклопа, шар Медузы
+![embeddedimage_(1).png](/img/embeddedimage_(1).png) Слева направо: шар «Cyclops», шар «Medusa»
 
 This is the Cyclops’ only non-missile formation, and it is also used by the other variants (though more rarely as they prefer their more advanced formations). This formation is easiest to destroy, requiring only a very few well placed shots in the center of the ball.
 
 
 ## Формация кольца
-![embeddedimage_(2).png](/img/embeddedimage_(2).png) Слева направо: кольцо Медузы, кольцо Гидры
+![embeddedimage_(2).png](/img/embeddedimage_(2).png) Слева направо: кольцо «Medusa», кольцо «Hydra»
 
 The dreaded ring formation is the preferred formation with the Medusae and Hydrae. It is significantly more difficult to destroy, with flak shells detonating in the center doing no damage whatsoever. Widely offset flak (such as on the Cutter’s wings) or manually aiming away from the reticle are necessary to deal with this form.
 
 
 ## Формация конуса/спирали
-![embeddedimage_(3).png](/img/embeddedimage_(3).png) Слева направо: конус Василиска, конус Медузы
+![embeddedimage_(3).png](/img/embeddedimage_(3).png) Слева направо: конус «Basilisk», конус «Medusa»
 
 The Cone or Spiral formation is first used by the Basilisk and it is not uncommon with stronger variants. Much like the Ball formation, this one is easy to destroy, with only several shots at the tip of the spiral needed.
 
 
-## Death Wall Formation
-![embeddedimage_(4).png](/img/embeddedimage_(4).png) Left to Right: Cyclops Death Wall, Medusa Death Wall
+## Формация «Стена смерти»
+![embeddedimage_(4).png](/img/embeddedimage_(4).png) Слева направо: Стена смерти «Cyclops», Стена смерти «Medusa»
 
 The Death Wall (Flat Spiral) is the Cyclops’ only missile formation, and it is also used by the other variants (though more rarely as they prefer their more advanced formations)
 
 
-## Death Spiral Formation
-![embeddedimage_(5).png](/img/embeddedimage_(5).png) Left to Right: Basilisk Death Spiral, Hydra Death Spiral
+## Формация «Спираль смерти»
+![embeddedimage_(5).png](/img/embeddedimage_(5).png) Слева направо: Спираль смерти «Basilisk», Спираль Смерти «Hydra»
 
 The Death Spiral is a missile formation first used by the Basilisk, and it is not uncommon with stronger variants. Unlike the regular Cone/Spiral, this formation has a gap at the center so is more difficult to destroy. Flak shells detonating at the center will cause less damage (but still kill at least a few Thargons)
 
 
-## Ring of Death Formation
-![embeddedimage_(6).png](/img/embeddedimage_(6).png) Left to Right: Medusa Ring Of Death, Hydra Ring Of Death
+## Формация «Кольцо смерти»
+![embeddedimage_(6).png](/img/embeddedimage_(6).png) Слева направо: Кольцо Смерти «Medusa», Кольцо Смерти «Hydra»
 
 The Ring of Death is used commonly by the Medusa and Hydra, and attempting to destroy this ring is not recommended. It would cost too much time and ammunition - instead the missiles should be baited and the swarm destroyed in a simpler formation.
 
