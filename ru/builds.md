@@ -214,42 +214,42 @@ Alliance Challenger, родственный корабль более попул
 ## Продвинутые сборки
 Коллекцию более продвинутых сборок можно найти на странице «Продвинутые сборки».
 
-Просмотреть ещё больше сборок кораблей можно посетив наше [Хранилище Сборок Кораблей](/en/buildrepository), а так же полная статистика, рейтинги и ссылки на сборку.
+Посетите наше «[Хранилище сборок кораблей](/en/buildrepository)» – большую коллекцию сборок кораблей, созданных опытными пилотами AXI, где можно найти полную статистику, рейтинги и ссылки на сборки.
 
-# Сборки против Разведчиков
-Охота на разведчиков являлась крайне эффективным методом поднятия боевого ранга. Причина этого в том, что они считались опасными либо смертоносными целями и давали много опыта за убийство. Из-за **77% сопротивления** человеческому оружию неэффективно применять против них обычное вооружение. В силу непредсказуемой траектории полёта разведчиков, мы настоятельно рекомендуем использовать большие турельные многоствольные орудия АИ.
+# Сборки против разведчиков
+Охота на разведчиков – очень эффективный метод повышения боевого ранга. Это связано с тем, что все разведчики считаются целями с рангом «Опасный» или «Смертоносный» и дают много опыта за их уничтожение. Из-за их **77% сопротивления к урону** от человеческого оружия, против них очень неэффективно применять обычное вооружение. Из-за непредсказуемой траектории полёта разведчиков мы настоятельно рекомендуем использовать большие турельные многоствольные орудия АИ, как наиболее эффективное оружие для охоты на разведчиков.
 
-Они лучше всего подходят для этого, так как на них не влияет сопротивление в 77%, они могут почти всегда быть нацелены на разведчиков и очень эффективны по боезапасу. Не забывайте, что количество АИ вооружения ограничено четырьмя штуками на корабль.
+Они лучше всего подходят для этого, так как на них не влияет сопротивление урона в 77%, они могут активно держать на прицеле разведчиков и очень экономно расходуют боеприпасы. Имейте в виду, что существует ограничение на одновременно устанавливаемые 4 единицы экспериментального AX вооружения на один корабль.
 
-## Дополнительные Предложенные Модули
-- **Контроллер Дронов-Очистителей (и грузовые стеллажи)** - При попадании в вас Ракеты с Едким веществом.
-- **Сканер "Инопланетянин" (Необязательно)** - Позволяет видеть здоровье разведчика в %.
-- **Усилители Корпуса** - Разведчики наносят поэтапный урон, который проходит через ваши щиты, вам потребуются мощные щиты И корпус.
+## Предлагаемые дополнительные модули
+- **Контроллер дронов-очистителей (и грузовые стеллажи)** – поможет при попадании в ваш корабль ракеты с едким веществом.
+- **Ксено-сканер (необязательно)** – позволяет видеть текущее состояние корпуса разведчика в %.
+- **Усиление корпуса** – разведчики наносят поэтапный урон, который пробивает щиты, вам потребуются как мощные щиты, так и более прочный корпус.
 
 Охота на разведчиков - довольно простое занятие, поэтому почти любой корабль можно легко переоборудовать для этой цели. Главное правило это….
 
-- Приличный Корпус
-- Мощные Щиты
-- Много Многоствольных орудий АИ
-- Дроны-Очистители
+- Прочный корпус
+- Мощные щиты
+- Много многоствольных орудий АИ
+- Дроны-очистители
 
 И вы готовы к бою!
 
-## Сборки против Разведчиков
+## Сборки против разведчиков
 
 ## Вкладки {.tabset}
 
 ### Сборка Anaconda
 
-[**Сборка Anaconda в Coriolis**](https://coriolis.io/outfit/anaconda?code=A2putpFklndzsxf5x3x3x3x32828252502xs040404040404B05n5n2dy32d2d2d2b03m72G08.AwRj4yuzRI%3D%3D.Aw18ZXEA.H4sIAAAAAAAAA42Tv0tCURTHjz%2FL%2FPH0%2BetpmlaaYBA2BkJTEFHgENVYu0NDgYhDLdEYDU0N%2FgltNTg2NjQ2iLNDQ4SElJ3TOY%2B8kBDcB%2B%2FLge%2Fnnnvved8HOAUA3x6W0TWLv%2BMECJ4FACIHXJkPfoDCwAFADlxXZItl%2BtEHYFQ%2FiBJtg30nJpR%2FwmLUvohi1ogoLr7VdwEsXkaZdGFakQ0hC59E9k6xVpzJLjvkxtUxZDRe2X%2FqEZEHq2rpOYtPls6IzIssBJCoeJwEWKpEuIkXj8a4GS4BrGwOiFLbWbYCuK868QvlGvxe194%2FJfiyCAW1yRDu%2FSG9u%2B9ExlWfT%2F%2FSJbIO3%2FgKhna7MBaFdAklg7OvkLFHaOKGanIrI5KlZuWUm8hnyb2EGIrqQDEdKK4DJXSgpA5k4Y6C6ixOSZH3zs3xXONpRHoscSELHU4vpXBrPKfRBYujzaG0Q2U9s1%2FKS%2FKGQ559WpucxbI6wo38F%2FdchvIZ3l0qUyJdkIqy2uTcJFlXZF2RUlFOm8xPkk1FNhUpFRH8%2B%2FwAJZhA2wUEAAA%3D.EweloBhBmUEYBsICmBDA5gG2SEcIEhTFA%3D%3D%3D&bn=AX%20Conda)
-- Может вместить все 4х АИ Многоствольных орудия
-- Имеет хорошие углы для Турельных АИ Многоствольных орудий
-- Может быть оборудована мощными щитами и усилителями щитов для фарма без напряжения
+[**Сборка Anaconda на Coriolis**](https://coriolis.io/outfit/anaconda?code=A2putpFklndzsxf5x3x3x3x32828252502xs040404040404B05n5n2dy32d2d2d2b03m72G08.AwRj4yuzRI%3D%3D.Aw18ZXEA.H4sIAAAAAAAAA42Tv0tCURTHjz%2FL%2FPH0%2BetpmlaaYBA2BkJTEFHgENVYu0NDgYhDLdEYDU0N%2FgltNTg2NjQ2iLNDQ4SElJ3TOY%2B8kBDcB%2B%2FLge%2Fnnnvved8HOAUA3x6W0TWLv%2BMECJ4FACIHXJkPfoDCwAFADlxXZItl%2BtEHYFQ%2FiBJtg30nJpR%2FwmLUvohi1ogoLr7VdwEsXkaZdGFakQ0hC59E9k6xVpzJLjvkxtUxZDRe2X%2FqEZEHq2rpOYtPls6IzIssBJCoeJwEWKpEuIkXj8a4GS4BrGwOiFLbWbYCuK868QvlGvxe194%2FJfiyCAW1yRDu%2FSG9u%2B9ExlWfT%2F%2FSJbIO3%2FgKhna7MBaFdAklg7OvkLFHaOKGanIrI5KlZuWUm8hnyb2EGIrqQDEdKK4DJXSgpA5k4Y6C6ixOSZH3zs3xXONpRHoscSELHU4vpXBrPKfRBYujzaG0Q2U9s1%2FKS%2FKGQ559WpucxbI6wo38F%2FdchvIZ3l0qUyJdkIqy2uTcJFlXZF2RUlFOm8xPkk1FNhUpFRH8%2B%2FwAJZhA2wUEAAA%3D.EweloBhBmUEYBsICmBDA5gG2SEcIEhTFA%3D%3D%3D&bn=AX%20Conda)
+- Может вместить все 4 штуки многоствольных орудия АИ
+- Имеет хорошие углы для турельных многоствольных орудий АИ
+- Может быть оснащён большими щитами и усилителями щитов не беспокоясь о поиске материалов на его улучшение
 
-### Сборка на Krait Mk.II
+### Сборка Krait Mk.II
 
-[**Сборка Krait Mk.II в Coriolis**](https://coriolis.io/outfit/krait_mkii?code=A2pptkFflfdussf5x3x3x3x10sxs040404B12d2dy303292H2G08.Iw18eQ%3D%3D.IwBj4yoo.H4sIAAAAAAAAA43Rv0vDcBAF8Nc0rdbGpkmb0oq%2FjQodio5d3AQHhW466iodFRwUdHMu4uTgn%2BAg6NBROjs6iIiTo0MnrXfeFT2wUzM8Htwn%2BSYX0AiA75REryWRbTvA%2BKkHBDvSwvssEHcTACdozeSJxGjji9l%2FrQGlG1fkozyIHSoZOpDwFRXLPebo2gfK70lg4bwgMkkTJo9Uxp%2FM%2FeOKx5HIZ5mwS6uKXJ3vfsj89o2ZU1S3W88kMh4xj10EwJy2eW2L2pa0cZr2%2FniYXwZqG13myuaUjDzatidNS1Qb%2BP3m%2FvkV5ZyjdUNX%2BiY6ClcOBT1kgJmnnCB%2FGJQfBgW0ZWhfwtHtpXXF2bpsL3iRiFTGbd14SFXjl%2FoD76TmZidFagt17bE2LgzKpsmmSW1cGpQdkx2T2pjx%2F%2FoBomHYA08CAAA%3D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%3D%3D&bn=AX%20Krait)
-- Может вместить 3 многоствольных орудий АИ в большие гнёзда и одно в среднее
-- Кроме того может вместить 2 Многоствольных орудия АИ в большие гнёзда и 2 Гаусса Стражей в средние гнёзда (позволяет тренироваться в прицеливании из орудий Гаусса и становится более эффективным как только пользователь освоит орудия Гаусса)
-- Большая мобильность для поддержания целей в зоне досягаемости.
-- Мобильность позволяет использовать Двухпоточные щиты, отключая их для восстановления.
+[**Сборка Krait Mk.II на Coriolis**](https://coriolis.io/outfit/krait_mkii?code=A2pptkFflfdussf5x3x3x3x10sxs040404B12d2dy303292H2G08.Iw18eQ%3D%3D.IwBj4yoo.H4sIAAAAAAAAA43Rv0vDcBAF8Nc0rdbGpkmb0oq%2FjQodio5d3AQHhW466iodFRwUdHMu4uTgn%2BAg6NBROjs6iIiTo0MnrXfeFT2wUzM8Htwn%2BSYX0AiA75REryWRbTvA%2BKkHBDvSwvssEHcTACdozeSJxGjji9l%2FrQGlG1fkozyIHSoZOpDwFRXLPebo2gfK70lg4bwgMkkTJo9Uxp%2FM%2FeOKx5HIZ5mwS6uKXJ3vfsj89o2ZU1S3W88kMh4xj10EwJy2eW2L2pa0cZr2%2FniYXwZqG13myuaUjDzatidNS1Qb%2BP3m%2FvkV5ZyjdUNX%2BiY6ClcOBT1kgJmnnCB%2FGJQfBgW0ZWhfwtHtpXXF2bpsL3iRiFTGbd14SFXjl%2FoD76TmZidFagt17bE2LgzKpsmmSW1cGpQdkx2T2pjx%2F%2FoBomHYA08CAAA%3D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%3D%3D&bn=AX%20Krait)
+- Может вместить 3 многоствольных орудия АИ в большие гнёзда и одно в среднее
+- Кроме того может вместить 2 многоствольных орудия АИ в большие гнёзда и 2 пушки Гаусса Стражей в средние гнёзда (позволяет тренироваться в прицеливании из пушек Гаусса и становится более эффективным как только пользователь освоит пушки Гаусса Стражей)
+- Высокая мобильность, позволяющая держать цели в зоне досягаемости или уходить от них.
+- Мобильность позволяет использовать двухпоточные щиты, отключая их для восстановления.
