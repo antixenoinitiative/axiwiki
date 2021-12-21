@@ -1,9 +1,9 @@
 ---
-title: Thargoids
-description: About Thargoids
-published: true
+title: Таргоиды
+description: О таргоидах
+published: опубликовано
 date: 2021-06-23T12:18:32.409Z
-tags: thargoids, interceptors, scouts
+tags: таргоиды, перехватчики, рой
 editor: markdown
 dateCreated: 2021-06-15T10:10:09.264Z
 ---
@@ -22,16 +22,16 @@ dateCreated: 2021-06-15T10:10:09.264Z
 [**Узнайте больше о таргоидах на сайте Canonn Research**](https://canonn.science/codex/xeno-technology/)
 
 ## Корабли таргоидов
-Таргоидские [**перехватчики **](/en/interceptors) в игре присутствуют в четырёх типах: Cyclops, Basilisk, Medusa и Hydra, по возрастанию уровня сложности. Each next variant has more [**hearts**](/en/hearts) and is tougher than the last, requiring far more damage to exert and destroy hearts.
+Таргоидские [**перехватчики **](/en/interceptors) в игре присутствуют в четырёх типах: Cyclops, Basilisk, Medusa и Hydra, по возрастанию уровня сложности. У каждого последующего типа присутствует больше «[**сердец**](/en/hearts)», которые более крепкие, чем у предыдущего типа, а для их уничтожения требуется нанести гораздо больше урона, чем для предыдущего типа.
 
-Thargoid [**Scouts**](/en/scouts) are a smaller variant of the Thargoid interceptor, they come in multiple types with different special abilities. Read more about these in the Thargoid [**Scouts**](/en/scouts) section.
+Таргоидские [**разведчики**](/en/scouts) – это уменьшенный вариант таргоидских перехватчиков, они бывают нескольких типов, которые различаются по особым навыкам. Подробнее о них читайте в разделе таргоидские «[**Разведчики**](/en/scouts)».
 
-Interceptors are incredibly tough and typically are best suited to wing combat as soloing them is a huge achievement. Interceptors use very high damage output weapons, crowd-control style special abilities and independent [**drones**](/en/thargon-swarms) to wreak havoc on the battlefield.
+Перехватчики невероятно выносливы и, как правило, лучше всего подходят для боя в крыле, поскольку справиться с ними в одиночку – огромное достижение. Перехватчики используют оружие с очень высоким уровнем урона, специальные способности в стиле контроля толпы и автономные [**дроны**](/en/thargon-swarms), чтобы сеять хаос на поле боя.
 
-Attempting to fight a Thargoid without the appropriate weaponry and defenses is nigh-impossible, Thargoid Interceptors have incredibly strong armour and fast regeneration capabilities, this makes conventional weapons (such as Multi-cannons, Missiles, Plasma Accelerators, Lasers) completely ineffective at damaging them.
+Попытка вступить в бой с таргоидом без соответствующего оружия и защиты практически невозможна. У перехватчиков таргоидов невероятно прочная броня и быстрое восстановление, что делает обычное оружие (такое как многоствольные пушки, ракеты, плазменные ускорители, лазеры) совершенно неэффективным для нанесения им повреждений.
 
-Thankfully humanity has not only developed their own line of AX (Anti-Xeno) weaponry, but they have also adapted the ancient Guardian technology into very powerful hybrid weapons and modules that are far more effective at destroying Thargoid vessels.
+К счастью, человечество не только разработало собственную серию AX-оружия (Anti-Xeno), но и адаптировало древнюю технологию Стражей в очень мощное гибридное оружие и модули, которые гораздо эффективнее уничтожают корабли таргоидов.
 
-[**Read more about Interceptors**](/en/interceptors)
+[**Подробнее о перехватчиках**](/en/interceptors)
 
-[**Read more about Scouts**](/en/scouts)
+[**Подробнее о разведчиках**](/en/scouts)
