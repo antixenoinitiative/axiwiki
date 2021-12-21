@@ -13,15 +13,15 @@ dateCreated: 2021-06-15T10:10:09.264Z
 
 *Первая зафиксированная встреча с кораблём таргоидов произошла в 2849 году, хотя считается, что ранее имели место незадокументированные встречи. В последующие годы периодически поступали сообщения о контактах с одинокими кораблями таргоидов.*
 
-*Человечество столкнулось с таргоидами в 32 веке, но подробности конфликта оставались скудными в течение многих лет, и оказалось трудно отличить подлинные рассказы о столкновениях с таргоидами от сенсационных материалов СМИ того времени.*
+*Человечество столкнулось с таргоидами в XXXII веке, но подробности конфликта оставались скудными в течение многих лет, и оказалось трудно отличить подлинные рассказы о столкновениях с таргоидами от сенсационных материалов СМИ того времени.*
 
 *Вступление из Кодекса в Elite Dangerous*
 
 [**Узнайте больше о таргоидах на официальной вики**](https://elite-dangerous.fandom.com/wiki/Thargoid)
 
-[**Read about Thargoids on the Canonn Research Website**](https://canonn.science/codex/xeno-technology/)
+[**Узнайте больше о таргоидах на сайте Canonn Research**](https://canonn.science/codex/xeno-technology/)
 
-## Thargoid Vessels
+## Корабли таргоидов
 Thargoid [**Interceptors**](/en/interceptors) come in four variants: Cyclops, Basilisk, Medusa and Hydra, in ascending level of difficulty. Each next variant has more [**hearts**](/en/hearts) and is tougher than the last, requiring far more damage to exert and destroy hearts.
 
 Thargoid [**Scouts**](/en/scouts) are a smaller variant of the Thargoid interceptor, they come in multiple types with different special abilities. Read more about these in the Thargoid [**Scouts**](/en/scouts) section.
