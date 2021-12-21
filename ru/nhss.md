@@ -1,19 +1,19 @@
 ---
-title: Non-Human Signal Sources
-description: About Non-Human Signal Sources and Finding Thargoids
-published: true
+title: Нечеловеческие источники сигнала
+description: О нечеловеческих источниках сигнала и о поиске таргоидов
+published: опубликовано
 date: 2021-08-25T23:17:11.754Z
-tags: thargoids, interceptors, scouts
+tags: таргоиды, перехватчики, разведчики
 editor: markdown
 dateCreated: 2021-06-15T10:51:53.374Z
 ---
 
-# Non-Human Signal Sources
-Non-Human Signal Sources are a special type of signal source that can be found in areas of Thargoid activity, Upon finding and entering a NHSS there is a chance you will get one of three outcomes:
+# Нечеловеческие источники сигнала
+Нечеловеческие источники сигналов (НчИС) — это особый тип источников сигналов, которые можно найти в зонах активности таргоидов. При обнаружении и входе в НчИС есть вероятность получить один из трёх вариантов:
 
-- A single Thargoid Interceptor (Cyclops, Basilisk, Medusa or Hydra)
-- A swarm of scouts + a Thargoid Interceptor (Hostile)
-- A swarm of scouts (Lower NHSS)
+- Одиночный таргоидский перехватчик (Cyclops, Basilisk, Medusa или Hydra)
+- Группа разведчиков + таргоидский перехватчик (настроен враждебно)
+- Группа разведчиков (НчИС)
 
 If you get option 2, the Thargoid Interceptor will emit an EMP pulse when it arrives and it will be immediately hostile
 
@@ -31,10 +31,10 @@ The Anti-Xeno Initiative recommends Asterope in the Pleiades Nebula as one of th
 - Most of the NHSS spawn around the main star and the single station orbiting that star.
 - There are no other planetary bodies or gravity wells to slow you down.
 
-## Threat Level
+## Уровень угрозы
 Depending on the Threat Level of the NHSS you will find different types of Interceptors or more Scouts. Understanding this is key to finding the Thargoids you’re after for solo attempts.
 
-Threat Levels:
+Уровни угрозы:
 
 - **[Threat 2]** - 1x Thargoid Probe
 - **[Threat 3]** - 2x Scouts
