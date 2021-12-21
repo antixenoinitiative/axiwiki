@@ -22,7 +22,7 @@ dateCreated: 2021-06-15T10:10:09.264Z
 [**Узнайте больше о таргоидах на сайте Canonn Research**](https://canonn.science/codex/xeno-technology/)
 
 ## Корабли таргоидов
-Thargoid [**Interceptors**](/en/interceptors) come in four variants: Cyclops, Basilisk, Medusa and Hydra, in ascending level of difficulty. Each next variant has more [**hearts**](/en/hearts) and is tougher than the last, requiring far more damage to exert and destroy hearts.
+Таргоидские [**перехватчики **](/en/interceptors) в игре присутствуют в четырёх типах: Cyclops, Basilisk, Medusa и Hydra, по возрастанию уровня сложности. Each next variant has more [**hearts**](/en/hearts) and is tougher than the last, requiring far more damage to exert and destroy hearts.
 
 Thargoid [**Scouts**](/en/scouts) are a smaller variant of the Thargoid interceptor, they come in multiple types with different special abilities. Read more about these in the Thargoid [**Scouts**](/en/scouts) section.
 
