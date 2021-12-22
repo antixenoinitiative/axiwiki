@@ -15,9 +15,9 @@ dateCreated: 2021-06-15T10:51:53.374Z
 - Группа разведчиков + таргоидский перехватчик (настроен враждебно)
 - Группа разведчиков (НчИС)
 
-If you get option 2, the Thargoid Interceptor will emit an EMP pulse when it arrives and it will be immediately hostile
+Если вам попадётся вариант 2, где появляется перехватчик таргоидов, который при своём появлении испускает импульс ЭМИ, и сразу же становится враждебным
 
-A NHSS can only be seen while in supercruise. Since they will often appear in bulk, to easily scan them all drop onto the Nav Beacon and scan it. Once you jump into supercruise all NHSS will be unveiled.
+НчИС можно увидеть только в гиперкрейсерском режиме. Поскольку они часто появляются в большом количестве, лёгкий способ просканировать их все сразу – посетить навигационный маяк и просканировать его. Once you jump into supercruise all NHSS will be unveiled.
 
 NHSS are dynamic and will appear and disappear over time, lasting anywhere up to 30 minutes each.
 
