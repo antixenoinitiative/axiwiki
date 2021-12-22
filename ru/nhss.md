@@ -9,11 +9,11 @@ dateCreated: 2021-06-15T10:51:53.374Z
 ---
 
 # Нечеловеческие источники сигнала
-Нечеловеческие источники сигналов (НчИС) — это особый тип источников сигналов, которые можно найти в зонах активности таргоидов. При обнаружении и входе в НчИС есть вероятность получить один из трёх вариантов:
+Нечеловеческие источники сигналов (НчИС) — это особый тип источников сигналов, которые можно найти в зонах активности таргоидов. При обнаружении и входе в НчИС есть вероятность встретить один из трёх вариантов:
 
 - Одиночный таргоидский перехватчик (Cyclops, Basilisk, Medusa или Hydra)
 - Группа разведчиков + таргоидский перехватчик (настроен враждебно)
-- Группа разведчиков (НчИС)
+- Группа разведчиков (НчИС с низким уровнем угрозы)
 
 Если вам попадётся вариант 2, где появляется перехватчик таргоидов, который при своём появлении испускает импульс ЭМИ, и сразу же становится враждебным
 
@@ -21,41 +21,41 @@ dateCreated: 2021-06-15T10:51:53.374Z
 
 НчИС динамические, они появляются и исчезают с течением времени, их продолжительность жизни может достигать 30 минут.
 
-In some rare cases (Threat 5-8 only) you will have an empty instance with only damaged ships, in these instances there is a chance you may find a Thargoid Probe or a Thargoid Sensor.
+В некоторых редких случаях (только для НчИС с ур. угрозы 5–8) у вас будет пустой инстанс (сигнал) с повреждёнными кораблями, в таких случаях существует шанс найти в них таргоидский зонд или таргоидский датчик.
 
-See this investigation into NHSS spawn rates and possible instances: [NHSS Spawn Analysis](https://docs.google.com/spreadsheets/d/e/2PACX-1vRbZ2vWwaUPZlSx9Olg8o8Ml0xGVXQ8Ks7wtYycWfXymCZjn30tvP76fc5ACM1mx_O0ZvYBqI6VW3sa/pubhtml)
+См. данное исследование о количестве появления НчИС и возможных случаях: [NHSS Spawn Analysis (Анализ появления НчИС)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRbZ2vWwaUPZlSx9Olg8o8Ml0xGVXQ8Ks7wtYycWfXymCZjn30tvP76fc5ACM1mx_O0ZvYBqI6VW3sa/pubhtml)
 
-The Anti-Xeno Initiative recommends Asterope in the Pleiades Nebula as one of the best Thargoid hunting systems in the game.
+Anti-Xeno Initiative рекомендует систему Asterope в туманности Плеяды (Pleiades Nebula) как одну из лучших систем для охоты на таргоидов в игре.
 
-- The system always has a large number of NHSS.
-- Most of the NHSS spawn around the main star and the single station orbiting that star.
-- There are no other planetary bodies or gravity wells to slow you down.
+- В системе всегда присутствует большое количество НчИС.
+- Большинство НчИС появляются около главной звезды и единственной станции, находящейся на орбите этой звезды.
+- В этой системе нет других планетарных тел или гравитационных колодцев, которые могли бы замедлить ваше движение.
 
 ## Уровень угрозы
-Depending on the Threat Level of the NHSS you will find different types of Interceptors or more Scouts. Understanding this is key to finding the Thargoids you’re after for solo attempts.
+В зависимости от уровня угрозы, внутри НчИС можно найти различные типы перехватчиков или большее количество разведчиков. Понимание того, что может находиться в НчИС — главное условие для поиска таргоидов, которое требуются вам для выполнения самостоятельных операций по уничтожению таргоидов.
 
 Уровни угрозы:
 
-- **[Threat 2]** - 1x Thargoid Probe
-- **[Threat 3]** - 2x Scouts
-- **[Threat 4]** - 4-7x Scouts OR 1-2x Human Ships + 4-7x Scouts (Typically 4 Scouts)
-- **[Threat 5]** - 1x Cyclops OR 4-8x Scouts
-- **[Threat 6]** - 1x Basilisk OR 1x Cyclops + 4x Scouts
-- **[Threat 7]** - 1x Medusa OR 1x Basilisk + 4x Scouts
-- **[Threat 8]** - 1x Hydra* OR 1x Medusa + 4x Scouts
-- **[Threat 9]** - 1x Hydra + 4x Scouts
+- **[Ур.угрозы 2]** — 1x Таргоидский зонд
+- **[Ур.угрозы 3]** — 2x разведчики
+- **[Ур.угрозы 4]** — 4—7x разведчики ИЛИ 1—2x корабли людей + 4—7x разведчики (обычно 4 разведчика)
+- **[Ур.угрозы 5]** — 1x Cyclops ИЛИ 4—8x разведчики
+- **[Ур.угрозы 6]** — 1x Basilisk ИЛИ 1x Cyclops + 4x разведчики
+- **[Ур.угрозы 7]** — 1x Medusa ИЛИ 1x Basilisk + 4x разведчики
+- **[Ур.угрозы 8]** — 1x Hydra* ИЛИ 1x Medusa + 4x разведчики
+- **[Ур.угрозы 9]** — 1x Hydra + 4x разведчики
 
-> Lone Hydras can only currently be found in the Coalsack Nebula. Every Threat 8 in the Pleiades Nebula or the Witch Head Nebula will contain 1x Medusa + 4x Scouts. **With one exception**: The system Pleiades Sector MI-S B4-0 contains Solo Hydras, present in both regular and guaranteed Threat 8 signal sources 
+> В настоящее время одиночные перехватчики типа «Hydra» можно найти только в туманности Угольный Мешок. Каждый сигнал с уровнем угрозы 8 в туманности Плеяды (Pleiades Nebula) или в туманности Голова Ведьмы (Witch Head Nebula) будет содержать 1х Medusa + 4х разведчиков. **За одним исключением**: В системе Pleiades Sector MI-S B4-0 НчИС содержит одиночные перехватчики типа «Hydra», присутствующий как в обычных, так и гарантированно в источниках сигнала с уровнем угрозы 8 
 > 
 > {.is-info}
 
-## Guaranteed Interceptor Signals
-If a NHSS has a **Salvage** icon next to it in the navigation panel, you will ALWAYS get a solo Interceptor based of the list above. For example, here is a guaranteed **Basilisk** signal source. Additionally, this instance is slightly different, as it only includes small debris and no green cloud. ![nhss.png](/img/nhss.png) Note: The small canister symbol on the left.
+## Сигналы, в которых гарантированно можно встретить перехватчики
+Если на панели навигации рядом с НчИС стоит иконка «**Спасти**» (неправильный перевод – это подбираемый груз), вы ВСЕГДА встретите одиночный перехватчик, исходя из приведённого выше списка. Например, вот гарантированно можно встретит в источнике сигнала перехватчик типа «**Basilisk**». Кроме того, этот сигнал немного отличается, так как в нём присутствуют только мелкие обломки и отсутствует зелёное облако. ![nhss.png](/img/nhss.png) Обратите внимание на символ маленькой канистры слева.
 
-## Full-Spectrum Scanner
-The FSS can also be used to identify the contents of a NHSS instance, read more [here](https://wiki.antixenoinitiative.com/en/nhssviafss).
+## Полное сканирование системы (FSS)
+FSS также может использоваться для обнаружения содержимого сигнала НчИС, подробности можно узнать [здесь](https://wiki.antixenoinitiative.com/en/nhssviafss).
 
 !\[signalsourcesboth.png\](/signalsourcesboth.png =600x)
 
-## NHSS Spawn Table
+## Таблица появления НчИС
 ![nhsstable.png](/img/nhsstable.png)
