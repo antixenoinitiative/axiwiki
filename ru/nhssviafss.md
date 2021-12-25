@@ -12,28 +12,28 @@ dateCreated: 2021-08-03T12:11:12.142Z
 
 Ведущие исследователи: CMDR Mechan, CMDR Xarionn
 
-The NHSS spectrum can be divided in 3 categories, left | middle | right :
+Спектр НчИС можно разделить на 3 категории: левый | средний | правый:
 
 ![signalsourcesboth.png](/signalsourcesboth.png)
 
-- Signals showing up on the left side of the spectrum will always contain scouts or scouts + interceptor.
-- Signals showing up on the middle of the spectrum will contain everything, scouts, scouts + interceptor, interceptor…
-- Signals showing up on the right side of the spectrum will always contain interceptor or empty instances.
+- Сигналы, появляющиеся в левой части спектра, всегда будут содержать разведчиков или разведчиков + перехватчик.
+- Сигналы, появляющиеся в середине спектра, будут содержать все возможные типы, разведчики, разведчики + перехватчик, перехватчик…
+- Сигналы, появляющиеся в правой части спектра, всегда будут содержать перехватчиков или это могут быть пустые сигналы.
 
-By using this technique, it is possible to predict and map all NHSS showing up on the FSS, here is an example :
+Используя эту технику, можно появляющиеся и отображаемые на карте FSS все НчИС, вот пример:
 
-- Left side of the spectrum:
+- Левая часть спектра:
 
 ![Left.png](https://media.discordapp.net/attachments/854844543823642674/872095282656071690/Left.jpg?width=1290&height=726)
 
-- Right side of the spectrum
+- Правая часть спектра
 
 ![Right.png](https://media.discordapp.net/attachments/854844543823642674/872095289354367066/Right.jpg?width=1290&height=726)
 
-- Middle of the spectrum
+- Средняя часть спектра
 
 ![Middle.png](https://media.discordapp.net/attachments/854844543823642674/872095297478725712/Middle.jpg?width=1290&height=726)
 
-Review the Data here: [Xarionn’s spreadsheet](https://docs.google.com/spreadsheets/d/14Ik0S1fV8FHJR5iJQpiSbJ1t_yntRJVBB6axeL3XErk/edit#gid=0)
+Обзор данных можно посмотреть здесь: [Xarionn’s spreadsheet](https://docs.google.com/spreadsheets/d/14Ik0S1fV8FHJR5iJQpiSbJ1t_yntRJVBB6axeL3XErk/edit#gid=0)
 
-Image Credit to CMDR Orlandu
+За предоставленные изображения спасибо CMDR Orlandu
