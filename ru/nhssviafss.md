@@ -1,16 +1,16 @@
 ---
-title: Predicting NHSS content via FSS tuning
-description: It is possible to predict and map all NHSS showing up on the FSS
-published: true
+title: Прогнозирование содержания НчИС с помощью настройки FSS
+description: Как прогнозировать появляющиеся и отображаемые на карте FSS все НчИС
+published: опубликовано
 date: 2021-08-03T13:32:41.413Z
-tags: nhss
+tags: nhss, нчис
 editor: markdown
 dateCreated: 2021-08-03T12:11:12.142Z
 ---
 
-# Predicting NHSS content via FSS tuning
+# Прогнозирование содержания НчИСс помощью настройки FSS
 
-Lead Researchers: CMDR Mechan, CMDR Xarionn
+Ведущие исследователи: CMDR Mechan, CMDR Xarionn
 
 The NHSS spectrum can be divided in 3 categories, left | middle | right :
 
