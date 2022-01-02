@@ -81,13 +81,13 @@ dateCreated: 2021-06-10T01:08:57.783Z
 
 ## Распределитель питания
 
-**The Meta:** A-rated in the largest size available with Charge Enhanced blueprint and Super Conduits experimental. Gauss Cannons have extreme distributor draw, so having the maximum possible WEP capacitor regen is essential. The capacity loss of these modifications is also not a problem, since most ships can fire two of their gauss cannons at a time without spiking over 20% heat.
+**Базовая сборка:** Рейтинг «A» в самом большом доступном размере с модификацией «Быстрозаряжающийся распределитель питания» и экспериментальным эффектом «Сверхпроводники». Пушки Гаусса потребляют очень много энергии, поэтому наличие максимально возможного восстановления ёмкости распределителя питания на ОРУ/WEP очень важно. Потеря мощности при установленных этих модификациях также не является проблемой, поскольку большинство кораблей могут одновременно стрелять из двух пушек Гаусса без превышения порога нагрева 20%.
 
-**Alternative:** Weapon Focused blueprint. Increased WEP capacitor size at the cost of boost frequency. Some ships require this modification to keep their heat below the threshold required for proper cold orbiting.
+**Альтернативный вариант:** Чертёж «Распределитель питания на орудия». Увеличение размера ячеек распределителя питания ОРУ/WEP за счёт увеличения времени зарядки. Некоторые корабли требуют применения такой модификации, чтобы сохранять тепловыделение ниже порога, необходимого для правильного применения тактики «холодной орбиты».
 
 ## Сенсоры
 
-**The Meta:** D-rated with Long Range experimental. Thargoids always emit a signal that can be detected at the maximum sensor range, meaning that A-rated sensors provide no benefits to D-rated, but weigh more and cost more power.
+**Базовая сборка:** Рейтинг «D» с модификацией «Сканер дальнего действия». Таргоиды всегда излучают сигнал, который может быть обнаружен при максимальном радиусе действия сенсоров, а это значит, что сенсоры класса «A» не дают никаких преимуществ перед сенсорами класса «D», но весят больше и потребляют больше энергии.
 
 **Альтернативы:** Нет ни одного варианта.
 
