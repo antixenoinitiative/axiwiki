@@ -63,19 +63,19 @@ dateCreated: 2021-06-10T01:08:57.783Z
 
 ## Маневровые двигатели
 
-**The Meta:** A-rated in the largest size available with Dirty Tuning blueprint and Drag Drives experimental. Although the thermal load increase may seem like a problem, in practice the performance of dirty drag drives far exceeds any alternative.
+**Базовая сборка:** Рейтинг «A» в самом большом размере с применённым чертежом «„Грязная“ донастройка двигателя» и экспериментальным эффектом «Ускорители». Хотя увеличение тепловой нагрузки может показаться проблемой, на практике «„Грязная“ донастройка двигателя» значительно превосходит любой альтернативный вариант.
 
-**Alternative:** Drive Distributors experimental - only for use on small ships utilizing Enhanced Performance Thrusters (EPTs)
+**Альтернативный вариант:** Экспериментальный эффект «Распределители тяги» — только для использования на малых кораблях, использующих маневровые двигатели с улучшенными характеристиками (Enhanced Performance Thrusters — EPT)
 
 ## Frame Shift Drive
 
-**The Meta:**  A-rated in the largest size available with Increased Range blueprint and Mass Manager experimental. Thargoids are often found in "bubbles" of space, so being able to move around in a small range is required for AX combat.
+**Базовая сборка:** Рейтинг «A» в самом большом размере с применённым чертежом «Увеличенная дальность FSD» и экспериментальным эффектом «Распределитель гравитации». Таргоиды часто встречаются в "пузырях" пространства, поэтому способность перемещаться в небольшом радиусе действия необходима для боя АХ.
 
-**Alternative:** 2D FSD with grade one fast boot and Stripped Down experimental - provides a small speed boost at the cost of being unable to jump your ship any meaningful distance.
+**Альтернативный вариант:** 2D FSD с модификацией «Последовательность быстрого запуска FSD» первого класса и экспериментальным эффектом «Урезанный вариант» — даёт небольшой прирост скорости за счёт невозможности совершить прыжок на корабле на значительное расстояние.
 
 ## Система жизнеобеспечения
 
-**The Meta:** D-rated with Lightweight blueprint. D-rated has the lowest power draw and weight, and still has a long enough timer for repeated oxygen synths if your canopy blows.
+**Базовая сборка:** Рейтинг «D» с модификацией «Облегчённое прочее». D-rated has the lowest power draw and weight, and still has a long enough timer for repeated oxygen synths if your canopy blows.
 
 **Alternative:** A-rated allowing for longer time between required synthing.
 
@@ -91,7 +91,7 @@ dateCreated: 2021-06-10T01:08:57.783Z
 
 **Альтернативы:** Нет ни одного варианта.
 
-# Optional Internals
+# Дополнительное оборудование
 
 The optional internal loadout is where the main differences lie between build styles, and can even vary from Commander to Commander. Below are the three general loadouts of the three build types. For more information on the uses of each optional internal, refer to the [Core and Optional Internals](/en/internals) page.
 
@@ -117,12 +117,12 @@ The optional internal loadout is where the main differences lie between build st
 - AFMU, size depending on preference
 - HRPs in the rest of the slots
 
-# Utility Slots
+# Внешнее оборудование
 
-## Heatsink Launchers
+## Теплоотводная катапульта
 Essential for Cold Oribing vessels to dissipate the heat generation of gauss cannons. Most if not all utility slots will be filled with these on Cold Orbiter and Bi-weave hybrid builds. Engineering them with the Ammo Capacity blueprint gives one extra heatsink per launcher.
 
-## Shield Boosters
+## Усилитель щита
 Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
 
 ## Другие модули
