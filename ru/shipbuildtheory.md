@@ -93,21 +93,21 @@ dateCreated: 2021-06-10T01:08:57.783Z
 
 # Дополнительное оборудование
 
-The optional internal loadout is where the main differences lie between build styles, and can even vary from Commander to Commander. Ниже приведены три основных варианта снаряжения для трёх типов сборок. For more information on the uses of each optional internal, refer to the [Core and Optional Internals](/en/internals) page.
+Необязательные внутренние модули — это то, в чём заключаются основные различия между стилями сборки, и даже может меняться от собственных вариантов сборок разных командиров. Ниже приведены три основных варианта снаряжения для трёх типов сборок. Более подробную информацию о применении каждого дополнительного внутреннего модуля можно найти на странице [Основные и дополнительные внутренние модули](/en/internals).
 
 
 ## Холодные сборки
-- Largest possible D-rated repair limpet controller and 16t or 64t cargo rack
-- One class four or five GMRP and two smaller MRPs
-- 2A AFMU
-- HRPs in the rest of the internal slots
+- Самый большой контроллер дронов-ремонтников класса «D» и грузовой стеллаж на 16т или 64т
+- Один набор для усиления модуля Стражей класса четыре-пять и два меньших метасплавных усилителей корпуса
+- 2A БАПР
+- Наборы для усиления корпуса в остальных внутренних слотах
 
 ## Гибридные сборки с двухпоточным щитогенератором
-- Largest possible Bi-Weave Shield with Reinforce blueprint and either Fast Charge or Lo-Draw experimental.
-- 1A AFMU
-- One or two GMRPs or MRPs
-- HRPs in the rest of the slots
-- GSRP as per personal preference
+- Самый большой из возможных двухпоточных щитогенераторов с чертежом «Усиленные щиты» и одним из экспериментальных эффектов «Быстрый заряд» или «Пониженное потребление».
+- 1A БАПР
+- Один или два набора для усиления модуля Стражей или метасплавных усилителей корпуса
+- Наборы для усиления корпуса в остальных слотах
+- Набор для усиления модуля Стражей в соответствии с личными предпочтениями
 
 ## Бронированные корабли со щитами
 - Largest possible Prismatic Shield with Reinforced blueprint and Hi-Capacity experimental
