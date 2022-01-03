@@ -93,7 +93,7 @@ dateCreated: 2021-06-10T01:08:57.783Z
 
 # Дополнительное оборудование
 
-The optional internal loadout is where the main differences lie between build styles, and can even vary from Commander to Commander. Below are the three general loadouts of the three build types. For more information on the uses of each optional internal, refer to the [Core and Optional Internals](/en/internals) page.
+The optional internal loadout is where the main differences lie between build styles, and can even vary from Commander to Commander. Ниже приведены три основных варианта снаряжения для трёх типов сборок. For more information on the uses of each optional internal, refer to the [Core and Optional Internals](/en/internals) page.
 
 
 ## Холодные сборки
