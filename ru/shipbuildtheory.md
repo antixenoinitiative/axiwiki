@@ -110,10 +110,10 @@ dateCreated: 2021-06-10T01:08:57.783Z
 - Набор для усиления модуля Стражей в соответствии с личными предпочтениями
 
 ## Бронированные корабли со щитами
-- Largest possible Prismatic Shield with Reinforced blueprint and Hi-Capacity experimental
-- Large Shield Cell Banks with Specialized blueprint and Boss Cells experimental
-- One or two GMRPs or MRPs
-- Decontamination Limpet Controller if preferred
+- Самый большой из возможных призматических щитов с чертежом «Усиленное прочее» и экспериментальным эффектом «Высокая ёмкость»
+- Большой щитонакопитель со чертежом «Адаптивный щитонакопитель» и экспериментальным эффектом «Босс-ячейки»
+- Один из двух наборов: для усиления модуля Стражей или для усиления модуля
+- При желании также можно установить контроллер дронов-очистителей
 - AFMU, size depending on preference
 - HRPs in the rest of the slots
 
