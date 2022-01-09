@@ -120,7 +120,7 @@ dateCreated: 2021-06-10T01:08:57.783Z
 # Внешнее оборудование
 
 ## Теплоотводная катапульта
-Essential for Cold Oribing vessels to dissipate the heat generation of gauss cannons. Most if not all utility slots will be filled with these on Cold Orbiter and Bi-weave hybrid builds. Engineering them with the Ammo Capacity blueprint gives one extra heatsink per launcher.
+Необходимы кораблям, использующих тактику «Холодная орбита» для рассеивания тепла, выделяемого пушками Гаусса. Most if not all utility slots will be filled with these on Cold Orbiter and Bi-weave hybrid builds. Engineering them with the Ammo Capacity blueprint gives one extra heatsink per launcher.
 
 ## Усилитель щита
 Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
