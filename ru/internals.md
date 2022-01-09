@@ -26,9 +26,9 @@ HRP добавляют дополнительные очки корпуса ва
 
 **Метасплавное усиление корпуса уступает как HRP, так и GHRP.**
 
-## Module Reinforcement Package
+## Набор для усиления модуля
 
-Module Reinforcement Packages (MRPs) come in two variants: guardian and normal.
+Наборы для усиления модуля (MRP) существуют в двух вариантах: Стражей и обычные.
 
 Guardian Module Reinforcement Packages (GMRPs) act similar to normal MRPs, however they have 10% higher integrity and extra added effects. They also draw a small amount of power.
 
