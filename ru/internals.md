@@ -1,30 +1,30 @@
 ---
-title: Optional Internals
-description: A short introduction to the use of various modules in AX.
-published: true
+title: Дополнительное оборудование
+description: Краткое введение по использованию различных модулей в AX.
+published: опубликовано
 date: 2021-06-10T05:35:13.831Z
-tags: outfitting, modules
+tags: снаряжение, модули
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
 ---
 
-# Optional Internals
+# Дополнительное оборудование
 
-## Hull Reinforcement Package
+## Набор для усиления корпуса
 
-Hull Reinforcement Packages come in three variants:
+Набор для усиления корпуса существует в трёх вариантах:
 
-- **Hull Reinforcement Package (HRP)**
-- **Guardian Hull Reinforcement Package (GHRP)**
-- **Meta-Alloy Hull Reinforcement Package**
+- **Набор для усиления корпуса (HRP)**
+- **Набор для усиления корпуса Стражей (GHRP)**
+- **Метасплавное усиление корпуса**
 
-HRPs add extra hull to your ship. GHRPs also provide 5% caustic resistance, which reduces damage taken from Interceptor Cannon Fire, Caustic Missiles, Thargon Projectiles, and other Caustic effects. Due to the inability to engineer GHRPs and their power draw,  we DO NOT recommend using these for most builds.
+HRP добавляют дополнительные очки корпуса вашего корабля. GHRP также дают 5% сопротивления едкому урону, что снижает урон, получаемый от огня пушек перехватчиков, каустических ракет, таргонских снарядов и прочих едких эффектов. Мы НЕ рекомендуем использовать их для большинства сборок из-за невозможности модификации GHRP у инженеров и их поглощаемой мощности.
 
-Normal human Hull Reinforcement Packages with G5 Heavy Duty/Deep Plating will greatly outperform a GHRP in the majority of cases.
+Обычные человеческие наборы для усиления корпуса с уровнем 5 и модификациями «Надёжное усиление корпуса» и с эксп. эффектом «Утолщённая броня» в большинстве случаев значительно превосходят GHRP.
 
-The phasing damage from Thargoid Interceptors is absolute meaning it will ignore this added resistance if you have a shield. In a shieldless build, running a single class one or class two GHRP can be beneficial as it will apply the caustic resistance to your entire hull, making up for the comparative loss to an engineered HRP of the same size.
+Фазовый урон, наносимый таргоидскими перехватчиками является абсолютным, что означает, что он будет игнорировать это дополнительное сопротивление, если у вас имеется щит. В без щитовых сборках применение одного GHRP первого или второго класса может быть выгодным, так как он будет применять сопротивление едкому урону ко всему корпусу, компенсируя сравнительные потери по сравнению с модифицированным у инженеров HRP того же размера.
 
-**Meta-Alloy Hull Reinforcements are inferior to both HRPs and GHRPs.**
+**Метасплавное усиление корпуса уступает как HRP, так и GHRP.**
 
 ## Module Reinforcement Package
 
