@@ -37,7 +37,7 @@ MRP существуют в двух вариантах:
 - **Класс D:** Более высокое бронирование 60%, более низкая целостность
 - **Класс E:** Более низкое бронирование 30%, более высокая целостность и масса
 
-MRPs work by absorbing a portion of module damage onto themselves, reducing the amount taken by other modules. External modules only get half the absorption rate of internal modules.
+MRP работают, поглощая часть урона, наносимого модулем, на себя, уменьшая количество урона, наносимого другими модулями. Внешние модули получают только половину скорости поглощения внутренних модулей.
 
 GMRPs stack multiplicatively, as follows using D class for example.
 
