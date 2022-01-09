@@ -30,12 +30,12 @@ HRP добавляют дополнительные очки корпуса ва
 
 Наборы для усиления модуля (MRP) существуют в двух вариантах: Стражей и обычные.
 
-Guardian Module Reinforcement Packages (GMRPs) act similar to normal MRPs, however they have 10% higher integrity and extra added effects. They also draw a small amount of power.
+Наборы для усиления корпуса Стражей (GMRP) действуют аналогично обычным MRP, однако имеют на 10% более высокую целостность и дополнительные эффекты. Они также потребляют небольшое количество энергии.
 
-MRPs come in two versions:
+MRP существуют в двух вариантах:
 
-- **D Class:** Higher Absorption 60%, Lower integrity
-- **E Class:** Lower Absorption 30%, Higher integrity and weight
+- **Класс D:** Более высокое бронирование 60%, более низкая целостность
+- **Класс E:** Более низкое бронирование 30%, более высокая целостность и масса
 
 MRPs work by absorbing a portion of module damage onto themselves, reducing the amount taken by other modules. External modules only get half the absorption rate of internal modules.
 
