@@ -68,37 +68,37 @@ GSRP лучше всего работают с двухпоточными щит
 # Внешнее оборудование
 
 ## Ксено-сканер
-The Xeno Scanner allows you to identify details of Xeno Vessel that would not be possible without. Depending on the level of scan, this will give you access to more/less info.
+Ксено-сканер позволяет идентифицировать подробности корабля таргоидов, без которого это было бы невозможно. В зависимости от уровня сканирования, это даст вам доступ к большему/меньшему количеству информации.
 
 #### Основное сканирование
 
-- Health
-- Shield Health
-- Variant Name and 3D Model
+- Здоровье
+- Уровень щитов
+- Наименование типа и 3D модель
 
 #### Полное сканирование
 
-- All the above
-- Sub-Targeting and sub-target Status (Heart integrity % )
+- Всё вышеперечисленное
+- Дополнительные цели и их состояние (Целостность сердца, % )
 
-In a wing, only one person requires a scanner, your ship will share the data with your wing once the scan is complete.
+При работе в крыле сканер необходим только одному члену крыла, после завершения сканирования ваш корабль поделится данными с крылом.
 
 ![xenoscan.png](/img/xenoscan.png)
 
-##### Key
-1. Remaining Hearts
-2. Total Health
-3. Sub-Target Health
-4. Variant Name
+##### Основные
+1. Оставшиеся сердца
+2. Общее здоровье
+3. Здоровье дополнительной цели
+4. Наименование типа
 
 ## Нейтрализатор отключающего поля
-A Shutdown field neutralizer (SFN) allows you to negate the Shutdown Field (EMP) mechanic in Thargoid fights.
+Нейтрализатор отключающего поля (SFN) позволяет свести на нет действие механики поля отключения (ЭМИ) в боях с таргоидами.
 
 #### Как это работает
 
-The SFN must be bound to a firegroup. When activated it will rapidly drain the SYS capacitor. The SFN will only stay active while the button is held down and will only prevent an EMP effect if the wave hits you while the SFN is active.
+SFN должен быть назначен в огневых группах. При активации он быстро разряжает конденсатор СИС. SFN будет оставаться активным, пока клавиша удерживается зажатой, и предотвратит эффект ЭМИ только в том случае, если волна ударит по вашему кораблю, когда SFN будет активен.
 
-The SFN will also prevent the Shutdown Field from disabling anyone else within 3km of the ship using it.
+SFN также не позволит отключающему полю отключить кого-либо еще в радиусе 3 км от использующего его корабля.
 
 ## Теплоотводная катапульта
-If your AX build doesn't have these, something is very wrong. Heatsinks are the only viable way of venting the extreme heat created by Guardian Gauss Cannons. They can either be bound to a firegroup or a dedicated hotkey. They require a small amount of SYS capacitor to use and provide 2 MW of WEP capacitor regeneration for their 10-second duration, in addition to providing rapid cooling. Heatsinks allow cold orbiting, which causes the Thargoid to miss most or all of its shots. For more information, see Cold Orbiting.
+Если в вашей AX-сборке их нет, значит что-то не так. Теплоотводы — единственный эффективный способ отвода тепла, создаваемого пушками Гаусса Стражей. Они могут быть привязаны к огневой группе или выделенной горячей клавише. Они требуют для использования небольшого объёма конденсаторов «СИС» и обеспечивают 2 МВт восстановления на конденсаторах «ОРУ» в течение их 10-секундной продолжительности, в дополнение к обеспечению быстрого охлаждения. Теплоотводы позволяют применять тактику «холодной орбиты», из-за чего таргоид промахивается большинством или всеми своими выстрелами. Для получения дополнительной информации смотрите раздел «Холодная орбита».
