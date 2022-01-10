@@ -39,15 +39,15 @@ MRP существуют в двух вариантах:
 
 MRP работают, поглощая часть урона, наносимого модулем, на себя, уменьшая количество урона, наносимого другими модулями. Внешние модули получают только половину скорости поглощения внутренних модулей.
 
-GMRPs stack multiplicatively, as follows using D class for example.
+Характеристики GMRP складываются мультипликативно, как показано ниже на примере класса «D».
 
-*1x D Class = 60%, 2x D Class = 84%, 3x D Class = 94%*
+*1x класс «D» = 60 %, 2x класс «D» = 84 %, 3x класс «D» = 94 %*
 
-Most builds recommend at least 1x GMRP to avoid modules being destroyed instantly from Thargoid weapons. Shieldless ship builds usually include three as any damage can be devastating without. The largest MRP that is not in a military slot is damage first, followed by smaller MRPs outside the military slots, and finishing with those in military slots. Due to this, many builds will use only one large GMRP (C4 or C5) and two smaller MRPs (C1 and C2).
+В большинстве сборок рекомендуется как минимум 1 шт GMRP, чтобы избежать мгновенного разрушения модулей от оружия таргоидов. Корабли без щитов обычно оснащают тремя модулями, поскольку без них любой урон может оказаться разрушительным. Самый большой MRP, который не находится в военном слоте, повреждается первым, затем следуют меньшие MRP, установленные не в военных слотах, и заканчиваются теми, которые находятся в военных слотах. Поэтому во многих сборках используется только один большой GMRP (C4 или C5) и два меньших MRP (C1 и C2).
 
-*GMRPs are also supposed to prevent modules from being shut down by lightning attacks. Instead, they only add another module to the pool that can be shut down. We don’t recommend testing this out yourself*.
+*GMRP также должны предотвращать отключение модулей в результате атак молнией. Вместо этого они лишь добавляют ещё один модуль группу, которую можно выключить. Мы не рекомендуем проверять это самостоятельно*.
 
-## Guardian Shield Reinforcement Package
+## Набор для усиления щита Стражей
 
 Guardian Shield Reinforcement Packages (GSRP) increase your shield's total MJ capacity by a fixed amount. This also extends the recharge time accordingly.
 
