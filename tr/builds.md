@@ -2,18 +2,17 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2021-11-01T15:31:21.797Z
-tags: önerilen, gemi, donanım
+date: 2022-01-13T22:15:01.146Z
+tags: builds
 editor: markdown
-dateCreated: 2021-10-06T05:48:42.427Z
+dateCreated: 2021-06-08T12:52:54.657Z
 ---
 
 # Önerilen Gemiler
-
 Thargoidlerin kendilerine has dirençleri ve hasar verme biçimleri alışılagelmiş savaş gemisi donanımları için sorun teşkil ettiğinden Thargoid Avı özelleşmiş gemi donanımları gerektirir. Uzaylı gemilerini yok etmek için gereken en etkili gemiyi oluştururken doğru kararları verebilmeniz için bu rehberi hazırladık. Bu gemiler size dengeli bir ateş gücü ve hayatta kalma imkanı verirken aynı zamanda daha fazla hata payı sağlamak için tasarlanmıştır.
 
-> Bileşenleri seçme aşamasındaki arka plan kararları hakkında daha fazla fikir sahibi olmak için [Gemi Donatım Teorisi](/tr/shipbuildtheory) sayfasını ziyaret edebilirsiniz.
->
+> Bileşenleri seçme aşamasındaki arka plan kararları hakkında daha fazla fikir sahibi olmak için [Gemi Donatım Teorisi](/en/shipbuildtheory) sayfasını ziyaret edebilirsiniz. 
+> 
 > {.is-info}
 
 ## Gemi Donatım Biçimleri
@@ -26,11 +25,12 @@ Thargoid Interceptorler çok sağlam ve güçlü düşmanlardır ve baş edebilm
 
 Aşağıda Anti-Xeno savaşlarında en yaygın kullanılan gemi donatım biçimleri verilmiştir:
 
-- **Kalkanlı Hızlı Gemiler** (Bi-Weave Hibritler) - İyi bir hıza ve çabuk yenilenen küçük kalkanlara sahip gemiler. (Başlangıç seviyesi)
+-   **Kalkanlı Hızlı Gemiler** (Bi-Weave Hibritler) - İyi bir hıza ve çabuk yenilenen küçük kalkanlara sahip gemiler. (Başlangıç seviyesi)
 
-- **Kalkansız Hızlı Gemiler** (Cold Orbiters - Soğuk Yörüngeciler) - Kalkan kullanmayan, soğuk kalma mekanikleriyle hasardan kaçınan hızlı gemiler. (Orta seviye)
+-   **Kalkansız Hızlı Gemiler** (Cold Orbiters - Soğuk Yörüngeciler) - Kalkan kullanmayan, soğuk kalma mekanikleriyle hasardan kaçınan hızlı gemiler. (Orta seviye)
 
-- **Kalkanlı Yavaş Gemiler** (Kalkan Tankları) - Yeniden başlatmalarla kalkanlarını yenileyen, büyük kalkanlara sahip yavaş gemiler. (Orta/İleri seviye)
+-   **Kalkanlı Yavaş Gemiler** (Kalkan Tankları) - Yeniden başlatmalarla kalkanlarını yenileyen, büyük kalkanlara sahip yavaş gemiler. (Orta/İleri seviye)
+
 
 ## Başlangıç Seviyesi Gemiler
 
@@ -69,11 +69,10 @@ Not: Bu gemi kalkanlarda "Lo-Draw" kullansa da, daha fazla pip yönetimi gerekti
 Alliance Chieftain, Krait Mk.II gibi çok kabiliyetli bir AX gemisidir. Chieftain, birazcık daha az ateş gücüne sahip olsa da Thermal Vent Beam Laser kullanabildiği için pilotların cold orbit tekniklerini öğrenmelerine imkan sağlar. Krait Mk.II'den çok daha çevik olan bu gemi, meta olan kalkansız Chieftain'i kullanmak isteyen ama kalkanların konforundan vazgeçmeye hazır olmayanlar için mükemmeldir.
 
 Tip: **Bi-Weave Hibrit**
-
 - Sürat: ⭐⭐⭐⭐⭐
 - Çeviklik: ⭐⭐⭐⭐⭐
 - Kalkan: ⭐⭐
-- Zırh: ⭐⭐⭐⭐
+- Zırh:   ⭐⭐⭐⭐
 - Ateş gücü: ⭐⭐⭐
 
 Öneri: Kendine güvenen pilotlar için gelişime açık platform. Uzun vadede daha yüksek potansiyel.
@@ -131,7 +130,6 @@ Tip: **Soğuk Yörüngeci**
 [EDSY Meta Kalkansız](https://edsy.org/s/vwJ9Lqq)
 
 AX Chieftain İnceleme Videosu: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
-
 ### Krait Mk.II (Kalkansız)
 
 #### **Krait Mk.II (Kalkansız)**
@@ -208,24 +206,22 @@ Büyük üçlüden biri olan Federal Corvette hafife alınmaması gereken bir g�
 
 Öneri: İsteyenler için seçkin bir büyük gemi. AX mekaniklerine dair iyi bir bilgi birikimi gerektirir.
 
-[Coriolis Kalkanlı](https://s.orbis.zone/fno6)
+[Coriolis Kalkanlı](https://s.orbis.zone/hvm_)
 
-[EDSY Kalkanlı](https://edsy.org/s/vWNQLwX)
+[EDSY Kalkanlı](https://edsy.org/s/vrSQgX4)
+
 
 ## İleri Seviye Gemiler
-
 Daha ileri seviyelere yönelik gemileri İleri Seviye Gemiler sayfamızda bulabilirsiniz.
 
-[Gemi Listesi](/tr/buildrepository) sayfamızı ziyaret ederek deneyimli AXI pilotları tarafından oluşturulan gemilere göz atabilir; istatistik ve puanlamalarını görebilirsiniz.
+[Gemi Listesi](/en/buildrepository) sayfamızı ziyaret ederek deneyimli AXI pilotları tarafından oluşturulan gemilere göz atabilir; istatistik ve puanlamalarını görebilirsiniz.
 
 # Scout Gemileri
-
 Scout avlamak savaş rütbesi yükseltmek için çok etkili bir yöntemdir. Çünkü tüm Scoutlar ya "dangerous" ya da "deadly" seviyesinde yer alır ve çok fazla deneyim puanı verir. Normal silahlara karşı sahip oldukları **77% direnç** sebebiyle bu silahları onlara karşı kullanmak son derece etkisizdir. Öngörülemez uçuş stilleri sebebiyle Scoutlara karşı "Large Turreted Anti-Xeno Multi-Cannon"ları öneriyoruz.
 
 Bu silahlar 77% dirençten etkilenmedikleri, hedefe kilitli kalabildikleri ve mermileri verimli kullandıkları için çok uygundurlar. Gemi başına 4 adet AX silahı sınırı olduğunu unutmayın.
 
 ## Diğer Önerilen Modüller
-
 - **Decontamination Limpet Controller (ve Cargo Racks)** - Caustic füzelerle vurulduğunuzda temizlenmeniz için.
 - **Xeno Scanner (opsiyonel)** - Scout can yüzdesini ve türünü görebilmek için.
 - **Hull Reinforcements** - Scoutlar "phasing" hasarı uygular, bu da kalkanlarınızı delip geçtiğinden hem güçlü kalkanlara hem de güçlü gövdeye sahip olmalısınız.
@@ -246,7 +242,6 @@ Ve savaşa hazırsınız!
 ### Anaconda
 
 [**Anaconda Coriolis**](https://coriolis.io/outfit/anaconda?code=A2putpFklndzsxf5x3x3x3x32828252502xs040404040404B05n5n2dy32d2d2d2b03m72G08.AwRj4yuzRI%3D%3D.Aw18ZXEA.H4sIAAAAAAAAA42Tv0tCURTHjz%2FL%2FPH0%2BetpmlaaYBA2BkJTEFHgENVYu0NDgYhDLdEYDU0N%2FgltNTg2NjQ2iLNDQ4SElJ3TOY%2B8kBDcB%2B%2FLge%2Fnnnvved8HOAUA3x6W0TWLv%2BMECJ4FACIHXJkPfoDCwAFADlxXZItl%2BtEHYFQ%2FiBJtg30nJpR%2FwmLUvohi1ogoLr7VdwEsXkaZdGFakQ0hC59E9k6xVpzJLjvkxtUxZDRe2X%2FqEZEHq2rpOYtPls6IzIssBJCoeJwEWKpEuIkXj8a4GS4BrGwOiFLbWbYCuK868QvlGvxe194%2FJfiyCAW1yRDu%2FSG9u%2B9ExlWfT%2F%2FSJbIO3%2FgKhna7MBaFdAklg7OvkLFHaOKGanIrI5KlZuWUm8hnyb2EGIrqQDEdKK4DJXSgpA5k4Y6C6ixOSZH3zs3xXONpRHoscSELHU4vpXBrPKfRBYujzaG0Q2U9s1%2FKS%2FKGQ559WpucxbI6wo38F%2FdchvIZ3l0qUyJdkIqy2uTcJFlXZF2RUlFOm8xPkk1FNhUpFRH8%2B%2FwAJZhA2wUEAAA%3D.EweloBhBmUEYBsICmBDA5gG2SEcIEhTFA%3D%3D%3D&bn=AX%20Conda)
-
 - 4 adet Large AX Multi-Cannon kuşanabilir.
 - Taretli Multi-Cannonlar için iyi ateş açılarına sahip.
 - Large kalkanlar ve booster'lar kuşanarak rahat bir farming deneyimi sunar.
@@ -254,7 +249,6 @@ Ve savaşa hazırsınız!
 ### Krait Mk.II
 
 [**Krait Mk.II Coriolis**](https://coriolis.io/outfit/krait_mkii?code=A2pptkFflfdussf5x3x3x3x10sxs040404B12d2dy303292H2G08.Iw18eQ%3D%3D.IwBj4yoo.H4sIAAAAAAAAA43Rv0vDcBAF8Nc0rdbGpkmb0oq%2FjQodio5d3AQHhW466iodFRwUdHMu4uTgn%2BAg6NBROjs6iIiTo0MnrXfeFT2wUzM8Htwn%2BSYX0AiA75REryWRbTvA%2BKkHBDvSwvssEHcTACdozeSJxGjji9l%2FrQGlG1fkozyIHSoZOpDwFRXLPebo2gfK70lg4bwgMkkTJo9Uxp%2FM%2FeOKx5HIZ5mwS6uKXJ3vfsj89o2ZU1S3W88kMh4xj10EwJy2eW2L2pa0cZr2%2FniYXwZqG13myuaUjDzatidNS1Qb%2BP3m%2FvkV5ZyjdUNX%2BiY6ClcOBT1kgJmnnCB%2FGJQfBgW0ZWhfwtHtpXXF2bpsL3iRiFTGbd14SFXjl%2FoD76TmZidFagt17bE2LgzKpsmmSW1cGpQdkx2T2pjx%2F%2FoBomHYA08CAAA%3D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%3D%3D&bn=AX%20Krait)
-
 - 3 adet Large, 1 adet Medium Multi-Cannon kuşanabilir.
 - Alternatif olarak 2 adet Large Multi-Cannon'ın yanında 2 adet Medium Gauss Cannon kuşanabilir. (Gauss'la nişan alma pratiği yapmanıza olanak sağlar ve beceri kazandığınızda Gauss'la Scout öldürmek daha etkili hale gelir.)
 - Hedefleri menzilde tutmak ve gerektiğinde savaştan ayrılabilmeyi sağlayan yüksek çeviklik.
