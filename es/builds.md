@@ -2,7 +2,7 @@
 title: Construcciones Recomendadas
 description: Recommended Anti-Xeno Ship Builds
 published: verdadero
-date: 2021-09-19T11:07:39.839Z
+date: 2022-01-13T22:15:01.146Z
 tags: construcciones
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -206,9 +206,9 @@ Uno de los "tres grandes" el Corvette Federal es una fuerza a tener en cuenta. A
 
 Recomendación: Un barco grande excepcional para aquellos que buscan tal cosa. Requiere un buen conocimiento de las mecánicas AX.
 
-[Construcción de Coriolis](https://s.orbis.zone/fno6)
+[Construcción de Coriolis](https://s.orbis.zone/hvm_)
 
-[Construcción EDSY](https://edsy.org/s/vWNQLwX)
+[Construcción EDSY](https://edsy.org/s/vrSQgX4)
 
 
 ## Construcciones avanzadas

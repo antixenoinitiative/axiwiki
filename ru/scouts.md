@@ -1,41 +1,41 @@
 ---
 title: Разведчики
-description: About Thargoid Scouts
-published: true
+description: О таргоидских разведчиках
+published: опубликовано
 date: 2021-06-15T10:36:02.053Z
-tags: thargoids, scouts
+tags: таргоиды, разведчики
 editor: markdown
 dateCreated: 2021-06-15T10:36:00.013Z
 ---
 
 # Разведчики
-!\[scouts.jpg\](/img/scouts.jpg =450x){.align-right}Scouts are a smaller Thargoid vessel and can be found in all types of Non-Human Signal Source. Scouts are immediately hostile and in groups can deal significant damage to an unprepared pilot. Scouts, unlike interceptors, have 77% resistance to human weapons, rather than 99%. This reduced damage resistance makes it possible to kill Scouts with human weapon systems, however specialized AX weapon systems are still far more effective and efficient than their human counterparts.
+!\[scouts.jpg\](/img/scouts.jpg =450x){.align-right}Разведчики - наименьший класс таргоидских судов, их можно найти во всех типах "Нечеловеческих источников сигналов". Разведчики сразу же настроены враждебно, и группы разведчиков могут нанести значительный урон кораблю неподготовленного пилота. Разведчики, в отличие от перехватчиков, имеют устойчивость к повреждениям от человеческого оружия на 77%, а не на 99%. Сниженная устойчивость к повреждениям позволяет уничтожать разведчиков при помощи человеческих систем вооружения, однако специализированные системы AX-вооружения по-прежнему намного эффективнее и действеннее своих аналогов, сконструированных людьми.
 
-# Варианты
+# Типы разведчиков
 
-Thargoid scouts come in multiple variants, each with their own special abilities.
+Таргоидские разведчики существуют в нескольких вариантах, каждый из которых обладает своими особыми способностями.
 
 ## Marauder
-Marauders are the basic variant of scout and the most common, They have a simple attack using a Basic Pulse Weapon and can also fire a simple Caustic missile.
+«Marauder» – базовый тип разведчика и самый распространённый. Они обладают простой схемой нападения с помощью базового импульсного оружия, а также могут стрелять простой едкой ракетой.
 
 ## Regenerator
-Regenerator variants are the same as the Marauder but have a special Regeneration pulse ability. The Regenerator may use this ability and apply a regeneration buff to all nearby scouts, rapidly regenerating their health. Regenerators will make an audible sound before using the attack and emit a green pulse. Regenerator variants will appear with a green coloration.
+Тип «Regenerator» во многом похож на «Marauder», но имеет специальную способность импульсного восстановления здоровья корпуса разведчика. «Regenerator» может использовать эту способность и применить усиление параметров восстановления на всех разведчиков поблизости, быстро восстанавливая их здоровье. Перед началом нападения «Regenerator» издаёт звуковой сигнал и излучает зелёный импульс. Тип «Regenerator» будет появляться с зелёной окраской.
 
 ## Beserker
-Similar to Regenerator, Beserker variants are marauders with a special ability. Beserkers can emit a red energy pulse that will buff the damage of all nearby scouts and trigger all nearby non-beserker scouts to fire a caustic missile. Beserkers have an Orange/red appearance.
+Подобно типу «Regenerator», тип «Beserker» – это «Marauder» с особой способностью. «Beserker» может испускать красный энергетический импульс, который увеличивает всем находящимся поблизости разведчикам наносимый урон и заставляет всех ближайших разведчиков, не являющихся типом «Beserker», выпустить едкую ракету. Тип «Beserker» имеет оранжевую/красную окраску.
 
 ## Inciter
-Inciters are the same as a marauders with a special ability. When used the scout will emit an energy pulse to all nearby scouts, buffing their speed and maneuverability temporarily. Inciters have a pink/red appearance.
+Тип «Inciter» – это то же самое, что и «Marauder», и также с особой способностью. Во время боя тип разведчика «Inciter» излучает энергетический импульс на всех ближайших разведчиков, временно увеличивая их скорость и манёвренность. Тип «Inciter» имеет розовую/красную окраску.
 
 # Особенности
-- Scouts are ALWAYS hostile.
-- Scouts have 77% resistance to conventional human weapons.
-- Scouts are immune to missiles and torpedoes (they bounce off).
-- Scouts occasionally shoot caustic missiles.
-- The pulse of the special Scouts is instance-wide, which means it can affect very distant targets.
+- Разведчики ВСЕГДА настроены враждебно.
+- Разведчики имеют устойчивость к повреждениям от обычного вооружения на 77%.
+- Разведчики защищены от попаданий ракет и торпед (они от них рикошетят).
+- Разведчики иногда стреляют едкими ракетам.
+- Импульс особых разведчиков распространяется на всё пространство сигнала (инстанса), что означает, что они могут воздействовать на очень удалённые цели.
 
-# Hunting Scouts
+# Охота на разведчиков
 
-Hunting scouts is a very efficient method to increase combat rank. Due to the 77% resistance to human weapons it is very inefficient to use normal weapons against scouts. Due to the unpredictable nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multicannons as the most effective weapon for hunting scouts.
+Охота на разведчиков – очень эффективный метод повышения боевого ранга. Из-за 77% устойчивости к повреждениям от человеческого оружия, использовать обычное оружие против разведчиков очень неэффективно. Из-за непредсказуемой природы разведчиков мы настоятельно рекомендуем использовать большие турельные AX-многоствольные орудия, как наиболее эффективное оружие для охоты на разведчиков.
 
-These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. Keep in mind that there is a limit of 4 Weapons per vessel.
+Они подходят лучше всего, так как на них не влияет устойчивость к повреждениям 77%, они могут активно держать разведчика в прицеле и очень экономно расходуют боеприпасы. Имейте в виду, что существует ограничение в 4 единицы экспериментального оружия на корабль.

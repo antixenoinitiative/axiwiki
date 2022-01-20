@@ -1,6 +1,6 @@
 ---
 title: Главная
-description: Добро пожаловать на википедию Anti-Xeno Initiative. Ваше полное хранилище данных для сражений с Таргоидами.
+description: Добро пожаловать на википедию Anti-Xeno Initiative. Ваше полное хранилище данных для борьбы с таргоидами.
 published: Опубликовано
 date: 2021-09-19T07:56:05.682Z
 tags: admin
@@ -10,31 +10,31 @@ dateCreated: 2021-06-08T12:40:49.911Z
 
 # Добро пожаловать!
 
-Welcome to the Anti-Xeno Initiative Wiki. This is the primary repository of information gathered by the Anti-Xeno Initiative, here you will find tutorials, guides and all kinds of data regarding Thargoid Combat in Elite Dangerous.
+Добро пожаловать на Anti-Xeno Initiative Wiki. Это основное хранилище информации, собранной Anti-Xeno Initiative, здесь вы найдёте обучения, инструкции, а также много другой информации относящейся к боям с таргоидами в игре Elite: Dangerous.
 
-Use the **Search bar** at the **top** of this page to get started
+Используйте **строку поиска** в **верху** этой страницы для начала работы с данным ресурсом
 
 ![](/img/2021-06-21_15_15_32-home___anti-xeno_initiative_wiki_-_beta.png)
 
-Or use the **Navigation bar** on the **left-hand** side to browse through the wiki.
+Или используйте **Меню навигации**, расположенную **слева** для просмотра содержимого данного ресурса.
 
-## Common Topics
-Browse through some of our most common topics to get you started!
+## Основные темы
+Просмотрите несколько наиболее часто используемых тем, чтобы начать работу!
 
-- [Thargoid Interceptors](/en/interceptors)
-- [How to find Thargoids](/en/finding-thargoids)
-- [Recommended Ship Builds](/en/builds)
-- [Basic Combat Guide](/en/basic-combat-guide)
+- [Таргоидские перехватчики](/en/interceptors)
+- [Как найти таргоидов](/en/finding-thargoids)
+- [Рекомендации по сборке кораблей](/en/builds)
+- [Базовое руководство по бою с таргоидами](/en/basic-combat-guide)
 
-## Credits
+## Благодарности
 
-Want to take part in the **Anti-Xeno Initiative Wiki** project? Head to our [GitHub Repository](https://github.com/antixenoinitiative/axiwiki) or join us in the [AXI discord](https://discord.gg/bqmDxdm).
+Хотите принять участие в проекте **Anti-Xeno Initiative Wiki**? Присоединяйтесь к нашему [GitHub Repository](https://github.com/antixenoinitiative/axiwiki) или посетите [AXI discord-сервер](https://discord.gg/bqmDxdm).
 
 [![AXI Discord](https://discord.com/api/guilds/380246809076826112/embed.png?style=banner3)](https://discord.gg/bqmDxdm)
 
-A big thanks to our content and development team! ❤️
+Большое спасибо нашей команде авторов и команде разработчиков! ❤️
 
-**Content Creators**
+**Авторы статей**
 
 -   CMDR Aranionros Stormrage
 -   CMDR Mechan
@@ -43,7 +43,7 @@ A big thanks to our content and development team! ❤️
 -   CMDR Avasa Siuu
 -   CMDR Maligno
 
-**Translators**
+**Переводчики**
 
 -   CMDR alterNERDtive
 -   CMDR Trex63
@@ -66,8 +66,8 @@ A big thanks to our content and development team! ❤️
 -   CMDR Archiebeales
 -   CMDR Konstantine Novakov
 
-**Developers**
+**Разработчики**
 
 -   CMDR Sanctified (Willhof)
 
-And to everyone else in the Anti-Xeno Initiative who has helped make this project possible!
+И всем остальным из Anti-Xeno Initiative кто помог сделать этот проект возможным!

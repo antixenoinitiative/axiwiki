@@ -1,7 +1,7 @@
 ---
 title: README
 description:
-published: true
+published: опубликовано
 date: 2021-09-19T07:57:05.988Z
 tags: admin
 editor: markdown
@@ -9,25 +9,25 @@ dateCreated: 2021-06-23T11:45:35.407Z
 ---
 
 ![](img/home.jpg)
-# Welcome to the AXI Wiki Repository
-This is the Official Wiki Repository for the AXI wiki. This page will act as a home for all development and changes done to the Wiki.
+# Добро пожаловать на AXI Wiki Repository
+Это официальное хранилище вики-файлов для AXI wiki. Эта страница будет являться домашней для всех разработок и изменений, сделанных в Wiki.
 
 Wiki: https://wiki.antixenoinitiative.com/
 
-Join us in the discussion in the [Anti-Xeno Initiative Discord](https://discord.gg/bqmDxdm) [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bqmDxdm)
+Присоединяйтесь к нам для обсуждения на [Anti-Xeno Initiative Discord](https://discord.gg/bqmDxdm) [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bqmDxdm)
 
-## How this repository works
+## Как работает это хранилище
 
-Documents created within this repository are directly connected to pages in the AXI wiki. Pages can be created in the following formats:
+Документы, созданные в этом хранилище, напрямую подключены к страницам на AXI wiki. Страницы могут быть созданы в следующих форматах:
 
-- Markdown: Using Markdown formatting
-- HTML: Using Basic HTML Formatting
+- Markdown: используют форматирование Markdown
+- HTML: используют базовое форматирование HTML
 
-### Page Metadata
+### Метаданные страницы
 
-Each page requires METADATA at the start of the file.
+Каждая страница требует метаданных, указанных в начале файла.
 
-Markdown METADATA Example
+Пример метаданных Markdown
 ```
 ---
 title: README
@@ -40,7 +40,7 @@ dateCreated: 2021-06-23T11:45:35.407Z
 ---
 ```
 
-HTML METADATA Example
+Пример метаданных HTML
 ```
 <!--
 title: Basic Combat Guide
@@ -53,16 +53,16 @@ dateCreated: 2021-06-17T03:18:38.671Z
 -->
 ```
 
-### GitHub Sync
+### Синхронизация с GitHub
 
-The GitHub repository will syncronize all changes (bi-directionally) with the AXI Wiki every 5 minutes. If a urgent change is needed contact Mgram#6610 on the AXI Discord.
+Хранилище на GitHub будет синхронизировать все изменения (двунаправленно) с AXI Wiki каждые 5 минут. Если необходимо срочное изменение свяжитесь с Mgram#6610 через AXI Discord.
 
-## Translation
+## Перевод
 
-Translation is managed through Crowdin, translate pages here: https://crowdin.com/project/axiwiki
+Перевод осуществляется через платформу Crowdin, переводимые страницы расположены здесь: https://crowdin.com/project/axiwiki
 
-### DNT List (Do Not Translate)
-The following terms should not be translated.
+### Перечень DNT (Do Not Translate - то, что не следует переводить)
+Следующие термины не должны быть переведены.
 
 **DNT (Do not translate)**
 - Thargoid
@@ -76,6 +76,6 @@ The following terms should not be translated.
 - Berserker
 - CMDR
 
-Do NOT translate any of the links or their paths
+НЕ НУЖНО переводить ссылки или пути к ним
 
-Eg: "/en/builds" is a file path reference, if you edit this, the link will break.
+Например: "/ru/builds" является ссылкой на путь к файлу, если вы редактируете её, ссылка будет разорвана.

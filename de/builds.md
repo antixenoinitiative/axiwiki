@@ -2,7 +2,7 @@
 title: Empfohlene Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2021-09-19T11:07:39.839Z
+date: 2022-01-13T22:15:01.146Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -206,9 +206,9 @@ Einer der drei besten. Die Federal Corvette ist sehr mächtig. Sie hat einen rie
 
 Empfehlung: Ein hervorragendes großes Schiff für diejenigen, die nach so etwas suchen. Benötigt gute Kenntnisse über AX-Mechaniken.
 
-[Coriolis Build](https://s.orbis.zone/fno6)
+[Coriolis Build](https://s.orbis.zone/hvm_)
 
-[EDSY Build](https://edsy.org/s/vWNQLwX)
+[EDSY Build](https://edsy.org/s/vrSQgX4)
 
 
 ## Fortgeschrittene Builds
