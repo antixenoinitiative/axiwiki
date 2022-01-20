@@ -1,73 +1,105 @@
 ---
-title: Accueil
-description: Bienvenue sur le wiki de l'Anti-Xeno Initiative. Toutes les ressources pour combattre les Thargoids.
+title: Home
+description: Welcome to the Anti-Xeno Initiative Wiki. Your complete repository for Anti-Xeno Combat.
 published: true
-date: 2021-09-19T07:56:05.682Z
+date: 2022-01-20T10:18:30.339Z
 tags: admin
 editor: markdown
-dateCreated: 2021-06-08T12:40:49.911Z
+dateCreated: 2021-06-24T12:25:28.175Z
 ---
 
-# Bienvenue !
-
-Welcome to the Anti-Xeno Initiative Wiki. This is the primary repository of information gathered by the Anti-Xeno Initiative, here you will find tutorials, guides and all kinds of data regarding Thargoid Combat in Elite Dangerous.
-
-Use the **Search bar** at the **top** of this page to get started
-
-![](/img/2021-06-21_15_15_32-home___anti-xeno_initiative_wiki_-_beta.png)
-
-Or use the **Navigation bar** on the **left-hand** side to browse through the wiki.
-
-## Common Topics
-Browse through some of our most common topics to get you started!
-
-- [Thargoid Interceptors](/en/interceptors)
-- [How to find Thargoids](/en/finding-thargoids)
-- [Recommended Ship Builds](/en/builds)
-- [Basic Combat Guide](/en/basic-combat-guide)
-
-## Credits
-
-Want to take part in the **Anti-Xeno Initiative Wiki** project? Head to our [GitHub Repository](https://github.com/antixenoinitiative/axiwiki) or join us in the [AXI discord](https://discord.gg/bqmDxdm).
-
-[![AXI Discord](https://discord.com/api/guilds/380246809076826112/embed.png?style=banner3)](https://discord.gg/bqmDxdm)
-
-A big thanks to our content and development team! ❤️
-
-**Content Creators**
-
--   CMDR Aranionros Stormrage
--   CMDR Mechan
--   CMDR Aterius
--   CMDR EuanAB
--   CMDR Avasa Siuu
--   CMDR Maligno
-
-**Translators**
-
--   CMDR alterNERDtive
--   CMDR Trex63
--   CMDR Xarionn
--   CMDR St4n2012
--   CMDR Trebiscotti
--   CMDR AlexMG1
--   CMDR Domtron
--   CMDR Grincake
--   CMDR Batro
--   CDMR Blaston
--   CMDR Aileen Leith
--   CMDR Westboyrke
--   CMDR Habba-nero
--   CMDR Talixe
--   CMDR Jugom
--   CMDR Nauva
--   CMDR panther\_neo
--   CMDR SGUDestiny
--   CMDR Archiebeales
--   CMDR Konstantine Novakov
-
-**Developers**
-
--   CMDR Sanctified (Willhof)
-
-And to everyone else in the Anti-Xeno Initiative who has helped make this project possible!
+<div class="mainbox">
+  <div class="contentbox">
+    <div id="titlebox">
+      <img id="titleimg" src="/img/axi_insignia_hypen_512.png" alt="AXI Logo" />
+      <div>
+        <h1 id="title">Anti-Xeno Wiki</h1>
+        <div id="subtitle">By the Anti-Xeno Initiative</div>
+      </div>
+    </div>
+    <p>Welcome to the Anti-Xeno Initiative Wiki. The primary repository for the Anti-Xeno Initiative, here you will find tutorials, guides and detailed breakdowns of Thargoid Combat and Thargoids in Elite: Dangerous.</p>
+    <p>The Anti-Xeno Wiki is a collection of articles and guides written by the experience Pilots and Mentors of the Anti-Xeno Initiative Community, you can join the community for any further questions or assistance from the many talented and friendly commanders.</p>
+    <h2>Popular Topics</h2>
+    <div id="topicsbox">
+      <div id="common-topics" class="grid-container">
+        <div id="topic" class="grid-item">
+          <div id="topic-title">🚀 Ship Builds</div>
+          <div id="topic-links">
+            <a href="/builds">Recommended Builds</a>
+            <a href="/shipbuildtheory">Ship Build Theory</a>
+            <a href="/buildrepository">Build Repository</a>
+          </div>
+        </div>
+        <div id="topic" class="grid-item">
+          <div id="topic-title">⭐ Combat Guides</div>
+          <div id="topic-links">
+            <a href="/basic-combat-guide">Basic Combat Guide</a>
+            <a href="/advanced-combat-guide">Advanced Combat Guide</a>
+            <a href="/combat-speedrunning">Speedrunning Guide</a>
+          </div>
+        </div>
+        <div id="topic" class="grid-item">
+          <div id="topic-title">🛸 Thargoids</div>
+          <div id="topic-links">
+            <a href="/finding-thargoids">Finding Thargoids</a>
+            <a href="/interceptors">Thargoid Interceptors</a>
+            <a href="/special-attacks">Thargoid Special Attacks</a>
+          </div>
+        </div>
+      </div>
+        <h2>Browse All Pages</h2>
+        <div id="pagelistbox" class="grid-container">
+      </div>
+      <div>
+        <h2>Credits</h2>
+        <p>A big thanks to our content and development team! ❤️</p>
+        <div id="creditsbox" class="grid-container">
+          <div id="creditsbox" class="grid-item">
+            <h3>Translators</h3>
+            <ul>
+              <li>CMDR alterNERDtive</li>
+              <li>CMDR Trex63</li>
+              <li>CMDR Xarionn</li>
+              <li>CMDR St4n2012</li>
+              <li>CMDR Trebiscotti</li>
+              <li>CMDR AlexMG1</li>
+              <li>CMDR Domtron</li>
+              <li>CMDR Grincake</li>
+              <li>CMDR Batro</li>
+              <li>CDMR Blaston</li>
+              <li>CMDR Aileen Leith</li>
+              <li>CMDR Westboyrke</li>
+              <li>CMDR Habba-nero</li>
+              <li>CMDR Talixe</li>
+              <li>CMDR Jugom</li>
+              <li>CMDR Nauva</li>
+              <li>CMDR panther_neo</li>
+              <li>CMDR SGUDestiny</li>
+              <li>CMDR Archiebeales</li>
+              <li>CMDR Konstantine Novakov</li>
+              <li>CMDR Eckee</li>
+            </ul>
+          </div>
+          <div id="creditsbox" class="grid-item">
+            <h3>Content Creators</h3>
+            <ul>
+              <li>CMDR Aranionros Stormrage</li>
+              <li>CMDR Mechan</li>
+              <li>CMDR Aterius</li>
+              <li>CMDR EuanAB</li>
+              <li>CMDR Avasa Siuu</li>
+              <li>CMDR Maligno</li>
+            </ul>
+          </div>
+          <div id="creditsbox" class="grid-item">
+            <h3>Developers</h3>
+            <ul>
+              <li>CMDR Mgram</li>
+              <li>CMDR Sanctified (Willhof)</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
