@@ -15,7 +15,7 @@ Esta página contiene la historia y detalles detrás de la Calculadora de Puntaj
 
 Desde la introducción de los rangos del servidor de Discord, la AXI ha considerado la idea de reconocer nuestros mejores CMDRs con un rango que fuera "competitivo" en naturaleza, es decir, podría ganarse, pero también podría perderse, con nuevos CMDRs alcanzando niveles más altos de habilidad.
 
-The introduction of the Vanguard scoring system laid the groundwork of the "old Ace" system, with a leaderboard which recognized CMDRs who accomplished the most stunning multigoid kills, and further so with less-than-optimal ships to boot.
+La introducción del sistema de puntuación de Vanguard sentó las bases del sistema del "antiguo Ace", con una tabla de clasificación que reconoció a los CMDTs que consiguieron las victorias multigoid más asombrosas, y más allá, con naves "no tan óptimas" para la tarea.
 
 As the overall combat skill of CMDRs grew, and as the knowledge of ships and AX combat progressed, eventually the Ace board became something that strictly required a hyperdiction instance to even attempt - and, namely, a one-in-thousands-of-jumps occurrance, which further carried a risk of "failing" as CMDRs has a small window to summon additional cyclopes and engage all goids before they left.
 
