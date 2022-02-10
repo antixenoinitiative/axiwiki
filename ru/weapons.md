@@ -74,13 +74,13 @@ dateCreated: 2021-06-10T04:04:18.230Z
 
 Подобно Продвинутому Многоствольному Орудию, это улучшаемый у инженера клон обычного ракетного лотка, который требует синтез специальных боеприпасов, чтобы нанести АХ урон. Из-за их экстремального урона по площади, необходимость в синтезе и участие в лимите на количество оружия, они исключены из использования в рангах AXI.
 
-**Recommendation:** Use at own discretion (Cannot use without synth, Banned from use in AXI ranks)
+**Рекомендации:** Используйте по своему усмотрению (нельзя использовать без синтеза, запрещено использование для повышения ранга AXI)
 
 Примечание: Не считается в лимите на 4 экспериментальных оружия на один корабль.
 
-## Focused Long-Range High-Penetration Guardian Shard Cannon (Class Two)
+## Осколочное орудие Стражей (Класс 2)
 
-An extremely powerful version of the normal shard cannon, able to reliably hit interceptors from outside 3km range. It functions very differently, having near-hitscan shot speed and extremely long range. Due to this and the fact that it is not obtainable for most CMDRs, it is banned from use in ranks.
+Чрезвычайно мощная версия обычного залпового орудия, способно надёжно поражать перехватчики с расстояния свыше 3 км. Функционирует совершенно по-другому, имея скорость, близкую к скорости кинетичского выстрела и чрезвычайно большую дальность стрельбы. Due to this and the fact that it is not obtainable for most CMDRs, it is banned from use in ranks.
 
 **Recommendation:** Use at own discretion (Banned from use in AXI ranks)
 
