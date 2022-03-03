@@ -2,7 +2,7 @@
 title: Fortgeschrittener Gefechtsleitfaden
 description: Basierend auf dem Odysseus-Leitfaden von CMDR Avasa Siuu
 published: true
-date: 2021-06-17T04:01:30.341Z
+date: 2022-03-03T01:30:27.035Z
 tags: Ausrüstung, Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -146,16 +146,19 @@ Der Zweck, beim Start des Kampfes, den Schwarm zuerst zu bekämpfen, besteht dar
 Abdriften aus optimaler Umlaufbahn führt zum Verbrauch von mehr Munition, wegen höherem Leistungsverlust bei größerem Abstand. Außerdem muss man mehr Kühlkörper nutzen. Außerhalb der effektiven Reichweite zu feuern ist nicht empfehlenswert.
 
 # Thargoid Schlafphase
-- Mit dem kalten Orbit hat man das Potenzial jeglichen Schaden vom Interceptor zu vermeiden, wenn man die richtige Geschwindigkeit, Entfernung und den 15° Winkel von den Geschützen des Interceptors beibehält, sofern man unter 20% Hitze bleibt. Diese Strategie wird von vielen Profi AX-Piloten benutzt, damit sie keinen Schaden am Schiff nehmen müssen, was ihnen ermöglicht ihren Angriff fortzusetzen, weil sie ihre Module nicht reparieren müssen, was, besonders bei späteren Interceptorn, Zeit beansprucht.
--
-- Der kalte Orbit ist das Fundament im Kampf gegen spätere Interceptor, wenn man kleinere Schiffe spielen will und auch für einen schwierigeren Umgang mit dem Thargon-Schwarm, wenn man bei kleinen Schiffen keine Flak instalieren kann. (das ist hier nicht behandelt)
--
-- Die Menge an Kühlkörpern, die hier empfohlen wird, sollte die Zerstörung jedes Herzens bei allen Varianten ermöglichen, solange der Kommandant eine 0,9 -1,5km Umlaufbahn einhält und damit die Schadensleistung der Gauss Kanonen komplett ausreizt.
--
-- Abdriften aus der optimalen Umlaufbahn ist ineffizient und verbraucht mehr Munition, wegen höherem Schadesverlust bei größerem Abstand. Außerdem muss man mehr Kühlkörper nutzen. Außerhalb der effektiven Reichweite zu feuern wird nicht empfohlen.
+-The interceptor will enter a sleep mode after a destruction of a heart and the commander maintains his ships heat below 15%.
+
+-The sleep mode will prevent the interceptor from launching its caustic missiles allowing the commander to completely avoid that stage of interceptor combat.
+
+-The sleep mode will also prevent the activation of the interceptors shut down field removing the need for a shut down field neutralizer and also removing the need from having to have flight assist off and boost away from the interceptor while shut down. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
+
+-The window the interceptor will be in sleep mode lasts approximately 30 seconds.
+
+-This is why the importance of the thermal vent beam laser comes into play allowing a ship to maintain 0% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks.
+
 
 `CREDITS
-Vielen Dank an den Anti-Xeno-Initiative Discord für die Unterstützung bei der Verfeinerung dieses Leitfadens und an die folgenden AXI-Kommandanten für ihren Beitrag:
+Thank you to the Anti-Xeno Initiative discord for assistance in refining this doctrine and to the following AXI Commanders for their contribution:
 CMDR Mgram,
 CMDR BADRACINGDRIVER,
 CMDR Mackenheimer,
