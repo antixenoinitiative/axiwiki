@@ -2,7 +2,7 @@
 title: Guida al Combattimento Avanzato
 description: Based on the Odysseus Doctrine by CMDR Avasa Siuu
 published: true
-date: 2021-06-17T04:01:30.341Z
+date: 2022-03-03T01:30:27.035Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -146,13 +146,16 @@ The purpose of engaging the swarm first on the initial engagement is to remove t
 Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
 
 # Thargoid Sleep Mode
-- The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
--
-- Cold orbiting is also the basis for more advanced Interceptor combat when wanting to use smaller ships and also for more advanced Thargon swarm management for small ships when flak launchers cannot be fitted. (beyond the scope of this guide)
--
-- The amount of heat sinks within this doctrine will allow the destruction of any heart on any variants as long as the commander maintains a 900m-1.5km orbit maximising the damage output of the Gauss cannon.
--
-- Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
+-The interceptor will enter a sleep mode after a destruction of a heart and the commander maintains his ships heat below 15%.
+
+-The sleep mode will prevent the interceptor from launching its caustic missiles allowing the commander to completely avoid that stage of interceptor combat.
+
+-The sleep mode will also prevent the activation of the interceptors shut down field removing the need for a shut down field neutralizer and also removing the need from having to have flight assist off and boost away from the interceptor while shut down. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
+
+-The window the interceptor will be in sleep mode lasts approximately 30 seconds.
+
+-This is why the importance of the thermal vent beam laser comes into play allowing a ship to maintain 0% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks.
+
 
 `CREDITS
 Thank you to the Anti-Xeno Initiative discord for assistance in refining this doctrine and to the following AXI Commanders for their contribution:
