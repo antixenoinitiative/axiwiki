@@ -2,7 +2,7 @@
 title: Guía de Combate Avanzada
 description: Basado en la Doctrina Odysseus de CMDR Avasa Siuu
 published: verdadero
-date: 2021-06-17T04:01:30.341Z
+date: 2022-03-03T01:30:27.035Z
 tags: equipamiento, combate, Thargoide, interceptores
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -146,16 +146,19 @@ El propósito de atacar al enjambre primero en el enfrentamiento inicial es elim
 Estar fuera de la órbita puede costar rondas adicionales de los cañones Gauss debido a la caída de daños y se producirá un desperdicio de eyectores de calor. No es aconsejable disparar fuera de la distancia efectiva.
 
 # Modo de sueño Thargoid
-- La órbita fría tiene la ventaja de prevenir todo el daño del Interceptor si se mantiene la velocidad y la distancia de la órbita adecuadas con el arco adecuado de 15 grados más allá del orificio central de los cañones del Interceptor con el calor de la nave por debajo del 20%. Esta táctica es utilizada por muchos comandantes AX veteranos para evitar cualquier tipo de daño a su nave, permitiéndoles continuar su combate y evitando tener que reparar módulos que pueden consumir un tiempo precioso, especialmente en los Interceptores más avanzados.
--
-- La órbita fría también es la base para un combate de interceptor más avanzado cuando se desea usar naves más pequeñas y también para una gestión de enjambres de Thargon más avanzada para naves pequeñas cuando no se pueden instalar lanzadores antiaéreos. (más allá del alcance de esta guía)
--
-- La cantidad de eyectores de calor dentro de esta doctrina permitirá la destrucción de cualquier corazón en cualquier variante, siempre que el comandante mantenga una órbita de 900 m-1,5 km maximizando la producción de daño del cañón Gauss.
--
-- Estar fuera de la órbita puede costar rondas adicionales de los cañones Gauss debido a la caída de daños y se producirá un desperdicio de eyectores de calor. No es aconsejable disparar fuera de la distancia efectiva.
+-The interceptor will enter a sleep mode after a destruction of a heart and the commander maintains his ships heat below 15%.
 
-`CREDITOS
-Gracias al discord de la Iniciativa Anti-Xeno por su ayuda para refinar esta doctrina y a los siguientes Comandantes de AXI por su contribución:
+-The sleep mode will prevent the interceptor from launching its caustic missiles allowing the commander to completely avoid that stage of interceptor combat.
+
+-The sleep mode will also prevent the activation of the interceptors shut down field removing the need for a shut down field neutralizer and also removing the need from having to have flight assist off and boost away from the interceptor while shut down. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
+
+-The window the interceptor will be in sleep mode lasts approximately 30 seconds.
+
+-This is why the importance of the thermal vent beam laser comes into play allowing a ship to maintain 0% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks.
+
+
+`CREDITS
+Thank you to the Anti-Xeno Initiative discord for assistance in refining this doctrine and to the following AXI Commanders for their contribution:
 CMDR Mgram,
 CMDR BADRACINGDRIVER,
 CMDR Mackenheimer,
