@@ -1,11 +1,11 @@
 ---
 title: Construcciones Recomendadas
 description: Recommended Anti-Xeno Ship Builds
-published: verdadero
-date: 2022-01-13T22:15:01.146Z
+published: true
+date: 2022-06-20T04:06:46.492Z
 tags: construcciones
 editor: markdown
-dateCreated: 2021-06-08T12:52:54.657Z
+dateCreated: 2021-06-24T23:36:09.096Z
 ---
 
 # Construcciones Recomendadas
@@ -123,7 +123,7 @@ Tipo: **Frío**
 - Armadura: ⭐⭐⭐⭐
 - Potencia de fuego: ⭐⭐⭐
 
-Recomendación: indiscutiblemente la nave y construcción para el combate AX.
+Recomendación: Indiscutiblemente la nave y construcción para el combate AX.
 
 [Construcción Meta sin escudo Coriolis](https://s.orbis.zone/eu9w)
 
@@ -166,7 +166,7 @@ Tipo: **Orbita frío**
 - Armadura: ⭐⭐⭐⭐
 - Potencia de fuego: ⭐⭐⭐⭐
 
-Recomendación: Un gran barco para aquellos que encuentran que el Chieftain se tambalea demasiado o es muy ágil.
+Recomendación: Una gran nave para aquellos que encuentran que el Chieftain se tambalea demasiado o es muy ágil.
 
 [Construcción de Coriolis sin escudo](https://s.orbis.zone/fnnx)
 
@@ -176,7 +176,7 @@ Recomendación: Un gran barco para aquellos que encuentran que el Chieftain se t
 
 #### **Corvette Federal (sin escudos)**
 
-Uno de los "tres grandes" el Corvette Federal es una fuerza a tener en cuenta. Al ofrecer un enorme distribuidor de energía y un casco (Armadura) enorme, el barco solo pierde en la velocidad. Mientras que esta nave necesita más habilidad para volar, es un favorito de muchos pilotos AX experimentados. Cuando no tiene escudo, permanece helado mientras dispara con todos los cilindros.
+Uno de los "tres grandes" el Corvette Federal es una fuerza a tener en cuenta. Al ofrecer un enorme distribuidor de energía y un casco (Armadura) enorme, la nave solo pierde en la velocidad. Mientras que esta necesita más habilidad para volar, es un favorito de muchos pilotos AX experimentados. Cuando no tiene escudo, permanece helado mientras dispara con todos los cilindros.
 
 Tipo: **Orbita frío**
 
@@ -186,7 +186,7 @@ Tipo: **Orbita frío**
 - Armadura: ⭐⭐⭐⭐⭐
 - Potencia de fuego: ⭐⭐⭐⭐
 
-Recomendación: Un gran barco excepcional para aquellos que buscan algo así. Requiere un buen conocimiento de las mecánicas AX.
+Recomendación: Una gran nave excepcional para aquellos que buscan algo así. Requiere un buen conocimiento de las mecánicas AX.
 
 [Construcción de Coriolis](https://s.orbis.zone/fnn_)
 
@@ -196,7 +196,7 @@ Recomendación: Un gran barco excepcional para aquellos que buscan algo así. Re
 
 #### **Federal Corvette (con Escudos)**
 
-Uno de los "tres grandes" el Corvette Federal es una fuerza a tener en cuenta. Al ofrecer un enorme distribuidor de energía y un casco (Armadura) enorme, el barco solo pierde en la velocidad. Mientras que esta nave necesita más habilidad para volar, es un favorito de muchos pilotos AX experimentados. Al utilizar escudos prismáticos o incluso bi-tejidos, el Corvette puede aguantar a los objetivos más duros. Tipo: **Tanque de escudo**
+Uno de los "tres grandes" el Corvette Federal es una fuerza a tener en cuenta. Al ofrecer un enorme distribuidor de energía y un casco (Armadura) enorme, la nave solo pierde en la velocidad. Mientras que esta nave necesita más habilidad para volar, es un favorito de muchos pilotos AX experimentados. Al utilizar escudos prismáticos o incluso entre tejidos, la Corvette puede aguantar a los objetivos más duros. Tipo: **Tanque de escudo**
 
 - Velocidad: ⭐⭐
 - Agilidad: ⭐⭐⭐
@@ -204,7 +204,7 @@ Uno de los "tres grandes" el Corvette Federal es una fuerza a tener en cuenta. A
 - Armadura: ⭐⭐⭐⭐⭐
 - Potencia de fuego: ⭐⭐⭐⭐
 
-Recomendación: Un barco grande excepcional para aquellos que buscan tal cosa. Requiere un buen conocimiento de las mecánicas AX.
+Recomendación: Una nave grande excepcional para aquellos que buscan tal cosa. Requiere un buen conocimiento de las mecánicas AX.
 
 [Construcción de Coriolis](https://s.orbis.zone/hvm_)
 
@@ -214,7 +214,7 @@ Recomendación: Un barco grande excepcional para aquellos que buscan tal cosa. R
 ## Construcciones avanzadas
 Se puede encontrar una colección de Construciones más avanzadas en la página Construciones Avanzadas.
 
-Vea aún más construcciones de barcos visitando nuestra [ Compilacion de construcciones de barcos ](/en/buildrepository), una gran colección de construcciones de barcos creadas por pilotos AXI experimentados, junto con estadísticas completas, calificaciones y enlaces de construcción.
+Vea aún más construcciones de barcos visitando nuestra [ Compilacion de construcciones de naves ](/en/buildrepository), una gran colección de construcciones de naves creadas por pilotos AXI experimentados, junto con estadísticas completas, calificaciones y enlaces de construcción.
 
 # Construcciones para Exploradores Thargoids
 La caza de exploradores es un método muy eficiente para aumentar el rango de combate. Esto se debe a que todos los exploradores se consideran objetivos Peligrosos o Letales y darán mucha experiencia por muerte. Debido al ** 77% de resistencia ** a las armas humanas, es muy ineficiente usar armas normales contra ellas. Debido a la naturaleza de vuelo impredecible de los exploradores, recomendamos encarecidamente el uso de cañones múltiples anti-xeno con torretas grandes como el arma más eficaz para cazar exploradores.
@@ -226,7 +226,7 @@ Estos son los más adecuados ya que no se ven afectados por la resistencia del 7
 - **Escáner de Xeno (opcional)** - Te permite ver salud del Explorador.
 - **Refuerzos Estructurales** - Los exploradores infligen daño de fase, que te dañará a través de escudos, necesitarás tanto escudos pesados Armadura.
 
-Y últimamente, debido a la naturaleza simple de la caza de exploradores, casi cualquier barco se puede adaptar para la tarea con bastante facilidad. Una simple regla general es….
+Y últimamente, debido a la naturaleza simple de la caza de exploradores, casi cualquier nave se puede adaptar para la tarea con bastante facilidad. Una simple regla general es….
 
 - Armadura Decente
 - Escudos Decentes
@@ -252,4 +252,4 @@ Y últimamente, debido a la naturaleza simple de la caza de exploradores, casi c
 - Puede equipar 3 AX Multi-Cañones en puntos de anclaje grandes y 1 AX Multi-Cañon en un anclaje mediano
 - Alternativamente puede equipar 2 Multi Cañones AX en anclajes grandes y 2 Cañones Gauss Guardian en los anclajes medianos (permite la práctica de la puntería de Gauss y se vuelve más eficaz una vez que el piloto es competente con Gauss)
 - Alta movilidad para mantener los objetivos dentro o fuera del alcance segun desea el piloto.
-- La movilidad permite el uso de escudos Bi-Weave, saliendo de combate para la regeneración del escudo.
+- La movilidad permite el uso de escudos Entrelazados, saliendo de combate para la regeneración del escudo.
