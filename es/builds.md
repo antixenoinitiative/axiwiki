@@ -2,7 +2,7 @@
 title: Construcciones Recomendadas
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2022-06-20T04:06:46.492Z
+date: 2022-06-20T04:07:31.522Z
 tags: construcciones
 editor: markdown
 dateCreated: 2021-06-24T23:36:09.096Z
@@ -214,7 +214,7 @@ Recomendación: Una nave grande excepcional para aquellos que buscan tal cosa. R
 ## Construcciones avanzadas
 Se puede encontrar una colección de Construciones más avanzadas en la página Construciones Avanzadas.
 
-Vea aún más construcciones de barcos visitando nuestra [ Compilacion de construcciones de naves ](/en/buildrepository), una gran colección de construcciones de naves creadas por pilotos AXI experimentados, junto con estadísticas completas, calificaciones y enlaces de construcción.
+Vea aún más construcciones de naves visitando nuestra [ Compilacion de construcciones de naves ](/en/buildrepository), una gran colección de construcciones de naves creadas por pilotos AXI experimentados, junto con estadísticas completas, calificaciones y enlaces de construcción.
 
 # Construcciones para Exploradores Thargoids
 La caza de exploradores es un método muy eficiente para aumentar el rango de combate. Esto se debe a que todos los exploradores se consideran objetivos Peligrosos o Letales y darán mucha experiencia por muerte. Debido al ** 77% de resistencia ** a las armas humanas, es muy ineficiente usar armas normales contra ellas. Debido a la naturaleza de vuelo impredecible de los exploradores, recomendamos encarecidamente el uso de cañones múltiples anti-xeno con torretas grandes como el arma más eficaz para cazar exploradores.
