@@ -2,7 +2,7 @@
 title: Construcciones Recomendadas
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2022-06-20T04:07:31.522Z
+date: 2022-06-20T04:11:21.120Z
 tags: construcciones
 editor: markdown
 dateCreated: 2021-06-24T23:36:09.096Z
@@ -42,7 +42,7 @@ Todas estas construcciones utilizan escudos para proporcionar un estilo de comba
 
 #### **Krait Mk.II (Escudo)**
 
-El Krait Mk.II, el barco AX más recomendado y más completo para todos los interesados en matar Thargoids, tiene suficiente potencia de fuego para matar a los interceptores más duros y, al mismo tiempo, tiene suficientes escudos y casco para poder recuperarse de algunos errores. Una embarcación AX muy capaz, aunque la versión con escudo solo puede llegar hasta cierto punto.
+El Krait Mk.II, la nave AX más recomendada y más completa para todos los interesados en matar Thargoides, tiene suficiente potencia de fuego para matar a los interceptores más duros y, al mismo tiempo, tiene suficientes escudos y casco para poder recuperarse de algunos errores. Una embarcación AX muy capaz, aunque la versión con escudo solo puede llegar hasta cierto punto.
 
 Tipo: **Híbrido Bi-Weave**
 
@@ -87,7 +87,7 @@ Video de revisión de Chieftain AX: [https://www.youtube.com/watch?v=ipyvolMlX4E
 
 #### **Imperial Cutter (Escudo)**
 
-Si prefiere volar grandes barcos el Imperial Cutter es el barco recomendado para ir. De todas las naves grandes, el Cutter es el único capaz de correr más rapido que la mayoría de los interceptores Thargoid. El Cutter se basa en escudos prismáticos para aguantar grandes cantidades de daño. Si usted tiene la intención de utilizar el Cutter, le recomendamos leer la Guía de Nave Grande Anti-Xeno.
+Si prefiere volar naves grandes el Imperial Cutter es la nave recomendada para dicha necesidad. De todas las naves grandes, el Cutter es el único capaz de correr más rapido que la mayoría de los interceptores Thargoid. El Cutter se basa en escudos prismáticos para aguantar grandes cantidades de daño. Si usted tiene la intención de utilizar el Cutter, le recomendamos leer la Guía de Nave Grande Anti-Xeno.
 
 Tipo: **Tanque de escudo**
 
@@ -196,7 +196,7 @@ Recomendación: Una gran nave excepcional para aquellos que buscan algo así. Re
 
 #### **Federal Corvette (con Escudos)**
 
-Uno de los "tres grandes" el Corvette Federal es una fuerza a tener en cuenta. Al ofrecer un enorme distribuidor de energía y un casco (Armadura) enorme, la nave solo pierde en la velocidad. Mientras que esta nave necesita más habilidad para volar, es un favorito de muchos pilotos AX experimentados. Al utilizar escudos prismáticos o incluso entre tejidos, la Corvette puede aguantar a los objetivos más duros. Tipo: **Tanque de escudo**
+Uno de los "tres grandes" el Corvette Federal es una fuerza a tener en cuenta. Al ofrecer un enorme distribuidor de energía y un casco (Armadura) enorme, la nave solo pierde en la velocidad. Mientras que esta nave necesita más habilidad para volar, es un favorito de muchos pilotos AX experimentados. Al utilizar escudos prismáticos o incluso entrelazados, la Corvette puede aguantar a los objetivos más duros. Tipo: **Tanque de escudo**
 
 - Velocidad: ⭐⭐
 - Agilidad: ⭐⭐⭐
