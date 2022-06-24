@@ -146,9 +146,9 @@ El propósito de atacar al enjambre primero en el enfrentamiento inicial es elim
 Estar fuera de la órbita puede costar rondas adicionales de los cañones Gauss debido a la caída de daños y se producirá un desperdicio de eyectores de calor. No es aconsejable disparar fuera de la distancia efectiva.
 
 # Modo de sueño Thargoid
--The interceptor will enter a sleep mode after a destruction of a heart and the commander maintains his ships heat below 15%.
+-El interceptor entrará en modo de sueño después de una destrucción de un corazón si el comandante mantiene la temperatura de su Nave por debajo del 15%.
 
--The sleep mode will prevent the interceptor from launching its caustic missiles allowing the commander to completely avoid that stage of interceptor combat.
+-El modo de sueño evitará que el interceptor lance sus misiles cáusticos permitiendo al comandante evitar por completo esa etapa de combate contra los interceptores.
 
 -The sleep mode will also prevent the activation of the interceptors shut down field removing the need for a shut down field neutralizer and also removing the need from having to have flight assist off and boost away from the interceptor while shut down. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
 
