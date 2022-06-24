@@ -1,6 +1,6 @@
 ---
 title: Enjambres de Thargons
-description: Detailed behaviour and mechanics of Thargon Swarms
+description: Comportamiento detallado y mecánica de los Enjambres Thargon
 published: verdadero
 date: 2021-09-19T11:13:03.841Z
 tags: thargoides, interceptores, enjambres
