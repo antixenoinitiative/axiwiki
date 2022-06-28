@@ -146,13 +146,13 @@ The purpose of engaging the swarm first on the initial engagement is to remove t
 Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
 
 # Thargoid Sleep Mode
--The interceptor will enter a sleep mode after a destruction of a heart and the commander maintains his ships heat below 15%.
+- L'interceptor entrerà in modalità sospensione dopo la distruzione di un cuore e il comandante manterrà il calore della sua nave al di sotto del 15%.
 
--The sleep mode will prevent the interceptor from launching its caustic missiles allowing the commander to completely avoid that stage of interceptor combat.
+- La modalità sospensione impedirà all'intercettore di lanciare i suoi missili caustici consentendo al comandante di evitare completamente quella fase di combattimento dell'intercettore.
 
--The sleep mode will also prevent the activation of the interceptors shut down field removing the need for a shut down field neutralizer and also removing the need from having to have flight assist off and boost away from the interceptor while shut down. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
+- La modalità di sospensione impedirà anche l'attivazione del campo di spegnimento degli intercettori, eliminando la necessità di un neutralizzatore di campo e rimuovendo anche la necessità di dover disattivare Flight Assist e allontanarsi dall'interceptor durante lo spegnimento. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
 
--The window the interceptor will be in sleep mode lasts approximately 30 seconds.
+- La finestra in cui l'intercettore sarà in modalità di sospensione dura circa 30 secondi.
 
 -This is why the importance of the thermal vent beam laser comes into play allowing a ship to maintain 0% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks.
 
