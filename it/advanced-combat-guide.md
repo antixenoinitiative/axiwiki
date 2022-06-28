@@ -1,6 +1,6 @@
 ---
 title: Guida al Combattimento Avanzato
-description: Based on the Odysseus Doctrine by CMDR Avasa Siuu
+description: Basato sulla metodo Odysseus di CMDR Avasa Siuu
 published: true
 date: 2022-03-03T01:30:27.035Z
 tags: outfitting, combat, thargoids, interceptors
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
 ---
 
-# Guida al combattimento avanzato contro i thargoid
+# Guida al combattimento avanzato contro i Thargoid
 Lo scopo di questo metodo è quello di introdurre piloti nuovi o veterani a un modo particolare di combattere e costruire navi contro tutte e 4 le varianti di thargoid. Il costo iniziale e' pensato per essere il piu' basso possible per consentire a chiunque di poter combattere qualsiasi variante di thargoid. In più, le diverse tattiche e manovre si applicano a tutte e 4 le varianti, con una sola manovra in piu' che serve per i basilisk.
 
 Affinché questo metodo sia efficace, un pilota deve avere una comprensione di base di come volare senza flight assist. Usare il flight assist andra' a interferire con le manovre che fanno parte di questo metodo, e pertanto e' molto difficile applicarlo con flight assist on.
@@ -40,13 +40,13 @@ Questo metodo usa la Chieftain come nave di riferimento. Si puo' usare anche la 
 - 1A Auto Field-Management Unit
 
 ## Hardpoints
-- 2B Guardian Gauss Cannons x2 (Fitted in the 2 Large Slots)
+- 2B Guardian Gauss Cannons x2 (montato nei 2 Large Slots)
 - 2B Remote Release Flak Launcher (Medium Slot)
-- 1D Guardian Gauss Cannons x2 (Fitted in the two small slots to the left and right of the hull)
-- 1G Beam Laser (Long Range/Thermal Vent fitted in the small middle weapon slot)
+- 1D Guardian Gauss Cannons x2 (Montato nei due small slots a sinistra e a destra dello scafo)
+- 1G Beam Laser (Long Range/Thermal Vent montato nello slot arma medio/piccolo)
 
 ## Utility
-- 3x OI Heat Sink Launchers(Ammo Capacity)
+- 3x OI Heat Sink Launchers (Ammo Capacity)
 - Xeno Scanner/Heat Sink Launcer ( in base alle preferenze del pilota, se preferisce avere le informazioni sulla hull del Thargoid e sul numero dei componenti dello swarm)
 
 Se preferite non usare uno Xeno Scanner, in particolar modo per le varianti inferiori, avere un quarto heatsink assicurera', nella maggior parte dei casi di non avere bisogno di sintetizzarli.
@@ -56,7 +56,7 @@ Lo scopo degli ingegneri elencati e' quello di ridurne al minimo il numero neces
 
 ## Ingegneri essenziali:
 - The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
-- Selene Jean (Kuk) - G5 Hull Reinforcement Package (Heavy Duty/Deep Plate)
+- The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
 - G5 Armor (Heavy Duty/Deep Plate)
 - Hera Tani (Kuwemaki) - G5 Power Plant (Armored/Thermal Spread)
 - Professor Palin (Arque) - G5 Thrusters(Dirty/Drag Drives)
@@ -128,24 +128,24 @@ VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lv
 -
 - Iniziate il vostro prossimo “ciclo”di combattimento con i pips impostati a 0-2-4
 -
-- Another similar tactic to the cold boost would be to engage silent running and perform your boost maneuver 180 degrees past the Basilisk. (The options taken will be dependent upon the commander.) The purpose of this maneuver is to allow the commander to save a heat sink and achieve the same outcome while taking advantage of the shieldless build.
+- Un'altra tattica simile alla spinta a freddo, sarebbe quella di ingaggiare in silent running, ed eseguire la manovra di boost 180 gradi oltre il Basilisco. (Le opzioni adottate dipenderanno dal comandante.) Lo scopo di questa manovra è permettere al comandante di salvare un dissipatore di calore e raggiungere lo stesso risultato sfruttando la costruzione senza scudo.
 
-## Basilisk Considerations
-The Basilisk variant has a top speed of 530m/s. The doctrine chieftain can not outrun the Basilisk if followed to the fitting. A required maneuver of a cold boost (engaging a heat sink before boosting 180 degrees past the Basilisk) will allow you to gain valuable distance from the Basilisk to allow you to synthesize more heat sinks or ammo or perform any repairs to your ship before committing to your next combat loop. The Basilisk does not do well when it has to adjust its momentum from one direction to the opposite. Do take in mind this will put you in the path of the swarm also triggering its agitated state if you fly through it.
+## Considerazioni sul Basilisk
+La variante Basilisk ha una velocità massima di 530 m/s. La build del chieftain non può superare il Basilisk se seguita alla lettera. Una manovra necessaria di una spinta a freddo (utilizzando un dissipatore di calore prima di bustare di 180 gradi oltre il Basilisk) ti permetterà di ottenere una distanza preziosa dal Basilisk per consentire di sintetizzare più dissipatori di calore o munizioni o di eseguire qualsiasi riparazione alla tua nave prima di effettuare il tuo prossimo ciclo di combattimento. Il Basilisk non si comporta benequando deve correggere il suo movimento da una direzione all'altra. Tenete a mente, questo vi metterà nel percorso dello sciame anche innescando il suo stato agitato se volerete attraverso di esso.
 
-# Swarm Management
-The purpose of engaging the swarm first on the initial engagement is to remove the “banked” swarm of the Interceptor from the equation. Whenever an Interceptor is engaged and the heart is destroyed first, the banked swarm will then launch forcing the commander to have to deal with a second swarm. Removing the banked swarm from the equation will allow the commander to efficiently use his time to focus on all subsequent hearts.
+# Gestione dello Sciame
+Lo scopo d'ingaggiare lo sciame per primo nel combattimento iniziale è rimuovere dall'equazione lo sciame "supplementare" dell'Interceptor. Ogni volta che un Interceptor viene ingaggiato e il cuore viene distrutto per primo, lo sciame supplementare si lancerà, costringendo il comandante a doversi confrontare con un secondo sciame. La rimozione dello sciame supplementare dall'equazione consentirà al comandante di utilizzare in modo efficiente il suo tempo per concentrarsi su tutti i cuori successivi.
 
-# Cold Orbit Purpose
-- The Cold Orbit has the advantage of preventing all of the damage from the Interceptor if proper speed and orbit distance is maintained with the proper 15 degrees arc past the center bore of the Interceptor's cannons with your ship heat below 20%. This tactic is used by many veteran AX commanders to prevent any sort of damage done to their ship allowing them to continue their engagement and preventing from having to repair modules which may take up precious time, especially in the more advanced Interceptors.
+# Scopo dell'orbita fredda
+- L'Orbita Fredda ha il vantaggio di prevenire tutti i danni dell'Interceptor se la velocità e la distanza dell'orbita vengono mantenute con un arco di 15 gradi corretto oltre il foro centrale dei cannoni dell'Interceptor, con il calore della nave inferiore al 20%. Questa tattica viene utilizzata da molti comandanti veterani dell'AX per prevenire qualsiasi tipo di danno arrecato alla loro nave, consentendo loro di continuare il loro scontro e evitando di dover riparare i moduli che potrebbero richiedere tempo prezioso, specialmente negli Interceptor più avanzati.
 -
-- Cold orbiting is also the basis for more advanced Interceptor combat when wanting to use smaller ships and also for more advanced Thargon swarm management for small ships when flak launchers cannot be fitted. (beyond the scope of this guide)
+- L'orbita fredda è anche la base per il combattimento avanzato contro gli Interceptor quando si desidera utilizzare navi più piccole e anche per una gestione avanzata dello sciame Thargon con le navi piccole quando non è possibile montare i flak launchers. (beyond the scope of this guide)
 -
-- The amount of heat sinks within this doctrine will allow the destruction of any heart on any variants as long as the commander maintains a 900m-1.5km orbit maximising the damage output of the Gauss cannon.
+- La quantità di dissipatori di calore all'interno di questo metodo consentirà la distruzione di qualsiasi cuore su qualsiasi variante purché il comandante mantenga un'orbita di 900 m - 1,5 km massimizzando il danno prodotto dal cannone Gauss.
 
-Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
+Essere al di fuori dell'orbita utile può costare colpi extra dai cannoni Gauss a causa della diminuzione dei danni e si verificherà uno spreco di dissipatori di calore. È sconsigliato sparare al di fuori della area di ingaggio.
 
-# Thargoid Sleep Mode
+# Modalità Sleep dei Thargoid
 - L'interceptor entrerà in modalità sospensione dopo la distruzione di un cuore e il comandante manterrà il calore della sua nave al di sotto del 15%.
 
 - La modalità sospensione impedirà all'intercettore di lanciare i suoi missili caustici consentendo al comandante di evitare completamente quella fase di combattimento dell'intercettore.
@@ -154,11 +154,11 @@ Being outside of the orbit envelope may cost extra rounds from the Gauss cannons
 
 - La finestra in cui l'intercettore sarà in modalità di sospensione dura circa 30 secondi.
 
--This is why the importance of the thermal vent beam laser comes into play allowing a ship to maintain 0% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks.
+- Questo è il motivo per cui entra in gioco l'importanza del raggio laser con thermal vent che consente a una nave di mantenere lo 0% di calore senza la necessità di utilizzare dissipatori di calore, evitando la sintesi non necessaria di ulteriori dissipatori di calore.
 
 
 `CREDITS
-Thank you to the Anti-Xeno Initiative discord for assistance in refining this doctrine and to the following AXI Commanders for their contribution:
+Grazie alla discord dell'Iniziativa Anti-Xeno per l'assistenza nel perfezionamento di questa dottrina e ai seguenti Comandanti AXI per il loro contributo:
 CMDR Mgram,
 CMDR BADRACINGDRIVER,
 CMDR Mackenheimer,
