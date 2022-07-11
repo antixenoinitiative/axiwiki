@@ -70,26 +70,26 @@ dateCreated: 2021-06-10T04:04:18.230Z
 
 Примечание: Не считается в лимите на 4 экспериментальных оружия на один корабль.
 
-## Продвинутый ракетный лоток
+## Продвинутый блок ракет
 
-Подобно Продвинутому Многоствольному Орудию, это улучшаемый у инженера клон обычного ракетного лотка, который требует синтез специальных боеприпасов, чтобы нанести АХ урон. Из-за их экстремального урона по площади, необходимость в синтезе и участие в лимите на количество оружия, они исключены из использования в рангах AXI.
+Подобно продвинутому многоствольному орудию, представляет собой модифицированный у инженеров клон обычного блока ракет, который требует применение синтеза для нанесения AX-урона. Из-за их экстремального урона по площади, необходимость в синтезе и участие в лимите на количество оружия, они исключены из использования в рангах AXI.
 
-**Recommendation:** Use at own discretion (Cannot use without synth, Banned from use in AXI ranks)
+**Рекомендации:** Используйте по своему усмотрению (нельзя использовать без синтеза, запрещено использование для повышения ранга AXI)
 
 Примечание: Не считается в лимите на 4 экспериментальных оружия на один корабль.
 
-## Focused Long-Range High-Penetration Guardian Shard Cannon (Class Two)
+## Осколочное орудие Стражей (Класс 2), с чертежами «Точное», «Дальнобойное» и эксп. эффектом «Бронебойные снаряды»
 
-An extremely powerful version of the normal shard cannon, able to reliably hit interceptors from outside 3km range. It functions very differently, having near-hitscan shot speed and extremely long range. Due to this and the fact that it is not obtainable for most CMDRs, it is banned from use in ranks.
+Чрезвычайно мощная версия обычного залпового орудия, способно надёжно поражать перехватчики с расстояния свыше 3 км. Функционирует совершенно по-другому, имея скорость, близкую к скорости кинетичского выстрела и чрезвычайно большую дальность стрельбы. В связи с этим, а также тем, что оно недоступно для большинства командиров, оно запрещено для повышения рангов AXI.
 
-**Recommendation:** Use at own discretion (Banned from use in AXI ranks)
+**Рекомендация:** Используйте по собственному усмотрению (Запрещено использовать для повышения рангов AXI)
 
-Note: Cannot currently be obtained unless you participated in the initial CG
+Примечание: В настоящее время невозможно получить, если вы не участвовали в первоначальном ЦС
 
-## Hi-Cap Burst Fire Guardian Gauss Cannon (Class Two)
+## Пушка Гаусса Стражей (класс 2) с чертежом «Вместительный магазин»
 
-Another one of Salvation's pet projects, the stats for this weapon remain to be seen.
+Еще один из любимых проектов Salvation, характеристики этого оружия остаются неизвестными.
 
-**Recommendation:** None yet, although it is expected to be powerful.
+**Рекомендации:** Пока его нет в наличии, хотя ожидается, что оно будет мощным оружием.
 
-Note: See [Salvation Gauss](https://wiki.antixenoinitiative.com/es/salvation-gauss) for more information
+Примечание: См. [Salvation Gauss](https://wiki.antixenoinitiative.com/es/salvation-gauss) для получения большей информации
