@@ -2,7 +2,7 @@
 title: Construcciones Recomendadas
 description: Recommended Anti-Xeno Ship Builds
 published: verdadero
-date: 2022-01-13T22:15:01.146Z
+date: 2022-07-28T12:52:50.985Z
 tags: construcciones
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -25,71 +25,67 @@ Los interceptores Thargoid son enemigos muy duros y poderosos que requerirán na
 
 Estos son los tipos de construcciones más comunes que se utilizan en el Combate AntiXeno.
 
--   **Construcciones con Escudos rápidas** (Híbridos Bi-Weave) - Naves con buena velocidad y pequeños escudos que se regeneran rápidamente (Principiante)
+-   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage (Moderate)
 
--   **Construcciones rápidas sin escudo** (Orbitadores fríos): naves rápidas que no usan escudo y mecánicas frías para evadir el daño (Moderado)
-
--   **Construcciones de escudos lentas** (Tanques de escudos): Naves grandes y lentas con escudos, usando reinicios para regenerar escudos periódicamente (Moderado/Avanzado)
+-   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically (Moderate/Advanced)
 
 
 ## Construcciones para Principiantes
 
-Todas estas construcciones utilizan escudos para proporcionar un estilo de combate más familiar, al mismo tiempo que están equipadas para técnicas de órbita fría. Si está buscando facilitar el combate AX, se recomiendan las versiones con escudo debido a su facilidad de uso en los interceptores variantes Cyclops y Basilisk. Estas naves se dividen en dos categorías: Bi-Weave Hybridos, que hacen uso de técnicas de Orbita fría pero proporcionan escudos como respaldo, y Tanques de Escudos, que dependen de un escudo crudo masivo MJ para mantenerlos con vida.
+When starting out, stick to the tried and true. The Chieftain and the Krait have been the best ships for AX combat for a long time. The Chieftain offers exceptional agility paired with an excellent set of hardpoints. The Krait trades agility for tankiness and can run four medium AX weapons. The odd one out is the Imperial Cutter as a large shielded ship, offering an entirely different style of combat.
 
 ## Tabset {.tabset}
 
-### Krait Mk.II (Escudo)
+### Alliance Chieftain (Shieldless)
 
-#### **Krait Mk.II (Escudo)**
+#### **Alliance Chieftain (Shieldless)**
 
-El Krait Mk.II, el barco AX más recomendado y más completo para todos los interesados en matar Thargoids, tiene suficiente potencia de fuego para matar a los interceptores más duros y, al mismo tiempo, tiene suficientes escudos y casco para poder recuperarse de algunos errores. Una embarcación AX muy capaz, aunque la versión con escudo solo puede llegar hasta cierto punto.
+The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-de-Lance in PVP. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
 
-Tipo: **Híbrido Bi-Weave**
+Type: **Cold**
 
 - Velocidad: ⭐⭐⭐⭐⭐
-- Agilidad: ⭐⭐⭐
-- Escudo: ⭐⭐⭐⭐⭐
-- Armadura: ⭐⭐⭐
-- Potencia de fuego: ⭐⭐⭐⭐
+- Agility: ⭐⭐⭐⭐⭐
+- Shield:
+- Armour: ⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐
 
-Recomendación: Mejor nave de inicio, para nuevos pilotos en AX.
+Recommendation: Unarguably the best ship and build style for AX combat.
 
-[Construcción con Escudo de Coriolis](https://s.orbis.zone/f8l4)
+[Coriolis Meta Shieldless Build](https://s.orbis.zone/eu9w)
 
-[Construcción EDSY con Escudo](https://edsy.org/s/vbLKqFW)
+[EDSY Meta Shieldless Build](https://edsy.org/s/vwJ9Lqq)
 
-Video de revisión de AX Krait Mk.II: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
+AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
+### Krait Mk.II (Shieldless)
 
-Nota: Si bien esta compilación usa Consumo Reducido en los escudos, Carga Rápida experimental también es una excelente opción que requiere más administración de pips pero da una recarga más rápida.
+#### **Krait Mk.II (Shieldless)**
 
-### Alliance Chieftain (Escudo)
+The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output for beginners. The Krait's massive power plant also allows it to idle under 20% heat, which allows for cold approaches without a heatsink or thermal vent beam.
 
-#### **Alliance Chieftain (Escudo)**
+Type: **Cold Orbiter**
 
-El Alliance Chieftain, similar al Krait Mk.II es una nave AX muy capaz. El Chieftain tiene una potencia de fuego general ligeramente menor, pero puede equipar un láser Haz con Ventilacion Térmico que permite a los pilotos comenzar a aprender técnicas de órbita fría. Mucho más ágil que el Krait Mk.II, esta construcción es perfecta para las personas que buscan volar el Chieftain sin escudos, pero aún quieren la comodidad de los escudos.
-
-Tipo: **Híbrido Bi-Weave**
 - Velocidad: ⭐⭐⭐⭐⭐
-- Agilidad: ⭐⭐⭐⭐⭐
-- Escudo: ⭐⭐
-- Armadura:   ⭐⭐⭐⭐
-- Potencia de fuego: ⭐⭐⭐
+- Agility: ⭐⭐⭐
+- Shield:
+- Armour: ⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐⭐
 
-Recomendación: Buen camino de actualización para pilotos seguros. Más potencial a largo plazo.
+Recommendation: For people that like headroom on the distributor and don’t like yawing.
 
-[Construcción con Escudo de Coriolis](https://s.orbis.zone/eua5)
+[Coriolis Shieldless Build](https://s.orbis.zone/eu9v)
 
-[Construcción EDSY con Escudo](https://edsy.org/s/vgDtxz2)
+[EDSY Shieldless Build](https://edsy.org/s/vtQUkCk)
 
-Video de revisión de Chieftain AX: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
+AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
 ### Imperial Cutter (Escudo)
 
 #### **Imperial Cutter (Escudo)**
 
-Si prefiere volar grandes barcos el Imperial Cutter es el barco recomendado para ir. De todas las naves grandes, el Cutter es el único capaz de correr más rapido que la mayoría de los interceptores Thargoid. El Cutter se basa en escudos prismáticos para aguantar grandes cantidades de daño. Si usted tiene la intención de utilizar el Cutter, le recomendamos leer la Guía de Nave Grande Anti-Xeno.
+If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
 
-Tipo: **Tanque de escudo**
+Type: **Shield Tank**
 
 - Velocidad: ⭐⭐⭐⭐
 - Agilidad: ⭐⭐
@@ -97,159 +93,116 @@ Tipo: **Tanque de escudo**
 - Armadura: ⭐⭐⭐⭐
 - Potencia de fuego: ⭐⭐⭐⭐
 
-Recomendación: Diferentes estilos de lucha y por lo general muy capaces con interceptores más débiles. Se vuelve mucho más difícil para las variantes más duras.
+Recommendation: Different fighting style and generally very capable with weaker Interceptors. Becomes much harder for tougher variants.
 
-[Construcción con Escudo de Coriolis](https://s.orbis.zone/3wbf)
+[Coriolis Shielded Build](https://s.orbis.zone/3wbf)
 
-[Construcción EDSY con Escudo](https://is.gd/DgmHXb)
+[EDSY Shielded Build](https://is.gd/DgmHXb)
 
 ## Construcciones Intermedias
 
-Estas construcciones están dirigidas a comandantes más experimentados, ya sea aquellos que hayan volado las naves anteriores contra Thargoids antes o que tengan experiencia previa en combate PVP. Estas naves son generalmente más capaces que las construcciones para principiantes y son más adecuadas para todas las variantes de interceptores. Estas construcciones son orbitadores fríos, que utilizan la órbita fría para evadir la mayoría de los daños y reparar los daños sufridos en el casco con Drones de reparacion.
+These builds are targeted at more experienced commanders, either those who have flown the above ships against Thargoids before or have prior PVP combat experience. These ships offer different flight characteristics, new hardpoint setups and generally some variety while requiring more experience to use effectively.
 
 ## Tabset {.tabset}
 
-### Alliance Chieftain (Escudo)
+### Alliance Challenger (Shieldless)
 
-#### **Alliance Chieftain (Escudo)**
+#### **Alliance Challenger (Shieldless)**
 
-El Alliance Chieftain sin escudo es la meta indiscutible de AX, al igual que el Fer-de-Lance en PVP. Proporcionando buen casco, espacio de carga, agilidad y potencia de fuego, el Chieftain puede orbitar en frío sin esfuerzo mientras mantiene un devastador fuego gauss. Sus amplios puntos de anclaje también permiten cuatro cañones gauss además de un lanzador antiaéreo y un rayo láser de ventilación térmica. Su nave hermana, la Alliance Challenger, proporciona más daño y Armadura a costa de la velocidad.
+The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower alternative with higher damage output against an interceptor’s shields. Depending on preference, it can also have more raw hull than a standard Chieftain build. Its three medium hardpoints with good convergence make it a better platform for running modified Shard Cannons or Plasma Chargers.
 
-Tipo: **Frío**
+Type: **Cold Orbiter**
 
-- Velocidad: ⭐⭐⭐⭐⭐
-- Agilidad: ⭐⭐⭐⭐⭐
+- Speed: ⭐⭐⭐⭐
+- Agility: ⭐⭐⭐⭐
 - Escudo:
 - Armadura: ⭐⭐⭐⭐
-- Potencia de fuego: ⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐
 
-Recomendación: indiscutiblemente la nave y construcción para el combate AX.
+Recommendation: A great ship for those who find the Chieftain too responsive.
 
-[Construcción Meta sin escudo Coriolis](https://s.orbis.zone/eu9w)
+[Coriolis Shieldless Build](https://s.orbis.zone/fnnx)
 
-[EDSY Construcción sin escudos](https://edsy.org/s/vwJ9Lqq)
+[EDSY Shieldless Build](https://edsy.org/s/v6Rppcb)
 
-Video de revisión de Chieftain AX: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
-### Krait Mk.II (sin escudos)
+### Federal Corvette (Shieldless)
 
-#### **Krait Mk.II (sin escudos)**
+#### **Federal Corvette (Shieldless)**
 
-Una versión sin escudo del principiante Krait MK.II. El Krait sin escudo, aunque no tan maniobrable como el Chieftain, proporciona una mayor potencia de fuego. El enorme nucleo de energía del Krait también le permite estar inactivo debajo de 20% de calor, lo que permite aproximaciones frías sin un disipador de calor o un rayo de ventilación térmica.
+One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. When shieldless, it stays icy cold while firing on all cylinders.
 
-Tipo: **Orbita frío**
+Type: **Cold Orbiter**
 
-- Velocidad: ⭐⭐⭐⭐⭐
+- Speed: ⭐⭐
 - Agilidad: ⭐⭐⭐
 - Escudo:
-- Armadura: ⭐⭐⭐⭐
-- Potencia de fuego: ⭐⭐⭐⭐⭐
+- Armour: ⭐⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐
 
-Recomendación: Una gran mejora desde la construcción blindada.
+Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
 
-[Construcción de Coriolis sin escudo](https://s.orbis.zone/eu9v)
+[Coriolis Build](https://s.orbis.zone/fnn_)
 
-[Construcción sin escudo EDSY](https://edsy.org/s/vtQUkCk)
+[EDSY Build](https://edsy.org/s/vA8F5FD)
 
-Video de revisión de AX Krait Mk.II: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
+### Federal Corvette (Shielded)
 
-### Alliance Challenger (sin Escudos)
+#### **Federal Corvette (Shielded)**
 
-#### **Alliance Challenger (sin Escudos)**
+One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. By utilizing prismatic or even bi-weave shields, the Corvette can slug it out with the toughest of targets. Type: **Shield Tank**
 
-El Alliance Challenger, nave hermana del más popular Alliance Chieftain, es una alternativa más lenta pero más estable con una potencia de fuego ligeramente mayor. Dependiendo de la preferencia, también puede tener más Armadura crudo que un Chieftain estándar.
-
-Tipo: **Orbita frío**
-
-- Velocidad: ⭐⭐⭐⭐
-- Agilidad: ⭐⭐⭐⭐
-- Escudo:
-- Armadura: ⭐⭐⭐⭐
+- Speed: ⭐⭐
+- Agility: ⭐⭐⭐
+- Shield:⭐⭐⭐⭐
+- Armour: ⭐⭐⭐⭐⭐
 - Potencia de fuego: ⭐⭐⭐⭐
 
-Recomendación: Un gran barco para aquellos que encuentran que el Chieftain se tambalea demasiado o es muy ágil.
+Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
 
-[Construcción de Coriolis sin escudo](https://s.orbis.zone/fnnx)
+[Coriolis Build](https://s.orbis.zone/hvm_)
 
-[Construcción sin escudo EDSY](https://edsy.org/s/v6Rppcb)
-
-### Corvette Federal (sin escudos)
-
-#### **Corvette Federal (sin escudos)**
-
-Uno de los "tres grandes" el Corvette Federal es una fuerza a tener en cuenta. Al ofrecer un enorme distribuidor de energía y un casco (Armadura) enorme, el barco solo pierde en la velocidad. Mientras que esta nave necesita más habilidad para volar, es un favorito de muchos pilotos AX experimentados. Cuando no tiene escudo, permanece helado mientras dispara con todos los cilindros.
-
-Tipo: **Orbita frío**
-
-- Velocidad: ⭐⭐
-- Agilidad: ⭐⭐⭐
-- Escudo:
-- Armadura: ⭐⭐⭐⭐⭐
-- Potencia de fuego: ⭐⭐⭐⭐
-
-Recomendación: Un gran barco excepcional para aquellos que buscan algo así. Requiere un buen conocimiento de las mecánicas AX.
-
-[Construcción de Coriolis](https://s.orbis.zone/fnn_)
-
-[Construcción EDSY](https://edsy.org/s/vA8F5FD)
-
-### Federal Corvette (con Escudos)
-
-#### **Federal Corvette (con Escudos)**
-
-Uno de los "tres grandes" el Corvette Federal es una fuerza a tener en cuenta. Al ofrecer un enorme distribuidor de energía y un casco (Armadura) enorme, el barco solo pierde en la velocidad. Mientras que esta nave necesita más habilidad para volar, es un favorito de muchos pilotos AX experimentados. Al utilizar escudos prismáticos o incluso bi-tejidos, el Corvette puede aguantar a los objetivos más duros. Tipo: **Tanque de escudo**
-
-- Velocidad: ⭐⭐
-- Agilidad: ⭐⭐⭐
-- Escudo:⭐⭐⭐⭐
-- Armadura: ⭐⭐⭐⭐⭐
-- Potencia de fuego: ⭐⭐⭐⭐
-
-Recomendación: Un barco grande excepcional para aquellos que buscan tal cosa. Requiere un buen conocimiento de las mecánicas AX.
-
-[Construcción de Coriolis](https://s.orbis.zone/hvm_)
-
-[Construcción EDSY](https://edsy.org/s/vrSQgX4)
+[EDSY Build](https://edsy.org/s/vrSQgX4)
 
 
 ## Construcciones avanzadas
-Se puede encontrar una colección de Construciones más avanzadas en la página Construciones Avanzadas.
+A collection of more advanced builds can be found on the Advanced Builds page.
 
-Vea aún más construcciones de barcos visitando nuestra [ Compilacion de construcciones de barcos ](/en/buildrepository), una gran colección de construcciones de barcos creadas por pilotos AXI experimentados, junto con estadísticas completas, calificaciones y enlaces de construcción.
+View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
 
 # Construcciones para Exploradores Thargoids
-La caza de exploradores es un método muy eficiente para aumentar el rango de combate. Esto se debe a que todos los exploradores se consideran objetivos Peligrosos o Letales y darán mucha experiencia por muerte. Debido al ** 77% de resistencia ** a las armas humanas, es muy ineficiente usar armas normales contra ellas. Debido a la naturaleza de vuelo impredecible de los exploradores, recomendamos encarecidamente el uso de cañones múltiples anti-xeno con torretas grandes como el arma más eficaz para cazar exploradores.
+Hunting scouts is a very efficient method to increase combat rank. This is because all scouts are considered dangerous or deadly targets and will give a lot of experience per kill. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
 
-Estos son los más adecuados ya que no se ven afectados por la resistencia del 77%, pueden permanecer activamente en el objetivo con los exploradores y son muy eficientes en cuanto a munición. Tenga en cuenta que hay un límite de 4 armas (Experimentales) AX por Nave.
+These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. Keep in mind that there is a limit of 4 AX Weapons per vessel.
 
 ## Módulos Extra sugeridos
-- **Controlador de Drones de descontaminación (y Compartimentos de Carga)** - Para cuando sea alcanzado por misiles cáusticos.
-- **Escáner de Xeno (opcional)** - Te permite ver salud del Explorador.
-- **Refuerzos Estructurales** - Los exploradores infligen daño de fase, que te dañará a través de escudos, necesitarás tanto escudos pesados Armadura.
+- **Decontamination Limpet Controller (and Cargo Racks)** - For when hit by caustic missiles.
+- **Xeno Scanner (optional)** - Lets you see scout health %.
+- **Hull Reinforcements** - Scouts deal phasing damage which will damage you through shields, you will require both heavy Shields AND Hull.
 
-Y últimamente, debido a la naturaleza simple de la caza de exploradores, casi cualquier barco se puede adaptar para la tarea con bastante facilidad. Una simple regla general es….
+Ultimately, due to the simple nature of scout hunting, almost any ship can be retrofitted for the task quite easily. A simple rule of thumb is….
 
-- Armadura Decente
-- Escudos Decentes
-- Muchísimos multi cañones AX
-- Drones de descontaminación
+- Decent Hull
+- Decent Shields
+- Lots of AX Multi-Cannons
+- Decontamination Limpets
 
-¡Listo, ya puede comenzar!
+And you’re good to go!
 
 ## Construcciones para Exploradores Thargoids
 
 ## tabset {.tabset}
 
-### Construcción de Anaconda
+### Anaconda Build
 
-[**Construcción de Anaconda Coriolis**](https://coriolis.io/outfit/anaconda?code=A2putpFklndzsxf5x3x3x3x32828252502xs040404040404B05n5n2dy32d2d2d2b03m72G08.AwRj4yuzRI%3D%3D.Aw18ZXEA.H4sIAAAAAAAAA42Tv0tCURTHjz%2FL%2FPH0%2BetpmlaaYBA2BkJTEFHgENVYu0NDgYhDLdEYDU0N%2FgltNTg2NjQ2iLNDQ4SElJ3TOY%2B8kBDcB%2B%2FLge%2Fnnnvved8HOAUA3x6W0TWLv%2BMECJ4FACIHXJkPfoDCwAFADlxXZItl%2BtEHYFQ%2FiBJtg30nJpR%2FwmLUvohi1ogoLr7VdwEsXkaZdGFakQ0hC59E9k6xVpzJLjvkxtUxZDRe2X%2FqEZEHq2rpOYtPls6IzIssBJCoeJwEWKpEuIkXj8a4GS4BrGwOiFLbWbYCuK868QvlGvxe194%2FJfiyCAW1yRDu%2FSG9u%2B9ExlWfT%2F%2FSJbIO3%2FgKhna7MBaFdAklg7OvkLFHaOKGanIrI5KlZuWUm8hnyb2EGIrqQDEdKK4DJXSgpA5k4Y6C6ixOSZH3zs3xXONpRHoscSELHU4vpXBrPKfRBYujzaG0Q2U9s1%2FKS%2FKGQ559WpucxbI6wo38F%2FdchvIZ3l0qUyJdkIqy2uTcJFlXZF2RUlFOm8xPkk1FNhUpFRH8%2B%2FwAJZhA2wUEAAA%3D.EweloBhBmUEYBsICmBDA5gG2SEcIEhTFA%3D%3D%3D&bn=AX%20Conda)
-- Puede equipar todos los 4 AX Multi-Cañones en puntos de anclaje grandes
-- Tiene buenos anclajes para varios cañones torretas
-- Puede equiparse con grandes escudos y refuerzos para un farmeo sin preocupaciones
+[**Anaconda Coriolis Build**](https://coriolis.io/outfit/anaconda?code=A2putpFklndzsxf5x3x3x3x32828252502xs040404040404B05n5n2dy32d2d2d2b03m72G08.AwRj4yuzRI%3D%3D.Aw18ZXEA.H4sIAAAAAAAAA42Tv0tCURTHjz%2FL%2FPH0%2BetpmlaaYBA2BkJTEFHgENVYu0NDgYhDLdEYDU0N%2FgltNTg2NjQ2iLNDQ4SElJ3TOY%2B8kBDcB%2B%2FLge%2Fnnnvved8HOAUA3x6W0TWLv%2BMECJ4FACIHXJkPfoDCwAFADlxXZItl%2BtEHYFQ%2FiBJtg30nJpR%2FwmLUvohi1ogoLr7VdwEsXkaZdGFakQ0hC59E9k6xVpzJLjvkxtUxZDRe2X%2FqEZEHq2rpOYtPls6IzIssBJCoeJwEWKpEuIkXj8a4GS4BrGwOiFLbWbYCuK868QvlGvxe194%2FJfiyCAW1yRDu%2FSG9u%2B9ExlWfT%2F%2FSJbIO3%2FgKhna7MBaFdAklg7OvkLFHaOKGanIrI5KlZuWUm8hnyb2EGIrqQDEdKK4DJXSgpA5k4Y6C6ixOSZH3zs3xXONpRHoscSELHU4vpXBrPKfRBYujzaG0Q2U9s1%2FKS%2FKGQ559WpucxbI6wo38F%2FdchvIZ3l0qUyJdkIqy2uTcJFlXZF2RUlFOm8xPkk1FNhUpFRH8%2B%2FwAJZhA2wUEAAA%3D.EweloBhBmUEYBsICmBDA5gG2SEcIEhTFA%3D%3D%3D&bn=AX%20Conda)
+- Can fit all 4x AX Multi-Cannons in large hardpoints
+- Has good angles for turreted Multi-Cannons
+- Can be fitted with large shields and boosters for worry-free farming
 
-### Construcción de Krait Mk.II
+### Krait Mk.II Build
 
-[**Construir Krait Mk.II Coriolis**](https://coriolis.io/outfit/krait_mkii?code=A2pptkFflfdussf5x3x3x3x10sxs040404B12d2dy303292H2G08.Iw18eQ%3D%3D.IwBj4yoo.H4sIAAAAAAAAA43Rv0vDcBAF8Nc0rdbGpkmb0oq%2FjQodio5d3AQHhW466iodFRwUdHMu4uTgn%2BAg6NBROjs6iIiTo0MnrXfeFT2wUzM8Htwn%2BSYX0AiA75REryWRbTvA%2BKkHBDvSwvssEHcTACdozeSJxGjji9l%2FrQGlG1fkozyIHSoZOpDwFRXLPebo2gfK70lg4bwgMkkTJo9Uxp%2FM%2FeOKx5HIZ5mwS6uKXJ3vfsj89o2ZU1S3W88kMh4xj10EwJy2eW2L2pa0cZr2%2FniYXwZqG13myuaUjDzatidNS1Qb%2BP3m%2FvkV5ZyjdUNX%2BiY6ClcOBT1kgJmnnCB%2FGJQfBgW0ZWhfwtHtpXXF2bpsL3iRiFTGbd14SFXjl%2FoD76TmZidFagt17bE2LgzKpsmmSW1cGpQdkx2T2pjx%2F%2FoBomHYA08CAAA%3D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%3D%3D&bn=AX%20Krait)
-- Puede equipar 3 AX Multi-Cañones en puntos de anclaje grandes y 1 AX Multi-Cañon en un anclaje mediano
-- Alternativamente puede equipar 2 Multi Cañones AX en anclajes grandes y 2 Cañones Gauss Guardian en los anclajes medianos (permite la práctica de la puntería de Gauss y se vuelve más eficaz una vez que el piloto es competente con Gauss)
-- Alta movilidad para mantener los objetivos dentro o fuera del alcance segun desea el piloto.
-- La movilidad permite el uso de escudos Bi-Weave, saliendo de combate para la regeneración del escudo.
+[**Krait Mk.II Coriolis Build**](https://coriolis.io/outfit/krait_mkii?code=A2pptkFflfdussf5x3x3x3x10sxs040404B12d2dy303292H2G08.Iw18eQ%3D%3D.IwBj4yoo.H4sIAAAAAAAAA43Rv0vDcBAF8Nc0rdbGpkmb0oq%2FjQodio5d3AQHhW466iodFRwUdHMu4uTgn%2BAg6NBROjs6iIiTo0MnrXfeFT2wUzM8Htwn%2BSYX0AiA75REryWRbTvA%2BKkHBDvSwvssEHcTACdozeSJxGjji9l%2FrQGlG1fkozyIHSoZOpDwFRXLPebo2gfK70lg4bwgMkkTJo9Uxp%2FM%2FeOKx5HIZ5mwS6uKXJ3vfsj89o2ZU1S3W88kMh4xj10EwJy2eW2L2pa0cZr2%2FniYXwZqG13myuaUjDzatidNS1Qb%2BP3m%2FvkV5ZyjdUNX%2BiY6ClcOBT1kgJmnnCB%2FGJQfBgW0ZWhfwtHtpXXF2bpsL3iRiFTGbd14SFXjl%2FoD76TmZidFagt17bE2LgzKpsmmSW1cGpQdkx2T2pjx%2F%2FoBomHYA08CAAA%3D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%3D%3D&bn=AX%20Krait)
+- Can fit 3x AX Multi-Cannons in large hardpoints and 1x AX Multi-Cannon in a medium slot
+- Alternatively can fit 2x AX Multi-Cannons in large hardpoints, and 2x Guardian Gauss Cannons in the medium hardpoints (allows for Gauss aim practice and becomes more effective once the user is proficient with Gauss)
+- High mobility to keep targets in range or disengage.
+- Mobility allows for use of Bi-Weave shields, disengaging for shield regen.
