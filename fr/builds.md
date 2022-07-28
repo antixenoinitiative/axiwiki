@@ -2,7 +2,7 @@
 title: Équipements Recommandés
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2022-01-13T22:15:01.146Z
+date: 2022-07-28T12:52:50.985Z
 tags: équipement
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -25,87 +25,14 @@ Les Intercepteurs Thargoids sont de très puissants ennemis d'une solidité rema
 
 Voici les plus communs.
 
--   **Vaisseaux Rapides avec Boucliers** (Hybrides, Boucliers Entrelacés) - Vaisseaux rapides avec des boucliers qui se rechargent vite. (Débutant)
+-   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage (Moderate)
 
--   **Vaisseaux Rapides sans Boucliers** (Orbiteurs Froids) - Vaisseaux rapides qui n'utilisent pas de bouclier mais des mécaniques de gestion de température et des maneuvres particulières pour éviter les dégâts. (Intermédiaire)
-
--   **Vaisseaux Lents avec Boucliers** (Boucliers Lourds) - Vaisseaux plus lents avec des boucliers très importants qui utilisent des redémarrages périodiques pour régénérer leurs boucliers. (Intermédiaure/Avancé)
+-   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically (Moderate/Advanced)
 
 
 ## Vaisseaux pour Débutants
 
-Ces configurations utilisent toutes des boucliers pour permettre un style de combat plus familier, tout en étant équipées pour effectuer un orbite froid. Les vaisseaux équippés de boucliers, grâce à leur facilité d'usage contre les variantes Cyclops et Basilisk, sont recommandés pour les débutants en combat AX. Ils se divisent en deux catégories: les Hybrides avec Boucliers Entrelacés, qui utilisent les techniques d'Orbite Froid mais ont les boucliers comme sécurité, et les Tanks avec Boucliers Lourds qui s'appuient sur des valeurs gigantesques de boucliers bruts pour se maintenir en vie.
-
-## Liste {.tabset}
-
-### Krait Mk.II (Avec Boucliers)
-
-#### **Krait Mk.II (Avec Boucliers)**
-
-Etant le plus recommandé pour les débutants et le plus polyvalent des vaisseaux pour le combat AX, le Krait Mk.II a une puissance de feu suffisante pour affronter les plus gros intercepteurs tout en gardant une coque et des boucliers suffisants pour rattraper quelques erreurs. Un vaisseau AX très capable, mais la version avec boucliers est vite limitée.
-
-Type: **Hybride, Boucliers Entrelacés**
-
-- Vitesse: ⭐⭐⭐⭐⭐
-- Maniabilité: ⭐⭐⭐
-- Boucliers:⭐⭐⭐⭐
-- Coque: ⭐⭐⭐
-- Puissance de Feu: ⭐⭐⭐⭐
-
-Recommandation: Meilleur choix possible pour un débutant en combat AX.
-
-[Configuration avec Boucliers sur Coriolis](https://s.orbis.zone/f8l4)
-
-[Configuration avec Boucliers sur EDSY](https://edsy.org/s/vbLKqFW)
-
-Passage en revue du Krait Mk.II AX (en Anglais): [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
-
-Note: Si cette configuration utilise l'effet expérimental Consommation Réduite sur les boucliers, Charge Rapide est également une très bonne option qui offre un rechargement plus rapide mais demande plus de gestion des pips.
-
-### Alliance Chieftain (Avec Boucliers)
-
-#### **Alliance Chieftain (Avec Boucliers)**
-
-L'Alliance Chieftain, comme le Krait Mk.II, est un tres bon vaisseau AX. La puissance de feu du Chieftain est légèrement plus faible, mais il a la possibilité d'équiper un Rayon Laser avec l'effet expérimental Event Thermique. Cela permet aux pilotes de commencer à apprendre les techniques d'Orbite Froid. Bien plus maniable que le Krait Mk.II, cette configuration est idéale pour ceux qui souhaitent piloter le Chieftain Méta (originalement sans boucliers) tout en gardant le confort des boucliers.
-
-Type: **Hybride, Boucliers Entralacés**
-- Vitesse: ⭐⭐⭐⭐⭐
-- Maniabilité: ⭐⭐⭐⭐⭐
-- Boucliers: ⭐⭐
-- Coque:   ⭐⭐⭐⭐
-- Puissance de Feu: ⭐⭐⭐
-
-Recommandation: Bonne piste d'amélioration pour les pilotes confiants. Plus de potentiel sur le long terme.
-
-[Configuration avec Boucliers sur Coriolis](https://s.orbis.zone/eua5)
-
-[Configuration avec Boucliers sur EDSY](https://edsy.org/s/vgDtxz2)
-
-Passage en revue de l'Alliance Chieftain AX (en Anglais): [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
-
-### Imperial Cutter (Avec Boucliers)
-
-#### **Imperial Cutter (Avec Boucliers)**
-
-L'Imperial Cutter est le choix à privilégier pour les amateurs de grands vaisseaux. Parmi tous les grands, le Cutter est le seul à être assez rapide pour distancer la plupart des Intercepteurs Thargoids. Le Cutter se base sur des boucliers prismatiques pour absorber de grandes quantités de dégâts. L'utilisation efficace du cutter nécessite des techniques expliquées dans le [Guide des Grands Vaisseaux Anti-Xéno](/fr/large-ship-guide).
-
-Type: **Boucliers Lourds**
-
-- Vitesse: ⭐⭐⭐⭐
-- Maniabilité: ⭐⭐
-- Boucliers:⭐⭐⭐⭐⭐
-- Coque:⭐⭐⭐⭐
-- Puissance de Feu:⭐⭐⭐⭐
-
-Recommandation: Style de combat différent et généralement très performant contre les intercepteurs les plus faibles. Devient bien plus diffficile contre les variantes plus puissantes.
-
-[Configuration avec Boucliers sur Coriolis](https://s.orbis.zone/3wbf)
-
-[Configuration avec Boucliers sur EDSY](https://is.gd/DgmHXb)
-
-## Vaisseaux pour Niveau Intermédiaire
-
-Ces configurations sont destinées aux commandants plus avancés, qui ont déjà piloté les vaisseaux ci-dessus contre des Thargoids ou qui ont de l'expérience en combat PvP. Elles ont généralement plus de potentiel que celles pour débutants et sont adaptées pour toutes les variantes d'Intercepteurs. Ce sont des Orbiteurs Froids, qui utilisent la technique de l'Orbite Froid pour éviter la majeure partie des dégâts et des drones de réparation pour restaurer la coque éventuellement perdue.
+When starting out, stick to the tried and true. The Chieftain and the Krait have been the best ships for AX combat for a long time. The Chieftain offers exceptional agility paired with an excellent set of hardpoints. The Krait trades agility for tankiness and can run four medium AX weapons. The odd one out is the Imperial Cutter as a large shielded ship, offering an entirely different style of combat.
 
 ## Liste {.tabset}
 
@@ -113,57 +40,83 @@ Ces configurations sont destinées aux commandants plus avancés, qui ont déjà
 
 #### **Alliance Chieftain (Shieldless)**
 
-L'Alliance Chieftain sans boucliers est le méta incontesté en combat AX, à l'image du Fer-de-Lance en PvP. Avec une coque solide, de l'espace de cargaison, une excellente maniabilité et une bonne puissance de feu, le Chieftain peut facilement effectuer un orbite froid tout en maintenant un feu de Canon de Gauss soutenu. Ses points d'emport généreux permettent aussi d'équiper quatre Canons de Gauss ainsi qu'un Lanceur Antaérien et un Rayon Laser avec Event Thermique. Son cousin, l'Alliance Challenger, fait plus de dégâts et a plus de coque mais perd en vitesse de pointe.
+The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-de-Lance in PVP. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
 
-Type: **Cold Orbiting**
+Type: **Cold**
 
 - Vitesse: ⭐⭐⭐⭐⭐
-- Maniabilité: ⭐⭐⭐⭐⭐
-- Boucliers:
-- Coque: ⭐⭐⭐⭐
-- Puissance de Feu: ⭐⭐⭐
+- Agility: ⭐⭐⭐⭐⭐
+- Shield:
+- Armour: ⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐
 
-Recommandation: Incontestablement le meilleur vaisseau et type de configuration pour le combat AX.
+Recommendation: Unarguably the best ship and build style for AX combat.
 
-[Configuration Méta sans boucliers sur Coriolis](https://s.orbis.zone/eu9w)
+[Coriolis Meta Shieldless Build](https://s.orbis.zone/eu9w)
 
-[Configuration Méta sans boucliers sur EDSY](https://edsy.org/s/vwJ9Lqq)
+[EDSY Meta Shieldless Build](https://edsy.org/s/vwJ9Lqq)
 
-Passage en revue de l'Alliance Chieftain AX (en Anglais): [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
+AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
 ### Krait Mk.II (Shieldless)
 
 #### **Krait Mk.II (Shieldless)**
 
-Une version sans boucliers du Krait Mk.II pour débutant. S'il n'est pas aussi maniable que le Chieftain, le Krait sans boucliers inflige de plus gros dégâts. Son immense générateur lui permet d'être à moins de 20% de température en permanence, ce qui permet une approche froide sans dissipateur thermique ou laser à ventilation thermique.
+The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output for beginners. The Krait's massive power plant also allows it to idle under 20% heat, which allows for cold approaches without a heatsink or thermal vent beam.
 
-Type: **Cold Orbiting**
+Type: **Cold Orbiter**
 
 - Vitesse: ⭐⭐⭐⭐⭐
-- Maniabilité: ⭐⭐⭐
-- Boucliers:
-- Coque: ⭐⭐⭐⭐
-- Puissance de Feu: ⭐⭐⭐⭐⭐
+- Agility: ⭐⭐⭐
+- Shield:
+- Armour: ⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐⭐
 
-Recommandation: Une très bonne amélioration de la configuration avec boucliers.
+Recommendation: For people that like headroom on the distributor and don’t like yawing.
 
-[Configuration sans Boucliers sur Coriolis](https://s.orbis.zone/eu9v)
+[Coriolis Shieldless Build](https://s.orbis.zone/eu9v)
 
-[Configuration sans Boucliers sur EDSY](https://edsy.org/s/vtQUkCk)
+[EDSY Shieldless Build](https://edsy.org/s/vtQUkCk)
 
-Passage en revue du Krait Mk.II AX (en Anglais): [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
+AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
+
+### Imperial Cutter (Avec Boucliers)
+
+#### **Imperial Cutter (Avec Boucliers)**
+
+If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
+
+Type: **Shield Tank**
+
+- Vitesse: ⭐⭐⭐⭐
+- Maniabilité: ⭐⭐
+- Boucliers:⭐⭐⭐⭐⭐
+- Coque:⭐⭐⭐⭐
+- Puissance de Feu:⭐⭐⭐⭐
+
+Recommendation: Different fighting style and generally very capable with weaker Interceptors. Becomes much harder for tougher variants.
+
+[Coriolis Shielded Build](https://s.orbis.zone/3wbf)
+
+[EDSY Shielded Build](https://is.gd/DgmHXb)
+
+## Vaisseaux pour Niveau Intermédiaire
+
+These builds are targeted at more experienced commanders, either those who have flown the above ships against Thargoids before or have prior PVP combat experience. These ships offer different flight characteristics, new hardpoint setups and generally some variety while requiring more experience to use effectively.
+
+## Liste {.tabset}
 
 ### Alliance Challenger (Shieldless)
 
 #### **Alliance Challenger (Shieldless)**
 
-The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower but more stable alternative with slightly higher damage output. Depending on preference, it can also have more raw hull than a standard Chieftain build.
+The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower alternative with higher damage output against an interceptor’s shields. Depending on preference, it can also have more raw hull than a standard Chieftain build. Its three medium hardpoints with good convergence make it a better platform for running modified Shard Cannons or Plasma Chargers.
 
 Type: **Cold Orbiter**
 
 - Speed: ⭐⭐⭐⭐
 - Agility: ⭐⭐⭐⭐
-- Shield:
-- Armour: ⭐⭐⭐⭐
+- Boucliers:
+- Coque: ⭐⭐⭐⭐
 - Firepower: ⭐⭐⭐⭐
 
 Recommendation: A great ship for those who find the Chieftain too responsive.
@@ -181,8 +134,8 @@ One of the "big three" the Federal Corvette is a force to be reckoned with. Offe
 Type: **Cold Orbiter**
 
 - Speed: ⭐⭐
-- Agility: ⭐⭐⭐
-- Shield:
+- Maniabilité: ⭐⭐⭐
+- Boucliers:
 - Armour: ⭐⭐⭐⭐⭐
 - Firepower: ⭐⭐⭐⭐
 
