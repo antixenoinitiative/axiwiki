@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2022-01-13T22:15:01.146Z
+date: 2022-07-28T12:52:50.985Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -23,8 +23,6 @@ Firstly, note there are two main types of Thargoid: **Thargoid Scouts** and **Th
 Thargoid Interceptors are very tough and powerful enemies that will require equally strong ships to be able to stand a chance in combat. Due to the incredibly high damage output of Thargoid Interceptors, there are only a handful of different styles and methods you can use effectively.
 
 These are the most common types of builds used for Anti-Xeno Combat.
-
--   **Fast Shielded Builds** (Bi-Weave Hybrids) - Ships with good speed and small shields that regenerate quickly (Beginner)
     
 -   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage (Moderate)
     
@@ -33,78 +31,7 @@ These are the most common types of builds used for Anti-Xeno Combat.
 
 ## Beginner Builds
 
-These builds all utilize shields to provide a more familiar style of combat, while also being equipped for cold orbiting techniques. If you are looking to ease into AX combat, shielded builds are recommended because of their ease of use on Cyclops and Basilisk variant Interceptors. These ships fall under two categories: Bi-Weave Hybrids, which make use of Cold Orbiting techniques but provide shields as a backup, and Shield Tanks, which rely on massive raw shield MJ to keep them alive.
-
-## Tabset {.tabset}
-
-### Krait Mk.II (Shielded)
-
-#### **Krait Mk.II (Shielded)**
-
-The most commonly recommended and best all-round AX ship for anyone interested in killing Thargoids, the Krait Mk.II has enough firepower to kill the tougher interceptors while also having enough shields and hull to be able to recover from a few mistakes. A very capable AX vessel, although the shielded version can only go so far.
-
-Type: **Bi-Weave Hybrid**
-
-- Speed: ⭐⭐⭐⭐⭐  
-- Agility: ⭐⭐⭐  
-- Shield: ⭐⭐⭐⭐  
-- Armour: ⭐⭐⭐  
-- Firepower: ⭐⭐⭐⭐
-
-Recommendation: Best starting ship for new pilots in AX.
-
-[Coriolis Shielded Build](https://s.orbis.zone/f8l4)
-
-[EDSY Shielded Build](https://edsy.org/s/vbLKqFW)
-
-AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
-
-Note: While this build uses Lo-Draw on the shields, Fast Charge experimental is also a great option that requires more pip management but faster recharge.
-
-### Alliance Chieftain (Shielded)
-
-#### **Alliance Chieftain (Shielded)**
-
-The Alliance Chieftain, similar to the Krait Mk.II is a very capable AX Ship. The Chieftain has slightly lower overall firepower but is able to equip a Thermal Vent Beam laser allowing pilots to begin to learn cold orbiting techniques. Much more agile than the Krait Mk.II, this build is perfect for people looking to fly the meta shieldless Chieftain but still want the comfort of shields.
-
-Type: **Bi-Weave Hybrid**
-- Speed: ⭐⭐⭐⭐⭐
-- Agility: ⭐⭐⭐⭐⭐
-- Shield: ⭐⭐
-- Armour:	⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐
-
-Recommendation: Good upgrade path for confident pilots. More potential in the long run.
-
-[Coriolis Shielded Build](https://s.orbis.zone/eua5)
-
-[EDSY Shielded Build](https://edsy.org/s/vgDtxz2)
-
-AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
-
-### Imperial Cutter (Shielded)
-
-#### **Imperial Cutter (Shielded)**
-
-If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
-
-Type: **Shield Tank**
-
-- Speed: ⭐⭐⭐⭐
-- Agility: ⭐⭐
-- Shield: ⭐⭐⭐⭐⭐
-- Armour: ⭐⭐⭐⭐
-- Firepower: ⭐⭐⭐⭐
-
-Recommendation: Different fighting style and generally very capable with weaker Interceptors. Becomes much harder for tougher variants.
-
-[Coriolis Shielded Build](https://s.orbis.zone/3wbf)
-
-[EDSY Shielded Build](https://is.gd/DgmHXb)
-
-## Intermediate Builds
-
-These builds are targeted at more experienced commanders, either those who have flown the above ships against Thargoids before or have prior PVP combat experience. These ships are generally more capable than the beginner builds, and are better suited for all variants of Interceptors. These builds are cold orbiters, which make use of Cold Orbiting to evade most damage and repair limpets repair hull damage sustained.
+When starting out, stick to the tried and true. The Chieftain and the Krait have been the best ships for AX combat for a long time. The Chieftain offers exceptional agility paired with an excellent set of hardpoints. The Krait trades agility for tankiness and can run four medium AX weapons. The odd one out is the Imperial Cutter as a large shielded ship, offering an entirely different style of combat.
 
 ## Tabset {.tabset}
 
@@ -133,7 +60,7 @@ AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https:/
 
 #### **Krait Mk.II (Shieldless)**
 
-A shieldless version of the beginner Krait MK.II. The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive power plant also allows it to idle under 20% heat, which allows for cold approaches without a heatsink or thermal vent beam.
+The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output for beginners. The Krait's massive power plant also allows it to idle under 20% heat, which allows for cold approaches without a heatsink or thermal vent beam.
 
 Type: **Cold Orbiter**
 
@@ -143,7 +70,7 @@ Type: **Cold Orbiter**
 - Armour: ⭐⭐⭐⭐
 - Firepower: ⭐⭐⭐⭐⭐
 
-Recommendation: A great upgrade from the shielded build.
+Recommendation: For people that like headroom on the distributor and don’t like yawing.
 
 [Coriolis Shieldless Build](https://s.orbis.zone/eu9v)
 
@@ -151,11 +78,37 @@ Recommendation: A great upgrade from the shielded build.
 
 AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
+### Imperial Cutter (Shielded)
+
+#### **Imperial Cutter (Shielded)**
+
+If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
+
+Type: **Shield Tank**
+
+- Speed: ⭐⭐⭐⭐
+- Agility: ⭐⭐
+- Shield: ⭐⭐⭐⭐⭐
+- Armour: ⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐
+
+Recommendation: Different fighting style and generally very capable with weaker Interceptors. Becomes much harder for tougher variants.
+
+[Coriolis Shielded Build](https://s.orbis.zone/3wbf)
+
+[EDSY Shielded Build](https://is.gd/DgmHXb)
+
+## Intermediate Builds
+
+These builds are targeted at more experienced commanders, either those who have flown the above ships against Thargoids before or have prior PVP combat experience. These ships offer different flight characteristics, new hardpoint setups and generally some variety while requiring more experience to use effectively.
+
+## Tabset {.tabset}
+
 ### Alliance Challenger (Shieldless)
 
 #### **Alliance Challenger (Shieldless)**
 
-The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower but more stable alternative with slightly higher damage output. Depending on preference, it can also have more raw hull than a standard Chieftain build.
+The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower alternative with higher damage output against an interceptor’s shields. Depending on preference, it can also have more raw hull than a standard Chieftain build. Its three medium hardpoints with good convergence make it a better platform for running modified Shard Cannons or Plasma Chargers.
 
 Type: **Cold Orbiter**
 
