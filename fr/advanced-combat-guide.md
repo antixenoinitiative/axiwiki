@@ -2,7 +2,7 @@
 title: Guide de Combat Avancé
 description: Basé sur la doctrine Odysseus par CMDR Avasa Siuu
 published: true
-date: 2022-03-03T01:30:27.035Z
+date: 2022-07-31T16:36:04.697Z
 tags: équipement, combat, thargoids, intercepteurs
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -18,6 +18,11 @@ Cette doctrine est centrée autour d'une boucle de combat - vous répéterez ess
 Cette doctrine permet également de se concentrer le moins possible sur la gestion des pips car elle concerne le vol sans bouclier, ce qui vous permet d'établir vos priorités de puissance sur le répartiteur puis de vous concentrer ailleurs.
 
 # Configuration du vaisseau
+
+> This loadout is outdated. See [the recommended builds page](/en/builds) for, well, recommended builds. 
+> 
+> {.is-warning}
+
 Cette doctrine se concentre principalement sur le Chieftain. Le Challenger peut également être utilisé avec des modifications mineures de ses points d'emport. (Guide de configuration du Challenger en construction) Des vaisseaux tels que le Krait MKII, le Krait Phantom ou le FAS peuvent également être utilisés mais en raison du coût bon marché du Chieftain, de sa disposition de points d'emport et de sa manœuvrabilité, ce sera la priorité principale de cette doctrine.
 
 ## Modules internes primordiaux
