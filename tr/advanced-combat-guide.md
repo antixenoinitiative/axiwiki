@@ -2,7 +2,7 @@
 title: İleri Düzey Savaş Rehberi
 description: CMDR Avasa Siuu tarafından hazırlanan Odysseus Öğretisi'ne dayanmaktadır.
 published: true
-date: 2022-03-03T01:30:27.035Z
+date: 2022-07-31T16:36:04.697Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -18,6 +18,11 @@ Bu öğreti tekrar eden bir savaş stili etrafında şekillenmiştir. Temel olar
 Ayrıca bu öğreti "pip" yönetimine minimum gereksinim sağlar. Kalkansız bir gemi kullanacağınız için güç aktarımını ve odağınızı başka yerlerde tutabilirsiniz.
 
 # Gemi Donanımı
+
+> This loadout is outdated. See [the recommended builds page](/en/builds) for, well, recommended builds. 
+> 
+> {.is-warning}
+
 Bu öğretinin merkezinde Chieftain vardır. Challenger da hardpoint'lerdeki ufak değişiklerle kullanılabilir. (Challenger donanım rehberi şu an yapım aşamasında) Krait MKII, Krait Phantom ya da FAS gibi gemiler de kullanılabilir ancak Chieftain, hardpoint düzeni ve manevra kabiliyeti ve ucuz fiyatı sebebiyle bu öğretinin ana odağındadır.
 
 ## Core Internals
