@@ -2,7 +2,7 @@
 title: Advanced Combat Guide
 description: Based on the Odysseus Doctrine by CMDR Avasa Siuu
 published: true
-date: 2022-03-03T01:30:27.035Z
+date: 2022-07-31T16:34:34.936Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -18,6 +18,10 @@ This doctrine is centered around a combat loop - essentially you are repeating t
 This doctrine also allows for minimal focus on pip management due to the fact that it concerns flying without a shield, allowing you to set your power priorities and focus elsewhere.
 
 # Ship Loadout
+
+> This loadout is outdated. See [the recommended builds](builds) page for, well, recommended builds.
+{.is-warning}
+
 This doctrine centers itself around the Chieftain as its primary ship. The Challenger may also be used as a substitute with minor changes to its hardpoints. (Challenger build guide under construction) Ships such as the Krait MKII, Krait Phantom or FAS may also be used but due to the cheap entry cost of the Chieftain, its hard point layout and maneuverability, it is the primary focus for this doctrine.
 
 ## Core Internals
