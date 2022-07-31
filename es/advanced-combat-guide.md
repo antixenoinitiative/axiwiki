@@ -2,7 +2,7 @@
 title: Guía de Combate Avanzada
 description: Basado en la Doctrina Odysseus de CMDR Avasa Siuu
 published: verdadero
-date: 2022-03-03T01:30:27.035Z
+date: 2022-07-31T16:36:04.697Z
 tags: equipamiento, combate, Thargoide, interceptores
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -18,6 +18,11 @@ Esta doctrina está centrada en un ciclo de combate en bucle, donde esencialment
 Esta doctrina permite también un enfoque mínimo en la gestión de los pips del Distribuidor de Energía puesto que la nave esta pensada en ser usada sin escudo, permitiendo así priorizar energía y atención en otros detalles o partes.
 
 # Equipamiento de la nave
+
+> This loadout is outdated. See [the recommended builds page](/en/builds) for, well, recommended builds. 
+> 
+> {.is-warning}
+
 Esta doctrina se centra principalmente en la Chieftain como su nave principal. El Challenger también se puede utilizar como un sustituto con cambios menores en sus Anclajes. (Guía de construcción de Challenger en construcción) También se pueden usar barcos como el Krait MKII, Krait Phantom o FAS, pero debido al costo barato de entrada del Chieftain, su convergencia de armas (Anclajes) y maniobrabilidad, es el enfoque principal de esta doctrina.
 
 ## Internos Principales
