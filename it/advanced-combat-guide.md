@@ -2,7 +2,7 @@
 title: Guida al Combattimento Avanzato
 description: Basato sulla metodo Odysseus di CMDR Avasa Siuu
 published: true
-date: 2022-03-03T01:30:27.035Z
+date: 2022-07-31T16:36:04.697Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -18,6 +18,11 @@ Questo metodo è basato su un loop continuo - essenzialmente si sta ripetendo la
 Questo metodo, inoltre, permette di concentrarsi sul pip management, visto che le navi saranno tutte senza scudi, permettendo una maggiore liberta' in termini di power management.
 
 # Come equipaggiare la nave
+
+> This loadout is outdated. See [the recommended builds page](/en/builds) for, well, recommended builds. 
+> 
+> {.is-warning}
+
 Questo metodo usa la Chieftain come nave di riferimento. Si puo' usare anche la Challenger come sostituta, con leggere modifiche. (guida per come costruire una Challenger WIP) Navi come la Krait mk2, Krait phantom o FAS possono anche essere usate, ma per via del costo iniziale basso, la manovrabilita' e l'armamento della Chieftain, quest'ultima sara' quella su cui ci baseremo per questo metodo.
 
 ## Core Internals
