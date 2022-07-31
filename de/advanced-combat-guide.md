@@ -2,7 +2,7 @@
 title: Fortgeschrittener Gefechtsleitfaden
 description: Basierend auf dem Odysseus-Leitfaden von CMDR Avasa Siuu
 published: true
-date: 2022-03-03T01:30:27.035Z
+date: 2022-07-31T16:36:04.697Z
 tags: Ausrüstung, Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -18,6 +18,11 @@ Dieser Leitfaden zentriert sich um einen Kampfzyklus - im Wesentlichen wiederhol
 Dieser Leitfaden erlaubt auch, das Pip-Management zu vernachlässigen, da man ohne Schutzschild fliegt. So kann man Energie und Konzentration für Wichtigeres verwenden.
 
 # Schiffs Ausstattung
+
+> This loadout is outdated. See [the recommended builds page](/en/builds) for, well, recommended builds. 
+> 
+> {.is-warning}
+
 Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der Challenger kann, mit geringfügigen Änderungen an seiner Bewaffnung, auch verwendet werden. (Challenger Ausstattung unfertig) Schiffe wie der Krait MKII, Krait Phantom oder FAS können auch verwendet werden, aber wegen der geringen Startkosten des Chieftains, seiner Bewaffnungs-Auslegung und Manövrierbarkeit, ist er der Hauptfokus für diesen Leitfaden.
 
 ## Intern (Basis)
