@@ -2,7 +2,7 @@
 title: Рекомендованные сборки
 description: Рекомендованные сборки AX-кораблей
 published: Опубликовано
-date: 2022-07-28T12:52:50.985Z
+date: 2022-07-31T16:32:14.469Z
 tags: сборки
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -73,9 +73,9 @@ Type: **Cold Orbiter**
 
 Recommendation: For people that like headroom on the distributor and don’t like yawing.
 
-[Coriolis Shieldless Build](https://s.orbis.zone/eu9v)
+[Coriolis Shieldless Build](https://s.orbis.zone/jv-6)
 
-[EDSY Shieldless Build](https://edsy.org/s/vtQUkCk)
+[EDSY Shieldless Build](https://edsy.org/s/vu5byUv)
 
 AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
