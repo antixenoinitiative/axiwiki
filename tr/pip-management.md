@@ -9,7 +9,6 @@ dateCreated: 2021-06-21T02:36:55.841Z
 ---
 
 # Pip Yönetimi Rehberi
-
 Pip yönetimini kendiniz yapabileceğiniz gibi daha etkili bir yöntem olarak bir makro programı da kullanabilirsiniz, örneğin AutoHotKey (https://autohotkey.com/). AHK, piplerinizi neredeyse anında ve isabetli bir şekilde düzenleyerek en deneyimli pilotlardan bile daha iyi iş çıkarır. Voice Attack da ister sesli komutlarla (yavaş olacağından önerilmez), isterseniz fare/fonksiyon tuş atamalarıyla pip yönetimi için kullanılabilir.
 
 Bu AHK scripti, yaygın kullanılan pip dağılımlarını F1-F8 arasındaki fonksiyon tuşlarına atar. Daha sonra farenizin yazılımını kullanarak bu fonksiyon tuşlarını fare tuşlarınıza atayıp kullanabilirsiniz.
