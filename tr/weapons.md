@@ -9,7 +9,6 @@ dateCreated: 2021-06-10T04:04:18.230Z
 ---
 
 # AX Silahları
-
 Oyunda birçok Anti-Xeno silahı vardır ve iki ana kategoriye sahiptir:
 
 - **İnsan AX Silahları** (AX Multi-Cannon, AX Missile Rack, Advanced Multi-Cannon, Advanced Missile Rack, Remote Release Flak Launcher)
@@ -17,7 +16,7 @@ Oyunda birçok Anti-Xeno silahı vardır ve iki ana kategoriye sahiptir:
 
 Guardian silahları oyundaki en etkili AX silahlarıdır (özellikle Guardian Gauss Cannon) ve insan AX silahları en kullanışsız olanlardır (tek istisna Remote Release Flak Launcher).
 
-Bazı gemiler ek olarak Thermal Vent Beam Laser'ları vardır ve bu sayede heatsink kullanmadan sıcaklık düşürülmesi sağlanır. Daha fazla bilgi için Cold Orbiting ve [Lazerler](/tr/lasers) bölümlerine bakınız.
+Bazı gemiler ek olarak Thermal Vent Beam Laser'ları vardır ve bu sayede heatsink kullanmadan sıcaklık düşürülmesi sağlanır. Daha fazla bilgi için Cold Orbiting ve [Lazerler](/en/lasers) bölümlerine bakınız.
 
 AX silahlarının detaylı verileri için: [AX Denge Araştırması Çizelgesi](https://docs.google.com/spreadsheets/d/1kNZwBn16nYcrqpaua08VQb_ea3PF9SYcO-1IWivPZsA/edit#gid=1860633931)
 
@@ -93,4 +92,4 @@ Salvation'un bir başka projesi, bu silahın verilerini de bekleyip göreceğiz.
 
 **Öneri:** Henüz yok ancak güçlü olması bekleniyor.
 
-Not: Daha fazla bilgi için [Salvation Gauss](https://wiki.antixenoinitiative.com/tr/salvation-gauss)'a bakınız.
+Not: Daha fazla bilgi için [Salvation Gauss](https://wiki.antixenoinitiative.com/en/salvation-gauss)'a bakınız.
