@@ -9,7 +9,6 @@ dateCreated: 2021-06-15T10:51:53.374Z
 ---
 
 # Non-Human Signal Source Sinyalleri
-
 Kısaca NHSS olarak bahsettiğimiz bu sinyal tipleri Thargoid etkinliği olan bölgelerde yar alan sistemlerde ortaya çıkarlar ve içinde bu üç durumdan biriyle karşılaşırsınız:
 
 - Tek Thargoid Interceptor (Cyclops, Basilisk, Medusa veya Hydra)
@@ -33,7 +32,6 @@ Anti-Xeno Initiative, en iyi Thargoid av sahası olarak Pleiades Nebulası'ndaki
 - Sizi yavaşlatacak başka bir gezegen veya yerçekimi kuyusu yoktur.
 
 ## Tehdit Seviyeleri
-
 NHSS'in tehdit seviyesine bağlı olarak içinde farklı sayıda veya türde Scout ve Interceptor'le karşılaşırsınız. Bu bilgiye sahip olmak istediğiniz Thargoid türünü bulabilmeniz için önemlidir.
 
 Tehdit Seviyeleri:
@@ -44,23 +42,20 @@ Tehdit Seviyeleri:
 - **[Threat 5]** - 1x Cyclops YA DA 4-8x Scout
 - **[Threat 6]** - 1x Basilisk YA DA 1x Cyclops + 4x Scout
 - **[Threat 7]** - 1x Medusa YA DA 1x Basilisk + 4x Scout
-- **[Threat 8]** - 1x Hydra\* YA DA 1x Medusa + 4x Scout
+- **[Threat 8]** - 1x Hydra* YA DA 1x Medusa + 4x Scout
 - **[Threat 9]** - 1x Hydra + 4x Scout
 
-> Tek Hydra'lar şu an için yalnızca Coalsack Nebulası'nda bulunabilirler. Pleiades veya Witch Head Nebulası'ndaki tüm [Threat 8] sinyalleri 1x Medusa + 4x Scout içerir. **İstisna olarak**: Pleiades Sector MI-S B4-0 tek Hyda içeren, hem normal hem garanti [Threat 8] sinyallerine sahiptir.
->
+> Tek Hydra'lar şu an için yalnızca Coalsack Nebulası'nda bulunabilirler. Pleiades veya Witch Head Nebulası'ndaki tüm [Threat 8] sinyalleri 1x Medusa + 4x Scout içerir. **İstisna olarak**: Pleiades Sector MI-S B4-0 tek Hyda içeren, hem normal hem garanti [Threat 8] sinyallerine sahiptir. 
+> 
 > {.is-info}
 
 ## Garanti Interceptor Sinyalleri
-
 Eğer bir NHSS, seyir panelindeki isminin yanında **"Salvage"** simgesi bulunduruyorsa içinde daime tek Interceptor'le karşılaşırsınız. Öğrneğin bu bir garanti **Basilisk** sinyali. Ek olarak bu ortam ufak bir enkaz içermesi ama hiç yeşil bulut bulundurmaması bakımından biraz farklı. ![nhss.png](/img/nhss.png) Not: Solundaki küçük teneke kutu simgesi.
 
 ## Full-Spectrum Scanner
-
-NHSS içeriğini öngörmek için FSS de kullanılabilir, [buradan](/tr/nhssviafss) daha fazla bilgiye ulaşabilirsiniz.
+NHSS içeriğini öngörmek için FSS de kullanılabilir, [buradan](https://wiki.antixenoinitiative.com/en/nhssviafss) daha fazla bilgiye ulaşabilirsiniz.
 
 !\[signalsourcesboth.png\](/signalsourcesboth.png =600x)
 
 ## NHSS Doğurma Tablosu
-
 ![nhsstable.png](/img/nhsstable.png)
