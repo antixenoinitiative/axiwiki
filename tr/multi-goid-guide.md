@@ -10,14 +10,14 @@ dateCreated: 2021-06-17T05:44:58.820Z
 
 # Çoklu-Thargoid Savaş Rehberi
 
-_CMDR EuanAB tarafından._
+*CMDR EuanAB tarafından.*
 
 Birden fazla Thargoid'le savaşırken, sonunuzun rebuy ekranı olmaması için ele almanız gereken bazı strateji ve teknikler vardır. Bu rehber 4 bölüme ayrılabilir:
 
-- Çok Sayıda Yavaş Thargoid
-- Çok Sayıda Basilisk
-- Çok Sayıda Yavaş Thargoid ve Basilisk
-- Genel Taktikler
+-   Çok Sayıda Yavaş Thargoid
+-   Çok Sayıda Basilisk
+-   Çok Sayıda Yavaş Thargoid ve Basilisk
+-   Genel Taktikler
 
 ## Genel Taktikler
 
@@ -29,7 +29,7 @@ Flak'ınız yoksa sorun yaşayabilirsiniz. Fakat yalnızca küçük bir gemi kul
 
 ## Çok Sayıda Yavaş Thargoid
 
-_Çok sayıda yavaş Thargoid'le savaşmayı kapsar (Cyclops, Medusa, Hydra)._
+*Çok sayıda yavaş Thargoid'le savaşmayı kapsar (Cyclops, Medusa, Hydra).*
 
 Hepsi aynı hıza sahiptirler (~450 m/s), Swarm'dan yavaş olup rahatça Flak kullanmanıza izin verirler. Normal savaşlardaki gibi hareket edebilirsiniz.
 
@@ -37,13 +37,13 @@ Eğer birden fazla türle baş ediyorsanız zayıf türlerin Kalplerini parçala
 
 ## Çok Sayıda Basilisk
 
-_Aynı anda çok sayıda Basilisk'le savaşmayı kapsar._
+*Aynı anda çok sayıda Basilisk'le savaşmayı kapsar.*
 
 Basiliskler yaklaşık 530 m/s hıza çıkar, bu Swarm'ın hızından fazladır ve Flak kullanımını zora sokar. Saldırı sürecinizi başlatmadan önce bunu hallettiğinize emin olun. Basiliskler zayıf Kalplere sahiptir, dolayısıyla parçalama işini hızlıca yapın. Şimşek saldırısına yakalanmamaya özen gösterin zira yakalanırsanız diğerleri sizi yok edebilir. Gövde sağlığınıza dikkat edin, çok azalırsa kaçmanız gerekebilir.
 
 ## Çok Sayıda Yavaş Thargoid ve Basilisk
 
-_Diğer yavaş Thargoidlerle birlikte Basilisklerin de bulunduğu savaşları kapsar._
+*Diğer yavaş Thargoidlerle birlikte Basilisklerin de bulunduğu savaşları kapsar.*
 
 Bu durumda Basiliskler gruptan hızla ayrılacaklardır. İlk önce onları öldürmek mantıklıdır. Çünkü çok uzaklaşırsanız diğerleri geride kalıp ortadan kaybolabilir ya da bölgeyi terk edebilirler. Dolayısıyla öldürme sırası: Basilisk > Cyclops > Medusa > Hydra.
 
