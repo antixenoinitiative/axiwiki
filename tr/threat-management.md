@@ -9,7 +9,6 @@ dateCreated: 2021-06-21T02:12:44.684Z
 ---
 
 # Tehdit Yönetimi
-
 Aggro; bir düşmanın saldırmak için yaptığı hedef seçimine denir. Thargoid Interceptorler de en yüksek "tehdit"e sahip oyuncu tarafından aggronalanacaktır. Tehdit, en son hedef değiştirmesinden sonra Interceptor'e verilen hasarla hesaplanır. Thargoid hedef değiştirdikten sonra, ~35 saniyeliğine (Hedef Değişim Kilidi) ya da hedef yok edilene/savaştan ayrılana kadar bu hedefi değiştiremez. Bu kilit aşamasında, Interceptor aldığı hasarı hatırlayacak ve bir sonraki hedef değişimi için tehdit hesaplarken kullanacak ancak bu süreçte hedef değişimi yapamayacaktır.
 
 Tehdit, hasar vererek artırılabilir. Birçok sebeple kullanışlı olabilir.
