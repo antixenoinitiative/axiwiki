@@ -5,12 +5,11 @@ published: true
 date: 2021-11-07T21:27:15.800Z
 tags: thargoids, incursions, infestations
 editor: markdown
-dateCreated: 2021-10-06T05:49:43.590Z
+dateCreated: 2021-06-17T01:24:54.361Z
 ---
 
 # Thargoid Infestation
 Thargoidlerin etkin olduğu dönemlerde, haftalık bazda bir grup sistem "kuşatılır" ve **Infestation** (kuşatılmış) durumuna geçer. Bu durum ilk başta, çeşitli Scout ve Interceptor türlerini içeren [Non-Human Signal Sources (NHSS)](/en/nhss) sinyallerinin ortaya çıkmasıyla fark edilir. Infestation durumu, eğer çok sayıda Thargoid yok edilip savunulmadığı takdirde sistemin istila edileceğinin belirtisidir.
-
 
 If an Insufficient number of Thargoid vessels are destroyed, the system will enter the Incursion state at the next weekly tick.
 
@@ -18,7 +17,6 @@ The Eagle Eye system will identify a new wave of infested systems each week. (No
 
 # Thargoid Incursion
 Incursion durumuna düşmüş bir sistem tam ölçekli bir Thargoid istilası altındadır. Sistemin sahipliği "Thargoid"lere geçer ve bu durum devam ettiği sürece ortaya çıkan olumsuz etkiler artarak birikebilir.
-
 
 - One undamaged **Starport** will become damaged in the system per week, until the Incursion is cleared.
 - All **Bulk Cruiser Megaships** will become damaged at the start of the incursion.
@@ -32,9 +30,7 @@ The **GalNet Thargoid Activity report** will provide an up-to-date report on the
 > Our Thargoid activity monitor [Thargoid.watch](https://www.thargoid.watch/) has gone live. You can find about the systems in Incursion and the regions Thargoids have inhabited.{.is-info}
 
 
-
-## Yoğunluk seviyeleri:
-
+Yoğunluk seviyeleri:
 
 - Massive Thargoid Presence: **0-25% Cleared**
 - Significant Thargoid Presence: **25-50% Cleared**
