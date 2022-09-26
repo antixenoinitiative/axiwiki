@@ -2,7 +2,7 @@
 title: Ace Rank Rework of September 2021
 description:
 published: true
-date: 2021-09-19T14:12:19.953Z
+date: 2022-09-26T21:45:25.143Z
 tags: admin
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
@@ -94,6 +94,8 @@ Starting from a perfect-threshold fight, points are subtracted for how "far off"
         // Calculate the final score
         let finalScore = targetRun - (1/3)*(timeTakenPenalty + ammoEffPenalty + damageTakenPenalty)
 
+![score_curves.png](https://cdn.discordapp.com/attachments/566728213737373707/889285899303653386/unknown.png)
+
 Note the ammo efficiency calculations are based on damage vs individual rounds to allow for mixed gauss usage. The source-data spreadsheet is available here: https://docs.google.com/spreadsheets/d/1p2axhJwSSSPS9eaI7R92f2sNpOPz-iiup-v09aakFFM/edit#gid=0. The specific math is quite complicated - please contact CMDR Orodruin if you have questions as to the specific logic behind them.
 
 ### Specific rules of the new Ace rank
@@ -101,7 +103,7 @@ Note the ammo efficiency calculations are based on damage vs individual rounds t
 The following rules apply to the fight:
 1. You must kill a Medusa in a solo fight, in a non-planetary setting
 2. You must use an Alliance Chieftain. Apologies if you love other ships ... for the time being we are NOT making exceptions to this rule
-3. You must use basic ammo. Standards and Premiums are NOT allowed in this Ace challenge (main reason being to limit grind required)
+3. You must use basic synthesis (of ammo and any other synthesizable consumable). Standards and Premiums are NOT allowed in this Ace challenge (main reason being to limit grind required)
 3. Only guardian gauss cannons are allowed to damage the Thargoid's hull and hearts; medium, small, or a mix are allowed - as few or as many as you like; [sorry shard lovers ... this isn't the fight for you]; You can use any weapons you wish on the Thargoid's shield, including any human weapons of your choice; Note this rule also implies Advanced Missile racks are not allowed (which are generally banned from AXI ranks as they are "broken"); Specifically, intentionally ramming the goid after all hearts are destroyed (to save ammo) is prohibited [cases of collisions claimed to be "accidental" will be evaluated on a case-by-case basis by staff]
 4. You must submit a link to a video of the entire fight for it to be considered for inclusion in the leaderboard
 5. "Time" is defined as from "the first frame where damage of any kind registers on the goid" to "the first frame where the goid has disappeared from the scanner [or, if the goid was not targeted at time of explosion, the SECOND frame of the explosion]." Specifically, time INCLUDES the death animation of the goid up to (but not including) the actual explosion.
