@@ -2,14 +2,14 @@
 title: Interceptors
 description: About Thargoid Interceptors
 published: true
-date: 2021-06-17T00:44:49.019Z
+date: 2022-12-02T22:47:10.805Z
 tags: thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-15T10:23:32.433Z
 ---
 
 # Thargoid Interceptors
-Thargoid Interceptors come in four variants: **Cyclops**, **Basilisk**, **Medusa** and **Hydra**, in ascending level of difficulty. Each next variant has more hearts and is tougher than the last, requiring far more damage to exert and destroy hearts.
+Thargoid Interceptors come in five variants: **Cyclops**, **Basilisk**, **Medusa** and **Hydra**, in ascending level of difficulty. **Orthrus** is an exception as it is not combat type of interceptor but more of a scout. Differing from others with its anatomy as it does not posses any hearts and  its behavior differs from the rest. Each next variant has more hearts and is tougher than the last, requiring far more damage to exert and destroy hearts.
 
 Interceptors are incredibly tough and typically are best suited to wing combat as soloing them is a huge achievement. Interceptors use very high damage output weapons, crowd-control style special abilities and independent drones to wreak havoc on the battlefield.
 
@@ -74,17 +74,24 @@ The Hydra variant exhibits bright green colors and a multitude of changes in its
 **Payout**: 60,000,000 Cr
 
 ## **Orthrus**
-![orthrus.png](/img/orthrus.png =300x){.align-right}The fifth variant seen is the Orthrus, which temporarily appeared during the evacuation of Professor Palin from his research centre in Maia. This variant has since disappeared and cannot currently be found in-game.
 
-During its brief appearance, the Orthrus variant could be seen momentarily flying away from Palin's Base before High-Waking away. At the time the Orthrus did not appear to have any combat mechanics and would glitch if destroyed. The Orthrus variant had similar stats to the Basilisk. When a sample was taken with the Research a “Basilisk Tissue sample” was received.
+> This section is a work in progress while research on the Orthrus Variant continues.
+{.is-warning}
+
+![orthrus.png](/img/orthrus.png =300x){.align-right}The fifth variant seen is the Orthrus, which temporarily appeared during the evacuation of Professor Palin from his research centre in Maia. As of December 1, 3308, the Orthrus can once again be found in Thargoid Alert systems.
+
+During its initial brief appearance, the Orthrus variant could be seen momentarily flying away from Palin's Base before High-Waking away. At the time the Orthrus did not appear to have any combat mechanics and would glitch if destroyed. The Orthrus variant had similar stats to the Basilisk. When a sample was taken with the Research a “Basilisk Tissue sample” was received.
 
 Pilots noted at the time, the Orthrus variant exhibited what appears to be barnacle-like growths on each petal, suggesting this interceptor may have had something to do with the Barnacles that Thargoids actively interact with.
-
-> The Orthrus can no longer be found in-game.
-{.is-danger}
 
 During a ‘Let’s Play' Livestream, Community Manager, Stephen Bendetti confirmed that the Orthrus was a mistake and not intended to be in the game.
 
 "Just a bug" Video: https://www.twitch.tv/videos/533401140 Timestamp: 41:15 (Unfortunately the clip is no longer available.)
 
 Frontier Developments Developer “KSE” has confirmed “the Orthrus was never meant to appear in the game” confirming it is no longer canon in the storyline.
+
+With the arrival of the Maelstroms, the Orthrus has once again appeared, this time intentionally. It still exhibits its original behavior. It has no hearts, and instead employs a caustic EMP and an initial shield.
+
+**Hearts**: 0
+**Max Speed**: ? m/s
+**Payout**: 50,000,000 Cr
