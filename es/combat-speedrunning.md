@@ -2,7 +2,7 @@
 title: Guía de velocidad
 description: '¿Pueden matar goids? ¿Sí? Pero, ¿pueden matarlos rápidamente?'
 published: verdadero
-date: 2021-06-10T23:22:48.988Z
+date: 2022-12-02T22:33:52.474Z
 tags:
 editor: markdown
 dateCreated: 2021-06-10T13:56:57.206Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-10T13:56:57.206Z
 
 Lo primero es lo primero: Speedrunning no es para pilotos recién llegados al combate Anti-Xeno.
 
-Por lo general, recomendamos que los CMDR alcancen al menos el rango de Serpent's Nememis (Medusa solo) antes de concentrarse en aprender las técnicas avanzadas involucradas en el speedrunning.
+We generally recommend CMDRs attain at least the Serpent's Nemesis rank (Medusa solo) before they focus on learning the advanced techniques involved in speedrunning.
 
 # Rangos de Speedrunning
 
