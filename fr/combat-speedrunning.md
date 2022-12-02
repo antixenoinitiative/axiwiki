@@ -2,7 +2,7 @@
 title: Guide du Speedrun
 description: Vous pouvez tuer des thargoids ? Oui ? Mais pouvez-vous les tuer rapidement ?
 published: true
-date: 2021-06-10T23:22:48.988Z
+date: 2022-12-02T22:33:52.474Z
 tags:
 editor: markdown
 dateCreated: 2021-06-10T13:56:57.206Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-10T13:56:57.206Z
 
 Tout d'abord, le speedrun n'est pas fait pour les débutants en combat Anti-Xeno.
 
-Nous recommandons généralement que les commandants atteignent au moins le rang Serpent's Nememis (N.d.T.: il s'agit d'un rang sur le serveur discord de l'AXI qui est attribué aux pilotes ayant battu un Medusa en solo) avant de s'intéresser à l'apprentissage des techniques avancées utilisées en speedrun.
+We generally recommend CMDRs attain at least the Serpent's Nemesis rank (Medusa solo) before they focus on learning the advanced techniques involved in speedrunning.
 
 # Rangs en speedrun
 
