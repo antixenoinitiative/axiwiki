@@ -2,7 +2,7 @@
 title: Speedrunning Guide
 description: Can kill goids? Yes? But can you kill them quick?
 published: true
-date: 2021-06-10T23:22:48.988Z
+date: 2022-12-02T22:33:52.474Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-10T13:56:57.206Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-10T13:56:57.206Z
 
 First things first: Speedrunning is not for newcomer pilots to Anti-Xeno combat.
 
-We generally recommend CMDRs attain at least the Serpent's Nememis rank (Medusa solo) before they focus on learning the advanced techniques involved in speedrunning.
+We generally recommend CMDRs attain at least the Serpent's Nemesis rank (Medusa solo) before they focus on learning the advanced techniques involved in speedrunning.
 
 # Speedrunning Ranks
 
