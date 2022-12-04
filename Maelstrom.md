@@ -2,7 +2,7 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2022-12-04T00:43:17.071Z
+date: 2022-12-04T14:42:35.107Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
@@ -38,4 +38,7 @@ These Caustic generators are checked on by Thargoid Interceptors flying about wi
 Destroying a Caustic Generator will cause it to drop various materials which can be collected. These materials appeared to be used in caustic sink synthesis, although the synthesis was quietly patched out of game.
 
 ## System Wide Impact
-When in the same system as a Thargoid Maelstrom, Guardian Modules are functionally unusable and will break after seconds while in supercruise.
+When in the same system as a Thargoid Maelstrom, Guardian Modules are functionally unusable and will decay while anywhere in the system at a constant rate.
+Guardian weapons, Guardian Module Reinforcement, and Guardian Shield Reinforcement decay at a rate of 1%/s.
+The Guardian Power Plant and Guardian Power Distributor decay at a rate of 1% every 10 seconds, but do not decay lower than 19%.
+The Guardian Hull Reinforcement is immune, because it does not have integrity of its own.
