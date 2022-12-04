@@ -2,7 +2,7 @@
 title: Incursions
 description: About Thargoid Incursions and Infestations
 published: true
-date: 2021-11-07T21:27:15.800Z
+date: 2022-12-03T23:55:24.839Z
 tags: thargoids, incursions, infestations
 editor: markdown
 dateCreated: 2021-06-17T01:24:54.361Z
@@ -27,7 +27,7 @@ Ships may be hyperdicted while jumping into a system under Incursion, regardless
 
 The **GalNet Thargoid Activity report** will provide an up-to-date report on the remaining presence of Thargoids within an Incursion system. As more Thargoid vessels are destroyed, the presence level will decrease until the incursion is cleared completely.
 
-> Our Thargoid activity monitor [Thargoid.watch](https://www.thargoid.watch/) has gone live. You can find about the systems in Incursion and the regions Thargoids have inhabited.{.is-info}
+> Our Thargoid activity monitor [Thargoid.watch](https://www.antixenoinitiative.com/watch) has gone live. You can find about the systems in Incursion and the regions Thargoids have inhabited.{.is-info}
 
 
 Presence Levels are:
