@@ -2,7 +2,7 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2022-12-04T00:22:05.279Z
+date: 2022-12-04T00:22:36.626Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
@@ -32,7 +32,7 @@ Exploration video by Writer's End: [Thargoid Maelstrom Exploration Video](https:
 
 Caustic Generators can be seen floating in the cloud and are most likely the source of the caustic damage area. These generators are also Mines, if a vessel is too close, they can explode causing a 3km caustic explosion with a knock-back effect.
 
-These Caustic generators are checked on by Thargoid Interceptors flying about within the Maelstrom, these Interceptors are typically passive however become hostile within a certain range.
+These Caustic generators are checked on by Thargoid Interceptors flying about within the Maelstrom, these Interceptors are typically passive however become hostile within a certain range, this is still being researched and may not be completely accurate.
 
 Destroying a Caustic Generator will cause it to drop various materials which can be collected.
 
