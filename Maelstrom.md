@@ -2,7 +2,7 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2022-12-04T00:15:03.953Z
+date: 2022-12-04T00:17:58.666Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
@@ -23,6 +23,8 @@ The Thargoid Maelstrom is a large cloud-like area, these appear similar to Lagra
 ![elite-dangerous-thargoid-invasion-update-14.jpg](/elite-dangerous-thargoid-invasion-update-14.jpg =40%x)
 
 The center of the Maelstrom is a large red-ish cloud, approaching the center will cause a large EMP-like pulse to emit from the Center which will eject any ships at a high velocity.
+
+Interceptors in the maelstrom can be seen checking on the caustic generators but act passive unless attacked.
 
 ![maxresdefault.jpg](/maxresdefault.jpg =40%x)
 
