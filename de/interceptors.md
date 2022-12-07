@@ -2,14 +2,14 @@
 title: Interceptoren
 description: Über Thargoid-Interceptoren
 published: true
-date: 2021-06-17T00:44:49.019Z
+date: 2022-12-07T14:49:29.997Z
 tags: Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-15T10:23:32.433Z
 ---
 
 # Über Thargoid-Interceptors
-Thargoid-Interceptoren gibt es in vier Varianten: **Cyclops**, **Basilisk**, **Medusa** und **Hydra**in aufsteigender Schwierigkeitsgrad. Jede nächste Variante hat mehr Herzen und ist härter als die letzte, so dass viel mehr Schaden ausgeübt werden muss, um die Herzen zu zerstören.
+Thargoid Interceptors come in five variants: **Cyclops**, **Basilisk**, **Medusa** and **Hydra**, in ascending level of difficulty. **Orthrus** is an exception as it is not combat type of interceptor but more of a scout. Differing from others with its anatomy as it does not posses any hearts and  its behavior differs from the rest. Each next variant has more hearts and is tougher than the last, requiring far more damage to exert and destroy hearts.
 
 Interceptoren sind unglaublich robust und eignen sich in der Regel am besten zum Kampf im Geschwader, da es eine große Herausforderung ist sie alleine zu bekämpfen. Interceptoren verwenden sehr hohe Schadensausstoßwaffen, Spezialfähigkeiten im Stil der Mengenkontrolle und unabhängige Drohnen, um auf dem Schlachtfeld verheerende Schäden zu verursachen.
 
@@ -66,18 +66,23 @@ Die Hydra-Variante zeigt leuchtend grüne Farben und eine Vielzahl von Veränder
 **Herzen**: 8 **Maximale Geschwindigkeit**: 450 m/s **Belohnung**: 60,000.000 Cr
 
 ## **Orthrus**
-!\[orthrus.png\](/img/orthrus. ng =300x){.align-right}Die fünfte gesichtete Variante ist der Orthrus, der während der Evakuierung von Professor Palin aus seinem Forschungszentrum in Maia vorübergehend auftauchte. Diese Variante ist inzwischen verschwunden und kann derzeit nicht im Spiel gefunden werden.
 
-Während seines kurzen Auftritts konnte die Orthrus-Variante kurzzeitig gesehen werden, wie sie von Palins Basis wegflog, bevor sie in den Hyperraum verschwand. Zu diesem Zeitpunkt schien der Orthrus keine Kampfmechanik zu haben und glitchte, wenn er zerstört wurde. Die Orthrus-Variante hatte ähnliche Werte wie der Basilisk. Bei der Entnahme einer Probe mit der Forschung wurde eine "Basilisk-Gewebeprobe" erhalten.
+> This section is a work in progress while research on the Orthrus Variant continues. 
+> 
+> {.is-warning}
+
+!\[orthrus.png\](/img/orthrus. ng =300x){.align-right}Die fünfte gesichtete Variante ist der Orthrus, der während der Evakuierung von Professor Palin aus seinem Forschungszentrum in Maia vorübergehend auftauchte. As of December 1, 3308, the Orthrus can once again be found in Thargoid Alert systems.
+
+During its initial brief appearance, the Orthrus variant could be seen momentarily flying away from Palin's Base before High-Waking away. Zu diesem Zeitpunkt schien der Orthrus keine Kampfmechanik zu haben und glitchte, wenn er zerstört wurde. Die Orthrus-Variante hatte ähnliche Werte wie der Basilisk. Bei der Entnahme einer Probe mit der Forschung wurde eine "Basilisk-Gewebeprobe" erhalten.
 
 Piloten bemerkten damals, dass die Orthrus-Variante etwas aufwies, das wie Seepocken-ähnliche Wucherungen auf jedem Blütenblatt aussah, was darauf hindeutet, dass dieser Abfangjäger etwas mit den Seepocken zu tun haben könnte, mit denen Thargoiden aktiv interagieren.
-
-> Der Orthrus kann nicht mehr im Spiel gefunden werden. 
-> 
-> {.is-danger}
 
 Während eines "Let's Play"-Livestreams bestätigte Community Manager Stephen Bendetti, dass der Orthrus ein Fehler war und nicht im Spiel vorgesehen war.
 
 "Nur ein Fehler" Video: https://www.twitch.tv/videos/533401140 Zeitstempel: 41:15 (Leider ist der Clip nicht mehr verfügbar.)
 
 Frontier Developments Entwickler "KSE" hat bestätigt, dass "der Orthrus nie im Spiel erscheinen sollte" und somit nicht mehr zur Story gehört.
+
+With the arrival of the Maelstroms, the Orthrus has once again appeared, this time intentionally. It still exhibits its original behavior. It has no hearts, and instead employs a caustic EMP and an initial shield.
+
+**Hearts**: 0 **Max Speed**: 115 m/s **Payout**: 30,000,000 Cr
