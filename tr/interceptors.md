@@ -2,14 +2,14 @@
 title: Interceptorler
 description: Thargoid Interceptorler hakkında
 published: true
-date: 2021-06-17T00:44:49.019Z
+date: 2022-12-07T14:49:29.997Z
 tags: thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-15T10:23:32.433Z
 ---
 
 # Thargoid Interceptorler
-Dört türü vardır, güçlüye doğru sıralandıklarında: **Cyclops**, **Basilisk**, **Medusa** and **Hydra**. Türler güçlendikçe daha fazla Kalbe, sağlamlığa ve ateş gücüne sahip olur.
+Thargoid Interceptors come in five variants: **Cyclops**, **Basilisk**, **Medusa** and **Hydra**, in ascending level of difficulty. **Orthrus** is an exception as it is not combat type of interceptor but more of a scout. Differing from others with its anatomy as it does not posses any hearts and  its behavior differs from the rest. Each next variant has more hearts and is tougher than the last, requiring far more damage to exert and destroy hearts.
 
 Interceptorler çok zorlayıcıdır, wing savaşlarına daha uygundur ve solo öldürmek büyük başarı sayılır. Interceptorler; yüksek hasar veren silahlar, eylem kısıtlamasına sebep olan yetenekler ve harici drone'lar kullanarak savaş alanında hakimiyet kurarlar.
 
@@ -66,18 +66,23 @@ Parlak yeşil renkler barındıran Hydra türü birtakım fiziksel farklılıkla
 **Kalp**: 8 **Azami Hız**: 450 m/s **Ödül**: 60,000,000 Cr
 
 ## **Orthrus**
-!\[orthrus.png\](/img/orthrus.png =300x){.align-right}Beşinci tür olan Orthrus, Professor Palin'in Maia'daki araştırma merkezinden tahliyesi sırasında geçici süreyle ortaya çıkmıştır. Daha sonra ortadan kaybolmuş ve oyun içerisinde bir daha görülmemiştir.
 
-Kısa süreli ortaya çıkışında Palin'in üssünden ayrılıp, High-Wake ile bölgeyi terk ederken gözlemlenmiştir. Herhangi bir savaş mekaniğine sahipmiş gibi gözükmeyen Orthrus, öldürüldüğünde "glitch"e sebep olmuştur. Basilisk'e yakın özellikleri vardır. Doku örneği alındığında, "Basilisk doku örneği" vermiştir.
+> This section is a work in progress while research on the Orthrus Variant continues. 
+> 
+> {.is-warning}
+
+!\[orthrus.png\](/img/orthrus.png =300x){.align-right}Beşinci tür olan Orthrus, Professor Palin'in Maia'daki araştırma merkezinden tahliyesi sırasında geçici süreyle ortaya çıkmıştır. As of December 1, 3308, the Orthrus can once again be found in Thargoid Alert systems.
+
+During its initial brief appearance, the Orthrus variant could be seen momentarily flying away from Palin's Base before High-Waking away. Herhangi bir savaş mekaniğine sahipmiş gibi gözükmeyen Orthrus, öldürüldüğünde "glitch"e sebep olmuştur. Basilisk'e yakın özellikleri vardır. Doku örneği alındığında, "Basilisk doku örneği" vermiştir.
 
 Pilotlar tarafından, yapraklarında barnacle tarzı oluşumlar fark edilen Orthrus, barnaclelarla ilgili bir görevi olduğu izlenimi uyandırmıştır.
-
-> Şu an için oyunda mevcut değildir. 
-> 
-> {.is-danger}
 
 Bir canlı yayında Topluluk Yöneticisi Stephen Bendetti, Orthrus'un bir hata olduğunu ve oyunda hiç bulunmaması gerektiğini doğrulamıştır.
 
 "Sadece bir bug" Video: https://www.twitch.tv/videos/533401140 Timestamp: 41:15 (Ne yazık ki klip artık mevcut değil.)
 
 Frontier Developments geliştiricilerinden "KSE"; "Orthrus oyunda hiç olmamalıydı" diyerek Orthrus'un oyunda yeri olmadığını doğrulamıştır.
+
+With the arrival of the Maelstroms, the Orthrus has once again appeared, this time intentionally. It still exhibits its original behavior. It has no hearts, and instead employs a caustic EMP and an initial shield.
+
+**Hearts**: 0 **Max Speed**: 115 m/s **Payout**: 30,000,000 Cr
