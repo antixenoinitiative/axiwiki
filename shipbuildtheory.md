@@ -2,7 +2,7 @@
 title: Ship Build Theory
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2021-09-19T11:08:08.311Z
+date: 2022-12-07T15:30:37.303Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -19,8 +19,8 @@ This is a comprehensive guide on general AX build theory, for each of the build 
 
 ## Engineering
 
-**All components** of an Anti-Xeno ship **should be fully engineered** for maximum performance. Thargoids are incredibly advanced and deal far more damage than any human NPC in the game. Not only this, but they have a slew of special attacks that can devastate a ship that is not properly prepared. If you are unable to engineer everything due to constraints, the bare minimum is:
-
+**All components** of an Anti-Xeno ship **should be fully engineered** for maximum performance. Thargoids are incredibly advanced and deal far more damage than any human NPC in the game. Not only this, but they have a slew of special attacks that can devastate a ship that is not properly prepared. 
+If you are unable to engineer everything due to constraints, the bare minimum is:
 - Thrusters
 - Power Distributor
 - Hull Reinforcements
