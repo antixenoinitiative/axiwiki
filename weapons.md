@@ -2,7 +2,7 @@
 title: Weapons
 description: Detailed breakdown of Anti-Xeno Weaponry
 published: true
-date: 2022-12-07T16:06:09.258Z
+date: 2022-12-07T16:30:03.008Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
@@ -24,7 +24,7 @@ Some builds will also include Thermal Vent Beam Lasers which allow pilots to eas
 ## **Weapon Options**
 The currently best available weapons are the Remote Release Flak Launcher, Guardian Gauss Cannon, Modified Guardian Shard Cannon, and Modified Guardian Plasma Charger.
 
-## Remote Release Flak Launcher
+### **Remote Release Flak Launcher**
 
 Currently the only effective weapon to deal with Thargon Swarms.
 
