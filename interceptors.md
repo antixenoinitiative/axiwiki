@@ -2,7 +2,7 @@
 title: Interceptors
 description: About Thargoid Interceptors
 published: true
-date: 2022-12-02T22:47:10.805Z
+date: 2022-12-07T14:49:29.997Z
 tags: thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-15T10:23:32.433Z
@@ -93,5 +93,5 @@ Frontier Developments Developer “KSE” has confirmed “the Orthrus was never
 With the arrival of the Maelstroms, the Orthrus has once again appeared, this time intentionally. It still exhibits its original behavior. It has no hearts, and instead employs a caustic EMP and an initial shield.
 
 **Hearts**: 0
-**Max Speed**: ? m/s
-**Payout**: 50,000,000 Cr
+**Max Speed**: 115 m/s
+**Payout**: 30,000,000 Cr
