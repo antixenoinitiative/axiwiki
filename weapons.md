@@ -2,7 +2,7 @@
 title: Weapons
 description: Detailed breakdown of Anti-Xeno Weaponry
 published: true
-date: 2021-09-19T11:10:48.357Z
+date: 2022-12-07T15:58:03.076Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
@@ -12,7 +12,10 @@ dateCreated: 2021-06-10T04:04:18.230Z
 There are a multitude of different Anti-Xeno weapons in the game, and they come in two main variants:
 
 - **Human AX Weapons** (AX Multi-Cannon, AX Missile Rack, Advanced Multi-Cannon, Advanced Missile Rack, Remote Release Flak Launcher)
-- **Guardian Weapons** (Guardian Gauss Cannon, Guardian Plasma Charger, Guardian Shard Cannon, and their Engineered Variants)
+- **Guardian Weapons** (Guardian Gauss Cannon, Guardian Plasma Charger, Guardian Shard Cannon)
+
+With the events of Salvation and the Thargoid Maelstroms, modified (pre-engineered) variants of all AX weapons have either been produced or are in development. As a whole, these are more viable and offer a wider meta for AX weapons. However, they must be purchased per-module, making them far more expensive than traditional guardian weaponry.
+For unlock costs on these new weapons, see [Inara's Tech Broker Page](https://inara.cz/elite/techbroker#tab_techbrokerslot3)
 
 Guardian weapons are the most effective AX weapons in the game (specifically the Guardian Gauss Cannon) with human AX weapons being mostly unusable (with the exception of the Remote Release Flak Launcher).
 
@@ -38,17 +41,35 @@ Current undisputed AX meta. Guardian Gauss Cannons function like a Railgun with 
 
 Note: When using Gauss Cannons, it is important to ensure your hardpoints have good Convergence
 
+## Modified Guardian Gauss Cannon
+
+While the guardian gauss is similar to a railgun, the modified gauss are much like an imperial hammer, giving them their nickname "hammer gauss". These fire in a 4-round burst, with each shot dealing 25% of the normal damage. Overall, they are considered harder to use than stock gauss.
+
+**Recommendation:** Do not use (Harder to aim, each gun costs materials)
+
 ## Guardian Shard Cannon
 
 Similar to a Frag Cannon, very wide spread with only around a 700m effective range which means to be used effectively the pilot must fly within lightning range. While a potent weapon for speedrunning, the requirement of firing from within lightning range means that they are ineffective otherwise.
 
 **Recommendation:** Do not use (Low effective range, Poor armour penetration)
 
+## Modified Guardian Shard Cannon
+
+These shard cannons come in medium and small variants. They have long range engineering and a higher armor penetration. They are a great alternative to gauss, offering a lot of the benefits of shard cannons but with lesser downsides.
+
+**Recommendation:** Very good AX weapon (Very high DPS)
+
 ## Guardian Plasma Charger
 
 Similar to a Plasma Accelerator, but poor armour penetration value makes it less effective against tougher Interceptors and difficulty to aim makes it bad for using on hearts. Damage dealt is also unpredictable.
 
 **Recommendation:** Do not use (Poor armour penetration, Difficult to aim, Terrible capacitor draw)
+
+## Modified Guardian Plasma Charger
+
+These plasma chargers come in medium and small variants. They have greatly improved stats over stock chargers, with higher armor penetration, shot speed, and damage. While they struggle to deal damage to hearts, they are unrivaled in their exert capability.
+
+**Recommendation:** Good AX weapon (Massive damage, Not effective against hearts)
 
 ## AX Multi-Cannon
 
@@ -62,6 +83,12 @@ Okay, but very difficult to aim as they are slow moving and dumbfire only. Minim
 
 **Recommendation:** Do Not Use (Poor damage)
 
+## Modified AX Missile Rack
+
+These modified missile racks deal slightly less damage, but come with a greater fire rate and ammo cap. They still suffer from all of the downsides of missile racks, and have a very low armor piercing value.
+
+**Recommendation:** Ok AX Weapon (Less damage than guardian weapons)
+
 ## Advanced Multi-Cannon
 
 Same as a normal Multi-Cannon and can be engineered, however it will not do AX damage unless ammo is synthesized.
@@ -74,22 +101,6 @@ Note: Does not count against the 4 experimental weapon limit.
 
 Similar to the Advanced Multi-Cannon, these are an engineerable clone of the normal Missile Rack which requires synth to deal AX damage. Due to their extreme splash damage, synth requirement, and lack of weapon number limit, they are banned from use in AXI ranks. 
 
-**Recommendation:** Use at own discretion (Cannot use without synth, Banned from use in AXI ranks)
+**Recommendation:** Use at own discretion (Cannot use without synth, Banned from progression kills)
 
 Note: Does not count against the 4 experimental weapon limit.
-
-## Focused Long-Range High-Penetration Guardian Shard Cannon (Class Two)
-
-An extremely powerful version of the normal shard cannon, able to reliably hit interceptors from outside 3km range. It functions very differently, having near-hitscan shot speed and extremely long range. Due to this and the fact that it is not obtainable for most CMDRs, it is banned from use in ranks.
-
-**Recommendation:** Use at own discretion (Banned from use in AXI ranks)
-
-Note: Cannot currently be obtained unless you participated in the initial CG
-
-## Hi-Cap Burst Fire Guardian Gauss Cannon (Class Two)
-
-Another one of Salvation's pet projects, the stats for this weapon remain to be seen.
-
-**Recommendation:** None yet, although it is expected to be powerful.
-
-Note: See [Salvation Gauss](https://wiki.antixenoinitiative.com/es/salvation-gauss) for more information
