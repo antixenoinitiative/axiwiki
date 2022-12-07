@@ -2,7 +2,7 @@
 title: Weapons
 description: Detailed breakdown of Anti-Xeno Weaponry
 published: true
-date: 2022-12-07T15:58:03.076Z
+date: 2022-12-07T16:06:09.258Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
@@ -21,9 +21,8 @@ Guardian weapons are the most effective AX weapons in the game (specifically the
 
 Some builds will also include Thermal Vent Beam Lasers which allow pilots to easily reduce ship heat and avoid significant amounts of Thargoid fire. For more information, see Cold Orbiting and [Lasers](/en/lasers).
 
-For detailed stats on AX weapons, see the [AX Balance Research Spreadsheet](https://docs.google.com/spreadsheets/d/1kNZwBn16nYcrqpaua08VQb_ea3PF9SYcO-1IWivPZsA/edit#gid=1860633931)
-
-![weaponsgraph.png](/img/weaponsgraph.png)
+## **Weapon Options**
+The currently best available weapons are the Remote Release Flak Launcher, Guardian Gauss Cannon, Modified Guardian Shard Cannon, and Modified Guardian Plasma Charger.
 
 ## Remote Release Flak Launcher
 
@@ -104,3 +103,9 @@ Similar to the Advanced Multi-Cannon, these are an engineerable clone of the nor
 **Recommendation:** Use at own discretion (Cannot use without synth, Banned from progression kills)
 
 Note: Does not count against the 4 experimental weapon limit.
+
+## **Guardian Weapon Stat Comparison**
+![guardian_weapon_stats.png](/guardian_weapon_stats.png)
+
+![weaponsgraph.png](/img/weaponsgraph.png)
+For more detailed stats on AX weapons, see the [AX Balance Research Spreadsheet](https://docs.google.com/spreadsheets/d/1kNZwBn16nYcrqpaua08VQb_ea3PF9SYcO-1IWivPZsA/edit#gid=1860633931)
