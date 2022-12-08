@@ -2,7 +2,7 @@
 title: Permanente Signalquellen
 description: Permanente Thargoid-Standorte
 published: true
-date: 2021-08-26T13:35:31.049Z
+date: 2022-12-08T00:51:38.723Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T11:22:37.088Z
@@ -23,7 +23,7 @@ Nähere Informationen findest du in der [Thargoid Attacken-Liste](https://docs.g
 
 
 
-> Notruf-Signalquellen, die Megaschiffe beinhalten, die von Thargoids angegriffen wurden, sind Überreste der ursprünglichen Bubble-Invasion. Sie wurden dort manuell von FDev platziert, die sie nach der Invasion vergessen hatten zu entfernen. Deziat speziell, wurde am 5. Juli 2018 angegriffen und es gibt rund 40+ mehr Systeme mit der gleichen Art von Signalquellen in der ganzen Bubble und Pleiades Region. Diese Signalquellen sind kein Indiz dafür, dass es tatsächliche Aktivität von Thargoids gab. Das sind nur NHSS' und AXCZs. Beachte aber, dass die NHSS in Pleiades (etwa 150Ly rund um Merope) und im Hexenkopfnebel natürlich vorhanden sind und das nicht unbedingt bedeut, dass diese Systeme in Gefahr sind. 
+> Notruf-Signalquellen, die Megaschiffe beinhalten, die von Thargoids angegriffen wurden, sind Überreste der ursprünglichen Bubble-Invasion. Sie wurden dort manuell von FDev platziert, die sie nach der Invasion vergessen hatten zu entfernen. Deciat specifically was attacked on July 5th 2018, and there are about 40+ more systems with the same type of POI all over the Bubble and Pleiades region. Diese Signalquellen sind kein Indiz dafür, dass es tatsächliche Aktivität von Thargoids gab. Das sind nur NHSS' und AXCZs. Keep in mind though, that NHSS are naturally present in Pleiades region (roughly 150Ly around Merope) and Witch Head Nebula, and do not necessarily mean those systems are in danger. 
 > 
 > {.is-info}
 
