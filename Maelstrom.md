@@ -2,7 +2,7 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2022-12-08T09:51:51.874Z
+date: 2022-12-08T16:50:46.809Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
@@ -12,7 +12,7 @@ dateCreated: 2022-12-03T23:50:43.297Z
 
 > This page is a work in progress
 
-The Thargoid Maelstrom is a new type of instance that appeared alongside the Thargoid Invasion in Nov 3308. These instances have appeared in several systems and are an incredibly dangerous anomaly which purpose is currently unknown. Currently 3 out of 8 UIA causing the Maelstroms impacted. Namely Taranis, Leigong and Indra.
+The Thargoid Maelstrom is a new type of instance that appeared alongside the Thargoid Invasion in Nov 3308. These instances have appeared in several systems and are an incredibly dangerous anomaly which purpose is currently unknown. Currently 5 out of 8 UIA causing the Maelstroms impacted. Namely Taranis, Leigong, Indra, Cocijo and Oya.
 
 You can view current Maelstrom systems in the AXI tracking site: [Thargoid Watch](https://www.antixenoinitiative.com/watch)
 
