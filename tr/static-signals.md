@@ -2,7 +2,7 @@
 title: Sabit Sinyal Kaynakları
 description: Sabit Thargoid Yerleşkeleri
 published: true
-date: 2021-08-26T13:35:31.049Z
+date: 2022-12-08T00:51:38.723Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T11:22:37.088Z
@@ -23,7 +23,7 @@ Listenin devamı için: [Thargoid Saldırıları Çizelgesi](https://docs.google
 
 
 
-> Thargoidler tarafından saldırıya uğrayan megaship ve capital gemilerine sahip Distress Call sinyalleri, uzayküremizin ilk Thargoid istilasından arta kalanlardır. FDev tarafından yerleştirilmiş ve daha sonra kaldırılmaları unutulmuştur. Deciat, 5 Temmuz 2018 tarihinde saldırıya uğramıştır ve 40'tan fazla benzer sistem vardır. Bu POI'lar herhangi bir Thargoid etkinliği göstergesi değildir. Yalnızca Non-Human Signal Source ve AX Combat Zone'ları bu işlevdedir. Ancak unutmayın ki Pleiades ve Witch Head Nebulası normal şartlarda da çok sayıda NHSS içerir ve bu durum, sistemlerin tehlike altında olduğu anlamına gelmez. 
+> Thargoidler tarafından saldırıya uğrayan megaship ve capital gemilerine sahip Distress Call sinyalleri, uzayküremizin ilk Thargoid istilasından arta kalanlardır. FDev tarafından yerleştirilmiş ve daha sonra kaldırılmaları unutulmuştur. Deciat specifically was attacked on July 5th 2018, and there are about 40+ more systems with the same type of POI all over the Bubble and Pleiades region. Bu POI'lar herhangi bir Thargoid etkinliği göstergesi değildir. Yalnızca Non-Human Signal Source ve AX Combat Zone'ları bu işlevdedir. Keep in mind though, that NHSS are naturally present in Pleiades region (roughly 150Ly around Merope) and Witch Head Nebula, and do not necessarily mean those systems are in danger. 
 > 
 > {.is-info}
 
