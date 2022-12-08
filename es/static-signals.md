@@ -2,7 +2,7 @@
 title: Fuentes de Señales Permanentes
 description: Ubicaciones fijas de Thargoides
 published: verdadero
-date: 2021-08-26T13:35:31.049Z
+date: 2022-12-08T00:51:38.723Z
 tags: thargoides, interceptores, scouts
 editor: markdown
 dateCreated: 2021-06-15T11:22:37.088Z
@@ -23,7 +23,7 @@ Para un listado extendido, revisa la [Hoja de Cálculo de Ataques Thargoides](ht
 
 
 
-> Los puntos de interés de llamada de socorro que contienen mega naves o naves capitales atacadas por thargoids son restos de la invasión inicial a la burbuja. Fueron colocados allí manualmente por FDev, quien olvidó quitarlos una vez que terminó la invasión. Deciat específicamente fue atacado el 5 de julio de 2018, y hay más de 40 sistemas más con el mismo tipo de PDI en toda la región de la burbuja y las pléiades. Estos PDI no son una indicación de ninguna actividad tárgoidea real por sí mismos, solo lo son las Fuentes de señales no humanas o las Zonas de combate AX. Sin embargo, tenga en cuenta que el NHSS está presente de forma natural en la región de las pléiades (aproximadamente 150Ly alrededor de Merope) y la nebulosa Witch Head, y no significa necesariamente que esos sistemas estén en peligro. 
+> Los puntos de interés de llamada de socorro que contienen mega naves o naves capitales atacadas por thargoids son restos de la invasión inicial a la burbuja. Fueron colocados allí manualmente por FDev, quien olvidó quitarlos una vez que terminó la invasión. Deciat specifically was attacked on July 5th 2018, and there are about 40+ more systems with the same type of POI all over the Bubble and Pleiades region. Estos PDI no son una indicación de ninguna actividad tárgoidea real por sí mismos, solo lo son las Fuentes de señales no humanas o las Zonas de combate AX. Keep in mind though, that NHSS are naturally present in Pleiades region (roughly 150Ly around Merope) and Witch Head Nebula, and do not necessarily mean those systems are in danger. 
 > 
 > {.is-info}
 
