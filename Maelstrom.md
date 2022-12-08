@@ -2,7 +2,7 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2022-12-08T09:50:43.177Z
+date: 2022-12-08T09:51:51.874Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
@@ -49,3 +49,5 @@ The current systems having Maelstrom cloud and all of its effects are:
 **Taranis: Hyades Sector FB-N b7-6, body A 1**  
 **Leigong: HIP 8887, body A 4**  
 **Indra: HIP 20567, body 7**
+**Oya: Cephei Sector BV-Y b4, body B 1**
+**Cocijo: Col 285 Sector BA-P c6-18, body 3**
