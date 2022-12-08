@@ -2,7 +2,7 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2022-12-04T14:42:35.107Z
+date: 2022-12-08T00:18:06.550Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
@@ -40,3 +40,6 @@ Destroying a Caustic Generator will cause it to drop various materials which can
 
 ## System Wide Impact
 When in the same system as a Thargoid Maelstrom, Guardian Modules are functionally unusable and will decay while anywhere in the system at a constant rate. Guardian weapons, Guardian Module Reinforcement, and Guardian Shield Reinforcement decay at a rate of 1%/s. The Guardian Power Plant and Guardian Power Distributor decay at a rate of 1% every 10 seconds, but do not decay lower than 19%. The Guardian Hull Reinforcement is immune, because it does not have integrity of its own.
+
+## Maelstrom systems
+The current systems having Maelstrom cloud and all of its effects are: **Taranis: Hyades Sector FB-N b7-6, body A 1** **Leigong: HIP 8887, body A 4** **Indra: HIP 20567, body 7**
