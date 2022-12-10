@@ -2,7 +2,7 @@
 title: Weapons
 description: Detailed breakdown of Anti-Xeno Weaponry
 published: true
-date: 2022-12-07T16:30:36.949Z
+date: 2022-12-10T18:01:32.676Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
@@ -76,6 +76,12 @@ AXMCs come in two types - Turreted and Fixed, and in two sizes - Medium and Larg
 
 **Recommendation:** Great for Scouts, Awful for Interceptors
 
+## Enhanced AX Multi-Cannon
+
+These improved AXMCs currently only come in turreted form. They come with a marginal increase to damage, as well as a large  increase in shot speed. Overall, they are only a marginal upgrade from regular AXMCs.
+
+**Recommendation:** Only good for scouts
+
 ## AX Missile Rack
 
 Okay, but very difficult to aim as they are slow moving and dumbfire only. Minimal ammo.
@@ -90,7 +96,7 @@ These modified missile racks deal slightly less damage, but come with a greater 
 
 ## Advanced Multi-Cannon
 
-Same as a normal Multi-Cannon and can be engineered, however it will not do AX damage unless ammo is synthesized.
+Same as a normal Multi-Cannon and can be engineered, however it will not do AX damage unless ammo is synthesized. Not to be confused with any variant of AXMCs.
 
 **Recommendation:** Do not use (Poor damage, Cannot use without synth)
 
@@ -98,7 +104,7 @@ Note: Does not count against the 4 experimental weapon limit.
 
 ## Advanced Missile Racks
 
-Similar to the Advanced Multi-Cannon, these are an engineerable clone of the normal Missile Rack which requires synth to deal AX damage. Due to their extreme splash damage, synth requirement, and lack of weapon number limit, they are banned from use in AXI ranks. 
+Similar to the Advanced Multi-Cannon, these are an engineerable clone of the normal Missile Rack which requires synth to deal AX damage. Due to their extreme splash damage, synth requirement, and lack of weapon number limit, they are banned from use in AXI ranks. Not to be confused with any variant of AXMRs.
 
 **Recommendation:** Use at own discretion (Cannot use without synth, Banned from progression kills)
 
