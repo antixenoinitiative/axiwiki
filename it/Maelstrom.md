@@ -2,7 +2,7 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2022-12-08T16:50:46.809Z
+date: 2022-12-15T20:15:10.969Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
@@ -12,7 +12,7 @@ dateCreated: 2022-12-03T23:50:43.297Z
 
 > This page is a work in progress
 
-The Thargoid Maelstrom is a new type of instance that appeared alongside the Thargoid Invasion in Nov 3308. These instances have appeared in several systems and are an incredibly dangerous anomaly which purpose is currently unknown. Currently 5 out of 8 UIA causing the Maelstroms impacted. Namely Taranis, Leigong, Indra, Cocijo and Oya.
+The Thargoid Maelstrom is a new type of instance that appeared alongside the Thargoid Invasion in Nov 3308. These instances have appeared in several systems and are an incredibly dangerous anomaly which purpose is currently unknown. All 8 UIA causing the Maelstroms impacted.
 
 You can view current Maelstrom systems in the AXI tracking site: [Thargoid Watch](https://www.antixenoinitiative.com/watch)
 
@@ -48,4 +48,4 @@ The Guardian Hull Reinforcement is immune, because it does not have integrity of
 The current systems having Maelstrom cloud and all of its effects are:  
 **Taranis: Hyades Sector FB-N b7-6, body A 1**  
 **Leigong: HIP 8887, body A 4**  
-**Indra: HIP 20567, body 7** **Oya: Cephei Sector BV-Y b4, body B 1** **Cocijo: Col 285 Sector BA-P c6-18, body 3**
+**Indra: HIP 20567, body 7** **Oya: Cephei Sector BV-Y b4, body B 1** **Cocijo: Col 285 Sector BA-P c6-18, body 3** **Thor: Col 285 Sector IG-O c6-5, body 3** **Raijin: Pegasi Sector IH-U b3-3, body 2** **Hadad: HIP 30377, body 8**
