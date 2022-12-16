@@ -2,7 +2,7 @@
 title: Errores comunes
 description: Errores comunes que se deben evitar al cazar Thargoides
 published: verdadero
-date: 2021-09-19T11:15:47.195Z
+date: 2022-12-16T07:53:51.982Z
 tags: construcciones, equipamiento, ingeniero
 editor: markdown
 dateCreated: 2021-06-10T07:16:26.785Z
@@ -49,7 +49,7 @@ Las armas Thargoid causan daño absoluto / cáustico, esto significa que cualqui
 ## Armas
 Aunque otras armas AX pueden ser interesantes y divertidas, nada supera a un cañón Gauss. Debido a los valores de Penetración de armadura, los cañones Guardian Gauss tienen el daño de AX efectivo más alto por segundo. Concéntrese en aprender a usar los cañones de Gauss correctamente y le resultará mucho más fácil a medida que los interceptores a los que te enfrentas son más duro.
 
-Los Cañones Esquirlas Guardianes y los Cargadores de Plasma Guardian simplemente no pueden seguir el ritmo del DPS y la efectividad de Gauss.
+Guardian Shard Cannons and Guardian Plasma Chargers simply cannot keep up with the DPS and effectiveness of gauss. The exception to this being the modified variants of these weapons, which are very viable, albeit still inferior to gauss.
 
 Cañones Esquirlas Guardianes también requieren que el piloto esté dentro del rango de ataque del rayo para lograr el máximo efecto de DPS.
 
