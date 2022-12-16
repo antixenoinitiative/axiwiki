@@ -2,7 +2,7 @@
 title: Common Mistakes
 description: Common mistakes to avoid when hunting Thargoids
 published: true
-date: 2021-09-19T11:15:47.195Z
+date: 2022-12-16T07:53:51.982Z
 tags: builds, outfitting, engineer
 editor: markdown
 dateCreated: 2021-06-10T07:16:26.785Z
@@ -48,7 +48,7 @@ Thargoid weapons deal absolute/caustic damage, this means any Thermal/Kinetic/Ex
 ## Weapons
 Although other AX weapons may be interesting and fun, nothing beats a Gauss Cannon. Due to Armour Penetration values, Guardian Gauss cannons have the highest effective AX damage per second. Focus on learning how to use Gauss Cannons properly and you will have a far easier time as the Interceptors you engage get tougher.
 
-Guardian Shard Cannons and Guardian Plasma Chargers simply cannot keep up with the DPS and effectiveness of Gauss.
+Guardian Shard Cannons and Guardian Plasma Chargers simply cannot keep up with the DPS and effectiveness of gauss. The exception to this being the modified variants of these weapons, which are very viable, albeit still inferior to gauss.
 
 Shards also require the pilot to be within Lightning attack range to achieve maximum DPS effect.
 
