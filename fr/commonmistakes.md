@@ -2,7 +2,7 @@
 title: Erreurs fréquentes
 description: Common mistakes to avoid when hunting Thargoids
 published: true
-date: 2021-09-19T11:15:47.195Z
+date: 2022-12-16T07:53:51.982Z
 tags: builds, outfitting, engineer
 editor: markdown
 dateCreated: 2021-06-10T07:16:26.785Z
@@ -49,7 +49,7 @@ Les armes thargoïds infligent des dégâts absolus/caustiques, ce qui signifie 
 ## Armes
 Bien que les autres armes AX puissent être intéressantes et amusantes, aucune n'est meilleure que le Canon de Gauss. En raison de leur valeur de pénétration d'armure, les canons de Gauss Gardiens infligent les plus hauts dégâts par seconde en AX. Concentrez-vous à apprendre comment utiliser correctement les canons de Gauss et vous aurez beaucoup plus de facilités lorsque vous vous attaquerez à des intercepteurs plus difficiles.
 
-Les canons à éclat gardien et les chargeurs plasma gardien ne peuvent tout simplement pas rivaliser avec le DPS et l'efficacité des Gauss.
+Guardian Shard Cannons and Guardian Plasma Chargers simply cannot keep up with the DPS and effectiveness of gauss. The exception to this being the modified variants of these weapons, which are very viable, albeit still inferior to gauss.
 
 Les canons à éclats nécessitent également du pilote qu'il soit dans la portée de l'éclair du thargoid pour obtenir le DPS maximum.
 
