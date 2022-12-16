@@ -2,7 +2,7 @@
 title: Yaygın Hatalar
 description: Thargoid avında kaçınılması gereken yaygın hatalar
 published: true
-date: 2021-09-19T11:15:47.195Z
+date: 2022-12-16T07:53:51.982Z
 tags: builds, outfitting, engineer
 editor: markdown
 dateCreated: 2021-06-10T07:16:26.785Z
@@ -49,7 +49,7 @@ Thargoid silahları "absolute"/"caustic" hasar uygular. Yani kalkanınızdaki ve
 ## Silahlar
 Diğer AX silahları ilginç ve eğlenceli olsalar da hiçbir şey Gauss Cannon'un önüne geçemez. Zırh delme değeri sayesinde Guardian Gauss Cannon'ları en yüksek efektif AX hasarına sahiptirler. Yalnızca Gauss Cannon'ları kullanmayı öğrenmeye odaklanın, bu sayede ileride karşılaşacağınız Interceptor'ler güçlense de çok daha kolay savaşlar yaparsınız.
 
-Guardian Shard Cannons ve Guardian Plasma Chargers hiçbir şekilde Gauss'un DPS ve etkinliğine erişemezler.
+Guardian Shard Cannons and Guardian Plasma Chargers simply cannot keep up with the DPS and effectiveness of gauss. The exception to this being the modified variants of these weapons, which are very viable, albeit still inferior to gauss.
 
 Ayrıca Shards, en yüksek hasarı vermek için Interceptor'ün şimşek saldırısının menzilinde olmanızı gerektirir.
 
