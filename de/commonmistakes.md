@@ -2,7 +2,7 @@
 title: Häufige Fehler
 description: Häufige Fehler bei der Jagd auf Thargoids
 published: true
-date: 2021-09-19T11:15:47.195Z
+date: 2022-12-16T07:53:51.982Z
 tags: Aufbau, Ausrüsten, Ingenieur
 editor: markdown
 dateCreated: 2021-06-10T07:16:26.785Z
@@ -49,7 +49,7 @@ Thargoid-Waffen verursachen absoluten/ätzenden Schaden, das bedeutet jegliche T
 ## Waffen
 Auch wenn andere AX-Waffen interessant sind und Spass machen, geht nichts über eine Gausskanone. Aufgrund der Panzerungsdurchdringungswerte haben Guardian Gauss-Kanonen den höchsten effektiven AX-Schaden pro Sekunde. Konzentrieren Sie sich darauf, den richtigen Umgang mit den Gausskanonen zu lernen, und Sie werden eine viel leichtere Zeit haben, wenn die Interceptors, die Sie bekämpfen, härter werden.
 
-Guardian Shard Kanonen und Guardian Plasma Lader können einfach nicht mit der DPS und Effektivität von Gauss mithalten.
+Guardian Shard Cannons and Guardian Plasma Chargers simply cannot keep up with the DPS and effectiveness of gauss. The exception to this being the modified variants of these weapons, which are very viable, albeit still inferior to gauss.
 
 Shards erfordern ausserdem, dass sich der Pilot in Blitzangriffsreichweite befindet, um einen maximalen DPS-Effekt zu erzielen.
 
