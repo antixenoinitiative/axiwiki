@@ -2,7 +2,7 @@
 title: Gemi Donatım Teorisi
 description: Genel AX donatım teorisine yönelik kapsamlı rehber
 published: true
-date: 2021-09-19T11:08:08.311Z
+date: 2022-12-21T07:12:18.694Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -11,8 +11,8 @@ dateCreated: 2021-06-10T01:08:57.783Z
 # Gemi Donatım Teorisi
 Bu aşağıda belirtilen her donanım türlerine yönelik hazırlanmış, genel AX donatım teorisine dair kapsamlı bir rehberdir:
 
-- Bi-Weave Hibritler
-- Kalkansız Soğuk Yörüngeciler
+- Shieldless Cold Orbiters
+- Bi-Weave Hybrids
 - Kalkan Tankları
 
 # Genel Hususlar
@@ -20,7 +20,6 @@ Bu aşağıda belirtilen her donanım türlerine yönelik hazırlanmış, genel 
 ## Mühendislik
 
 Bir Anti-Xeno gemisindeki **tüm bileşenler** en yüksek performans için **mühendislikle tamamen yükseltilmiş** olmalıdır. Thargoidler ileri düzey düşmanlardır ve herhangi bir insan NPC'sine kıyasla çok daha fazla hasar verirler. Bunun yanın hazırlıklı olmayan gemileri darmadağın edecek özel yetenek saldırılarına sahiptirler. Eğer ki herhangi bir sebeple geminizdeki her bileşeni tamamen yükseltemiyorsanız en azından yükseltmeniz gerekenler:
-
 - Thrusters
 - Power Distributor
 - Hull Reinforcements
