@@ -2,7 +2,7 @@
 title: Рекомендованные сборки
 description: Рекомендованные сборки AX-кораблей
 published: Опубликовано
-date: 2022-07-31T16:32:14.469Z
+date: 2023-01-02T18:33:55.875Z
 tags: сборки
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -191,6 +191,14 @@ And you’re good to go!
 ## Сборки против разведчиков
 
 ## Вкладки {.tabset}
+
+### Vulture Build
+
+[**Vulture EDSY Build**](https://edsy.org/s/vQEgVRK)
+
+- Very cheap at 25 million credits
+- 2x Large AX Multicannons, and a class 5 shield generator
+- Does not need engineering, although it is still recommended
 
 ### Anaconda Build
 
