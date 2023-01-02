@@ -2,7 +2,7 @@
 title: Empfohlene Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2023-01-02T18:33:55.875Z
+date: 2023-01-02T18:39:52.483Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -75,7 +75,7 @@ Recommendation: For people that like headroom on the distributor and don’t lik
 
 [Coriolis Shieldless Build](https://s.orbis.zone/jv-6)
 
-[EDSY Shieldless Build](https://edsy.org/s/vu5byUv)
+[EDSY Shieldless Build](https://edsy.org/s/vP4rhlF)
 
 AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
@@ -194,7 +194,7 @@ And you’re good to go!
 
 ### Vulture Build
 
-[**Vulture EDSY Build**](https://edsy.org/s/vQEgVRK)
+[**Vulture EDSY Build**](https://edsy.org/s/vQEgVRK) [**Build with Engineering**](https://edsy.org/#/L=HN00000H4C0SA0,L5110L5110,EBD10EB210DBwG04m_W0CjwG02G_W0,9onH04m_W0A72H02m_W0AOEG04m_W0AcI00AqqG02G_W0B76G02m_W0BLeG04G_W0BZY10,16yH04m_W0,7T4H06m_W005U107tn0077U101-C0010i0010j00,Scouthawk_0G3,AIAX12)
 
 - Very cheap at 25 million credits
 - 2x Large AX Multicannons, and a class 5 shield generator
