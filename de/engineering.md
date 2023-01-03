@@ -2,7 +2,7 @@
 title: Ingenieur Leitfaden
 description: Leitfaden zum Sammeln von Materialien für die Modifikation deines Schiffes
 published: true
-date: 2021-06-17T00:16:23.801Z
+date: 2023-01-03T02:41:51.668Z
 tags: Engineering, Ausrüstung, Materialien
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -15,42 +15,39 @@ Dies ist ein allgemeiner Leitfaden zum Sammeln von Materialien für die Modifika
 > 
 > {.is-info}
 
-> **Weitere wichtige Seiten**  [Scavengers Tabelle](https://docs.google.com/spreadsheets/d/1yo1iHP9KUXpoBaIzJsRsDxfAcQa7cBq0YUIFy3m2NII/edit#gid=585994681)  [Panpipers' Pleiades Überlebenstaktik für Barnacles und mehr](https://docs.google.com/spreadsheets/d/1giHvc1SISUcD7BPKjlbutkuwPrWQwHuSxnBwQ3MPQME/edit#gid=0) 
+> **Other Useful Sites** [Optimal Methods for Grinding Materials](https://sites.google.com/view/ed-materials) [Scavengers Spreadsheet](https://docs.google.com/spreadsheets/d/1yo1iHP9KUXpoBaIzJsRsDxfAcQa7cBq0YUIFy3m2NII/edit#gid=585994681) [Panpipers's Pleiades Survivor Guide to Barnacles and More](https://docs.google.com/spreadsheets/d/1giHvc1SISUcD7BPKjlbutkuwPrWQwHuSxnBwQ3MPQME/edit#gid=0) 
 > 
 > {.is-success}
 
 # Rohe Materialien
 
 ## Shard Farming
-*Anleitung von CMDR Secretpro*
+*Guide By CMDRs Secretpro & Airom42*
 
-Rohmaterialien (Stufe 4) können massenhaft an **Kristalinen Biologischen Standorten** gefunden werden. Ein Haufen dieser Standorte, die nur aus Rohmaterialien bester Klasse (G4) bestehen, kann man in zwei Systemen circa 1500- 1800Ly von der Bubble entfernt finden. Wir empfehlen ein akteptables Entdeckungsschiff zusammenzustellen (unmodifiziert ist in Ordnung) und dann die beiden Systeme zu besuchen, um dort auf allen G4 Rohstoffen (außer Selen) aufzustocken. Diese kann man dann für jegliche Materialien mit geringerer Qualität eintauschen. Das sollte für mehrere ganze Schiffs Builds reichen.
+Rohmaterialien (Stufe 4) können massenhaft an **Kristalinen Biologischen Standorten** gefunden werden. Ein Haufen dieser Standorte, die nur aus Rohmaterialien bester Klasse (G4) bestehen, kann man in zwei Systemen circa 1500- 1800Ly von der Bubble entfernt finden. Wir empfehlen ein akteptables Entdeckungsschiff zusammenzustellen (unmodifiziert ist in Ordnung) und dann die beiden Systeme zu besuchen, um dort auf allen G4 Rohstoffen (außer Selen) aufzustocken. Diese kann man dann für jegliche Materialien mit geringerer Qualität eintauschen. Das sollte für mehrere ganze Schiffs Builds reichen. Selenium has no known crystal shard sites. However, Odyssey introduced new sites which can be farmed at nearly the same efficieny. (see below)
 
-- **Yttrium** - Outotz LS-K D8-3 B 5 A
-- **Antimon** - Outotz LS-K D8-3 B 5 C
-- **Ruthenium** - Outotz LS-K D8-3 B 7 B
-- **Polonium** - HIP 36601 C 1 A
-- **Tellur** - HIP 36601 C 3 B
-- **Technetium** - HIP 36601 C 5 A
+- **Yttrium** - Outotz LS-K D8-3, B 5 A
+- **Antimony** - Outotz LS-K D8-3, B 5 C
+- **Ruthenium** - Outotz LS-K D8-3, B 7 B
+- **Polonium** - HIP 36601, C 1 A
+- **Tellurium** - HIP 36601, C 3 B
+- **Technetium** - HIP 36601, C 5 A
 
-Um an diese Standorte zu kommen, muss du zu den Himmelskörper fliegen, der die entsprechenden Ressourcen hat und dann deinen Detail-Oberflächenscanner (DSS) benutzten. Daraufhin kannst du zu irgendeinem Standort fliegen und ins SRV steigen. Hier sollte man genug Rohmaterialien für jeden Ingenieur finden.
 
-**Vergiss nicht einen Detail-Oberflächenscanner mitzubringen**
+
+Um an diese Standorte zu kommen, muss du zu den Himmelskörper fliegen, der die entsprechenden Ressourcen hat und dann deinen Detail-Oberflächenscanner (DSS) benutzten. When this is done, select Crystal Shards and look for dark blue areas. Fly down to the planet and look for shards on the surface. Land, and hop in your SRV. You should be able to find plenty of rare raw materials for all your engineering and synthesis needs.
+
+**Do not forget to bring a Detailed Surface Scanner and SRV**
 ## Selen und Thargoid Barnacles
-Selen ist (ironischerweise) am schwierigsten zu farmen, da man es nur von Klasse 2 Ressourcen-Standorten bekommt. Es gibt viele Wege an Selen ranzukommen, aber keine sind sehr effizient, im Gegensatz zu den Kristallinen Standorten wie oben erwähnt.
+Selen ist (ironischerweise) am schwierigsten zu farmen, da man es nur von Klasse 2 Ressourcen-Standorten bekommt. There are multiple ways to collect it however, albeit slightly slower. The best way is brain trees, which can be farmed similar to crystal shards. Brain trees for selenium can be found at **Kappa-1 Volantis, B 3 F A**
 
-Thargoid Barnacles können eine gute Quelle dafür sein, da die Stacheln meist G1-G2 Materialien fallen lassen, aber es kann schwierig sein den richtigen Barnacle zu finden. Du kannst die von CMDR Panpiper erstellte Tabelle nutzen, um den richtigen Standort zu finden. Look for Allripe Barnacles with Selenium present on the planet. Außerdem wird das erneute einloggen die Stacheln neu laden, wodurch man sie erneut aufsammeln kann.
-
-Weitere bekannte Selen Orte
-
-- **Wolf 587 4 E A** hat Geo-Sites und hohe Selen %
-- **HIP 83204 3 B A** ist etwas besser (5% Selen, 1.3% Arsen und 1% Zirkonium in den G2-Stufen, Geo-Sites 10, 1, 2, 8, 7 und 14)
+Thargoid Barnacles can provide a good source of selenoum as well, as breaking the spikes most commonly drops G1-G2 materials, but locating the correct barnacle may be tricky. Du kannst die von CMDR Panpiper erstellte Tabelle nutzen, um den richtigen Standort zu finden. Look for Allripe Barnacles with Selenium present on the planet. Außerdem wird das erneute einloggen die Stacheln neu laden, wodurch man sie erneut aufsammeln kann.
 
 # Hergestellte Materiale
 ## HGE Looping
-*Anleitung von CMDR Jetlagged*
+*Guide By CMDR Jetlagged*
 
-HGE Looping ist eine zeiteffiziente Methode um an Hergestellte Materialien von Klasse 5 zu kommen. Bestenfalls fliegst du ein Schiff mit mindestens 3 Sammeldrohnen-Controler und einer guten Wendezeit im Supercruise.
+HGE Looping is a time-efficient method of grinding Grade 5 Manufactured materials. Ideally you will want to be using a ship with at least 3 collector limpets and a good turn rate in supercruise.
 
 1. Zuerst musst du High Grade Emissions finden, die die gewünschten Materialien enthalten und einen Timer, der mehr als 20 min anzeigt.
 1. Springe ins Signal und sammle die Materialien mit den Drohnen auf.
@@ -60,7 +57,7 @@ HGE Looping ist eine zeiteffiziente Methode um an Hergestellte Materialien von K
 1. Die näheste unbekannte Signal sollte ein paar hundert km entfernt sein und ist dieselbe HGE, in die du das erste Mal gesprungen bist.
 1. Spring rein, sammle alles und wiederhole alles bis das Lager für Materialien voll ist, oder das Signal verfällt.
 
-Der Inhalt eines Signals werden von der Zugehörigkeit des Systems (Föderation/Imperium) und dem Status von kleineren Fraktionen (Krieg, Seuche, etc.) bestimmt. HGEs findet man in Systemen mit solchen Bedingungen. Besuche[ED Materialien](https://sites.google.com/view/ed-materials/ed-materials/manufactured-items) für mehr Informationen bezüglich Stati und deren Materialien.
+The contents of a given HGE are determined by system allegiance (Federation/Empire) and minor faction state (Outbreak, War, etc.) and spawn at random in systems in such states. See [ED Materials](https://sites.google.com/view/ed-materials/ed-materials/manufactured-items) for more information on what material corresponds to each faction state.
 
 You can use the [min-ed-launcher](https://github.com/Rfvgyhn/min-ed-launcher#features)'s auto-restart feature to save some time on each game restart.
 
