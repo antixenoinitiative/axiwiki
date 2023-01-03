@@ -2,7 +2,7 @@
 title: Mühendislik Materyalleri Rehberi
 description: Geminizi mühendislikle yükseltmek için gereken materyalleri elde etme rehberi
 published: true
-date: 2021-06-17T00:16:23.801Z
+date: 2023-01-03T02:41:51.668Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -15,42 +15,39 @@ Bu, Elite: Dangerous'ta geminizi mühendislikle yükseltmek için gereken matery
 > 
 > {.is-info}
 
-> **Diğer Kullanışlı Kaynaklar** [Scavengers Spreadsheet](https://docs.google.com/spreadsheets/d/1yo1iHP9KUXpoBaIzJsRsDxfAcQa7cBq0YUIFy3m2NII/edit#gid=585994681) [Panpipers's Pleiades Survivor Guide to Barnacles and More](https://docs.google.com/spreadsheets/d/1giHvc1SISUcD7BPKjlbutkuwPrWQwHuSxnBwQ3MPQME/edit#gid=0) 
+> **Other Useful Sites** [Optimal Methods for Grinding Materials](https://sites.google.com/view/ed-materials) [Scavengers Spreadsheet](https://docs.google.com/spreadsheets/d/1yo1iHP9KUXpoBaIzJsRsDxfAcQa7cBq0YUIFy3m2NII/edit#gid=585994681) [Panpipers's Pleiades Survivor Guide to Barnacles and More](https://docs.google.com/spreadsheets/d/1giHvc1SISUcD7BPKjlbutkuwPrWQwHuSxnBwQ3MPQME/edit#gid=0) 
 > 
 > {.is-success}
 
 # "Raw" Materyaller
 
 ## Shard Farmları
-*CMDR Secretpro tarafından hazırlanmış rehber*
+*Guide By CMDRs Secretpro & Airom42*
 
-Raw materyaller (Grade 4) **"Crystalline Shard Biological Sites"** denilen gezegen/uydu üzerindeki biyolojik oluşum bölgelerinde bol miktarda toplanabilir. En yüksek Grade 4 seviyesinde materyal içeren bu alanlara sahip olan bölgeler "bubble"dan 1500-1800 Ly uzaklıkta iki sistemde bulunabilir. Düzgün bir keşif gemisi toplamanızı (mühendislik içermese de olur) ve iki sistemi de ziyaret edip tüm G4 materyal depolarınızı (Selenium hariç) doldurmanızı tavsiye ediyoruz. Bu sayede düşük seviye materyal gerektiğinde takaslayabilirsiniz. Bu size birden fazla tam mühendislikle donatılmış gemi toplamak için yeterli olur.
+Raw materyaller (Grade 4) **"Crystalline Shard Biological Sites"** denilen gezegen/uydu üzerindeki biyolojik oluşum bölgelerinde bol miktarda toplanabilir. En yüksek Grade 4 seviyesinde materyal içeren bu alanlara sahip olan bölgeler "bubble"dan 1500-1800 Ly uzaklıkta iki sistemde bulunabilir. Düzgün bir keşif gemisi toplamanızı (mühendislik içermese de olur) ve iki sistemi de ziyaret edip tüm G4 materyal depolarınızı (Selenium hariç) doldurmanızı tavsiye ediyoruz. Bu sayede düşük seviye materyal gerektiğinde takaslayabilirsiniz. Bu size birden fazla tam mühendislikle donatılmış gemi toplamak için yeterli olur. Selenium has no known crystal shard sites. However, Odyssey introduced new sites which can be farmed at nearly the same efficieny. (see below)
 
-- **Yttrium** - Outotz LS-K D8-3 B 5 A
-- **Antimony** - Outotz LS-K D8-3 B 5 C
-- **Ruthenium** - Outotz LS-K D8-3 B 7 B
-- **Polonium** - HIP 36601 C 1 A
-- **Tellurium** - HIP 36601 C 3 B
-- **Technetium** - HIP 36601 C 5 A
+- **Yttrium** - Outotz LS-K D8-3, B 5 A
+- **Antimony** - Outotz LS-K D8-3, B 5 C
+- **Ruthenium** - Outotz LS-K D8-3, B 7 B
+- **Polonium** - HIP 36601, C 1 A
+- **Tellurium** - HIP 36601, C 3 B
+- **Technetium** - HIP 36601, C 5 A
 
-Bu alanlardan faydalanmak için belirtilen sistem ve gezegene gidip DSS'inizle yüzey taraması yapmanız gerekmektedir. Daha sonra herhangi bir biyolojik oluşumun yanına iniş yapıp SRV'nizi kullanınız. Mühendislik ve sentez ihtiyaçlarınız için bolca Raw materyal bulacaksınız.
 
-**Detailed Surface Scanner getirmeyi unutmayın.**
+
+Bu alanlardan faydalanmak için belirtilen sistem ve gezegene gidip DSS'inizle yüzey taraması yapmanız gerekmektedir. When this is done, select Crystal Shards and look for dark blue areas. Fly down to the planet and look for shards on the surface. Land, and hop in your SRV. You should be able to find plenty of rare raw materials for all your engineering and synthesis needs.
+
+**Do not forget to bring a Detailed Surface Scanner and SRV**
 ## Selenium ve Thargoid Barnacle'ları
-Selenium, yalnızca Grade 2 kaynaklarından düşmesi sebebiyle farmlaması en zor materyaldir. Toplamak için pek çok yöntem olsa da hiçbiri Shard farmlarında belirtilen yöntemler gibi etkin değildir.
+Selenium, yalnızca Grade 2 kaynaklarından düşmesi sebebiyle farmlaması en zor materyaldir. There are multiple ways to collect it however, albeit slightly slower. The best way is brain trees, which can be farmed similar to crystal shards. Brain trees for selenium can be found at **Kappa-1 Volantis, B 3 F A**
 
-Thargoid Barnacle'ları iyi bir kaynak olabilir ancak doğru barnacle bölgelerini bulmak zor olabilir. CMDR Panpiper tarafından hazırlanmış bu çizelgeyi kullanarak doğru siteleri bulabilirsiniz. Selenium içeren gezegenlerdeki "Allripe Barnacles"lara bakın. Ek olarak, ana menüye dönüp tekrar oyuna girerek dikenleri resetleyip ve tekrar tekrar toplayabilirsiniz.
-
-Bilinen diğer Selenium Alanları
-
-- **Wolf 587 4 E A** "Geological" bölgelere ve yüksek Selenium yüzdesine sahip.
-- **HIP 83204 3 B A** biraz daha yüksek (G2 seviye düşüşlerde 5% Selenium, 1.3% Arsenic and 1% Zirconium - "geological" bölgeler 1, 2, 8, 7, 10 ve 14)
+Thargoid Barnacles can provide a good source of selenoum as well, as breaking the spikes most commonly drops G1-G2 materials, but locating the correct barnacle may be tricky. CMDR Panpiper tarafından hazırlanmış bu çizelgeyi kullanarak doğru siteleri bulabilirsiniz. Selenium içeren gezegenlerdeki "Allripe Barnacles"lara bakın. Ek olarak, ana menüye dönüp tekrar oyuna girerek dikenleri resetleyip ve tekrar tekrar toplayabilirsiniz.
 
 # "Manufactured" Materyaller
 ## HGE Döngüsü
-*CMDR Jetlagged tarafından hazırlanmış rehber*
+*Guide By CMDR Jetlagged*
 
-HGE Döngüsü Grade 5 Manufactured materlay toplamak için zamandan kazandıran bir metottur. (HGE - High Grade Emissions - sistemlerde bulacağınız bir sinyal tipi). En az 3 toplama Limpet'ine ve supercruise'da iyi bir dönüş kabiliyetine sahip bir gemi kullanmanız faydalı olacaktır.
+HGE Looping is a time-efficient method of grinding Grade 5 Manufactured materials. Ideally you will want to be using a ship with at least 3 collector limpets and a good turn rate in supercruise.
 
 1. İstenilen materyalleri içeren ve 20 dk'dan fazla süresi olan bir HGE bularak başlayın.
 1. HGE'ye girin ve materyalleri toplayın.
@@ -60,15 +57,15 @@ HGE Döngüsü Grade 5 Manufactured materlay toplamak için zamandan kazandıran
 1. En yakın "Unknown Signal Source" yalnızca birkaç yüz km uzakta ve az önce içinde bulunduğunuz HGE olmalı.
 1. Giriş yapıp, toplayın ve materyal deponuz dolana ya da HGE'nin süresi bitene kadar tekrar edin.
 
-HGE içeriği; sistemin bağlı olduğu güce (Federasyon/Empire) ve Minor Faction durumuna (Outbreak, War vs) bağlıdır, bu şartları sağlayan sistemlerde rastgele ortaya çıkarlar. Hangi materyalleri hangi koşullarda bulabileceğinizi öğrenmek için [ED Materials](https://sites.google.com/view/ed-materials/ed-materials/manufactured-items) kaynağına göz atın.
+The contents of a given HGE are determined by system allegiance (Federation/Empire) and minor faction state (Outbreak, War, etc.) and spawn at random in systems in such states. See [ED Materials](https://sites.google.com/view/ed-materials/ed-materials/manufactured-items) for more information on what material corresponds to each faction state.
 
-[min-ed-launcher](https://github.com/Rfvgyhn/min-ed-launcher#features)'ın otomatik restart özelliğini kullanarak oyunu yeniden başlatırken zaman kazanabilirsiniz.
+You can use the [min-ed-launcher](https://github.com/Rfvgyhn/min-ed-launcher#features)'s auto-restart feature to save some time on each game restart.
 
-Eğer zayıf bir PC'niz varsa ya da daha da hızlanmak isterseniz oyunun Horizon olmayan temel versiyonunu da kullanabilirsiniz.
+If you have a weak PC (or want to speed up the grind even more) you can load the vanilla (non-horizon) version of the game, as it loads faster.
 
 # Encoded Materyaller
 ## Jameson'ın Düşmüş Cobra'sı
-Jameson'ın çakıldığı alanda yüksek seviye "encoded" materyaller bulabilirsiniz. Alana gidin ve SRV'niz ile yanıp sönen küçük kırmızı ışıklara sağ tuşla tarama yapın. Daha sonra ana menüye dönüp oyuna girdiğinizde tekrar tarama yapabilirsiniz. Depolarınızı doldurana kadar tekrarlayın.
+You can find a collection of high grade encoded materials by travelling to Jameson's crashed cobra and scanning the small red beacons surrounding the crash site, once you log out/in these will refresh and you can continue to do this until your materials are full.
 
 1. Geminize SRV ve Detailed Surface Scanner yükleyin.
 1. HIP 12099 Gezegen 1B (-54.3803, -50.3575) 'ye gidin.
@@ -80,21 +77,21 @@ Jameson'ın çakıldığı alanda yüksek seviye "encoded" materyaller bulabilir
 
 # Diğer Materyaller
 ## Sensor Fragments
-Mühendis Profesör Palin'i açmak için gerekmekte. Thargoid Sensor'leri ya da Thargoid Scavenger'ları patlatarak elde edilebilir. Profesör Palin'in laboratuvarına çok yakın konumdaki aşağıdaki yeni keşfedilmiş yerde Thargoid Sensor'leri bulabilirsiniz.
+Required to unlock the Engineer Professor Palin, sensor fragments can be gathered from Thargoid Scavengers or by destroying Thargoid Sensors. You can find Thargoid Sensor fragments very close to Professor Palins lab at a recently discovered crashed ship at the following location.
 
-**Sistem**: Solati **Gezegen**: Halla **Koordinatlar**: -70.9912 x -156.4383 **İçerik**: 1 Thargoid Sensor, 1 Cargo Rack içinden çıkabilecekler (V, Cr, Zr, Zn, Mn, Sb), Ship Data Core.
+**System**: Solati **Body**: Halla **Coordinates**: -70.9912 x -156.4383 **Stuff**: 1 Thargoid Sensor, 1 Cargo Rack which drops one of the following (V, Cr, Zr, Zn, Mn, Sb), Ship Data Core.
 
-Sensor Fragments bulabileceğiniz, Arque (Palin) sistemine en yakın sistem 28 Ly uzaklıkla burası. Sensorleri patlatarak (SRV ile) fragmanları toplayın. Oturum kapatıp açma ile bölgeyi resetleyebilirsiniz.
+This is the closest system to Arque (Palin) to get Sensor Fragments at less than 28 LYs distance. Destroy the Sensor to gather the fragments. You can relog at this site to spawn another.
 
-FRC'den CMDR FlyBoyXD emeği ile
+Credit to CMDR FlyBoyXD of the FRC.
 
 # Materyal Takası
-Eğer ki ihtiyacınız olan materyalleri doğrudan bulamıyorsanız, aynı türdeki diğer materyalleri takas edebilirsiniz. Farklı takasçılar farklı materyal tiplerini bulundururlar; Data, Raw ve Manufactured olarak 3 tip takasçı vardır.
+If you are not able to obtain the materials you need directly, it is possible to trade other materials of the same type at a material trader for a cost. Different material traders will handle different material types such as Data, Raw and Manufactured.
 
-[Bu aracı](https://inara.cz/galaxy-nearest/25) kullanarak size en yakın takasçıyı (material trader) bulabilirsiniz.
+You can find the nearest trader with [this tool](https://inara.cz/galaxy-nearest/25).
 
-Takas sırasında her zaman değer kaybı yaşarsınız. Özellikle farklı kategoriler arasında.
+When trading you will always lose some value. You will lose even more if you trade across different categories.
 
-**En iyi yöntem, en yüksek seviye materyalleri toplayıp gerektiğinde düşüklerini almak için kullanmaktır. Aynı tip materyaller farklı kategorilere sahip olabilir. İstediğiniz materyalin kategorisinden (aynı satırda listelenir) bir materyal takas etmeye dikkat ederseniz en düşük kaybı yaşarsınız.**
+**Ideally you want to gather materials at the highest grade possible and trade downwards.**
 
 ![convert1.png](/img/convert1.png) ![convert2.png](/img/convert2.png)
