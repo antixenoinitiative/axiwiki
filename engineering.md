@@ -2,7 +2,7 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2022-12-07T15:59:02.377Z
+date: 2023-01-03T02:41:51.668Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -26,7 +26,7 @@ This is a general guide on gathering and collecting materials for engineering yo
 *Guide By CMDRs Secretpro & Airom42*
 
 Raw materials (Grade 4) can be easily obtained en masse at special **Crystalline Shard Biological Sites**. A large cluster of these sites, consisting of purely the highest grade (G4) of Raw materials can be found at two systems approximately 1500-1800Ly from the bubble. We recommend putting together a decent exploration ship (unengineered works) and visiting both systems to completely fill on all G4 materials (except Selenium) which you can trade down for any lower grade materials you may need. This should last you for multiple full ship engineering builds.
-Selenium has no known crystal shard sites. However, Odyssey introduced new sites which can be farmed at nearly the same efficieny. 
+Selenium has no known crystal shard sites. However, Odyssey introduced new sites which can be farmed at nearly the same efficieny. (see below)
 
 - **Yttrium** - Outotz LS-K D8-3, B 5 A
 - **Antimony** - Outotz LS-K D8-3, B 5 C
@@ -34,16 +34,16 @@ Selenium has no known crystal shard sites. However, Odyssey introduced new sites
 - **Polonium** - HIP 36601, C 1 A
 - **Tellurium** - HIP 36601, C 3 B
 - **Technetium** - HIP 36601, C 5 A
-- **Selenium** - Kappa-1 Volantis, B 3 F A
+
 
 
 To use these sites, you will need to go to the celestial body corresponding to the material you require and use your Detailed Surface Scanner (DSS) on it. When this is done, select Crystal Shards and look for dark blue areas. Fly down to the planet and look for shards on the surface. Land, and hop in your SRV. You should be able to find plenty of rare raw materials for all your engineering and synthesis needs.
 
 **Do not forget to bring a Detailed Surface Scanner and SRV**
 ## Selenium and Thargoid Barnacles
-Selenium is (ironically) the most difficult material to farm since it only drops from Grade 2 resource nodes. There are multiple ways to collect it, but none so efficient as the Crystalline Shards are for other materials as mentioned above.
+Selenium is (ironically) the most difficult material to farm since it only drops from Grade 2 resource nodes. There are multiple ways to collect it however, albeit slightly slower. The best way is brain trees, which can be farmed similar to crystal shards. Brain trees for selenium can be found at **Kappa-1 Volantis, B 3 F A**
 
-Thargoid Barnacles can provide a good source of it since breaking the spikes most commonly drops G1-G2 materials, but locating the correct barnacle may be tricky. You can use this spreadsheet compiled by CMDR Panpiper to find the correct sites. Look for Allripe Barnacles with Selenium present on the planet. Additionally relogging will cause the spikes to reappear, which means you can repeatedly farm the same site.
+Thargoid Barnacles can provide a good source of selenoum as well, as breaking the spikes most commonly drops G1-G2 materials, but locating the correct barnacle may be tricky. You can use this spreadsheet compiled by CMDR Panpiper to find the correct sites. Look for Allripe Barnacles with Selenium present on the planet. Additionally relogging will cause the spikes to reappear, which means you can repeatedly farm the same site.
 
 # Manufactured Materials
 ## HGE Looping
