@@ -2,7 +2,7 @@
 title: Non-Human Signal Sources
 description: About Non-Human Signal Sources and Finding Thargoids
 published: true
-date: 2023-01-07T04:25:03.450Z
+date: 2023-01-07T04:26:35.281Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:51:53.374Z
@@ -37,7 +37,7 @@ Depending on the Threat Level of the NHSS you will find different types of Inter
 Threat Levels:
 
 - **[Threat 3]** - 2x Scouts
-- **[Threat 4]** - 4-7x Scouts OR 1-2x Human Ships + 4-7x Scouts (Typically 4 Scouts)
+- **[Threat 4]** - 4-7x Scouts + 0-2x Human Ships
 - **[Threat 5]** - 1x Cyclops OR 4-8x Scouts
 - **[Threat 6]** - 1x Basilisk OR 1x Cyclops + 4x Scouts
 - **[Threat 7]** - 1x Medusa OR 1x Basilisk + 4x Scouts
