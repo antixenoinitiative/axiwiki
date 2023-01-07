@@ -2,7 +2,7 @@
 title: Weapons
 description: Detailed breakdown of Anti-Xeno Weaponry
 published: true
-date: 2023-01-07T03:06:56.419Z
+date: 2023-01-07T03:08:35.252Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
@@ -23,6 +23,7 @@ Some builds will also include Thermal Vent Beam Lasers which allow pilots to eas
 
 ## **Weapon Options**
 The currently best available weapons are the Remote Release Flak Launcher, Guardian Gauss Cannon, Modified Guardian Shard Cannon, and Modified Guardian Plasma Charger.
+For those who do not have guardian tech unlocked, the gimballed enhanced AX Multicannons are the best option, but these are only viable for Cyclops and scouts.
 
 ## Remote Release Flak Launcher
 
