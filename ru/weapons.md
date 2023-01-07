@@ -2,7 +2,7 @@
 title: Оружие
 description: Подробная информация о AX-оружии
 published: Опубликовано
-date: 2022-12-10T18:01:32.676Z
+date: 2023-01-07T03:08:35.252Z
 tags: снаряжение, модули
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
@@ -21,7 +21,7 @@ Guardian weapons are the most effective AX weapons in the game (specifically the
 Some builds will also include Thermal Vent Beam Lasers which allow pilots to easily reduce ship heat and avoid significant amounts of Thargoid fire. For more information, see Cold Orbiting and [Lasers](/en/lasers).
 
 ## **Weapon Options**
-The currently best available weapons are the Remote Release Flak Launcher, Guardian Gauss Cannon, Modified Guardian Shard Cannon, and Modified Guardian Plasma Charger.
+The currently best available weapons are the Remote Release Flak Launcher, Guardian Gauss Cannon, Modified Guardian Shard Cannon, and Modified Guardian Plasma Charger. For those who do not have guardian tech unlocked, the gimballed enhanced AX Multicannons are the best option, but these are only viable for Cyclops and scouts.
 
 ## Remote Release Flak Launcher
 
@@ -73,17 +73,23 @@ These plasma chargers come in medium and small variants. They have greatly impro
 
 AXMCs come in two types - Turreted and Fixed, and in two sizes - Medium and Large. The Large Turreted ones are the most effective Scout hunting weapon in the game, but the Large Fixed ones are only passable against the weakest Interceptor variant, the Cyclops, and the others are very ineffective.
 
-**Recommendation:** Great for Scouts, Awful for Interceptors
+**Recommendation:** Outclassed by Enhanced AXMCs
 
 ## Enhanced AX Multi-Cannon
 
-These improved AXMCs currently only come in turreted form. They come with a marginal increase to damage, as well as a large  increase in shot speed. Overall, they are only a marginal upgrade from regular AXMCs.
+These improved AXMCs currently only come in fixed, gimballed, and turreted forms. They come with a marginal increase to damage, as well as a large  increase in shot speed. Overall, they are only a small upgrade from regular AXMCs, but still better in all regards. The gimballed variants are the best, dealing nearly as much damage as fixed and coming with a great tracking arc. With a xeno scan, these can even be effective at killing cyclops.
 
-**Recommendation:** Only good for scouts
+**Recommendation:** Great for scouts, viable for cyclops
 
 ## AX Missile Rack
 
 Okay, but very difficult to aim as they are slow moving and dumbfire only. Minimal ammo.
+
+**Recommendation:** Do Not Use (Poor damage)
+
+## Enhanced AX Missile Rack
+
+Coming with only a marginal increase in damage and shot speed over standard AXMRs, these still deal no damage to hearts.
 
 **Recommendation:** Do Not Use (Poor damage)
 
