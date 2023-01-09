@@ -2,7 +2,7 @@
 title: Расширенное боевое руководство
 description: Основано на доктрине CMDR Avasa Siuu
 published: true
-date: 2022-07-31T16:36:04.697Z
+date: 2023-01-09T01:54:40.607Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -19,10 +19,6 @@ dateCreated: 2021-06-17T03:49:32.855Z
 
 # Сборка корабля
 
-> This loadout is outdated. See [the recommended builds page](/en/builds) for, well, recommended builds. 
-> 
-> {.is-warning}
-
 Эта доктрина сосредоточена вокруг Chieaftain'а как главного корабля. Challenger может быть использован точно так же с незначительным изменениями. (Инструкция по сборке Challenger в разработке) Такие корабли, как Krait MK. II, Krait Phantom или FAS также могут быть использованы, но из-за дешевой входной стоимости Chieftain'а, его орудийных позиций и маневренности, он является основным направлением этой доктрины.
 
 ## Основные системы
@@ -37,12 +33,12 @@ dateCreated: 2021-06-17T03:49:32.855Z
 
 ## Дополнительные системы
 - 5D Контроллер дрона ремонтника
-- 5D набор для усиления корпуса (надежный/утолщенная броня)
-- 4D Набор для усиления корпуса х3 (Надежный/Утолщенная броня)
-- 4D Набор для усиления модулей
-- 2D Набор для усиления модулей Стражей
-- 2Е грузовой отсек
-- 1А Блок автоматического полевого ремонта
+- 5D Guardian Module Reinforcement Package
+- 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate) **Military Slots Only**
+- 4E Cargo Rack
+- 2A Automatic Field-Maintenance Unit
+- 2D Guardian Module Reinforcement Package
+- 1D Guardian Moudle Reinforcement Package
 
 ## Орудия
 - 2B Орудие Гаусса стражей х2 (Установлены в 2 больших слота)
@@ -93,7 +89,7 @@ dateCreated: 2021-06-17T03:49:32.855Z
 - Heat sinks may be needed if your heat is above 15% after a heart is destroyed. Sleep mode further explained in section VIII.
 
 # Initial/First Heart Engagement and Subsequent Heart Combat Cycle
-- Upon engaging a Thargoid Interceptor of any variant in a non-human signal source (NHSS) the initial engagement should occur after the Interceptor has finished his scan of you. The purpose of allowing the Interceptor to finish his scan of you will allow you to get a scan of the Interceptor if you have a xeno scanner fitted.
+- Upon engaging a Thargoid Interceptor of any variant in a non-human signal source (NHSS) the initial engagement should occur after the Interceptor has finished his scan of you. The purpose of allowing the Interceptor to finish his scan is to allow you to get a scan of the Interceptor if you have a xeno scanner fitted.
 -
 - Disengage your flight assist and engage with your beam laser. [Pips at: 0-4-2]
 -
