@@ -2,7 +2,7 @@
 title: Guida al Combattimento Avanzato
 description: Basato sulla metodo Odysseus di CMDR Avasa Siuu
 published: true
-date: 2022-07-31T16:36:04.697Z
+date: 2023-01-09T01:54:40.607Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -19,10 +19,6 @@ Questo metodo, inoltre, permette di concentrarsi sul pip management, visto che l
 
 # Come equipaggiare la nave
 
-> This loadout is outdated. See [the recommended builds page](/en/builds) for, well, recommended builds. 
-> 
-> {.is-warning}
-
 Questo metodo usa la Chieftain come nave di riferimento. Si puo' usare anche la Challenger come sostituta, con leggere modifiche. (guida per come costruire una Challenger WIP) Navi come la Krait mk2, Krait phantom o FAS possono anche essere usate, ma per via del costo iniziale basso, la manovrabilita' e l'armamento della Chieftain, quest'ultima sara' quella su cui ci baseremo per questo metodo.
 
 ## Core Internals
@@ -37,12 +33,12 @@ Questo metodo usa la Chieftain come nave di riferimento. Si puo' usare anche la 
 
 ## Optional Internals
 - 5D Repair Limpet Controller
-- 5D Hull Reinforcement Package (Heavy Duty/Deep Plate)
-- 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate)
-- 4D Module Reinforcement Package
+- 5D Guardian Module Reinforcement Package
+- 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate) **Military Slots Only**
+- 4E Cargo Rack
+- 2A Automatic Field-Maintenance Unit
 - 2D Guardian Module Reinforcement Package
-- 2E Cargo rack
-- 1A Auto Field-Management Unit
+- 1D Guardian Moudle Reinforcement Package
 
 ## Hardpoints
 - 2B Guardian Gauss Cannons x2 (montato nei 2 Large Slots)
@@ -93,7 +89,7 @@ VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lv
 - Potreste avere bisogno di usare un ulteriore heatsink nel caso in cui la vostra temperatura fosse superiore al 15% in seguito alla distruzione di un cuore. La "Sleep Mode" e' spiegata piu' in dettaglio nella sezione VIII.
 
 # Approccio iniziale/primo cuore e ciclo successivo di combattimento
-- Una volta effettuato il drop nella NHSS, l'interceptor effettuera' una scansione della vostra nave. Potete sfruttare questo tempo per effettuare una scansione a vostra volta, nel caso aveste uno Xeno Scanner.
+- Una volta effettuato il drop nella NHSS, l'interceptor effettuera' una scansione della vostra nave. The purpose of allowing the Interceptor to finish his scan is to allow you to get a scan of the Interceptor if you have a xeno scanner fitted.
 -
 - Disabilita il Flight Assist, e usa il tuo laser per attaccare l'interceptor. [Pips a: 0-4-2]
 -
