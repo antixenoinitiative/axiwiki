@@ -2,7 +2,7 @@
 title: Guide de Combat Avancé
 description: Basé sur la doctrine Odysseus par CMDR Avasa Siuu
 published: true
-date: 2022-07-31T16:36:04.697Z
+date: 2023-01-09T01:54:40.607Z
 tags: équipement, combat, thargoids, intercepteurs
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -19,10 +19,6 @@ Cette doctrine permet également de se concentrer le moins possible sur la gesti
 
 # Configuration du vaisseau
 
-> This loadout is outdated. See [the recommended builds page](/en/builds) for, well, recommended builds. 
-> 
-> {.is-warning}
-
 Cette doctrine se concentre principalement sur le Chieftain. Le Challenger peut également être utilisé avec des modifications mineures de ses points d'emport. (Guide de configuration du Challenger en construction) Des vaisseaux tels que le Krait MKII, le Krait Phantom ou le FAS peuvent également être utilisés mais en raison du coût bon marché du Chieftain, de sa disposition de points d'emport et de sa manœuvrabilité, ce sera la priorité principale de cette doctrine.
 
 ## Modules internes primordiaux
@@ -37,12 +33,12 @@ Cette doctrine se concentre principalement sur le Chieftain. Le Challenger peut 
 
 ## Modules internes optionnels
 - 5D Contrôleur de drones réparateurs
-- 5D Renforts de coque (Lourd/épais)
-- 4D Renforts de coque x3 (Lourd/épais)
-- 4D Renforts de modules
-- 2D Renforts de module guardien
-- 2E Compartiments de soute
-- 1A Unité de maintenance
+- 5D Guardian Module Reinforcement Package
+- 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate) **Military Slots Only**
+- 4E Cargo Rack
+- 2A Automatic Field-Maintenance Unit
+- 2D Guardian Module Reinforcement Package
+- 1D Guardian Moudle Reinforcement Package
 
 ## Points d'emport
 - 2B Canon de gauss gardien x2 (placés sur les deux emplacements larges)
@@ -93,7 +89,7 @@ Vidéo: [Débloquer les ingénieurs par CMDR Exigeous](https://www.youtube.com/w
 - Heat sinks may be needed if your heat is above 15% after a heart is destroyed. Sleep mode further explained in section VIII.
 
 # Initial/First Heart Engagement and Subsequent Heart Combat Cycle
-- Upon engaging a Thargoid Interceptor of any variant in a non-human signal source (NHSS) the initial engagement should occur after the Interceptor has finished his scan of you. The purpose of allowing the Interceptor to finish his scan of you will allow you to get a scan of the Interceptor if you have a xeno scanner fitted.
+- Upon engaging a Thargoid Interceptor of any variant in a non-human signal source (NHSS) the initial engagement should occur after the Interceptor has finished his scan of you. The purpose of allowing the Interceptor to finish his scan is to allow you to get a scan of the Interceptor if you have a xeno scanner fitted.
 -
 - Disengage your flight assist and engage with your beam laser. [Pips at: 0-4-2]
 -
