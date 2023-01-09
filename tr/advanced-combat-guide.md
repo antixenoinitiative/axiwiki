@@ -2,7 +2,7 @@
 title: İleri Düzey Savaş Rehberi
 description: CMDR Avasa Siuu tarafından hazırlanan Odysseus Öğretisi'ne dayanmaktadır.
 published: true
-date: 2022-07-31T16:36:04.697Z
+date: 2023-01-09T01:54:40.607Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -19,10 +19,6 @@ Ayrıca bu öğreti "pip" yönetimine minimum gereksinim sağlar. Kalkansız bir
 
 # Gemi Donanımı
 
-> This loadout is outdated. See [the recommended builds page](/en/builds) for, well, recommended builds. 
-> 
-> {.is-warning}
-
 Bu öğretinin merkezinde Chieftain vardır. Challenger da hardpoint'lerdeki ufak değişiklerle kullanılabilir. (Challenger donanım rehberi şu an yapım aşamasında) Krait MKII, Krait Phantom ya da FAS gibi gemiler de kullanılabilir ancak Chieftain, hardpoint düzeni ve manevra kabiliyeti ve ucuz fiyatı sebebiyle bu öğretinin ana odağındadır.
 
 ## Core Internals
@@ -37,12 +33,12 @@ Bu öğretinin merkezinde Chieftain vardır. Challenger da hardpoint'lerdeki ufa
 
 ## Optional Internals
 - 5D Repair Limpet Controller
-- 5D Hull Reinforcement Package (Heavy Duty/Deep Plate)
-- 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate)
-- 4D Module Reinforcement Package
+- 5D Guardian Module Reinforcement Package
+- 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate) **Military Slots Only**
+- 4E Cargo Rack
+- 2A Automatic Field-Maintenance Unit
 - 2D Guardian Module Reinforcement Package
-- 2E Cargo rack
-- 1A Auto Field-Management Unit
+- 1D Guardian Moudle Reinforcement Package
 
 ## Hardpoints
 - 2B Guardian Gauss Cannons x2 (2 Large Slota)
@@ -93,7 +89,7 @@ Video: CMDR Exigeous tarafından hazırlanan [Unlocking Engineers (Mühendisleri
 - Eğer bir Kalbi parçaladıktan sonraki sıcaklığınız 15%'in üzerindeyse heatsink kullanımı gerebilir. Uyku Evresi, Bölüm VIII'de daha detaylı açıklanmıştır.
 
 # Savaş Başlangıcı/İlk Kalp Saldırısı ve Akabindeki Kalp Çatışma Döngüsü
-- Bir "Non-Human Signal Source" (NHSS) içindeki bir Thargoid Interceptor'üyle karşılaştıktan sonraki savaş başlangıcı, Interceptor sizi taramayı bitirdikten sonra olmalıdır. Bunun amacı, eğer Xeno Scanner'ınız varsa sizin de aynı sürede Interceptor'ü taramanıza olanak sağlamaktır.
+- Bir "Non-Human Signal Source" (NHSS) içindeki bir Thargoid Interceptor'üyle karşılaştıktan sonraki savaş başlangıcı, Interceptor sizi taramayı bitirdikten sonra olmalıdır. The purpose of allowing the Interceptor to finish his scan is to allow you to get a scan of the Interceptor if you have a xeno scanner fitted.
 -
 - Flight Assist'i kapatın ve Beam Laser ile saldırıyı başlatın. [Pip: 0-4-2]
 -
