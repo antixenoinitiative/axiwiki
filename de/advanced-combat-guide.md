@@ -2,7 +2,7 @@
 title: Fortgeschrittener Gefechtsleitfaden
 description: Basierend auf dem Odysseus-Leitfaden von CMDR Avasa Siuu
 published: true
-date: 2022-07-31T16:36:04.697Z
+date: 2023-01-09T01:54:40.607Z
 tags: Ausrüstung, Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -19,10 +19,6 @@ Dieser Leitfaden erlaubt auch, das Pip-Management zu vernachlässigen, da man oh
 
 # Schiffs Ausstattung
 
-> This loadout is outdated. See [the recommended builds page](/en/builds) for, well, recommended builds. 
-> 
-> {.is-warning}
-
 Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der Challenger kann, mit geringfügigen Änderungen an seiner Bewaffnung, auch verwendet werden. (Challenger Ausstattung unfertig) Schiffe wie der Krait MKII, Krait Phantom oder FAS können auch verwendet werden, aber wegen der geringen Startkosten des Chieftains, seiner Bewaffnungs-Auslegung und Manövrierbarkeit, ist er der Hauptfokus für diesen Leitfaden.
 
 ## Intern (Basis)
@@ -37,12 +33,12 @@ Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der C
 
 ## Intern (optional)
 - 5D Steuerung Reparaturdrohne
-- 5D Rumpfhüllenverstärkung (Heavy Duty/Deep Plate)
-- 4D Rumpfhüllenverstärkung x3 (Heavy Duty/Deep Plate)
-- 4D Modulverstärkung
-- 2D Guardian Modulverstärkung
-- 2E Laderaum
-- 1A Automatische Feldwartungs Einheit
+- 5D Guardian Module Reinforcement Package
+- 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate) **Military Slots Only**
+- 4E Cargo Rack
+- 2A Automatic Field-Maintenance Unit
+- 2D Guardian Module Reinforcement Package
+- 1D Guardian Moudle Reinforcement Package
 
 ## Aufhängungen
 - 2B Guardian Gausskanone x2 (In den zwei Großen Slots)
@@ -93,7 +89,7 @@ VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www
 - Kühlkörper können notwendig werden, wenn nach Zerstörung eines Herzens der eigene Wärmeausstoß noch bei über 15% ist. Der Interceptor Schlafmodus wird in Abschnitt VII näher erläutert.
 
 # Beginn und anschließender Herz-Kampf Zyklus
-- Beim Treffen auf egal welche Thargoid Interceptor Variante, in einer Nichtmenschlichen Signalquelle (NHSS), sollte der Kampf erst begonnen werden nachdem der Interceptor seinen Scan abgeschlossen hat. Der Zweck davon, den Intercptor seinen Scan beenden zu lassen, ist es den Interceptor selbst scannen zu können, falls man einen Xeno-Scanner ausgerüstet hat.
+- Beim Treffen auf egal welche Thargoid Interceptor Variante, in einer Nichtmenschlichen Signalquelle (NHSS), sollte der Kampf erst begonnen werden nachdem der Interceptor seinen Scan abgeschlossen hat. The purpose of allowing the Interceptor to finish his scan is to allow you to get a scan of the Interceptor if you have a xeno scanner fitted.
 -
 - Deaktiviere den Flugassistenten und greif mit dem Strahlenlaser an. [Pips auf: 0-4-2]
 -
