@@ -2,7 +2,7 @@
 title: Guía de Combate Avanzada
 description: Basado en la Doctrina Odysseus de CMDR Avasa Siuu
 published: verdadero
-date: 2022-07-31T16:36:04.697Z
+date: 2023-01-09T01:54:40.607Z
 tags: equipamiento, combate, Thargoide, interceptores
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -19,10 +19,6 @@ Esta doctrina permite también un enfoque mínimo en la gestión de los pips del
 
 # Equipamiento de la nave
 
-> This loadout is outdated. See [the recommended builds page](/en/builds) for, well, recommended builds. 
-> 
-> {.is-warning}
-
 Esta doctrina se centra principalmente en la Chieftain como su nave principal. El Challenger también se puede utilizar como un sustituto con cambios menores en sus Anclajes. (Guía de construcción de Challenger en construcción) También se pueden usar barcos como el Krait MKII, Krait Phantom o FAS, pero debido al costo barato de entrada del Chieftain, su convergencia de armas (Anclajes) y maniobrabilidad, es el enfoque principal de esta doctrina.
 
 ## Internos Principales
@@ -37,12 +33,12 @@ Esta doctrina se centra principalmente en la Chieftain como su nave principal. E
 
 ## Internos Opcionales
 - 5D Controlador de Drones de Reparacion
-- 5D Paquete de refuerzo Estructural (Alta Resistencia/Enchapado Profundo)
-- 4D Paquete de refuerzo Estructural x3 (Alta Resistencia/Enchapado Profundo)
-- 4D Paquete de refuerzo de módulos
-- 2D Paquete de refuerzo de módulos Guardián
-- 2E Compartimento de Carga
-- 1A Unidad de Auto-Reparacion
+- 5D Guardian Module Reinforcement Package
+- 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate) **Military Slots Only**
+- 4E Cargo Rack
+- 2A Automatic Field-Maintenance Unit
+- 2D Guardian Module Reinforcement Package
+- 1D Guardian Moudle Reinforcement Package
 
 ## Anclajes
 - 2B Cañones de Gauss Guardián x2 (Equipados en los 2 Espacios Grandes)
@@ -93,7 +89,7 @@ VIDEO: [Desbloqueo de Ingenieros por CMDR Exigous,](https://www.youtube.com/watc
 - Si el calor está por encima del 15% después de la destrucción del corazón, es posible que se necesiten eyectores de calor. Modo de suspensión explicado más adelante en la sección VIII.
 
 # Aproximación inicial / primer corazón y ciclo de combate posterior
-- Al enfrentar un Interceptor Thargoid de cualquier variante en una fuente de señal no humana (NHSS), el enfrentamiento inicial debería ocurrir después de que el Interceptor haya terminado su escaneo de usted. El propósito de permitir que el Interceptor termine su escaneo de usted le permitirá obtener un escaneo del Interceptor si tiene un escáner xeno equipado.
+- Al enfrentar un Interceptor Thargoid de cualquier variante en una fuente de señal no humana (NHSS), el enfrentamiento inicial debería ocurrir después de que el Interceptor haya terminado su escaneo de usted. The purpose of allowing the Interceptor to finish his scan is to allow you to get a scan of the Interceptor if you have a xeno scanner fitted.
 -
 - Desactive su asistente de vuelo y dispare con su rayo láser. [Pips en: 0-4-2]
 -
