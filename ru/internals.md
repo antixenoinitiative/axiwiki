@@ -2,7 +2,7 @@
 title: Дополнительное оборудование
 description: Краткое введение по использованию различных модулей в AX.
 published: опубликовано
-date: 2021-06-10T05:35:13.831Z
+date: 2023-01-10T15:46:05.206Z
 tags: снаряжение, модули
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -96,9 +96,11 @@ GSRP лучше всего работают с двухпоточными щит
 
 #### Как это работает
 
-SFN должен быть назначен в огневых группах. При активации он быстро разряжает конденсатор СИС. SFN будет оставаться активным, пока клавиша удерживается зажатой, и предотвратит эффект ЭМИ только в том случае, если волна ударит по вашему кораблю, когда SFN будет активен.
+The SFN can be bound to a firegroup or to a hotkey, same as heatsinks. При активации он быстро разряжает конденсатор СИС. SFN будет оставаться активным, пока клавиша удерживается зажатой, и предотвратит эффект ЭМИ только в том случае, если волна ударит по вашему кораблю, когда SFN будет активен.
 
 SFN также не позволит отключающему полю отключить кого-либо еще в радиусе 3 км от использующего его корабля.
 
+Generally, when you hear a shutdown pulse warning, dump pips to SYS, count to three, and then activate the neutralizer. Keep it activated until the wave fully dissapears.
+
 ## Теплоотводная катапульта
-Если в вашей AX-сборке их нет, значит что-то не так. Теплоотводы — единственный эффективный способ отвода тепла, создаваемого пушками Гаусса Стражей. Они могут быть привязаны к огневой группе или выделенной горячей клавише. Они требуют для использования небольшого объёма конденсаторов «СИС» и обеспечивают 2 МВт восстановления на конденсаторах «ОРУ» в течение их 10-секундной продолжительности, в дополнение к обеспечению быстрого охлаждения. Теплоотводы позволяют применять тактику «холодной орбиты», из-за чего таргоид промахивается большинством или всеми своими выстрелами. Для получения дополнительной информации смотрите раздел «Холодная орбита».
+If your AX build doesn't have these, something is very wrong. Heatsinks are the only viable way of venting the extreme heat created by Guardian weaponry. They can either be bound to a firegroup or a dedicated hotkey. They require a small amount of SYS capacitor to use and provide 2 MW of WEP capacitor regeneration for their 10-second duration, in addition to providing rapid cooling. Heatsinks allow cold orbiting, which causes the Thargoid to miss most or all of its shots. For more information, see Cold Orbiting.
