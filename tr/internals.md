@@ -2,7 +2,7 @@
 title: Optional Internals
 description: AX'da kullanılan modüllere kısa bir giriş
 published: true
-date: 2021-06-10T05:35:13.831Z
+date: 2023-01-10T15:46:05.206Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -96,9 +96,11 @@ Shutdown Field Neutralizer (SFN) modülü, Interceptorlerin "Shutdown Field" (EM
 
 #### Nasıl çalışır
 
-Bir atış grubuna atanmalıdır. Etkinleştirildiğinde, SYS kapasitörünü hızla tüketecektir. SFN yalnız tetiğiniz basılı olduğu sürece etkin kalarak sizi EMP dalgasından korur. Dalga size isabet ettiğinde tetiğiniz basılı ve SFN aktif durumda olmalıdır.
+The SFN can be bound to a firegroup or to a hotkey, same as heatsinks. Etkinleştirildiğinde, SYS kapasitörünü hızla tüketecektir. SFN yalnız tetiğiniz basılı olduğu sürece etkin kalarak sizi EMP dalgasından korur. Dalga size isabet ettiğinde tetiğiniz basılı ve SFN aktif durumda olmalıdır.
 
 SFN ayrıca 3 km yarıçapında menzile sahip olup bu hacim içerisindeki tüm gemileri korur.
 
+Generally, when you hear a shutdown pulse warning, dump pips to SYS, count to three, and then activate the neutralizer. Keep it activated until the wave fully dissapears.
+
 ## Heatsink Launcher
-AX donanımınızda bu modül yoksa çok yanlış yapıyorsunuz. Heatsinkler, Gauss'ların ortaya çıkardığı yüksek sıcaklıktan kurtulmanın tek etkin yoludur. Atış grubuna atayabilir ya da kısayol tuşuyla kullanabilirsiniz. Düşük miktarda SYS kapasitörü çekerken 10 saniyede hızlı soğuma sağlayıp WEP kapasitörüne 2 MW güç sağlarlar. Heatsinkler cold orbiting'e imkan sağlayarak, Thargoidlerin çoğu atışlarını ıskalamalarına sebep olur. Daha fazla bilgi için Cold Orbiting sayfasına göz atın.
+If your AX build doesn't have these, something is very wrong. Heatsinks are the only viable way of venting the extreme heat created by Guardian weaponry. They can either be bound to a firegroup or a dedicated hotkey. They require a small amount of SYS capacitor to use and provide 2 MW of WEP capacitor regeneration for their 10-second duration, in addition to providing rapid cooling. Heatsinks allow cold orbiting, which causes the Thargoid to miss most or all of its shots. For more information, see Cold Orbiting.
