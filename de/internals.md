@@ -2,7 +2,7 @@
 title: Optionale Einbauteile
 description: Eine kurze Einführung in die Verwendung der verschiedenen Module in AX.
 published: ja
-date: 2021-06-10T05:35:13.831Z
+date: 2023-01-10T15:46:05.206Z
 tags: Ausrüstung, Module
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -96,9 +96,11 @@ Ein Abschaltfeld-Neutarlisator (SFN) erlaubt es dir die Mechanik des Abschaltfel
 
 #### Wie es funktioniert
 
-Der SFN muss einer Feuergruppe zugeordnet sein. Bei Aktivierung wird es den SYS-Kondensator schnell leeren. Der SFN wird nur aktiv sein, solange der Kopf gedrückt bleibt und wird den EMP nur verhindern, wenn die Welle dich trifft, während der SFN aktiv ist.
+The SFN can be bound to a firegroup or to a hotkey, same as heatsinks. Bei Aktivierung wird es den SYS-Kondensator schnell leeren. Der SFN wird nur aktiv sein, solange der Kopf gedrückt bleibt und wird den EMP nur verhindern, wenn die Welle dich trifft, während der SFN aktiv ist.
 
 Der SFN verhindert auch, dass jemand in einem 3km Umkreis deines Schiffs heruntergefahren wird.
 
+Generally, when you hear a shutdown pulse warning, dump pips to SYS, count to three, and then activate the neutralizer. Keep it activated until the wave fully dissapears.
+
 ## Kühlkörperwerfer
-Wenn diese in deinem AX-Build fehlen, ist etwas grundlegend falsch. Kühlkörper sind der einzig gängige Weg, wie man die extreme Hitze der Guardian Gauss Kanonnen aus dem Schiff kriegt. Sie können entweder in eine Feuergruppe oder auf einen seperaten Knopf gelegt werden. Sie brauchen eine kleine Menge Energie aus dem SYS-Kondensator und bringen 2MW für den WAF-Kondensator solange sie halten, zusätzlich zu einer starken Kühlung. Kühlkörper ermöglichen das kalte Orbiten, was den Thargoid dazu bringt fast alle seine Schüsse zu verfehlen. Für mehr mehr Informationen, besuche Kaltes Orbiten.
+If your AX build doesn't have these, something is very wrong. Heatsinks are the only viable way of venting the extreme heat created by Guardian weaponry. They can either be bound to a firegroup or a dedicated hotkey. They require a small amount of SYS capacitor to use and provide 2 MW of WEP capacitor regeneration for their 10-second duration, in addition to providing rapid cooling. Heatsinks allow cold orbiting, which causes the Thargoid to miss most or all of its shots. For more information, see Cold Orbiting.
