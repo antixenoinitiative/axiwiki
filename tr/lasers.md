@@ -2,7 +2,7 @@
 title: Lazerler
 description: AX savaşlarında lazer kullanmak
 published: true
-date: 2021-06-10T06:08:40.833Z
+date: 2023-01-10T23:48:06.769Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:07:02.325Z
@@ -14,6 +14,10 @@ dateCreated: 2021-06-10T04:07:02.325Z
 Normal insan silahları Anti-Xeno savaşlarında çoğunlukla işlevsizdir. Ancak birkaç istisna vardır ki bazı özel taktikleri uygulamanızı sağlar ve işlevsellik kazandırarak savaş alanındaki etkinizi artırır.
 
 ## Thermal Vent Beam Lasers
+
+> You might ask yourself – *“Isn’t it possible to use a beam instead of heatsinks to keep my ship cool during the attack run?”* The short answer is “no”. The long answer is that not only does it not cool you enough while shooting weapons, but also increases your weapon distributor draw, increasing the gauss heat generation even more. 
+> 
+> {.is-warning}
 
 En yaygın kullanılanı Thermal Vent Long Range Beam Laser'leridir.
 
