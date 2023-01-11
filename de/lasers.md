@@ -2,7 +2,7 @@
 title: Laser
 description: Verwendung von Laser im AX-Kampf.
 published: ja
-date: 2021-06-10T06:08:40.833Z
+date: 2023-01-10T23:48:06.769Z
 tags: Ausrüsten, Module
 editor: markdown
 dateCreated: 2021-06-10T04:07:02.325Z
@@ -14,6 +14,10 @@ dateCreated: 2021-06-10T04:07:02.325Z
 Insgesamt sind menschliche Waffen im Anti-Xeno-Kampf weitgehend nutzlos. Es gibt jedoch ein paar Ausnahmen, die zusätzlichen Nutzen bringen und bestimmte Spezialtaktiken ermöglichen, mit denen die Kampffähigkeiten erheblich verbessert werden können.
 
 ## Thermische Entlastungslaser
+
+> You might ask yourself – *“Isn’t it possible to use a beam instead of heatsinks to keep my ship cool during the attack run?”* The short answer is “no”. The long answer is that not only does it not cool you enough while shooting weapons, but also increases your weapon distributor draw, increasing the gauss heat generation even more. 
+> 
+> {.is-warning}
 
 Die beliebteste Variante ist der Thermische Entlastungs-Langstrecken-Strahl-Laser.
 
