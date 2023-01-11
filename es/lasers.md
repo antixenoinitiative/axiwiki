@@ -2,7 +2,7 @@
 title: Láseres
 description: Usando Láseres en combate AX.
 published: verdadero
-date: 2021-06-10T06:08:40.833Z
+date: 2023-01-10T23:48:06.769Z
 tags: equipamiento, módulos
 editor: markdown
 dateCreated: 2021-06-10T04:07:02.325Z
@@ -14,6 +14,10 @@ dateCreated: 2021-06-10T04:07:02.325Z
 En general, las armas humanas son inmensamente inútiles en el combate Anti-Xeno. Sin embargo, hay algunas excepciones que dan una utilidad añadida y permiten ciertas tácticas especiales que pueden mejorar en gran medida tu destreza en combate.
 
 ## Láser de Rayo con Ventilación Térmica
+
+> You might ask yourself – *“Isn’t it possible to use a beam instead of heatsinks to keep my ship cool during the attack run?”* The short answer is “no”. The long answer is that not only does it not cool you enough while shooting weapons, but also increases your weapon distributor draw, increasing the gauss heat generation even more. 
+> 
+> {.is-warning}
 
 La variante mas popular es el Láser de Rayo con Ventilación Térmica.
 
