@@ -2,7 +2,7 @@
 title: Lasers
 description: Using laser in AX combat.
 published: true
-date: 2021-06-10T06:08:40.833Z
+date: 2023-01-10T23:48:06.769Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:07:02.325Z
@@ -14,6 +14,10 @@ dateCreated: 2021-06-10T04:07:02.325Z
 Overall human weapons are largely useless in Anti-Xeno combat. There are however a few exceptions which give added utility and allow for certain special tactics that can greatly improve your combat prowess.
 
 ## Thermal Vent Beam Lasers
+
+> You might ask yourself – *“Isn’t it possible to use a beam instead of heatsinks to keep my ship cool during the attack run?”* The short answer is “no”. The long answer is that not only does it not cool you enough while shooting weapons, but also increases your weapon distributor draw, increasing the gauss heat generation even more. 
+> 
+> {.is-warning}
 
 The most popular variant is the Thermal Vent Long Range Beam Laser.
 
