@@ -2,7 +2,7 @@
 title: '“Builds” raccomandate'
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2023-01-02T18:39:52.483Z
+date: 2023-01-14T00:29:04.825Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -75,7 +75,7 @@ Recommendation: For people that like headroom on the distributor and don’t lik
 
 [Coriolis Shieldless Build](https://s.orbis.zone/jv-6)
 
-[EDSY Shieldless Build](https://edsy.org/s/vP4rhlF)
+[EDSY Shieldless Build](https://edsy.org/s/va6wX10)
 
 AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
