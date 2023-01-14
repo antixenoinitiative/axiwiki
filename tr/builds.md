@@ -2,7 +2,7 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2023-01-14T00:29:04.825Z
+date: 2023-01-14T00:33:42.279Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -46,7 +46,6 @@ Type: **Cold**
 
 - Sürat: ⭐⭐⭐⭐⭐
 - Agility: ⭐⭐⭐⭐⭐
-- Shield:
 - Armour: ⭐⭐⭐⭐
 - Firepower: ⭐⭐⭐
 
@@ -61,21 +60,20 @@ AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https:/
 
 #### **Krait Mk.II (Shieldless)**
 
-The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output for beginners. The Krait's massive power plant also allows it to idle under 20% heat, which allows for cold approaches without a heatsink or thermal vent beam.
+The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively.
 
 Type: **Cold Orbiter**
 
 - Sürat: ⭐⭐⭐⭐⭐
 - Agility: ⭐⭐⭐
-- Shield:
 - Armour: ⭐⭐⭐⭐
 - Firepower: ⭐⭐⭐⭐⭐
 
-Recommendation: For people that like headroom on the distributor and don’t like yawing.
+Recommendation: Great for modified shard cannons and plasma chargers.
 
 [Coriolis Shieldless Build](https://s.orbis.zone/jv-6)
 
-[EDSY Shieldless Build](https://edsy.org/s/va6wX10)
+[EDSY Shieldless Build](https://edsy.org/s/vibIYZZ)
 
 AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
@@ -89,9 +87,9 @@ Type: **Shield Tank**
 
 - Sürat: ⭐⭐⭐⭐
 - Çeviklik: ⭐⭐
-- Kalkan: ⭐⭐⭐⭐⭐
-- Zırh: ⭐⭐⭐⭐
-- Ateş gücü: ⭐⭐⭐⭐
+- Armour: ⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐
+- Shield: ⭐⭐⭐⭐⭐
 
 Recommendation: Different fighting style and generally very capable with weaker Interceptors. Becomes much harder for tougher variants.
 
@@ -119,7 +117,7 @@ Type: **Cold Orbiter**
 - Zırh: ⭐⭐⭐⭐
 - Firepower: ⭐⭐⭐⭐
 
-Recommendation: A great ship for those who find the Chieftain too responsive.
+Recommendation: A great ship for those who find the Chieftain too responsive, or want to use shards or chargers.
 
 [Coriolis Shieldless Build](https://s.orbis.zone/fnnx)
 
