@@ -2,7 +2,7 @@
 title: Рекомендованные сборки
 description: Рекомендованные сборки AX-кораблей
 published: Опубликовано
-date: 2023-01-14T00:33:42.279Z
+date: 2023-01-23T18:45:03.672Z
 tags: сборки
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -159,7 +159,7 @@ Recommendation: An outstanding large ship for those looking for such a thing. Re
 
 [Coriolis Build](https://s.orbis.zone/hvm_)
 
-[EDSY Build](https://edsy.org/s/vrSQgX4)
+[EDSY Build](https://edsy.org/s/vVB46ov)
 
 
 ## Продвинутые сборки
