@@ -2,42 +2,48 @@
 title: Waffen
 description: Detailed breakdown of Anti-Xeno Weaponry
 published: true
-date: 2023-01-07T03:08:35.252Z
+date: 2023-01-28T15:40:02.968Z
 tags: Ausrüsten, Module
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
 ---
 
 # AX Waffen
-Es gibt eine Vielzahl verschiedener Anti-Xeno-Waffen im Spiel, und sie sind in zwei Hauptvarianten erhältlich:
+There are a multitude of different Anti-Xeno weapons in the game, and they come in two main variants, with two subclasses:
 
-- **Menschliche AX Waffen** (AX Merfachgeschütz, AX Raketenrampe, Fortgeschrittene Mehrfachgeschütz, Fortgeschrittene Raketenrampe, Flakwerfer mit Fernzündung)
+- **Human AX Weapons** (AX Multi-Cannon, AX Missile Rack, Advanced Multi-Cannon, Advanced Missile Rack, Remote Release Flak Launcher)
+    - **Enhanced Variant** (Enhanced AX Multi-Cannon and AX Missile Rack)
 - **Guardian Weapons** (Guardian Gauss Cannon, Guardian Plasma Charger, Guardian Shard Cannon)
+    - **Modified Variant** (Pre-engineered variants of all three)
 
-With the events of Salvation and the Thargoid Maelstroms, modified (pre-engineered) variants of all AX weapons have either been produced or are in development. As a whole, these are more viable and offer a wider meta for AX weapons. However, they must be purchased per-module, making them far more expensive than traditional guardian weaponry. For unlock costs on these new weapons, see [Inara's Tech Broker Page](https://inara.cz/elite/techbroker#tab_techbrokerslot3)
+With the events of Salvation and the Thargoid Maelstroms, modified (pre-engineered) variants of many AX weapons have become available. They must be purchased per-module, making them far more expensive than traditional guardian weaponry. For unlock costs on these new weapons, see [Inara's Tech Broker Page](https://inara.cz/elite/techbroker#tab_techbrokerslot3)
 
-Guardian weapons are the most effective AX weapons in the game (specifically the Guardian Gauss Cannon) with human AX weapons being mostly unusable (with the exception of the Remote Release Flak Launcher).
+Guardian weapons are the most effective AX weapons in the game (specifically the Guardian Gauss Cannon) with human AX weapons being mostly unusable against Interceptors (with the exception of the Remote Release Flak Launcher).
 
 Some builds will also include Thermal Vent Beam Lasers which allow pilots to easily reduce ship heat and avoid significant amounts of Thargoid fire. For more information, see Cold Orbiting and [Lasers](/en/lasers).
 
 ## **Weapon Options**
-The currently best available weapons are the Remote Release Flak Launcher, Guardian Gauss Cannon, Modified Guardian Shard Cannon, and Modified Guardian Plasma Charger. For those who do not have guardian tech unlocked, the gimballed enhanced AX Multicannons are the best option, but these are only viable for Cyclops and scouts.
+The currently best available weapons are the Remote Release Flak Launcher, Guardian Gauss Cannon, Modified Guardian Shard Cannon, and Modified Guardian Plasma Charger.
+
+For those who do not have guardian tech unlocked, the Gimballed Enhanced AX Multicannons are the best option, but these are only viable for Cyclops and Scouts.
+
+All ships have a default **limit of 4 AX Weapons**. Azimuth's weapons stabilizer can increase this limit, however, for most weapons the distributor draw is too much to make this viable.
 
 ## Remote Release Flak Launcher
 
-Derzeit die einzige wirksame Waffe gegen Thargon Schwärme.
+Currently the only effective weapon to deal with Thargon Swarms.
 
-**Empfohlen:** Ist ein Muss! (Benötigt um den Schwarm zu zerstören)
+**Recommendation:** Must have! (Required to take out swarms)
 
-Hinweis: Zählt nicht in das Limit für 4 experimentelle Waffen.
+Note: Does not count against the 4 experimental weapon limit.
 
 ## Guardian Gauss Cannon
 
-Aktuell unangefochtene AX-Meta. Guardian Gauss Kanonen funktionieren wie eine Railgun mit einer kurzen Verzögerung, bevor sie feuern. Die schwere Rüstungsdurchdringung bietet hohe Effektivität, sogar gegen die stärksten Thargoids. Da es sie nur in kleinen und mittleren Größen gibt, bringt dies eine überraschende Ausgewogenheit zwischen den verschiedenen Schiffsklassen. Sie haben eine Reichweite von 3km. Der Leistungsverlust beginnt ab 1,5km, was einen guten Bereich für Präzisionsschläge gegen das Herz einräumt. Der einzige Nachteil ist die hohe Wärmeentwicklung, was den andauernden Gebrauch von Kühlkörpern nötig macht.
+Current undisputed AX meta. Guardian Gauss Cannons function like a Railgun with a short delay before firing. Heavy Armour Penetration means it is effective against even the toughest Thargoids. Coming in only small and medium classes, these allow a surprisingly even playing field between all ship classes. They have a maximum range of 3km and a damage falloff start of 1.5km, allowing for precision heart sniping at range. Its only downside is high heat generation which necessitates constant heatsink use.
 
-**Empfehlung:** Beste Anti-Xeno Waffe (Großartige Rüstungsdurchdringung, hohe Schadensleistung, Akkurat)
+**Recommendation:** Best AX weapon (Great armour penetration, High damage, Accurate)
 
-Hinweis: Bei Verwendung der Gauss Kanonen ist es wichtig, dass die Waffenaufhängungen gut aufeinander abgestimmt sind
+Note: When using Gauss Cannons, it is important to ensure your hardpoints have good Convergence
 
 ## Modified Guardian Gauss Cannon
 
@@ -53,7 +59,7 @@ Similar to a Frag Cannon, very wide spread with only around a 700m effective ran
 
 ## Modified Guardian Shard Cannon
 
-These shard cannons come in medium and small variants. They have long range engineering and a higher armor penetration. They are a great alternative to gauss, offering a lot of the benefits of shard cannons but with lesser downsides.
+These shard cannons come in medium and small variants. They have long range engineering and a higher armor penetration. They are a great alternative to gauss, offering a lot of the benefits of shard cannons but with lesser downsides. Due to their comparatively low distributor draw, they are the only Guardian weapon which ships can make use of 6 mounted at once.
 
 **Recommendation:** Very good AX weapon (Very high DPS)
 
