@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2023-01-28T14:31:06.483Z
+date: 2023-01-28T14:38:48.373Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -168,20 +168,21 @@ A collection of more advanced builds can be found on the Advanced Builds page.
 View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
 
 # Scout Builds
-Hunting scouts is a very efficient method to increase combat rank. This is because all scouts are considered dangerous or deadly targets and will give a lot of experience per kill. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of Large Turreted Anti-Xeno Multi-Cannons as the most effective weapon for hunting scouts.
+Hunting scouts is an efficient method to increase combat rank. This is because all scouts are considered dangerous or deadly targets and will give a lot of experience per kill. Scout killers also hold a valuable role in Anti-Xeno Conflict Zones.
+Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of **Large Enhanced Anti-Xeno Multi-Cannons**, either Gimballed or Turreted, as the most effective weapon for hunting scouts.
 
-These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. Keep in mind that there is a limit of 4 AX Weapons per vessel.
+These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. While vessels used to be limited to four AX Weapons, Azimuth's stabilizers now allow ships to mount up to six, allowing for truly devasating scout killers.
 
 ## Extra Modules Suggested
-- **Decontamination Limpet Controller (and Cargo Racks)** - For when hit by caustic missiles.
-- **Xeno Scanner (optional)** - Lets you see scout health %.
-- **Hull Reinforcements** - Scouts deal phasing damage which will damage you through shields, you will require both heavy Shields AND Hull.
+- **Decontamination Limpet Controller (and Cargo Rack)** - For when hit by caustic missiles.
+- **Enhanced Xeno Scanner** - Lets you see scout health and type, as well as allowing you to scan Interceptors for heart targeting.
+- **Hull Reinforcements** - Thargoids attacks phase through shields, meaning you need strong shields and hull to withstand their attacks.
 
 Ultimately, due to the simple nature of scout hunting, almost any ship can be retrofitted for the task quite easily. A simple rule of thumb is….
 
 - Decent Hull
 - Decent Shields
-- Lots of AX Multi-Cannons
+- As many AX Multi-Cannons as you can fit
 - Decontamination Limpets
 
 And you’re good to go!
