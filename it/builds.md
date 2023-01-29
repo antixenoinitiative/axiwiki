@@ -2,7 +2,7 @@
 title: '“Builds” raccomandate'
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2023-01-28T14:38:48.373Z
+date: 2023-01-29T04:15:50.480Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -190,7 +190,7 @@ And you’re good to go!
 
 ## tabset {.tabset}
 
-### Vulture Build
+### Vulture
 
 [**Vulture EDSY Build**](https://edsy.org/s/vdAYRaG) [**Build with Engineering**](https://edsy.org/s/vs1wd7p)
 
@@ -198,7 +198,7 @@ And you’re good to go!
 - 2x Large AX Multicannons, and a class 5 shield generator
 - Does not need engineering, although it is still recommended
 
-### Krait Mk.II Build
+### Krait Mk.II
 
 [**Krait Mk.II EDSY Build**](https://edsy.org/s/vgZzbI2)
 - Can fit 3x Large and 2x Medium AX Multi-Cannons.
@@ -206,9 +206,16 @@ And you’re good to go!
 - High mobility to keep targets in range or disengage.
 - Good upgrade from a Vulture, allowing for powerful AXCZ support.
 
-### Anaconda Build
+### Anaconda
 
 [**Anaconda EDSY Build**](https://edsy.org/s/vp7aLin)
 - Can fit all 4x Large and 2x Medium AX Multi-Cannons
 - Can be fitted with large shields and boosters for worry-free farming
 - Overkill in nearly all cases
+
+### Type-10 Defender
+
+[**Type-10 EDSY Build**](https://edsy.org/s/vsBBqw3)
+- Outclassed by the Anaconda in pretty much every way
+- Some people just really like flying this ship, for some reason. So here it is.
+
