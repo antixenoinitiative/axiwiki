@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2023-01-29T04:15:25.107Z
+date: 2023-01-29T04:15:50.480Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -218,6 +218,6 @@ And you’re good to go!
 ### Type-10 Defender
 
 [**Type-10 EDSY Build**](https://edsy.org/s/vsBBqw3)
-- Outclasses by the Anaconda in pretty much every way
+- Outclassed by the Anaconda in pretty much every way
 - Some people just really like flying this ship, for some reason. So here it is.
 
