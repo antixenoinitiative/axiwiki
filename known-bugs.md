@@ -2,7 +2,7 @@
 title: Known Bugs
 description: A list of known bugs and issues that affect AX
 published: true
-date: 2023-02-02T00:15:37.858Z
+date: 2023-02-02T00:16:02.135Z
 tags: bugs
 editor: markdown
 dateCreated: 2021-09-22T23:31:41.255Z
@@ -17,7 +17,7 @@ After the fixing of the heart bug and a couple other AX bugs, this page is under
 - Teleporting Swarm Missiles
 - Lack of relative mouse
 - Thargoids become frozen when shot while waking out
-- GMRPs do not offer their stated lightning protection and cannot be disabled
+- GMRPs do not offer their stated lightning protection
 - Bugged/missing megaship gameplay (inconsistent Thargoids spawns, bugged NPCs, bugged hatchbreaker salvage)
 
 ### Wing Bugs
