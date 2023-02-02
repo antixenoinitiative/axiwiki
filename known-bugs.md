@@ -2,7 +2,7 @@
 title: Known Bugs
 description: A list of known bugs and issues that affect AX
 published: true
-date: 2023-02-02T00:13:04.872Z
+date: 2023-02-02T00:15:37.858Z
 tags: bugs
 editor: markdown
 dateCreated: 2021-09-22T23:31:41.255Z
@@ -15,7 +15,7 @@ These are the bugs which we request you vote for/confirm first, as they are the 
 After the fixing of the heart bug and a couple other AX bugs, this page is under redesign to collect information on current and past AX bugs and create a new list of priority issues.
 ### Encounterable in Solo
 - Teleporting Swarm Missiles
-- Lack of relative mouse and SFN keybinds
+- Lack of relative mouse
 - Thargoids become frozen when shot while waking out
 - GMRPs do not offer their stated lightning protection and cannot be disabled
 - Bugged/missing megaship gameplay (inconsistent Thargoids spawns, bugged NPCs, bugged hatchbreaker salvage)
@@ -25,23 +25,24 @@ After the fixing of the heart bug and a couple other AX bugs, this page is under
 - The vast variety of desync issues (undead goids, duplicate swarms, invisible swarms/interceptors/scouts, rubberbanding thargoids)
 
 ## Known Issues
+[Spreadsheet with current AX Bugs](https://docs.google.com/spreadsheets/d/1GrVs_w0VKt9HUJm819EpwaLV0ofrnwzpNcvYR4v4-xs/edit?usp=sharing)
+
 ### Gameplay bugs
-- [SLF DDoS](https://issues.frontierstore.net/issue-detail/1955) - Fixed
-- [Shutdown pulses without warning](https://issues.frontierstore.net/issue-detail/2479) - Fixed
 - [Teleporting Swarm Explosion](https://issues.frontierstore.net/issue-detail/9629) - Expired
 - [Undead goids](https://issues.frontierstore.net/issue-detail/2474) - Fixed
 - [AX Multi-Cannon will not fire unless set to "Target Only"	](https://issues.frontierstore.net/issue-detail/2973) - Expired
 - [Invisible Thargoids](https://issues.frontierstore.net/issue-detail/1544) - Expired
 - [Swarm of more than 200 Thargons](https://issues.frontierstore.net/issue-detail/252) - Expired
-- [Invisible/zero capacity Swarms](https://issues.frontierstore.net/issue-detail/2477) - Confirming
+- [Invisible/zero capacity Swarms](https://issues.frontierstore.net/issue-detail/2477) - Expired
 
 ### Potential QoL Improvements
 - [Relative Mouse Toggle](https://issues.frontierstore.net/issue-detail/11760) - Expired
 - [Hydra kill not counting](https://issues.frontierstore.net/issue-detail/2332) - Expired
-- [Thargoid Scout Masssacre Mission spawns Thargoid Probe NHSS instead](https://issues.frontierstore.net/issue-detail/2745) - Expired
 
 
 ## Fixed
+- [Shutdown pulses without warning](https://issues.frontierstore.net/issue-detail/2479) - Fixed
+- [SLF DDoS](https://issues.frontierstore.net/issue-detail/1955) - Fixed
 - [Gauss Sound Bug](https://issues.frontierstore.net/issue-detail/194)
 - [NHSS rarity in Infestation](https://issues.frontierstore.net/issue-detail/176)
 - [Heart cycle reset](https://issues.frontierstore.net/issue-detail/2478)
