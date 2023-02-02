@@ -2,7 +2,7 @@
 title: Known Bugs
 description: A list of known bugs and issues that affect AX
 published: true
-date: 2021-10-19T19:30:26.597Z
+date: 2023-02-02T00:13:04.872Z
 tags: bugs
 editor: markdown
 dateCreated: 2021-09-22T23:31:41.255Z
@@ -37,8 +37,6 @@ After the fixing of the heart bug and a couple other AX bugs, this page is under
 
 ### Potential QoL Improvements
 - [Relative Mouse Toggle](https://issues.frontierstore.net/issue-detail/11760) - Expired
-- [Thargoid interceptors can be instantly killed if there are enough players/firepower](https://issues.frontierstore.net/issue-detail/2860) - Expired
-- [High amount of annoying military interdictions in Incursion systems](https://issues.frontierstore.net/issue-detail/1711) - Expired
 - [Hydra kill not counting](https://issues.frontierstore.net/issue-detail/2332) - Expired
 - [Thargoid Scout Masssacre Mission spawns Thargoid Probe NHSS instead](https://issues.frontierstore.net/issue-detail/2745) - Expired
 
@@ -63,5 +61,6 @@ After the fixing of the heart bug and a couple other AX bugs, this page is under
 - [Thargoid Interceptors Don't Release Swarms Near Planet Surface](https://issues.frontierstore.net/issue-detail/237)
 - [Low Canopy Integrity](https://issues.frontierstore.net/issue-detail/1081)
 - [Turret Ax multicannon not firing unles Thargoid under 2k from ship](https://issues.frontierstore.net/issue-detail/3632)
+- [Thargoid interceptors can be instantly killed if there are enough players/firepower](https://issues.frontierstore.net/issue-detail/2860) - Expired
 
 
