@@ -2,7 +2,7 @@
 title: Odyssey Engineering
 description: Guide to engineering suits and on-foot weapons
 published: true
-date: 2021-09-19T11:12:31.337Z
+date: 2023-02-13T02:21:39.879Z
 tags: engineering, guide
 editor: markdown
 dateCreated: 2021-06-10T12:19:05.577Z
@@ -41,10 +41,15 @@ Once you're happy with how much you've gotten on the wrong side of Sirius Corp, 
 ## Smear Campaign Plans
 
 Go to LHS 1541 - Chon Tourist Hotel. Check Habitat data ports. Usually 2-3x per run, very fast.
+[Gidey's Armoury](https://cdn.discordapp.com/attachments/407073451409670145/863535856606642186/HighResScreenShot_2021-07-10_20-51-01.jpg) in Vesper-M4 is also a great source for these.
 
 ## Settlement Defense Plans (Also for engineer unlock)
 
 These drop with about 16% chance per relog from the "crashed skimmer" data port which is spawned in irregular markers PoI - look for the "two container" instance with the crahed skimmer, NOT for the the "three container" instance with the crashed SRV.
+
+## Power Regulators
+
+Power regulators can be easily farmed from landed Eagles from Distress Signals. The eagle will have power regulators which can be shot, and the site can be relogged. You are looking for non degraded cores. If you don't see them, relog.
 
 ## Most other data
 
