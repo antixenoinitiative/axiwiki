@@ -2,22 +2,25 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2023-01-03T02:41:51.668Z
+date: 2023-02-13T02:16:34.293Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
 ---
 
 # Engineering Materials Guide
-This is a general guide on gathering and collecting materials for engineering your ship in Elite Dangerous.
+This is an extensive general guide on gathering and collecting materials for engineering your ship in Elite Dangerous. For a more focused list of material sources, check out [ED Materials](https://www.edmaterials.app/home).
 
-> This guide is primarily focussed on gathering materials. For information on how to engineer your ship, see our [Ship Build Theory](/en/shipbuildtheory) page. 
+> You DO NOT have to max out the previous grade of an engineering blueprint before applying the next. A module only stores one grade of engineering, so each higher grade replaces previous ones. 
 > 
-> {.is-info}
+> {.is-warning}
 
-> **Other Useful Sites** [Optimal Methods for Grinding Materials](https://sites.google.com/view/ed-materials) [Scavengers Spreadsheet](https://docs.google.com/spreadsheets/d/1yo1iHP9KUXpoBaIzJsRsDxfAcQa7cBq0YUIFy3m2NII/edit#gid=585994681) [Panpipers's Pleiades Survivor Guide to Barnacles and More](https://docs.google.com/spreadsheets/d/1giHvc1SISUcD7BPKjlbutkuwPrWQwHuSxnBwQ3MPQME/edit#gid=0) 
-> 
-> {.is-success}
+
+# Useful Links
+- [Ship Build Theory](/en/shipbuildtheory) page - Information on how to engineer your ship
+- [ED Materials](https://www.edmaterials.app/home) - Comprehensive summary of material sources
+- [ED Discovery](https://edcodex.info/?m=tools&entry=10) - Aids with planetary navigation, among many other useful features.
+- [Weapon Unlock Costs](https://inara.cz/elite/techbroker) - Inara keeps a list of tech broker unlock requirements.
 
 # Raw Materials
 
@@ -38,10 +41,15 @@ Raw materials (Grade 4) can be easily obtained en masse at special **Crystalline
 To use these sites, you will need to go to the celestial body corresponding to the material you require and use your Detailed Surface Scanner (DSS) on it. When this is done, select Crystal Shards and look for dark blue areas. Fly down to the planet and look for shards on the surface. Land, and hop in your SRV. You should be able to find plenty of rare raw materials for all your engineering and synthesis needs.
 
 **Do not forget to bring a Detailed Surface Scanner and SRV**
+
+Dumbfire missiles can be used to increase farming efficiency, as demonstrated [here](https://youtu.be/xQsVE5CLl6o).
+
 ## Selenium and Thargoid Barnacles
 Selenium is (ironically) the most difficult material to farm since it only drops from Grade 2 resource nodes. There are multiple ways to collect it however, albeit slightly slower. The best way is brain trees, which can be farmed similar to crystal shards. Brain trees for selenium can be found at **Kappa-1 Volantis, B 3 F A**
 
 Thargoid Barnacles can provide a good source of selenoum as well, as breaking the spikes most commonly drops G1-G2 materials, but locating the correct barnacle may be tricky. You can use this spreadsheet compiled by CMDR Panpiper to find the correct sites. Look for Allripe Barnacles with Selenium present on the planet. Additionally relogging will cause the spikes to reappear, which means you can repeatedly farm the same site.
+
+For more information on barnacles, check out [Panpipers's Pleiades Survivor Guide to Barnacles and More](https://docs.google.com/spreadsheets/d/1giHvc1SISUcD7BPKjlbutkuwPrWQwHuSxnBwQ3MPQME/edit#gid=0)
 
 # Manufactured Materials
 ## HGE Looping
@@ -63,6 +71,11 @@ You can use the [min-ed-launcher](https://github.com/Rfvgyhn/min-ed-launcher#fea
 
 If you have a weak PC (or want to speed up the grind even more) you can load the vanilla (non-horizon) version of the game, as it loads faster.
 
+## Other Methods
+While HGEs are the fastest way to farm most manufactured materials, some CMDRs prefer other methods, such as Hot Jupiter, Big Boo, or [Dav's Hope](https://i.redd.it/jak5olaegui01.png).
+
+Additionally, **Biotech Conductors and Exquisite Focus Crystals cannot be obtained from HGEs**, and are instead obtained from missions. Robigo Mines or Thargoid-related missions are currently the best known ways of obtaining these materials
+
 # Encoded Materials
 ## Jameson's Crashed Cobra
 You can find a collection of high grade encoded materials by travelling to Jameson's crashed cobra and scanning the small red beacons surrounding the crash site, once you log out/in these will refresh and you can continue to do this until your materials are full.
@@ -75,8 +88,20 @@ You can find a collection of high grade encoded materials by travelling to James
 1. Log off and back on.
 1. Repeat from step 5.
 
-# Other Materials
-## Sensor Fragments
+# Guardian Materials
+## Blueprints
+Guardian blueprint fragments come in three forms: Weapon, Module, and Vessel. Each active guardian site will provide one of these types. While many CMDRs have sites they prefer to use, we recommend **HD 63154 planet B 3 A** for modules and **Col 173 Sector OD-J B25-2 planet  B 1** for weapons.
+
+### Materials
+Guardian materials can be found at various active guardian sites. Some drop from destructible panels, and some drop from destroyed sentinels. A list of where to find each material can be found [here](https://www.edmaterials.app/home/guardian-materials).
+
+### Data
+Guardian Pattern Data comes in various forms, and can be obtained from scanning any active obelisk. Drops are random, and many relogs are required to get the data you need. While any guardian site has active obelisks, we recommend **Synuefe XR-H D11-102 planet 1 B** for pattern data, as there is a site with [4 obelisks next to each other](https://cdn.discordapp.com/attachments/407073451409670145/721780080593993768/unknown.png).
+
+Canonn Research group has multiple repositories of guardian site maps, some of which can be found [here](https://imgur.com/gallery/43BCKNz) and [here](http://imgur.com/a/CxyuI).
+
+
+# Sensor Fragments
 Required to unlock the Engineer Professor Palin, sensor fragments can be gathered from Thargoid Scavengers or by destroying Thargoid Sensors. You can find Thargoid Sensor fragments very close to Professor Palins lab at a recently discovered crashed ship at the following location.
 
 **System**: Solati **Body**: Halla **Coordinates**: -70.9912 x -156.4383 **Stuff**: 1 Thargoid Sensor, 1 Cargo Rack which drops one of the following (V, Cr, Zr, Zn, Mn, Sb), Ship Data Core.
@@ -88,7 +113,7 @@ Credit to CMDR FlyBoyXD of the FRC.
 # Material Trading
 If you are not able to obtain the materials you need directly, it is possible to trade other materials of the same type at a material trader for a cost. Different material traders will handle different material types such as Data, Raw and Manufactured.
 
-You can find the nearest trader with [this tool](https://inara.cz/galaxy-nearest/25).
+You can find the nearest trader with [Inara's station search](https://inara.cz/elite/nearest-stations/).
 
 When trading you will always lose some value. You will lose even more if you trade across different categories.
 
