@@ -2,7 +2,7 @@
 title: Horizons Engineers
 description: An AX-focused engineer unlocking and travel guide.
 published: true
-date: 2023-02-13T17:59:21.280Z
+date: 2023-02-13T18:09:59.277Z
 tags: engineering
 editor: markdown
 dateCreated: 2023-02-13T17:37:07.496Z
@@ -49,6 +49,25 @@ A guide for unlocking engineers can be found [here](https://cmdrs-toolbox.com/gu
 
 > It should be noted that bringing a guardian-thargoid hybrid relic to Arque bypasses Palin's 5000ly travel requirement.
 {.is-info}
+
+### Unlocking Selene Jean
+*Courtesy of CMDR lyonhaert*
+For refining 500T of minerals most efficiently, I recommend this approach as it is more consistent and faster than any form of deposit mining.
+
+- [Mining Python](https://edsy.org/s/vKyp6nR)
+- A pristine metallic ring (38 Lyncis 4, inner ring is the closest to Selene Jean's system)
+
+Steps:
+- Drop into a random spot and ditch any pirates that spawn.
+- Start prospecting and looking for rocks with at least 1 resource >20% regardless of what it is.
+- Make sure you have none of these resources ignored by checking the fragments in your Contacts list on the left during the first few fragments.
+- Fire off collectors if you don't have them all active (they do expire), and put 4 pips into WPN before mining a rock.
+- For efficiency, try to find the pole of rotation if the rock spins and make sure the lasers hit that. Spinning or not, try to position the ship 200m away from the surface you're lasering and angled downward so that fragments go toward the area underneath your ship (50-150m outside the cargo hatch). The idea is to get the collectors working mostly just outside the cargo hatch so they go very fast.
+- After you've depleted a rock and finished collecting, just jettison anything that isn't Painite and vent all the bins of the refinery before moving on to the next rock.
+
+Expect this to take about 2-5 hrs, depending on positioning skill.
+
+Occasionally check "Minerals refined" in your statistics to see when you're over 500 on that number. Once you've reached that point if you have limpets left and don't have 10T of Painite yet you can just keep prospecting for any rocks with Painite >20%.
 
 
 # Optimal Engineering Routes
