@@ -2,7 +2,7 @@
 title: Odyssey Mühendisliği
 description: Kıyafet ve piyade silahları mühendisliği rehberi
 published: true
-date: 2021-09-19T11:12:31.337Z
+date: 2023-02-13T02:21:39.879Z
 tags: engineering, guide
 editor: markdown
 dateCreated: 2021-06-10T12:19:05.577Z
@@ -38,25 +38,29 @@ Sirius Corp'a karşı itibarınızı yeteri kadar zedelediğinizde bu işlem iç
 
 ## Smear Campaign Plans
 
-LHS 1541 sistemi - Chon Tourist Hotel. Habitat veri portlarından. İşlem başına genellikle 2-3 adet, son derece hızlı.
+LHS 1541 sistemi - Chon Tourist Hotel. Habitat veri portlarından. İşlem başına genellikle 2-3 adet, son derece hızlı. [Gidey's Armoury](https://cdn.discordapp.com/attachments/407073451409670145/863535856606642186/HighResScreenShot_2021-07-10_20-51-01.jpg) in Vesper-M4 is also a great source for these.
 
 ## Settlement Defense Plans (Mühendisleri açmak için)
 
 Irregular Markers sinyalinde doğrulan "Crashed Skimmer" veri portundan 16% ihtimalle düşer. 2 konteyner ve crashed skimmer ortamı gerekli, SRV içeren "3 konteyner" ortamı DEĞİL.
 
-## Çoğu diğer data
+## Power Regulators
 
-Diğer dataların çoğu için görev ödülleri en hızlı yol. Görev panosundaki görevler 5 adede kadar verebilir ve NPC tarafından verilen görevlerde itibarınıza ve pazarlığınıza bağlı olarak ikiye katlayabilirsiniz.
+Power regulators can be easily farmed from landed Eagles from Distress Signals. The eagle will have power regulators which can be shot, and the site can be relogged. You are looking for non degraded cores. If you don't see them, relog.
 
-## Çoğu diğer materyal
+## Most other data
 
-Takaslayabildiğiniz materyaller genelde sorun yaratmaz ve yukarıda bahsedilen yöntemlerle bolca materyal elde edebilirsiniz.
+Fastest way for most other data is as mission rewards. Board missions can give up to 5 each of any given type, and NPC-issued missions can double that if you have enough rep and rank to negotiate effectively.
+
+## Most other mats
+
+Mats that can be cross-traded at the bartender are usually a non-issue, as any of the relog and/or supercruise methods above will yield huge amounts of them.
 
 # __**Ne kadar materyale ihtiyacınız var****
 
-## Kıyafetler
+## Suits
 
-Artemis/Dominator/Maverick G3'leri dükkanlardan satın alacağınızı ve Artemis'i G3'te bırakacağınızı varsayıp (kimin G5 Artemis'e ihtiyacı olur ki?) Maverick ve Dominator'ınızı G3'ten G5'e yükseltmek için ihtiyacınız olanlar:
+Assuming you’ll buy Artemis/Dominator/Maverick G3s from stores, and you’ll keep the Artemis at G3 (who needs a G5 Artemis?!), taking your Maverick and Dominator both from G3->G5 will require:
 - 50 Suit Schematics
 - 50 Health Monitors
 - 50 Power Regulators
@@ -65,15 +69,15 @@ Artemis/Dominator/Maverick G3'leri dükkanlardan satın alacağınızı ve Artem
 - 60 Carbon Fibre Plating
 - 60 Titanium Plating
 
-## Silahlar
+## Weapons
 
-Plasma için, Executioner/Oppressor/Intimidator/Tormentor G3'lerini dükkandan alacağınızı ve Oppressor tüfeğini yok sayacağınızı (şu anda oyundaki en kötü silah) varsayıp diğer üçünü G3'ten G5'e yükseltmek için ihtiyacınız olanlar:
+For Plasma, assuming you’ll buy Executioner/Oppressor/Intimidator/Tormentor at G3 from stores, and that you will set aside and utterly ignore the pathetic Oppressor rifle (currently the worst weapon in the game), and take G3->G5 the other three, you will need:
 - 75 Manufacturing Instructions
 - 75 Ionized Gas
 - 75 Weapon Schematics
 - 180 Chemical Superbase
 - 180 Microelectrode
 
-TK silahları için Chemical Superbase yerine Optical Fiber kullanacaksınız.
+Replace chemical superbase with optical fiber for TK weapons.
 
-Karma silahlar için ise; Ionised Gas yerine Compression-Liquified Gas, Chemical Superbases yerine Tungsten Carbide ve Microelectrodes yerine Weapon Components kullanacaksınız.
+Replace Ionized Gas with Compression-Liquified gas, Chemical Superbases with Tungsten Carbide, and microelectrodes with weapon components for Karma weapons.
