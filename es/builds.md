@@ -2,7 +2,7 @@
 title: Construcciones Recomendadas
 description: Recommended Anti-Xeno Ship Builds
 published: verdadero
-date: 2023-01-29T04:15:50.480Z
+date: 2023-02-16T06:29:36.370Z
 tags: construcciones
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -42,7 +42,7 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
 
 The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-de-Lance in PVP. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
 
-Type: **Cold**
+Type: **Cold Orbiter**
 
 - Velocidad: ⭐⭐⭐⭐⭐
 - Agility: ⭐⭐⭐⭐⭐
@@ -51,9 +51,9 @@ Type: **Cold**
 
 Recommendation: Unarguably the best ship and build style for AX combat.
 
-[Coriolis Meta Shieldless Build](https://s.orbis.zone/eu9w)
-
 [EDSY Meta Shieldless Build](https://edsy.org/s/vwJ9Lqq)
+
+[Coriolis Meta Shieldless Build](https://s.orbis.zone/eu9w)
 
 AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
 ### Krait Mk.II (Shieldless)
@@ -71,9 +71,9 @@ Type: **Cold Orbiter**
 
 Recommendation: Great for modified shard cannons and plasma chargers.
 
-[Coriolis Shieldless Build](https://s.orbis.zone/jv-6)
-
 [EDSY Shieldless Build](https://edsy.org/s/vibIYZZ)
+
+[Coriolis Shieldless Build](https://s.orbis.zone/jv-6)
 
 AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
@@ -93,9 +93,9 @@ Type: **Shield Tank**
 
 Recommendation: Different fighting style and generally very capable with weaker Interceptors. Becomes much harder for tougher variants.
 
-[Coriolis Shielded Build](https://s.orbis.zone/3wbf)
-
 [EDSY Shielded Build](https://is.gd/DgmHXb)
+
+[Coriolis Shielded Build](https://s.orbis.zone/3wbf)
 
 ## Construcciones Intermedias
 
@@ -119,9 +119,9 @@ Type: **Cold Orbiter**
 
 Recommendation: A great ship for those who find the Chieftain too responsive, or want to use shards or chargers.
 
-[Coriolis Shieldless Build](https://s.orbis.zone/fnnx)
-
 [EDSY Shieldless Build](https://edsy.org/s/v6Rppcb)
+
+[Coriolis Shieldless Build](https://s.orbis.zone/fnnx)
 
 ### Federal Corvette (Shieldless)
 
@@ -139,9 +139,9 @@ Type: **Cold Orbiter**
 
 Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
 
-[Coriolis Build](https://s.orbis.zone/fnn_)
-
 [EDSY Build](https://edsy.org/s/vA8F5FD)
+
+[Coriolis Build](https://s.orbis.zone/fnn_)
 
 ### Federal Corvette (Shielded)
 
@@ -157,9 +157,9 @@ One of the "big three" the Federal Corvette is a force to be reckoned with. Offe
 
 Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
 
-[Coriolis Build](https://s.orbis.zone/hvm_)
-
 [EDSY Build](https://edsy.org/s/vVB46ov)
+
+[Coriolis Build](https://s.orbis.zone/hvm_)
 
 
 ## Construcciones avanzadas
