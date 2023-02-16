@@ -2,7 +2,7 @@
 title: Synthesis
 description: Information on Sythnesis in AX combat.
 published: true
-date: 2023-02-16T04:05:09.200Z
+date: 2023-02-16T04:43:55.064Z
 tags: engineering
 editor: markdown
 dateCreated: 2021-06-10T04:08:01.614Z
@@ -130,7 +130,7 @@ Guardian Shard Cannons are currently one of the most effective AX weapons. While
 
 ### Standard (+15% dmg) 
 
-- 4x Crysal Shards
+- 4x Crystal Shards
 - 2x Guardian Power Cell
 - 2x Guardian Sentinel Weapon Parts
 
@@ -147,6 +147,37 @@ For repairs and decontamination limpets.
 ### Basic
 - 10x Iron
 - 10x Nickel
+
+# Full List
+The following is a full list of every material required for AX synthesis. It is recommended to, at some point, fill up one every single one of these materials. Doing so will set you for quite a lot of AX combat.
+
+### Raw
+- Carbon
+- Vanadium
+- Sulfur
+- Nickel
+- Zinc
+- Chromium
+- Manganese
+- Zirconium
+
+### Manufactured
+- Basic Conductors
+- Heat Conduction Wiring
+- Focus Crystals
+- Heat Resistant Ceramics
+- Filament Composites
+- Heat Dispersion Plate
+- Heat Exchangers
+- Phase Alloys
+- Crystal Shards
+
+### Guardian
+- Guardian Power Conduit
+- Guardian Power Cell
+- Guardian Technology Component
+- Guardian Sentinel Weapon Parts
+- Guardian Wreckage Component
 
 
 
