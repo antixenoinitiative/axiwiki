@@ -2,7 +2,7 @@
 title: Ingenieur Leitfaden
 description: Leitfaden zum Sammeln von Materialien für die Modifikation deines Schiffes
 published: true
-date: 2023-02-13T02:16:34.293Z
+date: 2023-02-16T04:16:33.590Z
 tags: Engineering, Ausrüstung, Materialien
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -119,4 +119,4 @@ When trading you will always lose some value. You will lose even more if you tra
 
 **Ideally you want to gather materials at the highest grade possible and trade downwards.**
 
-![convert1.png](/img/convert1.png) ![convert2.png](/img/convert2.png)
+![materialTraderImage](https://i.redd.it/6c6z4msafje61.png)
