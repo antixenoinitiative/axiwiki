@@ -2,7 +2,7 @@
 title: Synthèse
 description: Informations sur la Synthèse en combat AX.
 published: true
-date: 2021-06-10T07:08:32.143Z
+date: 2023-02-16T04:05:09.200Z
 tags: ingénierie
 editor: markdown
 dateCreated: 2021-06-10T04:08:01.614Z
@@ -45,53 +45,106 @@ Nécessaire pour gérer les essaims de Thargons, attendez-vous à devoir effectu
 - Carbone x3
 - Nickel x4
 
-## Canon de Gauss Guardian
-Les Canons de Gauss Guardians sont actuellement les armes AX les plus efficaces et en raison de leur faible quantité totale de munitions nous conseillons de transporter de quoi effectuer quelques synthèses pour affronter un Medusa ou plus élevé en solo. Les synthèses Gauss premium sont fortement recommandées pour les intercepteurs de type Hydra.
+## AFM Refills
+In longer fights, you will need to refill your AFMU multiple times to keep your Module Reinforcements and other modules at full integrity.
+
+We recommend only using Basic AFM refills, as standard and premium cost too much to be worth it.
+
+### Basique
+- 2x Nickel
+- 2x Zinc
+- 2x Chromium
+- 3x Vanadium
+
+## Guardian Gauss Cannon
+Guardian Gauss Cannons are currently the most effective AX weapon and due to their low ammo total we recommend carrying a few synths for solo Medusa and higher. Premium Gauss Synths are strongly recommended for Hydra variant Interceptors.
+
+### Basic
+
+- 2x Focus Crystals
+- 2x Guardian Power Conduit
+- 3x Manganese
+- 4x Guardian Wreckage Components
+
+### Standard (+15% dmg)
+
+- 3x Heat Resistant Ceramics
+- 3x Guardian Sentinel Weapon Parts
+- 4x Guardian Power Conduits
+- 5x Manganese
+- 5x Focus Crystals
+
+### Premium (+30% dmg)
+
+- 6x Filament Composites
+- 6x Guardian Technology Components
+- 8x Manganese
+- 10x Focus Crystals
+
+For the maximum possible Premium Gauss synths you will need:
+
+- 200x Focus Crystals
+- 160x Manganese
+- 120x Filament Composites
+- 120x Guardian Tech Components
+
+## Guardian Plasma Charger
+Guardian Plasma Chargers are currently one of the most effective AX weapons. While the modified variants have a lot of ammo, packing synths never hurts.
 
 ### Basique
 
-- Cristaux de focalisation x2
-- Conduit d'énergie - Guardians x2
-- Manganèse x3
-- Débris d'épave - Guardians x4
+- 3x Chromium
+- 2x Heat Dispersion Plate
+- 3x Guardian Power Conduit
+- 4x Guardian Wreckage Components
 
-### Standard (+15 % dégâts)
+### Standard (+15% dmg)
 
-- Céramiques résistantes à la chaleur x3
-- Pièces d'armement de Sentinelle - Guardians x3
-- Conduit d'énergie - Guardians x4
-- Manganèse x5
-- Cristaux de focalisation x5
+- 4x Chromium
+- 2x Heat Exchangers
+- 2x Phase Alloys
+- 2x Guardian Power Cell
+- 2x Guardian Technology Component
 
-### Premium (+30% dégâts)
+### Premium (+30% dmg)
 
-- Composites filamentaires x6
-- Composants technologiques - Guardians x6
-- Manganèse x8
-- Cristaux de focalisation x10
+- 6x Chromium
+- 2x Zirconium
+- 4x Heat Exchangers
+- 6x Phase Alloys
+- 4x Guardian Power Cell
+- 3x Guardian Sentinel Weapon Parts
 
-Pour le nombre maximum de synthèse de Gauss premium vous aurez besoin de :
+## Guardian Shard Cannon
+Guardian Shard Cannons are currently one of the most effective AX weapons. While the modified variants have a lot of ammo, packing synths never hurts.
 
-- Cristaux de focalisation x200
-- Manganèse x160
-- Composites filamentaires x120
-- Composants technologiques - Guardians x120
+### Basic
 
-## Drones
-Pour les drones de réparation et de décontamination.
+- 3x Carbon
+- 2x Vanadium
+- 3x Crystal Shards
+- 3x Guardian Power Cell
+- 5x Guardian Wreckage Components
 
-### Basique
-- Fer x10
-- Nickel x10
+### Standard (+15% dmg)
 
-## Réapprovisionnement MAE
-Dans des combats plus longs, vous aurez besoin de recharger votre AFMU plusieurs fois pour garder vos Renforcements de Modules et autres modules à leur intégrité maximale.
+- 4x Crysal Shards
+- 2x Guardian Power Cell
+- 2x Guardian Sentinel Weapon Parts
 
-Nous conseillons de n'utiliser que des réapprovisionnement MAE basiques, les synthèses standards ou premium n'ayant aucun réel avantage.
+### Premium (+30% dmg)
 
-### Basique
-- Nickel x2
-- Zinc x2
-- Chrome x2
-- Vanadium x3
+- 8x Carbon
+- 6x Guardian Power Cell
+- 4x Vanadium
+- 8x Crystal Shards
+
+## Limpets
+For repairs and decontamination limpets.
+
+### Basic
+- 10x Iron
+- 10x Nickel
+
+
 
