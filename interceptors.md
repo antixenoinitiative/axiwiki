@@ -2,7 +2,7 @@
 title: Interceptors
 description: About Thargoid Interceptors
 published: true
-date: 2022-12-07T14:49:29.997Z
+date: 2023-02-20T01:40:50.382Z
 tags: thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-15T10:23:32.433Z
@@ -41,7 +41,7 @@ On September 26, 3303 the Cyclops variant started indiscriminately attacking Ind
 
 **Hearts**: 4
 **Max Speed**: 450 m/s
-**Payout**: 8,000,000 Cr
+**Payout**: 6,500,000 Cr
 
 ## **Basilisk**
 ![basilisk-small.png](/img/basilisk-small.png =250x){.align-right}First encountered on November 13, 3303 The basilisk is a tougher variant of the Cyclops with a special trait, speed. The Basilisk is the only interceptor variant to have a higher maximum speed. This makes the basilisk a significant threat, especially to larger more cumbersome ships. Along with higher speed the Basilisk is also generally tougher, with one extra heart and a heavier hitting primary cannon.
@@ -50,7 +50,7 @@ The Basilisk has a similar model to the Cyclops, with its distinguishing feature
 
 **Hearts**: 5
 **Max Speed**: 530 m/s
-**Payout**: 24,000,000 Cr
+**Payout**: 20,000,000 Cr
 
 ## **Medusa**
 ![medusa-small.png](/img/medusa-small.png =250x){.align-right}The Medusa variant was first witnessed on December 14, 3303 while attacking three stations. The Medusa is a greatly enhanced version of the Basiliks with much higher overall damage output and an extra heart. However the Medusa once again moves at the same speed as a Cyclops.
@@ -62,7 +62,7 @@ During the Janurary 2020 beta tests the Medusa variant appeared to have its norm
 
 **Hearts**: 6
 **Max Speed**: 450 m/s
-**Payout**: 40,000,000 Cr
+**Payout**: 34,000,000 Cr
 
 ## **Hydra**
 ![hydra-small.png](/img/hydra-small.png =250x){.align-right}On August 23, 3304 the Hydra variant interceptor was first encountered. The Hydra variant is a significant step-up in power and toughness to the Medusa with an extra two hearts and overall higher armour toughness. The Hydra also exhibits a faster reload time which means it has a much more aggressive damage profile. The Hydra variant is currently the toughest Thargoid present and is a huge challenge to even the most experienced AX pilots.
@@ -71,7 +71,7 @@ The Hydra variant exhibits bright green colors and a multitude of changes in its
 
 **Hearts**: 8
 **Max Speed**: 450 m/s
-**Payout**: 60,000,000 Cr
+**Payout**: 50,000,000 Cr
 
 ## **Orthrus**
 
@@ -94,4 +94,4 @@ With the arrival of the Maelstroms, the Orthrus has once again appeared, this ti
 
 **Hearts**: 0
 **Max Speed**: 115 m/s
-**Payout**: 30,000,000 Cr
+**Payout**: 25,000,000 Cr
