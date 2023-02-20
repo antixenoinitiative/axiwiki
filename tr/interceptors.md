@@ -2,7 +2,7 @@
 title: Interceptorler
 description: Thargoid Interceptorler hakkında
 published: true
-date: 2022-12-07T14:49:29.997Z
+date: 2023-02-20T01:40:50.382Z
 tags: thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-15T10:23:32.433Z
@@ -40,14 +40,14 @@ Cyclops çabuk öldürülebilir ve deneyimli AX pilotları için pek tehdit say�
 
 26 Eylül 3303 tarihinde Cyclops türü bağımsız gemilerle birlikte Federal ve Imperial donanma gemilerine de saldırmaya başlamıştır ve Non-Human Signal Source sinyallerinde bu gemilerin enkazlarından çeşitli Thargoid eşyaları toplarken görülebilirler.
 
-**Kalp**: 4 **Azami Hız**: 450 m/s **Ödül**: 8,000,000 Cr
+**Hearts**: 4 **Max Speed**: 450 m/s **Payout**: 6,500,000 Cr
 
 ## **Basilisk**
 !\[basilisk-small.png\](/img/basilisk-small.png =250x){.align-right}İlk olarak 13 Kasım 3303 tarihinde karşılaşılan Basilisk, Cyclops'un daha güçlü ve daha hızlı versiyonudur. Basilisk diğerlerinden daha yüksek azami hıza sahip tek Interceptor türüdür. Bu da Basilisk'i, özellikle büyük ve hantal gemiler için ciddi bir tehdit haline getirir. Yüksek hızının yanında fazladan bir adet Kalbi ile daha dayanıklı olup, daha yüksek hasara sahip bir ana silahı ve daha büyük Swarm'u vardır.
 
 Cyclops'a benzer bir şekli vardır ancak kırmızı/kahverengi tonlarında daha koyu bir rengi ve yapraklarında leoparımsı desenler vardır.
 
-**Kalp**: 5 **Azami Hız**: 530 m/s **Ödül**: 24,000,000 Cr
+**Hearts**: 5 **Max Speed**: 530 m/s **Payout**: 20,000,000 Cr
 
 ## **Medusa**
 !\[medusa-small.png\](/img/medusa-small.png =250x){.align-right}Medusa türü ilk olarak 14 Aralık 3303 yılında 3 adet istasyona saldırırken görülmüştür. Medusa; Basilisk'in çok daha yüksek hasara ve fazladan bir adet Kalbe sahip yüksek oranda gelişmiş halidir. Ancak Cyclops'la aynı hıza sahiptir.
@@ -56,14 +56,14 @@ Daha canlı kırmızı ve siyah renklere sahip olmasının yanı sıra, yaprakla
 
 __*Beta Değişiklikleri*__ Ocak 2020 beta testleri sırasında Medusa türü dikenleri çok daha küçük olan başka bir görünümle ortaya çıkmıştır. İleride bu görünümle değiştirilip değiştirilmeyeceğini bilmiyoruz.
 
-**Kalp**: 6 **Azami Hız**: 450 m/s **Ödül**: 40,000,000 Cr
+**Hearts**: 6 **Max Speed**: 450 m/s **Payout**: 34,000,000 Cr
 
 ## **Hydra**
 !\[hydra-small.png\](/img/hydra-small.png =250x){.align-right}Hydra türüyle ilk olarak 23 Ağustos 3304 tarihinde karşılaşıldı. Medusa'dan sonra yüksek oranda gelişim sergileyen Hydra türü, fazladan iki adet kalbe ve daha gelişmiş bir zırha sahiptir. Hydra ayrıca daha kısa yeniden doldurma zamanına sahip olduğundan, daha saldırgan bir hasar verme profiline sahiptir. Hydra türü şu an için en güçlü Thargoid'tir ve en deneyimli AX pilotları için dahi tehdit oluşturur.
 
 Parlak yeşil renkler barındıran Hydra türü birtakım fiziksel farklılıklara da sahiptir. Ana yapraklarının arka tarafında başka bir dizi daha yaprak bulunduran Hydra, pilotların Kalpleri arkadan görmesini engeller. Kalpleri de, saat yönünün tersine yönelmiş dikenimsi uzantılarıyla farklılık gösterir. Hydra ayrıca gövdesini kafesle kapatan bir yapıya da sahiptir.
 
-**Kalp**: 8 **Azami Hız**: 450 m/s **Ödül**: 60,000,000 Cr
+**Hearts**: 8 **Max Speed**: 450 m/s **Payout**: 50,000,000 Cr
 
 ## **Orthrus**
 
@@ -85,4 +85,4 @@ Frontier Developments geliştiricilerinden "KSE"; "Orthrus oyunda hiç olmamalı
 
 With the arrival of the Maelstroms, the Orthrus has once again appeared, this time intentionally. It still exhibits its original behavior. It has no hearts, and instead employs a caustic EMP and an initial shield.
 
-**Hearts**: 0 **Max Speed**: 115 m/s **Payout**: 30,000,000 Cr
+**Hearts**: 0 **Max Speed**: 115 m/s **Payout**: 25,000,000 Cr
