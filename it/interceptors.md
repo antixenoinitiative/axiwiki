@@ -2,7 +2,7 @@
 title: Interceptors
 description: About Thargoid Interceptors
 published: true
-date: 2022-12-07T14:49:29.997Z
+date: 2023-02-20T01:40:50.382Z
 tags: thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-15T10:23:32.433Z
@@ -40,14 +40,14 @@ Cyclops variant interceptors are quick to kill and pose relatively little threat
 
 On September 26, 3303 the Cyclops variant started indiscriminately attacking Independent ships along with Federal and Imperial navy vessels, where they could be found among wreckages of these ships in Non-Human Signal Sources collecting various Thargoid related items, such as the Thargoid Sensor and Thargoid Probe.
 
-**Hearts**: 4 **Max Speed**: 450 m/s **Payout**: 8,000,000 Cr
+**Hearts**: 4 **Max Speed**: 450 m/s **Payout**: 6,500,000 Cr
 
 ## **Basilisk**
 !\[basilisk-small.png\](/img/basilisk-small.png =250x){.align-right}First encountered on November 13, 3303 The basilisk is a tougher variant of the Cyclops with a special trait, speed. The Basilisk is the only interceptor variant to have a higher maximum speed. This makes the basilisk a significant threat, especially to larger more cumbersome ships. Along with higher speed the Basilisk is also generally tougher, with one extra heart and a heavier hitting primary cannon.
 
 The Basilisk has a similar model to the Cyclops, with its distinguishing features being the darker red/brown tones and leopard print patterns on its petals.
 
-**Hearts**: 5 **Max Speed**: 530 m/s **Payout**: 24,000,000 Cr
+**Hearts**: 5 **Max Speed**: 530 m/s **Payout**: 20,000,000 Cr
 
 ## **Medusa**
 !\[medusa-small.png\](/img/medusa-small.png =250x){.align-right}The Medusa variant was first witnessed on December 14, 3303 while attacking three stations. The Medusa is a greatly enhanced version of the Basiliks with much higher overall damage output and an extra heart. However the Medusa once again moves at the same speed as a Cyclops.
@@ -56,14 +56,14 @@ Not only is the Medusa a more vibrant red and black color, it also sports an arr
 
 __*Beta Changes*__ During the Janurary 2020 beta tests the Medusa variant appeared to have its normal spikes replaces with a much smaller more simple spike. We are currently unaware if this will make it into the Live game.
 
-**Hearts**: 6 **Max Speed**: 450 m/s **Payout**: 40,000,000 Cr
+**Hearts**: 6 **Max Speed**: 450 m/s **Payout**: 34,000,000 Cr
 
 ## **Hydra**
 !\[hydra-small.png\](/img/hydra-small.png =250x){.align-right}On August 23, 3304 the Hydra variant interceptor was first encountered. The Hydra variant is a significant step-up in power and toughness to the Medusa with an extra two hearts and overall higher armour toughness. The Hydra also exhibits a faster reload time which means it has a much more aggressive damage profile. The Hydra variant is currently the toughest Thargoid present and is a huge challenge to even the most experienced AX pilots.
 
 The Hydra variant exhibits bright green colors and a multitude of changes in its shape and form. The Hydra has another set of petals that sit behind the primary petals which actively obscure a pilot's view of the hearts. The Hearts themselves are also different with spine appendages running along the counter-clockwise side of each petal. Furthermore the Hydra variant exhibits a different canopy layout with a cage covering the main canopy.
 
-**Hearts**: 8 **Max Speed**: 450 m/s **Payout**: 60,000,000 Cr
+**Hearts**: 8 **Max Speed**: 450 m/s **Payout**: 50,000,000 Cr
 
 ## **Orthrus**
 
@@ -85,4 +85,4 @@ Frontier Developments Developer “KSE” has confirmed “the Orthrus was never
 
 With the arrival of the Maelstroms, the Orthrus has once again appeared, this time intentionally. It still exhibits its original behavior. It has no hearts, and instead employs a caustic EMP and an initial shield.
 
-**Hearts**: 0 **Max Speed**: 115 m/s **Payout**: 30,000,000 Cr
+**Hearts**: 0 **Max Speed**: 115 m/s **Payout**: 25,000,000 Cr
