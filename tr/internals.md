@@ -2,7 +2,7 @@
 title: Optional Internals
 description: AX'da kullanılan modüllere kısa bir giriş
 published: true
-date: 2023-01-10T15:46:05.206Z
+date: 2023-03-04T21:49:23.395Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -65,10 +65,13 @@ Arındırma Limpet Kontrolcüsü; kargonuzdaki bir Limpet'i kullanarak, geminize
 
 Caustic etkiler farklı şiddete olabilir. Mesela bir Scout füzesinin caustic etkisi, ölmüş bir Interceptor'ün çevreye saçtığı caustic buluttan çok daha zayıftır. Dolayısıyla, çok şiddetli bir caustic kirlenmeye maruz kaldığınızda birden fazla Limpet kullanmanız gerekebilir.
 
+## Experimental Weapons Stabilizer
+This module comes in two classes, class 3 and class 5, increasing the experimental weapon limit by 1 and 2 respectively. This module is very useful for ships using human AX weaponry. It is not very useful for ships using guardian tech, as the added weapons cannot be sustained by the power distributor in most cases.
+
 # Utility Modülleri
 
-## Xeno Scanner
-Xeno Scanner, Thargoid gemileri hakkında başka yollarla elde edemeyeceğiniz veriler sunar. Tarama seviyesine göre farklı bilgiler alırsınız.
+## (Enhanced) Xeno Scanner
+The Xeno Scanner allows you to identify details of Xeno Vessel that would not be possible without. Depending on the level of scan, this will give you access to more/less info. The enhanced variant is recommended, as it comes with 2km scan range over the meager 500m of the old scanner.
 
 #### Temel Tarama
 
@@ -81,7 +84,7 @@ Xeno Scanner, Thargoid gemileri hakkında başka yollarla elde edemeyeceğiniz v
 - Yukarıdakilerin tümü
 - Alt-hedefleme ve alt-hedef durumu (sub-target) - Kalp sağlığı yüzdesi
 
-Wing üyelerinden yalnızca birinin modüle sahip olması ve tarama yapması, tüm üyelerin bu bilgiye sahip olması için yeterlidir.
+In a wing, only one person requires a scanner, your ship will share the data with your wing once the scan is complete.
 
 ![xenoscan.png](/img/xenoscan.png)
 
@@ -92,15 +95,18 @@ Wing üyelerinden yalnızca birinin modüle sahip olması ve tarama yapması, t�
 4. Tür İsmi
 
 ## Shutdown Field Neutralizer
-Shutdown Field Neutralizer (SFN) modülü, Interceptorlerin "Shutdown Field" (EMP) yeteneğinden korunmanızı sağlar.
+A Shutdown field neutralizer (SFN) allows you to negate the Shutdown Field (EMP) mechanic in Thargoid fights.
 
 #### Nasıl çalışır
 
-The SFN can be bound to a firegroup or to a hotkey, same as heatsinks. Etkinleştirildiğinde, SYS kapasitörünü hızla tüketecektir. SFN yalnız tetiğiniz basılı olduğu sürece etkin kalarak sizi EMP dalgasından korur. Dalga size isabet ettiğinde tetiğiniz basılı ve SFN aktif durumda olmalıdır.
+The SFN can be bound to a firegroup or to a hotkey, same as heatsinks. When activated it will rapidly drain the SYS capacitor. The SFN will only stay active while the button is held down and will only prevent an EMP effect if the wave hits you while the SFN is active.
 
-SFN ayrıca 3 km yarıçapında menzile sahip olup bu hacim içerisindeki tüm gemileri korur.
+The SFN will also prevent the Shutdown Field from disabling anyone else within 3km of the ship using it.
 
 Generally, when you hear a shutdown pulse warning, dump pips to SYS, count to three, and then activate the neutralizer. Keep it activated until the wave fully dissapears.
 
 ## Heatsink Launcher
 If your AX build doesn't have these, something is very wrong. Heatsinks are the only viable way of venting the extreme heat created by Guardian weaponry. They can either be bound to a firegroup or a dedicated hotkey. They require a small amount of SYS capacitor to use and provide 2 MW of WEP capacitor regeneration for their 10-second duration, in addition to providing rapid cooling. Heatsinks allow cold orbiting, which causes the Thargoid to miss most or all of its shots. For more information, see Cold Orbiting.
+
+## Caustic Sink Launcher
+Highly recommended when fighting in AXCZs, as caustic clouds, scout swarms, and various interceptors make getting hit by caustics a fairly regular event. These sinks will quickly remove caustic from your ship automatically, only needing to be ejected when they are full. They are not recommended for solo fights, as caustic missiles can be avoided using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95).
