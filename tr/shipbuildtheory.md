@@ -2,7 +2,7 @@
 title: Gemi Donatım Teorisi
 description: Genel AX donatım teorisine yönelik kapsamlı rehber
 published: true
-date: 2022-12-21T07:12:18.694Z
+date: 2023-03-04T21:45:04.367Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -119,10 +119,13 @@ Burası gemiler arasındaki ana farkların oluşmaya başladığı yerdir ve kum
 # Utility Slots
 
 ## Heatsink Launcher
-Soğuk Yörünge gemileri için Gauss kaynaklı sıcaklıktan kurtulmak için temel ihtiyaçtır. Bi-Weave Hibritleri ve Soğuk Yörüngeciler'in, tamamı olmasa da çoğu slotuna bunlar yüklenecektir. Ammo Capacity mühendisliğiyle yükseltmek fazladan bir adet heatsink daha taşımalarını sağlar (sentezlediğinizde de bu fazladan heatsinke sahip olursunuz).
+Soğuk Yörünge gemileri için Gauss kaynaklı sıcaklıktan kurtulmak için temel ihtiyaçtır. Bi-Weave Hibritleri ve Soğuk Yörüngeciler'in, tamamı olmasa da çoğu slotuna bunlar yüklenecektir. Ammo Capacity mühendisliğiyle yükseltmek fazladan bir adet heatsink daha taşımalarını sağlar (sentezlediğinizde de bu fazladan heatsinke sahip olursunuz). There is also a pre-engienered variant, called "Sirius sinks," which come with two extra heatsinks per launcher.
+
+## Caustic Sink Launchers
+These are highly recommended for AXCZs, and not recommended for solo fights. This is because, using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95), caustic can be easily avoided in solo fights, and the loss of a heatsink is not worth the niche use.
 
 ## Shield Boosters
-Soğuk Yörüngeciler'de bariz olarak kullanışsızlar, Bi-Weave Hibritler genelde 1-2 adet taşırken büyük Kalkan Tankları 6-7 adede kadar kullanır. Heavy Duty ve Super Capacitors mühendislikleriyle yükselterek en yüksek saf MJ değerlerini elde edin.
+Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
 
-## Diğer Modüller
-Xeno Scanner ve Shutdown Field Neutralizer hakkında bilgi için [Optional Internals](/en/internals) sayfasına göz atın. Bu iki modül bazı özel durumlar dışında önerilmezler ve bunlar yerine fazladan heatsink ya da shield booster almanız daha iyi olacaktır.
+## Other Modules
+For information on Xeno Scanners and Shutdown Field Neutralizers, see the [Core and Optional Internals](/en/internals) page. These two utilities are not recommended except in specific situations, as the slot is better fit with a heatsink or shield booster.
