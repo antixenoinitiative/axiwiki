@@ -2,7 +2,7 @@
 title: Optional Internals
 description: A short introduction to the use of various modules in AX.
 published: true
-date: 2023-03-04T21:47:40.278Z
+date: 2023-03-04T21:49:23.395Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -64,6 +64,10 @@ The repair limpet controller allows you to deploy a limpet from your cargo hold 
 The decontamination limpet controller allows you to deploy a limpet from your cargo hold that will scrub your ship clean of caustic stacks. The controller requires a cargo rack with at least 1x Limpet. The Limpet can also be sent to another player’s ship if it is within range. Decontamination limpets take a few seconds to remove caustic and also will repair your ship slightly in the process.
 
 Caustic Effects can come in different levels of intensity, For example the caustic effect from a Scout Missile is far weaker than that of flying through a Caustic Cloud from a dead interceptor. This may mean you will require more than 1 limpet to remove the effect from a more intense source.
+
+## Experimental Weapons Stabilizer
+This module comes in two classes, class 3 and class 5, increasing the experimental weapon limit by 1 and 2 respectively.
+This module is very useful for ships using human AX weaponry. It is not very useful for ships using guardian tech, as the added weapons cannot be sustained by the power distributor in most cases.
 
 # Utility Modules
 
