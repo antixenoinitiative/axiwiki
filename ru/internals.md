@@ -2,7 +2,7 @@
 title: Дополнительное оборудование
 description: Краткое введение по использованию различных модулей в AX.
 published: опубликовано
-date: 2023-01-10T15:46:05.206Z
+date: 2023-03-04T21:49:23.395Z
 tags: снаряжение, модули
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -65,10 +65,13 @@ GSRP лучше всего работают с двухпоточными щит
 
 Например, едкий эффект от ракеты разведчика гораздо слабее, чем от облака едкого вещества уничтоженного перехватчика. Это может означать, что для снятия эффекта от более интенсивного источника вам потребуется более 1 дрона.
 
+## Experimental Weapons Stabilizer
+This module comes in two classes, class 3 and class 5, increasing the experimental weapon limit by 1 and 2 respectively. This module is very useful for ships using human AX weaponry. It is not very useful for ships using guardian tech, as the added weapons cannot be sustained by the power distributor in most cases.
+
 # Внешнее оборудование
 
-## Ксено-сканер
-Ксено-сканер позволяет идентифицировать подробности корабля таргоидов, без которого это было бы невозможно. В зависимости от уровня сканирования, это даст вам доступ к большему/меньшему количеству информации.
+## (Enhanced) Xeno Scanner
+The Xeno Scanner allows you to identify details of Xeno Vessel that would not be possible without. Depending on the level of scan, this will give you access to more/less info. The enhanced variant is recommended, as it comes with 2km scan range over the meager 500m of the old scanner.
 
 #### Основное сканирование
 
@@ -81,7 +84,7 @@ GSRP лучше всего работают с двухпоточными щит
 - Всё вышеперечисленное
 - Дополнительные цели и их состояние (Целостность сердца, % )
 
-При работе в крыле сканер необходим только одному члену крыла, после завершения сканирования ваш корабль поделится данными с крылом.
+In a wing, only one person requires a scanner, your ship will share the data with your wing once the scan is complete.
 
 ![xenoscan.png](/img/xenoscan.png)
 
@@ -91,16 +94,19 @@ GSRP лучше всего работают с двухпоточными щит
 3. Здоровье дополнительной цели
 4. Наименование типа
 
-## Нейтрализатор отключающего поля
-Нейтрализатор отключающего поля (SFN) позволяет свести на нет действие механики поля отключения (ЭМИ) в боях с таргоидами.
+## Shutdown Field Neutralizer
+A Shutdown field neutralizer (SFN) allows you to negate the Shutdown Field (EMP) mechanic in Thargoid fights.
 
 #### Как это работает
 
-The SFN can be bound to a firegroup or to a hotkey, same as heatsinks. При активации он быстро разряжает конденсатор СИС. SFN будет оставаться активным, пока клавиша удерживается зажатой, и предотвратит эффект ЭМИ только в том случае, если волна ударит по вашему кораблю, когда SFN будет активен.
+The SFN can be bound to a firegroup or to a hotkey, same as heatsinks. When activated it will rapidly drain the SYS capacitor. The SFN will only stay active while the button is held down and will only prevent an EMP effect if the wave hits you while the SFN is active.
 
-SFN также не позволит отключающему полю отключить кого-либо еще в радиусе 3 км от использующего его корабля.
+The SFN will also prevent the Shutdown Field from disabling anyone else within 3km of the ship using it.
 
 Generally, when you hear a shutdown pulse warning, dump pips to SYS, count to three, and then activate the neutralizer. Keep it activated until the wave fully dissapears.
 
-## Теплоотводная катапульта
+## Heatsink Launcher
 If your AX build doesn't have these, something is very wrong. Heatsinks are the only viable way of venting the extreme heat created by Guardian weaponry. They can either be bound to a firegroup or a dedicated hotkey. They require a small amount of SYS capacitor to use and provide 2 MW of WEP capacitor regeneration for their 10-second duration, in addition to providing rapid cooling. Heatsinks allow cold orbiting, which causes the Thargoid to miss most or all of its shots. For more information, see Cold Orbiting.
+
+## Caustic Sink Launcher
+Highly recommended when fighting in AXCZs, as caustic clouds, scout swarms, and various interceptors make getting hit by caustics a fairly regular event. These sinks will quickly remove caustic from your ship automatically, only needing to be ejected when they are full. They are not recommended for solo fights, as caustic missiles can be avoided using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95).
