@@ -2,7 +2,7 @@
 title: Schiffs Build Theorie
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2022-12-21T07:12:18.694Z
+date: 2023-03-04T21:45:04.367Z
 tags: Builds, Theorie, Engineering, Ausrüstung
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -119,10 +119,13 @@ Beim optionalen internen Loadout liegt der Hauptunterschied zwischen verschieden
 # Werkzeug-Steckplätze
 
 ## Kühlkörperwerfer
-Essential for Cold Oribing vessels to dissipate the heat generation of gauss cannons. Most if not all utility slots will be filled with these on Cold Orbiter and Bi-weave hybrid builds. Engineering them with the Ammo Capacity blueprint gives one extra heatsink per launcher.
+Essential for Cold Oribing vessels to dissipate the heat generation of gauss cannons. Most if not all utility slots will be filled with these on Cold Orbiter and Bi-weave hybrid builds. Engineering them with the Ammo Capacity blueprint gives one extra heatsink per launcher. There is also a pre-engienered variant, called "Sirius sinks," which come with two extra heatsinks per launcher.
 
-## Schild-Booster
-Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Die Modifikation Schwerer Schildbooster mit dem Experiment Superkondensatoren geben den größten absoluten MJ Bonus.
+## Caustic Sink Launchers
+These are highly recommended for AXCZs, and not recommended for solo fights. This is because, using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95), caustic can be easily avoided in solo fights, and the loss of a heatsink is not worth the niche use.
 
-## Weitere Module
-For information on Xeno Scanners and Shutdown Field Neutralizers, see the [Core and Optional Internals](/en/internals) page. Diese beiden Werkzeuge sind, außer in bestimmten Umständen nicht empfohlen, weil der Platz besser für Kühlkörper oder Schildbooster aufgehoben ist.
+## Shield Boosters
+Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
+
+## Other Modules
+For information on Xeno Scanners and Shutdown Field Neutralizers, see the [Core and Optional Internals](/en/internals) page. These two utilities are not recommended except in specific situations, as the slot is better fit with a heatsink or shield booster.
