@@ -2,7 +2,7 @@
 title: Optionale Einbauteile
 description: Eine kurze Einführung in die Verwendung der verschiedenen Module in AX.
 published: ja
-date: 2023-01-10T15:46:05.206Z
+date: 2023-03-04T21:49:23.395Z
 tags: Ausrüstung, Module
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -65,10 +65,13 @@ Die Dekontaminationsdrohnen Fernsteuerung erlaubt es dir eine Drohne aus deinem 
 
 Kaustische Effekte können in unterschiedlicher Intensitäten eintreten. Zum Beispiel ist der kaustische Effekt von einer Rakete eines Scouts viel schwächer als der, von der Wolke eines toten Interceptors. Das bedeutet, dass du vieleicht mehr als eine Drohne zum Entfernen eines stärkeren Effekts brauchst.
 
+## Experimental Weapons Stabilizer
+This module comes in two classes, class 3 and class 5, increasing the experimental weapon limit by 1 and 2 respectively. This module is very useful for ships using human AX weaponry. It is not very useful for ships using guardian tech, as the added weapons cannot be sustained by the power distributor in most cases.
+
 # Werkzeug Module
 
-## Xeno-Scanner
-Der Xeno Scanner erlaubt er die die Details eines Xeno-Schiffs zu sehen, was sonst nicht möglich wäre. Abhängig vom Scan-Level erhält man dadurch Zugriff auf mehr oder weniger Informationen.
+## (Enhanced) Xeno Scanner
+The Xeno Scanner allows you to identify details of Xeno Vessel that would not be possible without. Depending on the level of scan, this will give you access to more/less info. The enhanced variant is recommended, as it comes with 2km scan range over the meager 500m of the old scanner.
 
 #### Einfacher Scan
 
@@ -81,7 +84,7 @@ Der Xeno Scanner erlaubt er die die Details eines Xeno-Schiffs zu sehen, was son
 - Alles obrige
 - Sub-Ziele auswählen und Status der Sub-Ziele (Herz Integrität %)
 
-In einem Wing braucht nur eine Person einen Scanner, da dein Schiff den Scan mit deinem Wing teilt, sobalde der Scan fertig ist.
+In a wing, only one person requires a scanner, your ship will share the data with your wing once the scan is complete.
 
 ![xenoscan.png](/img/xenoscan.png)
 
@@ -91,16 +94,19 @@ In einem Wing braucht nur eine Person einen Scanner, da dein Schiff den Scan mit
 3. Gesundheit der Sub-Ziele
 4. Name der Variante
 
-## Abschaltfeld-Neutralisator
-Ein Abschaltfeld-Neutarlisator (SFN) erlaubt es dir die Mechanik des Abschaltfelds (EMP) zu annulieren.
+## Shutdown Field Neutralizer
+A Shutdown field neutralizer (SFN) allows you to negate the Shutdown Field (EMP) mechanic in Thargoid fights.
 
 #### Wie es funktioniert
 
-The SFN can be bound to a firegroup or to a hotkey, same as heatsinks. Bei Aktivierung wird es den SYS-Kondensator schnell leeren. Der SFN wird nur aktiv sein, solange der Kopf gedrückt bleibt und wird den EMP nur verhindern, wenn die Welle dich trifft, während der SFN aktiv ist.
+The SFN can be bound to a firegroup or to a hotkey, same as heatsinks. When activated it will rapidly drain the SYS capacitor. The SFN will only stay active while the button is held down and will only prevent an EMP effect if the wave hits you while the SFN is active.
 
-Der SFN verhindert auch, dass jemand in einem 3km Umkreis deines Schiffs heruntergefahren wird.
+The SFN will also prevent the Shutdown Field from disabling anyone else within 3km of the ship using it.
 
 Generally, when you hear a shutdown pulse warning, dump pips to SYS, count to three, and then activate the neutralizer. Keep it activated until the wave fully dissapears.
 
-## Kühlkörperwerfer
+## Heatsink Launcher
 If your AX build doesn't have these, something is very wrong. Heatsinks are the only viable way of venting the extreme heat created by Guardian weaponry. They can either be bound to a firegroup or a dedicated hotkey. They require a small amount of SYS capacitor to use and provide 2 MW of WEP capacitor regeneration for their 10-second duration, in addition to providing rapid cooling. Heatsinks allow cold orbiting, which causes the Thargoid to miss most or all of its shots. For more information, see Cold Orbiting.
+
+## Caustic Sink Launcher
+Highly recommended when fighting in AXCZs, as caustic clouds, scout swarms, and various interceptors make getting hit by caustics a fairly regular event. These sinks will quickly remove caustic from your ship automatically, only needing to be ejected when they are full. They are not recommended for solo fights, as caustic missiles can be avoided using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95).
