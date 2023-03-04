@@ -2,7 +2,7 @@
 title: Теория сборки AX-корабля
 description: Подробное руководство по общей теории сборки АХ-кораблей
 published: опубликовано
-date: 2022-12-21T07:12:18.694Z
+date: 2023-03-04T21:45:04.367Z
 tags: сборка, теория, инженерные модификации, снаряжение
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -119,10 +119,13 @@ dateCreated: 2021-06-10T01:08:57.783Z
 # Внешнее оборудование
 
 ## Теплоотводная катапульта
-Необходимы кораблям, использующих тактику «Холодная орбита» для рассеивания тепла, выделяемого пушками Гаусса. Большинство, если не все слоты внешнего оборудования будут заполнены ими на кораблях сборок для «Холодной орбиты» и гибридных сборок с двухпоточным щитом. Применяемая для них модификация «Вместимость припасов теплоотвода» даёт один дополнительный теплоотвод на пусковую установку.
+Необходимы кораблям, использующих тактику «Холодная орбита» для рассеивания тепла, выделяемого пушками Гаусса. Большинство, если не все слоты внешнего оборудования будут заполнены ими на кораблях сборок для «Холодной орбиты» и гибридных сборок с двухпоточным щитом. Применяемая для них модификация «Вместимость припасов теплоотвода» даёт один дополнительный теплоотвод на пусковую установку. There is also a pre-engienered variant, called "Sirius sinks," which come with two extra heatsinks per launcher.
 
-## Усилитель щита
-Очевидно, что бесполезен для сборок «Холодная орбита» и гибридных сборках с двухпоточным щитом, для которых обычно используют 1—2, а для сборок с большими щитами — 6—7. Модификация у инженеров при помощи чертежей «Надёжный усилитель щита» и экспериментальным эффектом "Суперконденсаторы"обеспечивает наибольший прирост мощности в МДж.
+## Caustic Sink Launchers
+These are highly recommended for AXCZs, and not recommended for solo fights. This is because, using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95), caustic can be easily avoided in solo fights, and the loss of a heatsink is not worth the niche use.
 
-## Другие модули
-Информацию о Ксено-сканерах и нейтрализаторах отключающего поля см. на странице [Основное и дополнительное внутреннее оборудование](/en/internals). Не рекомендуется устанавливать эти два модуля, за исключением особых случаев, поскольку в эти слоты лучше установить теплоотводную катапульту или усилитель щита.
+## Shield Boosters
+Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
+
+## Other Modules
+For information on Xeno Scanners and Shutdown Field Neutralizers, see the [Core and Optional Internals](/en/internals) page. These two utilities are not recommended except in specific situations, as the slot is better fit with a heatsink or shield booster.
