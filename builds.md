@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2023-02-16T06:29:36.370Z
+date: 2023-03-04T21:38:20.581Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -50,11 +50,14 @@ Type: **Cold Orbiter**
 
 Recommendation: Unarguably the best ship and build style for AX combat.
 
-[EDSY Meta Shieldless Build](https://edsy.org/s/vwJ9Lqq)
+[Meta Build (EDSY)](https://edsy.org/s/vwJ9Lqq)
 
-[Coriolis Meta Shieldless Build](https://s.orbis.zone/eu9w)
+[Meta Build (Coriolis)](https://s.orbis.zone/eu9w)
 
-AX Chieftain Review Video: [https://www.youtube.com/watch?v=ipyvolMlX4E](https://www.youtube.com/watch?v=ipyvolMlX4E)
+The following build contains modifications intended to make the ship better for Anti-Xeno Combat Zones.
+[AXCZ Meta Build (EDSY)](https://edsy.org/s/vFEvXgv)
+
+AX Chieftain Build Video: [https://www.youtube.com/watch?v=rP6-xP3vCkI](https://www.youtube.com/watch?v=rP6-xP3vCkI)
 ### Krait Mk.II (Shieldless)
 
 #### **Krait Mk.II (Shieldless)**
