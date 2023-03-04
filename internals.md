@@ -2,7 +2,7 @@
 title: Optional Internals
 description: A short introduction to the use of various modules in AX.
 published: true
-date: 2023-01-10T15:46:05.206Z
+date: 2023-03-04T21:47:40.278Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -67,8 +67,8 @@ Caustic Effects can come in different levels of intensity, For example the caust
 
 # Utility Modules
 
-## Xeno Scanner
-The Xeno Scanner allows you to identify details of Xeno Vessel that would not be possible without. Depending on the level of scan, this will give you access to more/less info.
+## (Enhanced) Xeno Scanner
+The Xeno Scanner allows you to identify details of Xeno Vessel that would not be possible without. Depending on the level of scan, this will give you access to more/less info. The enhanced variant is recommended, as it comes with 2km scan range over the meager 500m of the old scanner.
 
 #### Basic Scan
 
@@ -104,3 +104,7 @@ Generally, when you hear a shutdown pulse warning, dump pips to SYS, count to th
 
 ## Heatsink Launcher
 If your AX build doesn't have these, something is very wrong. Heatsinks are the only viable way of venting the extreme heat created by Guardian weaponry. They can either be bound to a firegroup or a dedicated hotkey. They require a small amount of SYS capacitor to use and provide 2 MW of WEP capacitor regeneration for their 10-second duration, in addition to providing rapid cooling. Heatsinks allow cold orbiting, which causes the Thargoid to miss most or all of its shots. For more information, see Cold Orbiting.
+
+## Caustic Sink Launcher
+Highly recommended when fighting in AXCZs, as caustic clouds, scout swarms, and various interceptors make getting hit by caustics a fairly regular event. These sinks will quickly remove caustic from your ship automatically, only needing to be ejected when they are full.
+They are not recommended for solo fights, as caustic missiles can be avoided using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95).
