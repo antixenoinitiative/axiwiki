@@ -2,7 +2,7 @@
 title: Construcciones Recomendadas
 description: Recommended Anti-Xeno Ship Builds
 published: verdadero
-date: 2023-03-05T19:57:49.305Z
+date: 2023-03-05T20:04:13.213Z
 tags: construcciones
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -72,6 +72,8 @@ Type: **Cold Orbiter**
 - Firepower: ⭐⭐⭐⭐⭐
 
 Recommendation: Great for modified shard cannons and plasma chargers.
+
+Engineering Note: When downsizing the powerplant for extra weight reduction, power limits will require more engineering to keep everything running. Check EDSY for minimum engineering based on your specific build.
 
 [EDSY Shieldless Build](https://edsy.org/s/vibIYZZ)
 
