@@ -2,7 +2,7 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2022-12-15T20:15:10.969Z
+date: 2023-03-11T21:14:12.007Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
@@ -20,6 +20,8 @@ You can view current Maelstrom systems in the AXI tracking site: [Thargoid Watch
 
 The Thargoid Maelstrom is a large cloud-like area, these appear similar to Lagrange clouds. Travelling inside the cloud will incur significant caustic damage and it is ill advised to travel within the cloud without preparations. The cloud is an area of swarming lightning storms and various Thargoid-related anomalies. Caustic Generators can be seen floating in the cloud and are most likely the source of the caustic damage area.
 
+Outer radius: 115km (Sensor interference begins) Intermediate radius: 79km (Caustic and tidal effects begin -and get progressively worse the further in one goes-; caustic generators and free-floating Caustic Shards and Caustic Crystals are present) Repulsion field radius: 55km (Trigger repulsion field at this range) Inner cloud radius: Uknown, presumed to be 45km or fewer
+
 ![elite-dangerous-thargoid-invasion-update-14.jpg](/elite-dangerous-thargoid-invasion-update-14.jpg)
 
 The center of the Maelstrom is a large red-ish cloud, approaching the center will cause a large EMP-like pulse to emit from the Center which will eject any ships at a high velocity, shutting them down and damaging them in the process.
@@ -35,6 +37,8 @@ These generators are also heat based Mines, these mines when detecting heat slow
 These Caustic generators are checked on by Thargoid Interceptors flying about within the Maelstrom, these Interceptors are typically passive however become hostile within a certain range, this is still being researched and may not be completely accurate.
 
 Destroying a Caustic Generator will cause it to drop various materials which can be collected. These materials appeared to be used in caustic sink synthesis, although the synthesis was quietly patched out of game.
+
+Individual caustic sinks last 43 seconds in minimal caustic (just inside the perimeter) and 27 seconds 20km deep inside perimeter. Ammo-capacity engineer Caustic Sinks Launchers thus provide approximately 4-6 minutes of protection each, not including ammo synthesis (which is possible, but expensive in terms of materials.)
 
 ## System Wide Impact
 
