@@ -2,7 +2,7 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2023-03-12T03:57:36.697Z
+date: 2023-03-12T03:58:17.911Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
@@ -15,6 +15,7 @@ The Thargoid Maelstrom is a new type of instance that appeared alongside the Tha
 You can view current Maelstrom systems in the AXI tracking site: [Thargoid Watch](https://www.antixenoinitiative.com/watch)
 
 ## Maelstrom Cloud
+
 The Thargoid Maelstrom is a large cloud-like area, these appear similar to Lagrange clouds. Travelling inside the cloud will incur significant caustic damage and it is ill advised to travel within the cloud without preparations. The cloud is an area of swarming lightning storms and various Thargoid-related anomalies. Caustic Generators can be seen floating in the cloud and are most likely the source of the caustic damage area.
 
 Outer radius: 115km (Sensor interference begins)
