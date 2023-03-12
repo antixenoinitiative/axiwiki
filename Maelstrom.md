@@ -2,7 +2,7 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2023-03-12T03:58:17.911Z
+date: 2023-03-12T03:58:37.059Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
@@ -67,7 +67,7 @@ Guardian weapons, Guardian Module Reinforcement, and Guardian Shield Reinforceme
 The Guardian Power Plant and Guardian Power Distributor decay at a rate of 1% every 10 seconds, but do not decay lower than 19%.  
 The Guardian Hull Reinforcement is immune, because it does not have integrity of its own.
 
-## Maelstrom systems
+## Maelstrom Systems
 
 The current systems having Maelstrom cloud and all of its effects are:  
 **Taranis: Hyades Sector FB-N b7-6, body A 1**  
