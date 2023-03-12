@@ -2,7 +2,7 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2023-03-12T03:54:59.978Z
+date: 2023-03-12T03:57:36.697Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
@@ -40,6 +40,7 @@ These Caustic generators are checked on by Thargoid Interceptors flying about wi
 
 Destroying a Caustic Generator will cause it to drop various materials which can be collected. These materials appeared to be used in caustic sink synthesis, although the synthesis was quietly patched out of game.
 
+**Corrosive Mechanisms**
 ![corrosive_mechannism_2.png](/img/corrosive_mechannism_2.png)
 
 Individual caustic sinks last 43 seconds in minimal caustic (just inside the perimeter) and 27 seconds 20km deep inside perimeter. Ammo-capacity engineered Caustic Sinks Launchers thus provide approximately 4-6 minutes of protection each, not including ammo synthesis (which is possible, but expensive in terms of materials.)
