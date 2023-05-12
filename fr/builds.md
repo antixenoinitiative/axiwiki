@@ -2,7 +2,7 @@
 title: Équipements Recommandés
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2023-03-05T20:04:13.213Z
+date: 2023-05-12T13:57:58.825Z
 tags: équipement
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -212,7 +212,7 @@ And you’re good to go!
 
 ### Anaconda
 
-[**Anaconda EDSY Build**](https://edsy.org/s/vp7aLin)
+[**Anaconda EDSY Build**](https://edsy.org/s/vy3MVEQ)
 - Can fit all 4x Large and 2x Medium AX Multi-Cannons
 - Can be fitted with large shields and boosters for worry-free farming
 - Overkill in nearly all cases
