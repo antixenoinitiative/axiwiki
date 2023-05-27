@@ -2,7 +2,7 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2023-05-25T15:41:07.317Z
+date: 2023-05-27T22:19:54.025Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -183,7 +183,7 @@ The Krait Mk.II is a tried and true favorite of maelstrom divers, as it offers s
 - Max Speed: 385 / 530 boost
 - Hull: 3,050
 
-[EDSY Build](https://edsy.org/s/vKhEdCd)
+[EDSY Build](https://edsy.org/s/vKhEdCd) [Build Video](https://www.youtube.com/watch?v=DaOp39Oksqc) by CMDR Mechan
 
 ### Anaconda
 Offering unrivaled firepower and staying power, the Anaconda is only lacking in maneuverability.
