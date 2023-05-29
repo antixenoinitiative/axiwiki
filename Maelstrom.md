@@ -2,7 +2,7 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2023-03-12T03:58:37.059Z
+date: 2023-05-29T06:27:41.133Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
@@ -21,7 +21,7 @@ The Thargoid Maelstrom is a large cloud-like area, these appear similar to Lagra
 Outer radius: 115km (Sensor interference begins)
 Intermediate radius: 79km (Caustic and tidal effects begin -and get progressively worse the further in one goes-; caustic generators and free-floating Caustic Shards and Caustic Crystals are present)
 Repulsion field radius: 55km (Trigger repulsion field at this range)
-Inner cloud radius: Unknown, presumed to be 45km or fewer
+Inner cloud radius: 30km ('Eye of the Storm', safe from repulsion field, caustic and tidal effects)
 
 ![elite-dangerous-thargoid-invasion-update-14.jpg](/elite-dangerous-thargoid-invasion-update-14.jpg)
 
@@ -39,7 +39,7 @@ These generators are also heat based Mines, these mines when detecting heat slow
 
 These Caustic generators are checked on by Thargoid Interceptors flying about within the Maelstrom, these Interceptors are typically passive however become hostile within a certain range, this is still being researched and may not be completely accurate.
 
-Destroying a Caustic Generator will cause it to drop various materials which can be collected. These materials appeared to be used in caustic sink synthesis, although the synthesis was quietly patched out of game.
+Destroying a Caustic Generator will cause it to drop various materials which can be collected. These materials are used for Caustic Sink synthesis, along with unlocking the Caustic Sink Launcher itself.
 
 **Corrosive Mechanisms**
 ![corrosive_mechannism_2.png](/img/corrosive_mechannism_2.png)
@@ -77,4 +77,4 @@ The current systems having Maelstrom cloud and all of its effects are:
 **Cocijo: Col 285 Sector BA-P c6-18, body 3**
 **Thor: Col 285 Sector IG-O c6-5, body 3**
 **Raijin: Pegasi Sector IH-U b3-3, body 2**
-**Hadad: HIP 30377, body 8**
+**Hadad: HIP 30377, body B 8**
