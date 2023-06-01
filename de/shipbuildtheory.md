@@ -2,7 +2,7 @@
 title: Schiffs Build Theorie
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2023-03-04T21:45:04.367Z
+date: 2023-06-01T20:20:48.004Z
 tags: Builds, Theorie, Engineering, Ausrüstung
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -119,13 +119,20 @@ Beim optionalen internen Loadout liegt der Hauptunterschied zwischen verschieden
 # Werkzeug-Steckplätze
 
 ## Kühlkörperwerfer
-Essential for Cold Oribing vessels to dissipate the heat generation of gauss cannons. Most if not all utility slots will be filled with these on Cold Orbiter and Bi-weave hybrid builds. Engineering them with the Ammo Capacity blueprint gives one extra heatsink per launcher. There is also a pre-engienered variant, called "Sirius sinks," which come with two extra heatsinks per launcher.
+Essential for Cold Oribing vessels to dissipate the heat generation of their weapons. Most if not all utility slots will be filled with these on Cold Orbiter and Bi-weave hybrid builds. Engineering them with the Ammo Capacity blueprint gives one extra heatsink per launcher. There is also a pre-engienered variant, called "Sirius sinks," which come with two extra heatsinks per launcher.
 
 ## Caustic Sink Launchers
-These are highly recommended for AXCZs, and not recommended for solo fights. This is because, using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95), caustic can be easily avoided in solo fights, and the loss of a heatsink is not worth the niche use.
+These are highly recommended for AXCZs and Maelstroms, and not recommended for solo interceptor combat. This is because, using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95), caustic can be easily avoided in solo fights, and the loss of a heatsink is not worth the niche use.
 
 ## Shield Boosters
 Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
 
+## Xeno Scanners
+Xeno Scanners currently come in three variants: the Xeno Scanner, Enhanced Xeno Scanner, and Pulse Wave Xeno Scanner. The Enhanced version is recommended for use in most cases, as it is a direct successor to the regular variant. The Pulse Wave Xeno Scanner, also known as the thargoid pulse scanner or TPS, is specifically designed to scan Thargoid Titians, and is recommended only for use in Titan dives. While not recommended for use alongside guardian weaponry, bringing a scanner is virtually required with the use of Enhanced AXMCs.
+
+
+## Shutdown Field Neutralizers
+There are two variants of neutralizers: the Shutdown Field Neutralizer (SFN) and the Thargoid Pulse Neutralizer (TPN). The SFN protects you and any other ships within 3km from standard Interceptor shutdown pulses. The TPN protects only your ship from Interceptor pulses, but also allows passage through the much more intense Titan shutdown wave.
+
 ## Other Modules
-For information on Xeno Scanners and Shutdown Field Neutralizers, see the [Core and Optional Internals](/en/internals) page. These two utilities are not recommended except in specific situations, as the slot is better fit with a heatsink or shield booster.
+For more information on Xeno Scanners and Shutdown Field Neutralizers, see the [Core and Optional Internals](/en/internals) page.
