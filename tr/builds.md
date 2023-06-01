@@ -2,32 +2,34 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2023-06-01T19:53:38.910Z
+date: 2023-06-01T20:13:24.486Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
 ---
 
 # Önerilen Gemiler
-Thargoidlerin kendilerine has dirençleri ve hasar verme biçimleri alışılagelmiş savaş gemisi donanımları için sorun teşkil ettiğinden Thargoid Avı özelleşmiş gemi donanımları gerektirir. Uzaylı gemilerini yok etmek için gereken en etkili gemiyi oluştururken doğru kararları verebilmeniz için bu rehberi hazırladık. Bu gemiler size dengeli bir ateş gücü ve hayatta kalma imkanı verirken aynı zamanda daha fazla hata payı sağlamak için tasarlanmıştır.
+Anti-Xeno operations require specialised ship builds as Thargoids have special resistances and deal special damage types that will typically render a standard combat build useless. As such, we have put together the following guide to help you make the correct decisions to lead you towards building the most effective ship for hunting down Thargoid vessels. These ship builds are designed to maximize firepower and survivability, allowing any commander, regardless of skill level, to achieve victory.
+
+## Gemi Donatım Biçimleri
+
+Due to the variety of Thargoid Vessels and locations in which they may be encountered, there are a variety of specialized build classes required for Anti-Xeno combat. As a rule of thumb, **a solo-capable build is always the best option.** Variantions on the solo builds below form the core of all other build classes, as more specialized technology is usually required for more hostile locations.
+
+There are two common build classes used for Anti-Xeno Combat:
+
+-   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage
+
+-   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically
 
 > Bileşenleri seçme aşamasındaki arka plan kararları hakkında daha fazla fikir sahibi olmak için [Gemi Donatım Teorisi](/en/shipbuildtheory) sayfasını ziyaret edebilirsiniz. 
 > 
 > {.is-info}
 
-## Gemi Donatım Biçimleri
+# Solo Builds
 
-İlk olarak iki ana çeşit Thargoid olduğundan bahsedelim: **Thargoid Scoutlar** ve **Thargoid Interceptorler**. Farklı mekanik ve yeteneklere sahip olduklarından, bu iki düşman karşısında farklı donanımlara ihtiyaç duyacağız. Combat in Maelstrom systems prevents the use of guardian technology, so they require specialized combat vessels packing unique armaments. These builds are outclassed for combat outside of Maelstrom systems, so building a regular interceptor build first is recommended.
+These builds are designed for **solo combat**, meaning one commander engaged with one or more interceptors. They have different requirements than Wing AXCZ or Maelstrom builds, but they form the core of all other builds.
 
-# Interceptor Gemileri
-
-Thargoid Interceptorler çok sağlam ve güçlü düşmanlardır ve baş edebilmek için eş seviyede güçlü gemilere ihtiyaç vardır. Thargoid Interceptorlerin yüksek hasar verme kabiliyetleri dolayısıyla etkili olabilecek yöntemler sınırlıdır.
-
-Aşağıda Anti-Xeno savaşlarında en yaygın kullanılan gemi donatım biçimleri verilmiştir:
-
--   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage (Moderate)
-
--   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically (Moderate/Advanced)
+Thargoid Interceptors are **very tough and powerful enemies** that will require equally strong ships to be able to stand a chance in combat. Due to the incredibly high damage output of Thargoid Interceptors, there are only a handful of different styles and methods you can use effectively.
 
 
 ## Başlangıç Seviyesi Gemiler
@@ -37,9 +39,10 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
 ## Tabset {.tabset}
 
 ### Alliance Chieftain (Shieldless)
-
+!\[alliance-chieftain.png\](/img/alliance-chieftain.png =250x){.align-right}
 #### **Alliance Chieftain (Shieldless)**
-!\[alliance-chieftain.png\](/img/alliance-chieftain.png =250x){.align-right} The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-de-Lance in PVP. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
+
+The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-de-Lance in PVP. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
 
 Type: **Cold Orbiter**
 
@@ -57,10 +60,12 @@ Recommendation: Unarguably the best ship and build style for AX combat.
 The following build contains modifications intended to make the ship better for Anti-Xeno Combat Zones. [AXCZ Meta Build (EDSY)](https://edsy.org/s/vFEvXgv)
 
 AX Chieftain Build Video: [https://www.youtube.com/watch?v=rP6-xP3vCkI](https://www.youtube.com/watch?v=rP6-xP3vCkI)
-### Krait Mk.II (Shieldless)
 
+### Krait Mk.II (Shieldless)
+!\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
 #### **Krait Mk.II (Shieldless)**
-!\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right} The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively. This is also a great platform for mounting Enhanced AXMCs for CMDRs who do not yet have access to guardian tech.
+
+The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively. This is also a great platform for mounting Enhanced AXMCs for commanders who do not yet have access to guardian tech.
 
 Type: **Cold Orbiter**
 
@@ -80,9 +85,10 @@ Engineering Note: When downsizing the powerplant for extra weight reduction, pow
 AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
 ### Imperial Cutter (Kalkanlı)
-
+!\[imperial-cutter.png\](/img/imperial-cutter.png =250x){.align-right}
 #### **Imperial Cutter (Kalkanlı)**
-!\[imperial-cutter.png\](/img/imperial-cutter.png =250x){.align-right} If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
+
+If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
 
 Type: **Shield Tank**
 
@@ -105,9 +111,9 @@ These builds are targeted at more experienced commanders, either those who have 
 ## Tabset {.tabset}
 
 ### Alliance Challenger (Shieldless)
-
-#### **Alliance Challenger (Shieldless)**
 !\[alliance-challenger.png\](/img/alliance-challenger.png =250x){.align-right}
+#### **Alliance Challenger (Shieldless)**
+
 
 The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower alternative with higher damage output against an interceptor’s shields. Depending on preference, it can also have more raw hull than a standard Chieftain build. Its three medium hardpoints with good convergence make it a better platform for running modified Shard Cannons or Plasma Chargers.
 
@@ -126,9 +132,10 @@ Recommendation: A great ship for those who find the Chieftain too responsive, or
 [Coriolis Shieldless Build](https://s.orbis.zone/fnnx)
 
 ### Federal Corvette (Shieldless)
-
+!\[federal-corvette.png\](/img/federal-corvette.png =250x){.align-right}
 #### **Federal Corvette (Shieldless)**
-!\[federal-corvette.png\](/img/federal-corvette.png =250x){.align-right} One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. When shieldless, it stays icy cold while firing on all cylinders.
+
+One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. When shieldless, it stays icy cold while firing on all cylinders.
 
 Type: **Cold Orbiter**
 
@@ -145,9 +152,10 @@ Recommendation: An outstanding large ship for those looking for such a thing. Re
 [Coriolis Build](https://s.orbis.zone/fnn_)
 
 ### Federal Corvette (Shielded)
-
+!\[federal-corvette.png\](/img/federal-corvette.png =250x){.align-right}
 #### **Federal Corvette (Shielded)**
-!\[federal-corvette.png\](/img/federal-corvette.png =250x){.align-right} One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. By utilizing prismatic or even bi-weave shields, the Corvette can slug it out with the toughest of targets. Type: **Shield Tank**
+
+One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. By utilizing prismatic or even bi-weave shields, the Corvette can slug it out with the toughest of targets. Type: **Shield Tank**
 
 - Speed: ⭐⭐
 - Agility: ⭐⭐⭐
@@ -168,39 +176,49 @@ A collection of more advanced builds can be found on the Advanced Builds page.
 View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
 
 # Maelstrom Builds
-Due to the anti-guardian fields and other unqiue threats of fighting in Maelstrom systems, specialized ships are required to be effective. These are modifications of other meta ships, with some new tech such as Thargoid Pulse Neutralizers and Enhanced AXMCs. It should be noted that these builds not only allow for but recommend constant use of their thermal vent beam lasers, which completely offsets the heat generated by the AXMCs.
+Due to the anti-guardian fields and other unqiue threats of fighting in Maelstrom systems, specialized ships are required to be effective. These are modifications of other meta ships, with various specific modifications:
+- **Enhanced AX Multicannons** - Safe from the anti-guardian field of a Maelstrom.
+- **Caustic Sink Launcher** - Protects you from the caustic clouds and missiles present in Maelstrom combat.
+- **Thargoid Pulse Neutraliers** - Required for passing into the center of a Maelstrom, these also act against Interceptor shutdown pulses.
+- **Thermal Vent Beam Lasers** - These entierly counteract the heat generated by AXMCs, allowing for constant cold running in combat.
+
+It should be noted that these builds not only allow for but recommend constant use of their thermal vent beam lasers, which completely offsets the heat generated by the AXMCs.
 
 ## Tabset {.tabset}
 
-### Krait Mk.II
+### Krait Mk.II (Shieldless)
+!\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
 #### **Krait Mk.II**
-!\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right} The Krait Mk.II is a tried and true favorite of maelstrom divers, as it offers substantial firepower and optional internals, while still maintaining good maneuverability.
+
+The Krait Mk.II is a tried and true favorite of maelstrom divers, as it offers substantial firepower and optional internals, while still maintaining good maneuverability.
 
 - AXMCs: 3 large, 1 medium
-- Max Speed: 385 / 530 boost
+- Speed: 385m/s, 530m/s boost
 - Hull: 3,050
 
-[EDSY Build](https://edsy.org/s/vKhEdCd) [Build Video](https://www.youtube.com/watch?v=DaOp39Oksqc) by CMDR Mechan
+[Maelstrom Krait Mk.II Build](https://edsy.org/s/vKhEdCd) [Build Video](https://www.youtube.com/watch?v=DaOp39Oksqc) by CMDR Mechan
 
-### Anaconda
+### Anaconda (Shieldless)
+!\[anaconda.png\](/img/anaconda.png =250x){.align-right}
 #### **Anaconda**
-!\[anaconda.png\](/img/anaconda.png =250x){.align-right} Offering unrivaled firepower and staying power, the Anaconda is only lacking in maneuverability.
+Offering unrivaled firepower and staying power, the Anaconda is only lacking in maneuverability.
 
 - AXMCs: 4 large, 2 medium
-- Max Speed: 285 / 380 boost
+- Speed: 285m/s, 380m/s boost
 - Hull: 5,250
 
-[EDSY Build](https://edsy.org/s/vcgYAjt)
+[Maelstrom Anaconda Build](https://edsy.org/s/vcgYAjt)
 
-### Mamba
+### Mamba (Shieldless)
+!\[mamba.png\](/img/mamba.png =250x){.align-right}
 #### **Mamba**
-!\[mamba.png\](/img/mamba.png =250x){.align-right} While usually an off-meta ship, the Mamba's capability to mount 3 large AXMCs, maintain good speed, and effortlessly stay at around 20% heat make it uniquely viable in Malestrom combat. It is heavily lacking in hull, and should only be considered by experienced commanders.
+While usually an off-meta ship, the Mamba's capability to mount 3 large AXMCs, maintain good speed, and effortlessly stay at around 20% heat make it uniquely viable in Malestrom combat. It is heavily lacking in hull, and should only be considered by experienced commanders.
 
 - AXMCs: 3 large
-- Max Speed: 491 / 602 boost
+- Speed: 491m/s, 602m/s boost
 - Hull: 1,775
 
-[EDSY Build](https://edsy.org/s/vVE9w9m)
+[Maelstrom Mamba Build](https://edsy.org/s/vVE9w9m)
 
 
 # Scout Builds
@@ -226,9 +244,9 @@ And you’re good to go!
 
 ## tabset {.tabset}
 
-### Vulture
-#### **Vulture**
+### Vulture (Shielded)
 !\[vulture.png\](/img/vulture.png =250x){.align-right}
+#### **Vulture**
 
 - Very cheap at 25 million credits
 - 2x Large AX Multicannons, and a class 5 shield generator
@@ -236,9 +254,9 @@ And you’re good to go!
 
 [**Unengineered Vulture Build**](https://edsy.org/s/vdAYRaG) [**Engineered Vulture Build**](https://edsy.org/s/vs1wd7p)
 
-### Krait Mk.II
-#### **Krait Mk.II**
+### Krait Mk.II (Shielded)
 !\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
+#### **Krait Mk.II**
 
 - Can fit 3x Large and 2x Medium AX Multi-Cannons.
 - Alternatively can swap 1 AXMC for a Thermal Vent Beam Laser.
@@ -247,9 +265,9 @@ And you’re good to go!
 
 [**Krait Mk.II Build**](https://edsy.org/s/vgZzbI2)
 
-### Anaconda
-#### **Anaconda**
+### Anaconda (Shielded)
 !\[anaconda.png\](/img/anaconda.png =250x){.align-right}
+#### **Anaconda**
 
 - Can fit all 4x Large and 2x Medium AX Multi-Cannons
 - Can be fitted with large shields and boosters for worry-free farming
@@ -257,9 +275,10 @@ And you’re good to go!
 
 [**Anaconda Build**](https://edsy.org/s/vy3MVEQ)
 
-### Type-10 Defender
-#### Type-10 Defender
+### Type-10 Defender (Shielded)
 !\[type-10-defender.png\](/img/type-10-defender.png =250x){.align-right}
+#### Type-10 Defender
+
 - Outclassed by the Anaconda in pretty much every way
 - Some people just really like flying this ship, for some reason. So here it is.
 
