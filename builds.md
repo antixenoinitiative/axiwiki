@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2023-06-01T19:53:38.910Z
+date: 2023-06-01T19:56:27.317Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -193,8 +193,8 @@ The Krait Mk.II is a tried and true favorite of maelstrom divers, as it offers s
 [Build Video](https://www.youtube.com/watch?v=DaOp39Oksqc) by CMDR Mechan
 
 ### Anaconda
-#### **Anaconda**
 ![anaconda.png](/img/anaconda.png =250x){.align-right}
+#### **Anaconda**
 Offering unrivaled firepower and staying power, the Anaconda is only lacking in maneuverability.
 
 - AXMCs: 4 large, 2 medium
@@ -204,8 +204,8 @@ Offering unrivaled firepower and staying power, the Anaconda is only lacking in 
 [EDSY Build](https://edsy.org/s/vcgYAjt)
 
 ### Mamba
-#### **Mamba**
 ![mamba.png](/img/mamba.png =250x){.align-right}
+#### **Mamba**
 While usually an off-meta ship, the Mamba's capability to mount 3 large AXMCs, maintain good speed, and effortlessly stay at around 20% heat make it uniquely viable in Malestrom combat. It is heavily lacking in hull, and should only be considered by experienced commanders.
 
 - AXMCs: 3 large
@@ -240,8 +240,8 @@ And you’re good to go!
 ## tabset {.tabset}
 
 ### Vulture
-#### **Vulture**
 ![vulture.png](/img/vulture.png =250x){.align-right}
+#### **Vulture**
 
 - Very cheap at 25 million credits
 - 2x Large AX Multicannons, and a class 5 shield generator
@@ -251,8 +251,8 @@ And you’re good to go!
 [**Engineered Vulture Build**](https://edsy.org/s/vs1wd7p)
 
 ### Krait Mk.II
-#### **Krait Mk.II**
 ![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
+#### **Krait Mk.II**
 
 - Can fit 3x Large and 2x Medium AX Multi-Cannons.
 - Alternatively can swap 1 AXMC for a Thermal Vent Beam Laser.
@@ -262,8 +262,8 @@ And you’re good to go!
 [**Krait Mk.II Build**](https://edsy.org/s/vgZzbI2)
 
 ### Anaconda
-#### **Anaconda**
 ![anaconda.png](/img/anaconda.png =250x){.align-right}
+#### **Anaconda**
 
 - Can fit all 4x Large and 2x Medium AX Multi-Cannons
 - Can be fitted with large shields and boosters for worry-free farming
@@ -272,8 +272,9 @@ And you’re good to go!
 [**Anaconda Build**](https://edsy.org/s/vy3MVEQ)
 
 ### Type-10 Defender
-#### Type-10 Defender
 ![type-10-defender.png](/img/type-10-defender.png =250x){.align-right}
+#### Type-10 Defender
+
 - Outclassed by the Anaconda in pretty much every way
 - Some people just really like flying this ship, for some reason. So here it is.
 
