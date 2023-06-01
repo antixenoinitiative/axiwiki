@@ -2,7 +2,7 @@
 title: Thargoids
 description: Zu Thargoids
 published: ja
-date: 2022-08-15T02:37:45.264Z
+date: 2023-06-01T12:04:48.349Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:10:09.264Z
@@ -22,16 +22,23 @@ dateCreated: 2021-06-15T10:10:09.264Z
 [**Lies zu den Thargoids auf der Canonn Research Webseite**](https://canonn.science/codex/xeno-technology/)
 
 ## Thargoid Schiffe
-Thargoid [**Interceptors**](/en/interceptors) gibt es in vier Varianten: Cyclops, Basilisk, Medusa und Hydra, in aufsteigender Schwierigkeitsstufe. Jede nächst höhere Variante hat mehr [**Herzen**](/en/hearts) und ist robuster als die vorherige, was infolge deutlich mehr Schaden erfordert um die Herzen hervortreten zu lassen und zu zerstören.
 
-Thargoid [**Scouts**](/en/scouts) sind eine kleinere Variante der Thargoid Intercepotors, es gibt sie in mehreren Typen mit verschiedenen Spezialfähigkeiten. Lies mehr dazu in der Thargoid [**Scouts**](/en/scouts) Sektion.
+Thargoids come in 5 known size classes: Titans, Interceptors, Hunters, Glaives, and ground variants.
 
-Interceptors sind unglaublich robust und eignen sich in der Regel am besten zum Kampf im Geschwader, da es eine große Herausforderung ist sie alleine zu bekämpfen. Interceptors nutzen Waffen mit sehr großem Schadenspotenzial, dominierende Spezialfähigkeiten und unabhängige [**Dronen**](/en/thargon-swarms), um das Schlachtfeld zu verwüsten.
+Thargoid **Titans** are capital class Thargoid vessels, and can be found in the center of Maelstroms. Thargoid ground bases also bear many similarities to the Titans found in space, so they may be related.
 
-Der Versuch, einen Thargoid ohne entsprechende Waffen und Verteidigung zu bekämpfen, ist nahezu unmöglich, Thargoid Interceptors verfügen über eine unglaublich starke Resistenz und schnelle Regenerationsfähigkeiten. Dies macht konventionelle Waffen (wie Multi-Kanonen, Raketen, Plasma-Beschleuniger, Laser) völlig ineffektiv, um sie zu bekämpfen.
+Thargoid [**Interceptors**](/en/interceptors) come in five variants: Orthrus, Cyclops, Basilisk, Medusa and Hydra, in ascending level of difficulty. Each next variant has more [**hearts**](/en/hearts) and is tougher than the last, requiring far more damage to exert and destroy hearts. The Orthrus is a special class of interceptor, with no offensive capabilities.
 
-Glücklicherweise hat die Menschheit nicht nur eine eigene Reihe von AX (Anti-Xeno) Waffen entwickelt, sondern auch die uralte Guardiantechnologie für sehr mächtige Hybridwaffen adaptiert, die bei der Zerstörung von Thargoid Schiffen wesentlich effektiver sind.
+Thargoid **Hunters** are the newest class spotted, and currently only come in one variant: Glaives. These Glaives have a very high acceleration, fire FSD disruptor and caustic missiles, deploy an anti-guardian field similar to the Orthrus, and are not deterred by low heat.
 
-[**Lies mehr zu den Interceptors**](/en/interceptors)
+Thargoid [**Scouts**](/en/scouts) are a smaller variant of the Thargoid interceptor, they come in multiple types with different special abilities. Read more about these in the Thargoid [**Scouts**](/en/scouts) section.
 
-[**Lies mehr zu den Scouts**](/en/scouts)
+Interceptors are incredibly tough and typically are best suited to wing combat as soloing them is a huge achievement. Interceptors use very high damage output weapons, crowd-control style special abilities and independent [**drones**](/en/thargon-swarms) to wreak havoc on the battlefield.
+
+Attempting to fight a Thargoid without the appropriate weaponry and defenses is nigh-impossible, Thargoid Interceptors have incredibly strong armour and fast regeneration capabilities, this makes conventional weapons (such as Multi-cannons, Missiles, Plasma Accelerators, Lasers) completely ineffective at damaging them. Even Hunters and Scouts still have a high resistance to conventional weaponry.
+
+Thankfully humanity has not only developed their own line of AX (Anti-Xeno) weaponry, but they have also adapted the ancient Guardian technology into very powerful hybrid weapons and modules that are far more effective at destroying Thargoid vessels.
+
+[**Read more about Interceptors**](/en/interceptors)
+
+[**Read more about Scouts**](/en/scouts)
