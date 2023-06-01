@@ -2,7 +2,7 @@
 title: Empfohlene Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2023-05-27T22:23:11.648Z
+date: 2023-06-01T19:53:38.910Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -39,8 +39,7 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
 ### Alliance Chieftain (Shieldless)
 
 #### **Alliance Chieftain (Shieldless)**
-
-The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-de-Lance in PVP. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
+!\[alliance-chieftain.png\](/img/alliance-chieftain.png =250x){.align-right} The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-de-Lance in PVP. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
 
 Type: **Cold Orbiter**
 
@@ -61,8 +60,7 @@ AX Chieftain Build Video: [https://www.youtube.com/watch?v=rP6-xP3vCkI](https://
 ### Krait Mk.II (Shieldless)
 
 #### **Krait Mk.II (Shieldless)**
-
-The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively. This is also a great platform for mounting Enhanced AXMCs for CMDRs who do not yet have access to guardian tech.
+!\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right} The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively. This is also a great platform for mounting Enhanced AXMCs for CMDRs who do not yet have access to guardian tech.
 
 Type: **Cold Orbiter**
 
@@ -84,8 +82,7 @@ AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https
 ### Imperial Cutter (Schild)
 
 #### **Imperial Cutter (Schild)**
-
-If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
+!\[imperial-cutter.png\](/img/imperial-cutter.png =250x){.align-right} If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
 
 Type: **Shield Tank**
 
@@ -110,6 +107,7 @@ These builds are targeted at more experienced commanders, either those who have 
 ### Alliance Challenger (Shieldless)
 
 #### **Alliance Challenger (Shieldless)**
+!\[alliance-challenger.png\](/img/alliance-challenger.png =250x){.align-right}
 
 The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower alternative with higher damage output against an interceptor’s shields. Depending on preference, it can also have more raw hull than a standard Chieftain build. Its three medium hardpoints with good convergence make it a better platform for running modified Shard Cannons or Plasma Chargers.
 
@@ -130,8 +128,7 @@ Recommendation: A great ship for those who find the Chieftain too responsive, or
 ### Federal Corvette (Shieldless)
 
 #### **Federal Corvette (Shieldless)**
-
-One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. When shieldless, it stays icy cold while firing on all cylinders.
+!\[federal-corvette.png\](/img/federal-corvette.png =250x){.align-right} One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. When shieldless, it stays icy cold while firing on all cylinders.
 
 Type: **Cold Orbiter**
 
@@ -150,8 +147,7 @@ Recommendation: An outstanding large ship for those looking for such a thing. Re
 ### Federal Corvette (Shielded)
 
 #### **Federal Corvette (Shielded)**
-
-One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. By utilizing prismatic or even bi-weave shields, the Corvette can slug it out with the toughest of targets. Type: **Shield Tank**
+!\[federal-corvette.png\](/img/federal-corvette.png =250x){.align-right} One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. By utilizing prismatic or even bi-weave shields, the Corvette can slug it out with the toughest of targets. Type: **Shield Tank**
 
 - Speed: ⭐⭐
 - Agility: ⭐⭐⭐
@@ -177,7 +173,8 @@ Due to the anti-guardian fields and other unqiue threats of fighting in Maelstro
 ## Tabset {.tabset}
 
 ### Krait Mk.II
-The Krait Mk.II is a tried and true favorite of maelstrom divers, as it offers substantial firepower and optional internals, while still maintaining good maneuverability.
+#### **Krait Mk.II**
+!\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right} The Krait Mk.II is a tried and true favorite of maelstrom divers, as it offers substantial firepower and optional internals, while still maintaining good maneuverability.
 
 - AXMCs: 3 large, 1 medium
 - Max Speed: 385 / 530 boost
@@ -186,7 +183,8 @@ The Krait Mk.II is a tried and true favorite of maelstrom divers, as it offers s
 [EDSY Build](https://edsy.org/s/vKhEdCd) [Build Video](https://www.youtube.com/watch?v=DaOp39Oksqc) by CMDR Mechan
 
 ### Anaconda
-Offering unrivaled firepower and staying power, the Anaconda is only lacking in maneuverability.
+#### **Anaconda**
+!\[anaconda.png\](/img/anaconda.png =250x){.align-right} Offering unrivaled firepower and staying power, the Anaconda is only lacking in maneuverability.
 
 - AXMCs: 4 large, 2 medium
 - Max Speed: 285 / 380 boost
@@ -195,7 +193,8 @@ Offering unrivaled firepower and staying power, the Anaconda is only lacking in 
 [EDSY Build](https://edsy.org/s/vcgYAjt)
 
 ### Mamba
-While usually an off-meta ship, the Mamba's capability to mount 3 large AXMCs, maintain good speed, and effortlessly stay at around 20% heat make it uniquely viable in Malestrom combat. It is heavily lacking in hull, and should only be considered by experienced commanders.
+#### **Mamba**
+!\[mamba.png\](/img/mamba.png =250x){.align-right} While usually an off-meta ship, the Mamba's capability to mount 3 large AXMCs, maintain good speed, and effortlessly stay at around 20% heat make it uniquely viable in Malestrom combat. It is heavily lacking in hull, and should only be considered by experienced commanders.
 
 - AXMCs: 3 large
 - Max Speed: 491 / 602 boost
@@ -228,31 +227,41 @@ And you’re good to go!
 ## tabset {.tabset}
 
 ### Vulture
-
-[**Vulture EDSY Build**](https://edsy.org/s/vdAYRaG) [**Build with Engineering**](https://edsy.org/s/vs1wd7p)
+#### **Vulture**
+!\[vulture.png\](/img/vulture.png =250x){.align-right}
 
 - Very cheap at 25 million credits
 - 2x Large AX Multicannons, and a class 5 shield generator
 - Does not need engineering, although it is still recommended
 
-### Krait Mk.II
+[**Unengineered Vulture Build**](https://edsy.org/s/vdAYRaG) [**Engineered Vulture Build**](https://edsy.org/s/vs1wd7p)
 
-[**Krait Mk.II EDSY Build**](https://edsy.org/s/vgZzbI2)
+### Krait Mk.II
+#### **Krait Mk.II**
+!\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
+
 - Can fit 3x Large and 2x Medium AX Multi-Cannons.
 - Alternatively can swap 1 AXMC for a Thermal Vent Beam Laser.
 - High mobility to keep targets in range or disengage.
 - Good upgrade from a Vulture, allowing for powerful AXCZ support.
 
-### Anaconda
+[**Krait Mk.II Build**](https://edsy.org/s/vgZzbI2)
 
-[**Anaconda EDSY Build**](https://edsy.org/s/vy3MVEQ)
+### Anaconda
+#### **Anaconda**
+!\[anaconda.png\](/img/anaconda.png =250x){.align-right}
+
 - Can fit all 4x Large and 2x Medium AX Multi-Cannons
 - Can be fitted with large shields and boosters for worry-free farming
 - Overkill in nearly all cases
 
-### Type-10 Defender
+[**Anaconda Build**](https://edsy.org/s/vy3MVEQ)
 
-[**Type-10 EDSY Build**](https://edsy.org/s/vsBBqw3)
+### Type-10 Defender
+#### Type-10 Defender
+!\[type-10-defender.png\](/img/type-10-defender.png =250x){.align-right}
 - Outclassed by the Anaconda in pretty much every way
 - Some people just really like flying this ship, for some reason. So here it is.
+
+[**Type-10 Build**](https://edsy.org/s/vsBBqw3)
 
