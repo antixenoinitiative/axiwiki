@@ -2,11 +2,15 @@
 title: Hyperdiction'lar
 description: Thargoid Hyperdiction'ları hakkında
 published: true
-date: 2021-06-15T11:09:57.281Z
+date: 2023-06-02T12:19:19.282Z
 tags: thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-15T11:06:57.862Z
 ---
+
+> The information on this page is outdated. Thargoid Hunter class vessels can also hyperdict you, and the chances of each hyperdiction combo spawning is different that presented in this article. 
+> 
+> {.is-warning}
 
 # Hyperdiction'lar
 
@@ -16,7 +20,7 @@ Hyperdiction başınıza geldiğinde hiperuzaydan sökülüp, sıçrama yaptığ
 
 Shutdown Field Neutraliser'ınız varsa EMP'ye karşı kullanabilirsiniz.
 
-> Hyperdiction'larda 1 ile 4 arası Interceptor bulunabilir. 
+> Hyperdictions can have more than 1 interceptor, up to 4 in total. 
 > 
 > {.is-info}
 
@@ -32,21 +36,23 @@ Bu veriyi elde etmek için farklı hesaplarda bu testleri defalarca uyguladık:
 ## Hyperdiction'a Nasıl Maruz Kalınır
 Şu an için, hyperdictionlar yalnızca bu iki bölgedeki sistemlerden ayrılmak ya da bu sistemlere gelmek için yapılan sıçrayışlarda ortaya çıkabilir:
 
-- Pleiades Balonu (Merope'un 100Ly çevresi içindeki tüm sistemler)
+- The Pleiades Bubble (all systems within 100-200Ly of Merope, due to hyperdiction bubble around it expanding and shrinking thanks to currently unknown reasons)
 
 - Witch Head Balonu (Witch Head Sector IR-W C1-9 sisteminin 75 Ly çevresi içindeki tüm sistemler)
+- The Coalsack Bubble (all systems within 60Ly of Musca Dark Region PJ-P b6-1)
+- The California Bubble (all systems within 60Ly of California Sector BA-A e6)
 
-Hyperdictionlar "**mimlenmiş**" olmadığınız takdirde başınıza gelmeyecektir.
+These Hyperdictions will not occur for most pilots unless you activate a hidden "**marked**" effect that is applied by collecting rare Thargoid Commodities. Once you have been "**marked**" it is permanant and there is no known way to remove this.
 
 Anti-Xeno Initiative ve Canonn Interstellar Research Group işbirliğinde yapılan detaylı araştırmalar sonucu oyuncuların hyperdiction'a maruz kalmasını sağlayan Thargoid eşyasını bulduk. Şu an için bildiklerimiz aşağıdaki gibidir:
 
 Thargoid Sensor toplamak üzerinize kalıcı bir "**mimlenmiş**" damgası uygular ve Pleiades ve Witch Head Nebulalarında hyperdictionlara maruz kalmaya başlamanıza sebep olur. Sensor'ü topladığınız anda bu etki kalıcı hale gelir ve Sensor'ü bıraksanız dahi devam eder.
 
-> Sensor'ü kargonuzda bulundurmak ihtimali artırmaz, yalnızca tek seferlik 20% ihtimali başlatır. 
+> Holding the sensor does not directly increase the chances, it only unlocks the 20% chance rate. 
 > 
 > {.is-info}
 
-Tek istisna, Thargoid Incursion ve Infestation sistemlerinde bulunan, daha önce Sensor taşımaya bağlı olmayan hyperdiction ihtimalleridir.
+The only exception to this is the Thargoid Incursions and Thargoid Infestation system state, which have an independant hyperdiction chance which can cause hyperdictions without any previous interaction with Thargoid Sensors. This also includes systems with a "**hidden**" incursion state and some other unique systems for lore reasons, such as **HIP 22460**.
 
 Çakılmış Thargoid Interceptor alanlarında kolaylıkla Thargoid Sensor bulabilirsiniz.
 
