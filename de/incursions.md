@@ -2,11 +2,13 @@
 title: Systemstatus - Eindringen & Seuche
 description: Zu Thargoid-Eindringen und Seuchen
 published: true
-date: 2022-12-03T23:55:24.839Z
+date: 2023-06-02T12:17:34.674Z
 tags: thargoids, incursions, infestations
 editor: markdown
 dateCreated: 2021-06-17T01:24:54.361Z
 ---
+
+> This page contains information on Legacy mechanics. See the [Maelstroms](/en/Maelstrom) page for information on current Thargoid attack mechanics.{.is-warning}
 
 # Thargoid-Eindringen
 In Zeiten von Thargoid-Aktivität werden wöchtenlich in einige Systeme eingedrungen und haben damit den **Eindringen** Status. Dies wird zunächst durch das Vorhandensein von [Nichtmenschlichen Signalquellen (NHSS)](/en/nhss) festgestellt, die verschiedene Scouts und Interceptors enthalten. Ein Eindringen zeigt eine baldige Seuche im gleichen System, es sei denn, eine große Anzahl von Thargoid-Schiffen wird in diesem System zerstört.
@@ -27,10 +29,10 @@ Ships may be hyperdicted while jumping into a system under Incursion, regardless
 
 The **GalNet Thargoid Activity report** will provide an up-to-date report on the remaining presence of Thargoids within an Incursion system. Je mehr Thargoid-Schiffe zerstört werden, desto geringer wird die Präsenz, bis die Seuche vollständig beseitigt ist.
 
-> Our Thargoid activity monitor [Thargoid.watch](https://www.antixenoinitiative.com/watch) has gone live. You can find about the systems in Incursion and the regions Thargoids have inhabited.{.is-info}
+AXI Maintains [Thargoid.watch](https://www.antixenoinitiative.com/watch), a website displaying current systems under Thargoid Control.
 
 
-Präsenz-Stufen sind wie folgt:
+Presence Levels are:
 
 - Massive Thargoid Presence: **0-25% Cleared**
 - Significant Thargoid Presence: **25-50% Cleared**
