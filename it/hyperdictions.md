@@ -2,11 +2,15 @@
 title: Hyperdictions
 description: Informazioni sulle “Hyperdictions” da parte dei Thargoid
 published: true
-date: 2021-06-15T11:09:57.281Z
+date: 2023-06-02T12:19:19.282Z
 tags: thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-15T11:06:57.862Z
 ---
+
+> The information on this page is outdated. Thargoid Hunter class vessels can also hyperdict you, and the chances of each hyperdiction combo spawning is different that presented in this article. 
+> 
+> {.is-warning}
 
 # Hyperdictions
 
@@ -16,7 +20,7 @@ Quando si verifica una Hyperdiction verrai strappato fuori dall’ iperspazio e 
 
 Se si dispone di uno Shurdown Field Neutralizer, è possibile evitare lo spegnimento e prepararsi ad attaccare gli Interceptors.
 
-> Nelle Hyperdictions potete venire fermati da un minimo di 1 fino ad un massimo di 4 interceptors contemporaneamente. 
+> Hyperdictions can have more than 1 interceptor, up to 4 in total. 
 > 
 > {.is-info}
 
@@ -32,21 +36,23 @@ Per raccogliere questi dati abbiamo eseguito più volte il seguente test su dive
 ## Come causare una Hyperdiction
 Le Hyperdictions Thargoid si verificano solo quando si salta a/da sistemi all'interno di due specifiche regioni dello spazio.
 
-- La “bolla”delle Pleiadi (tutti i sistemi entro 100Ly da Merope)
+- The Pleiades Bubble (all systems within 100-200Ly of Merope, due to hyperdiction bubble around it expanding and shrinking thanks to currently unknown reasons)
 
 - La “bolla” della Witch Head Nebula (tutti i sistemi entro 75Ly da Witch Head Sector IR-W C1-9)
+- The Coalsack Bubble (all systems within 60Ly of Musca Dark Region PJ-P b6-1)
+- The California Bubble (all systems within 60Ly of California Sector BA-A e6)
 
-Queste Hyperdictions non si verificheranno per la maggior parte dei piloti a meno che non si diventi "**marked**", una sorta di contrassegno nascosto e permanente che si attiva raccogliendo rari prodotti Thargoid.
+These Hyperdictions will not occur for most pilots unless you activate a hidden "**marked**" effect that is applied by collecting rare Thargoid Commodities. Once you have been "**marked**" it is permanant and there is no known way to remove this.
 
 Grazie ad una importante ricerca congiunta del gruppo di ricerca Canonn Interstellar e l’ Anti-Xeno Initiative abbiamo definito quali tipi di Thargoid Commodities fanno sì che i piloti subiscano le Hyperdictions. Le attuali conclusioni sono le seguenti:
 
 Raccogliere un Sensore Thargoid applica uno stato "**marked**" permanente al vostro giocatore che causerà frequenti Hyperdictions nelle Pleiadi e nella Nebulosa Witch Head. Questo effetto è permanente: una volta che si raccoglie un sensore continuerà ad applicarsi anche senza l'elemento nel vostro carico.
 
-> Trasportare il sensore non aumenta direttamente le possibilità, “sblocca” solo il marcatore con il 20% di possibilità. 
+> Holding the sensor does not directly increase the chances, it only unlocks the 20% chance rate. 
 > 
 > {.is-info}
 
-L'unica eccezione si verifica quando un sistema è nello stato “Thargoid Incursions” o “Thargoid Infestation”, che causano una probabilità di Hyperdiction indipendentemente dal fatto che un pilota abbia mai interagito con un Thargoid Sensor.
+The only exception to this is the Thargoid Incursions and Thargoid Infestation system state, which have an independant hyperdiction chance which can cause hyperdictions without any previous interaction with Thargoid Sensors. This also includes systems with a "**hidden**" incursion state and some other unique systems for lore reasons, such as **HIP 22460**.
 
 I sensori Thargoid possono essere facilmente trovati nei siti “Crashed Thargoid Interceptor”, con resto di navi thargoid abbattute sul pianeta
 
