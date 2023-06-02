@@ -2,11 +2,14 @@
 title: Hyperdictions
 description: About Thargoid Hyperdictions
 published: true
-date: 2021-06-15T11:09:57.281Z
+date: 2023-06-02T12:19:19.282Z
 tags: thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-15T11:06:57.862Z
 ---
+
+> The information on this page is outdated. Thargoid Hunter class vessels can also hyperdict you, and the chances of each hyperdiction combo spawning is different that presented in this article.
+{.is-warning}
 
 # Hyperdictions
 
@@ -31,11 +34,13 @@ To gather this data we performed the following test several times over on differ
 ## How to get Hyperdictions
 Thargoid Hyperdictions currently only occur when jumping to/from systems within two different regions of space.
 
-- The Pleiades Bubble (all systems within 100Ly of Merope)
+- The Pleiades Bubble (all systems within 100-200Ly of Merope, due to hyperdiction bubble around it expanding and shrinking thanks to currently unknown reasons)
 
 - The Witch Head Bubble (all systems within 75Ly of Witch Head Sector IR-W C1-9)
+- The Coalsack Bubble (all systems within 60Ly of Musca Dark Region PJ-P b6-1)
+- The California Bubble (all systems within 60Ly of California Sector BA-A e6)
 
-These Hyperdictions will not occur for most pilots unless you activate a hidden "**marked**" effect that is applied by collecting rare Thargoid Commodities.
+These Hyperdictions will not occur for most pilots unless you activate a hidden "**marked**" effect that is applied by collecting rare Thargoid Commodities. Once you have been "**marked**" it is permanant and there is no known way to remove this.
 
 Based on extensive research from the Anti-Xeno Initiative and Canonn Interstellar Research Group, we have found a distinctive correlation between certain types of Thargoid Commodities causing players to get hyperdicted. The current best understanding is the following:
 
@@ -44,7 +49,7 @@ Collecting a Thargoid Sensor applies a permanent "**marked**" affect on your pla
 > Holding the sensor does not directly increase the chances, it only unlocks the 20% chance rate.
 {.is-info}
 
-The only exception to this is the Thargoid Incursions and Thargoid Infestation system state, which has an independant hyperdiction chance which can cause hyperdictions without any previous interaction with Thargoid Sensors.
+The only exception to this is the Thargoid Incursions and Thargoid Infestation system state, which have an independant hyperdiction chance which can cause hyperdictions without any previous interaction with Thargoid Sensors. This also includes systems with a "**hidden**" incursion state and some other unique systems for lore reasons, such as **HIP 22460**.
 
 Thargoid sensors can be easily found at Crashed Thargoid Interceptor sites
 
