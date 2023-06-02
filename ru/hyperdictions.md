@@ -2,11 +2,15 @@
 title: Перехваты в гиперпространстве
 description: О перехватах таргоидами в гиперпространстве
 published: Опубликовано
-date: 2021-06-15T11:09:57.281Z
+date: 2023-06-02T12:19:19.282Z
 tags: таргоиды, перехватчики
 editor: markdown
 dateCreated: 2021-06-15T11:06:57.862Z
 ---
+
+> The information on this page is outdated. Thargoid Hunter class vessels can also hyperdict you, and the chances of each hyperdiction combo spawning is different that presented in this article. 
+> 
+> {.is-warning}
 
 # Перехваты в гиперпространстве
 
@@ -16,7 +20,7 @@ dateCreated: 2021-06-15T11:06:57.862Z
 
 Если же ваш корабль оснащён нейтрализатором отключающего поля, можно избежать отключения систем. После этого перехватчики выпустят рой и станут настороже, готовясь к любому враждебному действию с вашей стороны.
 
-> Во время гиперперехвата могут появиться более 1 перехватчика, в общей сложности до 4. 
+> Hyperdictions can have more than 1 interceptor, up to 4 in total. 
 > 
 > {.is-info}
 
@@ -32,21 +36,23 @@ dateCreated: 2021-06-15T11:06:57.862Z
 ## Как получить Гипер-перехват
 Гипер-перехваты Таргоидов в данный момент случаются только когда совершается прыжок в/из систем которые являются двумя разными регионами космоса.
 
-- Туманность Плеяды (все системы в 100св.г от Merope)
+- The Pleiades Bubble (all systems within 100-200Ly of Merope, due to hyperdiction bubble around it expanding and shrinking thanks to currently unknown reasons)
 
 - Туманность Голова Ведьмы (Все системы в расстоянии 75св.л. от Witch Head Sector IR-W C1-9)
+- The Coalsack Bubble (all systems within 60Ly of Musca Dark Region PJ-P b6-1)
+- The California Bubble (all systems within 60Ly of California Sector BA-A e6)
 
-Гипер-перехваты не будут происходить для большинства пилотов пока вы не активируете скрытый эффект "**Метки**" который получается при сборе редкого сырья Таргоидов.
+These Hyperdictions will not occur for most pilots unless you activate a hidden "**marked**" effect that is applied by collecting rare Thargoid Commodities. Once you have been "**marked**" it is permanant and there is no known way to remove this.
 
 Основываясь на обширных исследования Anti-Xeno Initiative и Canonn Interstellar Research Group, мы обнаружили отличительную корреляцию между определёнными типами сырья Таргоидов в результате которого игроки будут Гипер-перехвачены. Наилучшее в настоящее время понимание заключается в следующем:
 
 Сбор Таргоидского Сенсора накладывает перманентный эффект "**Метки**" на игрока, который вызывает частые Гипер-перехваты в туманностях Плеяды и Витч-хед. Этот эффект будет постоянным после сбора сенсора и будет продолжаться, даже если предмета не будет в грузовом отсеке.
 
-> Постоянное наличие сенсора не увеличивает шанс, он только открывает увеличение шанса на 20%. 
+> Holding the sensor does not directly increase the chances, it only unlocks the 20% chance rate. 
 > 
 > {.is-info}
 
-Единственное исключение из этого - столкновение с Таргоидами и системы со статусом "Заражение", которые имеют независимые шансы на Гипер-перехват без всякого взаимодействия с Таргоидскими Сенсорами.
+The only exception to this is the Thargoid Incursions and Thargoid Infestation system state, which have an independant hyperdiction chance which can cause hyperdictions without any previous interaction with Thargoid Sensors. This also includes systems with a "**hidden**" incursion state and some other unique systems for lore reasons, such as **HIP 22460**.
 
 Таргоидские сенсоры могут быть легко найдены на участках крушения Таргоидских Перехватчиков
 
