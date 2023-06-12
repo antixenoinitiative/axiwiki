@@ -2,7 +2,7 @@
 title: Optionale Einbauteile
 description: Eine kurze Einführung in die Verwendung der verschiedenen Module in AX.
 published: ja
-date: 2023-03-04T21:49:23.395Z
+date: 2023-06-12T14:07:22.340Z
 tags: Ausrüstung, Module
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -12,15 +12,15 @@ dateCreated: 2021-06-10T04:05:26.162Z
 
 ## Rumpfhüllenverstärkung Paket
 
-Rumpfhüllenverstärkung gibt es in drei Varianten:
+Hull Reinforcement Packages come in three types:
 
 - **Rumpfhüllenverstärkung (HRP)**
 - **Guardian Rumpfhüllenverstärkung (GHRP)**
-- **Meta-Legierungs Hüllenverstärkung**
+- **Meta-Alloy Hull Reinforcement Package (MAHRP)**
 
-HRPs fügen dem Schiff zusätzliche Hülle hinzu. GHRPs bieten ausserdem eine 5%ige kaustische Resistenz, die den Schaden durch Interceptor Kanonen, kaustische Raketen, Thargon-Geschosse und andere kaustische Effekte reduziert. Aufgrund der Unmöglichkeit, GHRPs zu engineeren und ihrer Leistungsaufnahme, empfehlen wir, diese für die meisten Builds NICHT zu verwenden.
+Hull reinforcements do exactly what you might expect, they increase the hull and damage resistance of your ship. Human HRPs increase resistance to human damage, while Guardian HRPs also provide 5% caustic resistance. This reduces damage taken from Interceptor Cannon Fire, Caustic Missiles, Thargon Projectiles, and other Caustic effects.
 
-Normale menschliche Hüllenverstärkungspakete mit G5 Schwerlast-/Tiefenbeschichtung übertreffen ein GHRP in den meisten Fällen bei weitem.
+Due to the inability to engineer GHRPs and their power draw,  we DO NOT recommend using these for most builds. Normal human Hull Reinforcement Packages with G5 Heavy Duty/Deep Plating will greatly outperform a GHRP in the majority of cases.
 
 Der Phaserschaden von Thargoid Interceptoren ist absolut, was bedeutet, dass er diesen zusätzlichen Widerstand ignoriert, wenn man einen Schild hat. Bei einem schildlosen Bau kann es von Vorteil sein, einen einzelnen GHRP der Klasse 1 oder 2 zu verwenden, da er die kaustische Resistenz auf den gesamten Rumpf anwendet und so den vergleichbaren Verlust zu einem konstruierten HRP der gleichen Grösse ausgleicht.
 
@@ -28,22 +28,25 @@ Der Phaserschaden von Thargoid Interceptoren ist absolut, was bedeutet, dass er 
 
 ## Modul-Verstärkungspaket
 
-Modul-Verstärkungspakete (MRP) gibt es in zwei Varianten: Guardian und Normal.
+Module Reinforcement Packages (MRPs) come in two types:
 
-Guardian Modul-Verstärkungspakete (GMRPs) verhalten sich ähnlich wie normale MRPs, haben jedoch eine 10% höhere Integrität und zusätzliche Effekte. Sie verbrauchen auch eine geringe Menge an Strom.
+- **Module Reinforcement Package (MRP)**
+- **Guardian Module Reinforcement Package (GMRP)**
 
-MRPs gibt es in zwei Versionen:
+and each type comes in two classes:
 
-- **D-Klasse:** Höhere Absorption 60 %, geringere Integrität
-- **E-Klasse:** Geringere Absorption 30%, höhere Integrität und Gewicht
+- **D Class:** Higher Absorption (60%), Lower integrity
+- **E Class:** Lower Absorption (30%), Higher integrity and weight
 
-MRPs funktionieren, indem sie einen Teil des Modulschadens auf sich selbst absorbieren und so den von anderen Modulen erlittenen Schaden reduzieren. Externe Module erhalten nur die halbe Absorptionsrate der internen Module.
+Module reinforcements work by absorbing a portion of module damage onto themselves, reducing the amount taken by other modules. External modules only get half the absorption rate of internal modules.
 
-GMRPs werden multiplikativ aufeinander aufgebaut, wie im folgenden am Beispiel der Klasse D dargestellt.
+GMRPs act similar to normal MRPs, however they have 10% higher integrity and extra added effects. They also draw a small amount of power.
+
+The damage absorption effect stacks multiplicatively, as follows using D class for example.
 
 *1x D-Klasse = 60%, 2x D-Klasse = 84%, 3x D-Klasse = 94%*
 
-Die meisten Konstruktionsvorlagen empfehlen mindestens 1x GMRP, um zu vermeiden, dass Module sofort von Thargoiden-Waffen zerstört werden. Schildlose Schiffsvorlagen enthalten in der Regel drei, da jeder Schaden ohne verheerend sein kann. Der grösste MRP, der sich nicht in einem militärischen Slot befindet, wird zuerst beschädigt, gefolgt von kleineren MRPs ausserhalb der militärischen Slots und abschliessend von denen in militärischen Slots. Aus diesem Grund werden viele Konstruktionsvorlagen nur einen grossen GMRP (C4 oder C5) und zwei kleinere MRPs (C1 und C2) verwenden.
+Most builds recommend at least 1x MRP to avoid modules being destroyed instantly from Thargoid weapons. Schildlose Schiffsvorlagen enthalten in der Regel drei, da jeder Schaden ohne verheerend sein kann. The largest MRP that is not in a military slot is damaged first, followed by smaller MRPs outside the military slots, and finishing with those in military slots. Due to this, many builds will use only one large GMRP (C4 or C5) and two smaller MRPs (C1 and C2), all in regular optional internal slots.
 
 *GMRPs wird unterstellt, das sie verhindern, dass Module durch Blitzeinschläge abgeschaltet werden. Stattdessen fügen sie dem Bestand nur ein weiteres Modul hinzu, das abgeschaltet werden kann. Wir empfehlen, dies nicht selbst auszuprobieren*.
 
@@ -70,19 +73,28 @@ This module comes in two classes, class 3 and class 5, increasing the experiment
 
 # Werkzeug Module
 
-## (Enhanced) Xeno Scanner
+## Xeno Scanners
+
+Xeno Scanners come in three types:
+
+- **Xeno Scanner: 500m range**
+- **Enhanced Xeno Scanner: 2km range**
+- **Pulse Wave Xeno Scanner: 1km range, pulse wave functionality**
+
 The Xeno Scanner allows you to identify details of Xeno Vessel that would not be possible without. Depending on the level of scan, this will give you access to more/less info. The enhanced variant is recommended, as it comes with 2km scan range over the meager 500m of the old scanner.
+
+The Pulse Wave Xeno Scanner also has a secondary mode which is used for highlighting material points on Thargoid Titans.
 
 #### Einfacher Scan
 
-- Gesundheit
-- Schildstärke
-- Variantenname und Hologramm
+- Health
+- Shield Health
+- Variant Name and 3D Model
 
 #### Kompletter Scan
 
-- Alles obrige
-- Sub-Ziele auswählen und Status der Sub-Ziele (Herz Integrität %)
+- All the above
+- Sub-Targeting and sub-target Status (Heart integrity % )
 
 In a wing, only one person requires a scanner, your ship will share the data with your wing once the scan is complete.
 
