@@ -2,13 +2,16 @@
 title: Bedrohung steuern
 description: Understanding Thargoid Interceptor Threat Management
 published: true
-date: 2021-09-19T08:34:57.255Z
+date: 2023-06-12T15:00:55.005Z
 tags: combat, guide, thargoids, interceptors, threat
 editor: markdown
 dateCreated: 2021-06-21T02:12:44.684Z
 ---
 
 # Bedrohung steuern
+> As of Odyssey Update 15, aggro mechanics have changed, and these tactics are no longer valid. {.is-warning}
+
+
 Thargoid Interceptors werden den Spieler angreifen, der die größte Bedrohung ist. Die Bedrohung wird basierend auf der Höhe des Schadens, der dem Interceptor seit letztem Zielwechsel zugefügt wurde, berechnet. Immer wenn ein Thargoid ein Ziel wechselt, kann er das Ziel nicht mehr wechseln bis entweder, 35 Sekunden vergangen sind, das Ziel zerstört wird oder es den Kampf verlässt. Das wird Zielwechsel-Sperre genannt. Während der Zielwechsel-Sperre zählt jeglicher Schaden am Interceptor für den nächsten Zielwechsel. Das ausgewählte Ziel wird nicht geändert bis die Zielerfassungs-Sperre vorüber ist.
 
 Bedrohung kann also mit ausgeteiltem Schaden erhöht werden. Dies kann aus mehreren Gründen von Vorteil sein.
