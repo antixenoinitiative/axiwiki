@@ -2,7 +2,7 @@
 title: Optional Internals
 description: AX'da kullanılan modüllere kısa bir giriş
 published: true
-date: 2023-03-04T21:49:23.395Z
+date: 2023-06-12T14:07:22.340Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -12,15 +12,15 @@ dateCreated: 2021-06-10T04:05:26.162Z
 
 ## Hull Reinforcement Package
 
-Hull Reinforcement Package üç çeşit olarak bulunur:
+Hull Reinforcement Packages come in three types:
 
 - **Hull Reinforcement Package (HRP)**
 - **Guardian Hull Reinforcement Package (GHRP)**
-- **Meta-Alloy Hull Reinforcement Package**
+- **Meta-Alloy Hull Reinforcement Package (MAHRP)**
 
-HRP'ler geminize fazladan gövde sağlamlığı sağlar. GHRP'ler ek olarak 5% caustic direnci sağlar; Interceptor'lerin ana silahından, caustic füzelerden, Thargon atışlarından ve diğer caustic etkilerden gelen hasarın azaltılmasına katkıda bulunur. GHRP'lerin mühendislikle yükseltilememesi ve güç gerektirmesi sebebiyle çoğu gemi donanımında önermiyoruz.
+Hull reinforcements do exactly what you might expect, they increase the hull and damage resistance of your ship. Human HRPs increase resistance to human damage, while Guardian HRPs also provide 5% caustic resistance. This reduces damage taken from Interceptor Cannon Fire, Caustic Missiles, Thargon Projectiles, and other Caustic effects.
 
-Normal HRP'ler, G5 Heavy Duty + Deep Plating mühendislikleriyle yükseltildiklerinde, GHRP'lerden çok daha üstün hale gelirler.
+Due to the inability to engineer GHRPs and their power draw,  we DO NOT recommend using these for most builds. Normal human Hull Reinforcement Packages with G5 Heavy Duty/Deep Plating will greatly outperform a GHRP in the majority of cases.
 
 Interceptorlerden gelen phasing hasarı "absolute" sınıfı hasar uygular ve geminizde kalkan varsa bu direnci yok sayar. Kalkansız gemilerde bir adet birinci ya da ikinci sınıf GHRP faydalı olabilir. Mühensilikli HRP ile arasındaki fark çok düşük olduğundan sağladığı fazladan caustic direnci öne çıkabilir.
 
@@ -28,22 +28,25 @@ Interceptorlerden gelen phasing hasarı "absolute" sınıfı hasar uygular ve ge
 
 ## Module Reinforcement Package
 
-Module Reinforcement Package (MRP)'ler iki çeşittir: Guardian (GMRP) ve normal (MRP).
+Module Reinforcement Packages (MRPs) come in two types:
 
-GMRP'ler normal MRP'lerden 10% daha fazla sağlamlığa ve ek etkilere sahiptir. Ayrıca düşük seviyede güç çeker.
+- **Module Reinforcement Package (MRP)**
+- **Guardian Module Reinforcement Package (GMRP)**
 
-MRP'ler iki sınıfta gelir:
+and each type comes in two classes:
 
-- **D Sınıfı:** Yüksek hasar emiş 60%, Düşük sağlamlık
-- **E Sınıfı:** Düşük hasar emiş 30%, Yüksek sağlamlık ve fazla ağırlık
+- **D Class:** Higher Absorption (60%), Lower integrity
+- **E Class:** Lower Absorption (30%), Higher integrity and weight
 
-MRP'ler modüllere gelen hasarı üzerlerine çekip diğer modüllerin az hasar almasını sağlarlar. Dış modüller, iç modüllerin sahip olduğu korumanın yalnızca yarısına sahip olabilirler.
+Module reinforcements work by absorbing a portion of module damage onto themselves, reducing the amount taken by other modules. External modules only get half the absorption rate of internal modules.
 
-GMRP'lerin koruması çarpılarak eklenir, D sınıfını örnek verecek olursak:
+GMRPs act similar to normal MRPs, however they have 10% higher integrity and extra added effects. They also draw a small amount of power.
+
+The damage absorption effect stacks multiplicatively, as follows using D class for example.
 
 *1x D Sınıfı = 60%, 2x D Sınıfı = 84%, 3x D Sınıfı = 94%*
 
-Thargoid silahları tarafından modüllerinizin anında yok edilmemesi için çoğu gemide en azından bir adet GMRP bulundurulmasını tavsiye ediyoruz. Kalkansız gemiler genelde üç adet bulundururlar zira alınacak herhangi bir hasar yıkıcı olabilir. İlk önce "askeri slot"ta olmayan en büyük MRP hasar alır, daha sonra küçüklere doğru ilerler ve en son "askeri slot"lardaki modüllere geçilir. Bu sebeple çoğu gemi bir adet büyük GMRP (C4 veya C5) ve iki adet küçük MRP (C1 ve C2) bulundurur.
+Most builds recommend at least 1x MRP to avoid modules being destroyed instantly from Thargoid weapons. Kalkansız gemiler genelde üç adet bulundururlar zira alınacak herhangi bir hasar yıkıcı olabilir. The largest MRP that is not in a military slot is damaged first, followed by smaller MRPs outside the military slots, and finishing with those in military slots. Due to this, many builds will use only one large GMRP (C4 or C5) and two smaller MRPs (C1 and C2), all in regular optional internal slots.
 
 *GMRP'lerin ayrıca modüllerin şimşek saldırısı tarafından kapatılmasını engellemeleri lazımdı. Bunun yerine, sadece kapatılabilecek başka bir modül görevi görüyorlar. Bunu test etmenizi önermiyoruz*.
 
@@ -70,19 +73,28 @@ This module comes in two classes, class 3 and class 5, increasing the experiment
 
 # Utility Modülleri
 
-## (Enhanced) Xeno Scanner
+## Xeno Scanners
+
+Xeno Scanners come in three types:
+
+- **Xeno Scanner: 500m range**
+- **Enhanced Xeno Scanner: 2km range**
+- **Pulse Wave Xeno Scanner: 1km range, pulse wave functionality**
+
 The Xeno Scanner allows you to identify details of Xeno Vessel that would not be possible without. Depending on the level of scan, this will give you access to more/less info. The enhanced variant is recommended, as it comes with 2km scan range over the meager 500m of the old scanner.
+
+The Pulse Wave Xeno Scanner also has a secondary mode which is used for highlighting material points on Thargoid Titans.
 
 #### Temel Tarama
 
-- Sağlık
-- Kalkan gücü
-- Tür ismi ve 3D modeli
+- Health
+- Shield Health
+- Variant Name and 3D Model
 
 #### Tam Tarama
 
-- Yukarıdakilerin tümü
-- Alt-hedefleme ve alt-hedef durumu (sub-target) - Kalp sağlığı yüzdesi
+- All the above
+- Sub-Targeting and sub-target Status (Heart integrity % )
 
 In a wing, only one person requires a scanner, your ship will share the data with your wing once the scan is complete.
 
