@@ -2,7 +2,7 @@
 title: Optional Internals
 description: A short introduction to the use of various modules in AX.
 published: true
-date: 2023-03-04T21:49:23.395Z
+date: 2023-06-12T14:07:22.340Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -12,15 +12,15 @@ dateCreated: 2021-06-10T04:05:26.162Z
 
 ## Hull Reinforcement Package
 
-Hull Reinforcement Packages come in three variants:
+Hull Reinforcement Packages come in three types:
 
 - **Hull Reinforcement Package (HRP)**
 - **Guardian Hull Reinforcement Package (GHRP)**
-- **Meta-Alloy Hull Reinforcement Package**
+- **Meta-Alloy Hull Reinforcement Package (MAHRP)**
 
-HRPs add extra hull to your ship. GHRPs also provide 5% caustic resistance, which reduces damage taken from Interceptor Cannon Fire, Caustic Missiles, Thargon Projectiles, and other Caustic effects. Due to the inability to engineer GHRPs and their power draw,  we DO NOT recommend using these for most builds. 
+Hull reinforcements do exactly what you might expect, they increase the hull and damage resistance of your ship. Human HRPs increase resistance to human damage, while Guardian HRPs also provide 5% caustic resistance. This reduces damage taken from Interceptor Cannon Fire, Caustic Missiles, Thargon Projectiles, and other Caustic effects.
 
-Normal human Hull Reinforcement Packages with G5 Heavy Duty/Deep Plating will greatly outperform a GHRP in the majority of cases.
+Due to the inability to engineer GHRPs and their power draw,  we DO NOT recommend using these for most builds. Normal human Hull Reinforcement Packages with G5 Heavy Duty/Deep Plating will greatly outperform a GHRP in the majority of cases.
 
 The phasing damage from Thargoid Interceptors is absolute meaning it will ignore this added resistance if you have a shield. In a shieldless build, running a single class one or class two GHRP can be beneficial as it will apply the caustic resistance to your entire hull, making up for the comparative loss to an engineered HRP of the same size.
 
@@ -28,22 +28,25 @@ The phasing damage from Thargoid Interceptors is absolute meaning it will ignore
 
 ## Module Reinforcement Package
 
-Module Reinforcement Packages (MRPs) come in two variants: guardian and normal.
+Module Reinforcement Packages (MRPs) come in two types:
 
-Guardian Module Reinforcement Packages (GMRPs) act similar to normal MRPs, however they have 10% higher integrity and extra added effects. They also draw a small amount of power.
+- **Module Reinforcement Package (MRP)**
+- **Guardian Module Reinforcement Package (GMRP)**
 
-MRPs come in two versions:
+and each type comes in two classes:
 
-- **D Class:** Higher Absorption 60%, Lower integrity
-- **E Class:** Lower Absorption 30%, Higher integrity and weight
+- **D Class:** Higher Absorption (60%), Lower integrity
+- **E Class:** Lower Absorption (30%), Higher integrity and weight
 
-MRPs work by absorbing a portion of module damage onto themselves, reducing the amount taken by other modules. External modules only get half the absorption rate of internal modules.
+Module reinforcements work by absorbing a portion of module damage onto themselves, reducing the amount taken by other modules. External modules only get half the absorption rate of internal modules.
 
-GMRPs stack multiplicatively, as follows using D class for example.
+GMRPs act similar to normal MRPs, however they have 10% higher integrity and extra added effects. They also draw a small amount of power.
+
+The damage absorption effect stacks multiplicatively, as follows using D class for example.
 
 *1x D Class = 60%, 2x D Class = 84%, 3x D Class = 94%*
 
-Most builds recommend at least 1x GMRP to avoid modules being destroyed instantly from Thargoid weapons. Shieldless ship builds usually include three as any damage can be devastating without. The largest MRP that is not in a military slot is damage first, followed by smaller MRPs outside the military slots, and finishing with those in military slots. Due to this, many builds will use only one large GMRP (C4 or C5) and two smaller MRPs (C1 and C2).
+Most builds recommend at least 1x MRP to avoid modules being destroyed instantly from Thargoid weapons. Shieldless ship builds usually include three as any damage can be devastating without. The largest MRP that is not in a military slot is damaged first, followed by smaller MRPs outside the military slots, and finishing with those in military slots. Due to this, many builds will use only one large GMRP (C4 or C5) and two smaller MRPs (C1 and C2), all in regular optional internal slots.
 
 *GMRPs are also supposed to prevent modules from being shut down by lightning attacks. Instead, they only add another module to the pool that can be shut down. We don’t recommend testing this out yourself*.
 
@@ -71,8 +74,17 @@ This module is very useful for ships using human AX weaponry. It is not very use
 
 # Utility Modules
 
-## (Enhanced) Xeno Scanner
+## Xeno Scanners
+
+Xeno Scanners come in three types:
+
+- **Xeno Scanner: 500m range**
+- **Enhanced Xeno Scanner: 2km range**
+- **Pulse Wave Xeno Scanner: 1km range, pulse wave functionality**
+
 The Xeno Scanner allows you to identify details of Xeno Vessel that would not be possible without. Depending on the level of scan, this will give you access to more/less info. The enhanced variant is recommended, as it comes with 2km scan range over the meager 500m of the old scanner.
+
+The Pulse Wave Xeno Scanner also has a secondary mode which is used for highlighting material points on Thargoid Titans.
 
 #### Basic Scan
 
