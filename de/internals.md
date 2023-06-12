@@ -1,8 +1,8 @@
 ---
-title: Optionale Einbauteile
+title: Optional Internals & Utility Modules
 description: Eine kurze Einführung in die Verwendung der verschiedenen Module in AX.
 published: ja
-date: 2023-06-12T14:07:22.340Z
+date: 2023-06-12T14:42:17.211Z
 tags: Ausrüstung, Module
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -81,39 +81,37 @@ Xeno Scanners come in three types:
 - **Enhanced Xeno Scanner: 2km range**
 - **Pulse Wave Xeno Scanner: 1km range, pulse wave functionality**
 
-The Xeno Scanner allows you to identify details of Xeno Vessel that would not be possible without. Depending on the level of scan, this will give you access to more/less info. The enhanced variant is recommended, as it comes with 2km scan range over the meager 500m of the old scanner.
+A Xeno Scanner allows you to identify details of Xeno Vessel, as their alien composition disrupts standard scanners. The scanner has two modes, a passive scan and active scan. The enhanced variant is recommended, as the increased range makes it immensely easier to scan Thargoids.
 
 The Pulse Wave Xeno Scanner also has a secondary mode which is used for highlighting material points on Thargoid Titans.
 
-#### Einfacher Scan
+A **passive scan** is available as soon as you target a Thargoid vessel, and provides hull health, shield health, the vessels name, and a full targeting hologram.
 
-- Health
-- Shield Health
-- Variant Name and 3D Model
+An **active scan** requires getting within range of the xeno scanner and performing a full scan, similar to a standard Composition Scanner. Once the scan is complete, this unlocks the capability to subtarget and view the status of each heart on a Thargoid Interceptor.
 
-#### Kompletter Scan
-
-- All the above
-- Sub-Targeting and sub-target Status (Heart integrity % )
-
-In a wing, only one person requires a scanner, your ship will share the data with your wing once the scan is complete.
+Only one CMDR in a wing needs to have a scanner, as your ship will share data with your wing once the active scan is complete.
 
 ![xenoscan.png](/img/xenoscan.png)
 
 ##### Key
 1. Verbleibende Herzen
 2. Gesundheit insgesammt
-3. Gesundheit der Sub-Ziele
+3. Sub-Targeted Heart Health
 4. Name der Variante
 
-## Shutdown Field Neutralizer
-A Shutdown field neutralizer (SFN) allows you to negate the Shutdown Field (EMP) mechanic in Thargoid fights.
+## Shutdown Field Neutralizers
 
-#### Wie es funktioniert
+A Shutdown Field Neutralizer allows you to negate Thargoid shutdown pulses.
+
+They come in two types:
+- **Shutdown Field Neutralizer (SFN)**
+- **Thargoid Pulse Neutralizer (TPN)**
+
+The standard SFN negates regular Interceptor shutdown pulses, and protects other ships within 3km. The TPN protects only your ship from pulses, but also protects against a Maelstrom's massive surge.
+
+### How it works
 
 The SFN can be bound to a firegroup or to a hotkey, same as heatsinks. When activated it will rapidly drain the SYS capacitor. The SFN will only stay active while the button is held down and will only prevent an EMP effect if the wave hits you while the SFN is active.
-
-The SFN will also prevent the Shutdown Field from disabling anyone else within 3km of the ship using it.
 
 Generally, when you hear a shutdown pulse warning, dump pips to SYS, count to three, and then activate the neutralizer. Keep it activated until the wave fully dissapears.
 
@@ -121,4 +119,4 @@ Generally, when you hear a shutdown pulse warning, dump pips to SYS, count to th
 If your AX build doesn't have these, something is very wrong. Heatsinks are the only viable way of venting the extreme heat created by Guardian weaponry. They can either be bound to a firegroup or a dedicated hotkey. They require a small amount of SYS capacitor to use and provide 2 MW of WEP capacitor regeneration for their 10-second duration, in addition to providing rapid cooling. Heatsinks allow cold orbiting, which causes the Thargoid to miss most or all of its shots. For more information, see Cold Orbiting.
 
 ## Caustic Sink Launcher
-Highly recommended when fighting in AXCZs, as caustic clouds, scout swarms, and various interceptors make getting hit by caustics a fairly regular event. These sinks will quickly remove caustic from your ship automatically, only needing to be ejected when they are full. They are not recommended for solo fights, as caustic missiles can be avoided using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95).
+Highly recommended for most AX ships, as nearly all Thargoid vessels employ some form of caustic weaponry. These sinks will quickly remove the caustic debuff from your ship automatically, only needing to be ejected when they are full. They are not recommended for solo Interceptor fights, as caustic missiles can be avoided using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95).
