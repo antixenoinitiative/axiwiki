@@ -2,7 +2,7 @@
 title: Дополнительное оборудование
 description: Краткое введение по использованию различных модулей в AX.
 published: опубликовано
-date: 2023-03-04T21:49:23.395Z
+date: 2023-06-12T14:07:22.340Z
 tags: снаряжение, модули
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -12,15 +12,15 @@ dateCreated: 2021-06-10T04:05:26.162Z
 
 ## Набор для усиления корпуса
 
-Набор для усиления корпуса существует в трёх вариантах:
+Hull Reinforcement Packages come in three types:
 
 - **Набор для усиления корпуса (HRP)**
 - **Набор для усиления корпуса Стражей (GHRP)**
-- **Метасплавное усиление корпуса**
+- **Meta-Alloy Hull Reinforcement Package (MAHRP)**
 
-HRP добавляют дополнительные очки корпуса вашего корабля. GHRP также дают 5% сопротивления едкому урону, что снижает урон, получаемый от огня пушек перехватчиков, каустических ракет, таргонских снарядов и прочих едких эффектов. Мы НЕ рекомендуем использовать их для большинства сборок из-за невозможности модификации GHRP у инженеров и потребляемой мощности.
+Hull reinforcements do exactly what you might expect, they increase the hull and damage resistance of your ship. Human HRPs increase resistance to human damage, while Guardian HRPs also provide 5% caustic resistance. This reduces damage taken from Interceptor Cannon Fire, Caustic Missiles, Thargon Projectiles, and other Caustic effects.
 
-Обычные человеческие наборы для усиления корпуса с уровнем 5 и модификациями «Надёжное усиление корпуса» и с эксп. эффектом «Утолщённая броня» в большинстве случаев значительно превосходят GHRP.
+Due to the inability to engineer GHRPs and their power draw,  we DO NOT recommend using these for most builds. Normal human Hull Reinforcement Packages with G5 Heavy Duty/Deep Plating will greatly outperform a GHRP in the majority of cases.
 
 Фазовый урон, наносимый таргоидскими перехватчиками является абсолютным, что означает, что он будет игнорировать это дополнительное сопротивление, если у вас имеется щит. В без щитовых сборках применение одного GHRP первого или второго класса может быть выгодным, так как он будет применять сопротивление едкому урону ко всему корпусу, компенсируя сравнительные потери по сравнению с модифицированным у инженеров HRP того же размера.
 
@@ -28,22 +28,25 @@ HRP добавляют дополнительные очки корпуса ва
 
 ## Набор для усиления модуля
 
-Наборы для усиления модуля (MRP) существуют в двух вариантах: Стражей и обычные.
+Module Reinforcement Packages (MRPs) come in two types:
 
-Наборы для усиления корпуса Стражей (GMRP) действуют аналогично обычным MRP, однако имеют на 10% более высокую целостность и дополнительные эффекты. Они также потребляют небольшое количество энергии.
+- **Module Reinforcement Package (MRP)**
+- **Guardian Module Reinforcement Package (GMRP)**
 
-MRP существуют в двух вариантах:
+and each type comes in two classes:
 
-- **Класс D:** Более высокое бронирование 60%, более низкая целостность
-- **Класс E:** Более низкое бронирование 30%, более высокая целостность и масса
+- **D Class:** Higher Absorption (60%), Lower integrity
+- **E Class:** Lower Absorption (30%), Higher integrity and weight
 
-MRP работают, поглощая часть урона, наносимого модулем, на себя, уменьшая количество урона, наносимого другими модулями. Внешние модули получают только половину скорости поглощения внутренних модулей.
+Module reinforcements work by absorbing a portion of module damage onto themselves, reducing the amount taken by other modules. External modules only get half the absorption rate of internal modules.
 
-Характеристики GMRP складываются мультипликативно, как показано ниже на примере класса «D».
+GMRPs act similar to normal MRPs, however they have 10% higher integrity and extra added effects. They also draw a small amount of power.
+
+The damage absorption effect stacks multiplicatively, as follows using D class for example.
 
 *1x класс «D» = 60 %, 2x класс «D» = 84 %, 3x класс «D» = 94 %*
 
-В большинстве сборок рекомендуется как минимум 1 шт GMRP, чтобы избежать мгновенного разрушения модулей от оружия таргоидов. Корабли без щитов обычно оснащают тремя модулями, поскольку без них любой урон может оказаться разрушительным. Самый большой MRP, который не находится в военном слоте, повреждается первым, затем следуют меньшие MRP, установленные не в военных слотах, и заканчиваются теми, которые находятся в военных слотах. Поэтому во многих сборках используется только один большой GMRP (C4 или C5) и два меньших MRP (C1 и C2).
+Most builds recommend at least 1x MRP to avoid modules being destroyed instantly from Thargoid weapons. Корабли без щитов обычно оснащают тремя модулями, поскольку без них любой урон может оказаться разрушительным. The largest MRP that is not in a military slot is damaged first, followed by smaller MRPs outside the military slots, and finishing with those in military slots. Due to this, many builds will use only one large GMRP (C4 or C5) and two smaller MRPs (C1 and C2), all in regular optional internal slots.
 
 *GMRP также должны предотвращать отключение модулей в результате атак молнией. Вместо этого они лишь добавляют ещё один модуль группу, которую можно выключить. Мы не рекомендуем проверять это самостоятельно*.
 
@@ -70,19 +73,28 @@ This module comes in two classes, class 3 and class 5, increasing the experiment
 
 # Внешнее оборудование
 
-## (Enhanced) Xeno Scanner
+## Xeno Scanners
+
+Xeno Scanners come in three types:
+
+- **Xeno Scanner: 500m range**
+- **Enhanced Xeno Scanner: 2km range**
+- **Pulse Wave Xeno Scanner: 1km range, pulse wave functionality**
+
 The Xeno Scanner allows you to identify details of Xeno Vessel that would not be possible without. Depending on the level of scan, this will give you access to more/less info. The enhanced variant is recommended, as it comes with 2km scan range over the meager 500m of the old scanner.
+
+The Pulse Wave Xeno Scanner also has a secondary mode which is used for highlighting material points on Thargoid Titans.
 
 #### Основное сканирование
 
-- Здоровье
-- Уровень щитов
-- Наименование типа и 3D модель
+- Health
+- Shield Health
+- Variant Name and 3D Model
 
 #### Полное сканирование
 
-- Всё вышеперечисленное
-- Дополнительные цели и их состояние (Целостность сердца, % )
+- All the above
+- Sub-Targeting and sub-target Status (Heart integrity % )
 
 In a wing, only one person requires a scanner, your ship will share the data with your wing once the scan is complete.
 
