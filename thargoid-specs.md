@@ -1,26 +1,44 @@
-<!--
+---
 title: Thargoid Specifications
 description: Details specs of Thargoid Interceptors
 published: true
-date: 2023-02-14T13:38:54.552Z
+date: 2023-07-20T13:38:54.552Z
 tags: thargoids, interceptors, scouts
 editor: code
 dateCreated: 2021-06-15T11:27:45.002Z
--->
+---
+
+# Thargoid Specifications
+Details on the known values of different Thargoid vessels.
+
+**CAU** = Caustic Damage
+
+**ABS** = Absolute Damage
+
+## Scouts
+| | Scout |
+| ----- | ----|
+| Top Speed | 280 m/s |
+| Kill Reward | 65,000 - 75,000Cr
+| Total HP | 180 |
+| Armor Rating | ??? |
+| Human Weapon Resistance | 77% |
+| Passive Regen | None |
+| Shields | None |
+| Cannon Volley Size | 3 |
+| Cannon Range | 3km |
+| Damage per Volley | ??? |
+| Damage per Second | ??? |
+
+## Interceptors
 
 <link rel="stylesheet" href="thargoid-specs.css">
-
-<h1>Thargoid Specifications</h1>
-<p>Details specifications on the known values of different Thargoid Interceptors and Scouts.</p>
-<p><strong>CAU</strong> = Caustic Damage</p>
-<p><strong>ABS</strong> = Absolute Damage</p>
 
 <figure>
   <table>
     <tbody>
       <tr>
         <th scope="col">&nbsp;                </th>
-        <th scope="col"><strong>Scout</strong>‎‎‎‎‎‎‎‎‎‎</th>
         <th scope="col"><strong>Cyclops</strong></th></th>
         <th scope="col"><strong>Basilisk</strong></th>
         <th scope="col"><strong>Medusa</strong></th>
@@ -29,7 +47,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Number of Hearts</strong></th>
-        <td>N/A</td>
         <td>4</td>
         <td>5</td>
         <td>6</td>
@@ -38,7 +55,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Top Speed</strong></th>
-        <td>280 m/s</td>
         <td>450 m/s</td>
         <td>530 m/s</td>
         <td>450 m/s</td>
@@ -48,7 +64,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       <tr>
         <th scope="row"><strong>Swarm Size</strong>
         </th>
-        <td>N/A</td>
         <td>32</td>
         <td>64</td>
         <td>96</td>
@@ -57,7 +72,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Enrage timer</strong></th>
-        <td>N/A</td>
         <td>06:00</td>
         <td>07:00</td>
         <td>07:00</td>
@@ -65,17 +79,15 @@ dateCreated: 2021-06-15T11:27:45.002Z
         <td>N/A</td>
       </tr>
       <tr>
-        <th scope="row"><strong>Kill reward</strong></th>
-        <td>65,000-75,000Cr</td>
-        <td>6,500,000Cr</td>
-        <td>20,000,000Cr</td>
-        <td>34,000,000Cr</td>
-        <td>50,000,000Cr</td>
-        <td>25,000,000Cr</td>
+        <th scope="row"><strong>Kill reward (Cr)</strong></th>
+        <td>6,500,000</td>
+        <td>20,000,000</td>
+        <td>34,000,000</td>
+        <td>50,000,000</td>
+        <td>40,000,000</td>
       </tr>
       <tr>
         <th scope="row"><strong>Total HP</strong></th>
-        <td>180</td>
         <td>810</td>
         <td>1800</td>
         <td>2500</td>
@@ -84,7 +96,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Heart HP</strong></th>
-        <td>N/A</td>
         <td>38</td>
         <td>70</td>
         <td>70</td>
@@ -93,7 +104,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Armour Rating</strong> </th>
-        <td>N/A</td>
         <td>100</td>
         <td>140</td>
         <td>175</td>
@@ -102,7 +112,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Human Weapon Resistance</strong></th>
-        <td>77%</td>
         <td>99.00%</td>
         <td>99.00%</td>
         <td>99.00%</td>
@@ -111,7 +120,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Passive Regen Speed %/s</strong></th>
-        <td>N/A</td>
         <td>0.4</td>
         <td>0.4</td>
         <td>0.4</td>
@@ -120,7 +128,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Passive Regen Speed HP/s.</strong></th>
-        <td>N/A</td>
         <td>3.2</td>
         <td>7.2</td>
         <td>10</td>
@@ -128,17 +135,7 @@ dateCreated: 2021-06-15T11:27:45.002Z
         <td>N/A</td>
       </tr>
       <tr>
-        <th scope="row"><strong>Exerted Hull Regen Speed</strong></th>
-        <td>N/A</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>N/A</td>
-      </tr>
-      <tr>
         <th scope="row"><strong>Shield Strength</strong></th>
-        <td>N/A</td>
         <td>2450</td>
         <td>4300</td>
         <td>6150</td>
@@ -147,7 +144,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"></strong>Shield Decay Rate</strong></th>
-        <td>N/A</td>
         <td>25 Mj/s</td>
         <td>25 Mj/s</td>
         <td>25 Mj/s</td>
@@ -156,7 +152,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Shield Decay Time (100% to 0%)</strong></th>
-        <td>N/A</td>
         <td>01:38</td>
         <td>02:51</td>
         <td>04:05</td>
@@ -165,7 +160,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Cannon Volley Size</strong></th>
-        <td>3</td>
         <td>4</td>
         <td>8</td>
         <td>12</td>
@@ -174,7 +168,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Cannon Range</strong></th>
-        <td>~3km</td>
         <td>3km</td>
         <td>3km</td>
         <td>3km</td>
@@ -183,7 +176,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Cannon Reload Time</strong></th>
-        <td>N/A</td>
         <td>00:10</td>
         <td>00:15</td>
         <td>00:10</td>
@@ -192,7 +184,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Attack Run Duration</strong></th>
-        <td>N/A</td>
         <td>≈0:30</td>
         <td>≈0:26</td>
         <td>≈0:26</td>
@@ -201,7 +192,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Raw Damage per Volley</strong></th>
-        <td>N/A</td>
         <td>20 (CAU)</td>
         <td>68 (CAU)</td>
         <td>132 (CAU)</td>
@@ -210,7 +200,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Shield Damage Per Volley§</strong></th>
-        <td>N/A</td>
         <td>≈8 (CAU)</td>
         <td>≈28 (CAU)</td>
         <td>≈53 (CAU)</td>
@@ -219,7 +208,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Phasing Hull Damage Per Volley</strong></td>
-        <td>N/A</td>
         <td>≈1 (ABS)</td>
         <td>≈4 (ABS)</td>
         <td>≈12 (ABS)</td>
@@ -228,7 +216,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Direct Hull Damage Per Volley†</strong></th>
-        <td>N/A</td>
         <td>20 (CAU)</td>
         <td>68 (CAU)</td>
         <td>132 (CAU)</td>
@@ -237,7 +224,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Volleys per Attack Run</strong></th>
-        <td>N/A</td>
         <td>≈20 Volleys</td>
         <td>≈20 Volleys</td>
         <td>≈18 Volleys</td>
@@ -246,7 +232,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Shield Damage Per Attack Run§</strong></th>
-        <td>N/A</td>
         <td>≈160 (CAU)</td>
         <td>≈560 (CAU)</td>
         <td>≈954 (CAU)</td>
@@ -255,7 +240,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Direct Hull Damage Per Attack Run†</strong></th>
-        <td>N/A</td>
         <td>400</td>
         <td>1360</td>
         <td>2376</td>
@@ -264,7 +248,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Phasing Hull Damage Per Attack Run</strong></th>
-        <td>N/A</td>
         <td>≈20 (ABS)</td>
         <td>≈80 (ABS)</td>
         <td>≈216 (ABS)</td>
@@ -273,7 +256,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Cannon DPS (Shield)§</strong></th>
-        <td>N/A</td>
         <td>≈5/s (CAU)</td>
         <td>≈19/s (CAU)</td>
         <td>≈35/s (CAU)</td>
@@ -282,7 +264,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Cannon DPS (Direct Hull)†</strong></th>
-        <td>N/A</td>
         <td>≈13/s (CAU)</td>
         <td>≈45/s (CAU)</td>
         <td>≈88/s (CAU)</td>
@@ -291,7 +272,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Cannon DPS (Phasing Hull)</strong></th>
-        <td>N/A</td>
         <td>≈0.7/s (ABS)</td>
         <td>≈2.7/s (ABS)</td>
         <td>≈8/s (ABS)</td>
@@ -300,7 +280,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Lightning Duration</strong></th>
-        <td>N/A</td>
         <td>00:08</td>
         <td>00:10</td>
         <td>00:12</td>
@@ -309,7 +288,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Lightning Damage</strong></th>
-        <td>N/A</td>
         <td>800</td>
         <td>1700</td>
         <td>2800</td>
@@ -318,7 +296,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Damage to exert the first heart</strong></td>
-        <td>N/A</td>
         <td>160</td>
         <td>360</td>
         <td>500</td>
@@ -327,7 +304,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Optimal Medium Gauss&nbsp;</strong><br><strong>Shots to Exert First Heart</strong></th>
-        <td>N/A</td>
         <td>6</td>
         <td>12</td>
         <td>24</td>
@@ -336,7 +312,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Optimal Medium Gauss&nbsp;<br>Shots to Destroy a Heart</strong></th>
-        <td>N/A</td>
         <td>3</td>
         <td>4</td>
         <td>5</td>
@@ -345,7 +320,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Hull Damage % required to Exert</strong></th>
-        <td>N/A</td>
         <td>Heart 1: 20%&nbsp;<br>Heart 2: 16%&nbsp;<br>Heart 3: 12%&nbsp;<br>Heart 4: 8%
         </td>
         <td>Heart 1: 20%<br>Heart 2: 16%<br>Heart 3: 14%<br>Heart 4: 10%<br>Heart 5: 8%
@@ -358,7 +332,6 @@ dateCreated: 2021-06-15T11:27:45.002Z
       </tr>
       <tr>
         <th scope="row"><strong>Heart exertion thresholds<br>In % of current max Hull</style></th>
-        <td>N/A</td>
         <td>80</td>
         <td>80</td>
         <td>80</td>
@@ -368,3 +341,18 @@ dateCreated: 2021-06-15T11:27:45.002Z
     </tbody>
   </table>
 </figure>
+
+## Glaives
+
+| | Hunter |
+| - | ----- |
+| Top Speed | ~750m/s | 
+| Kill Reward | ??? |
+| Total HP | 720 | 
+| Passive Regen | None |
+| Human Damage Resistance | 99% |
+| Armor Rating | 100 |
+| Cannon DPS | ??? |
+| Shield Strength (MJ) | ~420 |
+| Passive Shield Decay (MW) | 25 |
+| Shield Decay Time | 00:16 |
