@@ -2,7 +2,7 @@
 title: Thargoids
 description: About Thargoids
 published: false
-date: 2023-08-06T03:19:30.212Z
+date: 2023-08-06T03:31:20.114Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -26,14 +26,14 @@ dateCreated: 2023-08-06T02:18:49.013Z
 
 Thargoids come in 5 known <RL>size</RL> classes: Titans, Interceptors, Hunters, <RL>Glaives</RL> <NwT>Scouts</Nwt>, and <RL>ground variants</RL><NwT> Drones</NwT>.
 
-Thargoid **Titans** are <NwT>large</NwT> capital class Thargoid vessels, and can be found <RL>in</RL><NwT>at</NwT> the center of Maelstroms. Thargoid <RL>ground bases</RL><NwT> planetary structures and sites</NwT> also bear many similarities to the Titans found in space.<RL>, so they may be related.</RL>
+Thargoid **Titans** are <NwT>large</NwT> capital class Thargoid vessels, and can be found <RL>in</RL><NwT>at</NwT> the center of Maelstroms. Thargoid <RL>ground bases</RL><NwT> planetary structures, surface sites, and barnacle matrix sites</NwT> also bear many similarities to the Titans found in space.<RL>, so they may be related.</RL>
 
 Thargoid [**Interceptors**](/en/interceptors) come in five variants: Orthrus, Cyclops, Basilisk, Medusa and Hydra, in ascending level of difficulty. Each next variant has more [**hearts**](/en/hearts) and is tougher than the last, requiring <RL>far</RL> more damage <RL>to exert and </RL>destroy <RL>hearts</RL><NwT> them</NwT>. The Orthrus is a special class of interceptor<RL>, with no offensive capabilities</RL> <NwT>without hearts.</NwT>
 <RL>Interceptors are incredibly tough and typically are best suited to wing combat as soloing them is a huge achievement.</RL> Interceptors use very high damage output weapons, crowd-control style special abilities and <RL>large</RL> [**thargon drone swarms**](/en/thargon-swarms) to wreak havoc on the battlefield.
 
 Thargoid **Hunters** are the newest class spotted, and <RL>currently only</RL> come in <RL>one</RL><NwT>two</Nwt> variant<NwT>s</NwT>: Glaives and <NwT>Scythes</NwT>. <RL>These Glaives have a very high acceleration</RL><NwT>Hunters have very high mobility</NwT>, fire FSD disruptor and caustic missiles, deploy an anti-guardian field similar to the Orthrus<NwT>.</NwT><RL>, and are not deterred by low heat.</RL> 
 
-Thargoid [**Scouts**](/en/scouts) are a smaller variant of the Thargoid interceptor<NwT>.</NwT> They come in multiple types with different special abilities. <RL>Read more about these in the Thargoid Scouts section.</RL>
+Thargoid [**Scouts**](/en/scouts) are a smaller variant of the Thargoid interceptor<NwT>.</NwT> They come in <RL>multiple types</RL><NwT> four variants: Berserker, Inciter, Marauder, and Regenerator. Each </Nwt>with different special abilities. Read more about these in the [**Thargoid Scouts**](/en/scouts) section.
 
 Thargoid <NwT>Drones include Thargon drones that make up interceptor swarms and two ground based Thargoids, </NwT>**Revenants** and **Scavengers** <RL>are the only known Thargoid ground forces</RL>. Scavengers maintain and protect Thargoid <RL>ground bases</RL><NwT>structures, sites,</NwT>, while Revenants occupy human ground bases in Controlled systems <NwT>and barnacle matrices.</NwT><RL>, eliminating any intruders.</RL>
 
