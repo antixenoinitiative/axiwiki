@@ -2,7 +2,7 @@
 title: Thargoids
 description: Zu Thargoids
 published: ja
-date: 2023-08-06T04:55:22.274Z
+date: 2023-08-06T18:52:10.214Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:10:09.264Z
@@ -33,7 +33,7 @@ Thargoid **Hunters** are the newest class spotted, and come in two variants: Gla
 
 Thargoid [**Scouts**](/en/scouts) are a smaller variant of the Thargoid interceptor. They come in four variants: Berserker, Inciter, Marauder, and Regenerator. Each with different special abilities. Read more about these in the [**Thargoid Scouts**](/en/scouts) section.
 
-Thargoid ground variants come in two forms: Revenants and Scavengers. Scavengers maintain and protect Thargoid structures. Revenants are found at barnacle matrices and occupy human ground bases in Controlled systems.
+Thargoid ground variants come in two forms: Revenants and Scavengers. Scavengers maintain and protect Thargoid structures. Revenants are found at barnacle matrices and occupy human ground bases in Controlled systems. ![thargoid_combatants.png](/img/thargoid_combatants.png)
 
 ## Thargoid Encounters
 
@@ -44,5 +44,3 @@ As pilots travel between planets, stars, and systems, we find our existence thre
 Attempting Thargoid combat with the appropriate defenses, weaponry, and strategy is paramount to ensuring success and help avoid the rebuy screen.
 
 Visit build theory next to learn what modules we use to ensure effective battle strategy in [**Ship Build Theory**](/en/shipbuildtheory) and consider the many builds on display in [**Recommended Ship Builds**](/en/builds).
-
-![thargoids.png](/img/thargoids/thargoids.png)
