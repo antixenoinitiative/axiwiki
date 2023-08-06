@@ -2,7 +2,7 @@
 title: Thargoids
 description: About Thargoids
 published: false
-date: 2023-08-06T02:50:24.726Z
+date: 2023-08-06T03:11:48.715Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -33,12 +33,11 @@ Thargoid [**Interceptors**](/en/interceptors) come in five variants: Orthrus, Cy
 
 Thargoid **Hunters** are the newest class spotted, and <RL>currently only</RL> come in <RL>one</RL><NwT>two</Nwt> variant<NwT>s</NwT>: Glaives and <NwT>Scythes</NwT>. <RL>These Glaives have a very high acceleration</RL><NwT>Hunters have very high mobility</NwT>, fire FSD disruptor and caustic missiles, deploy an anti-guardian field similar to the Orthrus<NwT>.</NwT><RL>, and are not deterred by low heat.</RL> 
 
-Thargoid [**Scouts**](/en/scouts) are a smaller variant of the Thargoid interceptor<NwT>.</NwT> They come in multiple types with different special abilities. Read more about these in the Thargoid [**Scouts**](/en/scouts) section.
+Thargoid [**Scouts**](/en/scouts) are a smaller variant of the Thargoid interceptor<NwT>.</NwT> They come in multiple types with different special abilities. <RL>Read more about these in the Thargoid Scouts section.</RL>
 
-Thargoid **Revenants** and **Scavengers** are the only known Thargoid ground forces. Scavengers maintain and protect Thargoid ground bases, while Revenants occupy human ground bases in Controlled systems, eliminating any intruders.
+Thargoid <NwT>Drones include Thargon drones that make up interceptor swarms and two ground based Thargoids, </NwT>**Revenants** and **Scavengers** <RL>are the only known Thargoid ground forces</RL>. Scavengers maintain and protect Thargoid <RL>ground bases</RL><NwT>structures, sites,</NwT>, while Revenants occupy human ground bases in Controlled systems <NwT>and barnacle matrices.</NwT><RL>, eliminating any intruders.</RL>
 
-Attempting to fight a Thargoid without the appropriate weaponry and defenses is nigh-impossible, Thargoid Interceptors have incredibly strong armour and fast regeneration capabilities, this makes conventional weapons (such as Multi-cannons, Missiles, Plasma Accelerators, Lasers) completely ineffective at damaging them. Even Hunters and Scouts still have a high resistance to conventional weaponry.
+ Thargoid Interceptors have incredibly strong armour and fast regeneration capabilities, this makes conventional weapons (such as Multi-cannons, Missiles, Plasma Accelerators, Lasers) completely ineffective at damaging them. Even Hunters and Scouts still have a high resistance to conventional weaponry. Thankfully humanity has not only developed their own line of AX (Anti-Xeno) weaponry, but we have also adapted the ancient Guardian technology into very powerful hybrid weapons and modules that are far more effective at destroying Thargoid vessels. Attempting <RL>to fight a</RL> Thargoid<NwT> combat</NwT> with<RL>out</RL> the appropriate weaponry<NwT>,</NwT><RL> and</RL> defenses<NwT>, and strategy</NwT> <RL>is nigh-impossible,</RL> <NwT>is paramount to ensuring success and help avoid the rebuy screen.</NwT> 
 
-Thankfully humanity has not only developed their own line of AX (Anti-Xeno) weaponry, but we have also adapted the ancient Guardian technology into very powerful hybrid weapons and modules that are far more effective at destroying Thargoid vessels.
 
 ![thargoids.png](/img/thargoids/thargoids.png)
