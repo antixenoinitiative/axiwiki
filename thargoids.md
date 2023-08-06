@@ -2,7 +2,7 @@
 title: Thargoids
 description: About Thargoids
 published: true
-date: 2023-08-06T04:34:40.918Z
+date: 2023-08-06T04:55:22.274Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:10:09.264Z
@@ -36,7 +36,11 @@ Thargoid [**Scouts**](/en/scouts) are a smaller variant of the Thargoid intercep
 
 Thargoid ground variants come in two forms: Revenants and Scavengers. Scavengers maintain and protect Thargoid structures. Revenants are found at barnacle matrices and occupy human ground bases in Controlled systems.
 
- Thargoid Interceptors have incredibly strong armour and fast regeneration capabilities, this makes conventional weapons (Multi-cannons, Missiles, Plasma Accelerators, Lasers, etc.) completely ineffective at damaging them. Even Hunters and Scouts still have a high resistance to conventional weaponry. Thankfully humanity has not only developed their own line of Anti-Xeno (AX) weaponry, but we have also adapted the ancient Guardian technology into very powerful hybrid weapons and modules that are far more effective at destroying Thargoid vessels.
+## Thargoid Encounters
+
+As pilots travel between planets, stars, and systems, we find our existence threatened by these vocal and destructive xenos. Hyperdictions and interdictions by Thargoids can be devastating depending on the Thargoid and the number of them that make it into the encounter.
+
+ Thargoid interceptors and glaives have the highest rate for hyperdiction, and scouts for interdictions. Thargoid interceptors have incredibly strong armour and fast regeneration capabilities, this makes conventional weapons (Multi-cannons, Missiles, Plasma Accelerators, Lasers, etc.) completely ineffective at damaging them. Even Hunters and Scouts still have a high resistance to conventional weaponry. Thankfully humanity has not only developed their own line of Anti-Xeno (AX) weaponry, but we have also adapted the ancient Guardian technology into very powerful hybrid weapons and modules that are far more effective at destroying Thargoid vessels.
  
 Attempting Thargoid combat with the appropriate defenses, weaponry, and strategy is paramount to ensuring success and help avoid the rebuy screen.
 
