@@ -2,7 +2,7 @@
 title: Thargoids
 description: About Thargoids
 published: false
-date: 2023-08-06T03:18:14.823Z
+date: 2023-08-06T03:18:30.816Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -41,6 +41,6 @@ Thargoid <NwT>Drones include Thargon drones that make up interceptor swarms and 
  
 Attempting <RL>to fight a</RL> Thargoid<NwT> combat</NwT> with<RL>out</RL> the appropriate weaponry<NwT>,</NwT><RL> and</RL> defenses<NwT>, and strategy</NwT> <RL>is nigh-impossible,</RL> <NwT>is paramount to ensuring success and help avoid the rebuy screen.</NwT> 
 
-<NwT>Visit build theory next to learn what modules we use to ensure effective battle strategy in </NwT>[**Ship Build Theory**](/en/shipbuildtheory) <NwT>and consider the many builds on display in </NwT>[**Recommended Ship Builds**](/en/builds)
+<NwT>Visit build theory next to learn what modules we use to ensure effective battle strategy in </NwT>[**Ship Build Theory**](/en/shipbuildtheory) <NwT>and consider the many builds on display in </NwT>[**Recommended Ship Builds**](/en/builds).
 
 ![thargoids.png](/img/thargoids/thargoids.png)
