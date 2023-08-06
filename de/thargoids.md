@@ -2,7 +2,7 @@
 title: Thargoids
 description: Zu Thargoids
 published: ja
-date: 2023-06-02T12:07:54.979Z
+date: 2023-08-06T04:55:22.274Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:10:09.264Z
@@ -17,24 +17,32 @@ dateCreated: 2021-06-15T10:10:09.264Z
 
 *Eintrag vom Elite: Dangerous Codex*
 
-[**Lern mehr zu den Thargoids auf der offiziellen Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
+[**Learn more about Thargoids on Frontier's official Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
 
 [**Lies zu den Thargoids auf der Canonn Research Webseite**](https://canonn.science/codex/xeno-technology/)
 
 ## Thargoid Schiffe
 
-Thargoids come in 5 known size classes: Titans, Interceptors, Hunters, Glaives, and ground variants.
+Thargoids come in 5 known classes: the Titan, interceptor, hunter, scout, and ground variant.
 
-Thargoid **Titans** are capital class Thargoid vessels, and can be found in the center of Maelstroms. Thargoid ground bases also bear many similarities to the Titans found in space, so they may be related.
+Thargoid **Titans** are large capital class Thargoid vessels, and can be found at the center of Maelstroms. Thargoid planetary structures surface sites, and barnacle matrix sites also bear many similarities to the Titans found in space. Read more about these on the [**Maelstrom**](/en/Maelstrom) page.
 
-Thargoid [**Interceptors**](/en/interceptors) come in five variants: Orthrus, Cyclops, Basilisk, Medusa and Hydra, in ascending level of difficulty. Each next variant has more [**hearts**](/en/hearts) and is tougher than the last, requiring far more damage to exert and destroy hearts. The Orthrus is a special class of interceptor, with no offensive capabilities. Interceptors are incredibly tough and typically are best suited to wing combat as soloing them is a huge achievement. Interceptors use very high damage output weapons, crowd-control style special abilities and large [**thargon drone swarms**](/en/thargon-swarms) to wreak havoc on the battlefield.
+Thargoid [**Interceptors**](/en/interceptors) come in five variants: Orthrus, Cyclops, Basilisk, Medusa and Hydra, in ascending level of difficulty. Each next variant has more [**hearts**](/en/hearts) and is tougher than the last, requiring more damage destroy them. The Orthrus is a special class of interceptor without hearts. Interceptors use very high damage output weapons, crowd-control style special abilities, and deploy [**Thargon drone swarms**](/en/thargon-swarms) to wreak havoc on the battlefield.
 
-Thargoid **Hunters** are the newest class spotted, and currently only come in one variant: Glaives. These Glaives have a very high acceleration, fire FSD disruptor and caustic missiles, deploy an anti-guardian field similar to the Orthrus, and are not deterred by low heat.
+Thargoid **Hunters** are the newest class spotted, and come in two variants: Glaives and Scythes. Hunters have very high mobility, fire FSD disruptor and caustic missiles, and deploy an anti-guardian field similar to the Orthrus.
 
-Thargoid [**Scouts**](/en/scouts) are a smaller variant of the Thargoid interceptor, they come in multiple types with different special abilities. Read more about these in the Thargoid [**Scouts**](/en/scouts) section.
+Thargoid [**Scouts**](/en/scouts) are a smaller variant of the Thargoid interceptor. They come in four variants: Berserker, Inciter, Marauder, and Regenerator. Each with different special abilities. Read more about these in the [**Thargoid Scouts**](/en/scouts) section.
 
-Thargoid **Revenants** and **Scavengers** are the only known Thargoid ground forces. Scavengers maintain and protect Thargoid ground bases, while Revenants occupy human ground bases in Controlled systems, eliminating any intruders.
+Thargoid ground variants come in two forms: Revenants and Scavengers. Scavengers maintain and protect Thargoid structures. Revenants are found at barnacle matrices and occupy human ground bases in Controlled systems.
 
-Attempting to fight a Thargoid without the appropriate weaponry and defenses is nigh-impossible, Thargoid Interceptors have incredibly strong armour and fast regeneration capabilities, this makes conventional weapons (such as Multi-cannons, Missiles, Plasma Accelerators, Lasers) completely ineffective at damaging them. Even Hunters and Scouts still have a high resistance to conventional weaponry.
+## Thargoid Encounters
 
-Thankfully humanity has not only developed their own line of AX (Anti-Xeno) weaponry, but we have also adapted the ancient Guardian technology into very powerful hybrid weapons and modules that are far more effective at destroying Thargoid vessels.
+As pilots travel between planets, stars, and systems, we find our existence threatened by these vocal and destructive xenos. Hyperdictions and interdictions by Thargoids can be devastating depending on the Thargoid and the number of them that make it into the encounter.
+
+ Thargoid interceptors and glaives have the highest rate for hyperdiction, and scouts for interdictions. Thargoid interceptors have incredibly strong armour and fast regeneration capabilities, this makes conventional weapons (Multi-cannons, Missiles, Plasma Accelerators, Lasers, etc.) completely ineffective at damaging them. Even Hunters and Scouts still have a high resistance to conventional weaponry. Thankfully humanity has not only developed their own line of Anti-Xeno (AX) weaponry, but we have also adapted the ancient Guardian technology into very powerful hybrid weapons and modules that are far more effective at destroying Thargoid vessels.
+
+Attempting Thargoid combat with the appropriate defenses, weaponry, and strategy is paramount to ensuring success and help avoid the rebuy screen.
+
+Visit build theory next to learn what modules we use to ensure effective battle strategy in [**Ship Build Theory**](/en/shipbuildtheory) and consider the many builds on display in [**Recommended Ship Builds**](/en/builds).
+
+![thargoids.png](/img/thargoids/thargoids.png)
