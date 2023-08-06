@@ -2,7 +2,7 @@
 title: Thargoids
 description: About Thargoids
 published: false
-date: 2023-08-06T02:21:31.599Z
+date: 2023-08-06T02:24:06.948Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -24,7 +24,7 @@ dateCreated: 2023-08-06T02:18:49.013Z
 
 ## Thargoid Vessels
 
-Thargoids come in 5 known <RL>size</RL> classes: Titans, Interceptors, Hunters, <RL>Glaives</RL> Scouts, and <RL>ground variants</RL> drones.
+Thargoids come in 5 known <RL>size</RL> classes: Titans, Interceptors, Hunters, <RL>Glaives</RL> Scouts, and <RL>ground variants</RL><NewText> drones</NewText>.
 
 Thargoid **Titans** are capital class Thargoid vessels, and can be found in the center of Maelstroms. Thargoid ground bases also bear many similarities to the Titans found in space, so they may be related.
 
