@@ -2,7 +2,7 @@
 title: Thargoids
 description: About Thargoids
 published: false
-date: 2023-08-06T03:34:51.721Z
+date: 2023-08-06T04:22:46.074Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -24,9 +24,9 @@ dateCreated: 2023-08-06T02:18:49.013Z
 
 ## Thargoid Vessels
 
-Thargoids come in 5 known <RL>size</RL> classes: Titans, Interceptors, Hunters, <RL>Glaives</RL> <NwT>Scouts</Nwt>, and <RL>ground variants</RL><NwT> Drones</NwT>.
+Thargoids come in 5 known <RL>size</RL> classes: <Nwt>the </NwT>Titan, Interceptor, Hunter, <RL>Glaives</RL> <NwT>Scout</Nwt>, and ground variant.
 
-Thargoid **Titans** are <NwT>large</NwT> capital class Thargoid vessels, and can be found <RL>in</RL><NwT>at</NwT> the center of Maelstroms. Thargoid <RL>ground bases</RL><NwT> planetary structures, surface sites, and barnacle matrix sites</NwT> also bear many similarities to the Titans found in space.<RL>, so they may be related.</RL>
+Thargoid **Titans** are <NwT>large</NwT> capital class Thargoid vessels, and can be found <RL>in</RL><NwT>at</NwT> the center of Maelstroms. Thargoid <RL>ground bases</RL><NwT> planetary structures, surface sites, and barnacle matrix sites</NwT> also bear many similarities to the Titans found in space.<RL>, so they may be related.</RL> <NwT>Read more about these on the</NwT> [**Maelstrom**](/en/Maelstrom)
 
 Thargoid [**Interceptors**](/en/interceptors) come in five variants: Orthrus, Cyclops, Basilisk, Medusa and Hydra, in ascending level of difficulty. Each next variant has more [**hearts**](/en/hearts) and is tougher than the last, requiring <RL>far</RL> more damage <RL>to exert and </RL>destroy <RL>hearts</RL><NwT> them</NwT>. The Orthrus is a special class of interceptor<RL>, with no offensive capabilities</RL> <NwT>without hearts.</NwT>
 <RL>Interceptors are incredibly tough and typically are best suited to wing combat as soloing them is a huge achievement.</RL> Interceptors use very high damage output weapons, crowd-control style special abilities and <RL>large</RL> [**Thargon drone swarms**](/en/thargon-swarms) to wreak havoc on the battlefield.
@@ -35,7 +35,7 @@ Thargoid **Hunters** are the newest class spotted, and <RL>currently only</RL> c
 
 Thargoid [**Scouts**](/en/scouts) are a smaller variant of the Thargoid interceptor<NwT>.</NwT> They come in <RL>multiple types</RL><NwT> four variants: Berserker, Inciter, Marauder, and Regenerator. Each </Nwt>with different special abilities. Read more about these in the [**Thargoid Scouts**](/en/scouts) section.
 
-Thargoid <NwT>Drones include Thargon drones that make up interceptor swarms and two ground based Thargoids, </NwT>**Revenants** and **Scavengers** <RL>are the only known Thargoid ground forces</RL>. Scavengers maintain and protect Thargoid <RL>ground bases</RL><NwT>structures, sites,</NwT>, while Revenants occupy human ground bases in Controlled systems <NwT>and barnacle matrices.</NwT><RL>, eliminating any intruders.</RL>
+Thargoid <NwT>ground variants come in two forms: </NwT>**Revenants** and **Scavengers** <RL>are the only known Thargoid ground forces</RL>. Scavengers maintain and protect Thargoid <RL>ground bases</RL><NwT>structures.</NwT><RL>while</RL> Revenants <NwT>are found at barnacle matrices and </NwT>occupy human ground bases in Controlled systems <RL>, eliminating any intruders.</RL>
 
  Thargoid Interceptors have incredibly strong armour and fast regeneration capabilities, this makes conventional weapons (such as Multi-cannons, Missiles, Plasma Accelerators, Lasers) completely ineffective at damaging them. Even Hunters and Scouts still have a high resistance to conventional weaponry. Thankfully humanity has not only developed their own line of AX (Anti-Xeno) weaponry, but we have also adapted the ancient Guardian technology into very powerful hybrid weapons and modules that are far more effective at destroying Thargoid vessels.
  
