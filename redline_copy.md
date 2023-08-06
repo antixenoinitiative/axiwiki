@@ -2,7 +2,7 @@
 title: Thargoids
 description: About Thargoids
 published: false
-date: 2023-08-06T03:11:48.715Z
+date: 2023-08-06T03:18:14.823Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -37,7 +37,10 @@ Thargoid [**Scouts**](/en/scouts) are a smaller variant of the Thargoid intercep
 
 Thargoid <NwT>Drones include Thargon drones that make up interceptor swarms and two ground based Thargoids, </NwT>**Revenants** and **Scavengers** <RL>are the only known Thargoid ground forces</RL>. Scavengers maintain and protect Thargoid <RL>ground bases</RL><NwT>structures, sites,</NwT>, while Revenants occupy human ground bases in Controlled systems <NwT>and barnacle matrices.</NwT><RL>, eliminating any intruders.</RL>
 
- Thargoid Interceptors have incredibly strong armour and fast regeneration capabilities, this makes conventional weapons (such as Multi-cannons, Missiles, Plasma Accelerators, Lasers) completely ineffective at damaging them. Even Hunters and Scouts still have a high resistance to conventional weaponry. Thankfully humanity has not only developed their own line of AX (Anti-Xeno) weaponry, but we have also adapted the ancient Guardian technology into very powerful hybrid weapons and modules that are far more effective at destroying Thargoid vessels. Attempting <RL>to fight a</RL> Thargoid<NwT> combat</NwT> with<RL>out</RL> the appropriate weaponry<NwT>,</NwT><RL> and</RL> defenses<NwT>, and strategy</NwT> <RL>is nigh-impossible,</RL> <NwT>is paramount to ensuring success and help avoid the rebuy screen.</NwT> 
+ Thargoid Interceptors have incredibly strong armour and fast regeneration capabilities, this makes conventional weapons (such as Multi-cannons, Missiles, Plasma Accelerators, Lasers) completely ineffective at damaging them. Even Hunters and Scouts still have a high resistance to conventional weaponry. Thankfully humanity has not only developed their own line of AX (Anti-Xeno) weaponry, but we have also adapted the ancient Guardian technology into very powerful hybrid weapons and modules that are far more effective at destroying Thargoid vessels.
+ 
+Attempting <RL>to fight a</RL> Thargoid<NwT> combat</NwT> with<RL>out</RL> the appropriate weaponry<NwT>,</NwT><RL> and</RL> defenses<NwT>, and strategy</NwT> <RL>is nigh-impossible,</RL> <NwT>is paramount to ensuring success and help avoid the rebuy screen.</NwT> 
 
+<NwT>Visit build theory next to learn what modules we use to ensure effective battle strategy in </NwT>[**Ship Build Theory**](/en/shipbuildtheory) <NwT>and consider the many builds on display in </NwT>[**Recommended Ship Builds**](/en/builds)
 
 ![thargoids.png](/img/thargoids/thargoids.png)
