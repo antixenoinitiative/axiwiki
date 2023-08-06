@@ -2,7 +2,7 @@
 title: Thargoids
 description: About Thargoids
 published: false
-date: 2023-08-06T03:32:41.480Z
+date: 2023-08-06T03:34:51.721Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
