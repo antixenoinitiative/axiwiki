@@ -2,7 +2,7 @@
 title: Thargoids
 description: About Thargoids
 published: true
-date: 2023-08-06T04:24:55.188Z
+date: 2023-08-06T04:26:30.911Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T03:40:01.561Z
@@ -18,7 +18,7 @@ dateCreated: 2023-08-06T03:40:01.561Z
 
 *Entry from Elite Dangerous Codex*
 
-[**Learn more about the Thargoids on Frontier's official Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
+[**Learn more about Thargoids on Frontier's official Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
 
 [**Read about Thargoids on the Canonn Research Website**](https://canonn.science/codex/xeno-technology/)
 
