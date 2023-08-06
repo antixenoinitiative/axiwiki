@@ -2,7 +2,7 @@
 title: Thargoids
 description: About Thargoids
 published: true
-date: 2023-08-06T03:40:01.561Z
+date: 2023-08-06T03:42:11.992Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T03:40:01.561Z
@@ -36,7 +36,7 @@ Thargoid [**Scouts**](/en/scouts) are a smaller variant of the Thargoid intercep
 
 Thargoid Drones include Thargon drones that make up interceptor swarms and two ground based Thargoids, **Revenants** and **Scavengers**. Scavengers maintain and protect Thargoid structures, while Revenants occupy human ground bases in Controlled systems and barnacle matrices.
 
- Thargoid Interceptors have incredibly strong armour and fast regeneration capabilities, this makes conventional weapons (such as Multi-cannons, Missiles, Plasma Accelerators, Lasers) completely ineffective at damaging them. Even Hunters and Scouts still have a high resistance to conventional weaponry. Thankfully humanity has not only developed their own line of AX (Anti-Xeno) weaponry, but we have also adapted the ancient Guardian technology into very powerful hybrid weapons and modules that are far more effective at destroying Thargoid vessels.
+ Thargoid Interceptors have incredibly strong armour and fast regeneration capabilities, this makes conventional weapons (Multi-cannons, Missiles, Plasma Accelerators, Lasers, etc.) completely ineffective at damaging them. Even Hunters and Scouts still have a high resistance to conventional weaponry. Thankfully humanity has not only developed their own line of Anti-Xeno (AX) weaponry, but we have also adapted the ancient Guardian technology into very powerful hybrid weapons and modules that are far more effective at destroying Thargoid vessels.
  
 Attempting Thargoid combat with the appropriate defenses, weaponry, and strategy is paramount to ensuring success and help avoid the rebuy screen.
 
