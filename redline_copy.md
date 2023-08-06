@@ -2,7 +2,7 @@
 title: Thargoids
 description: About Thargoids
 published: false
-date: 2023-08-06T02:24:48.512Z
+date: 2023-08-06T02:29:37.723Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -24,9 +24,9 @@ dateCreated: 2023-08-06T02:18:49.013Z
 
 ## Thargoid Vessels
 
-Thargoids come in 5 known <RL>size</RL> classes: Titans, Interceptors, Hunters, <RL>Glaives</RL> Scouts, and <RL>ground variants</RL><NwT> drones</NwT>.
+Thargoids come in 5 known <RL>size</RL> classes: Titans, Interceptors, Hunters, <RL>Glaives</RL> <NwT>Scouts</Nwt>, and <RL>ground variants</RL><NwT> Drones</NwT>.
 
-Thargoid **Titans** are capital class Thargoid vessels, and can be found in the center of Maelstroms. Thargoid ground bases also bear many similarities to the Titans found in space, so they may be related.
+Thargoid **Titans** are <NwT>large</NwT>capital class Thargoid vessels, and can be found <RL>in</RL><NwT>at</NwT> the center of Maelstroms. Thargoid <RL>ground bases</RL><NwT> planetary structures and sites</NwT> also bear many similarities to the Titans found in space, so they may be related.
 
 Thargoid [**Interceptors**](/en/interceptors) come in five variants: Orthrus, Cyclops, Basilisk, Medusa and Hydra, in ascending level of difficulty. Each next variant has more [**hearts**](/en/hearts) and is tougher than the last, requiring far more damage to exert and destroy hearts. The Orthrus is a special class of interceptor, with no offensive capabilities.
 Interceptors are incredibly tough and typically are best suited to wing combat as soloing them is a huge achievement. Interceptors use very high damage output weapons, crowd-control style special abilities and large [**thargon drone swarms**](/en/thargon-swarms) to wreak havoc on the battlefield.
