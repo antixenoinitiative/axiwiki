@@ -1,8 +1,8 @@
 ---
-title: Thargoids
-description: About Thargoids
+title: redline-copy
+description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-06T04:53:23.420Z
+date: 2023-08-06T22:35:51.561Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
