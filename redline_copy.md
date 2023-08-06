@@ -2,7 +2,7 @@
 title: Thargoids
 description: About Thargoids
 published: false
-date: 2023-08-06T03:31:20.114Z
+date: 2023-08-06T03:32:41.480Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -29,7 +29,7 @@ Thargoids come in 5 known <RL>size</RL> classes: Titans, Interceptors, Hunters, 
 Thargoid **Titans** are <NwT>large</NwT> capital class Thargoid vessels, and can be found <RL>in</RL><NwT>at</NwT> the center of Maelstroms. Thargoid <RL>ground bases</RL><NwT> planetary structures, surface sites, and barnacle matrix sites</NwT> also bear many similarities to the Titans found in space.<RL>, so they may be related.</RL>
 
 Thargoid [**Interceptors**](/en/interceptors) come in five variants: Orthrus, Cyclops, Basilisk, Medusa and Hydra, in ascending level of difficulty. Each next variant has more [**hearts**](/en/hearts) and is tougher than the last, requiring <RL>far</RL> more damage <RL>to exert and </RL>destroy <RL>hearts</RL><NwT> them</NwT>. The Orthrus is a special class of interceptor<RL>, with no offensive capabilities</RL> <NwT>without hearts.</NwT>
-<RL>Interceptors are incredibly tough and typically are best suited to wing combat as soloing them is a huge achievement.</RL> Interceptors use very high damage output weapons, crowd-control style special abilities and <RL>large</RL> [**thargon drone swarms**](/en/thargon-swarms) to wreak havoc on the battlefield.
+<RL>Interceptors are incredibly tough and typically are best suited to wing combat as soloing them is a huge achievement.</RL> Interceptors use very high damage output weapons, crowd-control style special abilities and <RL>large</RL> [**Thargon drone swarms**](/en/thargon-swarms) to wreak havoc on the battlefield.
 
 Thargoid **Hunters** are the newest class spotted, and <RL>currently only</RL> come in <RL>one</RL><NwT>two</Nwt> variant<NwT>s</NwT>: Glaives and <NwT>Scythes</NwT>. <RL>These Glaives have a very high acceleration</RL><NwT>Hunters have very high mobility</NwT>, fire FSD disruptor and caustic missiles, deploy an anti-guardian field similar to the Orthrus<NwT>.</NwT><RL>, and are not deterred by low heat.</RL> 
 
