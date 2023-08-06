@@ -2,7 +2,7 @@
 title: Thargoids
 description: About Thargoids
 published: true
-date: 2023-08-06T04:23:44.204Z
+date: 2023-08-06T04:24:55.188Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T03:40:01.561Z
@@ -28,7 +28,7 @@ Thargoids come in 5 known classes: the Titan, interceptor, hunter, scout, and gr
 
 Thargoid **Titans** are large capital class Thargoid vessels, and can be found at the center of Maelstroms. Thargoid planetary structures surface sites, and barnacle matrix sites also bear many similarities to the Titans found in space. Read more about these on the [**Maelstrom**](/en/Maelstrom) page.
 
-Thargoid [**Interceptors**](/en/interceptors) come in five variants: Orthrus, Cyclops, Basilisk, Medusa and Hydra, in ascending level of difficulty. Each next variant has more [**hearts**](/en/hearts) and is tougher than the last, requiring more damage destroy them. The Orthrus is a special class of interceptor without hearts. Interceptors use very high damage output weapons, crowd-control style special abilities and [**Thargon drone swarms**](/en/thargon-swarms) to wreak havoc on the battlefield.
+Thargoid [**Interceptors**](/en/interceptors) come in five variants: Orthrus, Cyclops, Basilisk, Medusa and Hydra, in ascending level of difficulty. Each next variant has more [**hearts**](/en/hearts) and is tougher than the last, requiring more damage destroy them. The Orthrus is a special class of interceptor without hearts. Interceptors use very high damage output weapons, crowd-control style special abilities, and deploy [**Thargon drone swarms**](/en/thargon-swarms) to wreak havoc on the battlefield.
 
 Thargoid **Hunters** are the newest class spotted, and come in two variants: Glaives and Scythes. Hunters have very high mobility, fire FSD disruptor and caustic missiles, and deploy an anti-guardian field similar to the Orthrus.
 
