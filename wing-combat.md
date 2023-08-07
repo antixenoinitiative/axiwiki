@@ -2,16 +2,13 @@
 title: Wing AX Combat
 description: AX combat and how to effectively fight in wings.
 published: true
-date: 2023-08-07T04:53:52.336Z
+date: 2023-08-07T04:55:49.010Z
 tags: wing, murderball, discoball, ax cz
 editor: markdown
 dateCreated: 2023-08-06T01:43:08.175Z
 ---
 
 # AX Combat + Wings!
-
-Winged Combat
----
 
 1. Use Solo Builds
  - While you may wish to be a mobile repair ship or a shield stripping menace, the various bugs which surface in wing combat can force you into a difficult position if you cannot do damage. Bring a solo capable ship and let coordination and skill rule the fight.
