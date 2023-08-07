@@ -2,14 +2,14 @@
 title: Thargoids
 description: About Thargoids
 published: true
-date: 2023-08-06T18:52:10.214Z
+date: 2023-08-07T05:29:41.548Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:10:09.264Z
 ---
 
 # Thargoids
-![cyclops-small.png](/img/Cyclops-small.png =250x){.align-right}
+
 *The **Thargoids** are a nonhuman race with a history of hostility towards humanity.*
 
 *The first recorded encounter with a Thargoid ship took place in 2849, although earlier undocumented encounters are believed to have taken place. In the years that followed, contact with lone Thargoid vessels was intermittently reported.*
@@ -18,7 +18,7 @@ dateCreated: 2021-06-15T10:10:09.264Z
 
 *Entry from Elite Dangerous Codex*
 
-[**Learn more about Thargoids on Frontier's official Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
+[**Learn more about Thargoids on Fandom's Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
 
 [**Read about Thargoids on the Canonn Research Website**](https://canonn.science/codex/xeno-technology/)
 
