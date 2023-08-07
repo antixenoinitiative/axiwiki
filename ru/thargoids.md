@@ -2,14 +2,15 @@
 title: Таргоиды
 description: О таргоидах
 published: опубликовано
-date: 2023-08-06T18:52:10.214Z
+date: 2023-08-07T05:29:41.548Z
 tags: таргоиды, перехватчики, рой
 editor: markdown
 dateCreated: 2021-06-15T10:10:09.264Z
 ---
 
 # Таргоиды
-!\[cyclops-small.png\](/img/Cyclops-small.png =250x){.align-right} ***Таргоиды** — нечеловеческая раса с историей враждебного отношения к человечеству.*
+
+*The **Thargoids** are a nonhuman race with a history of hostility towards humanity.*
 
 *Первая зафиксированная встреча с кораблём таргоидов произошла в 2849 году, хотя считается, что ранее имели место незадокументированные встречи. В последующие годы периодически поступали сообщения о контактах с одинокими кораблями таргоидов.*
 
@@ -17,7 +18,7 @@ dateCreated: 2021-06-15T10:10:09.264Z
 
 *Вступление из Кодекса в Elite Dangerous*
 
-[**Learn more about Thargoids on Frontier's official Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
+[**Learn more about Thargoids on Fandom's Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
 
 [**Узнайте больше о таргоидах на сайте Canonn Research**](https://canonn.science/codex/xeno-technology/)
 
