@@ -2,7 +2,7 @@
 title: Сведение
 description: A short guide on convergence and how it affects fixed weapons
 published: true
-date: 2021-06-15T05:19:44.486Z
+date: 2023-08-06T23:54:48.115Z
 tags: outfitting, weapons
 editor: markdown
 dateCreated: 2021-06-15T05:19:41.184Z
@@ -18,7 +18,7 @@ dateCreated: 2021-06-15T05:19:41.184Z
 
 Вы можете разместить оружие в гнёздах, которые расположены близко друг к другу чтобы улучшить сведение.
 
-На [Elite Dangerous Ship Anatomy](http://a.teall.info/edsa/) можно посмотреть, как сводятся гнёзда каждого корабля и решить, какие из них приведут к оптимальному сведению. Также вы можете использовать этот сайт, чтобы посмотреть расположение внутренних отсеков и внешних креплений.
+You can use [Elite Dangerous Ship Anatomy](https://siriuscorp.cc/edsa/) to see how each ship's hardpoints converge, and to decide which hardpoints lead to optimal convergance. Также вы можете использовать этот сайт, чтобы посмотреть расположение внутренних отсеков и внешних креплений.
 
 
 ## Хорошее сведение
