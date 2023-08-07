@@ -2,14 +2,15 @@
 title: Thargoidler
 description: Thargoidler Hakkında
 published: true
-date: 2023-08-06T18:52:10.214Z
+date: 2023-08-07T05:29:41.548Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:10:09.264Z
 ---
 
 # Thargoidler
-!\[cyclops-small.png\](/img/Cyclops-small.png =250x){.align-right} ***Thargoidler** insanlığa karşı sürekli saldırganlık göstermiş, insan olmayan bir canlı türüdür.*
+
+*The **Thargoids** are a nonhuman race with a history of hostility towards humanity.*
 
 *Kayda geçen ilk Thargoid karşılaşması 2849 yılında olmasına rağmen daha önce, belgelenmemiş karşılaşmaların olduğu da düşünülmektedir. Daha sonraki yıllarda, yalnız gezegen Thargoid araçlarıyla karşılaşmalar da ara ara rapor edilmiştir.*
 
@@ -17,7 +18,7 @@ dateCreated: 2021-06-15T10:10:09.264Z
 
 *Elite: Dangerous Codex'inden bir Girdi*
 
-[**Learn more about Thargoids on Frontier's official Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
+[**Learn more about Thargoids on Fandom's Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
 
 [**Canonn Research Websitesinde Thargoidler Hakkında Daha Fazlasını Okuyabilirsiniz**](https://canonn.science/codex/xeno-technology/)
 
