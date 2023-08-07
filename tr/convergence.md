@@ -2,7 +2,7 @@
 title: Yakınsaklık
 description: Yakınsaklık ve sabit silahları nasıl etkilediğine dair kısa bir rehber
 published: true
-date: 2021-06-15T05:19:44.486Z
+date: 2023-08-06T23:54:48.115Z
 tags: outfitting, weapons
 editor: markdown
 dateCreated: 2021-06-15T05:19:41.184Z
@@ -18,7 +18,7 @@ AX savaşlarında Gauss'larınızın yakınsaklığının yüksek olması öneml
 
 Silahlarınızı birbirine yakın konumlardaki hardpoint'lere kuşanarak yakınsaklığınızı geliştirebilirsiniz.
 
-[Elite Dangerous Ship Anatomy](http://a.teall.info/edsa/) linkini kullanarak gemilerin hardpoint'lerinin yakınsaklıklarını inceleyebilir ve hangilerini kullanmak istediğinize karar verebilirsiniz. Ayrıca Internal ve Utiliy slotlarının yerlerini görmek için de kullanabilirsiniz.
+You can use [Elite Dangerous Ship Anatomy](https://siriuscorp.cc/edsa/) to see how each ship's hardpoints converge, and to decide which hardpoints lead to optimal convergance. Ayrıca Internal ve Utiliy slotlarının yerlerini görmek için de kullanabilirsiniz.
 
 
 ## İyi Yakınsaklık
