@@ -2,7 +2,7 @@
 title: Convergence
 description: Un petit guide sur la convergence et comment elle affecte les armes fixes
 published: true
-date: 2021-06-15T05:19:44.486Z
+date: 2023-08-06T23:54:48.115Z
 tags: outfitting, weapons
 editor: markdown
 dateCreated: 2021-06-15T05:19:41.184Z
@@ -18,7 +18,7 @@ En combat AX, il est important que vos armes (surtout vos Gauss) aient une très
 
 Vous pouvez placer des armes sur des points d'emports proches physiquement pour améliorer leur convergence.
 
-Vous pouvez utiliser [Elite Dangerous Ship Anatomy](http://a.teall.info/edsa/) pour voir comment les points d'emport de chaque vaisseau convergent, et ainsi décider quels points d'emport mènent à une convergence optimale. Vous pouvez également utiliser ce site pour voir où se trouve les emplacements internes et utilitaires.
+You can use [Elite Dangerous Ship Anatomy](https://siriuscorp.cc/edsa/) to see how each ship's hardpoints converge, and to decide which hardpoints lead to optimal convergance. Vous pouvez également utiliser ce site pour voir où se trouve les emplacements internes et utilitaires.
 
 
 ## Bonne convergence
