@@ -2,7 +2,7 @@
 title: Konvergenz
 description: Ein kurzer Leitfaden zu Konvergenz und wie sie sich auf befestigte Waffen auswirkt
 published: true
-date: 2021-06-15T05:19:44.486Z
+date: 2023-08-06T23:54:48.115Z
 tags: outfitting, weapons
 editor: markdown
 dateCreated: 2021-06-15T05:19:41.184Z
@@ -18,7 +18,7 @@ Im AX-Kampf ist es wichtig, dass Waffen (insbesondere die Gauss Kanonen) einen s
 
 Man kann Waffen in Aufhängungen platzieren, die physisch näher beieinander liegen, um die Konvergenz zu verbessern.
 
-Du kannst [Elite Dangerous: Schiffsanatomie](http://a.teall.info/edsa/) verwenden, um zu sehen, wie die Aufhängungen jedes Schiffes konvergieren und um zu entscheiden, welche Aufhängungen zum Optimum führen. Dies kann auch verwendet werden, um die Position von internen Modulen und Werkzeug-Steckplätzen zu sehen.
+You can use [Elite Dangerous Ship Anatomy](https://siriuscorp.cc/edsa/) to see how each ship's hardpoints converge, and to decide which hardpoints lead to optimal convergance. Dies kann auch verwendet werden, um die Position von internen Modulen und Werkzeug-Steckplätzen zu sehen.
 
 
 ## Gute Konvergenz
