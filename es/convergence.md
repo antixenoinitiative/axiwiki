@@ -2,7 +2,7 @@
 title: Convergence
 description: A short guide on convergence and how it affects fixed weapons
 published: true
-date: 2021-06-15T05:19:44.486Z
+date: 2023-08-06T23:54:48.115Z
 tags: outfitting, weapons
 editor: markdown
 dateCreated: 2021-06-15T05:19:41.184Z
@@ -18,7 +18,7 @@ In AX combat, it is important that your weapons (Gauss in particular) have a ver
 
 You can place weapons in hardpoints that are physically close together to improve convergence.
 
-You can use [Elite Dangerous Ship Anatomy](http://a.teall.info/edsa/) to see how each ship's hardpoints converge, and to decide which hardpoints lead to optimal convergance. You can also use this to see the location of internals and utility slots.
+You can use [Elite Dangerous Ship Anatomy](https://siriuscorp.cc/edsa/) to see how each ship's hardpoints converge, and to decide which hardpoints lead to optimal convergance. You can also use this to see the location of internals and utility slots.
 
 
 ## Good Convergence
