@@ -2,7 +2,7 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-08T04:27:58.906Z
+date: 2023-08-08T04:29:13.299Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -17,7 +17,7 @@ The Thargoid Maelstrom is a <rl>new type of instance</rl> <nwt>system point of i
 
 Upon arrival, the storm is quite visible, and the scale of it can be disorienting. A slow approach to the scrambled instance center indicator is recommended. Cautious commanders can identify the boundry between safe space and caustic cloud. Adventurous commanders have discovered that braving the caustic to get to the center yields no reward. This is because a powerful enemy lurks resides and the center, and upon your approach, a massive energy wave will be deployed to repell all invaders.
 
-Due to the inquisitive, dedicated, and perhaps misguided commanders exploring the Maelstrom's inner caustic zone, technology has been developed to allow commanders immunity to the repulsion wave that protects the massive entity at the center of the Maelstrom; if you choose to brave this journey, behold, the ***Titan***.
+Due to the inquisitive, dedicated, and perhaps misguided commanders exploring the Maelstrom's inner caustic zone, technology has been developed to allow commanders immunity to the repulsion wave that protects the massive entity at the center of the Maelstrom; if you choose to brave this journey, behold, the ***Titan***.</nwt>
 
 <rl>You can view current Maelstrom systems in the AXI tracking site: Thargoid Watch</rl>
 ### Maelstrom Systems
