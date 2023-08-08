@@ -2,7 +2,7 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-08T04:29:13.299Z
+date: 2023-08-08T04:41:53.805Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -32,27 +32,28 @@ Due to the inquisitive, dedicated, and perhaps misguided commanders exploring th
 |**Leigong**	| HIP 8887									| A 4	| 2,540
 |**Oya**			| Cephei Sector BV-Y b4			| B 1	| 5,850
 |**Raijin**		| Pegasi Sector IH-U b3-3		| 2		| 400
-  |**Taranis**	| Hyades Sector FB-N b7-6		| A 1	| <exc color: green>130</exc>
+|**Taranis**	| Hyades Sector FB-N b7-6		| A 1	| 130
 |**Thor**			| Col 285 Sector IG-O c6-5	| 3		| 820
 
 <nwt>The listed planets are ammonia worlds and have a distinct spot in the FSS radar. They should be easy to find. Make sure to turn in your cartographic data to make permanent these locations in your system maps.</nwt> 
   
-### System Wide Impacts
+
+## Maelstrom Dangers
+
+<rl>System Wide Impacts</rl>
 
 When in the same system as a Thargoid Maelstrom, Guardian Modules <rl>are</rl><nwt> become</nwt> functionally unusable<nwt>;</nwt> <rl>and</rl><nwt> Guardian modules</nwt> will decay while anywhere <nwt>within</nwt> <rl>in the</rl><nwt> a</nwt> system at a constant rate.  
 - Guardian weapons, Guardian Module Reinforcement, and Guardian Shield Reinforcement decay at a rate of 1%/s.  
 - The Guardian Power Plant and Guardian Power Distributor decay at a rate of 1% every 10 seconds, but do not decay lower than 19%.  
 - The Guardian Hull Reinforcement is immune, because it does not have integrity of its own.
 
+<rl>The</rl> Thargoid Maelstrom <nwt>POIs are </nwt><rl>is a </rl>large cloud-like area<nwt>s;</nwt> these appear similar to Lagrange clouds. Travel<rl>l</rl>ing inside the cloud will incur significant caustic damage; <rl>and</rl> it is ill advised to travel within the cloud without preparations. The cloud is an area of <rl>swarming</rl><nwt> sprawling</nwt> lightning storms and various Thargoid-related anomalies. Caustic Generators<nwt>, an anomoly only found within the caustic zone of the maelstrom cloud,</nwt> can be seen floating <nwt>and sporadically manuevering</nwt> in the cloud and are most likely the source of the caustic damage area.
 
-## Maelstrom Cloud
-
-The Thargoid Maelstrom is a large cloud-like area, these appear similar to Lagrange clouds. Travelling inside the cloud will incur significant caustic damage and it is ill advised to travel within the cloud without preparations. The cloud is an area of swarming lightning storms and various Thargoid-related anomalies. Caustic Generators can be seen floating in the cloud and are most likely the source of the caustic damage area.
-
-Outer radius: 115km (Sensor interference begins)
-Intermediate radius: 79km (Caustic and tidal effects begin -and get progressively worse the further in one goes-; caustic generators and free-floating Caustic Shards and Caustic Crystals are present)
-Repulsion field radius: 55km (Trigger repulsion field at this range)
-Inner cloud radius: 30km ('Eye of the Storm', safe from repulsion field, caustic and tidal effects)
+<nwt>The cloud anatomy is mostly spherical with the following notable dimensions:</nwt>
+- Outer radius: 115km (Sensor interference begins)
+- Intermediate radius: 79km (Caustic and tidal effects begin and get progressively worse the further in one goes; caustic generators, <rl>and</rl> free-floating Caustic Shards and Caustic Crystals are present)
+- Repulsion field radius: 55km (Trigger repulsion field at this range)
+- Inner cloud radius: 30km ('Eye of the Storm', safe from repulsion field, caustic and tidal effects)
 
 ![elite-dangerous-thargoid-invasion-update-14.jpg](/elite-dangerous-thargoid-invasion-update-14.jpg)
 
