@@ -2,7 +2,7 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-08T03:51:15.981Z
+date: 2023-08-08T04:03:04.475Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -11,13 +11,15 @@ dateCreated: 2023-08-06T02:18:49.013Z
 <rl> This page is a work in progress</rl>
 # A Brief Intro to the Maelstrom
 
-The Thargoid Maelstrom is a <rl>new type of instance</rl> <nwt>system POI</nwt> that appeared alongside the Thargoid invasion <nwt>event</nwt> in Nov 3308. These instances have appeared in several systems[^1] and <nwt>they</nwt> are an incredibly dangerous anomaly <rl>which purpose is currently unknown. All 8 UIA causing the Maelstroms impacted</rl>.
+The Thargoid Maelstrom is a <rl>new type of instance</rl> <nwt>system point of interest (POI)</nwt> that appeared alongside the Thargoid invasion <nwt>event</nwt> in Nov 3308. These instances have appeared in several systems and <nwt>they</nwt> are an incredibly dangerous anomaly. <rl>which purpose is currently unknown. All 8 UIA causing the Maelstroms impacted.</rl>
+
+<nwt>Thargoid Maelstrom POIs are multilayered and the first POI that may make you want to think twice about disengaging your supercruise in the dropzone. Maelstrom POIs have massive caustic zones, that we call *the cloud*, and dropping at the HUD's perfect spot indicator will land your vessel inside of the outer caustic zone of *the cloud*.
 
 <rl>You can view current Maelstrom systems in the AXI tracking site: Thargoid Watch</rl>
 ### Maelstrom Systems
 
 The current systems <nwt>with a Maelstrom POI: </nwt><rl>having Maelstrom cloud and all of its effects are:</rl>
-[^1]: {
+
 | Maelstrom | System | Planetary Body |
 |-----------|--------|----------------|
 |**Taranis**	| Hyades Sector FB-N b7-6		| A 1
@@ -28,7 +30,7 @@ The current systems <nwt>with a Maelstrom POI: </nwt><rl>having Maelstrom cloud 
 |**Thor**			| Col 285 Sector IG-O c6-5	| 3
 |**Raijin**		| Pegasi Sector IH-U b3-3		| 2
 |**Hadad**		| HIP 30377									| B 8
-{.dense}}
+
 
 ### System Wide Impact
 
