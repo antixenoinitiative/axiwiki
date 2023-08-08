@@ -2,7 +2,7 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-08T03:46:12.751Z
+date: 2023-08-08T03:50:28.224Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -11,12 +11,13 @@ dateCreated: 2023-08-06T02:18:49.013Z
 <rl> This page is a work in progress</rl>
 # A Brief Intro to the Maelstrom
 
-The Thargoid Maelstrom is a <rl>new type of instance</rl> <nwt>system POI</nwt> that appeared alongside the Thargoid invasion <nwt>event</nwt> in Nov 3308. These instances have appeared in several systems and <nwt>they</nwt> are an incredibly dangerous anomaly <rl>which purpose is currently unknown. All 8 UIA causing the Maelstroms impacted</rl>.
+The Thargoid Maelstrom is a <rl>new type of instance</rl> <nwt>system POI</nwt> that appeared alongside the Thargoid invasion <nwt>event</nwt> in Nov 3308. These instances have appeared in several systems[^1] and <nwt>they</nwt> are an incredibly dangerous anomaly <rl>which purpose is currently unknown. All 8 UIA causing the Maelstroms impacted</rl>.
 
 <rl>You can view current Maelstrom systems in the AXI tracking site: Thargoid Watch</rl>
 ### Maelstrom Systems
 
 The current systems <nwt>with a Maelstrom POI: </nwt><rl>having Maelstrom cloud and all of its effects are:</rl>
+[^1]:
 | Maelstrom | System | Planetary Body |
 |-----------|--------|----------------|
 |**Taranis**	| Hyades Sector FB-N b7-6		| A 1
