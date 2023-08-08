@@ -2,7 +2,7 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-08T04:52:59.704Z
+date: 2023-08-08T04:57:13.354Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -56,13 +56,10 @@ When in the same system as a Thargoid Maelstrom, Guardian Modules <rl>are</rl><n
 - Inner cloud radius: 30km ('Eye of the Storm', safe from repulsion field, caustic and tidal effects)
 ![maelstroms_ver_3.1.5.png](/maelstroms_ver_3.1.5.png)
 
-![elite-dangerous-thargoid-invasion-update-14.jpg](/elite-dangerous-thargoid-invasion-update-14.jpg)
+## Maelstrom Rewards
+<rl> Caustic Material Farming </rl>
 
-The center of the Maelstrom is a large red-ish cloud, approaching the center will cause a large EMP-like pulse to emit from the Center which will eject any ships at a high velocity, shutting them down and damaging them in the process. Being hit by the pulse grants the CMDR a single instance of **Massive Energy Surge Analytics** encoded material.
-
-![maxresdefault.jpg](/maxresdefault.jpg)
-
-Exploration video by Writer’s End: [Thargoid Maelstrom Exploration Video](https://youtu.be/3NqAGO6oX_Q)
+Throughout the Maelstrom, besides the materials that can be acquired directly on indirectly from Caustic generators, there are two-types of free-floating materials that can be gathered.
 
 ### Caustic Generators
 
@@ -79,10 +76,6 @@ Destroying a Caustic Generator will cause it to drop various materials which can
 
 Individual caustic sinks last 43 seconds in minimal caustic (just inside the perimeter) and 27 seconds 20km deep inside perimeter. Ammo-capacity engineered Caustic Sinks Launchers thus provide approximately 4-6 minutes of protection each, not including ammo synthesis (which is possible, but expensive in terms of materials.)
 
-### Caustic Material Farming
-
-Throughout the Maelstrom, besides the materials that can be acquired directly on indirectly from Caustic generators, there are two-types of free-floating materials that can be gathered.
-
 **Caustic Shards (Common)**
 ![caustic_shard_1.png](/img/caustic_shard_1.png)
 
@@ -92,3 +85,12 @@ Caustic Shards are used to unlock Caustic Sink Launchers, and in Caustic Sink Am
 ![caustic_crystal_2.png](/img/caustic_crystal_2.png)
 
 Caustic Crystals have no known use at this time.
+
+![elite-dangerous-thargoid-invasion-update-14.jpg](/elite-dangerous-thargoid-invasion-update-14.jpg)
+
+The center of the Maelstrom is a large red-ish cloud, approaching the center will cause a large EMP-like pulse to emit from the Center which will eject any ships at a high velocity, shutting them down and damaging them in the process. Being hit by the pulse grants the CMDR a single instance of **Massive Energy Surge Analytics** encoded material.
+
+![maxresdefault.jpg](/maxresdefault.jpg)
+
+Exploration video by Writer’s End: [Thargoid Maelstrom Exploration Video](https://youtu.be/3NqAGO6oX_Q)
+
