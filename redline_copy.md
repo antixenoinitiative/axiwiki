@@ -2,7 +2,7 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-08T04:26:59.018Z
+date: 2023-08-08T04:27:58.906Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -32,7 +32,7 @@ Due to the inquisitive, dedicated, and perhaps misguided commanders exploring th
 |**Leigong**	| HIP 8887									| A 4	| 2,540
 |**Oya**			| Cephei Sector BV-Y b4			| B 1	| 5,850
 |**Raijin**		| Pegasi Sector IH-U b3-3		| 2		| 400
-  |**Taranis**	| Hyades Sector FB-N b7-6		| A 1	| <a color: green>130</a>
+  |**Taranis**	| Hyades Sector FB-N b7-6		| A 1	| <exc color: green>130</exc>
 |**Thor**			| Col 285 Sector IG-O c6-5	| 3		| 820
 
 <nwt>The listed planets are ammonia worlds and have a distinct spot in the FSS radar. They should be easy to find. Make sure to turn in your cartographic data to make permanent these locations in your system maps.</nwt> 
