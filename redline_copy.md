@@ -2,7 +2,7 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-08T04:11:28.664Z
+date: 2023-08-08T04:26:59.018Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -22,21 +22,22 @@ Due to the inquisitive, dedicated, and perhaps misguided commanders exploring th
 <rl>You can view current Maelstrom systems in the AXI tracking site: Thargoid Watch</rl>
 ### Maelstrom Systems
 
-The current systems <nwt>with a Maelstrom POI: </nwt><rl>having Maelstrom cloud and all of its effects are:</rl>
+  <nwt>Maelstroms are in close orbit to ammonia worlds. </nwt>The current systems <nwt>with a Maelstrom POI: </nwt><rl>having Maelstrom cloud and all of its effects are:</rl>
 
-| Maelstrom | System | Planetary Body |
-|-----------|--------|----------------|
-|**Taranis**	| Hyades Sector FB-N b7-6		| A 1
-|**Leigong**	| HIP 8887									| A 4
-|**Indra**		| HIP 20567 								| 7
-|**Oya**			| Cephei Sector BV-Y b4			| B 1
-|**Cocijo**		| Col 285 Sector BA-P c6-18	| 3
-|**Thor**			| Col 285 Sector IG-O c6-5	| 3
-|**Raijin**		| Pegasi Sector IH-U b3-3		| 2
-|**Hadad**		| HIP 30377									| B 8
+| Maelstrom | System | Planetary Body | Distance from Star to POI ± 10% Ls |
+|---|---|---|---|
+|**Cocijo**		| Col 285 Sector BA-P c6-18	| 3		| 1,300
+|**Hadad**		| HIP 30377									| B 8	| 39,230 
+|**Indra**		| HIP 20567 								| 7		| 3,330
+|**Leigong**	| HIP 8887									| A 4	| 2,540
+|**Oya**			| Cephei Sector BV-Y b4			| B 1	| 5,850
+|**Raijin**		| Pegasi Sector IH-U b3-3		| 2		| 400
+  |**Taranis**	| Hyades Sector FB-N b7-6		| A 1	| <a color: green>130</a>
+|**Thor**			| Col 285 Sector IG-O c6-5	| 3		| 820
 
-
-### System Wide Impact
+<nwt>The listed planets are ammonia worlds and have a distinct spot in the FSS radar. They should be easy to find. Make sure to turn in your cartographic data to make permanent these locations in your system maps.</nwt> 
+  
+### System Wide Impacts
 
 When in the same system as a Thargoid Maelstrom, Guardian Modules <rl>are</rl><nwt> become</nwt> functionally unusable<nwt>;</nwt> <rl>and</rl><nwt> Guardian modules</nwt> will decay while anywhere <nwt>within</nwt> <rl>in the</rl><nwt> a</nwt> system at a constant rate.  
 - Guardian weapons, Guardian Module Reinforcement, and Guardian Shield Reinforcement decay at a rate of 1%/s.  
