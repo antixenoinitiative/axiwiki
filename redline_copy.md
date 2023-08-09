@@ -2,13 +2,14 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-08T04:57:13.354Z
+date: 2023-08-09T05:06:15.944Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
 ---
 
 <rl> This page is a work in progress</rl>
+![elite-dangerous-thargoid-invasion-update-14.jpg](/elite-dangerous-thargoid-invasion-update-14.jpg)
 # A Brief Intro to the Maelstrom
 
 The Thargoid Maelstrom is a <rl>new type of instance</rl> <nwt>system point of interest (POI)</nwt> that appeared alongside the Thargoid invasion <nwt>event</nwt> in Nov 3308. These instances have appeared in several systems and <nwt>they</nwt> are an incredibly dangerous anomaly. <rl>which purpose is currently unknown. All 8 UIA causing the Maelstroms impacted.</rl>
@@ -63,8 +64,7 @@ Throughout the Maelstrom, besides the materials that can be acquired directly on
 
 ### Caustic Generators
 
-![caustic_generator_2.png](/img/caustic_generator_2.png)
-
+<img href="/img/caustic_generator_2.png" src="/maelstrom_cg_tumb.png" title = "smol generator" alt = "Click Me for Full Picture" align = right ></img>
 These generators are also heat based Mines, these mines when detecting heat slowly drift towards ship and then explode, causing a 3km caustic explosion with a knock-back effect. Current safe heat threshold is unknown and subject to further testing.
 
 These Caustic generators are checked on by Thargoid Interceptors flying about within the Maelstrom, these Interceptors are typically passive however become hostile within a certain range, this is still being researched and may not be completely accurate.
@@ -86,7 +86,7 @@ Caustic Shards are used to unlock Caustic Sink Launchers, and in Caustic Sink Am
 
 Caustic Crystals have no known use at this time.
 
-![elite-dangerous-thargoid-invasion-update-14.jpg](/elite-dangerous-thargoid-invasion-update-14.jpg)
+
 
 The center of the Maelstrom is a large red-ish cloud, approaching the center will cause a large EMP-like pulse to emit from the Center which will eject any ships at a high velocity, shutting them down and damaging them in the process. Being hit by the pulse grants the CMDR a single instance of **Massive Energy Surge Analytics** encoded material.
 
