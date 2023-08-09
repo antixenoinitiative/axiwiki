@@ -2,7 +2,7 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-09T06:40:38.720Z
+date: 2023-08-09T07:40:15.973Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -57,6 +57,16 @@ When in the same system as a Thargoid Maelstrom, Guardian Modules <rl>are</rl><n
 - Inner cloud radius: 30km ('Eye of the Storm', safe from repulsion field, caustic and tidal effects)
 ![maelstroms_ver_3.1.5.png](/maelstroms_ver_3.1.5.png)
 
+The center of the Maelstrom is a large red-ish cloud. Approaching the center will cause a large EMP-like pulse to emit from the Center which will eject <rl>any</rl> <nwt>nearby</nwt> ships at high velocity, shutting them down, and damaging them in the process. Being hit by the pulse grants the CMDR a single instance of **Massive Energy Surge Analytics** encoded material.
+
+<nwt>Check out this</nwt> exploration video by Writer’s End: [Thargoid Maelstrom Exploration Video](https://youtu.be/3NqAGO6oX_Q)
+
+<a href="https://youtu.be/3NqAGO6oX_Q">
+	<img src ="/img/maelstrom_tn06.png"
+       title = " Into the Thargoid Maelstrom" 
+       alt = "smol Titan Bubble Wave"/>
+</a>
+
 ## Maelstrom Rewards
 <rl> Caustic Material Farming </rl>
 
@@ -109,12 +119,67 @@ Caustic Crystals have no known use at this time.
 		alt = "smol Caustic Shard image" />
 </a>
 
+### Recommendations for Shallow Diving
 
-## 
+- Powerplant engineered Low Emission + Monstered
+- Enhanced Xeno Scanner
+- XENO Multi-Limpet Controller - for decontamination limpets for pre-unlocked CSL, AND research limpets
+- 1 collector limpet controller
+- 1 or more Heat Sink Launchers (HSL)
+- 1 or more class 4 Corrosion Resistant Cargo Racks for collecting samples (also required for unlocking the CSL)
+- 1 weapon that can poke very far away ( range of +3 km, e.g. 1 G3 Long Range beam laser)
 
-The center of the Maelstrom is a large red-ish cloud, approaching the center will cause a large EMP-like pulse to emit from the Center which will eject any ships at a high velocity, shutting them down and damaging them in the process. Being hit by the pulse grants the CMDR a single instance of **Massive Energy Surge Analytics** encoded material.
+<nwt> Once the appropriate materials have been gathered, Caustic Sink Launcher is unlocked and equipped, the Thargoid Pulse Neutralizer is purchased and equipped, THEN aspiring commanders may be ready to breach the Titan's massive wave. A successful breach of the wave will allow the commander to enter into the center of the Maelstrom and approach the </nwt> **Titan**<nwt>, itself.</nwt> 
 
-![maxresdefault.jpg](/maxresdefault.jpg)
+# Titan Space
 
-Exploration video by Writer’s End: [Thargoid Maelstrom Exploration Video](https://youtu.be/3NqAGO6oX_Q)
+
+## Titan Space Threats
+
+Something about warping in tons of scouts, hunters, and interceptors...
+
+
+## Titan Rewards
+
+Titans have three mining activity materials and three research limpet activity commodities. 
+
+### Titan Materials 
+
+The surface of the Titan is covered with interesting features and some of the smallest details, blemishes, can be mined for materials. The blemishes are black, green, and orange in color and each have specific locations, one for each material. An Abrasion blaster can be used on the blemishes for expidited and efficient yields, but a laser works just fine, if only slower. 
+Example of a successful abrasion blaster shot, yields 2 or 3:
+![maelstrom_mining_01.png](/img/maelstrom_mining_01.png)
+
+### Titan Materials tabset {.tabset}
+
+#### **Hardened Surface Fragments**
+
+Picture of Fragment A
+
+####
+
+Picture of Fragment B
+
+####
+
+Picture of Fragment C
+
+
+### Titan Research Extractions
+
+In order to locate research limpet points on the Titan's surface, the OC Pulse Wave Scanner is required equipment and the pulse function must be assigned to a fire-group. The pulse is significantly shorter that the mining analyzer, so pulse often. There are only a few limpet attach points that can be found; the limpet attach point will be eliminated after one or two successful extractions. They respawn after about five minutes.
+
+
+### Titan Extractions tabset {.tabset}
+
+#### 
+
+Picture of Sample A
+
+####
+
+Picture of Partial Sample
+
+####
+
+Picture of Sample B
 
