@@ -2,7 +2,7 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-09T06:40:38.720Z
+date: 2023-08-09T08:32:11.282Z
 tags:
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -38,8 +38,8 @@ The Thargoid Maelstrom is a <rl>new type of instance</rl> <nwt>system point of i
 <rl>System Wide Impacts</rl>
 
 When in the same system as a Thargoid Maelstrom, Guardian Modules <rl>are</rl><nwt> become</nwt> functionally unusable<nwt>;</nwt> <rl>and</rl><nwt> Guardian modules</nwt> will decay while anywhere <nwt>within</nwt> <rl>in the</rl><nwt> a</nwt> system at a constant rate.
-- Guardian weapons, Guardian Module Reinforcement, and Guardian Shield Reinforcement decay at a rate of 1%/s.
-- The Guardian Power Plant and Guardian Power Distributor decay at a rate of 1% every 10 seconds, but do not decay lower than 19%.
+- Guardian weapons, Guardian Module Reinforcement, Guardian FSD Booster, and Guardian Shield Reinforcement decay at a rate of 1%/s <nwt>until damaged (0% integrity)</nwt>.
+- The Guardian Power Plant and Guardian Power Distributor decay at a rate of 1% every 10 seconds, but do not decay lower than 19% <nwt> integrity</nwt>.
 - The Guardian Hull Reinforcement is immune, because it does not have integrity of its own.
 
 <rl>The</rl> Thargoid Maelstrom <nwt>POIs are </nwt><rl>is a </rl>large cloud-like area<nwt>s;</nwt> these appear similar to Lagrange clouds. Travel<rl>l</rl>ing inside the cloud will incur significant caustic damage; <rl>and</rl> it is ill advised to travel within the cloud without preparations. The cloud is an area of <rl>swarming</rl><nwt> sprawling</nwt> lightning storms and various Thargoid-related anomalies. Caustic Generators<nwt>, an anomoly only found within the caustic zone of the maelstrom cloud,</nwt> can be seen floating <nwt>and sporadically manuevering</nwt> in the cloud and are most likely the source of the caustic damage area.
@@ -49,6 +49,16 @@ When in the same system as a Thargoid Maelstrom, Guardian Modules <rl>are</rl><n
 - Intermediate radius: 79km (Caustic and tidal effects begin and get progressively worse the further in one goes; caustic generators, <rl>and</rl> free-floating Caustic Shards and Caustic Crystals are present)
 - Repulsion field radius: 55km (Trigger repulsion field at this range)
 - Inner cloud radius: 30km ('Eye of the Storm', safe from repulsion field, caustic and tidal effects) ![maelstroms_ver_3.1.5.png](/maelstroms_ver_3.1.5.png)
+
+The center of the Maelstrom is a large red-ish cloud. Approaching the center will cause a large EMP-like pulse to emit from the Center which will eject <rl>any</rl> <nwt>nearby</nwt> ships at high velocity, shutting them down, and damaging them in the process. Being hit by the pulse grants the CMDR a single instance of **Massive Energy Surge Analytics** encoded material.
+
+<nwt>Check out this</nwt> exploration video by Writer’s End: [Thargoid Maelstrom Exploration Video](https://youtu.be/3NqAGO6oX_Q)
+
+<a href="https://youtu.be/3NqAGO6oX_Q">
+    <img src ="/img/maelstrom_tn06.png"
+       title = " Into the Thargoid Maelstrom" 
+       alt = "smol Titan Bubble Wave"/>
+</a>
 
 ## Maelstrom Rewards
 <rl> Caustic Material Farming </rl><!--- \[![smol gen\](/maelstrom_cg_tumb.png)](/img/caustic_generator_2.png) --->
@@ -100,11 +110,84 @@ Caustic Crystals have no known use at this time.
         alt = "smol Caustic Shard image" />
 </a>
 
-##
+## Recommendations for Shallow Maelstrom Diving
 
-The center of the Maelstrom is a large red-ish cloud, approaching the center will cause a large EMP-like pulse to emit from the Center which will eject any ships at a high velocity, shutting them down and damaging them in the process. Being hit by the pulse grants the CMDR a single instance of **Massive Energy Surge Analytics** encoded material.
+Assuming that the player just wants to get to the Maelstrom to do some outer-zone material farming, then just about any ship with a little mobility and some clever manuevering can collect the materials scavenged from the edge of the caustic region.
 
-![maxresdefault.jpg](/maxresdefault.jpg)
+Because generators have a tendency to explode when approached, the commander must maintain an unrecognizable ship signature. A clever commander could use the combination of heatsinks and silent running, but due to comfortability and no synthesis requirements, we recommend engineering to bring the ship's thermal profile to below 20% heat even under thrusting conditions.
 
-Exploration video by Writer’s End: [Thargoid Maelstrom Exploration Video](https://youtu.be/3NqAGO6oX_Q)
+Here's a list of build recommendations for these materials:
 
+- Powerplant engineered Low Emission + Monstered
+- Enhanced Xeno Scanner
+- XENO Multi-Limpet Controller - for decontamination limpets for pre-unlocked CSL, AND research limpets
+- 1 collector limpet controller
+- 1 or more Heat Sink Launchers (HSL)
+- 1 or more class 4 Corrosion Resistant Cargo Racks for collecting samples (also required for unlocking the CSL)
+- 1 weapon that can poke very far away ( range of +3 km, e.g. 1 G3 Long Range beam laser)
+
+## Going Deeper
+<nwt> Once the appropriate materials have been gathered, commanders have the options to unlock **caustic sink launchers** (**CSL**s) and purchase a **Thargoid Pulse Neutralizer** (**TPN**). Once the CSL and TPN modules have been equipped, aspiring commanders may be ready to breach the Titan's massive wave pulse. A successful breach of the wave will allow the commander to enter into the center of the Maelstrom and approach the </nwt> **Titan**<nwt>, itself.</nwt>
+
+[![Titan Torus](/img/titantorus.png)](/img/titantorus.png)
+
+# Titan Space
+
+> I can still hear its rumbling light years away.
+
+Area Description...
+
+[![Titan Structure Infographic](/img/titan_infographics_example.png)](/img/titan_infographics_example.png)
+
+## Titan Space Threats
+
+Something about warping in tons of the scouts, hunters, and interceptors... the explosive seends... don't bump into an asteriod by accident... Titan status... the destructive hyperboloid field, and the Titan's regenerating turret defenses...
+
+
+## Titan Rewards
+
+Titans have three mining activity materials and six research limpet activity commodities, alongside all the usual rewards from destroying Thargoid vessels in the area.
+
+### Titan Materials
+
+The surface of the Titan is covered with interesting features and some of the smallest details, blemishes, can be mined for materials. The blemishes are black, green, and orange in color and each have specific locations, one for each material. An Abrasion blaster can be used on the blemishes for expidited and efficient yields, but a laser works just fine, if only slower. Example of a successful abrasion blaster shot, yields 2 or 3: [![Grimscrub Blasted a Blemish](/img/maelstrom_mining_01.png)](/img/maelstrom_mining_01.png)
+
+### Titan Materials tabset {.tabset}
+
+#### **Hardened Surface Fragments**
+
+Picture of Fragment A
+
+####
+
+Picture of Fragment B
+
+####
+
+Picture of Fragment C
+
+
+### Titan Research Extractions
+
+In order to locate research limpet points on the Titan's surface, the OC Pulse Wave Scanner is required equipment and the pulse function must be assigned to a fire-group. The pulse is significantly shorter that the mining analyzer, so pulse often. There are only a few limpet attach points that can be found; the limpet attach point will be eliminated after one or two successful extractions. They respawn after about five minutes.
+
+
+### Titan Extractions tabset {.tabset}
+
+#### **General Body Samples**
+
+- Picture of "Titan Tissue Sample"
+- Picture of "Titan Partial Tissue Sample"
+- Picture of "Titan Deep Tissue Sample"
+
+#### **Maw Samples**
+
+- Picture of "Titan Maw Tissue Sample"
+- Picture of "Titan Maw Partial Sample"
+- Picture of "Titan Maw Deep Tissue Sample"
+
+### Titan Combat Protocols
+
+### Titan Combat Build Recommendations
+
+> The Killer Krait enters, stage left
