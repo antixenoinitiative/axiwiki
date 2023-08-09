@@ -2,7 +2,7 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-09T05:06:15.944Z
+date: 2023-08-09T05:16:01.344Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -63,7 +63,7 @@ When in the same system as a Thargoid Maelstrom, Guardian Modules <rl>are</rl><n
 Throughout the Maelstrom, besides the materials that can be acquired directly on indirectly from Caustic generators, there are two-types of free-floating materials that can be gathered.
 
 ### Caustic Generators
-
+[![](/maelstrom_cg_tumb.png)](/img/caustic_generator_2.png)
 <img href="/img/caustic_generator_2.png" src="/maelstrom_cg_tumb.png" title = "smol generator" alt = "Click Me for Full Picture" align = right ></img>
 These generators are also heat based Mines, these mines when detecting heat slowly drift towards ship and then explode, causing a 3km caustic explosion with a knock-back effect. Current safe heat threshold is unknown and subject to further testing.
 
