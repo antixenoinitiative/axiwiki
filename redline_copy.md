@@ -2,7 +2,7 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-09T06:23:23.205Z
+date: 2023-08-09T06:26:11.174Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -74,61 +74,39 @@ These Caustic generators are checked on by Thargoid Interceptors flying about wi
 
 Destroying a Caustic Generator will cause it to drop various materials which can be collected. These materials are used for Caustic Sink synthesis, along with unlocking the Caustic Sink Launcher itself.
 
+### Materials 
+
 ### Materials tabset {.tabset}
 
 #### **Corrosive Mechanisms**
 
+  Individual caustic sinks last 43 seconds in minimal caustic (just inside the perimeter) and 27 seconds 20km deep inside perimeter. Ammo-capacity engineered Caustic Sinks Launchers thus provide approximately 4-6 minutes of protection each, not including ammo synthesis (which is possible, but expensive in terms of materials.)
+
 <a href="/img/corrosive_mechannism_2.png">
-	<img src ="/img/maelstrom_tn02.png" align = right 
+	<img src ="/img/maelstrom_tn02.png"
 		title = "Click for the Full Image"
 		alt = "smol corrosive mechanism image" />
 </a>
 
-  Individual caustic sinks last 43 seconds in minimal caustic (just inside the perimeter) and 27 seconds 20km deep inside perimeter. Ammo-capacity engineered Caustic Sinks Launchers thus provide approximately 4-6 minutes of protection each, not including ammo synthesis (which is possible, but expensive in terms of materials.)
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-
 #### **Caustic Shards (Common)**
 
+Caustic Shards are used to unlock Caustic Sink Launchers, and in Caustic Sink Ammo Synthesis (4 required per synth)
+
 <a href="/img/caustic_shard_1.png">
-	<img src ="/img/maelstrom_tn03.png" align = right
+	<img src ="/img/maelstrom_tn03.png" 
 		title = "Click for the Full Image"
 		alt = "smol Caustic Shard image" />
 </a>
-
-Caustic Shards are used to unlock Caustic Sink Launchers, and in Caustic Sink Ammo Synthesis (4 required per synth)
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 
 #### **Caustic Crystals (Rare)**
 
+Caustic Crystals have no known use at this time.
+
 <a href="/img/caustic_crystal_2.png">
-	<img src ="/img/maelstrom_tn04.png" align = right
+	<img src ="/img/maelstrom_tn04.png"
 		title = "Click for the Full Image"
 		alt = "smol Caustic Shard image" />
 </a>
-
-Caustic Crystals have no known use at this time.
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 
 
 ## 
