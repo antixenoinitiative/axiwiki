@@ -2,7 +2,7 @@
 title: READ ME for New Editors
 description: Editing Principles and Wiki Design Goals
 published: false
-date: 2023-08-08T03:24:11.234Z
+date: 2023-08-09T06:11:32.029Z
 tags: editor
 editor: markdown
 dateCreated: 2023-08-06T22:59:14.821Z
@@ -24,7 +24,7 @@ When planning a page edit, if there is a "primary editor" of a page, check with 
 
 If your changes include adding new web assets (like images), then upload them to the wiki first instead of linking them, this way the wiki git repository has its own copy of the asset, hopefully preventing any elements from breaking over time.
 
-https://wiki.antixenoinitiative.com is based on Node.js and Git under the requarks.io open source project. A very short documentation page for Wiki.js is provided at [https://docs.requarks.io/guide/intro](https://docs.requarks.io/guide/intro)
+https://wiki.antixenoinitiative.com is based on Node.js and Git under the requarks.io open source project. A very short documentation page for Wiki.js is provided at [https://docs.requarks.io/guide/intro](https://docs.requarks.io/guide/intro) with an intro to markdown <https://docs.requarks.io/editors/markdown>. It looks to be up to date using the commonmark spec which has a much more detailed doc here: <https://spec.commonmark.org/0.30/>
 
 The user experience for the information published by AXI can be inconsistent and difficult to navigate. To improve the user experience and accuracy of the information presented by AXI, clearly written goals and evaluations are proposed for the changes required to achieve the overall goal of providing to the community an effective and consicely written primary repository of AXI related articles. Fixing typos and grammatical mistakes are always expected of every recommendation for changes and is thusly not mentioned going forward.
 
