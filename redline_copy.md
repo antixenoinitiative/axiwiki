@@ -2,7 +2,7 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-09T07:40:15.973Z
+date: 2023-08-09T08:08:04.909Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -44,8 +44,8 @@ Due to the inquisitive, dedicated, and perhaps misguided commanders exploring th
 <rl>System Wide Impacts</rl>
 
 When in the same system as a Thargoid Maelstrom, Guardian Modules <rl>are</rl><nwt> become</nwt> functionally unusable<nwt>;</nwt> <rl>and</rl><nwt> Guardian modules</nwt> will decay while anywhere <nwt>within</nwt> <rl>in the</rl><nwt> a</nwt> system at a constant rate.  
-- Guardian weapons, Guardian Module Reinforcement, and Guardian Shield Reinforcement decay at a rate of 1%/s.  
-- The Guardian Power Plant and Guardian Power Distributor decay at a rate of 1% every 10 seconds, but do not decay lower than 19%.  
+- Guardian weapons, Guardian Module Reinforcement, Guardian FSD Booster, and Guardian Shield Reinforcement decay at a rate of 1%/s <nwt>until damaged (0% integrity)</nwt>.
+- The Guardian Power Plant and Guardian Power Distributor decay at a rate of 1% every 10 seconds, but do not decay lower than 19% <nwt> integrity</nwt>.
 - The Guardian Hull Reinforcement is immune, because it does not have integrity of its own.
 
 <rl>The</rl> Thargoid Maelstrom <nwt>POIs are </nwt><rl>is a </rl>large cloud-like area<nwt>s;</nwt> these appear similar to Lagrange clouds. Travel<rl>l</rl>ing inside the cloud will incur significant caustic damage; <rl>and</rl> it is ill advised to travel within the cloud without preparations. The cloud is an area of <rl>swarming</rl><nwt> sprawling</nwt> lightning storms and various Thargoid-related anomalies. Caustic Generators<nwt>, an anomoly only found within the caustic zone of the maelstrom cloud,</nwt> can be seen floating <nwt>and sporadically manuevering</nwt> in the cloud and are most likely the source of the caustic damage area.
@@ -131,17 +131,19 @@ Caustic Crystals have no known use at this time.
 
 <nwt> Once the appropriate materials have been gathered, Caustic Sink Launcher is unlocked and equipped, the Thargoid Pulse Neutralizer is purchased and equipped, THEN aspiring commanders may be ready to breach the Titan's massive wave. A successful breach of the wave will allow the commander to enter into the center of the Maelstrom and approach the </nwt> **Titan**<nwt>, itself.</nwt> 
 
+[![Titan Torus](/img/titantorus.png)](/img/titantorus.png)
 # Titan Space
 
 
 ## Titan Space Threats
 
-Something about warping in tons of scouts, hunters, and interceptors...
+Something about warping in tons of the scouts, hunters, and interceptors... Titan status... the destructive hyperboloid field, and the Titan's regenerating turret defenses...
 
+[![Titan Structure Infographic](/img/titan_infographics_example.png)](/img/titan_infographics_example.png)
 
 ## Titan Rewards
 
-Titans have three mining activity materials and three research limpet activity commodities. 
+Titans have three mining activity materials and six research limpet activity commodities, alongside all the usual rewards from destroying Thargoid vessels in the area.  
 
 ### Titan Materials 
 
@@ -171,15 +173,18 @@ In order to locate research limpet points on the Titan's surface, the OC Pulse W
 
 ### Titan Extractions tabset {.tabset}
 
-#### 
+#### **General Body Samples**
 
-Picture of Sample A
+- Picture of "Titan Tissue Sample" 
+- Picture of "Titan Partial Tissue Sample"
+- Picture of "Titan Deep Tissue Sample"
 
-####
+#### **Maw Samples**
 
-Picture of Partial Sample
+- Picture of "Titan Maw Tissue Sample"
+- Picture of "Titan Maw Partial Sample"
+- Picture of "Titan Maw Deep Tissue Sample"
 
-####
+### Titan Combat Protocols
 
-Picture of Sample B
-
+### Titan Combat Build Recommendations
