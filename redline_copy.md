@@ -2,7 +2,7 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-09T05:16:01.344Z
+date: 2023-08-09T06:15:24.295Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -60,29 +60,51 @@ When in the same system as a Thargoid Maelstrom, Guardian Modules <rl>are</rl><n
 ## Maelstrom Rewards
 <rl> Caustic Material Farming </rl>
 
-Throughout the Maelstrom, besides the materials that can be acquired directly on indirectly from Caustic generators, there are two-types of free-floating materials that can be gathered.
+<!--- [![smol gen](/maelstrom_cg_tumb.png)](/img/caustic_generator_2.png) --->
+<a href="/img/caustic_generator_2.png">
+	<img src ="/img/maelstrom_tn01.png" align = right
+       title = "Click for the Full Image" 
+       alt = "smol caustic generator image"/>
+</a>
+Throughout the Maelstrom, besides the materials that can be acquired directly on indirectly from **Caustic generators**, there are two-types of free-floating materials that can be gathered.
 
-### Caustic Generators
-[![](/maelstrom_cg_tumb.png)](/img/caustic_generator_2.png)
-<img href="/img/caustic_generator_2.png" src="/maelstrom_cg_tumb.png" title = "smol generator" alt = "Click Me for Full Picture" align = right ></img>
 These generators are also heat based Mines, these mines when detecting heat slowly drift towards ship and then explode, causing a 3km caustic explosion with a knock-back effect. Current safe heat threshold is unknown and subject to further testing.
 
 These Caustic generators are checked on by Thargoid Interceptors flying about within the Maelstrom, these Interceptors are typically passive however become hostile within a certain range, this is still being researched and may not be completely accurate.
 
 Destroying a Caustic Generator will cause it to drop various materials which can be collected. These materials are used for Caustic Sink synthesis, along with unlocking the Caustic Sink Launcher itself.
 
-**Corrosive Mechanisms**
-![corrosive_mechannism_2.png](/img/corrosive_mechannism_2.png)
+### Materials {.tabset}
 
-Individual caustic sinks last 43 seconds in minimal caustic (just inside the perimeter) and 27 seconds 20km deep inside perimeter. Ammo-capacity engineered Caustic Sinks Launchers thus provide approximately 4-6 minutes of protection each, not including ammo synthesis (which is possible, but expensive in terms of materials.)
+#### **Corrosive Mechanisms**
 
-**Caustic Shards (Common)**
-![caustic_shard_1.png](/img/caustic_shard_1.png)
+<a href="/img/corrosive_mechannism_2.png">
+	<img src ="/img/maelstrom_tn02.png" align = right 
+		title = "Click for the Full Image"
+		alt = "smol corrosive mechanism image" />
+</a>
+
+  Individual caustic sinks last 43 seconds in minimal caustic (just inside the perimeter) and 27 seconds 20km deep inside perimeter. Ammo-capacity engineered Caustic Sinks Launchers thus provide approximately 4-6 minutes of protection each, not including ammo synthesis (which is possible, but expensive in terms of materials.)
+
+
+
+#### **Caustic Shards (Common)**
+
+<a href="/img/caustic_shard_1.png">
+	<img src ="/img/maelstrom_tn03.png" align = right
+		title = "Click for the Full Image"
+		alt = "smol Caustic Shard image" />
+</a>
 
 Caustic Shards are used to unlock Caustic Sink Launchers, and in Caustic Sink Ammo Synthesis (4 required per synth)
 
-**Caustic Crystals (Rare)**
-![caustic_crystal_2.png](/img/caustic_crystal_2.png)
+#### **Caustic Crystals (Rare)**
+
+<a href="/img/caustic_crystal_2.png">
+	<img src ="/img/maelstrom_tn04.png" align = right
+		title = "Click for the Full Image"
+		alt = "smol Caustic Shard image" />
+</a>
 
 Caustic Crystals have no known use at this time.
 
