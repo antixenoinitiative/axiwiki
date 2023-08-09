@@ -2,7 +2,7 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-09T06:15:24.295Z
+date: 2023-08-09T06:23:23.205Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -74,7 +74,7 @@ These Caustic generators are checked on by Thargoid Interceptors flying about wi
 
 Destroying a Caustic Generator will cause it to drop various materials which can be collected. These materials are used for Caustic Sink synthesis, along with unlocking the Caustic Sink Launcher itself.
 
-### Materials {.tabset}
+### Materials tabset {.tabset}
 
 #### **Corrosive Mechanisms**
 
@@ -85,8 +85,14 @@ Destroying a Caustic Generator will cause it to drop various materials which can
 </a>
 
   Individual caustic sinks last 43 seconds in minimal caustic (just inside the perimeter) and 27 seconds 20km deep inside perimeter. Ammo-capacity engineered Caustic Sinks Launchers thus provide approximately 4-6 minutes of protection each, not including ammo synthesis (which is possible, but expensive in terms of materials.)
-
-
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 
 #### **Caustic Shards (Common)**
 
@@ -97,6 +103,14 @@ Destroying a Caustic Generator will cause it to drop various materials which can
 </a>
 
 Caustic Shards are used to unlock Caustic Sink Launchers, and in Caustic Sink Ammo Synthesis (4 required per synth)
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 
 #### **Caustic Crystals (Rare)**
 
@@ -107,8 +121,17 @@ Caustic Shards are used to unlock Caustic Sink Launchers, and in Caustic Sink Am
 </a>
 
 Caustic Crystals have no known use at this time.
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 
 
+## 
 
 The center of the Maelstrom is a large red-ish cloud, approaching the center will cause a large EMP-like pulse to emit from the Center which will eject any ships at a high velocity, shutting them down and damaging them in the process. Being hit by the pulse grants the CMDR a single instance of **Massive Energy Surge Analytics** encoded material.
 
