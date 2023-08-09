@@ -2,7 +2,7 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-09T06:15:24.295Z
+date: 2023-08-09T06:40:38.720Z
 tags:
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -11,11 +11,13 @@ dateCreated: 2023-08-06T02:18:49.013Z
 <rl> This page is a work in progress</rl> ![elite-dangerous-thargoid-invasion-update-14.jpg](/elite-dangerous-thargoid-invasion-update-14.jpg)
 # A Brief Intro to the Maelstrom
 
-The Thargoid Maelstrom is a <rl>new type of instance</rl> <nwt>system point of interest (POI)</nwt> that appeared alongside the Thargoid invasion <nwt>event</nwt> in Nov 3308. These instances have appeared in several systems and <nwt>they</nwt> are an incredibly dangerous anomaly. <rl>which purpose is currently unknown. All 8 UIA causing the Maelstroms impacted.</rl><nwt>Thargoid Maelstrom POIs are multilayered and the first POI that may make you want to think twice about disengaging your supercruise in the dropzone. Maelstrom POIs have massive caustic zones, that we call *the cloud*, and dropping at the HUD's perfect spot indicator will land your vessel inside of the outer caustic zone of *the cloud*. Unless you are prepared to drop into caustic, plan to drop one tick next to the "drop zone" indicated by the HUD. Upon arrival, the storm is quite visible, and the scale of it can be disorienting. A slow approach to the scrambled instance center indicator is recommended. Cautious commanders can identify the boundry between safe space and caustic cloud. Adventurous commanders have discovered that braving the caustic to get to the center yields no reward. This is because a powerful enemy lurks resides and the center, and upon your approach, a massive energy wave will be deployed to repell all invaders. Due to the inquisitive, dedicated, and perhaps misguided commanders exploring the Maelstrom's inner caustic zone, technology has been developed to allow commanders immunity to the repulsion wave that protects the massive entity at the center of the Maelstrom; if you choose to brave this journey, behold, the ***Titan***.</nwt>
+The Thargoid Maelstrom is a <rl>new type of instance</rl> <nwt>system point of interest (POI)</nwt> that appeared alongside the Thargoid invasion <nwt>event</nwt> in Nov 3308. These instances have appeared in several systems and <nwt>they</nwt> are an incredibly dangerous anomaly. <rl>which purpose is currently unknown. All 8 UIA causing the Maelstroms impacted.</rl>
+
+<nwt>Thargoid Maelstrom POIs are multilayered and may make you want to think twice about disengaging your supercruise in the dropzone. Maelstroms have massive caustic zones, that we call *the cloud*, and dropping at the HUD's perfect spot indicator will land your vessel inside of the outer caustic zone of *the cloud*. Unless you are prepared to drop into caustic, plan to drop one tick next to the "drop zone" indicated by the HUD. Upon arrival, the storm is quite visible, and the scale of it can be disorienting. A slow approach to the scrambled instance center indicator is recommended. Cautious commanders can identify the boundry between safe space and caustic cloud. Adventurous commanders have discovered that braving the caustic to get to the center yields no reward. This is because a powerful enemy lurks resides and the center, and upon your approach, a massive energy wave will be deployed to repell all invaders. Due to the inquisitive, dedicated, and perhaps misguided commanders exploring the Maelstrom's inner caustic zone, technology has been developed to allow commanders immunity to the repulsion wave that protects the massive entity at the center of the Maelstrom; if you choose to brave this journey, behold, the</nwt> ***Titan***.
 
 <rl>You can view current Maelstrom systems in the AXI tracking site: Thargoid Watch</rl>
 ### Maelstrom Systems
-<nwt>Maelstroms are in close orbit to ammonia worlds. </nwt>The current systems <nwt>with a Maelstrom POI: </nwt><rl>having Maelstrom cloud and all of its effects are:</rl>
+<nwt>Maelstroms are in close orbit to ammonia worlds. Each Maelstrom POI is named for their respective Titan. In the navigation panel, for example, the Maelstrom found in HIP 30377 is indicated after FSS as "Titan Hadad" and the system status is "Thargoid Titan" instead of "Thargoid Controlled". </nwt> <rl>The current systems having Maelstrom cloud and all of its effects are:</rl>
 
 | Maelstrom   | System                    | Planetary Body | Distance from Star to POI ± 10% Ls |
 | ----------- | ------------------------- | -------------- | ---------------------------------- |
@@ -63,41 +65,42 @@ These Caustic generators are checked on by Thargoid Interceptors flying about wi
 
 Destroying a Caustic Generator will cause it to drop various materials which can be collected. These materials are used for Caustic Sink synthesis, along with unlocking the Caustic Sink Launcher itself.
 
-### Materials {.tabset}
+
+<rl>Individual caustic sinks last 43 seconds in minimal caustic (just inside the perimeter) and 27 seconds 20km deep inside perimeter. Ammo-capacity engineered Caustic Sinks Launchers thus provide approximately 4-6 minutes of protection each, not including ammo synthesis (which is possible, but expensive in terms of materials.)</rl>
+
+### Materials
+
+### Materials tabset {.tabset}
 
 #### **Corrosive Mechanisms**
 
 <a href="/img/corrosive_mechannism_2.png">
-    <img src ="/img/maelstrom_tn02.png" align = right 
+    <img src ="/img/maelstrom_tn02.png"
         title = "Click for the Full Image"
         alt = "smol corrosive mechanism image" />
 </a>
 
-  Individual caustic sinks last 43 seconds in minimal caustic (just inside the perimeter) and 27 seconds 20km deep inside perimeter. Ammo-capacity engineered Caustic Sinks Launchers thus provide approximately 4-6 minutes of protection each, not including ammo synthesis (which is possible, but expensive in terms of materials.)
-
-
-
 #### **Caustic Shards (Common)**
-
-<a href="/img/caustic_shard_1.png">
-    <img src ="/img/maelstrom_tn03.png" align = right
-        title = "Click for the Full Image"
-        alt = "smol Caustic Shard image" />
-</a>
 
 Caustic Shards are used to unlock Caustic Sink Launchers, and in Caustic Sink Ammo Synthesis (4 required per synth)
 
-#### **Caustic Crystals (Rare)**
-
-<a href="/img/caustic_crystal_2.png">
-    <img src ="/img/maelstrom_tn04.png" align = right
+<a href="/img/caustic_shard_1.png">
+    <img src ="/img/maelstrom_tn03.png" 
         title = "Click for the Full Image"
         alt = "smol Caustic Shard image" />
 </a>
 
+#### **Caustic Crystals (Rare)**
+
 Caustic Crystals have no known use at this time.
 
+<a href="/img/caustic_crystal_2.png">
+    <img src ="/img/maelstrom_tn04.png"
+        title = "Click for the Full Image"
+        alt = "smol Caustic Shard image" />
+</a>
 
+##
 
 The center of the Maelstrom is a large red-ish cloud, approaching the center will cause a large EMP-like pulse to emit from the Center which will eject any ships at a high velocity, shutting them down and damaging them in the process. Being hit by the pulse grants the CMDR a single instance of **Massive Energy Surge Analytics** encoded material.
 
