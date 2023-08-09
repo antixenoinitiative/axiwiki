@@ -2,7 +2,7 @@
 title: Redlines Copy
 description: This is a placeholder page for the production of a redline and new text document for delivering to authors for courtesy authorization.
 published: false
-date: 2023-08-09T08:08:04.909Z
+date: 2023-08-09T08:32:11.282Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T02:18:49.013Z
@@ -119,7 +119,13 @@ Caustic Crystals have no known use at this time.
 		alt = "smol Caustic Shard image" />
 </a>
 
-### Recommendations for Shallow Diving
+## Recommendations for Shallow Maelstrom Diving
+
+Assuming that the player just wants to get to the Maelstrom to do some outer-zone material farming, then just about any ship with a little mobility and some clever manuevering can collect the materials scavenged from the edge of the caustic region. 
+
+Because generators have a tendency to explode when approached, the commander must maintain an unrecognizable ship signature. A clever commander could use the combination of heatsinks and silent running, but due to comfortability and no synthesis requirements, we recommend engineering to bring the ship's thermal profile to below 20% heat even under thrusting conditions.
+
+Here's a list of build recommendations for these materials:
 
 - Powerplant engineered Low Emission + Monstered
 - Enhanced Xeno Scanner
@@ -129,17 +135,26 @@ Caustic Crystals have no known use at this time.
 - 1 or more class 4 Corrosion Resistant Cargo Racks for collecting samples (also required for unlocking the CSL)
 - 1 weapon that can poke very far away ( range of +3 km, e.g. 1 G3 Long Range beam laser)
 
-<nwt> Once the appropriate materials have been gathered, Caustic Sink Launcher is unlocked and equipped, the Thargoid Pulse Neutralizer is purchased and equipped, THEN aspiring commanders may be ready to breach the Titan's massive wave. A successful breach of the wave will allow the commander to enter into the center of the Maelstrom and approach the </nwt> **Titan**<nwt>, itself.</nwt> 
+## Going Deeper
+
+<nwt> Once the appropriate materials have been gathered, commanders have the options to unlock **caustic sink launchers** (**CSL**s) and purchase a **Thargoid Pulse Neutralizer** (**TPN**).
+  
+Once the CSL and TPN modules have been equipped, aspiring commanders may be ready to breach the Titan's massive wave pulse. A successful breach of the wave will allow the commander to enter into the center of the Maelstrom and approach the </nwt> **Titan**<nwt>, itself.</nwt> 
 
 [![Titan Torus](/img/titantorus.png)](/img/titantorus.png)
+
 # Titan Space
 
+> I can still hear its rumbling light years away.
+
+Area Description...
+
+[![Titan Structure Infographic](/img/titan_infographics_example.png)](/img/titan_infographics_example.png)
 
 ## Titan Space Threats
 
-Something about warping in tons of the scouts, hunters, and interceptors... Titan status... the destructive hyperboloid field, and the Titan's regenerating turret defenses...
+Something about warping in tons of the scouts, hunters, and interceptors... the explosive seends... don't bump into an asteriod by accident... Titan status... the destructive hyperboloid field, and the Titan's regenerating turret defenses...
 
-[![Titan Structure Infographic](/img/titan_infographics_example.png)](/img/titan_infographics_example.png)
 
 ## Titan Rewards
 
@@ -149,7 +164,7 @@ Titans have three mining activity materials and six research limpet activity com
 
 The surface of the Titan is covered with interesting features and some of the smallest details, blemishes, can be mined for materials. The blemishes are black, green, and orange in color and each have specific locations, one for each material. An Abrasion blaster can be used on the blemishes for expidited and efficient yields, but a laser works just fine, if only slower. 
 Example of a successful abrasion blaster shot, yields 2 or 3:
-![maelstrom_mining_01.png](/img/maelstrom_mining_01.png)
+[![Grimscrub Blasted a Blemish](/img/maelstrom_mining_01.png)](/img/maelstrom_mining_01.png)
 
 ### Titan Materials tabset {.tabset}
 
@@ -188,3 +203,5 @@ In order to locate research limpet points on the Titan's surface, the OC Pulse W
 ### Titan Combat Protocols
 
 ### Titan Combat Build Recommendations
+
+> The Killer Krait enters, stage left
