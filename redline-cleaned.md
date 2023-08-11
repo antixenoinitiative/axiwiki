@@ -2,7 +2,7 @@
 title: Redline Cleaned
 description: This is a duplicate page for providing authors the new look of a page after redlining and new text
 published: false
-date: 2023-08-09T18:18:25.505Z
+date: 2023-08-11T03:46:48.810Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T03:40:01.561Z
@@ -75,38 +75,10 @@ Destroying a Caustic Generator will cause it to drop various materials which can
 
 > I've been blown up and flung more times than I care to count!
 
-### Materials 
-
-### Materials tabset {.tabset}
-
-#### **Corrosive Mechanisms**
-
-<a href="/img/corrosive_mechannism_2.png">
-	<img src ="/img/maelstrom_tn02.png"
-		title = "Click for the Full Image"
-		alt = "smol corrosive mechanism image" />
-</a>
-
-#### **Caustic Shards (Common)**
-
-Caustic Shards are used to unlock Caustic Sink Launchers, and in Caustic Sink Ammo Synthesis (4 required per synth)
-
-<a href="/img/caustic_shard_1.png">
-	<img src ="/img/maelstrom_tn03.png" 
-		title = "Click for the Full Image"
-		alt = "smol Caustic Shard image" />
-</a>
-
-#### **Caustic Crystals (Rare)**
-
-Caustic Crystals have no known use at this time.
-
-<a href="/img/caustic_crystal_2.png">
-	<img src ="/img/maelstrom_tn04.png"
-		title = "Click for the Full Image"
-		alt = "smol Caustic Shard image" />
-</a>
-
+### Caustic Zone Materials
+|**Corrosive Mechanisms**|**Caustic Shards**|**Caustic Crystals (Rare)**|
+|---|---|---|
+| [![](/img/maelstrom_tn02.png)](/img/corrosive_mechannism_2.png) | [![](/img/maelstrom_tn03.png)](/img/caustic_shard_1.png) | [![](/img/maelstrom_tn04.png)](/img/caustic_crystal_2.png)
 
 ## Recommendations for Shallow Maelstrom Diving
 
@@ -140,20 +112,20 @@ After the appropriate materials have been gathered, commanders have the options 
   
 Once the CSL and TPN modules have been equipped, aspiring commanders may be ready to breach the Titan's massive repulsion field. A successful breach of the wave will allow the commander to enter into the center of the Maelstrom and approach the **Titan**, itself. 
 
-[![Titan Torus](/img/titantorus.png)](/img/titantorus.png)
+![titan_-_approach.png](/titan_-_approach.png)
 
 # Titan Space
 
 > I can still hear its rumbling light years away.
 
-Area Description...
+Asteriods will come into view then the silhouette on approach to the Titan. This space is no longer caustic allowing for semi-safe repairs in this new zone. The Titan itself has a large central portal that glows, the Maw. Along its perimeter are large helical spines. Out towards the edge, there are heat vents, and launch tubes. On the opposite side of the Titan, there a large spines spread across the overall starfish landscape. There a number of dangers involved. 
 
 [![Titan Structure Infographic](/img/titan_infographics_example.png)](/img/titan_infographics_example.png)
 
 ## Titan Space Threats
 
-Something about warping in tons of the scouts, hunters, and interceptors... the explosive seends... don't bump into an asteriod by accident... Titan status... the destructive hyperboloid field, and the Titan's regenerating turret defenses...
-
+On approach, avoid the asteroids and beware the seed generators that populate the asteroid field. Seeds, on ship detection, slowly drift toward the offending vessel and explode very similarly to caustic generators. Glaives and interceptors patrol this space. The Titan itself, has many destructable turrets on its surface and a large area of effect special attack, the tourus. 
+[![Titan Torus](/img/titantorus.png)](/img/titantorus.png)
 
 ## Titan Rewards
 
@@ -161,43 +133,21 @@ Titans have three mining activity materials and six research limpet activity com
 
 ### Titan Materials 
 
-The surface of the Titan is covered with interesting features and some of the smallest details, blemishes, can be mined for materials. The blemishes are black, green, and orange in color and each have specific locations, one for each material. An Abrasion blaster can be used on the blemishes for expidited and efficient yields, but a laser works just fine, if only slower. 
-Example of a successful abrasion blaster shot, yields 2 or 3:
+The surface of the Titan is covered with interesting features and some of the smallest details, blemishes, can be mined for materials. The blemishes are black, green, and orange in color and each have specific locations, one for each material. An Abrasion blaster can be used on the blemishes for expidited and efficient yields (2 or 3 per shot), but a laser works just fine, if only slower. 
+Example of a successful abrasion blaster shot, this case yielded 3:
 [![Grimscrub Blasted a Blemish](/img/maelstrom_mining_01.png)](/img/maelstrom_mining_01.png)
-
-### Titan Materials tabset {.tabset}
-
-#### **Hardened Surface Fragments**
-
-Picture of Fragment A
-
-####
-
-Picture of Fragment B
-
-####
-
-Picture of Fragment C
 
 
 ### Titan Research Extractions
 
 In order to locate research limpet points on the Titan's surface, the OC Pulse Wave Scanner is required equipment and the pulse function must be assigned to a fire-group. The pulse is significantly shorter that the mining analyzer, so pulse often. There are only a few limpet attach points that can be found; the limpet attach point will be eliminated after one or two successful extractions. They respawn after about five minutes.
 
-
-### Titan Extractions tabset {.tabset}
-
-#### **General Body Samples**
-
-- Picture of "Titan Tissue Sample" 
-- Picture of "Titan Partial Tissue Sample"
-- Picture of "Titan Deep Tissue Sample"
-
-#### **Maw Samples**
-
-- Picture of "Titan Maw Tissue Sample"
-- Picture of "Titan Maw Partial Sample"
-- Picture of "Titan Maw Deep Tissue Sample"
+- Titan Tissue Sample 
+- Titan Partial Tissue Sample
+- Titan Deep Tissue Sample
+- Titan Maw Tissue Sample
+- Titan Maw Partial Tissue Sample
+- Titan Maw Deep Tissue Sample
 
 ### Titan Combat Protocols
 
