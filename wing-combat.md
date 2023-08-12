@@ -2,7 +2,7 @@
 title: Wing AX Combat
 description: AX combat and how to effectively fight in wings.
 published: true
-date: 2023-08-07T04:55:56.389Z
+date: 2023-08-12T17:39:59.414Z
 tags: wing, murderball, discoball, ax cz
 editor: markdown
 dateCreated: 2023-08-06T01:43:08.175Z
@@ -24,7 +24,7 @@ dateCreated: 2023-08-06T01:43:08.175Z
  - If you are the last of your wing in the instance, disengage from the fight and stay alive in the instance until your wingmates return and can provide anchor for you. Thargoid combat is hard until it's not.
  
  # Wing Battle Guide
- Original wiki article written by CMDR Ghosti has been lazily localized for us English peepz:
+ Original wiki article written by CMDR Ghosti <https://wiki.antixenoinitiative.com/de/wing-combat-guide>
  
  Wing battles are all battles involving multiple players. As this introduces different mechanics and gameplay bugs, wing battles can be harder or easier depending on how you handle it. Wing battles differ from individual battles in a few key ways:
 
