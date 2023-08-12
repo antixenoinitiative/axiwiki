@@ -2,7 +2,7 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2023-08-11T03:54:54.203Z
+date: 2023-08-12T03:48:33.637Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
@@ -23,9 +23,9 @@ Due to the inquisitive, dedicated, and perhaps misguided commanders exploring th
 
 ### Maelstrom Systems
 
-  Maelstroms are in close orbit to ammonia worlds. When a system has a Maelstrom, the system status is "Thargoid Titan" instead of "Thargoid Controlled." Each Maelstrom POI is named for their respective Titan in the navigation panel. For example, the Maelstrom found in HIP 30377 is indicated (after FSS) as "Titan Hadad."
+  Maelstroms are in close orbit to ammonia worlds. Maelstrom systems are inhabited by Titans, and possess and anti-guardian effect throughout the system. 
 
-| Maelstrom | System | Planetary Body | Distance from Star to POI ± 10% Ls |
+| **Maelstrom** | **System** | **Body** | **Arrival Distance (ls)** |
 |---|---|---|---|
 |**Cocijo**		| Col 285 Sector BA-P c6-18	| 3		| 1,300
 |**Hadad**		| HIP 30377									| B 8	| 39,230 
@@ -59,12 +59,8 @@ The cloud anatomy is mostly spherical with the following notable dimensions:
 
 The center of the Maelstrom is a large red-ish cloud. Approaching the center will cause a large wave-like pulse to emit from the Center which will eject nearby ships at high velocity, shutting them down, and damaging them in the process. Being hit by the pulse grants the CMDR a single instance of **Massive Energy Surge Analytics** encoded material.
 
-<!--- [![smol gen](/maelstrom_cg_tumb.png)](/img/caustic_generator_2.png) --->
-<a href="/img/caustic_generator_2.png">
-	<img src ="/img/maelstrom_tn01.png" align = right
-       title = "Click for the Full Image" 
-       alt = "smol caustic generator image"/>
-</a>
+![Caustic Generator](/img/caustic_generator_2.png =300x){.align-right}
+
 Throughout the Maelstrom, besides the materials that can be acquired directly on indirectly from **Caustic generators**, there are two-types of free-floating materials that can be gathered.
 
 These generators are also heat detecting mines. Upon detection, they slowly drift towards the ship at fault and then explode, causing a 3km caustic explosion with a severe knock-back effect. Current safe heat threshold is dependent on ship signature. The Rule of Thumb continues to be "Keep below 20% heat!"
@@ -151,9 +147,10 @@ In order to locate research limpet points on the Titan's surface, the OC Pulse W
 
 ## Titan Combat Protocols
 
-- On Arrival to the Titan, Destroy Seeds
-- Call out Glaive aggro; the more commanders on any one glaive kills that glaive faster
-- Hot ships and aggro will change the Titan state - and will trigger the tourus field
+- Staying cold (<20% heat) is paramount
+- Stick with a wing, allowing for faster dispatching of any Thargoids that lock on
+- Glaives are high combat priority, as they can detect you even at low heat
+- Stay within the inner asteroid ring to avoid the caustic cloud
 
 ### Titan Combat Build Recommendations
 
