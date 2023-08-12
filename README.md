@@ -23,7 +23,7 @@ Documents created within this repository are directly connected to pages in the 
 - Markdown: Using Markdown formatting
 - HTML: Using Basic HTML Formatting
 
-IMPORTANT: This sync should only be used for editing existing files, do not try to create new files or change file types as this won't work. For editing page types, use the built-in editor in the wiki. 
+**IMPORTANT: This sync should only be used for editing existing files, do not try to create new files or change file types as this won't work. For editing page types, use the built-in editor in the wiki.**
 
 ### Page Metadata
 
