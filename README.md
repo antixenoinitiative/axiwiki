@@ -57,6 +57,8 @@ dateCreated: 2021-06-17T03:18:38.671Z
 
 The GitHub repository will syncronize all changes (bi-directionally) with the AXI Wiki every 5 minutes. If a urgent change is needed contact Mgram#6610 on the AXI Discord.
 
+IMPORTANT: This sync should only be used for editing existing files, do not try to create new files or change file types as this won't work. For editing page types, use the built-in editor in the wiki. 
+
 ## Translation
 
 Translation is managed through Crowdin, translate pages here: https://crowdin.com/project/axiwiki
