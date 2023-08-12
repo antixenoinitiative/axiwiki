@@ -2,10 +2,10 @@
 title: Lasers
 description: Using laser in AX combat.
 published: true
-date: 2021-06-10T06:08:40.833Z
+date: 2021-06-24T12:27:47.707Z
 tags: outfitting, modules
 editor: markdown
-dateCreated: 2021-06-10T04:07:02.325Z
+dateCreated: 2021-06-24T12:27:46.045Z
 ---
 
 # Lasers

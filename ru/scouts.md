@@ -1,11 +1,11 @@
 ---
 title: Разведчики
 description: О таргоидских разведчиках
-published: опубликовано
-date: 2021-06-15T10:36:02.053Z
+published: true
+date: 2022-01-20T10:15:02.118Z
 tags: таргоиды, разведчики
 editor: markdown
-dateCreated: 2021-06-15T10:36:00.013Z
+dateCreated: 2021-06-24T12:30:11.776Z
 ---
 
 # Разведчики

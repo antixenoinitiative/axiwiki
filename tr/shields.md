@@ -2,7 +2,7 @@
 title: Thargoid Kalkanları
 description: Thargoid kalkanları ve mekanikleri hakkında bilgiler
 published: true
-date: 2021-10-30T21:54:24.545Z
+date: 2021-11-02T02:55:30.122Z
 tags: combat, thargoids, interceptors, shields
 editor: markdown
 dateCreated: 2021-10-06T05:50:40.860Z

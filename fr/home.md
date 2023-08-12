@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the Anti-Xeno Initiative Wiki. Your complete repository for Anti-Xeno Combat.
 published: true
-date: 2022-01-20T10:18:48.893Z
+date: 2022-01-20T10:18:51.558Z
 tags: admin
 editor: markdown
 dateCreated: 2021-06-24T12:25:28.175Z

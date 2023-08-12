@@ -1,11 +1,11 @@
 ---
 title: Ace Rank Rework of September 2021
-description:
+description: 
 published: true
-date: 2021-09-19T14:12:19.953Z
+date: 2021-10-06T05:37:59.280Z
 tags: admin
 editor: markdown
-dateCreated: 2021-09-03T01:21:34.494Z
+dateCreated: 2021-09-10T03:51:15.014Z
 ---
 
 # The Ace rank Rework of September 2021

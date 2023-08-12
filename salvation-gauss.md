@@ -2,7 +2,7 @@
 title: Salvation Gauss Cannons
 description: Everything we currently know about the Salvation Modified Guardian Gauss Cannons
 published: true
-date: 2021-09-19T12:23:55.239Z
+date: 2021-09-19T14:34:57.286Z
 tags: builds, weapons, guardians
 editor: markdown
 dateCreated: 2021-09-17T15:42:13.928Z
@@ -25,7 +25,7 @@ The weapons are first mentioned in a message from Salvation on 17th Sept 3307:
 
 This message was sent to a handful of commanders in-game. The current criteria to recieve this message is unknown.
 
-A second announcement was made from The Heart of Taurus Megaship on the 19th of September 3307
+A second announcement was made from The Heart of Taurus Megaship on the 17th of September 3307
 
 > SYSTEM BROADCAST FROM HEART OF TAURUS MEGASHIP
 > A message from Taurus Mining Ventures to all ships in the Pegasi Sector ON-S b4-8 system.

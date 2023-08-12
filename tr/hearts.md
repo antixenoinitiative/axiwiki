@@ -2,10 +2,10 @@
 title: Thargoid Kalpleri
 description: Thargoid Kalpleri ve mekanikleri hakkında bilgiler
 published: true
-date: 2021-09-19T11:13:43.707Z
+date: 2021-11-02T02:54:40.720Z
 tags: combat, thargoids, interceptors, hearts
 editor: markdown
-dateCreated: 2021-06-17T00:35:26.084Z
+dateCreated: 2021-10-06T05:49:28.228Z
 ---
 
 # Thargoid Kalpleri

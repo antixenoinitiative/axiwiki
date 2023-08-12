@@ -2,10 +2,10 @@
 title: Threat Management
 description: Understanding Thargoid Interceptor Threat Management
 published: true
-date: 2021-09-19T08:34:57.255Z
+date: 2021-10-06T05:42:03.246Z
 tags: combat, guide, thargoids, interceptors, threat
 editor: markdown
-dateCreated: 2021-06-21T02:12:44.684Z
+dateCreated: 2021-06-24T12:30:41.356Z
 ---
 
 # Threat Management

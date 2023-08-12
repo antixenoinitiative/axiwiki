@@ -1,11 +1,11 @@
 ---
 title: Оружие
 description: Подробная информация о AX-оружии
-published: Опубликовано
-date: 2021-09-19T11:10:48.357Z
-tags: снаряжение, модули
+published: true
+date: 2022-01-20T10:15:22.789Z
+tags: модули, снаряжение
 editor: markdown
-dateCreated: 2021-06-10T04:04:18.230Z
+dateCreated: 2021-06-24T12:30:43.806Z
 ---
 
 # АХ-оружие

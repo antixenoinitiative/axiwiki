@@ -2,7 +2,7 @@
 title: İleri Düzey Savaş Rehberi
 description: CMDR Avasa Siuu tarafından hazırlanan Odysseus Öğretisi'ne dayanmaktadır.
 published: true
-date: 2021-10-30T22:13:49.014Z
+date: 2021-10-30T22:13:50.763Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-10-06T05:48:29.523Z

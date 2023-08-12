@@ -1,11 +1,11 @@
 ---
 title: Thargoide Schilde
 description: Explanation of Thargoid Shields and related mechanics
-published: ja
-date: 2021-09-19T11:14:10.690Z
-tags: Gefect, Thargoids, Interceptors, Schilde
+published: true
+date: 2021-10-06T05:37:32.824Z
+tags: thargoids, interceptors, gefect, schilde
 editor: markdown
-dateCreated: 2021-06-17T00:54:20.812Z
+dateCreated: 2021-06-24T12:24:06.157Z
 ---
 
 # Thargoide Schilde

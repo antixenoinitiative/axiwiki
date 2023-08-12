@@ -1,11 +1,11 @@
 ---
 title: LIESMICH
-description:
+description: 
 published: true
-date: 2021-09-19T07:57:05.988Z
+date: 2021-10-06T05:36:52.869Z
 tags: admin
 editor: markdown
-dateCreated: 2021-06-23 11:45:35 +0000
+dateCreated: 2021-06-23T23:48:40.735Z
 ---
 
 ![](img/home.jpg)

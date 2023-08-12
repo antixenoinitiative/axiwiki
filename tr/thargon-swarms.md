@@ -2,10 +2,10 @@
 title: Thargon Swarmları
 description: Thargon Swarmlarının davranış ve mekaniklerine dair detaylı bilgiler
 published: true
-date: 2021-09-19T11:13:03.841Z
+date: 2021-11-02T02:55:53.363Z
 tags: thargoids, interceptors, swarms
 editor: markdown
-dateCreated: 2021-06-15T11:56:01.753Z
+dateCreated: 2021-10-06T05:51:19.291Z
 ---
 
 # Thargon Swarmları

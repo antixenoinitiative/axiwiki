@@ -2,10 +2,10 @@
 title: Salvation Gauss Cannonları
 description: Salvation Değiştirilmiş Guardian Gauss Cannonları hakkında şu ana kadar bildiklerimiz.
 published: true
-date: 2021-09-19T12:23:55.239Z
+date: 2021-11-02T02:55:25.718Z
 tags: builds, weapons, guardians
 editor: markdown
-dateCreated: 2021-09-17T15:42:13.928Z
+dateCreated: 2021-10-06T05:50:33.229Z
 ---
 
 # Salvation Gauss Cannonları

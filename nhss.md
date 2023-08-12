@@ -2,13 +2,15 @@
 title: Non-Human Signal Sources
 description: About Non-Human Signal Sources and Finding Thargoids
 published: true
-date: 2023-01-07T04:26:35.281Z
+date: 2023-07-10T09:37:44.987Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:51:53.374Z
 ---
 
 # Non-Human Signal Sources
+As a preface for using NHSS as a targeted farming method, they are only reliable in spawns outside of the war systems. The Pleiades and coalsack nebulae are the common spots for these. 
+
 Non-Human Signal Sources are a special type of signal source that can be found in areas of Thargoid activity, Upon finding and entering a NHSS there is a chance you will get one of three outcomes:
 
 - A single Thargoid Interceptor (Cyclops, Basilisk, Medusa or Hydra)

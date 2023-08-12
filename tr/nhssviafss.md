@@ -2,10 +2,10 @@
 title: FSS akorduyla NHSS içeriğini öngörmek
 description: FSS kullanarak tüm NHSS içeriklerini tahmin etmek mümkündür
 published: true
-date: 2021-08-03T13:32:41.413Z
+date: 2021-11-02T02:55:14.920Z
 tags: nhss
 editor: markdown
-dateCreated: 2021-08-03T12:11:12.142Z
+dateCreated: 2021-10-06T05:50:16.575Z
 ---
 
 # FSS akorduyla NHSS içeriğini öngörmek

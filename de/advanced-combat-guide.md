@@ -2,10 +2,10 @@
 title: Fortgeschrittener Gefechtsleitfaden
 description: Basierend auf dem Odysseus-Leitfaden von CMDR Avasa Siuu
 published: true
-date: 2021-06-17T04:01:30.341Z
-tags: Ausrüstung, Gefecht, Thargoids, Interceptors
+date: 2021-08-10T05:15:50.926Z
+tags: thargoids, interceptors, gefecht, ausrüstung
 editor: markdown
-dateCreated: 2021-06-17T03:49:32.855Z
+dateCreated: 2021-06-24T12:22:41.886Z
 ---
 
 # Fortgeschrittener Thargoid Gefechtsleitfaden

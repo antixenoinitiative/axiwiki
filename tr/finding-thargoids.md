@@ -1,11 +1,11 @@
 ---
 title: Thargoidleri Bulmak
-description: 'Elite: Dangerous''ta Thargoidler nasıl bulunur'
+description: Elite: Dangerous'ta Thargoidler nasıl bulunur
 published: true
-date: 2021-11-05T09:10:07.131Z
+date: 2021-11-23T03:07:23.136Z
 tags: thargoids, interceptors, scouts
 editor: markdown
-dateCreated: 2021-06-15T10:50:27.574Z
+dateCreated: 2021-10-06T05:49:18.176Z
 ---
 
 # Thargoidleri Bulmak

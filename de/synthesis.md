@@ -2,10 +2,10 @@
 title: Synthese
 description: Informationen zu Synthese im AX-Gefecht.
 published: true
-date: 2021-06-10T07:08:32.143Z
-tags: Engineering
+date: 2021-08-03T05:04:03.697Z
+tags: engineering
 editor: markdown
-dateCreated: 2021-06-10T04:08:01.614Z
+dateCreated: 2021-06-24T12:24:18.377Z
 ---
 
 # Synthese

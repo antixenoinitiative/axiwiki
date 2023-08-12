@@ -2,10 +2,10 @@
 title: Gemi Donatım Teorisi
 description: Genel AX donatım teorisine yönelik kapsamlı rehber
 published: true
-date: 2021-09-19T11:08:08.311Z
+date: 2021-11-02T02:55:32.576Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
-dateCreated: 2021-06-10T01:08:57.783Z
+dateCreated: 2021-10-06T05:50:44.775Z
 ---
 
 # Gemi Donatım Teorisi

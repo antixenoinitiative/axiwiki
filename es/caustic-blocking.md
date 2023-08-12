@@ -1,11 +1,11 @@
 ---
 title: Bloqueo cáustico
 description: Guía avanzada para bloquear misiles cáusticos
-published: verdadero
-date: 2021-06-21T02:24:43.961Z
+published: true
+date: 2021-08-03T05:04:11.401Z
 tags: combate, interceptores, misiles cáusticos
 editor: markdown
-dateCreated: 2021-06-21T02:24:42.124Z
+dateCreated: 2021-06-24T23:36:11.664Z
 ---
 
 # Bloqueo de Misiles Cáusticos

@@ -2,10 +2,10 @@
 title: Pip Yönetimi Rehberi
 description: Thargoid savaşlarında en iyi pip yönetimi nasıl olmalıdır
 published: true
-date: 2021-06-21T02:36:57.627Z
+date: 2021-11-02T02:55:17.189Z
 tags: combat, controls
 editor: markdown
-dateCreated: 2021-06-21T02:36:55.841Z
+dateCreated: 2021-10-06T05:50:19.953Z
 ---
 
 # Pip Yönetimi Rehberi

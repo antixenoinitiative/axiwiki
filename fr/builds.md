@@ -2,10 +2,10 @@
 title: Équipements Recommandés
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2022-01-13T22:15:01.146Z
+date: 2022-01-20T10:13:55.961Z
 tags: équipement
 editor: markdown
-dateCreated: 2021-06-08T12:52:54.657Z
+dateCreated: 2021-06-24T12:24:51.347Z
 ---
 
 # Equipements Recommandés

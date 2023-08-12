@@ -2,10 +2,10 @@
 title: Lazerler
 description: AX savaşlarında lazer kullanmak
 published: true
-date: 2021-06-10T06:08:40.833Z
+date: 2021-11-02T02:55:01.524Z
 tags: outfitting, modules
 editor: markdown
-dateCreated: 2021-06-10T04:07:02.325Z
+dateCreated: 2021-10-06T05:49:57.295Z
 ---
 
 # Lazerler

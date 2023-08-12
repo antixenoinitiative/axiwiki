@@ -2,10 +2,10 @@
 title: Guide du Speedrun
 description: Vous pouvez tuer des thargoids ? Oui ? Mais pouvez-vous les tuer rapidement ?
 published: true
-date: 2021-06-10T23:22:48.988Z
-tags:
+date: 2021-08-03T05:04:38.322Z
+tags: 
 editor: markdown
-dateCreated: 2021-06-10T13:56:57.206Z
+dateCreated: 2021-06-24T12:25:01.020Z
 ---
 
 # Introduction

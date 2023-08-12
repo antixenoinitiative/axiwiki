@@ -1,11 +1,11 @@
 ---
 title: Guía para principiantes en AX
 description: Un recorrido del wiki AXI para principiantes.
-published: verdadero
-date: 2021-06-11T00:55:21.190Z
+published: true
+date: 2021-07-03T01:54:32.903Z
 tags: guía
 editor: markdown
-dateCreated: 2021-06-11T00:55:18.207Z
+dateCreated: 2021-06-24T23:36:04.357Z
 ---
 
 # Guía de principiantes para AX

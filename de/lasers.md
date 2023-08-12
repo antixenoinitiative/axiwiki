@@ -1,11 +1,11 @@
 ---
 title: Laser
 description: Verwendung von Laser im AX-Kampf.
-published: ja
-date: 2021-06-10T06:08:40.833Z
-tags: Ausrüsten, Module
+published: true
+date: 2021-07-07T13:28:34.113Z
+tags: ausrüsten, module
 editor: markdown
-dateCreated: 2021-06-10T04:07:02.325Z
+dateCreated: 2021-06-24T12:23:42.047Z
 ---
 
 # Laser

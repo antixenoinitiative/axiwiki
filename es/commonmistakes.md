@@ -1,11 +1,11 @@
 ---
 title: Errores comunes
 description: Errores comunes que se deben evitar al cazar Thargoides
-published: verdadero
-date: 2021-09-19T11:15:47.195Z
-tags: construcciones, equipamiento, ingeniero
+published: true
+date: 2021-10-30T10:50:57.883Z
+tags: equipamiento, construcciones, ingeniero
 editor: markdown
-dateCreated: 2021-06-10T07:16:26.785Z
+dateCreated: 2021-06-24T23:36:21.241Z
 ---
 
 # Errores comunes de construcción

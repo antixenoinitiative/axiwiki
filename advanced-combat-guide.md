@@ -2,7 +2,7 @@
 title: Advanced Combat Guide
 description: Based on the Odysseus Doctrine by CMDR Avasa Siuu
 published: true
-date: 2023-01-09T01:54:40.607Z
+date: 2023-01-09T01:54:48.017Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z

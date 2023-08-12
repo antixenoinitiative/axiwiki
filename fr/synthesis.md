@@ -2,10 +2,10 @@
 title: Synthèse
 description: Informations sur la Synthèse en combat AX.
 published: true
-date: 2021-06-10T07:08:32.143Z
+date: 2021-08-03T05:04:52.355Z
 tags: ingénierie
 editor: markdown
-dateCreated: 2021-06-10T04:08:01.614Z
+dateCreated: 2021-06-24T12:26:20.035Z
 ---
 
 # Synthèse

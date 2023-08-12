@@ -2,10 +2,10 @@
 title: Thargoids
 description: About Thargoids
 published: true
-date: 2021-06-23T12:18:32.409Z
+date: 2021-08-03T05:04:54.092Z
 tags: thargoids, interceptors, scouts
 editor: markdown
-dateCreated: 2021-06-15T10:10:09.264Z
+dateCreated: 2021-06-24T12:26:29.544Z
 ---
 
 # Thargoids

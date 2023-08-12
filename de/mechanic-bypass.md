@@ -2,10 +2,10 @@
 title: Mechaniken überspringen
 description: Wie man bestimmte Mechaniken im Thargoid-Kampf überspringt
 published: true
-date: 2021-08-20T01:57:10.991Z
-tags: Gefecht, Thargoids, Interceptors
+date: 2021-08-26T04:18:54.672Z
+tags: thargoids, interceptors, gefecht
 editor: markdown
-dateCreated: 2021-06-21T02:30:49.657Z
+dateCreated: 2021-06-24T12:23:44.491Z
 ---
 
 # Sleep Phase Mechanics

@@ -2,10 +2,10 @@
 title: Guide de Combat Avancé
 description: Basé sur la doctrine Odysseus par CMDR Avasa Siuu
 published: true
-date: 2021-06-17T04:01:30.341Z
-tags: équipement, combat, thargoids, intercepteurs
+date: 2021-06-27T22:11:05.942Z
+tags: combat, thargoids, équipement, intercepteurs
 editor: markdown
-dateCreated: 2021-06-17T03:49:32.855Z
+dateCreated: 2021-06-24T12:24:41.712Z
 ---
 
 # Guide de Combat Thargoid Avancé

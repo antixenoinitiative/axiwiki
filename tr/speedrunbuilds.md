@@ -2,10 +2,10 @@
 title: Speedrun Gemileri
 description: Thargoidleri hızlıca yok etmek için tasarlanmış gemiler
 published: true
-date: 2021-09-19T11:09:29.773Z
+date: 2021-11-02T02:55:37.024Z
 tags: builds, outfitting, speedrunning
 editor: markdown
-dateCreated: 2021-06-10T03:49:40.037Z
+dateCreated: 2021-10-06T05:50:52.210Z
 ---
 
 # Speedrun Gemileri

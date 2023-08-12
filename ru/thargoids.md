@@ -1,11 +1,11 @@
 ---
 title: Таргоиды
 description: О таргоидах
-published: опубликовано
-date: 2021-06-23T12:18:32.409Z
-tags: таргоиды, перехватчики, рой
+published: true
+date: 2022-01-20T10:15:16.386Z
+tags: перехватчики, таргоиды, рой
 editor: markdown
-dateCreated: 2021-06-15T10:10:09.264Z
+dateCreated: 2021-06-24T12:30:36.297Z
 ---
 
 # Таргоиды

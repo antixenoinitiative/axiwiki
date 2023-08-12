@@ -2,7 +2,7 @@
 title: En düşük ToT
 description: Minimum "ToT" (Hedef Üzerinde Geçirilen Süre) Hesapama Aracı.
 published: true
-date: 2021-10-30T21:58:27.178Z
+date: 2021-11-02T02:55:08.287Z
 tags: combat, calculator
 editor: markdown
 dateCreated: 2021-10-06T05:50:04.120Z

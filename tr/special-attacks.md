@@ -2,10 +2,10 @@
 title: Thargoid Özel Yetenekleri
 description: Thargoid özel yetenekleri hakkında detaylı bilgiler
 published: true
-date: 2021-09-19T11:14:41.284Z
+date: 2021-11-02T02:55:34.762Z
 tags: combat, thargoids, interceptors
 editor: markdown
-dateCreated: 2021-06-17T01:05:26.462Z
+dateCreated: 2021-10-06T05:50:48.575Z
 ---
 
 # Thargoid Özel Yetenekleri

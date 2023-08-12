@@ -2,10 +2,10 @@
 title: Gestion des Pips
 description: Comment gérer les pips au mieux en combat contre les Thargoids
 published: true
-date: 2021-06-21T02:36:57.627Z
+date: 2021-06-27T22:11:25.005Z
 tags: combat, contrôles
 editor: markdown
-dateCreated: 2021-06-21T02:36:55.841Z
+dateCreated: 2021-06-24T12:25:54.905Z
 ---
 
 # Gestion des Pips

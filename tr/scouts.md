@@ -2,10 +2,10 @@
 title: Scoutlar
 description: Thargoid Scoutlar Hakkında
 published: true
-date: 2021-06-15T10:36:02.053Z
+date: 2021-11-02T02:55:27.954Z
 tags: thargoids, scouts
 editor: markdown
-dateCreated: 2021-06-15T10:36:00.013Z
+dateCreated: 2021-10-06T05:50:37.002Z
 ---
 
 # Scoutlar

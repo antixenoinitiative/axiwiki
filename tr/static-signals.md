@@ -2,10 +2,10 @@
 title: Sabit Sinyal Kaynakları
 description: Sabit Thargoid Yerleşkeleri
 published: true
-date: 2021-08-26T13:35:31.049Z
+date: 2021-11-02T02:55:41.698Z
 tags: thargoids, interceptors, scouts
 editor: markdown
-dateCreated: 2021-06-15T11:22:37.088Z
+dateCreated: 2021-10-06T05:50:59.225Z
 ---
 
 # Sabit Thargoid Sinyal Kaynakları

@@ -2,10 +2,10 @@
 title: Nichtmenschliche Signalquellen (NHSS)
 description: Über Nichtmenschliche Signalquellen und wie man Thargoids findet
 published: true
-date: 2021-08-25T23:17:11.754Z
-tags: Thargoids, Interceptors, Scouts
+date: 2021-08-26T04:18:56.481Z
+tags: thargoids, interceptors, scouts
 editor: markdown
-dateCreated: 2021-06-15T10:51:53.374Z
+dateCreated: 2021-06-24T12:23:51.602Z
 ---
 
 # Nichtmenschliche Signalquellen

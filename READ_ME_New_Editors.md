@@ -2,7 +2,7 @@
 title: READ ME for New Editors
 description: Editing Principles and Wiki Design Goals
 published: false
-date: 2023-08-09T06:11:32.029Z
+date: 2023-08-09T06:11:39.292Z
 tags: editor
 editor: markdown
 dateCreated: 2023-08-06T22:59:14.821Z

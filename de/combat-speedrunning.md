@@ -2,10 +2,10 @@
 title: Leitfaden zu Speedruns
 description: Du kannst Thargoids töten? Ja? Aber kannst du sie auch schnell töten?
 published: true
-date: 2021-06-10T23:22:48.988Z
-tags:
+date: 2021-08-10T05:16:04.483Z
+tags: 
 editor: markdown
-dateCreated: 2021-06-10T13:56:57.206Z
+dateCreated: 2021-06-24T12:23:01.360Z
 ---
 
 # Einleitung

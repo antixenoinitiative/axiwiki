@@ -2,10 +2,10 @@
 title: Silahlar
 description: Anti-Xeno silahlarına dair detaylı analizler
 published: true
-date: 2021-09-19T11:10:48.357Z
+date: 2021-11-02T02:55:58.506Z
 tags: outfitting, modules
 editor: markdown
-dateCreated: 2021-06-10T04:04:18.230Z
+dateCreated: 2021-10-06T05:51:26.749Z
 ---
 
 # AX Silahları

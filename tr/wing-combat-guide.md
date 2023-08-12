@@ -2,10 +2,10 @@
 title: Wing Savaş Rehberi
 description: Thargoidlerle wingle nasıl savaşılır.
 published: true
-date: 2021-06-24T23:51:31.755Z
+date: 2021-11-02T02:56:01.202Z
 tags: combat, thargoids, interceptors, wing
 editor: markdown
-dateCreated: 2021-06-17T05:36:40.698Z
+dateCreated: 2021-10-06T05:51:30.816Z
 ---
 
 # Wing Savaş Rehberi

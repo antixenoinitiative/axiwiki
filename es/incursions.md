@@ -2,10 +2,10 @@
 title: Incursions
 description: About Thargoid Incursions and Infestations
 published: true
-date: 2021-11-07T21:27:15.800Z
+date: 2021-11-23T03:06:59.776Z
 tags: thargoids, incursions, infestations
 editor: markdown
-dateCreated: 2021-06-17T01:24:54.361Z
+dateCreated: 2021-06-24T23:36:50.541Z
 ---
 
 # Thargoid Infestations

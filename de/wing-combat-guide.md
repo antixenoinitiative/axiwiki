@@ -2,10 +2,10 @@
 title: Kampfanleitung Wing
 description: Wie man Thargoids in einem Wing aus mehreren Piloten bekämpft.
 published: true
-date: 2021-06-24T23:51:31.755Z
-tags: Gefecht, Thargoids, Interceptors, Wing
+date: 2021-08-19T13:13:43.519Z
+tags: thargoids, interceptors, wing, gefecht
 editor: markdown
-dateCreated: 2021-06-17T05:36:40.698Z
+dateCreated: 2021-08-19T13:13:41.383Z
 ---
 
 # Kampfanleitung Wing

@@ -2,10 +2,10 @@
 title: Сведение
 description: A short guide on convergence and how it affects fixed weapons
 published: true
-date: 2021-06-15T05:19:44.486Z
+date: 2021-08-07T07:50:53.775Z
 tags: outfitting, weapons
 editor: markdown
-dateCreated: 2021-06-15T05:19:41.184Z
+dateCreated: 2021-06-24T12:29:14.435Z
 ---
 
 # Сведение
@@ -31,4 +31,4 @@ dateCreated: 2021-06-15T05:19:41.184Z
 
 ## Другие примеры
 
-Сведение Corvette и Anaconda ![convergence.jpg](/img/convergence.jpg)
+Сведения Corvette и Anaconda ![convergence.jpg](/img/convergence.jpg)

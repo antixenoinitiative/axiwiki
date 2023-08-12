@@ -2,10 +2,10 @@
 title: Optional Internals
 description: A short introduction to the use of various modules in AX.
 published: true
-date: 2021-06-10T05:35:13.831Z
+date: 2021-06-24T12:27:42.821Z
 tags: outfitting, modules
 editor: markdown
-dateCreated: 2021-06-10T04:05:26.162Z
+dateCreated: 2021-06-24T12:27:41.120Z
 ---
 
 # Optional Internals

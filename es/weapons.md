@@ -2,10 +2,10 @@
 title: Weapons
 description: Detailed breakdown of Anti-Xeno Weaponry
 published: true
-date: 2021-09-19T11:10:48.357Z
+date: 2021-10-06T05:38:58.867Z
 tags: outfitting, modules
 editor: markdown
-dateCreated: 2021-06-10T04:04:18.230Z
+dateCreated: 2021-06-24T23:37:54.245Z
 ---
 
 # AX Weapons

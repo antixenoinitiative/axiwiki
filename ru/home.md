@@ -1,11 +1,11 @@
 ---
 title: Главная
 description: Добро пожаловать на википедию Anti-Xeno Initiative. Ваше полное хранилище данных для борьбы с таргоидами.
-published: Опубликовано
-date: 2021-09-19T07:56:05.682Z
+published: true
+date: 2022-01-20T10:14:33.371Z
 tags: admin
 editor: markdown
-dateCreated: 2021-06-08T12:40:49.911Z
+dateCreated: 2021-06-23T12:55:56.007Z
 ---
 
 # Добро пожаловать!

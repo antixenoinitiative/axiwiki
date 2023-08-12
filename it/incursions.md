@@ -2,10 +2,10 @@
 title: Incursioni
 description: Informazioni sugli stati “Thargoid Incursion” e “Thargoid Infestation”
 published: true
-date: 2021-11-07T21:27:15.800Z
+date: 2021-11-23T03:07:13.535Z
 tags: thargoids, incursions, infestations
 editor: markdown
-dateCreated: 2021-06-17T01:24:54.361Z
+dateCreated: 2021-06-24T12:27:36.159Z
 ---
 
 # Thargoid Infestations

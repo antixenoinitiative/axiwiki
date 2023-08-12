@@ -1,11 +1,11 @@
 ---
 title: Eylül 2021 Ace Rütbesi Yenilenmesi
-description:
+description: 
 published: true
-date: 2021-09-19T14:12:19.953Z
+date: 2021-11-02T02:54:00.448Z
 tags: admin
 editor: markdown
-dateCreated: 2021-09-03T01:21:34.494Z
+dateCreated: 2021-10-06T05:48:18.423Z
 ---
 
 # Eylül 2021 Ace Rütbesi Yenilenmesi

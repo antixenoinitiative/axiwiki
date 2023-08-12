@@ -2,10 +2,10 @@
 title: Scouts
 description: About Thargoid Scouts
 published: true
-date: 2021-06-15T10:36:02.053Z
+date: 2021-08-03T05:05:08.898Z
 tags: thargoids, scouts
 editor: markdown
-dateCreated: 2021-06-15T10:36:00.013Z
+dateCreated: 2021-06-24T12:28:07.942Z
 ---
 
 # Scouts

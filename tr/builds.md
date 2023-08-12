@@ -2,10 +2,10 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2022-01-13T22:15:01.146Z
+date: 2022-01-20T10:15:26.194Z
 tags: builds
 editor: markdown
-dateCreated: 2021-06-08T12:52:54.657Z
+dateCreated: 2021-10-06T05:48:42.427Z
 ---
 
 # Önerilen Gemiler

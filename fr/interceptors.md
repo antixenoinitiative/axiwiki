@@ -2,10 +2,10 @@
 title: Interceptors
 description: About Thargoid Interceptors
 published: true
-date: 2021-06-17T00:44:49.019Z
+date: 2021-08-03T05:04:45.357Z
 tags: thargoids, interceptors
 editor: markdown
-dateCreated: 2021-06-15T10:23:32.433Z
+dateCreated: 2021-06-24T12:25:35.526Z
 ---
 
 # Thargoid Interceptors

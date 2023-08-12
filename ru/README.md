@@ -1,11 +1,11 @@
 ---
 title: README
-description:
-published: опубликовано
-date: 2021-09-19T07:57:05.988Z
+description: 
+published: true
+date: 2022-01-20T10:14:05.665Z
 tags: admin
 editor: markdown
-dateCreated: 2021-06-23T11:45:35.407Z
+dateCreated: 2021-06-24T12:28:44.836Z
 ---
 
 ![](img/home.jpg)

@@ -2,7 +2,7 @@
 title: Wing AX Combat
 description: AX combat and how to effectively fight in wings.
 published: true
-date: 2023-08-07T04:55:49.010Z
+date: 2023-08-07T04:55:56.389Z
 tags: wing, murderball, discoball, ax cz
 editor: markdown
 dateCreated: 2023-08-06T01:43:08.175Z

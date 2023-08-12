@@ -2,10 +2,10 @@
 title: Yaygın Hatalar
 description: Thargoid avında kaçınılması gereken yaygın hatalar
 published: true
-date: 2021-09-19T11:15:47.195Z
+date: 2021-10-30T10:52:00.141Z
 tags: builds, outfitting, engineer
 editor: markdown
-dateCreated: 2021-06-10T07:16:26.785Z
+dateCreated: 2021-10-06T05:48:58.649Z
 ---
 
 # Yaygın Donanım Hataları

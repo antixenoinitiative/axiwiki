@@ -1,11 +1,11 @@
 ---
 title: Kaustik blockieren
 description: Fortgeschrittener Leitfaden zum blockieren von kaustischen Raketen
-published: ja
-date: 2021-06-21T02:24:43.961Z
+published: true
+date: 2021-08-10T05:15:58.013Z
 tags: combat, interceptors, caustic missiles
 editor: markdown
-dateCreated: 2021-06-21T02:24:42.124Z
+dateCreated: 2021-06-24T12:22:54.069Z
 ---
 
 # Kaustische Raketen blockieren

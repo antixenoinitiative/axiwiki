@@ -2,7 +2,7 @@
 title: Thargoidler
 description: Thargoidler Hakkında
 published: true
-date: 2021-11-01T13:48:22.457Z
+date: 2021-11-02T02:55:51.004Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-10-06T05:51:15.788Z

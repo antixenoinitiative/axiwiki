@@ -2,10 +2,10 @@
 title: Known Bugs
 description: A list of known bugs and issues that affect AX
 published: true
-date: 2021-10-19T19:30:26.597Z
+date: 2021-10-30T10:51:19.572Z
 tags: bugs
 editor: markdown
-dateCreated: 2021-09-22T23:31:41.255Z
+dateCreated: 2021-10-30T10:51:17.710Z
 ---
 
 # Known Bugs

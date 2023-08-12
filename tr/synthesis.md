@@ -2,10 +2,10 @@
 title: Sentezleme
 description: AX savaşlarında sentezleme hakkında bilgiler.
 published: true
-date: 2021-06-10T07:08:32.143Z
+date: 2021-11-02T02:55:44.102Z
 tags: engineering
 editor: markdown
-dateCreated: 2021-06-10T04:08:01.614Z
+dateCreated: 2021-10-06T05:51:02.879Z
 ---
 
 # Sentezleme

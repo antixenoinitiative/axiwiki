@@ -2,10 +2,10 @@
 title: Gauss Atışlarını Bölmek
 description: Gauss atışlarını bölmenin faydaları ve farklı yolları.
 published: true
-date: 2021-06-24T06:27:14.908Z
+date: 2021-11-02T02:55:39.171Z
 tags: combat, weapons, controls
 editor: markdown
-dateCreated: 2021-06-24T06:27:14.908Z
+dateCreated: 2021-10-06T05:50:55.589Z
 ---
 
 # Gauss Atışlarını Bölmek

@@ -2,10 +2,10 @@
 title: Ingenieur Leitfaden
 description: Leitfaden zum Sammeln von Materialien für die Modifikation deines Schiffes
 published: true
-date: 2021-06-17T00:16:23.801Z
-tags: Engineering, Ausrüstung, Materialien
+date: 2021-10-06T05:37:09.958Z
+tags: engineering, ausrüstung, materialien
 editor: markdown
-dateCreated: 2021-06-15T05:40:06.134Z
+dateCreated: 2021-06-24T12:23:15.951Z
 ---
 
 # Ingenieur Leitfaden

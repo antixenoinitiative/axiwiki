@@ -2,7 +2,7 @@
 title: Çeviri Notları
 description: Çeviri ilkelerine dair
 published: false
-date: 2021-11-01T15:28:16.083Z
+date: 2021-11-02T02:56:03.786Z
 tags: çeviri, notları
 editor: markdown
 dateCreated: 2021-10-30T10:51:36.428Z

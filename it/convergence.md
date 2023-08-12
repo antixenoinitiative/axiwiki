@@ -2,10 +2,10 @@
 title: Convergence
 description: A short guide on convergence and how it affects fixed weapons
 published: true
-date: 2021-06-15T05:19:44.486Z
+date: 2021-06-24T12:27:13.451Z
 tags: outfitting, weapons
 editor: markdown
-dateCreated: 2021-06-15T05:19:41.184Z
+dateCreated: 2021-06-24T12:27:11.812Z
 ---
 
 # Convergence

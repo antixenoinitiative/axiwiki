@@ -2,10 +2,10 @@
 title: Thargoid Special Attacks
 description: Detailed explanation of Thargoid special attacks and abilities
 published: true
-date: 2021-09-19T11:14:41.284Z
+date: 2021-10-06T05:41:50.728Z
 tags: combat, thargoids, interceptors
 editor: markdown
-dateCreated: 2021-06-17T01:05:26.462Z
+dateCreated: 2021-06-24T12:30:16.749Z
 ---
 
 # Thargoid Special Attacks

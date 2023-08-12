@@ -2,10 +2,10 @@
 title: Çoklu-Goid Savaş Rehberi
 description: Aynı anda birden fazla Interceptor'le nasıl başa çıkabilirsiniz.
 published: true
-date: 2021-06-24T23:53:38.588Z
+date: 2021-11-02T02:55:10.502Z
 tags: combat, thargoids, interceptors
 editor: markdown
-dateCreated: 2021-06-17T05:44:58.820Z
+dateCreated: 2021-10-06T05:50:09.297Z
 ---
 
 # Çoklu-Thargoid Savaş Rehberi

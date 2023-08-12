@@ -2,10 +2,10 @@
 title: Thargon Swarms
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: true
-date: 2021-09-19T11:13:03.841Z
+date: 2021-10-06T05:39:58.162Z
 tags: thargoids, interceptors, swarms
 editor: markdown
-dateCreated: 2021-06-15T11:56:01.753Z
+dateCreated: 2021-06-24T12:26:32.022Z
 ---
 
 # Thargon Swarms

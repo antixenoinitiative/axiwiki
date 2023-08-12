@@ -1,11 +1,11 @@
 ---
 title: Guía de velocidad
-description: '¿Pueden matar goids? ¿Sí? Pero, ¿pueden matarlos rápidamente?'
-published: verdadero
-date: 2021-06-10T23:22:48.988Z
-tags:
+description: ¿Pueden matar goids? ¿Sí? Pero, ¿pueden matarlos rápidamente?
+published: true
+date: 2021-08-03T05:04:14.800Z
+tags: 
 editor: markdown
-dateCreated: 2021-06-10T13:56:57.206Z
+dateCreated: 2021-06-24T23:36:18.772Z
 ---
 
 # Introducción

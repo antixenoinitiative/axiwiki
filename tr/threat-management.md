@@ -2,10 +2,10 @@
 title: Tehdit Yönetimi
 description: Thargoid Interceptor Tehdit Yönetimini Anlamak
 published: true
-date: 2021-09-19T08:34:57.255Z
+date: 2021-11-02T02:55:56.038Z
 tags: combat, guide, thargoids, interceptors, threat
 editor: markdown
-dateCreated: 2021-06-21T02:12:44.684Z
+dateCreated: 2021-10-06T05:51:23.269Z
 ---
 
 # Tehdit Yönetimi

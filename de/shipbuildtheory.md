@@ -2,10 +2,10 @@
 title: Schiffs Build Theorie
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2021-09-19T11:08:08.311Z
-tags: Builds, Theorie, Engineering, Ausrüstung
+date: 2021-10-06T05:37:35.884Z
+tags: builds, engineering, ausrüstung, theorie
 editor: markdown
-dateCreated: 2021-06-10T01:08:57.783Z
+dateCreated: 2021-10-06T05:37:33.330Z
 ---
 
 # Schiffs Build Theorie
