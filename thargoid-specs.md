@@ -2,7 +2,7 @@
 title: Thargoid Specifications
 description: Details specs of Thargoid Interceptors
 published: true
-date: 2023-08-12T02:10:14.820Z
+date: 2023-08-12T04:27:42.302Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T11:27:45.002Z
@@ -35,13 +35,13 @@ Details on the known values of different Thargoid vessels.
 |     | **Cyclops** | **Basilisk** | **Medusa** | **Hydra** | **Orthrus** |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Number of Hearts** |4   | 5   | 6   | 8   | 0   |
-| **Top Speed** | 450 m/s | 530 m/s | 450 m/s | 450 m/s | 115 m/s |
+| **Top Speed** | 450 m/s | 530 m/s | 450 m/s | 450 m/s | 113 m/s |
 | **Swarm Size** |32  | 64  | 96  | 128 | N/A |
 | **Enrage timer** |06:00 | 07:00 | 07:00 | 08:00 | N/A |
 | **Kill reward** | 6,500,000Cr  | 20,000,000Cr | 34,000,000Cr | 50,000,000Cr | 25,000,000Cr |
-| **Total HP** | 810 | 1800 | 2500 | 3240 | ??? |
+| **Total HP** | 810 | 1800 | 2500 | 3240 | 1170 |
 | **Heart HP** | 38  | 70  | 70  | 140 | N/A |
-| **Armour Rating** | 100 | 140 | 175 | 220 | ??? |
+| **Armour Rating** | 100 | 140 | 175 | 220 | 130 |
 | **Human Weapon Resistance** | 99% | 99% | 99% | 99% | 99% |
 | **Passive Regen Speed %/s** | 0.4 | 0.4 | 0.4 | 0.4 | N/A |
 | **Passive Regen Speed HP/s.** | 3.2 | 7.2 | 10  | 12.8 | N/A |
