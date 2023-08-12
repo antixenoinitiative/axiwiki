@@ -2,7 +2,7 @@
 title: README
 description:
 published: true
-date: 2021-09-19T07:57:05.988Z
+date: 2021-09-19T07:57:07.927Z
 tags: admin
 editor: markdown
 dateCreated: 2021-06-23T11:45:35.407Z
@@ -22,6 +22,8 @@ Documents created within this repository are directly connected to pages in the 
 
 - Markdown: Using Markdown formatting
 - HTML: Using Basic HTML Formatting
+
+**IMPORTANT: This sync should only be used for editing existing files, do not try to create new files or change file types as this won't work. For editing page types, use the built-in editor in the wiki.**
 
 ### Page Metadata
 
