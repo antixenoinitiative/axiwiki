@@ -2,7 +2,7 @@
 title: LIESMICH
 description:
 published: true
-date: 2021-09-19T07:57:05.988Z
+date: 2021-09-19T07:57:07.927Z
 tags: admin
 editor: markdown
 dateCreated: 2021-06-23 11:45:35 +0000
@@ -23,11 +23,13 @@ In diesem Repository erstellte Dokumente sind direkt mit Seiten im AXI-Wiki verb
 - Markdown: Verwenden der Markdown-Formatierung
 - HTML: Verwenden der grundlegenden HTML-Formatierung
 
+**IMPORTANT: This sync should only be used for editing existing files, do not try to create new files or change file types as this won't work. For editing page types, use the built-in editor in the wiki.**
+
 ### Seite METADATEN
 
-Jede Seite erfordert METADATA am Anfang der Datei.
+Each page requires METADATA at the start of the file.
 
-Beispiel für Markdown-METADATEN
+Markdown METADATA Example
 ```
 ---
 title: README
@@ -40,7 +42,7 @@ dateCreated: 2021-06-23T11:45:35.407Z
 ---
 ```
 
-HTML-METADATEN-Beispiel
+HTML METADATA Example
 ```
 <!--
 title: Basic Combat Guide
@@ -55,16 +57,16 @@ dateCreated: 2021-06-17T03:18:38.671Z
 
 ### GitHub-Synchronisierung
 
-Das GitHub-Repository synchronisiert alle 5 Minuten alle Änderungen (bidirektional) mit dem AXI-Wiki. Wenn eine dringende Änderung erforderlich ist, wenden Sie sich an Mgram#6610 im AXI-Discord.
+The GitHub repository will syncronize all changes (bi-directionally) with the AXI Wiki every 5 minutes. If a urgent change is needed contact Mgram#6610 on the AXI Discord.
 
 ## Übersetzung
 
-Übersetzung wird verwaltet über Crowdin, hilf uns beim übersetzen der Seiten via: https://crowdin.com/project/axiwiki
+Translation is managed through Crowdin, translate pages here: https://crowdin.com/project/axiwiki
 
 ### DNT Liste (Do Not Translate (nicht übersetzen))
-Die folgenden Begriffe sollten nicht übersetzt werden.
+The following terms should not be translated.
 
-**DNT (Do Not Translate)**
+**DNT (Do not translate)**
 - Thargoid
 - Cyclops
 - Basilisk
@@ -76,6 +78,6 @@ Die folgenden Begriffe sollten nicht übersetzt werden.
 - Berserker
 - CMDR
 
-Keine der Links oder deren Pfade übersetzen
+Do NOT translate any of the links or their paths
 
-Eg: "/en/builds" ist eine file path reference, wenn du dies übersetzt geht der Link kaputt.
+Eg: "/en/builds" is a file path reference, if you edit this, the link will break.
