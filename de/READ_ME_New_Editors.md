@@ -2,7 +2,7 @@
 title: READ ME for New Editors
 description: Editing Principles and Wiki Design Goals
 published: false
-date: 2023-08-09T06:11:32.029Z
+date: 2023-08-12T15:45:29.111Z
 tags: editor
 editor: markdown
 dateCreated: 2023-08-06T22:59:14.821Z
@@ -14,9 +14,7 @@ Thank you for requesting permissions to edit the AXI wiki!
 
 There are a few guiding priciples we want all of our editors to be familiar with before beginning their hardwork.
 
-The following section is written to provide examples of thoughtfullness desired in our editors as well as provide direction to some immediate work that could be done to improve the AXI wiki.
-
-## Organization Driven Change and Principles
+The following section is written to provide examples of thoughtfullness desired in our editors. There are a few notes to roughly explain how the wiki works and is maintained as well as provide direction to some immediate work that could be done to improve the AXI wiki.
 
 We want to be in agreement before restructuring the wiki so please check with AXI staff before adding, moving, or removing sections.
 
@@ -24,13 +22,19 @@ When planning a page edit, if there is a "primary editor" of a page, check with 
 
 If your changes include adding new web assets (like images), then upload them to the wiki first instead of linking them, this way the wiki git repository has its own copy of the asset, hopefully preventing any elements from breaking over time.
 
-https://wiki.antixenoinitiative.com is based on Node.js and Git under the requarks.io open source project. A very short documentation page for Wiki.js is provided at [https://docs.requarks.io/guide/intro](https://docs.requarks.io/guide/intro) with an intro to markdown <https://docs.requarks.io/editors/markdown>. It looks to be up to date using the commonmark spec which has a much more detailed doc here: <https://spec.commonmark.org/0.30/>
+The user experience for the information published by AXI can be inconsistent and difficult to navigate. Clearly written goals and evaluations are proposed for changes to improve the user experience and accuracy of the information presented within the wiki. The overall goal should be to provide to the community with an effective and consicely written primary repository of AXI related articles.
 
-The user experience for the information published by AXI can be inconsistent and difficult to navigate. To improve the user experience and accuracy of the information presented by AXI, clearly written goals and evaluations are proposed for the changes required to achieve the overall goal of providing to the community an effective and consicely written primary repository of AXI related articles. Fixing typos and grammatical mistakes are always expected of every recommendation for changes and is thusly not mentioned going forward.
+Fixing typos and grammatical mistakes are always expected of every recommendation for changes and is thusly not mentioned going forward.
 
 ### AXI Staff Members for Wiki Supervision
--
--
+
+The members listed below may not necessarily be actively involved with the development of the wiki, but they have been entrusted with the permissions to manage the wiki at a higher level than editors. |---|---| | CMDR Mechan | @astyrrean | CMDR Avasa Siuu | @arsspartanash | CMDR Grimscrub | @grimscrub | CMDR Darth_Vader | @darth__vader | CMDR Aranionros Stormrage | @aranionros | CMDR Toyotanos | @toyotanos | CMDR Pyrocujo | @pyrocujo
+
+### Wiki Operations
+
+https://wiki.antixenoinitiative.com is based on Node.js and Git under the requarks.io open source project. A very short documentation page for Wiki.js is provided at [https://docs.requarks.io/guide/intro](https://docs.requarks.io/guide/intro) with an intro to markdown <https://docs.requarks.io/editors/markdown>. The commonmark specification which has a much more detailed doc with examples here: <https://spec.commonmark.org/0.30/>
+
+The wiki provides an edit interface that allows for semi-complete rendering on-the-fly. New assets, pages, and page versions are synched with an SQL database and pushed to the AXI github which acts like a backup copy. Editing and deleting files in the github repo doesn't affect the wiki, as the wiki only copies edits from existing files.
 
 
 # Webpages Listed
@@ -70,4 +74,17 @@ Consider adding your page below and define its goals so we can get the most out 
 - A Pilot's one-stop shop for everything Maelstrom related
 - Introduces the Maelstrom, explains the commmon activities to do there, provides recommendations for those activities, and provides a placeholder for currently unreleased war mechanics
 -
-- 
+- add recommendations for Titan combat section
+
+### Definitions:
+- a collection of AXI jargon and what it means
+- Compile in one location commonly used names, phrases, and words that have particular meaning to AXI within the context of Elite Dangerous.
+- this page does not exist yet
+-
+
+### Updates:
+- a quick reference for all wiki users to see what's new
+- Allows editors a convenient place to "announce" changes and/or fixes they've made to the wiki.
+- this page does not exist yet
+-
+
