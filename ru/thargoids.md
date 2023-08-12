@@ -2,7 +2,7 @@
 title: Таргоиды
 description: О таргоидах
 published: опубликовано
-date: 2023-08-12T02:00:27.708Z
+date: 2023-08-12T04:26:36.013Z
 tags: таргоиды, перехватчики, рой
 editor: markdown
 dateCreated: 2021-06-15T10:10:09.264Z
@@ -10,17 +10,11 @@ dateCreated: 2021-06-15T10:10:09.264Z
 
 # Таргоиды
 
-*The **Thargoids** are a nonhuman race with a history of hostility towards humanity.*
-
-*Первая зафиксированная встреча с кораблём таргоидов произошла в 2849 году, хотя считается, что ранее имели место незадокументированные встречи. В последующие годы периодически поступали сообщения о контактах с одинокими кораблями таргоидов.*
-
-*Человечество столкнулось с таргоидами в XXXII веке, но подробности конфликта оставались скудными в течение многих лет, и оказалось трудно отличить подлинные рассказы о столкновениях с таргоидами от сенсационных материалов СМИ того времени.*
-
-*Вступление из Кодекса в Elite Dangerous*
+> The **Thargoids** are a nonhuman race with a history of hostility towards humanity. The first recorded encounter with a Thargoid ship took place in 2849, although earlier undocumented encounters are believed to have taken place. In the years that followed, contact with lone Thargoid vessels was intermittently reported. Humanity clashed with the Thargoids in the 32nd century, but details of the conflict remained scarce for many years, and it proved difficult to differentiate authentic accounts of Thargoid encounters from the sensationalist media stories of the time. *Entry from Elite Dangerous Codex*
 
 [**Learn more about Thargoids on Fandom's Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
 
-[**Узнайте больше о таргоидах на сайте Canonn Research**](https://canonn.science/codex/xeno-technology/)
+[**Read about Thargoids on the Canonn Research Website**](https://canonn.science/codex/xeno-technology/)
 
 ## Корабли таргоидов
 
