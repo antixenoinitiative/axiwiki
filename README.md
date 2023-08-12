@@ -23,6 +23,8 @@ Documents created within this repository are directly connected to pages in the 
 - Markdown: Using Markdown formatting
 - HTML: Using Basic HTML Formatting
 
+IMPORTANT: This sync should only be used for editing existing files, do not try to create new files or change file types as this won't work. For editing page types, use the built-in editor in the wiki. 
+
 ### Page Metadata
 
 Each page requires METADATA at the start of the file.
@@ -56,8 +58,6 @@ dateCreated: 2021-06-17T03:18:38.671Z
 ### GitHub Sync
 
 The GitHub repository will syncronize all changes (bi-directionally) with the AXI Wiki every 5 minutes. If a urgent change is needed contact Mgram#6610 on the AXI Discord.
-
-IMPORTANT: This sync should only be used for editing existing files, do not try to create new files or change file types as this won't work. For editing page types, use the built-in editor in the wiki. 
 
 ## Translation
 
