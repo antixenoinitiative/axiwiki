@@ -10,7 +10,7 @@ dateCreated: 2022-12-03T23:50:43.297Z
 
 [![Maelstrom Over Ringed Ammonia World](/elite-dangerous-thargoid-invasion-update-14.jpg)](/elite-dangerous-thargoid-invasion-update-14.jpg)
 
-# A Brief Intro to the Maelstrom
+# A Brief Intro to the Maelstrom2
 
 The Thargoid Maelstrom is a system point of interest (POI) that appeared alongside the Thargoid invasion event in Nov 3308. These instances have appeared in several systems and they are an incredibly dangerous anomaly. 
 
