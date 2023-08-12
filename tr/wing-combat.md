@@ -2,7 +2,7 @@
 title: Wing AX Combat
 description: AX combat and how to effectively fight in wings.
 published: true
-date: 2023-08-07T04:55:49.010Z
+date: 2023-08-12T17:39:59.414Z
 tags: wing, murderball, discoball, ax cz
 editor: markdown
 dateCreated: 2023-08-06T01:43:08.175Z
@@ -25,7 +25,7 @@ dateCreated: 2023-08-06T01:43:08.175Z
 
 
  # Wing Battle Guide
- Original wiki article written by CMDR Ghosti has been lazily localized for us English peepz:
+ Original wiki article written by CMDR Ghosti <https://wiki.antixenoinitiative.com/de/wing-combat-guide>
 
  Wing battles are all battles involving multiple players. As this introduces different mechanics and gameplay bugs, wing battles can be harder or easier depending on how you handle it. Wing battles differ from individual battles in a few key ways:
 
