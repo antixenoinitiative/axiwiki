@@ -2,7 +2,7 @@
 title: Thargoids
 description: Zu Thargoids
 published: ja
-date: 2023-08-12T02:00:27.708Z
+date: 2023-08-12T04:26:36.013Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:10:09.264Z
@@ -10,17 +10,11 @@ dateCreated: 2021-06-15T10:10:09.264Z
 
 # Thargoids
 
-*The **Thargoids** are a nonhuman race with a history of hostility towards humanity.*
-
-*Die erste aufgezeichnete Begegnung mit einem Schiff der Thargoids fand im Jahr 2849 statt, obwohl noch frühere undokumentierte Begegnungen vermutet werden. In den folgenden Jahren wurde von periodischem Kontakt mit vereinzelten Thargoid Schiffen berichtet.*
-
-*Die Menschheit stieß im 32. Jahrhundert mit den Thargoiden zusammen, aber die Details des Konflikts blieben viele Jahre lang rar und es erwies sich als schwierig authentische Berichte von Thargoid Begegnungen von den sensationalistischen Mediengeschichten der damaligen Zeit zu unterscheiden.*
-
-*Eintrag vom Elite: Dangerous Codex*
+> The **Thargoids** are a nonhuman race with a history of hostility towards humanity. The first recorded encounter with a Thargoid ship took place in 2849, although earlier undocumented encounters are believed to have taken place. In the years that followed, contact with lone Thargoid vessels was intermittently reported. Humanity clashed with the Thargoids in the 32nd century, but details of the conflict remained scarce for many years, and it proved difficult to differentiate authentic accounts of Thargoid encounters from the sensationalist media stories of the time. *Entry from Elite Dangerous Codex*
 
 [**Learn more about Thargoids on Fandom's Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
 
-[**Lies zu den Thargoids auf der Canonn Research Webseite**](https://canonn.science/codex/xeno-technology/)
+[**Read about Thargoids on the Canonn Research Website**](https://canonn.science/codex/xeno-technology/)
 
 ## Thargoid Schiffe
 
