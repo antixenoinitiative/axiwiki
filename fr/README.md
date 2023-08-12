@@ -2,7 +2,7 @@
 title: README
 description:
 published: true
-date: 2021-09-19T07:57:05.988Z
+date: 2021-09-19T07:57:07.927Z
 tags: admin
 editor: markdown
 dateCreated: 2021-06-23 11:45:35 +0000
@@ -23,11 +23,13 @@ Les documents créés dans ce référentiel sont directement connectés aux page
 - Markdown : utiliser le formatage Markdown
 - HTML : Utiliser le formatage HTML de base
 
+**IMPORTANT: This sync should only be used for editing existing files, do not try to create new files or change file types as this won't work. For editing page types, use the built-in editor in the wiki.**
+
 ### Métadonnées de la page
 
-Chaque page requiert METADATA au début du fichier.
+Each page requires METADATA at the start of the file.
 
-Exemple de MÉTADONNÉES Markdown
+Markdown METADATA Example
 ```
 ---
 title: README
@@ -40,7 +42,7 @@ dateCreated: 2021-06-23T11:45:35.407Z
 ---
 ```
 
-Exemple de métadonnées HTML
+HTML METADATA Example
 ```
 <!--
 title: Basic Combat Guide
@@ -55,7 +57,7 @@ dateCreated: 2021-06-17T03:18:38.671Z
 
 ### Synchronisation GitHub
 
-Le référentiel GitHub synchronisera toutes les modifications (bidirectionnellement) avec le Wiki AXI toutes les 5 minutes. Si un changement urgent est nécessaire, contactez Mgram#6610 sur AXI Discord.
+The GitHub repository will syncronize all changes (bi-directionally) with the AXI Wiki every 5 minutes. If a urgent change is needed contact Mgram#6610 on the AXI Discord.
 
 ## Traduction
 
