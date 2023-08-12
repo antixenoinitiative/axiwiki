@@ -2,7 +2,7 @@
 title: README
 description:
 published: true
-date: 2021-09-19T07:57:05.988Z
+date: 2021-09-19T07:57:07.927Z
 tags: admin
 editor: markdown
 dateCreated: 2021-06-23T11:45:35.407Z
@@ -23,11 +23,13 @@ Los documentos creados dentro de este repositorio están conectados directamente
 - Markdown: Usando formato Markdown
 - HTML: Usando formato HTML básico
 
+**IMPORTANT: This sync should only be used for editing existing files, do not try to create new files or change file types as this won't work. For editing page types, use the built-in editor in the wiki.**
+
 ### Metadatos de Página
 
-Cada página requiere METADATOS al inicio del archivo.
+Each page requires METADATA at the start of the file.
 
-Ejemplo de METADATOS Markdown
+Markdown METADATA Example
 ```
 ---
 title: README
@@ -40,7 +42,7 @@ dateCreated: 2021-06-23T11:45:35.407Z
 ---
 ```
 
-Ejemplo de METADATOS HTML
+HTML METADATA Example
 ```
 <!--
 title: Guía de Combate Básica
@@ -55,16 +57,16 @@ dateCreated: 2021-06-17T03:18:38.671Z
 
 ### Sincronización con GitHub
 
-El repositorio de GitHub sincronizará todos los cambios (bidireccionalmente) con el Wiki de la AXI cada 5 minutos. Si se necesita un cambio urgente, póngase en contacto con Mgram#6610 en el Discord de la AXI.
+The GitHub repository will syncronize all changes (bi-directionally) with the AXI Wiki every 5 minutes. If a urgent change is needed contact Mgram#6610 on the AXI Discord.
 
 ## Traducción
 
-La traducción se gestiona a través de Crowdin, traduce páginas aquí: https://crowdin.com/project/axiwiki
+Translation is managed through Crowdin, translate pages here: https://crowdin.com/project/axiwiki
 
 ### Lista DNT (No Traducir)
-Los siguientes términos no deben ser traducidos.
+The following terms should not be translated.
 
-**DNT (No Traducir)**
+**DNT (Do not translate)**
 - Thargoid
 - Cyclops
 - Basilisk
@@ -76,6 +78,6 @@ Los siguientes términos no deben ser traducidos.
 - Berserker
 - CMDR
 
-NO traduzca ninguno de los enlaces o sus rutas
+Do NOT translate any of the links or their paths
 
-Ej: "/en/builds" es una referencia de ruta de archivo, si editas esto, el enlace se romperá.
+Eg: "/en/builds" is a file path reference, if you edit this, the link will break.
