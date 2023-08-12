@@ -2,7 +2,7 @@
 title: README
 description:
 published: опубликовано
-date: 2021-09-19T07:57:05.988Z
+date: 2021-09-19T07:57:07.927Z
 tags: admin
 editor: markdown
 dateCreated: 2021-06-23T11:45:35.407Z
@@ -23,11 +23,13 @@ Wiki: https://wiki.antixenoinitiative.com/
 - Markdown: используют форматирование Markdown
 - HTML: используют базовое форматирование HTML
 
+**IMPORTANT: This sync should only be used for editing existing files, do not try to create new files or change file types as this won't work. For editing page types, use the built-in editor in the wiki.**
+
 ### Метаданные страницы
 
-Каждая страница требует метаданных, указанных в начале файла.
+Each page requires METADATA at the start of the file.
 
-Пример метаданных Markdown
+Markdown METADATA Example
 ```
 ---
 title: README
@@ -40,7 +42,7 @@ dateCreated: 2021-06-23T11:45:35.407Z
 ---
 ```
 
-Пример метаданных HTML
+HTML METADATA Example
 ```
 <!--
 title: Basic Combat Guide
@@ -55,14 +57,14 @@ dateCreated: 2021-06-17T03:18:38.671Z
 
 ### Синхронизация с GitHub
 
-Хранилище на GitHub будет синхронизировать все изменения (двунаправленно) с AXI Wiki каждые 5 минут. Если необходимо срочное изменение свяжитесь с Mgram#6610 через AXI Discord.
+The GitHub repository will syncronize all changes (bi-directionally) with the AXI Wiki every 5 minutes. If a urgent change is needed contact Mgram#6610 on the AXI Discord.
 
 ## Перевод
 
-Перевод осуществляется через платформу Crowdin, переводимые страницы расположены здесь: https://crowdin.com/project/axiwiki
+Translation is managed through Crowdin, translate pages here: https://crowdin.com/project/axiwiki
 
 ### Перечень DNT (Do Not Translate - то, что не следует переводить)
-Следующие термины не должны быть переведены.
+The following terms should not be translated.
 
 **DNT (Do not translate)**
 - Thargoid
@@ -76,6 +78,6 @@ dateCreated: 2021-06-17T03:18:38.671Z
 - Berserker
 - CMDR
 
-НЕ НУЖНО переводить ссылки или пути к ним
+Do NOT translate any of the links or their paths
 
-Например: "/ru/builds" является ссылкой на путь к файлу, если вы редактируете её, ссылка будет разорвана.
+Eg: "/en/builds" is a file path reference, if you edit this, the link will break.
