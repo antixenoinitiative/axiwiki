@@ -2,7 +2,7 @@
 title: Thargoidler
 description: Thargoidler Hakkında
 published: true
-date: 2023-08-12T02:00:27.708Z
+date: 2023-08-12T04:26:36.013Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:10:09.264Z
@@ -10,17 +10,11 @@ dateCreated: 2021-06-15T10:10:09.264Z
 
 # Thargoidler
 
-*The **Thargoids** are a nonhuman race with a history of hostility towards humanity.*
-
-*Kayda geçen ilk Thargoid karşılaşması 2849 yılında olmasına rağmen daha önce, belgelenmemiş karşılaşmaların olduğu da düşünülmektedir. Daha sonraki yıllarda, yalnız gezegen Thargoid araçlarıyla karşılaşmalar da ara ara rapor edilmiştir.*
-
-*32'nci yüzyılda insanlar Thargoidlerle çarpıştılar ancak bu savaşa dair detaylı bilgilere nadir ulaşılması bir yana; gerçek bilgilerle, sansasyonalist medyada yayılan yalan haberleri birbirinden ayırmak çok zordu.*
-
-*Elite: Dangerous Codex'inden bir Girdi*
+> The **Thargoids** are a nonhuman race with a history of hostility towards humanity. The first recorded encounter with a Thargoid ship took place in 2849, although earlier undocumented encounters are believed to have taken place. In the years that followed, contact with lone Thargoid vessels was intermittently reported. Humanity clashed with the Thargoids in the 32nd century, but details of the conflict remained scarce for many years, and it proved difficult to differentiate authentic accounts of Thargoid encounters from the sensationalist media stories of the time. *Entry from Elite Dangerous Codex*
 
 [**Learn more about Thargoids on Fandom's Wiki**](https://elite-dangerous.fandom.com/wiki/Thargoid)
 
-[**Canonn Research Websitesinde Thargoidler Hakkında Daha Fazlasını Okuyabilirsiniz**](https://canonn.science/codex/xeno-technology/)
+[**Read about Thargoids on the Canonn Research Website**](https://canonn.science/codex/xeno-technology/)
 
 ## Thargoid Araçları
 
