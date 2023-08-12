@@ -2,7 +2,7 @@
 title: Thargoid Specifications
 description: Details specs of Thargoid Interceptors
 published: true
-date: 2023-08-12T02:09:10.117Z
+date: 2023-08-12T02:10:14.820Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T11:27:45.002Z
