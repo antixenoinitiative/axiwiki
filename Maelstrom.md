@@ -2,7 +2,7 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2023-08-12T03:48:33.637Z
+date: 2023-08-13T02:23:57.793Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
@@ -12,9 +12,13 @@ dateCreated: 2022-12-03T23:50:43.297Z
 
 # A Brief Intro to the Maelstrom
 
-The Thargoid Maelstrom is a system point of interest (POI) that appeared alongside the Thargoid invasion event in Nov 3308. These instances have appeared in several systems and they are an incredibly dangerous anomaly. 
+The Maelstrom is part of a point of interest (POI) that appeared alongside the Thargoid invasion event in Nov 3308. Since update 15, the maelstrom POI instances and Galmap system statuses have been renamed from "Maelstrom" to "Thargoid Titan." These instances have appeared in several systems and they are an incredibly dangerous anomaly. 
 
-Thargoid Maelstroms are multilayered and may make you want to think twice about disengaging your supercruise in the dropzone. Maelstroms have massive caustic zones, that we call *the cloud*, and dropping at the HUD's perfect spot indicator will land your vessel inside of the outer caustic zone of *the cloud*. Unless you are prepared to drop into caustic, plan to drop one tick next to the "drop zone" indicated by the HUD.
+The Galmap presents the Thargoid Titan systems without the commander having to discover it themselves.
+![galmap_thargoid_war_information.png](/img/galmap_thargoid_war_information.png)
+
+Once navigated to the Thargoid Titan system, a FSS is required to discover the location of the Thargoid Titan POI. Thargoid Titans are in close orbit to ammonia worlds and are indidicated by the sawblade-like icon shown here:
+![hip_8887_-_titan_leigong_-_system_map.png](/img/hip_8887_-_titan_leigong_-_system_map.png =400x)
 
 Upon arrival, the storm is quite visible, and the scale of it can be disorienting. A slow approach to the scrambled instance center indicator is recommended. Cautious commanders can identify the boundry between safe space and caustic cloud. Venturing into the caustic cloud and approaching the Maelstrom's centerwill trigger a wave-like, massive repulsion field that will repell all invaders.
 
@@ -22,10 +26,9 @@ Due to the inquisitive, dedicated, and perhaps misguided commanders exploring th
 
 
 ### Maelstrom Systems
+The listed sytems include the planetary body and rough distance from the star. Ammonia worlds have a specific frequency in the center of the FSS signal spectrum. They should be easy to find. Make sure to turn in cartographic data to make permanent these locations in your system maps. The Galmap provides half of the information presented in the following table:
 
-  Maelstroms are in close orbit to ammonia worlds. Maelstrom systems are inhabited by Titans, and possess and anti-guardian effect throughout the system. 
-
-| **Maelstrom** | **System** | **Body** | **Arrival Distance (ls)** |
+| **Thargoid Titan** | **System** | **Body** | **Arrival Distance (ls)** |
 |---|---|---|---|
 |**Cocijo**		| Col 285 Sector BA-P c6-18	| 3		| 1,300
 |**Hadad**		| HIP 30377									| B 8	| 39,230 
@@ -35,8 +38,6 @@ Due to the inquisitive, dedicated, and perhaps misguided commanders exploring th
 |**Raijin**		| Pegasi Sector IH-U b3-3		| 2		| 400
 |**Taranis**	| Hyades Sector FB-N b7-6		| A 1	| 130
 |**Thor**			| Col 285 Sector IG-O c6-5	| 3		| 820
-
-The listed planets above are ammonia worlds and have a distinct spot in the FSS radar. They should be easy to find. Make sure to turn in cartographic data to make permanent these locations in your system maps. 
 
 ## Maelstrom Dangers
 
@@ -59,11 +60,10 @@ The cloud anatomy is mostly spherical with the following notable dimensions:
 
 The center of the Maelstrom is a large red-ish cloud. Approaching the center will cause a large wave-like pulse to emit from the Center which will eject nearby ships at high velocity, shutting them down, and damaging them in the process. Being hit by the pulse grants the CMDR a single instance of **Massive Energy Surge Analytics** encoded material.
 
-![Caustic Generator](/img/caustic_generator_2.png =300x){.align-right}
-
 Throughout the Maelstrom, besides the materials that can be acquired directly on indirectly from **Caustic generators**, there are two-types of free-floating materials that can be gathered.
 
-These generators are also heat detecting mines. Upon detection, they slowly drift towards the ship at fault and then explode, causing a 3km caustic explosion with a severe knock-back effect. Current safe heat threshold is dependent on ship signature. The Rule of Thumb continues to be "Keep below 20% heat!"
+[![maelstrom_tn01_b.png](/img/maelstrom_tn01_b.png)](/img/caustic_generator_1.png)
+These generators are also heat detecting mines. Upon detection, they slowly drift towards the ship at fault and then explode, causing a 3km caustic explosion with a severe knock-back effect. Current safe heat threshold is dependent on ship signature; the rule of thumb continues to be "Keep below 20% heat!"
 
 These caustic generators are checked on by Thargoid interceptors flying about within the Maelstrom. These interceptors are typically passive; however, they become hostile within a couple kilometers, stay cold!
 
