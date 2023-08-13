@@ -2,7 +2,7 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2023-08-13T02:23:57.793Z
+date: 2023-08-13T19:19:16.116Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
@@ -60,7 +60,7 @@ The center of the Maelstrom is a large red-ish cloud. Approaching the center wil
 
 Throughout the Maelstrom, besides the materials that can be acquired directly on indirectly from **Caustic generators**, there are two-types of free-floating materials that can be gathered.
 
-[![maelstrom_tn01_b.png](/img/maelstrom_tn01_b.png)](/img/caustic_generator_1.png) These generators are also heat detecting mines. Upon detection, they slowly drift towards the ship at fault and then explode, causing a 3km caustic explosion with a severe knock-back effect. Current safe heat threshold is dependent on ship signature; the rule of thumb continues to be "Keep below 20% heat!"
+[![maelstrom_tn01_b.png](/img/thumbs/maelstrom_tn01_b.png)](/img/caustic_generator_1.png) These generators are also heat detecting mines. Upon detection, they slowly drift towards the ship at fault and then explode, causing a 3km caustic explosion with a severe knock-back effect. Current safe heat threshold is dependent on ship signature; the rule of thumb continues to be "Keep below 20% heat!"
 
 These caustic generators are checked on by Thargoid interceptors flying about within the Maelstrom. These interceptors are typically passive; however, they become hostile within a couple kilometers, stay cold!
 
@@ -94,7 +94,7 @@ The caustic zone of the Maelstrom is incredibly dangerous, so the option to stay
 Check out this exploration video by Writer’s End: [Thargoid Maelstrom Exploration Video](https://youtu.be/3NqAGO6oX_Q)
 
 <a href="https://youtu.be/3NqAGO6oX_Q">
-    <img src ="/img/maelstrom_tn06.png"
+    <img src ="/img/thumbs/maelstrom_tn06.png"
        title = " Into the Thargoid Maelstrom" 
        alt = "smol Titan Bubble Wave"/>
 </a>
