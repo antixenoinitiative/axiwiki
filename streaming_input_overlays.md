@@ -1,8 +1,8 @@
 ---
-title: Streaming Input Overlays
+title: Input Overlays
 description: Setup resources for input overlays
 published: false
-date: 2023-08-23T10:14:45.859Z
+date: 2023-08-23T10:29:50.917Z
 tags: obs, autohotkey, overlay
 editor: markdown
 dateCreated: 2023-08-23T10:14:45.859Z
@@ -33,6 +33,11 @@ A very familiar "Input Overlay" can be imported to NohBoard as well:
 
 A solution to this communication problem is to use a contextual input overlay, just like the overlays produced by Gamepad Viewer. Cmdr Toscany is working on a NohBoard keyboard overlay that obfuscates the actual button presses to accomplish the visualization of the intended inputs. For example, can you guess all the inputs visualized in this sample?
 ![contextual_input_overlay_sample.gif](/img/input_overlay/contextual_input_overlay_sample.gif)
+
+Forward/retro longitudinals, left/right laterals, up/down verticals, and mouse yaw/pitch are indicated in the main center icons. Up/down pitch and left/right yaw in the top right circle.
+Not yet represented; fwd/rev throttle, boost, cargo scoop, landing gear, and clockwise/counter-clockwise roll.
+
+The contextual input overlay has the goal of visualizing all manuervering inputs as intiutively as possible. A link for this NohBoard will be provided here when it is available. A short readme and youtube video should accompany it for quickly getting started.
 
 ## For Gamepads:
 ### Gamepad Viewer
