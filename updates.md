@@ -1,8 +1,8 @@
 ---
-title: Wiki Updates
+title: Updates & Changes
 description: Showing highlighted changes that have been made to AXI wiki and AXI website.
 published: true
-date: 2023-08-29T13:37:34.849Z
+date: 2023-08-29T13:38:48.014Z
 tags: updates, changes, what's new
 editor: markdown
 dateCreated: 2023-08-29T13:16:57.862Z
@@ -20,3 +20,6 @@ If you'd like to contribute to the wiki, please request editor permissions from 
 - 2023-08-26: [Input Overlays](/en/input_overlays) page created!
 - 2023-08-13: [Maelstroms](/en/Maelstrom) wiki page updated!
 - 2023-08-06: [Read Me for New Editors](/en/READ_ME_New_Editors) wiki page created!
+
+### AXI Website Changes and Updates
+- none this year
