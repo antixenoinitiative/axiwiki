@@ -2,7 +2,7 @@
 title: Thargoid Specifications
 description: Details specs of Thargoid Interceptors
 published: true
-date: 2023-08-12T04:27:42.302Z
+date: 2023-08-29T18:49:38.022Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T11:27:45.002Z
@@ -69,9 +69,9 @@ Details on the known values of different Thargoid vessels.
 | **Optimal Medium Gauss   <br>Shots to Destroy a Heart** | 3   | 4   | 5   | 13  | N/A |
 | **Hull Damage % required to Exert** | Heart 1: 20%<br>Heart 2: 16% <br>Heart 3: 12% <br>Heart 4: 8% | Heart 1: 20% <br>Heart 2: 16%  <br>Heart 3: 14%  <br>Heart 4: 10%  <br>Heart 5: 8% | Heart 1: 20%   <br>Heart 2: 17%   <br>Heart 3: 15%  <br>Heart 4: 12%  <br>Heart 5: 10%  <br>Heart 6: 7% | Heart 1: 20%  <br>Heart 2: 18%  <br>Heart 3: 16%  <br>Heart 4: 14%  <br>Heart 5: 12%  <br>Heart 6: 10%  <br>Heart 7: 8%  <br>Heart 8: 6% | N/A |
 
-# Glaives
+# Hunters
 
-| | **Hunter** | **Scythe** |
+| | **Glaive** | **Scythe** |
 | - | ----- | ----- |
 | **Top Speed** | 750m/s | 500m/s |
 | **Kill Reward** | 4,500,000 | 4,500,000 |
