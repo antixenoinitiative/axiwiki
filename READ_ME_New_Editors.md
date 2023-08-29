@@ -2,7 +2,7 @@
 title: READ ME for New Editors
 description: Editing Principles and Wiki Design Goals
 published: false
-date: 2023-08-23T10:39:50.920Z
+date: 2023-08-29T14:51:12.553Z
 tags: editor
 editor: markdown
 dateCreated: 2023-08-06T22:59:14.821Z
@@ -94,7 +94,7 @@ Consider adding your page below and define its goals so we can get the most out 
 ### Updates
 - a quick reference for all wiki users to see what's new
 - Allows editors a convenient place to "announce" changes and/or fixes they've made to the wiki.
-- this page does not exist yet
+- 
 -
 
 ### [Input Overlays](/en/streaming_input_overlays)
