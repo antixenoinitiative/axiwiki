@@ -1,8 +1,8 @@
 ---
 title: Wiki Updates
-description: Showing highlighted changes that has been made to AXI wiki and AXI website.
+description: Showing highlighted changes that have been made to AXI wiki and AXI website.
 published: true
-date: 2023-08-29T13:36:14.463Z
+date: 2023-08-29T13:37:34.849Z
 tags: updates, changes, what's new
 editor: markdown
 dateCreated: 2023-08-29T13:16:57.862Z
