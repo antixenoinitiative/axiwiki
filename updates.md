@@ -2,7 +2,7 @@
 title: Changes & Updates
 description: Showing highlighted changes that have been made to AXI wiki and AXI website.
 published: true
-date: 2023-08-29T17:02:57.703Z
+date: 2023-08-29T17:03:57.641Z
 tags: updates, changes, what's new
 editor: markdown
 dateCreated: 2023-08-29T13:16:57.862Z
@@ -14,6 +14,7 @@ If you'd like to contribute to the wiki, please request editor permissions from 
 
 ## Wiki Changes and Updates
 
+- 2023-08-29: Navigation Menu guides category has been moved up the menu.
 - 2023-08-29: Quick Start page has been created and added to the navigation menu!
 - 2023-08-29: Added Wiki Updates page to navigation menu
 - 2023-08-29: "Tools and Science" navigation menu added "Input Overlays" [option](/en/input_overlays)
