@@ -2,11 +2,15 @@
 title: Wiki Updates
 description: Showing highlighted changes that has been made to AXI wiki and AXI website.
 published: true
-date: 2023-08-29T13:31:16.913Z
+date: 2023-08-29T13:36:14.463Z
 tags: updates, changes, what's new
 editor: markdown
 dateCreated: 2023-08-29T13:16:57.862Z
 ---
+
+Wiki page editorials and website changes are discussed in discord under the OTHER category "devops" text channel. If issues arise with this wiki, github issues are tracked [here](https://github.com/antixenoinitiative/axiwiki/issues) same as <https://github.com/antixenoinitiative/axiwiki/issues>.
+
+If you'd like to contribute to the wiki, please request editor permissions from AXI staff in discord.
 
 ### Wiki Changes and Updates
 - 2023-08-29: "Tools and Science" navigation menu added "Input Overlays" [option](/en/input_overlays)
