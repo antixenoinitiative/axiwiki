@@ -2,7 +2,7 @@
 title: Quick Start
 description: Here, a prescribed path is given to help newcomers find priority information and references for extended study.
 published: true
-date: 2023-09-02T22:41:02.932Z
+date: 2023-09-02T23:06:51.805Z
 tags: start, quick start, newcomer, roadmap
 editor: markdown
 dateCreated: 2023-08-29T14:14:04.060Z
@@ -42,7 +42,7 @@ Thargoids that have engaged in combat are merciless. Survival is dependent on th
 
 ### Step 4 - Learn to Disengage
 
-Whether in a small, medium, or large ship, flight strategies should be considered to get into and out of combat with thargoids. Understanding when to run and how, can save the pilot precious rebuy funds. If things start to go sour in an encounter, you can and should disengage, seek repair, and try again.
+Whether in a small, medium, or large ship, flight strategies should be considered to get into and out of combat with thargoids. Understanding when to run and how, can save the pilot precious rebuy funds and cargo. If things start to go sour in an encounter, you can and should disengage, seek repair, and try again.
 
 ### Step 5 - Learn to Fight
 
