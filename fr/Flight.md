@@ -2,7 +2,7 @@
 title: Flight
 description: An introduction to flight strategy for various anti-xeno activities
 published: true
-date: 2023-09-03T02:20:24.558Z
+date: 2023-09-03T02:37:54.427Z
 tags:
 editor: markdown
 dateCreated: 2023-09-03T02:20:24.558Z
@@ -12,8 +12,7 @@ dateCreated: 2023-09-03T02:20:24.558Z
 
 - FA ON/OFF
   - [Elite: Dangerous - "Flight Assist Off Training" Beginner Proficiency](https://www.youtube.com/watch?v=U6zIXu52RnA&list=PLYx7o8laj9zCHVZxq_88_0Lj4fGHpUxCD&index=3)
-- Activities: passenger rescue, emergency supplies trucking, using a jump ship in/near Thargoid systems, material collection, scout sample farming, maelstroms
-
+- Activities: passenger rescue, emergency supplies trucking, using a jump ship in/near Thargoid systems, material collection, scout sample farming, maelstroms > section is underconstruction {.is-info}
 
 
 # Disengagement
@@ -64,4 +63,8 @@ Upon entering the instance, just like any other Thargoid, there is an element of
 
 If your ship boosts over 520 m/s and can boost every 7 seconds; then, with good RNG and repeated boosts, the ship should be capable of keeping the Glaive just out of combat engagement range in order to safely wake-out.
 
-If your ship is not capable of an average speed () while boosting, then a contingency plan should be adopted. If hardpoints are a flexible option, choose the pre-engineered overcharged AX enhanced multicannons with autoloader and destroy the Glaive, for an easy bundle of credits and materials. Be aware that the Glaive has other special attacks that can be devastating to the unprepared. The ECM module can affect the FSD reboot missile, making running an option for the average speed ships. Slow ships have no chance of outrunning the Glaive, which leaves only three options; fight, die, or combat log.  
+If your ship is not capable of an average speed () while boosting, then a contingency plan should be adopted. If hardpoints are a flexible option, choose the pre-engineered overcharged AX enhanced multicannons with autoloader and destroy the Glaive, for an easy bundle of credits and materials. Be aware that the Glaive has other special attacks that can be devastating to the unprepared. The ECM module can affect the FSD reboot missile, making running an option for the average speed ships. Slow ships have no chance of outrunning the Glaive, which leaves only three options; fight, die, or combat log.
+
+---
+
+[Prev Topic: Recommended Controls](/en/recommended-controls) - End of Flight page - [Next Topic: Combat Guide](/en/advanced-combat-guide)
