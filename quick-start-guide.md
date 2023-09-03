@@ -2,7 +2,7 @@
 title: Quick Start
 description: Here, a prescribed path is given to help newcomers find priority information and references for extended study.
 published: true
-date: 2023-09-03T03:06:07.290Z
+date: 2023-09-03T03:07:47.064Z
 tags: start, quick start, newcomer, roadmap
 editor: markdown
 dateCreated: 2023-08-29T14:14:04.060Z
@@ -42,7 +42,7 @@ Thargoids that have engaged in combat are merciless. Survival is dependent on th
 
 ### Step 4 - Learn to Disengage
 
-Flight strategies should encompass getting into and out of combat with Thargoids. If you read the entire flight guide, you'll know this step 4 is a major section in the flight guide, [Disengagement](/en/Flight#Disengagement).
+Flight strategies should encompass getting into and out of combat with Thargoids. If you read the entire flight guide, you'll know this step 4 is a major section in the flight guide, [Disengagement](/en/Flight#disengagement).
 
 ### Step 5 - Learn to Fight
 
