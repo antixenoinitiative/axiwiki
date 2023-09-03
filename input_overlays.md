@@ -2,7 +2,7 @@
 title: Input Overlays
 description: Setup resources for input overlays
 published: true
-date: 2023-08-26T06:17:06.649Z
+date: 2023-09-03T14:57:36.048Z
 tags: obs, autohotkey, overlay
 editor: markdown
 dateCreated: 2023-08-23T10:14:45.859Z
@@ -41,6 +41,8 @@ NohBoard is required, and integrates into OBS like any other windowed applicatio
 Gamepad Viewer is the best option for capturing HOTAS, HOSAS, Xbox Controller, Playstation Controller, etc. It is a dependent setup; an appropriate web browser and internet connection is required for this setup to work. Setup can be quite lengthy but the results are excellent when meticulously  and diligently applying the configuration. 
 
 CMDR Exigeous youtube setup guide for Gamepad Viewer: [ELite Dangerous Custom Controller Overlay](https://www.youtube.com/watch?v=Y9MglSrkdwc) : same as <https://www.youtube.com/watch?v=Y9MglSrkdwc>
+
+If you choose to use CMDR Exigeous's skins for your overlays in recording, please credit CMDR Exigeous for them at the beginning or ending of the video. These are the skin links CMDR Exigeous has setup:
 1. [Pedals skin](https://raw.githubusercontent.com/exigeous/HOTASOverlay/master/pedals.css) : same as <https://raw.githubusercontent.com/exigeous/HOTASOverlay/master/pedals.css>
 1. [Throttle skin](https://raw.githubusercontent.com/exigeous/HOTASOverlay/master/throttle.css) : same as <https://raw.githubusercontent.com/exigeous/HOTASOverlay/master/throttle.css>
 1. [Stick skin](https://raw.githubusercontent.com/exigeous/HOTASOverlay/master/stick.css) : same as <https://raw.githubusercontent.com/exigeous/HOTASOverlay/master/stick.css>
