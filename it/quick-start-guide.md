@@ -2,7 +2,7 @@
 title: Quick Start
 description: Here, a prescribed path is given to help newcomers find priority information and references for extended study.
 published: true
-date: 2023-09-02T23:06:51.805Z
+date: 2023-09-03T03:07:47.064Z
 tags: start, quick start, newcomer, roadmap
 editor: markdown
 dateCreated: 2023-08-29T14:14:04.060Z
@@ -35,11 +35,11 @@ Visit [Recommended Controls](/en/recommended-controls) to get started with a con
 
 ### Step 3 - Learn to Fly
 
-Thargoids that have engaged in combat are merciless. Survival is dependent on the pilot's ability to maneuver out of the way of incoming fire. Many strategies can be employed to great success. Regardless of the pilot's build strategy, an understanding and practice of [Cold Orbiting](/en/cold-orbiting) will assist to ensure the survival of the pilot during any Thargoid encounter.
+Thargoids that have engaged in combat are merciless. Survival is dependent on the pilot's ability to maneuver out of the way of incoming fire. Many strategies can be employed to great success. A variety of activities are covered in the [Flight Guide](/en/Flight). Regardless of the pilot's build strategy, an understanding and practice of [Cold Orbiting](/en/cold-orbiting) will assist to ensure the survival of the pilot during any Thargoid encounter.
 
 ### Step 4 - Learn to Disengage
 
-Whether in a small, medium, or large ship, flight strategies should be considered to get into and out of combat with thargoids. Understanding when to run and how, can save the pilot precious rebuy funds and cargo. If things start to go sour in an encounter, you can and should disengage, seek repair, and try again.
+Flight strategies should encompass getting into and out of combat with Thargoids. If you read the entire flight guide, you'll know this step 4 is a major section in the flight guide, [Disengagement](/en/Flight#disengagement).
 
 ### Step 5 - Learn to Fight
 
