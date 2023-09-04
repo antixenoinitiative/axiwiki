@@ -1,22 +1,18 @@
 ---
 title: Flight
-description: An introduction to flight strategy for various anti-xeno activities
+description: An introduction to advanced maneuvers and flight strategy for various anti-xeno activities.
 published: true
-date: 2023-09-04T03:04:57.200Z
+date: 2023-09-04T06:59:36.464Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:20:24.558Z
 ---
 
-# Flying
-
-  - [Elite: Dangerous - "Flight Assist Off Training" Beginner Proficiency]( <https://www.youtube.com/watch?v=U6zIXu52RnA&list=PLYx7o8laj9zCHVZxq_88_0Lj4fGHpUxCD&index=3>)
-- Activities: passenger rescue, emergency supplies trucking, using a jump ship in/near Thargoid systems, material collection, scout sample farming, maelstroms
-> section is underconstruction {.is-info} 
-
 This webpage aims to introduce the reader to certain flight strategies and maneuvers. This resource does not intend to be an exhaustive list but to highlight critical components of flight strategy to help.
 
- The Following short section contains named maneuvers:
+# Maneuvers
+
+The Following short section contains named maneuvers. Each has an insight to share that any pilot can use to their advantage.
 
 ### Boost Cancel
 
@@ -43,21 +39,39 @@ From Mechan, "The ultimate "power ram". Using a heavy ship (likely 500t+, althou
 Demo: [The Muquuu](<https://www.youtube.com/watch?v=5_DPowS53hQ>) same as: <https://www.youtube.com/watch?v=5_DPowS53hQ>
 
 
+# Flight Strategies
+
+Note: Flight Assist OFF is an exceptional flight mode and it is recommended that every commander practice it by using it in some of, or all of, their normally Flight Assist ON activities. There are plenty of online resources, detailing Flight Assist OFF and this resource presumes the reader is already familiar with them. This section does not introduce Flight Assist OFF.
+
+The following section details critical survival strategies:
+
+## Cold Orbiting
+
+Cold Orbiting is the practiced combination of;
+~~~
+Ship movement perpendicular to the Thargoid axis of fire,
+Maintaining relatively low heat %, And,
+Maintaining an effective distance away from the Thargoid 
+~~~
+Wherein the combination of current heat % and the size of ship affect ship signature, and the ship signature affects the range that the Thargoid's target-lock is allowed to lead.
+
+The goal is to be positioned outside the Thargoids target-lock lead range, the effect of which is the evasion of Thargoid projectiles and the simultaneous opportunity to be within effective range of equipped anti-xeno weaponry.
+
+Visit [Cold Orbiting](/en/cold-orbiting) for more information and video demonstrations of this flight strategy.
+
 ## Planetary Overspeed
 
 A planetary instance is any normal space instance at or under orbital cruise for the nearest astral body. A pilot needs to be aware that maneuvers *with* the body’s gravity, like boosting nose toward the planet center, can cause the pilot’s ship to experience gravity assisted **speed bleed**. Instead of the ship losing speed, the ship gains speed due to gravitational acceleration and can quickly produce speeds that exceed the max engine pips speed that governs the pilot’s effective inputs. What this means is that beyond the ship’s safe speed limit, the ship loses the ability to slow down. 
 
-
 The corrective action required to regain complete control is to thrust to redirect the ship’s current vector away from the planet. If at low enough radar-altitude, the point at which the ship regains control loses this overspeed condition is when the vertical speed indicator (VSI) indicates neutral or increasing. 
 
+As a side, the Elite community has, in the past, organized several competitions built around this flight mechanic, abusing it to spectacular effect which we call  **speedball**, **speed bowling** and **gravity bowling**.
+CMDR Exigeous [What is Speedbowling?](<https://youtu.be/vhbUZS3wiwY>) same as: <https://youtu.be/vhbUZS3wiwY>
 
-As a side, the Elite community has, in the past, organized several competitions built around this flight mechanic, abusing it to spectacular effect which we call  **speedball**, **speed bowling** and **gravity bowling**. CMDR Exigeous [What is Speedbowling?](<https://youtu.be/vhbUZS3wiwY>)<https://youtu.be/vhbUZS3wiwY>
-
-# Disengagement
+## Disengagement
 
 Whether in a small, medium, or large ship, flight strategies should be considered to get into and out of combat with thargoids. Understanding when to run and how, can save the pilot precious rebuy funds and cargo. If things start to go sour in an encounter, you can and should disengage, seek repair, and try again.
 
-## Same Instance Disengagement
 ### On Foot
 
 Scavengers are sluggish and have limited combat abilities. Recall your ship and just keep running. It would be surprising if Scavengers somehow surround you and even then, they don’t present much threat.
