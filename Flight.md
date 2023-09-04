@@ -2,7 +2,7 @@
 title: Flight
 description: An introduction to advanced maneuvers and flight strategy for various anti-xeno activities.
 published: true
-date: 2023-09-04T07:09:41.217Z
+date: 2023-09-04T07:24:16.406Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:20:24.558Z
@@ -47,14 +47,16 @@ The following section details critical survival strategies:
 
 ## Cold Orbiting
 
-Cold Orbiting is the practiced combination of;
-~~~
-Ship movement perpendicular to the Thargoid axis of fire,
-Maintaining relatively low heat %, And,
-Maintaining an effective distance away from the Thargoid 
-~~~
-Wherein the combination of current heat % and the size of ship affect ship signature, and the ship signature affects the range that the Thargoid's target-lock is allowed to lead.
-
+Cold Orbiting is the practiced combination of; 
+ ~~~
+ Ship movement perpendicular to the Thargoid axis of fire,
+ Maintaining relatively low heat %, And,
+ Maintaining an effective distance away from the Thargoid
+ ~~~
+ - The combination of current heat % and the size of ship affect ship signature.
+ - Ship signature affects the range that the Thargoid's target-lock is allowed to lead.
+ - If the ship is positioned within the Thargoid's target-lock lead range, Thargoid projectiles lead the ship with great accuracy. If the ship is positioned outside the Thargoid's target-lock lead range, then the Thargoid's target-lock does not lead the ship, and will fire directly at the ship.
+ 
 The goal is to be positioned outside the Thargoids target-lock lead range, the effect of which is the evasion of Thargoid projectiles and the simultaneous opportunity to be within effective range of equipped anti-xeno weaponry.
 
 Visit [Cold Orbiting](/en/cold-orbiting) for more information and video demonstrations of this flight strategy.
