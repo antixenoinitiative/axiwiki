@@ -2,7 +2,7 @@
 title: Flight
 description: An introduction to advanced maneuvers and flight strategy for various anti-xeno activities.
 published: true
-date: 2023-09-04T07:05:57.196Z
+date: 2023-09-04T07:09:41.217Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:20:24.558Z
