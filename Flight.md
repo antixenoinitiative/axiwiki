@@ -2,7 +2,7 @@
 title: Flight
 description: An introduction to advanced maneuvers and flight strategy for various anti-xeno activities.
 published: true
-date: 2023-09-04T07:24:16.406Z
+date: 2023-09-04T07:28:19.920Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:20:24.558Z
@@ -61,15 +61,6 @@ The goal is to be positioned outside the Thargoids target-lock lead range, the e
 
 Visit [Cold Orbiting](/en/cold-orbiting) for more information and video demonstrations of this flight strategy.
 
-## Planetary Overspeed
-
-A planetary instance is any normal space instance at or under orbital cruise for the nearest astral body. A pilot needs to be aware that maneuvers *with* the body’s gravity, like boosting nose toward the planet center, can cause the pilot’s ship to experience gravity assisted **speed bleed**. Instead of the ship losing speed, the ship gains speed due to gravitational acceleration and can quickly produce speeds that exceed the max engine pips speed that governs the pilot’s effective inputs. What this means is that beyond the ship’s safe speed limit, the ship loses the ability to slow down. 
-
-The corrective action required to regain complete control is to thrust to redirect the ship’s current vector away from the planet. If at low enough radar-altitude, the point at which the ship regains control loses this overspeed condition is when the vertical speed indicator (VSI) indicates neutral or increasing. 
-
-As a side, the Elite community has, in the past, organized several competitions built around this flight mechanic, abusing it to spectacular effect which we call  **speedball**, **speed bowling** and **gravity bowling**.
-CMDR Exigeous [What is Speedbowling?](<https://youtu.be/vhbUZS3wiwY>) same as: <https://youtu.be/vhbUZS3wiwY>
-
 ## Disengagement
 
 Whether in a small, medium, or large ship, flight strategies should be considered to get into and out of combat with thargoids. Understanding when to run and how, can save the pilot precious rebuy funds and cargo. If things start to go sour in an encounter, you can and should disengage, seek repair, and try again.
@@ -91,7 +82,7 @@ One method to disengage a Thargoid is to kite the Thargoid toward NPCs, have the
 In a solo instance, when the Thargoid is faster than you, there is no chance for disengagement
 from the Thargoid without using the FSD to wake-out.
 
-## Unwanted Hyperdictions and Interdictions
+## Disengaging from Unwanted Hyperdictions and Interdictions
 
 When planning operations in or near Thargoid statused systems, hyperdictions and interdictions are inevitable. While there are special cases; the efficient method is to do the following steps as soon as possible:
 1. Enter Silent Running,
@@ -123,6 +114,16 @@ Upon entering the instance, just like any other Thargoid, there is an element of
 If your ship boosts over 520 m/s and can boost every 7 seconds; then, with good RNG and repeated boosts, the ship should be capable of keeping the Glaive just out of combat engagement range in order to safely wake-out.
 
 If your ship is not capable of an average speed () while boosting, then a contingency plan should be adopted. If hardpoints are a flexible option, choose the pre-engineered overcharged AX enhanced multicannons with autoloader and destroy the Glaive, for an easy bundle of credits and materials. Be aware that the Glaive has other special attacks that can be devastating to the unprepared. The ECM module can affect the FSD reboot missile, making running an option for the average speed ships. Slow ships have no chance of outrunning the Glaive, which leaves only three options; fight, die, or combat log.  
+
+---
+## Planetary Overspeed
+
+A planetary instance is any normal space instance at or under orbital cruise for the nearest astral body. A pilot needs to be aware that maneuvers *with* the body’s gravity, like boosting nose toward the planet center, can cause the pilot’s ship to experience gravity assisted **speed bleed**. Instead of the ship losing speed, the ship gains speed due to gravitational acceleration and can quickly produce speeds that exceed the max engine pips speed that governs the pilot’s effective inputs. What this means is that beyond the ship’s safe speed limit, the ship loses the ability to slow down. 
+
+The corrective action required to regain complete control is to thrust to redirect the ship’s current vector away from the planet. If at low enough radar-altitude, the point at which the ship regains control loses this overspeed condition is when the vertical speed indicator (VSI) indicates neutral or increasing. 
+
+As a side, the Elite community has, in the past, organized several competitions built around this flight mechanic, abusing it to spectacular effect which we call  **speedball**, **speed bowling** and **gravity bowling**.
+CMDR Exigeous [What is Speedbowling?](<https://youtu.be/vhbUZS3wiwY>) same as: <https://youtu.be/vhbUZS3wiwY>
 
 ---
 
