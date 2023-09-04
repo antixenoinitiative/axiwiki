@@ -2,7 +2,7 @@
 title: Flight
 description: An introduction to flight strategy for various anti-xeno activities
 published: true
-date: 2023-09-03T02:37:54.427Z
+date: 2023-09-04T03:04:57.200Z
 tags:
 editor: markdown
 dateCreated: 2023-09-03T02:20:24.558Z
@@ -10,10 +10,43 @@ dateCreated: 2023-09-03T02:20:24.558Z
 
 # Flying
 
-- FA ON/OFF
   - [Elite: Dangerous - "Flight Assist Off Training" Beginner Proficiency](https://www.youtube.com/watch?v=U6zIXu52RnA&list=PLYx7o8laj9zCHVZxq_88_0Lj4fGHpUxCD&index=3)
 - Activities: passenger rescue, emergency supplies trucking, using a jump ship in/near Thargoid systems, material collection, scout sample farming, maelstroms > section is underconstruction {.is-info}
 
+This webpage aims to introduce the reader to certain flight strategies and maneuvers. This resource does not intend to be an exhaustive list but to highlight critical components of flight strategy to help.
+
+ The Following short section contains named maneuvers:
+
+### Boost Cancel
+
+(Not actually a Cancel) Deploying Cargo Scoop or Landing Gear for the duration of a Boost will limit forward thrust while maximizing other thrust inputs.
+
+### The Flip
+(Not actually a flip) Flight Assist OFF, Boost, Hold Cargo Scoop, and any combination of pitch, roll, and/or yaw to turn rapidly with a small turn radius.
+
+### Rearm Chase Boosted Maneuver (For Reestablishing Orbits)
+(RACBM for short, or maybe not) This is cold-orbiting advice for efficiently reestablishing an orbit when the interceptor disengages to “rearm” (actually just ignore the player for a short duration of time). From Mechan: The moment an interceptor “turns away” to rearm, boost. The boost has four phases;
+1. Use the boost to cut your tangential velocity; the easiest way to do this is to turn FA back ON, as then fly-by-wire; with practice, you can learn to do it manually in FA OFF, but it’s harder;
+1. Point just below the ‘goid, roughly at a ~20º angle; you’ll quickly approach it, with a vector now almost perpendicular to it;
+1. Flip back to FA back OFF (if you used FA for part 1 and bank hard just before passing the goid; you want to use what’s left of your boost thrust to slow down by, if you turned say left, also now thrusting hard left;
+1. Now back on regular thrust, jam down and back thrust to-establish your orbit. The key is to limit the velocity out of your boost to no more than 350-400 ideally. More than that, and you’ll swing out of range instead of re-establishing an orbit.
+
+### The Painbeaver
+From Mechan, “Probably the most famous "named maneuver", it involves chasing the swarm and flakking it while it's flying away from you (after flying over you.) It is one of the few ways that slow ships (notably the ‘Vette, but also the ‘Conda and FGS) can effectively deal with the swarm. Named after CMDR Painbeaver.” Demo: [The Painbeaver](https://youtu.be/nJFdd9AEjNI)<https://youtu.be/nJFdd9AEjNI>
+
+### The Muquuu
+From Mechan, "The ultimate "power ram". Using a heavy ship (likely 500t+, although it's possible to pull it off with 400t ships), and most commonly demonstrated in an Imperial Cutter, when the goid is lightning-chasing you, ram it head-on so that the momentum of the bonk pushes it outside of 800m, thus cutting the lightning zap short (and speeding up the fight.) Named after CMDR MuQuuu." Demo: [The Muquuu](https://www.youtube.com/watch?v=5_DPowS53hQ) same as: <https://www.youtube.com/watch?v=5_DPowS53hQ>
+
+
+## Planetary Overspeed
+
+A planetary instance is any normal space instance at or under orbital cruise for the nearest astral body. A pilot needs to be aware that maneuvers *with* the body’s gravity, like boosting nose toward the planet center, can cause the pilot’s ship to experience gravity assisted **speed bleed**. Instead of the ship losing speed, the ship gains speed due to gravitational acceleration and can quickly produce speeds that exceed the max engine pips speed that governs the pilot’s effective inputs. What this means is that beyond the ship’s safe speed limit, the ship loses the ability to slow down.
+
+
+The corrective action required to regain complete control is to thrust to redirect the ship’s current vector away from the planet. If at low enough radar-altitude, the point at which the ship regains control loses this overspeed condition is when the vertical speed indicator (VSI) indicates neutral or increasing.
+
+
+As a side, the Elite community has, in the past, organized several competitions built around this flight mechanic, abusing it to spectacular effect which we call  **speedball**, **speed bowling** and **gravity bowling**. CMDR Exigeous [What is Speedbowling?](https://youtu.be/vhbUZS3wiwY)<https://youtu.be/vhbUZS3wiwY>
 
 # Disengagement
 
