@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2023-08-14T11:55:10.115Z
+date: 2023-11-17T13:09:57.593Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -16,14 +16,66 @@ Anti-Xeno operations require specialised ship builds as Thargoids have special r
 Due to the variety of Thargoid Vessels and locations in which they may be encountered, there are a variety of specialized build classes required for Anti-Xeno combat. 
 As a rule of thumb, **a solo-capable build is always the best option.** Variantions on the solo builds below form the core of all other build classes, as more specialized technology is usually required for more hostile locations.
 
-There are two common build classes used for Anti-Xeno Combat:
+There are two common build types used for Anti-Xeno Combat:
     
 -   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage
     
 -   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically
 
-> Please see our [Ship Build Theory](/en/shipbuildtheory) page for a more in-depth explanation behind the outfitting decisions.
+In addition, there are many different AX activities, and the builds for them can be quite different:
+- **Solo Builds** - One commander, one (or more) interceptors. These builds form the basis of all other builds, and you should always start here.
+- **AXCZ Builds** - These builds are solo builds with various modifications to make them better suited for fighting in groups. Group AX presents a few hazards which usually aren't seen in solo fights.
+- **Maelstrom Builds** - Heavily specialized for combat in the most extreme locations - where caustic clouds are thick, staying undetected is paramount, and guardian tech is useless. These build have the same base hull configuration as Solo Builds, but share little else.
+- **Scout Builds** - Like shooting fish in a barrel, Thargoid Scouts put up little resistance to a few Enhanced AXMCs.
+
+
+> Please see our [Ship Build Theory](/en/shipbuildtheory) page for a more in-depth explanation on AX ship building.
 {.is-info}
+
+# Best In Class - Krait Mk.II
+In the current meta, the **Krait Mk.II is the most versatile ship**. With the ability to mount any weapon, plenty of optional internals, a massive powerplant, and good maneuverability, the Krait Mk.II is the **best all-around starter build**.
+
+## Tabset {.tabset}
+
+### Solo Krait Mk.II
+![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
+#### **Solo Build**
+
+The shieldless Krait is a tried and true powerhouse. The Krait's massive distributor and numerous hardpoints allow it to mount four of any AX weapon effectively. This build is designed specifically for solo fights, and is lacking in coutermeasures against caustic and shutdown fields (which can be avoided solo).
+
+[Solo Krait Mk.II Build](https://edsy.org/s/vNkUQao)
+
+### AXCZ Krait Mk.II
+![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
+#### **AZCX Build**
+
+This build has a Thermal Vent Beam Laser instead of Flak, and brings a Shutdown Field Neutralizer and Caustic Sink Launcher to mitigate the added hazards found in AXCZs. The limpets can cargo rack can be safely removed if fighting at a planetary or station CZ.
+
+
+[AXCZ Krait Mk.II Build](https://edsy.org/s/vvtuMHq)
+
+### Maelstrom Krait Mk.II
+![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
+#### **Maelstrom Diver Build**
+
+The Krait Mk.II is a tried and true favorite of maelstrom divers, as it offers substantial firepower and optional internals, while still maintaining good maneuverability.
+
+- AXMCs: 3 large, 1 medium
+- Speed: 385m/s, 530m/s boost
+- Hull: 3,050
+
+[Maelstrom Krait Mk.II Build](https://edsy.org/s/vKhEdCd)
+[Build Video](https://www.youtube.com/watch?v=DaOp39Oksqc) by CMDR Mechan
+
+### Low-Engineering Krait Mk.II
+![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
+#### **Low-Engineering Build**
+
+While not recommended, this build gives a sense for what grade three engineering looks like. While grade five is always recommended, the Krait can still be a potent vessel even with minimal engineering.
+
+[Low-Engineering Krait Mk.II Build](https://edsy.org/s/v2FcXCA)
+
+
 
 # Solo Builds
 
