@@ -2,14 +2,14 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2023-02-16T04:16:42.615Z
+date: 2024-01-29T18:47:04.416Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
 ---
 
 # Engineering Materials Guide
-This is an extensive general guide on gathering and collecting materials for engineering your ship in Elite Dangerous. For a more focused list of material sources, check out [ED Materials](https://www.edmaterials.app/home).
+This is an extensive general guide on gathering and collecting materials for engineering your ship in Elite Dangerous. For a more focused list of material sources, check out [Elite Materials](https://sites.google.com/view/elite-materials/home).
 
 > You DO NOT have to max out the previous grade of an engineering blueprint before applying the next. A module only stores one grade of engineering, so each higher grade replaces previous ones.
 {.is-warning}
@@ -17,7 +17,7 @@ This is an extensive general guide on gathering and collecting materials for eng
 
 # Useful Links
 - [Ship Build Theory](/en/shipbuildtheory) page - Information on how to engineer your ship
-- [ED Materials](https://www.edmaterials.app/home) - Comprehensive summary of material sources
+- [Elite Materials](https://sites.google.com/view/elite-materials/home) - Comprehensive summary of material sources
 - [ED Discovery](https://edcodex.info/?m=tools&entry=10) - Aids with planetary navigation, among many other useful features.
 - [Weapon Unlock Costs](https://inara.cz/elite/techbroker) - Inara keeps a list of tech broker unlock requirements.
 
@@ -65,7 +65,7 @@ HGE Looping is a time-efficient method of grinding Grade 5 Manufactured material
 1. The nearest Unknown Signal Source should be a few hundred km away and is the same HGE you dropped into the first time.
 1. Drop in, collect the contents and repeat until material storage is full or the HGE times out.
 
-The contents of a given HGE are determined by system allegiance (Federation/Empire) and minor faction state (Outbreak, War, etc.) and spawn at random in systems in such states. See [ED Materials](https://sites.google.com/view/ed-materials/ed-materials/manufactured-items) for more information on what material corresponds to each faction state.
+The contents of a given HGE are determined by system allegiance (Federation/Empire) and minor faction state (Outbreak, War, etc.) and spawn at random in systems in such states. See [Elite Materials](https://sites.google.com/view/elite-materials/collection/manufactured-items) for more information on what material corresponds to each faction state.
 
 You can use the [min-ed-launcher](https://github.com/Rfvgyhn/min-ed-launcher#features)'s auto-restart feature to save some time on each game restart.
 
