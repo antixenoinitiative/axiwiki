@@ -2,13 +2,13 @@
 title: Odyssey Mühendisliği
 description: Kıyafet ve piyade silahları mühendisliği rehberi
 published: true
-date: 2023-02-13T02:21:39.879Z
+date: 2024-05-02T16:45:48.810Z
 tags: engineering, guide
 editor: markdown
 dateCreated: 2021-06-10T12:19:05.577Z
 ---
 
-# **__Odyssey'de nasıl materyal farmlanır__**
+# **__How to farm materials in Odyssey__**
 
 ## Manufacturing Instructions (Aşağı yukarı her şey için)
 
