@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-05-23T15:47:57.448Z
+date: 2024-05-23T16:27:50.319Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -368,7 +368,7 @@ The general premise of Spire site builds is to create a ship which can survive i
 ![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
 #### **Krait Mk.II**
 
-The Krait can fit 3x Large and 2x Medium Enchanced AX Multi-Cannons (for Scouts) or Missile Racks (for Orthrus).  It can also be useful to swap 1x Medium rail for a Thermal Vent Beam Laser, for tagging Orthrus targets at range.  the Krait has high mobility to keep targets in range or disengage.  Overlal, this build has strong all-round performance with great endurance, power and speed, and reasonable damage output.  The Missile variant is also particularly useful for clearing the Banshee skimmer-type missile launchers from Spire sites.  
+The Krait can fit 3x Large and 2x Medium Enchanced AX Multi-Cannons (for Scouts) or Missile Racks (for Orthrus).  It can also be useful to swap 1x Medium rail for a Thermal Vent Beam Laser, for tagging Orthrus targets at range.  the Krait has high mobility to keep targets in range or disengage.  Overall, this build has strong all-round performance with great endurance, power and speed, and reasonable damage output.  The Missile variant is also particularly useful for clearing the Banshee skimmer-type missile launchers from Spire sites.  
 
 - Speed: ⭐⭐⭐⭐⭐
 - Agility: ⭐⭐⭐⭐
