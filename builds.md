@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-05-23T15:23:21.748Z
+date: 2024-05-23T15:24:10.509Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -369,11 +369,11 @@ And you’re good to go!
 
 
 ### Anaconda (Shielded)
-![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
+![anaconda.png](/img/anaconda.png =250x){.align-right}
 #### **Krait Mk.II**
 
 - CMDR Mechan's famous "CytoPlasmaConda" build is designed to very effectively strip Orthrus shields.
-- Requires access to the Cytoscrambler lasers, a PowerPlay module from Archon Delaine
+- Requires access to the Cytoscrambler lasers, a PowerPlay module from Archon Delaine.
 - Vulnerable to  Anti-Guardian Fields so again, Auto-Field Maintenance Units are mandatory.
 
 [**CytoPlasmaConda Build**](https://edsy.org/s/vAwT5K6)
