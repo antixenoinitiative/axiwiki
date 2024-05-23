@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-05-23T15:45:47.260Z
+date: 2024-05-23T15:46:58.757Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -345,7 +345,7 @@ And you’re good to go!
 # Spire Builds
 Thargoid Spire sites are low-threat conflict zones where Orthrus-type interceptors come and go regularly.  Combat in Spire sites assists with the recapturing of systems from Titans.  When engaged, Orthrus will summon packs of Scouts, and occasionally a Cyclops, to defend them.  Combat bonds for Orthrus kills are especially high (currently 40 million credits but imminently dropping to 15 million).
 
-As with all Thargoid ships, due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Orthrus have a particularly strong shield, and will fire both a shutdown field, and an anti-Guardian field, when engaged.  The shutdown field can be countered with a Shutdown Field Neutraliser.  The anti-Guardian field immediately starts eroding the guardian moduesl and weapons of its target, and cannot be countered.  This means when weapons are subjected to the anti-Guardian field, the CMDR is in a race against time to destroy the Orthrus before their weapons completely fial.  
+As with all Thargoid ships, due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Orthrus have a particularly strong shield, and will fire both a shutdown field, and an anti-Guardian field, when engaged.  The shutdown field can be countered with a Shutdown Field Neutraliser.  The anti-Guardian field immediately starts eroding the guardian modules and weapons of its target, and cannot be countered.  This means when weapons are subjected to the anti-Guardian field, the CMDR is in a race against time to destroy the Orthrus before their weapons completely fial.  
 
 ## Extra Modules Suggested
 - **Caustic Sink Launcher** - Thargoids emit caustic clouds when they die, and taking caustic damage is inevitable.
