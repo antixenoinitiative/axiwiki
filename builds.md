@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-05-23T15:41:48.128Z
+date: 2024-05-23T15:45:47.260Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -27,7 +27,7 @@ In addition, there are many different AX activities, and the builds for them can
 - **AXCZ Builds** - These builds are solo builds with various modifications to make them better suited for fighting in groups. Group AX presents a few hazards which usually aren't seen in solo fights.
 - **Maelstrom Builds** - Heavily specialized for combat in the most extreme locations - where caustic clouds are thick, staying undetected is paramount, and guardian tech is useless. These build have the same base hull configuration as Solo Builds, but share little else.
 - **Scout Builds** - Like shooting fish in a barrel, Thargoid Scouts put up little resistance to a few Enhanced AXMCs.
-- **Spire Builds** - Even more like shooting fish in a barrel, Thargoid Spire sites are very low intensity combat zones where Cyclops interceptors and Scouts occasionally spawn, and where Orthrus interceptors are found in large numbers.  Builds for Spire sites are designed for maximums shield damage to Orthrus.
+- **Spire Builds** - Even more like shooting fish in a barrel, Thargoid Spire sites are very low intensity combat zones where Cyclops interceptors and Scouts occasionally spawn, and where Orthrus interceptors are found in large numbers.  Builds for Spire sites are designed for maximum shield damage to Orthrus.
 
 
 > Please see our [Ship Build Theory](/en/shipbuildtheory) page for a more in-depth explanation on AX ship building.
