@@ -2,7 +2,7 @@
 title: Empfohlene Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2023-11-17T13:09:57.593Z
+date: 2024-05-23T10:06:33.866Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -26,6 +26,7 @@ In addition, there are many different AX activities, and the builds for them can
 - **AXCZ Builds** - These builds are solo builds with various modifications to make them better suited for fighting in groups. Group AX presents a few hazards which usually aren't seen in solo fights.
 - **Maelstrom Builds** - Heavily specialized for combat in the most extreme locations - where caustic clouds are thick, staying undetected is paramount, and guardian tech is useless. These build have the same base hull configuration as Solo Builds, but share little else.
 - **Scout Builds** - Like shooting fish in a barrel, Thargoid Scouts put up little resistance to a few Enhanced AXMCs.
+- **Spire Builds** - Even more like shooting fish in a barrel, Thargoid Spire sites are very low intensity combat zones where Cyclops interceptors and Scouts occasionally spawn, and where Orthrus interceptors are found in large numbers.  Builds for Spire sites are designed for maximums shield damage to Orthrus.
 
 
 > Please see our [Ship Build Theory](/en/shipbuildtheory) page for a more in-depth explanation on AX ship building. 
@@ -137,7 +138,7 @@ AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https
 
 ### Imperial Cutter (Schild)
 !\[imperial-cutter.png\](/img/imperial-cutter.png =250x){.align-right}
-#### **Imperial Cutter (Schild)**
+#### **Imperial Cutter (Shielded)**
 
 If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
 
