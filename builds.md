@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-05-23T15:31:26.644Z
+date: 2024-05-23T15:40:53.171Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -342,6 +342,24 @@ And you’re good to go!
 
 [**Type-10 Build**](https://edsy.org/s/vsBBqw3)
 
+# Spire Builds
+Thargoid Spire sites are low-threat conflict zones where Orthrus-type interceptors come ond go regularly.  Combat in Spire sites assists with the recapturing of systems from Titans.  When engaged, Orthrus will summon packs of Scouts, and occaisonally a Cyclops, to defend them.  Combat bonds for Orthrus kills are especially high (currently 40 million credits but imminently dorpping to 15 million).
+
+As with all Thargoid ships, due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Orthrus have a particularly strong shield, and will fire both a shutdown field, and an anti-Guardian field, when engaged.  The shutdown field can be countered with a Shutdown Field Neutraliser.  The anti-Guardian field immediately starts eroding the guardian moduesl and weapons of its target, and cannot be countered.  This means when weapons are subjected to the anti-Guardian field, the CMDR is in a race against time to destroy the Orthrus before their weapons completely fial.  
+
+## Extra Modules Suggested
+- **Caustic Sink Launcher** - Thargoids emit caustic clouds when they die, and taking caustic damage is inevitable.
+- **Shutdown Field Neutraliser** - For countering the shutdown field emitted by Orthrus and Cyclops on engagement.  
+- **Hull Reinforcements** - Thargoids attacks phase through shields, meaning you need a strong hull to withstand their attacks.
+
+The general premise of Spire site builds is to create a ship which can survive in the caustic environment without resupplying.  this means:
+
+- Decent Hull
+- Strong damage to all Thargoid ship types 
+- Ability to remove caustic damage
+- Self-repair functionality
+
+
 ## Spire Builds
 
 ## tabset {.tabset}
@@ -350,7 +368,7 @@ And you’re good to go!
 ![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
 #### **Krait Mk.II**
 
-The Krait can fit 3x Large and 2x Medium Enchanced AX Multi-Cannons (for Scouts) or Missile Racks (for Orthrus).  It can also be useful to swap 1x Medium rail for a Thermal Vent Beam Laser, for tagging Orthrus targets at range.  the Krait has high mobility to keep targets in range or disengage.  Overlal, this build has strong all-round performance with great endurance, power and speed, and reasonable damage output.
+The Krait can fit 3x Large and 2x Medium Enchanced AX Multi-Cannons (for Scouts) or Missile Racks (for Orthrus).  It can also be useful to swap 1x Medium rail for a Thermal Vent Beam Laser, for tagging Orthrus targets at range.  the Krait has high mobility to keep targets in range or disengage.  Overlal, this build has strong all-round performance with great endurance, power and speed, and reasonable damage output.  The Missile variant is also particularly useful for clearing the Banshee skimmer-type missile launchers from Spire sites.  
 
 - Speed: ⭐⭐⭐⭐⭐
 - Agility: ⭐⭐⭐⭐
