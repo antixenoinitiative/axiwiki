@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-05-23T15:46:58.757Z
+date: 2024-05-23T15:47:57.448Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -406,7 +406,7 @@ CMDR Mechan's famous "CytoPlasmaConda" build is designed to very effectively str
 - Armour: ⭐⭐⭐⭐⭐
 - Firepower: ⭐⭐⭐⭐⭐
 
-Recommendation: Not very agile but huge samage output; requires some finesse, especially for escaping interdictions.
+Recommendation: Not very agile but huge damage output; requires some finesse, especially for escaping interdictions.
 
 [**CytoPlasmaConda Build**](https://edsy.org/s/vAwT5K6)
 
