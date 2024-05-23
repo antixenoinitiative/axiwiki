@@ -2,7 +2,7 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2024-05-23T10:06:33.866Z
+date: 2024-05-23T15:31:26.644Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -335,4 +335,55 @@ And you’re good to go!
 - Some people just really like flying this ship, for some reason. So here it is.
 
 [**Type-10 Build**](https://edsy.org/s/vsBBqw3)
+
+## Spire Builds
+
+## tabset {.tabset}
+
+### Krait Mk.II (Shieldless Missiles)
+!\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
+#### **Krait Mk.II**
+
+The Krait can fit 3x Large and 2x Medium Enchanced AX Multi-Cannons (for Scouts) or Missile Racks (for Orthrus).  It can also be useful to swap 1x Medium rail for a Thermal Vent Beam Laser, for tagging Orthrus targets at range.  the Krait has high mobility to keep targets in range or disengage.  Overlal, this build has strong all-round performance with great endurance, power and speed, and reasonable damage output.
+
+- Speed: ⭐⭐⭐⭐⭐
+- Agility: ⭐⭐⭐⭐
+- Armour: ⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐
+
+Recommendation: A great entry-level ship for Spire AX.
+
+[**Shieldless Krait Missile Bomber Build**](https://edsy.org/s/vdWleXw)
+
+### Krait Mk.II (Shieldless Guardian)
+!\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
+#### **Krait Mk.II**
+
+This build is very similar to the entry-level Missiles/Multi-cannons build but with enhanced engineering on the power plant to drive powerful Guardian weapons.  Modified Guardian plasma chargers and shard cannons are highly effective against Orthrus shields, albeit vulnerable to Anti-Guardian Fields.  Auto-Field Maintenance Units are therefore mandatory for these build types.
+
+- Speed: ⭐⭐⭐⭐⭐
+- Agility: ⭐⭐⭐⭐
+- Armour: ⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐
+
+Recommendation: Agile and packs a punch, and strong enough to go toe-to-toe with Cyclops.
+
+[**Shieldless Krait Guardian Weapons Build**](https://edsy.org/s/vNSpM8O)
+
+
+### Anaconda (Shielded)
+!\[anaconda.png\](/img/anaconda.png =250x){.align-right}
+#### **Krait Mk.II**
+
+CMDR Mechan's famous "CytoPlasmaConda" build is designed to very effectively strip Orthrus shields.  Building this ship equires access to the Cytoscrambler lasers, a PowerPlay module from Archon Delaine.  slow but extremely powerful, it is also vulnerable to  Anti-Guardian Fields so again, Auto-Field Maintenance Units are mandatory.
+
+- Speed: ⭐⭐
+- Agility: ⭐⭐⭐
+- Armour: ⭐⭐⭐⭐⭐
+- Firepower: ⭐⭐⭐⭐⭐
+
+Recommendation: Not very agile but huge samage output; requires some finesse, especially for escaping interdictions.
+
+[**CytoPlasmaConda Build**](https://edsy.org/s/vAwT5K6)
+
 
