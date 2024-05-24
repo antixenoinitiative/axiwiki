@@ -2,7 +2,7 @@
 title: Construcciones Recomendadas
 description: Recommended Anti-Xeno Ship Builds
 published: verdadero
-date: 2024-05-24T18:28:16.774Z
+date: 2024-05-24T19:37:15.378Z
 tags: construcciones
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -228,13 +228,13 @@ A collection of more advanced builds can be found on the Advanced Builds page.
 View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
 
 # Titan Builds
-Titan Maelstroms contain an anti-guardian field and large caustic zones.  Specialized ships are required to be effective in these operating conditions, and Guardian internal modules will be destroyed; Guardian weapons (but not modules)  can, however, be engineered to avoid this. These are modifications of other meta ships, designed to either strike directly at the titan itself, or to provide combat interdiciton to Thargoid Scouts or Interceptors in Titan space, with various specific modifications.
+Titan Maelstroms contain an anti-guardian field and large caustic zones.  Specialized ships are required to be effective in these operating conditions, and Guardian internal modules will be destroyed; Guardian weapons (but not modules)  can, however, be engineered to avoid this. These are modifications of other meta ships, designed to either strike directly at the Titan itself, or to provide combat interdiciton to Thargoid Scouts or Interceptors in Titan space, with various specific modifications.
 
 ## Extra Modules Suggested
 - **Caustic Sink Launcher** - Protects you from the caustic clouds and missiles present in Maelstrom combat.
-- **Thargoid Pulse Neutraliers** - Required for passing into the center of a Maelstrom, these also act against Interceptor shutdown pulses.
+- **Thargoid Pulse Neutralizers** - Required for passing into the center of a Maelstrom, these also act against Interceptor shutdown pulses.
 - **Thermal Vent engineered Beam Lasers** - These enable cold running in combat, reducing the likelihood and accuracy of incoming fire.
-- **Nanite Torpedo Launcher** - This torpedo launcher can damage the thermal vents on thew dorsal side of the titan, causing the Titan to expose its thermal core, which enables damage to the Titan itself.
+- **Nanite Torpedo Launcher** - This torpedo launcher can damage the thermal vents on the dorsal side of the Titan, causing the Titan to expose its thermal core, which enables damage to the Titan itself.
 
 ## Titan Builds
 
@@ -258,7 +258,7 @@ The Krait Mk.II is the workhorse of the Second Thargoid War, offering substantia
 
 A Fighter variant of the Titankiller Bomber Krait.
 
-- Armaments: 3x class 3 and 1x class 2 AX Multi-Cannons - Azimuth Enhanced AX Multi-Cannons are incredibly effective but generate significant heat, and are expensive to purchase; Enhanced AX Multi-Cannons, purchased from Rescue Megaships are a very acceptable alternative, and Guardian Shard Cannons with ant-Guardian field engineering are also a highly powerful alternative
+- Armaments: 3x class 3 and 1x class 2 AX Multi-Cannons - Azimuth Enhanced AX Multi-Cannons are incredibly effective but generate significant heat, and are expensive to purchase; Enhanced AX Multi-Cannons, purchased from Rescue Megaships are a very acceptable alternative, and Guardian Shard Cannons with anti-Guardian field engineering are also a highly powerful alternative
 - 1x class 2 gimballed beam laser with Long Range and Thermal Vent
 - Speed: 323/s, 547m/s boost
 
@@ -266,9 +266,9 @@ A Fighter variant of the Titankiller Bomber Krait.
 
 ### Python Mk.II Fighter (Shielded)
 
-The newly introduced Python Mk II offers a very fast, stealthy platform with excellent hardpoints but limited internals.  This is a high-risk but very agile ship, with a turreted pulse laser which regerates a wingmate's shields.  This ships is designed for co-operative wing flight, and relies on a Wingmate to bring a Nanite Torpedo Launcher.  As with the Krait builds, the Missile Racks could be swapped for Multi-Cannons, or Guardian Shard Cannons with anti-Guardian engienering, to create a Fighter variant.
+The newly introduced Python Mk II offers a very fast, stealthy platform with excellent hardpoints but limited internals.  This is a high-risk but very agile ship, with a turreted pulse laser which regerates a wingmate's shields.  This ship is designed for co-operative wing flight, and relies on a Wingmate to bring a Nanite Torpedo Launcher.  As with the Krait builds, the Missile Racks could be swapped for Multi-Cannons, or Guardian Shard Cannons with anti-Guardian engineering, to create a Fighter variant.
 
-- Armaments: 4x class 3 AX Missile Racks (Enhanced AX Misssle Racks are in the build but Sirius AX Missile Racks are the most effective)
+- Armaments: 4x class 3 AX Missile Racks - Enhanced AX Misssle Racks are in the build but Sirius AX Missile Racks are the most effective
 - 1x class 2 gimballed beam laser with Long Range and Thermal Vent
 - 1x class 2 turreted pulse laser with Long Range and Concordant Sequence for wingmate shield generation
 - Speed: 346/s, 502m/s boost
@@ -365,7 +365,7 @@ The general premise of Spire site builds is to create a ship which can survive i
 !\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
 #### **Krait Mk.II**
 
-The Krait can fit 3x Large and 2x Medium Enchanced AX Multi-Cannons (for Scouts) or Missile Racks (for Orthrus).  It can also be useful to swap 1x Medium rail for a Thermal Vent Beam Laser, for tagging Orthrus targets at range.  the Krait has high mobility to keep targets in range or disengage.  Overall, this build has strong all-round performance with great endurance, power and speed, and reasonable damage output.  The Missile variant is also particularly useful for clearing the Banshee skimmer-type missile launchers from Spire sites.
+The Krait can fit 3x Large and 2x Medium Enchanced AX Multi-Cannons (for Scouts) or Missile Racks (for Orthrus).  It can also be useful to swap 1x class 2 hardpoint for a Thermal Vent Beam Laser, for tagging Orthrus targets at range.  The Krait has high mobility to keep targets in range or disengage.  Overall, this build has strong all-round performance with great endurance, power and speed, and reasonable damage output.  The Missile variant is also particularly useful for clearing the Banshee skimmer-type missile launchers from Spire sites.
 
 - Speed: ⭐⭐⭐⭐⭐
 - Agility: ⭐⭐⭐⭐
