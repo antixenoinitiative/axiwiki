@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-05-24T19:34:10.173Z
+date: 2024-05-24T19:35:12.607Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -269,7 +269,7 @@ A Fighter variant of the Titankiller Bomber Krait.
 
 ### Python Mk.II Fighter (Shielded)
 
-The newly introduced Python Mk II offers a very fast, stealthy platform with excellent hardpoints but limited internals.  This is a high-risk but very agile ship, with a turreted pulse laser which regerates a wingmate's shields.  This ships is designed for co-operative wing flight, and relies on a Wingmate to bring a Nanite Torpedo Launcher.  As with the Krait builds, the Missile Racks could be swapped for Multi-Cannons, or Guardian Shard Cannons with anti-Guardian engienering, to create a Fighter variant.  
+The newly introduced Python Mk II offers a very fast, stealthy platform with excellent hardpoints but limited internals.  This is a high-risk but very agile ship, with a turreted pulse laser which regerates a wingmate's shields.  This ship is designed for co-operative wing flight, and relies on a Wingmate to bring a Nanite Torpedo Launcher.  As with the Krait builds, the Missile Racks could be swapped for Multi-Cannons, or Guardian Shard Cannons with anti-Guardian engienering, to create a Fighter variant.  
 
 - Armaments: 4x class 3 AX Missile Racks (Enhanced AX Misssle Racks are in the build but Sirius AX Missile Racks are the most effective)
 - 1x class 2 gimballed beam laser with Long Range and Thermal Vent
