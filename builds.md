@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-05-24T18:18:41.969Z
+date: 2024-05-24T18:20:57.312Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -276,7 +276,6 @@ The newly introduced Python Mk II offers a very fast, stealthy platform with exc
 
 [TitanKiller Python Mk II Build](https://edsy.org/s/vXPPM0J)
 
-https://edsy.org/s/vXPPM0J
 
 # Scout Builds
 Hunting scouts is an efficient method to increase combat rank. This is because all scouts are considered dangerous or deadly targets and will give a lot of experience per kill. Scout killers also hold a valuable role in Anti-Xeno Conflict Zones.
