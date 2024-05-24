@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-05-24T18:37:11.892Z
+date: 2024-05-24T18:38:28.274Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -261,7 +261,7 @@ The Krait Mk.II is the workhorse of the Second Thargoid War, offering substantia
 
 A Fighter variant of the Titankiller Bomber Krait.
 
-- Armaments: 3x class 3 and 1x class 2 AX Multi-Cannons - Azimuth Enhanced AX Multi-Cannons are incredibly effective but generate significant heat, and are expensive to purchase; Enhanced AX Multi-Cannons, purchased from Rescue Megaships are a very acceptable alternative, and Guardian Shard Cannons with ant-Guardian field engineering are also a highly powerful alternative
+- Armaments: 3x class 3 and 1x class 2 AX Multi-Cannons - Azimuth Enhanced AX Multi-Cannons are incredibly effective but generate significant heat, and are expensive to purchase; Enhanced AX Multi-Cannons, purchased from Rescue Megaships are a very acceptable alternative, and Guardian Shard Cannons with anti-Guardian field engineering are also a highly powerful alternative
 - 1x class 2 gimballed beam laser with Long Range and Thermal Vent
 - Speed: 323/s, 547m/s boost
 
