@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-05-24T18:20:57.312Z
+date: 2024-05-24T18:28:16.774Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -231,13 +231,15 @@ A collection of more advanced builds can be found on the Advanced Builds page.
 View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
 
 # Titan Builds
-Titan Maelstroms contain an anti-guardian field and large caustic zones.  Specialized ships are required to be effective in these operating conditions, and Guardian internal modules will be destroyed; Guardian weapons (but not modules)  can, however, be engineered to avoid this. These are modifications of other meta ships, designed to either strike directly at the titan itself, or to provide combat interdiciton to Thargoid Scouts or Interceptors in Titan space, with various specific modifications:
+Titan Maelstroms contain an anti-guardian field and large caustic zones.  Specialized ships are required to be effective in these operating conditions, and Guardian internal modules will be destroyed; Guardian weapons (but not modules)  can, however, be engineered to avoid this. These are modifications of other meta ships, designed to either strike directly at the titan itself, or to provide combat interdiciton to Thargoid Scouts or Interceptors in Titan space, with various specific modifications.
+
+## Extra Modules Suggested
 - **Caustic Sink Launcher** - Protects you from the caustic clouds and missiles present in Maelstrom combat.
 - **Thargoid Pulse Neutraliers** - Required for passing into the center of a Maelstrom, these also act against Interceptor shutdown pulses.
 - **Thermal Vent engineered Beam Lasers** - These enable cold running in combat, reducing the likelihood and accuracy of incoming fire.
 - **Nanite Torpedo Launcher** - This torpedo launcher can damage the thermal vents on thew dorsal side of the titan, causing the Titan to expose its thermal core, which enables damage to the Titan itself.  
 
-
+## Titan Builds
 
 ## Tabset {.tabset}
 
