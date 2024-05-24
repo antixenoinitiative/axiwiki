@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-05-24T19:33:35.839Z
+date: 2024-05-24T19:33:58.817Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -237,7 +237,7 @@ Titan Maelstroms contain an anti-guardian field and large caustic zones.  Specia
 - **Caustic Sink Launcher** - Protects you from the caustic clouds and missiles present in Maelstrom combat.
 - **Thargoid Pulse Neutralizers** - Required for passing into the center of a Maelstrom, these also act against Interceptor shutdown pulses.
 - **Thermal Vent engineered Beam Lasers** - These enable cold running in combat, reducing the likelihood and accuracy of incoming fire.
-- **Nanite Torpedo Launcher** - This torpedo launcher can damage the thermal vents on thew dorsal side of the titan, causing the Titan to expose its thermal core, which enables damage to the Titan itself.  
+- **Nanite Torpedo Launcher** - This torpedo launcher can damage the thermal vents on the dorsal side of the titan, causing the Titan to expose its thermal core, which enables damage to the Titan itself.  
 
 ## Titan Builds
 
