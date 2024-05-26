@@ -2,7 +2,7 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2024-05-24T19:37:15.378Z
+date: 2024-05-26T03:13:54.577Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -263,17 +263,6 @@ A Fighter variant of the Titankiller Bomber Krait.
 - Speed: 323/s, 547m/s boost
 
 [TitanKiller Fighter Build](https://edsy.org/s/v8shXsd)
-
-### Python Mk.II Fighter (Shielded)
-
-The newly introduced Python Mk II offers a very fast, stealthy platform with excellent hardpoints but limited internals.  This is a high-risk but very agile ship, with a turreted pulse laser which regerates a wingmate's shields.  This ship is designed for co-operative wing flight, and relies on a Wingmate to bring a Nanite Torpedo Launcher.  As with the Krait builds, the Missile Racks could be swapped for Multi-Cannons, or Guardian Shard Cannons with anti-Guardian engineering, to create a Fighter variant.
-
-- Armaments: 4x class 3 AX Missile Racks - Enhanced AX Misssle Racks are in the build but Sirius AX Missile Racks are the most effective
-- 1x class 2 gimballed beam laser with Long Range and Thermal Vent
-- 1x class 2 turreted pulse laser with Long Range and Concordant Sequence for wingmate shield generation
-- Speed: 346/s, 502m/s boost
-
-[TitanKiller Python Mk II Build](https://edsy.org/s/vXPPM0J)
 
 
 # Scout Builds
