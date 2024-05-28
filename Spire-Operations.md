@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T09:16:03.941Z
+date: 2024-05-28T09:16:16.607Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -112,6 +112,6 @@ the target posing the greatest challenge should be taken first, and after that, 
 
 -   **Cyclops** - The shutdown field on spawn,and on the destruction of its third heart, is a nuisance and can cause fall damage in a high gravity envirnment, as well as rendering its target very vulnerable to attack.  If a cyclops is on the field it is everyone's priority to destroy.
     
--   **Scouts** - these can do fair damage in numbers, as well as firing caustic missiles and destroying repair limpets.  They should be cleared out regularly.  
+-   **Scouts** - These can do fair damage in numbers, as well as firing caustic missiles and destroying repair limpets.  They should be cleared out regularly.  
 
 -   **Orthrus** - With no offensive capability these should be the last target, but beware of triggering shutdown fields and anti-guardian fields by getting too close to outbound orthrus whilst fighting other thargoids.
