@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T09:16:27.092Z
+date: 2024-05-28T09:16:51.157Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -11,7 +11,7 @@ dateCreated: 2024-05-28T07:24:13.337Z
 # Spire Operations
 Spires are planetside structures in specific thargoid controlled systems, guarded by Banshee skimmers (which fire pulse missiles at ships within a few kilometers), and featuring frequent Orthrus class interceptors launching from and descending to the structures.
 
-## Why do we go there?
+## Why should I go there?
 
 Spire operations offer great synergy for personal benefit and for the wider thargoid war effort.
    
