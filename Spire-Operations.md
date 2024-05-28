@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T09:22:07.087Z
+date: 2024-05-28T09:23:13.597Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -41,7 +41,7 @@ Like any military logistics base, spire sites are patrolled and guarded by a var
 
 -   **Orthrus** - A thargoid logistics ship, used to transporting resources and other general support activities. Whilst they have no direct offensive capabilities, their defensive shutdown fields and anti-guardian fields can be disruptive.  
 
--   **Cyclops** - Cyclops can occasionally be summoned y an under-attack orthrus instead of a pack of scouts.
+-   **Cyclops** - Cyclops can occasionally be summoned by an under-attack orthrus instead of a pack of scouts.
 
 -   **Basilisk** - A basilisk can spawn if someone is undertaking spire sabotage.
 
