@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T09:23:13.597Z
+date: 2024-05-28T09:23:38.812Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -49,7 +49,7 @@ Like any military logistics base, spire sites are patrolled and guarded by a var
 
 > Please see our [thargoids](/en/thargoids) page for a more in-depth explanation thargoid craft types.
 
-## "inbound" and "outbound" orthrus - what's the difference?
+## "Inbound" and "outbound" orthrus - what's the difference?
 
 Orthrus are called “inbound” and “outbound” because they either spawn in and head into, or spawn from inside of, the main spire.  Although all orthrus use the same defensive status effects, the way in which they use them, and the timing, changes.  This is important because in large groups, high gravity environments, or mid-fight with a cyclops, an unexpected shutdown or anti-guardian field can have an adverse effect on many CMDRs at the same time.
 
