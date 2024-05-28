@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T08:47:21.378Z
+date: 2024-05-28T08:47:53.094Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -55,7 +55,7 @@ Orthrus are called “inbound” and “outbound” because they either spawn in
 
 -  **Inbound** - These spawn in via a frame shift wake, which looks like a black cloud.  They are not ordinarily hostile on sensors if you are more than 2km away, although can be if you are closer when they spawn.  They will patrol around the area a little while before eventually heading into the Spire.  When they make the decision to head into the Spire they are called “runners” (see below).
 
--  **Runners** - Are inbound orthrus who are about to dock in the main spire.  They can be identified by their heading to one of the cardinal points in line with the spire portals at an altitude of about 6k, and making fine course corrections.  Running orthrus will not trigger their shutdown or anti-Guardian fields when engaged, and can be rammed off course with sufficient mass and speed, to prevent them docking in the Spire.  When rammed, their petals flash red, and their AI appears to interrupt for around 20 seconds.  This gives CMDRs free time to do lots of damage.  
+-  **Runners** - Are inbound orthrus who are about to dock in the main spire.  They can be identified by their heading to one of the cardinal points in line with the spire portals at an altitude of about 6km, and making fine course corrections.  Running orthrus will not trigger their shutdown or anti-Guardian fields when engaged, and can be rammed off course with sufficient mass and speed, to prevent them docking in the Spire.  When rammed, their petals flash red, and their AI appears to interrupt for around 20 seconds.  This gives CMDRs free time to do lots of damage.  
 
 -  **Outbound** - These spawn from the portals on the main Spire, which will open and glow yellow when an outbound orthrus is about to exit.  Outbound orthrus Will head to about 10km altitude and wake out of the site.  They are hostile on sensors and will “proximity aggro” if they detect your ship, firing shutdown and anti-Guardian fields.  Range and ship temperature are both factors in detection.  
 
