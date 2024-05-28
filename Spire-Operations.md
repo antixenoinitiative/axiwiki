@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T09:00:41.384Z
+date: 2024-05-28T09:10:20.298Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -90,14 +90,21 @@ It's generally not possible to equip a single ship to be able to carry out all o
 
 ## Ship-based combat etiquette
 
-The general principle of ship-based combat is to destroy as many Orthrus as you can, as quickly as you can.  This is best achieved in a wing with the capability to counter any of the potential threats on-site.  This will include the following roles:
+Consensus amongst existing CMDRs has established a common etiquette for ship-based combat at spire sites, which consists of the following:
    
--   **Bomber** - A ship with anti-Xeno missiles can make short work of the banshees and their disruptive shutdown missiles, as well as providing strong damage to interceptor shields and hulls.
+-   **Use voice comms** - It's not mandatory but use of the voice channels in the Anti-Xeno Initiative Discord server vastly improves player experience and eases communication between all CMDRs present.
     
--   **Fighter** - A ship with anti-Xeno multi-cannons can effectively deal with the scouts which spawn regularly and, whilst individually a mere nusiance, can in numbers become a problem.  Fighters can also engage and destroy interceptor hearts with ease.  
+-   **Use common terms** - As well as "inbound", "outbound", "runner" and "clops", common methods used to indicate targets includes the clock ray method, taking the centre of the courtyard between the spires as the centre of the clock face, and the main spire as the 12 o'clock direction.  Alternatively, approximate bearings, also from the centre of the courtyard, is effective.  
 
--   **Heavy weapons** - A ship with a good power plant and distributor can bring guardian weapons to bear, which are particularly effective against thargoid interceptors but are vulnerable to the orthrus' anti-guardian field.  Guardian weapons need to be either engineered by Ram Tah to be able to withstand this, or you will need to bring an auto field maintenance unit to repair them from time to time.  
+-   **Laser pointing** - Beam lasers are often used to indicate the rough direction of a planned target.  Lasers shouldn't be fired on the actual target until the group is ready to engage.
 
--   **Support** - A ship with a large hold full of limpets and a repair limpet controller is always welcome at a spire site.  There is also a limited role for a ship with conconrdant and regeneration sequence lasers, as shielded builds are not common at spire sites.  
 
-It's generally not possible to equip a single ship to be able to carry out all of these roles for a sustained period of time, due to ammunition consumption.  As a consequence, spire operations are typically a wing-based activity.  
+## Target priority
+
+the target posing the greatest challenge should be taken first, and after that, the target with the least remaining time on the clock.  these should be:
+
+-   **Cyclops** - The shutdown field on spawn,and on the destruction of its third heart, is a nuisance and can cause fall damage in a high gravity envirnment, as well as rendering its target very vulnerable to attack.  If a cyclops is on the field it is everyone's priority to destroy.
+    
+-   **Scouts** - these can do fair damage in numbers, as well as firing caustic missiles and destroying repair limpets.  They should be cleared out regularly.  
+
+-   **Orthrus** - With no offensive capability these should be the last target, but beware of triggering shutdown fields and anti-guardian fields by getting too close to outbound orthrus whilst fighting other thargoids.
