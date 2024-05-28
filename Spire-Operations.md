@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T09:10:20.298Z
+date: 2024-05-28T09:14:35.721Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -93,11 +93,16 @@ It's generally not possible to equip a single ship to be able to carry out all o
 Consensus amongst existing CMDRs has established a common etiquette for ship-based combat at spire sites, which consists of the following:
    
 -   **Use voice comms** - It's not mandatory but use of the voice channels in the Anti-Xeno Initiative Discord server vastly improves player experience and eases communication between all CMDRs present.
-    
+
+-   **fly co-operatively** - spire operaitons are normally a multiplayer activity.  If present in a mutliplayer environment, be co-operative, and don't make decisions on others' behalf.  
+
+-   **Agree a common approach** - The ability to destroy an outbound orthrus, which spawns with full shields and will wake out quikcly, depends on the amount of firepower available.  Have this conversation with other CMDRs before engaging one.
+
 -   **Use common terms** - As well as "inbound", "outbound", "runner" and "clops", common methods used to indicate targets includes the clock ray method, taking the centre of the courtyard between the spires as the centre of the clock face, and the main spire as the 12 o'clock direction.  Alternatively, approximate bearings, also from the centre of the courtyard, is effective.  
 
 -   **Laser pointing** - Beam lasers are often used to indicate the rough direction of a planned target.  Lasers shouldn't be fired on the actual target until the group is ready to engage.
 
+If you're stll unsure of what to do, then ask for a wing invite in Discord, or simply just turn up and follow the lead of others. 
 
 ## Target priority
 
