@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T08:01:27.225Z
+date: 2024-05-28T08:17:00.838Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -41,7 +41,7 @@ Like any military logistics base, spire sites are patrolled and guarded by a var
 
 -   **Scout** - Scout packs will spawn in occasionally when summoned by a thargoid under attack, and also each time an interceptor wakes out after being attacked, or emits a shutdown field.
 
--   **Orthrus** - A thargoid logistics ship, used to transporting resources and other general support activities. Whilst they have no direct offensive capabilities, their defensive shutdown fields and anti-Guardian fields can be disruptive.  
+-   **Orthrus** - A thargoid logistics ship, used to transporting resources and other general support activities. Whilst they have no direct offensive capabilities, their defensive shutdown fields and anti-guardian fields can be disruptive.  
 
 -   **Cyclops** - Cyclops can occasionally be summoned y an under-attack orthrus instead of a pack of scouts.
 
@@ -50,4 +50,17 @@ Like any military logistics base, spire sites are patrolled and guarded by a var
 -   **Medusa** - A pack of medusas will spawn if a spire is completely sabotaged.
 
 > Please see our [thargoids](/en/thargoids) page for a more in-depth explanation thargoid craft types.
+
+## Ship-based combat
+
+The general principle of ship-based combat is to destroy as many Orthrus as you can, as quickly as you can.  This is best achieved in a wing with the capability to counter any of the potential threats on-site.  This will include the following roles:
+   
+-   **Bomber** - A ship with anti-Xeno missiles can make short work of the banshees and also provide strong damage to interceptor shields and hulls.
+    
+-   **Fighter** - A ship with anti-Xeno multi-cannons can effectively deal with the scouts which spawn regularly and, whilst individually a mere nusiance, can in numbers become a problem.
+
+-   **Heavy weapons** - A ship with a good power plant and distributor can bring guardian weapons to bear, which are particularly effective against thargoid interceptors but are vulnerable to the orthrus' anti-guardian field.  Guardian weapons need to be either engineered by Ram Tah to be able to withstand this, or you will need to bring an auto field maintenance unit to repair them from time to time.  
+
+-   **Support** - A ship with a large hold full of limpets and a repair limpet controller is always welcome at a spire site.  There is also a limited role for a ship with conconrdant and regeneration sequence lasers, as shielded builds are not common at spire sites.  
+
 
