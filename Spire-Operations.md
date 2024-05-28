@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T08:40:28.894Z
+date: 2024-05-28T08:41:20.428Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -77,7 +77,7 @@ The general principle of ship-based combat is to destroy as many Orthrus as you 
    
 -   **Bomber** - A ship with anti-Xeno missiles can make short work of the banshees and their disruptive shutdown missiles, as well as providing strong damage to interceptor shields and hulls.
     
--   **Fighter** - A ship with anti-Xeno multi-cannons can effectively deal with the scouts which spawn regularly and, whilst individually a mere nusiance, can in numbers become a problem.
+-   **Fighter** - A ship with anti-Xeno multi-cannons can effectively deal with the scouts which spawn regularly and, whilst individually a mere nusiance, can in numbers become a problem.  Fighters can also engage and destroy interceptor hearts with ease.  
 
 -   **Heavy weapons** - A ship with a good power plant and distributor can bring guardian weapons to bear, which are particularly effective against thargoid interceptors but are vulnerable to the orthrus' anti-guardian field.  Guardian weapons need to be either engineered by Ram Tah to be able to withstand this, or you will need to bring an auto field maintenance unit to repair them from time to time.  
 
