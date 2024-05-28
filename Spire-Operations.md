@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T07:44:38.820Z
+date: 2024-05-28T08:00:20.025Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -30,3 +30,24 @@ There are two major activities at spire sites, both of which significantly contr
 -   **Spire sabotage** - An Odyssey (on-foot) activity which requires gathering materials and taking missions from Rescue Megaships to poison parts of the four spires, destroying them and causing waves of powerful thargoid interceptors to spawn.
 
 > Please see our [thargoids](/en/thargoids) page for a more in-depth explanation thargoid craft types.
+
+## Ship-based combat basics
+
+Like any military logistics base, spire sites are patrolled and guarded by a variety of defenders.  You can expect to see some form of resistance to attack from the air and the ground.  Enemies you will encounter will normally consist of:
+   
+-   **Revenant** - A small (infantry-level) thargoid combat drone.  Revenants can be damaged with hand-held weapons.
+    
+-   **Banshee** - A thargoid surface craft, equivalent in size and capability to a human skimmer.  Eight will be present in each instance when first entered.  Banshees fire missiles which cause short-term shutdowns to human ship systems, as well as homing mines which detonate shortly after attaching, and a forward facing cannon.  They have limited flight capability and can be destroyed with ship-based and on-foot weapons.  For ship-based combat it is possible to clear out banshees from an instance and "hold it open" by ensuring the instance remains occupied by one CMDR whilst another resupplies.  Banshees will eventually respawn but only in instances which have been running for extensive periods of time (around 12 hours).
+
+-   **Scout** - Scout packs will spawn in occasionally when summoned by a thargoid under attack, and also each time an interceptor wakes out after being attacked, or emits a shutdown field.
+
+-   **Orthrus** - A thargoid logistics ship, used to transporting resources and other general support activities. Whilst they have no direct offensive capabilities, their defensive shutdown fields and anti-Guardian fields can be disruptive.  
+
+-   **Cyclops** - Cyclops can occasionally be summoned y an under-attack orthrus instead of a pack of scouts.
+
+-   **Basilisk** - A basilisk can spawn if someone is undertaking spire sabotage.
+
+-   **Medusa** - A pack of medusas will spawn if a spire is completely sabotaged.
+
+> Please see our [thargoids](/en/thargoids) page for a more in-depth explanation thargoid craft types.
+
