@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T08:17:46.699Z
+date: 2024-05-28T08:30:22.037Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -51,6 +51,18 @@ Like any military logistics base, spire sites are patrolled and guarded by a var
 
 > Please see our [thargoids](/en/thargoids) page for a more in-depth explanation thargoid craft types.
 
+## "inbound" and "outbound" orthrus - what's the difference?
+
+Orthrus are called “inbound” and “outbound” because they either spawn in and head into, or spawn from inside of, the main Spire.  Although all Orthrus use the same defensive status effects, the way in which they use them, and the timing, changes.  This is important because in large groups, high gravity environments, or mid-fight with a cyclops, an unexpected shutdown or anti-guardian field can have an adverse effect on many CMDRs at the same time.
+
+-  **Inbound** - These spawn in via a frame shift wake, which looks like a black cloud.  They are not ordinarily hostile on sensors if you are more than 2km away, although can be if you are closer when they spawn.  They will patrol around the area a little while before eventually heading into the Spire.  When they make the decision to head into the Spire they are called “runners” (see below).
+
+-  **Runners** - Are inbound orthrus who are about to dock in the main spire.  They can be identified by their heading to one of the cardinal points in line with the spire portals at an altitude of about 6k, and making fine course corrections.  Running orthrus will not trigger their shutdown or anti-Guardian fields when engaged, and can be rammed off course with sufficient mass and speed, to prevent them docking in the Spire.  When rammed, their petals flash red, and their AI appears to interrupt for around 20 seconds.  This gives CMDRs free time to do lots of damage.  
+
+-  **Outbound** - These spawn from the portals on the main Spire, which will open and glow yellow when an outbound orthrus is about to exit.  Outbound orthrus Will head to about 10km altitude and wake out of the site.  They are hostile on sensors and will “proximity aggro” if they detect your ship, firing shutdown and anti-Guardian fields.  Range and ship temperature are both factors in detection.  
+
+All orthrus interceptors will, on engaging in combat, trigger an anti-Guardian field and a shutdown field, as well as try to climb to about 10k altitude and wake out. This includes runners after their AI resets.  Orthrus can also  “panic shield”, re-shielding to 100%, when rapid burst damage is applied to their hull.  Contrary to popular belief this is not related to lasering.  
+
 ## Ship-based combat roles
 
 The general principle of ship-based combat is to destroy as many Orthrus as you can, as quickly as you can.  This is best achieved in a wing with the capability to counter any of the potential threats on-site.  This will include the following roles:
@@ -62,5 +74,4 @@ The general principle of ship-based combat is to destroy as many Orthrus as you 
 -   **Heavy weapons** - A ship with a good power plant and distributor can bring guardian weapons to bear, which are particularly effective against thargoid interceptors but are vulnerable to the orthrus' anti-guardian field.  Guardian weapons need to be either engineered by Ram Tah to be able to withstand this, or you will need to bring an auto field maintenance unit to repair them from time to time.  
 
 -   **Support** - A ship with a large hold full of limpets and a repair limpet controller is always welcome at a spire site.  There is also a limited role for a ship with conconrdant and regeneration sequence lasers, as shielded builds are not common at spire sites.  
-
 
