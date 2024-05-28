@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T08:47:53.094Z
+date: 2024-05-28T08:48:10.014Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -57,7 +57,7 @@ Orthrus are called “inbound” and “outbound” because they either spawn in
 
 -  **Runners** - Are inbound orthrus who are about to dock in the main spire.  They can be identified by their heading to one of the cardinal points in line with the spire portals at an altitude of about 6km, and making fine course corrections.  Running orthrus will not trigger their shutdown or anti-Guardian fields when engaged, and can be rammed off course with sufficient mass and speed, to prevent them docking in the Spire.  When rammed, their petals flash red, and their AI appears to interrupt for around 20 seconds.  This gives CMDRs free time to do lots of damage.  
 
--  **Outbound** - These spawn from the portals on the main Spire, which will open and glow yellow when an outbound orthrus is about to exit.  Outbound orthrus Will head to about 10km altitude and wake out of the site.  They are hostile on sensors and will “proximity aggro” if they detect your ship, firing shutdown and anti-Guardian fields.  Range and ship temperature are both factors in detection.  
+-  **Outbound** - These spawn from the portals on the main spire, which will open and glow yellow when an outbound orthrus is about to exit.  Outbound orthrus Will head to about 10km altitude and wake out of the site.  They are hostile on sensors and will “proximity aggro” if they detect your ship, firing shutdown and anti-Guardian fields.  Range and ship temperature are both factors in detection.  
 
 All orthrus interceptors will, on engaging in combat, trigger an anti-Guardian field and a shutdown field, as well as try to climb to about 10k altitude and wake out. This includes runners after their AI resets.  Orthrus can also  “panic shield”, re-shielding to 100%, when rapid burst damage is applied to their hull.  Contrary to popular belief this is not related to lasing.  
 
