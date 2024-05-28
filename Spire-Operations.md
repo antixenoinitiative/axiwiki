@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T08:30:22.037Z
+date: 2024-05-28T08:30:30.960Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -61,7 +61,7 @@ Orthrus are called “inbound” and “outbound” because they either spawn in
 
 -  **Outbound** - These spawn from the portals on the main Spire, which will open and glow yellow when an outbound orthrus is about to exit.  Outbound orthrus Will head to about 10km altitude and wake out of the site.  They are hostile on sensors and will “proximity aggro” if they detect your ship, firing shutdown and anti-Guardian fields.  Range and ship temperature are both factors in detection.  
 
-All orthrus interceptors will, on engaging in combat, trigger an anti-Guardian field and a shutdown field, as well as try to climb to about 10k altitude and wake out. This includes runners after their AI resets.  Orthrus can also  “panic shield”, re-shielding to 100%, when rapid burst damage is applied to their hull.  Contrary to popular belief this is not related to lasering.  
+All orthrus interceptors will, on engaging in combat, trigger an anti-Guardian field and a shutdown field, as well as try to climb to about 10k altitude and wake out. This includes runners after their AI resets.  Orthrus can also  “panic shield”, re-shielding to 100%, when rapid burst damage is applied to their hull.  Contrary to popular belief this is not related to lasing.  
 
 ## Ship-based combat roles
 
