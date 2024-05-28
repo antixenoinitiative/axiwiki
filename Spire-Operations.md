@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T08:17:00.838Z
+date: 2024-05-28T08:17:11.785Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -51,7 +51,7 @@ Like any military logistics base, spire sites are patrolled and guarded by a var
 
 > Please see our [thargoids](/en/thargoids) page for a more in-depth explanation thargoid craft types.
 
-## Ship-based combat
+## Ship-based combat roles
 
 The general principle of ship-based combat is to destroy as many Orthrus as you can, as quickly as you can.  This is best achieved in a wing with the capability to counter any of the potential threats on-site.  This will include the following roles:
    
