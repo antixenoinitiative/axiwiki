@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T08:00:20.025Z
+date: 2024-05-28T08:01:27.225Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -31,7 +31,7 @@ There are two major activities at spire sites, both of which significantly contr
 
 > Please see our [thargoids](/en/thargoids) page for a more in-depth explanation thargoid craft types.
 
-## Ship-based combat basics
+## Thargoids present at spire sites
 
 Like any military logistics base, spire sites are patrolled and guarded by a variety of defenders.  You can expect to see some form of resistance to attack from the air and the ground.  Enemies you will encounter will normally consist of:
    
