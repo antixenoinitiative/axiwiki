@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T09:17:44.610Z
+date: 2024-05-28T09:28:41.918Z
 tags: null
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -10,7 +10,7 @@ dateCreated: 2024-05-28T07:24:13.337Z
 
 # Spire Operations
 
-Spires are planetside structures in specific thargoid controlled systems, guarded by Banshee skimmers (which fire pulse missiles at ships within a few kilometers), and featuring frequent Orthrus class interceptors launching from and descending to the structures.
+Spires are planetside structures in specific thargoid controlled systems.  Spire operations assist in the progressing of the broader thargoid war.
 
 ## Why should I go there?
 
@@ -42,7 +42,7 @@ Like any military logistics base, spire sites are patrolled and guarded by a var
 
 - **Orthrus** - A thargoid logistics ship, used to transporting resources and other general support activities. Whilst they have no direct offensive capabilities, their defensive shutdown fields and anti-guardian fields can be disruptive.
 
-- **Cyclops** - Cyclops can occasionally be summoned y an under-attack orthrus instead of a pack of scouts.
+- **Cyclops** - Cyclops can occasionally be summoned by an under-attack orthrus instead of a pack of scouts.
 
 - **Basilisk** - A basilisk can spawn if someone is undertaking spire sabotage.
 
@@ -50,7 +50,7 @@ Like any military logistics base, spire sites are patrolled and guarded by a var
 
 > Please see our [thargoids](/en/thargoids) page for a more in-depth explanation thargoid craft types.
 
-## "inbound" and "outbound" orthrus - what's the difference?
+## "Inbound" and "outbound" orthrus - what's the difference?
 
 Orthrus are called “inbound” and “outbound” because they either spawn in and head into, or spawn from inside of, the main spire.  Although all orthrus use the same defensive status effects, the way in which they use them, and the timing, changes.  This is important because in large groups, high gravity environments, or mid-fight with a cyclops, an unexpected shutdown or anti-guardian field can have an adverse effect on many CMDRs at the same time.
 
@@ -60,7 +60,7 @@ Orthrus are called “inbound” and “outbound” because they either spawn in
 
 - **Outbound** - These spawn from the portals on the main spire, which will open and glow yellow when an outbound orthrus is about to exit.  Outbound orthrus Will head to about 10km altitude and wake out of the site.  They are hostile on sensors and will “proximity aggro” if they detect your ship, firing shutdown and anti-Guardian fields.  Range and ship temperature are both factors in detection.
 
-All orthrus interceptors' shields will gradually decay, as with all other interceptor types.  Orthrus, uniquely amongst interceptorswill fire an anti-Guardian field at tje same time as the route interceptor shutdown field when egnaged.  They will then try to climb to about 10k altitude to wake out. This includes runners after their AI resets.  Orthrus can also  “panic shield”, re-shielding to 100%, when rapid burst damage is applied to their hull.  Contrary to popular belief and misconception, this is not related to lasing an orthrus' hull.
+All orthrus interceptors' shields will gradually decay, as with all other interceptor types.  Orthrus, uniquely amongst interceptors, will fire an anti-Guardian field at the same time as the routine interceptor shutdown field, when egnaged.  They will then try to climb to about 10k altitude to wake out. This includes runners after their AI resets.  Orthrus can also  “panic shield”, re-shielding to 100%, when rapid burst damage is applied to their hull.  Contrary to popular belief and misconception, this is not related to lasing an orthrus' hull.
 
 An "inbound" orthrus will emit a call a few seconds before pulsing its shutdown and anti-guardian fields, and your ship's system information panel will also warn you of the impending threat.  "Outbound" orthrus however will often not do so, so situational awareness is important.
 
@@ -94,7 +94,7 @@ Consensus amongst existing CMDRs has established a common etiquette for ship-bas
 
 - **Use voice comms** - It's not mandatory but use of the voice channels in the Anti-Xeno Initiative Discord server vastly improves player experience and eases communication between all CMDRs present.
 
-- **fly co-operatively** - spire operaitons are normally a multiplayer activity.  If present in a mutliplayer environment, be co-operative, and don't make decisions on others' behalf.
+- **fly co-operatively** - spire operations are normally a multiplayer activity.  If present in a mutliplayer environment, be co-operative, and don't make decisions on others' behalf.
 
 - **Agree a common approach** - The ability to destroy an outbound orthrus, which spawns with full shields and will wake out quikcly, depends on the amount of firepower available.  Have this conversation with other CMDRs before engaging one.
 
