@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T07:36:24.826Z
+date: 2024-05-28T07:40:39.967Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -21,9 +21,17 @@ Spire operations offer great synergy for personal benefit and for the wider thar
 
 -   **Getting engineering materials** - Spire sabotage missions can also offer "Odyssey" (on-foot) engineering materials as rewards.
 
+## What can I do at spire sites?
 
+There are two major activities at spire sites, both of which significantly contribute to the war effort.
+   
+-   **Ship-based combat** - Destroying thargoid craft at spire sites pushes back the war front from each Titan.  You will encounter large numbers of the passive Orthtrus interceptors, as well as other craft explained in detail below.
+    
+-   **Spire sabotage** - Spire operations can offer substantial credit rewards.  Even with the reduction in combat bonds introduced in patch 18.05 reducing combat bonds from destroying Orthrus interceptors from 40 million to 15 million, it's possible to earn several hundred million credits per hour in an effective and organsied spire group. 
 
-> Please see our [In-wiki link](/en/shipbuildtheory) page for a more in-depth explanation on AX ship building.
+-   **Getting engineering materials** - Spire sabotage missions can also offer "Odyssey" (on-foot) engineering materials as rewards.
+
+> Please see our [thargoids](/en/thargoids) page for a more in-depth explanation thargoid craft types.
 
 # Header text
 In the current meta, the **Krait Mk.II is the most versatile ship**. With the ability to mount any weapon, plenty of optional internals, a massive powerplant, and good maneuverability, the Krait Mk.II is the **best all-around starter build**.
