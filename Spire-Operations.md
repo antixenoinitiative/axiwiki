@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T08:45:04.810Z
+date: 2024-05-28T08:47:21.378Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -28,8 +28,6 @@ There are two major activities at spire sites, both of which significantly contr
 -   **Ship-based combat** - Destroying thargoid craft at spire sites pushes back the war front from each Titan.  You will encounter large numbers of the passive Orthtrus interceptors, as well as other craft explained in detail below.
     
 -   **Spire sabotage** - An Odyssey (on-foot) activity which requires gathering materials and taking missions from Rescue Megaships to poison parts of the four spires, destroying them and causing waves of powerful thargoid interceptors to spawn.
-
-> Please see our [thargoids](/en/thargoids) page for a more in-depth explanation thargoid craft types.
 
 ## Thargoids present at spire sites
 
