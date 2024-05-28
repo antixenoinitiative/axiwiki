@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T08:17:11.785Z
+date: 2024-05-28T08:17:46.699Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -55,7 +55,7 @@ Like any military logistics base, spire sites are patrolled and guarded by a var
 
 The general principle of ship-based combat is to destroy as many Orthrus as you can, as quickly as you can.  This is best achieved in a wing with the capability to counter any of the potential threats on-site.  This will include the following roles:
    
--   **Bomber** - A ship with anti-Xeno missiles can make short work of the banshees and also provide strong damage to interceptor shields and hulls.
+-   **Bomber** - A ship with anti-Xeno missiles can make short work of the banshees and their disruptive shutdown missiles, as well as providing strong damage to interceptor shields and hulls.
     
 -   **Fighter** - A ship with anti-Xeno multi-cannons can effectively deal with the scouts which spawn regularly and, whilst individually a mere nusiance, can in numbers become a problem.
 
