@@ -2,7 +2,7 @@
 title: Équipements Recommandés
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-05-26T03:13:54.577Z
+date: 2024-05-28T20:13:41.817Z
 tags: équipement
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -251,7 +251,7 @@ The Krait Mk.II is the workhorse of the Second Thargoid War, offering substantia
 - Speed: 322m/s, 544m/s boost
 - Hull: 3,358
 
-[TitanKiller Bomber Build](https://edsy.org/s/vtzxOPu)
+[TitanKiller Bomber Build](https://edsy.org/s/voSTwzN)
 
 ### Krait Mk.II Fighter (Shieldless)
 !\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
