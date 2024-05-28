@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T08:30:30.960Z
+date: 2024-05-28T08:38:51.288Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -62,6 +62,14 @@ Orthrus are called “inbound” and “outbound” because they either spawn in
 -  **Outbound** - These spawn from the portals on the main Spire, which will open and glow yellow when an outbound orthrus is about to exit.  Outbound orthrus Will head to about 10km altitude and wake out of the site.  They are hostile on sensors and will “proximity aggro” if they detect your ship, firing shutdown and anti-Guardian fields.  Range and ship temperature are both factors in detection.  
 
 All orthrus interceptors will, on engaging in combat, trigger an anti-Guardian field and a shutdown field, as well as try to climb to about 10k altitude and wake out. This includes runners after their AI resets.  Orthrus can also  “panic shield”, re-shielding to 100%, when rapid burst damage is applied to their hull.  Contrary to popular belief this is not related to lasing.  
+
+An "inbound" orthrus will emit a call a few seconds before pulsing its shutdown and anti-guardian fields, and your ships system information panel will also warn you of the impending threat.  "Outbound" orthrus however will often not wail, and your ship will often not give you a warning.  
+
+## Orthrus anti-guardian fields
+
+Shutdown and anti-guardian fields are separate, despite both occurring at the same time.  A shutdown field can be countered with timely use of a shutdown field neutraliser and sufficient energy in SYS in your capacitor.  The only known counter to an anti-guardian field is to engineer weapons with Ram Tah, which reduces their damage output by 20%.  Given the strongest weapons for spire combat are the pre-engineered guardian plasma chargers, which cannot be engineered in this way, common practice is to simply accept the risk of being affected by an anti-guardian field and to equip an auto-field maintenance unit to repair weapons if (when) damaged.  
+
+It's not understood who gets targeted by the anti-guardian field or why.  Tests have disproven a link between receiving the anti-guardian field damage and doing damage to the target, as well as ship thermal signature, and proximity to the target.  the anti-guardian field has a range of about 10km radius and the only way to stop it, once it affects your ship, is to either kill the relevant orthrus or to outrange it.  
 
 ## Ship-based combat roles
 
