@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T08:38:51.288Z
+date: 2024-05-28T08:40:05.362Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -83,3 +83,5 @@ The general principle of ship-based combat is to destroy as many Orthrus as you 
 
 -   **Support** - A ship with a large hold full of limpets and a repair limpet controller is always welcome at a spire site.  There is also a limited role for a ship with conconrdant and regeneration sequence lasers, as shielded builds are not common at spire sites.  
 
+
+> Please see our [thargoids](/en/builds) page for a more in-depth explanation spire combat builds.
