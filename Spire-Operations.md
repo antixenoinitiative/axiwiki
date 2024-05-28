@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T09:23:38.812Z
+date: 2024-05-28T09:26:12.200Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -59,7 +59,7 @@ Orthrus are called “inbound” and “outbound” because they either spawn in
 
 -  **Outbound** - These spawn from the portals on the main spire, which will open and glow yellow when an outbound orthrus is about to exit.  Outbound orthrus Will head to about 10km altitude and wake out of the site.  They are hostile on sensors and will “proximity aggro” if they detect your ship, firing shutdown and anti-Guardian fields.  Range and ship temperature are both factors in detection.  
 
-All orthrus interceptors' shields will gradually decay, as with all other interceptor types.  Orthrus, uniquely amongst interceptorswill fire an anti-Guardian field at tje same time as the route interceptor shutdown field when egnaged.  They will then try to climb to about 10k altitude to wake out. This includes runners after their AI resets.  Orthrus can also  “panic shield”, re-shielding to 100%, when rapid burst damage is applied to their hull.  Contrary to popular belief and misconception, this is not related to lasing an orthrus' hull.  
+All orthrus interceptors' shields will gradually decay, as with all other interceptor types.  Orthrus, uniquely amongst interceptors, will fire an anti-Guardian field at the same time as the routine interceptor shutdown field, when egnaged.  They will then try to climb to about 10k altitude to wake out. This includes runners after their AI resets.  Orthrus can also  “panic shield”, re-shielding to 100%, when rapid burst damage is applied to their hull.  Contrary to popular belief and misconception, this is not related to lasing an orthrus' hull.  
 
 An "inbound" orthrus will emit a call a few seconds before pulsing its shutdown and anti-guardian fields, and your ship's system information panel will also warn you of the impending threat.  "Outbound" orthrus however will often not do so, so situational awareness is important.  
 
