@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T08:53:18.644Z
+date: 2024-05-28T09:00:41.384Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -59,15 +59,17 @@ Orthrus are called “inbound” and “outbound” because they either spawn in
 
 -  **Outbound** - These spawn from the portals on the main spire, which will open and glow yellow when an outbound orthrus is about to exit.  Outbound orthrus Will head to about 10km altitude and wake out of the site.  They are hostile on sensors and will “proximity aggro” if they detect your ship, firing shutdown and anti-Guardian fields.  Range and ship temperature are both factors in detection.  
 
-All orthrus interceptors will, on engaging in combat, trigger an anti-Guardian field and a shutdown field, as well as try to climb to about 10k altitude and wake out. This includes runners after their AI resets.  Orthrus can also  “panic shield”, re-shielding to 100%, when rapid burst damage is applied to their hull.  Contrary to popular belief this is not related to lasing.  
+All orthrus interceptors' shields will gradually decay, as with all other interceptor types.  Orthrus, uniquely amongst interceptorswill fire an anti-Guardian field at tje same time as the route interceptor shutdown field when egnaged.  They will then try to climb to about 10k altitude to wake out. This includes runners after their AI resets.  Orthrus can also  “panic shield”, re-shielding to 100%, when rapid burst damage is applied to their hull.  Contrary to popular belief and misconception, this is not related to lasing an orthrus' hull.  
 
-An "inbound" orthrus will emit a call a few seconds before pulsing its shutdown and anti-guardian fields, and your ships system information panel will also warn you of the impending threat.  "Outbound" orthrus however will often not wail, and your ship will often not give you a warning.  
+An "inbound" orthrus will emit a call a few seconds before pulsing its shutdown and anti-guardian fields, and your ship's system information panel will also warn you of the impending threat.  "Outbound" orthrus however will often not do so, so situational awareness is important.  
 
 ## Orthrus anti-guardian fields
 
 Shutdown and anti-guardian fields are separate, despite both occurring at the same time.  A shutdown field can be countered with timely use of a shutdown field neutraliser and sufficient energy in SYS in your capacitor.  The only known counter to an anti-guardian field is to engineer weapons with Ram Tah, which reduces their damage output by 20%.  Given the strongest weapons for spire combat are the pre-engineered guardian plasma chargers, which cannot be engineered in this way, common practice is to simply accept the risk of being affected by an anti-guardian field and to equip an auto-field maintenance unit to repair weapons if (when) damaged.  
 
 It's not understood who gets targeted by the anti-guardian field or why.  Tests have disproven a link between receiving the anti-guardian field damage and doing damage to the target, as well as ship thermal signature, and proximity to the target.  the anti-guardian field has a range of about 10km radius and the only way to stop it, once it affects your ship, is to either kill the relevant orthrus or to outrange it.  
+
+A poorly timed anti-guardian field can render a potent ship useless at an inopportune moment.  For example, if one CMDR is fighting a cyclops and another engages an orthrus, the anti-guardian field could affect the weapons being used to fight the cyclops, eventually rendering them unusuable.  The CMDR fighting the cyclops now has no defence other than to run, or rely on wingmates to finish the job.  
 
 ## Ship-based combat roles
 
@@ -84,3 +86,18 @@ The general principle of ship-based combat is to destroy as many Orthrus as you 
 It's generally not possible to equip a single ship to be able to carry out all of these roles for a sustained period of time, due to ammunition consumption.  As a consequence, spire operations are typically a wing-based activity.  
 
 > Please see our [recommended builds](/en/builds) page for a more in-depth explanation of suggested spire combat builds.
+
+
+## Ship-based combat etiquette
+
+The general principle of ship-based combat is to destroy as many Orthrus as you can, as quickly as you can.  This is best achieved in a wing with the capability to counter any of the potential threats on-site.  This will include the following roles:
+   
+-   **Bomber** - A ship with anti-Xeno missiles can make short work of the banshees and their disruptive shutdown missiles, as well as providing strong damage to interceptor shields and hulls.
+    
+-   **Fighter** - A ship with anti-Xeno multi-cannons can effectively deal with the scouts which spawn regularly and, whilst individually a mere nusiance, can in numbers become a problem.  Fighters can also engage and destroy interceptor hearts with ease.  
+
+-   **Heavy weapons** - A ship with a good power plant and distributor can bring guardian weapons to bear, which are particularly effective against thargoid interceptors but are vulnerable to the orthrus' anti-guardian field.  Guardian weapons need to be either engineered by Ram Tah to be able to withstand this, or you will need to bring an auto field maintenance unit to repair them from time to time.  
+
+-   **Support** - A ship with a large hold full of limpets and a repair limpet controller is always welcome at a spire site.  There is also a limited role for a ship with conconrdant and regeneration sequence lasers, as shielded builds are not common at spire sites.  
+
+It's generally not possible to equip a single ship to be able to carry out all of these roles for a sustained period of time, due to ammunition consumption.  As a consequence, spire operations are typically a wing-based activity.  
