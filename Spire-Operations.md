@@ -2,14 +2,14 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T09:21:56.803Z
+date: 2024-05-28T09:22:07.087Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
 ---
 
 # Spire Operations
-Spires are planetside structures in specific thargoid controlled systems.  spire operations assist in the progressing of the broader thargoid war.
+Spires are planetside structures in specific thargoid controlled systems.  Spire operations assist in the progressing of the broader thargoid war.
 
 ## Why should I go there?
 
