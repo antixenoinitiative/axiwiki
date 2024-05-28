@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-05-28T09:26:12.200Z
+date: 2024-05-28T09:28:41.918Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -94,7 +94,7 @@ Consensus amongst existing CMDRs has established a common etiquette for ship-bas
    
 -   **Use voice comms** - It's not mandatory but use of the voice channels in the Anti-Xeno Initiative Discord server vastly improves player experience and eases communication between all CMDRs present.
 
--   **fly co-operatively** - spire operaitons are normally a multiplayer activity.  If present in a mutliplayer environment, be co-operative, and don't make decisions on others' behalf.  
+-   **fly co-operatively** - spire operations are normally a multiplayer activity.  If present in a mutliplayer environment, be co-operative, and don't make decisions on others' behalf.  
 
 -   **Agree a common approach** - The ability to destroy an outbound orthrus, which spawns with full shields and will wake out quikcly, depends on the amount of firepower available.  Have this conversation with other CMDRs before engaging one.
 
