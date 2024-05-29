@@ -2,7 +2,7 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2024-05-29T10:51:43.421Z
+date: 2024-05-29T12:11:33.821Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -44,7 +44,7 @@ In the current meta, the **Krait Mk.II is the most versatile ship**. With the ab
 
 The shieldless Krait is a tried and true powerhouse. The Krait's massive distributor and numerous hardpoints allow it to mount four of any AX weapon effectively. This build is designed specifically for solo fights, and is lacking in coutermeasures against caustic and shutdown fields (which can be avoided solo).
 
-[Solo Krait Mk.II Build](https://edsy.org/s/vCQdCXb)
+[Solo Krait Mk.II Build](https://edsy.org/s/vFVqNg3)
 
 ### AXCZ Krait Mk.II
 !\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
@@ -130,7 +130,7 @@ Recommendation: Great for modified shard cannons and plasma chargers.
 
 Engineering Note: When downsizing the powerplant for extra weight reduction, power limits will require more engineering to keep everything running. Check EDSY for minimum engineering based on your specific build.
 
-[EDSY Shieldless Build](https://edsy.org/s/vCQdCXb)
+[EDSY Shieldless Build](https://edsy.org/s/vFVqNg3)
 
 
 AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
