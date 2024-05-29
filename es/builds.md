@@ -2,7 +2,7 @@
 title: Construcciones Recomendadas
 description: Recommended Anti-Xeno Ship Builds
 published: verdadero
-date: 2024-05-28T20:13:41.817Z
+date: 2024-05-29T10:51:43.421Z
 tags: construcciones
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -44,7 +44,7 @@ In the current meta, the **Krait Mk.II is the most versatile ship**. With the ab
 
 The shieldless Krait is a tried and true powerhouse. The Krait's massive distributor and numerous hardpoints allow it to mount four of any AX weapon effectively. This build is designed specifically for solo fights, and is lacking in coutermeasures against caustic and shutdown fields (which can be avoided solo).
 
-[Solo Krait Mk.II Build](https://edsy.org/s/vNkUQao)
+[Solo Krait Mk.II Build](https://edsy.org/s/vCQdCXb)
 
 ### AXCZ Krait Mk.II
 !\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
@@ -130,13 +130,12 @@ Recommendation: Great for modified shard cannons and plasma chargers.
 
 Engineering Note: When downsizing the powerplant for extra weight reduction, power limits will require more engineering to keep everything running. Check EDSY for minimum engineering based on your specific build.
 
-[EDSY Shieldless Build](https://edsy.org/s/vibIYZZ)
+[EDSY Shieldless Build](https://edsy.org/s/vCQdCXb)
 
-[Coriolis Shieldless Build](https://s.orbis.zone/l_or)
 
 AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
-### Imperial Cutter (Escudo)
+### Imperial Cutter (Shielded)
 !\[imperial-cutter.png\](/img/imperial-cutter.png =250x){.align-right}
 #### **Imperial Cutter (Shielded)**
 
