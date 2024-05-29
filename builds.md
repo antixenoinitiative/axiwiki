@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-05-29T10:48:54.763Z
+date: 2024-05-29T10:51:43.421Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -132,9 +132,8 @@ Recommendation: Great for modified shard cannons and plasma chargers.
 
 Engineering Note: When downsizing the powerplant for extra weight reduction, power limits will require more engineering to keep everything running. Check EDSY for minimum engineering based on your specific build.
 
-[EDSY Shieldless Build](https://edsy.org/s/vibIYZZ)
+[EDSY Shieldless Build](https://edsy.org/s/vCQdCXb)
 
-[Coriolis Shieldless Build](https://s.orbis.zone/l_or)
 
 AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
