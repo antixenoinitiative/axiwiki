@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-05-28T20:13:41.817Z
+date: 2024-05-29T10:48:54.763Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -44,7 +44,7 @@ In the current meta, the **Krait Mk.II is the most versatile ship**. With the ab
 
 The shieldless Krait is a tried and true powerhouse. The Krait's massive distributor and numerous hardpoints allow it to mount four of any AX weapon effectively. This build is designed specifically for solo fights, and is lacking in coutermeasures against caustic and shutdown fields (which can be avoided solo).
 
-[Solo Krait Mk.II Build](https://edsy.org/s/vNkUQao)
+[Solo Krait Mk.II Build](https://edsy.org/s/vCQdCXb)
 
 ### AXCZ Krait Mk.II
 ![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
