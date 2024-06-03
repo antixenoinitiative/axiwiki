@@ -2,7 +2,7 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2024-05-29T12:11:33.821Z
+date: 2024-06-03T07:00:06.268Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -105,11 +105,9 @@ Type: **Cold Orbiter**
 
 Recommendation: Unarguably the best ship and build style for AX combat.
 
-[Meta Build (EDSY)](https://edsy.org/s/vwJ9Lqq)
+[Meta Build (EDSY)](https://edsy.org/s/v02WYpg)
 
-[Meta Build (Coriolis)](https://s.orbis.zone/eu9w)
-
-The following build contains modifications intended to make the ship better for Anti-Xeno Combat Zones. [AXCZ Meta Build (EDSY)](https://edsy.org/s/vFEvXgv)
+The following build contains modifications intended to make the ship better for Anti-Xeno Combat Zones. [AXCZ Meta Build (EDSY)](https://edsy.org/s/vrVcU09)
 
 AX Chieftain Build Video: [https://www.youtube.com/watch?v=rP6-xP3vCkI](https://www.youtube.com/watch?v=rP6-xP3vCkI)
 
