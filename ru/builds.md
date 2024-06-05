@@ -2,7 +2,7 @@
 title: Рекомендованные сборки
 description: Рекомендованные сборки AX-кораблей
 published: Опубликовано
-date: 2024-06-03T07:59:40.993Z
+date: 2024-06-05T08:10:28.624Z
 tags: сборки
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -391,6 +391,6 @@ CMDR Mechan's famous "CytoPlasmaConda" build is designed to very effectively str
 
 Recommendation: Not very agile but huge damage output; requires some finesse, especially for escaping interdictions.
 
-[**CytoPlasmaConda Build**](https://edsy.org/s/vAwT5K6)
+[**CytoPlasmaConda Build**](https://edsy.org/s/v0cjudk)
 
 
