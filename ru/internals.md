@@ -2,7 +2,7 @@
 title: Optional Internals & Utility Modules
 description: Краткое введение по использованию различных модулей в AX.
 published: опубликовано
-date: 2023-06-12T14:42:17.211Z
+date: 2024-07-05T10:23:31.362Z
 tags: снаряжение, модули
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -63,11 +63,6 @@ GSRP лучше всего работают с двухпоточными щит
 ## Контроллер дронов-ремонтников
 Контроллер дронов-ремонтников позволяет выпустить дрона из грузового отсека, который будет ремонтировать корпус и фонарь корабля. Для работы контроллера требуется грузовой стеллаж как минимум с одним дроном. Дрон также может быть отправлен к кораблю другого игрока, если он находится в пределах досягаемости. Они являются основным элементом безщитовых сборок, позволяя кораблю восстанавливать корпус до 100% в промежутках между уничтожением сердец.
 
-## Контроллер дронов-очистителей
-Контроллер дронов-очистителей позволяет выпустить из грузового отсека дрон, который очистит ваш корабль от едких веществ. Для работы контроллера требуется грузовой стеллаж как минимум с одним дроном. Дрон также может быть отправлен к кораблю другого игрока, если тот находится в пределах досягаемости. Дроны-очистители удаляют едкие вещества за несколько секунд, а также попутно немного ремонтируют ваш корабль.
-
-Например, едкий эффект от ракеты разведчика гораздо слабее, чем от облака едкого вещества уничтоженного перехватчика. Это может означать, что для снятия эффекта от более интенсивного источника вам потребуется более 1 дрона.
-
 ## Experimental Weapons Stabilizer
 This module comes in two classes, class 3 and class 5, increasing the experimental weapon limit by 1 and 2 respectively. This module is very useful for ships using human AX weaponry. It is not very useful for ships using guardian tech, as the added weapons cannot be sustained by the power distributor in most cases.
 
@@ -107,11 +102,11 @@ They come in two types:
 - **Shutdown Field Neutralizer (SFN)**
 - **Thargoid Pulse Neutralizer (TPN)**
 
-The standard SFN negates regular Interceptor shutdown pulses, and protects other ships within 3km. The TPN protects only your ship from pulses, but also protects against a Maelstrom's massive surge.
+The standard SFN negates regular Interceptor shutdown pulses, and protects other ships within 3km. The TPN protects only your ship from pulses, but also protects against a Maelstrom's massive surge.  Only the TPN will enable you to get access to a Titan.
 
 ### How it works
 
-The SFN can be bound to a firegroup or to a hotkey, same as heatsinks. When activated it will rapidly drain the SYS capacitor. The SFN will only stay active while the button is held down and will only prevent an EMP effect if the wave hits you while the SFN is active.
+The SFN/TPN can be bound to a firegroup or to a hotkey, same as heatsinks. When activated it will rapidly drain the SYS capacitor. The SFN/TPN will only stay active while the button is held down and will only prevent an EMP effect if the wave hits you while the SFN/TPN is active.
 
 Generally, when you hear a shutdown pulse warning, dump pips to SYS, count to three, and then activate the neutralizer. Keep it activated until the wave fully dissapears.
 
