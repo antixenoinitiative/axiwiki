@@ -2,7 +2,7 @@
 title: Optional Internals & Utility Modules
 description: Eine kurze Einführung in die Verwendung der verschiedenen Module in AX.
 published: ja
-date: 2023-06-12T14:42:17.211Z
+date: 2024-07-05T10:23:31.362Z
 tags: Ausrüstung, Module
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -63,11 +63,6 @@ GSRPs funktionieren am Besten mit Bi-Weave, wegen der Regenerationzeit und den E
 ## Reparaturdrohnen Fernsteuerung
 Die Reparaturdrohnen Fernsteuerung erlaubt es dir eine Drohne aus deinem Frachtraum einzusetzen, die die Hülle deines Schiffs und deine Kabine repariert. Der Kontroller braucht ein Frachtgestell mit mindestens einer Drohne. Die Drohne kann auch zu dem Schiff eines anderen Spielers geschickt werden, wenn dieser in Reichweite ist. Diese sind Grundlage aller schildlosen Builds, da sie einem Schiff erlauben zwischen den Herzen auf 100% Hülle zurückzukehren.
 
-## Dekontaminationsdrohnen Fernsteuerung
-Die Dekontaminationsdrohnen Fernsteuerung erlaubt es dir eine Drohne aus deinem Frachtraum einzusetzen, die dein Schiff von kaustischen Substanzen reinigt. Der Kontroller braucht ein Frachtgestell mit mindestens einer Drohne. Die Drohne kann auch zu dem Schiff eines anderen Spielers geschickt werden, wenn dieser in Reichweite ist. Die Dekontaminationsdrohnen brauchen einige Sekunden, um die Substanzen zu entfernen und sie reparieren dich währendessen ein wenig.
-
-Kaustische Effekte können in unterschiedlicher Intensitäten eintreten. Zum Beispiel ist der kaustische Effekt von einer Rakete eines Scouts viel schwächer als der, von der Wolke eines toten Interceptors. Das bedeutet, dass du vieleicht mehr als eine Drohne zum Entfernen eines stärkeren Effekts brauchst.
-
 ## Experimental Weapons Stabilizer
 This module comes in two classes, class 3 and class 5, increasing the experimental weapon limit by 1 and 2 respectively. This module is very useful for ships using human AX weaponry. It is not very useful for ships using guardian tech, as the added weapons cannot be sustained by the power distributor in most cases.
 
@@ -107,11 +102,11 @@ They come in two types:
 - **Shutdown Field Neutralizer (SFN)**
 - **Thargoid Pulse Neutralizer (TPN)**
 
-The standard SFN negates regular Interceptor shutdown pulses, and protects other ships within 3km. The TPN protects only your ship from pulses, but also protects against a Maelstrom's massive surge.
+The standard SFN negates regular Interceptor shutdown pulses, and protects other ships within 3km. The TPN protects only your ship from pulses, but also protects against a Maelstrom's massive surge.  Only the TPN will enable you to get access to a Titan.
 
 ### How it works
 
-The SFN can be bound to a firegroup or to a hotkey, same as heatsinks. When activated it will rapidly drain the SYS capacitor. The SFN will only stay active while the button is held down and will only prevent an EMP effect if the wave hits you while the SFN is active.
+The SFN/TPN can be bound to a firegroup or to a hotkey, same as heatsinks. When activated it will rapidly drain the SYS capacitor. The SFN/TPN will only stay active while the button is held down and will only prevent an EMP effect if the wave hits you while the SFN/TPN is active.
 
 Generally, when you hear a shutdown pulse warning, dump pips to SYS, count to three, and then activate the neutralizer. Keep it activated until the wave fully dissapears.
 
