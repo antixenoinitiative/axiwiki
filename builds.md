@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-07-09T09:14:05.372Z
+date: 2024-07-09T09:28:42.115Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -239,6 +239,42 @@ Titan Maelstroms contain an anti-guardian field and large caustic zones.  Specia
 ## Titan Builds
 
 ## Tabset {.tabset}
+
+### Krait Mk.II Bomber (Shieldless) - "Farseer"beginner build
+![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
+#### **Krait Mk.II**
+
+DISCLAIMER – this build is recommended only as an entry-level stepping stone towards more effective builds. 
+
+PREREQUISITES – Access to Felicity Farseer is required, and will enable you to engineer your Power Plant, Thrusters, Frame shift Drive and Sensors.  You will need to donate 1x meta alloy, a commodity which can be ourchased from Fleet Carriers, for access to Felicity Farseer's engienering workshop.  Once access is required you iwll need to obtain the following engineering materials:
+
+	7x Iron
+ 	3x Hybrid Capacitors
+ 	2x Heat Vanes
+ 	3x Specialized Legacy Firmware
+ 	1x Mechanical Equipment
+ 	3x Vanadium
+ 	5x Grid Resistors
+ 	1x Chromium
+ 	1x Mechanical Components
+
+If you wish to engineer your sensors for long range you will also need these further materials:
+
+	3x Iron
+	2x Hybrid capacitors
+	1x Unexpected Emission Data
+
+USING THIS BUILD – You will need to run cold to avoid detection, by turning off the Frame Shift Drive, Repair Limpet Controller, Auto Field Maintenance Unit, one Heatsink Launcher, and the Cargo Hatch when not in use. Retreat to the asteroid belt near the Titan where enemy ships will not follow, before turning any of these back on for repairs.  You will also need to synthesize heatsinks to stay in titan space for any length of time, so it would be prudent to stock up on a lagre quantity of the following:
+
+	Basic Conductors
+ 	Heat Conduciton Wiring
+
+- Armaments: 3x class 3 AX Missile Racks (Sirius AX Missile Racks are most effective, and are in the build but require a lot of materials to purchase; Enhanced AX Missile Racks are also effective)
+- 1x class 2 gimballed beam laser with Long Range and Thermal Vent
+- Speed: 322m/s, 544m/s boost
+- Hull: 3,358
+
+[TitanKiller "Farseer" Bomber Build](https://edsy.org/s/vigJXiD)
 
 ### Krait Mk.II Bomber (Shieldless)
 ![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
