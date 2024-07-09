@@ -2,7 +2,7 @@
 title: Рекомендованные сборки
 description: Рекомендованные сборки AX-кораблей
 published: Опубликовано
-date: 2024-07-09T08:34:02.246Z
+date: 2024-07-09T09:32:06.912Z
 tags: сборки
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -50,10 +50,10 @@ The shieldless Krait is a tried and true powerhouse. The Krait's massive distrib
 !\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
 #### **AZCX Build**
 
-This build has a Thermal Vent Beam Laser instead of Flak, and brings a Shutdown Field Neutralizer and Caustic Sink Launcher to mitigate the added hazards found in AXCZs. The limpets can cargo rack can be safely removed if fighting at a planetary or station CZ.
+This build has a Thermal Vent Beam Laser instead of Flak, and brings a Shutdown Field Neutralizer and Caustic Sink Launcher to mitigate the added hazards found in AXCZs. The limpets and cargo rack can be safely removed if fighting at a planetary or station CZ with active station.
 
 
-[AXCZ Krait Mk.II Build](https://edsy.org/s/vvtuMHq)
+[AXCZ Krait Mk.II Build](https://edsy.org/s/v4f20ga)
 
 ### Maelstrom Krait Mk.II
 !\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
@@ -236,6 +236,42 @@ Titan Maelstroms contain an anti-guardian field and large caustic zones.  Specia
 ## Titan Builds
 
 ## Tabset {.tabset}
+
+### Krait Mk.II Bomber (Shieldless) - "Farseer"beginner build
+!\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
+#### **Krait Mk.II**
+
+DISCLAIMER – this build is recommended only as an entry-level stepping stone towards more effective builds.
+
+PREREQUISITES – Access to Felicity Farseer is required, and will enable you to engineer your Power Plant, Thrusters, Frame shift Drive and Sensors.  You will need to donate 1x meta alloy, a commodity which can be ourchased from Fleet Carriers, for access to Felicity Farseer's engienering workshop.  Once access is required you iwll need to obtain the following engineering materials:
+
+    7x Iron
+    3x Hybrid Capacitors
+    2x Heat Vanes
+    3x Specialized Legacy Firmware
+    1x Mechanical Equipment
+    3x Vanadium
+    5x Grid Resistors
+    1x Chromium
+    1x Mechanical Components
+
+If you wish to engineer your sensors for long range you will also need these further materials:
+
+    3x Iron
+    2x Hybrid capacitors
+    1x Unexpected Emission Data
+
+USING THIS BUILD – You will need to run cold to avoid detection, by turning off the Frame Shift Drive, Repair Limpet Controller, Auto Field Maintenance Unit, one Heatsink Launcher, and the Cargo Hatch when not in use. Retreat to the asteroid belt near the Titan where enemy ships will not follow, before turning any of these back on for repairs.  You will also need to synthesize heatsinks to stay in titan space for any length of time, so it would be prudent to stock up on a lagre quantity of the following:
+
+    Basic Conductors
+    Heat Conduction Wiring
+
+- Armaments: 3x class 3 AX and 2s class 2 Missile Racks
+- 1x Guaridan Nanite Torpoedo Pylon
+- Speed: 346m/s, 476m/s boost
+- Hull: 1,376
+
+[TitanKiller "Farseer" Bomber Build](https://edsy.org/s/vUp8dG8)
 
 ### Krait Mk.II Bomber (Shieldless)
 !\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
