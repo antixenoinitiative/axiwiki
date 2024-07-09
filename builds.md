@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-07-09T09:28:42.115Z
+date: 2024-07-09T09:31:17.973Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -269,12 +269,12 @@ USING THIS BUILD – You will need to run cold to avoid detection, by turning of
 	Basic Conductors
  	Heat Conduciton Wiring
 
-- Armaments: 3x class 3 AX Missile Racks (Sirius AX Missile Racks are most effective, and are in the build but require a lot of materials to purchase; Enhanced AX Missile Racks are also effective)
-- 1x class 2 gimballed beam laser with Long Range and Thermal Vent
-- Speed: 322m/s, 544m/s boost
-- Hull: 3,358
+- Armaments: 3x class 3 AX and 2s class 2 Missile Racks
+- 1x Guaridan Nanite Torpoedo Pylon
+- Speed: 346m/s, 476m/s boost
+- Hull: 1,376
 
-[TitanKiller "Farseer" Bomber Build](https://edsy.org/s/vigJXiD)
+[TitanKiller "Farseer" Bomber Build](https://edsy.org/s/vUp8dG8)
 
 ### Krait Mk.II Bomber (Shieldless)
 ![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
