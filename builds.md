@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-07-09T09:31:17.973Z
+date: 2024-07-09T09:31:34.443Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -267,7 +267,7 @@ If you wish to engineer your sensors for long range you will also need these fur
 USING THIS BUILD – You will need to run cold to avoid detection, by turning off the Frame Shift Drive, Repair Limpet Controller, Auto Field Maintenance Unit, one Heatsink Launcher, and the Cargo Hatch when not in use. Retreat to the asteroid belt near the Titan where enemy ships will not follow, before turning any of these back on for repairs.  You will also need to synthesize heatsinks to stay in titan space for any length of time, so it would be prudent to stock up on a lagre quantity of the following:
 
 	Basic Conductors
- 	Heat Conduciton Wiring
+ 	Heat Conduction Wiring
 
 - Armaments: 3x class 3 AX and 2s class 2 Missile Racks
 - 1x Guaridan Nanite Torpoedo Pylon
