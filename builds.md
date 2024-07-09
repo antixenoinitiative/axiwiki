@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-07-09T08:34:02.246Z
+date: 2024-07-09T08:54:54.476Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -50,7 +50,7 @@ The shieldless Krait is a tried and true powerhouse. The Krait's massive distrib
 ![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
 #### **AZCX Build**
 
-This build has a Thermal Vent Beam Laser instead of Flak, and brings a Shutdown Field Neutralizer and Caustic Sink Launcher to mitigate the added hazards found in AXCZs. The limpets can cargo rack can be safely removed if fighting at a planetary or station CZ.
+This build has a Thermal Vent Beam Laser instead of Flak, and brings a Shutdown Field Neutralizer and Caustic Sink Launcher to mitigate the added hazards found in AXCZs. The limpets and cargo rack can be safely removed if fighting at a planetary or station CZ with active station.
 
 
 [AXCZ Krait Mk.II Build](https://edsy.org/s/vvtuMHq)
