@@ -2,7 +2,7 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2024-06-05T08:10:28.624Z
+date: 2024-07-09T08:34:02.246Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -243,7 +243,7 @@ Titan Maelstroms contain an anti-guardian field and large caustic zones.  Specia
 
 The Krait Mk.II is the workhorse of the Second Thargoid War, offering substantial firepower and optional internals, while still maintaining good maneuverability.
 
-- Armaments: 3x class 3 AX Missile Racks (Enhanced AX Misssle Racks are in the build but Sirius AX Missile Racks are the most effective)
+- Armaments: 3x class 3 AX Missile Racks (Sirius AX Missile Racks are most effective, and are in the build but require a lot of materials to purchase; Enhanced AX Missile Racks are also effective)
 - 1x class 2 gimballed beam laser with Long Range and Thermal Vent
 - Speed: 322m/s, 544m/s boost
 - Hull: 3,358
