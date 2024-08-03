@@ -2,7 +2,7 @@
 title: Construcciones Recomendadas
 description: Recommended Anti-Xeno Ship Builds
 published: verdadero
-date: 2024-07-09T09:32:06.912Z
+date: 2024-08-03T21:42:32.858Z
 tags: construcciones
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -243,7 +243,7 @@ Titan Maelstroms contain an anti-guardian field and large caustic zones.  Specia
 
 DISCLAIMER – this build is recommended only as an entry-level stepping stone towards more effective builds.
 
-PREREQUISITES – Access to Felicity Farseer is required, and will enable you to engineer your Power Plant, Thrusters, Frame shift Drive and Sensors.  You will need to donate 1x meta alloy, a commodity which can be ourchased from Fleet Carriers, for access to Felicity Farseer's engienering workshop.  Once access is required you iwll need to obtain the following engineering materials:
+PREREQUISITES – Access to Felicity Farseer is required, and will enable you to engineer your Power Plant, Thrusters, Frame shift Drive and Sensors.  You will need to donate 1x meta alloy, a commodity which can be purchased from Fleet Carriers, for access to Felicity Farseer's engienering workshop.  Once access is acquired you will need to obtain the following engineering materials:
 
     7x Iron
     3x Hybrid Capacitors
