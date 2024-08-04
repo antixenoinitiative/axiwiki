@@ -2,7 +2,7 @@
 title: Weapons
 description: Detailed breakdown of Anti-Xeno Weaponry
 published: true
-date: 2024-08-04T15:16:00.245Z
+date: 2024-08-04T15:16:17.752Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
@@ -24,7 +24,7 @@ Guardian weapons are the most effective AX weapons in the game (specifically the
 
 Some builds will also include Thermal Vent Beam Lasers which allow pilots to easily reduce ship heat and avoid significant amounts of Thargoid fire. For more information, see Cold Orbiting and [Lasers](/en/lasers).
 
-Guardian weapons are affected by the Thargoid Anti-Guardian Field, which can be found in Maelstrom systems, and can also be locally triggered by certain Thargoid ship types.  Some guardian wepaons, but importantly NOT the pre-engineered variants, can be rendered immune to this with Anti-Guardian Field engineering.  For more detail see [Our Maelstrom guide](https://wiki.antixenoinitiative.com/en/Maelstrom)
+Guardian weapons are affected by the Thargoid Anti-Guardian Field, which can be found in Maelstrom systems, and can also be locally triggered by certain Thargoid ship types.  Some guardian weapons, but importantly NOT the pre-engineered variants, can be rendered immune to this with Anti-Guardian Field engineering.  For more detail see [Our Maelstrom guide](https://wiki.antixenoinitiative.com/en/Maelstrom)
 
 ## **Weapon Options**
 The currently best available weapons are the Remote Release Flak Launcher, Guardian Gauss Cannon, Modified Guardian Shard Cannon, and Modified Guardian Plasma Charger.
