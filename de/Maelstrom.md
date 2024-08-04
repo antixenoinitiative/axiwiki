@@ -2,7 +2,7 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2023-08-13T19:19:16.116Z
+date: 2024-08-04T10:25:17.833Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
@@ -16,9 +16,9 @@ The Maelstrom is part of a point of interest (POI) that appeared alongside the T
 
 The Galmap presents the Thargoid Titan systems without the commander having to discover it themselves. ![galmap_thargoid_war_information.png](/img/galmap_thargoid_war_information.png)
 
-Once navigated to the Thargoid Titan system, a FSS is required to discover the location of the Thargoid Titan POI. Thargoid Titans are in close orbit to ammonia worlds and are indidicated by the sawblade-like icon shown here: ![hip_8887_-_titan_leigong_-_system_map.png](/img/hip_8887_-_titan_leigong_-_system_map.png =400x)
+Once you have navigated to the Thargoid Titan system, you should be able to see the Titan in the System Navigation Menu, although sometimes a FSS is required to discover the location of the Thargoid Titan POI. Thargoid Titans are in close orbit to ammonia worlds and are indidicated by the sawblade-like icon shown here: ![hip_8887_-_titan_leigong_-_system_map.png](/img/hip_8887_-_titan_leigong_-_system_map.png =400x)
 
-Upon arrival, the storm is quite visible, and the scale of it can be disorienting. A slow approach to the scrambled instance center indicator is recommended. Cautious commanders can identify the boundry between safe space and caustic cloud. Venturing into the caustic cloud and approaching the Maelstrom's centerwill trigger a wave-like, massive repulsion field that will repell all invaders.
+Upon arrival, the storm is quite visible, and the scale of it can be disorienting. A fast approach to the scrambled instance center indicator is recommended, to reduce the time spent in the Casutic Zone. Cautious commanders can identify the boundry between safe space and caustic cloud. Venturing into the caustic cloud and approaching the Maelstrom's centerwill trigger a wave-like, massive repulsion field that will repell all invaders.
 
 Due to the inquisitive, dedicated, and perhaps misguided commanders exploring the Maelstrom's inner caustic zone, technology has been developed to allow commanders immunity to the wave-like repulsion field that protects the massive entity at the center of the Maelstrom; if you choose to brave this journey, behold, the ***Titan***.
 
@@ -26,25 +26,25 @@ Due to the inquisitive, dedicated, and perhaps misguided commanders exploring th
 ### Maelstrom Systems
 The listed sytems include the planetary body and rough distance from the star. Ammonia worlds have a specific frequency in the center of the FSS signal spectrum. They should be easy to find. Make sure to turn in cartographic data to make permanent these locations in your system maps. The Galmap provides half of the information presented in the following table:
 
-| **Thargoid Titan** | **System**                | **Body** | **Arrival Distance (ls)** |
-| ------------------ | ------------------------- | -------- | ------------------------- |
-| **Cocijo**         | Col 285 Sector BA-P c6-18 | 3        | 1,300                     |
-| **Hadad**          | HIP 30377                 | B 8      | 39,230                    |
-| **Indra**          | HIP 20567                 | 7        | 3,330                     |
-| **Leigong**        | HIP 8887                  | A 4      | 2,540                     |
-| **Oya**            | Cephei Sector BV-Y b4     | B 1      | 5,850                     |
-| **Raijin**         | Pegasi Sector IH-U b3-3   | 2        | 400                       |
-| **Taranis**        | Hyades Sector FB-N b7-6   | A 1      | 130                       |
-| **Thor**           | Col 285 Sector IG-O c6-5  | 3        | 820                       |
+| **Thargoid Titan**      | **System**                | **Body** | **Arrival Distance (ls)** |
+| ----------------------- | ------------------------- | -------- | ------------------------- |
+| **Cocijo**              | Col 285 Sector BA-P c6-18 | 3        | 1,300                     |
+| **Hadad (destroyed)**   | HIP 30377                 | B 8      | 39,230                    |
+| **Indra (destroyed)**   | HIP 20567                 | 7        | 3,330                     |
+| **Leigong (destroyed)** | HIP 8887                  | A 4      | 2,540                     |
+| **Oya (destroyed)**     | Cephei Sector BV-Y b4     | B 1      | 5,850                     |
+| **Raijin**              | Pegasi Sector IH-U b3-3   | 2        | 400                       |
+| **Taranis**             | Hyades Sector FB-N b7-6   | A 1      | 130                       |
+| **Thor**                | Col 285 Sector IG-O c6-5  | 3        | 820                       |
 
 ## Maelstrom Dangers
 
-When in the same system as a Thargoid Maelstrom, Guardian Modules become functionally unusable; Guardian modules will decay while anywhere within a Maelstrom system at a constant rate.
-- Guardian weapons, Guardian Module Reinforcement, Guardian FSD Booster, and Guardian Shield Reinforcement decay at a rate of 1%/s until damaged (0% integrity).
-- The Guardian Power Plant and Guardian Power Distributor decay at a rate of 1% every 10 seconds, but do not decay lower than 19% integrity.
+When in the same system as a Thargoid Maelstrom, Guardian Modules become functionally unusable; Guardian modules will decay while anywhere within a Maelstrom system at a constant rate.  This is known as the "Anti Guardian Field" (AGF).  Guardian weapons and modules can be made immune to this effect through AGF-resistance engineering, with Ram Tah.  AGF engineering can only be applied to Guardian weapons or modules wich are not already engineered when purchased.  For example, this means that the pre-engineered "modified" plasma chargers or shard cannons cannot be engineered this way, and are therefore functionally useless in the Maelstrom.
+- If not subject to AGF engineering, Guardian weapons, Guardian Module Reinforcement, Guardian FSD Booster, and Guardian Shield Reinforcement decay at a rate of 1%/s until damaged (0% integrity).
+- If not subject to AGF engineering, the Guardian Power Plant and Guardian Power Distributor decay at a rate of 1% every 10 seconds, but do not decay lower than 19% integrity.
 - The Guardian Hull Reinforcement is immune, because it does not have integrity of its own.
 
-Thargoid Maelstrom POIs are large cloud-like areas; these appear similar to Lagrange clouds. Low waking from supercuise into the POI can drop you into the cloud. Traveling inside the cloud will incur significant caustic damage; it is ill advised to travel within the cloud without preparations. The cloud is an area of sprawling lightning storms and various Thargoid-related anomalies. Interceptors patrol the interior of the caustic region. Caustic Generators, an anomoly only found within the caustic zone of the maelstrom cloud, can be seen floating and sporadically manuevering in the cloud and are most likely the source of the caustic damage area.
+Thargoid Maelstrom POIs are large cloud-like areas; these appear similar to Lagrange clouds. Low waking from supercuise into the POI can drop you into the cloud. Traveling inside the cloud will incur significant caustic damage; it is ill advised to travel within the cloud without preparations. The cloud is an area of sprawling lightning storms and various Thargoid-related anomalies. Interceptors patrol the interior of the caustic region. Caustic Generators, an anomaly only found within the caustic zone of the maelstrom cloud, can be seen floating and sporadically manuevering in the cloud and are most likely the source of the caustic damage area.
 
 The cloud anatomy is mostly spherical with the following notable dimensions:
 - Outer radius: 115km (Sensor interference begins)
@@ -56,17 +56,15 @@ The cloud anatomy is mostly spherical with the following notable dimensions:
 
 ## Maelstrom Rewards
 
-The center of the Maelstrom is a large red-ish cloud. Approaching the center will cause a large wave-like pulse to emit from the Center which will eject nearby ships at high velocity, shutting them down, and damaging them in the process. Being hit by the pulse grants the CMDR a single instance of **Massive Energy Surge Analytics** encoded material.
+The center of the Maelstrom is a large red-ish cloud. Approaching the Titan at the center will cause a large wave-like pulse to emit from the Center which will eject nearby ships at high velocity, shutting them down, and damaging them in the process, unless they have equipped and correctly used a Thargoid Pulse Neutraliser. Being hit by the pulse grants the CMDR a single instance of **Massive Energy Surge Analytics** encoded material.  This encoded material is much more safely, and more quickly, gathered at Thargoid Spire Sites.
 
-Throughout the Maelstrom, besides the materials that can be acquired directly on indirectly from **Caustic generators**, there are two-types of free-floating materials that can be gathered.
+Throughout the Maelstrom, besides the materials that can be acquired directly or indirectly from **Caustic generators**, there are two-types of free-floating materials that can be gathered.
 
 [![maelstrom_tn01_b.png](/img/thumbs/maelstrom_tn01_b.png)](/img/caustic_generator_1.png) These generators are also heat detecting mines. Upon detection, they slowly drift towards the ship at fault and then explode, causing a 3km caustic explosion with a severe knock-back effect. Current safe heat threshold is dependent on ship signature; the rule of thumb continues to be "Keep below 20% heat!"
 
-These caustic generators are checked on by Thargoid interceptors flying about within the Maelstrom. These interceptors are typically passive; however, they become hostile within a couple kilometers, stay cold!
+These caustic generators are checked on by Thargoid interceptors flying about within the Maelstrom. These interceptors are typically passive; however, they become hostile within a couple kilometers if they detect your heat signature, so stay cold!  Typically, below 20% heat is recommended.
 
-Destroying a Caustic Generator will cause it to drop various materials which can be collected. These materials are used for Caustic Sink synthesis, along with unlocking the **Caustic Sink Launcher** (**CSL**). The CSL also has a commodity requirement, before destroying a caustic generator, it is necessary to get close enough (within 1.5 km) to target and eventually scan the generator. Successfully scanning it allows the pilot to deploy a research limpet to a subtarget and begin extracting one **caustic tissue sample**. Each generator may only be extracted once. Afterwhich, it is recommended to destroy the sampled generator from safe distance such as to eliminate it from all the other identical entities around. Sampled and destroyed generators also drop the usual material rewards.
-
-> I've been blown up and flung more times than I care to count!
+Destroying a Caustic Generator will cause it to drop various materials which can be collected. These materials are used for Caustic Sink synthesis, in a **Caustic Sink Launcher** (**CSL**).
 
 ### Caustic Zone Materials
 | **Corrosive Mechanisms**                                        | **Caustic Shards**                                       | **Caustic Crystals (Rare)**                                |
@@ -83,11 +81,9 @@ Here's a list of build recommendations for these materials and commodities:
 
 - Powerplant engineered Low Emission + Monstered
 - Enhanced Xeno Scanner
-- XENO Multi-Limpet Controller - for decontamination limpets for pre-unlocked CSL, AND research limpets
-- 1 collector limpet controller
+- - 1 collector limpet controller
 - 1 or more Heat Sink Launchers (HSL)
-- 1 or more class 4 Corrosion Resistant Cargo Racks for collecting samples
-- 1 weapon that can poke very far away ( range of +3 km, e.g. 1 G3 Long Range beam laser)
+- - 1 weapon that can poke very far away ( range of +3 km, e.g. 1 G3 Long Range beam laser)
 
 The caustic zone of the Maelstrom is incredibly dangerous, so the option to stay outside of the caustic region and only grab materials near the edge of that zone will require patience. It's sometimes suggested that commanders should get their CSL unlocked and equipped before attempting to go after the *massive energy surge* encoded data. To get that data, commanders must travel very far through the lighter caustic zone into the heavier caustic zone. The caustic damage over time (DoT) stacks more frequently closer to the trigger zone of the repulsion field. Be prepared to spend significant time in the caustic zone to survive repeated attempts to get *bonked* by the wave. One or Two CSLs are often recommended to ensure survival at this stage.
 
@@ -101,7 +97,7 @@ Check out this exploration video by Writer’s End: [Thargoid Maelstrom Explorat
 
 ## Going Deeper
 
-After the appropriate materials have been gathered, commanders have the options to unlock **caustic sink launchers** (**CSL**s) and purchase a **Thargoid Pulse Neutralizer** (**TPN**).
+After the appropriate materials have been gathered, commanders have the options to purchase **caustic sink launchers** (**CSL**s) and a **Thargoid Pulse Neutralizer** (**TPN**).  These are necessary to proceed deeper.
 
 Once the CSL and TPN modules have been equipped, aspiring commanders may be ready to breach the Titan's massive repulsion field. A successful breach of the wave will allow the commander to enter into the center of the Maelstrom and approach the **Titan**, itself.
 
@@ -117,7 +113,7 @@ Asteriods will come into view then the silhouette on approach to the Titan. This
 
 ## Titan Space Threats
 
-On approach, avoid the asteroids and beware the seed generators that populate the asteroid field. Seeds, on ship detection, slowly drift toward the offending vessel and explode very similarly to caustic generators. Glaives and interceptors patrol this space. The Titan itself, has many destructable turrets on its surface and a large area of effect special attack, the tourus. [![Titan Torus](/img/titantorus.png)](/img/titantorus.png)
+On approach, avoid the asteroids and beware the seed generators that populate the asteroid field. Seeds, on ship detection, slowly drift toward the offending vessel and explode very similarly to caustic generators. Glaives and interceptors patrol this space. The Titan itself, has many destructable turrets on its surface and a large area of effect special attack, the torus. [![Titan Torus](/img/titantorus.png)](/img/titantorus.png)
 
 ## Titan Rewards
 
@@ -148,4 +144,4 @@ In order to locate research limpet points on the Titan's surface, the OC Pulse W
 
 ### Titan Combat Build Recommendations
 
-> The Killer Krait enters, stage left Check out the recommended builds page, under Maelstrom builds: https://wiki.antixenoinitiative.com/en/builds
+> The TitanKiller Krait enters, stage left Check out the recommended builds page, under Maelstrom builds: https://wiki.antixenoinitiative.com/en/builds
