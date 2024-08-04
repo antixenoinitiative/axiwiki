@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-06-03T18:53:36.896Z
+date: 2024-08-04T21:02:09.922Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -96,7 +96,7 @@ Consensus amongst existing CMDRs has established a common etiquette for ship-bas
 
 -   **fly co-operatively** - spire operations are normally a multiplayer activity.  If present in a mutliplayer environment, be co-operative, and don't make decisions on others' behalf.  
 
--   **Agree a common approach** - The ability to destroy an outbound orthrus, which spawns with full shields and will wake out quikcly, depends on the amount of firepower available.  Have this conversation with other CMDRs before engaging one.
+-   **Agree a common approach** - The ability to destroy an outbound orthrus, which spawns with full shields and will wake out quickly, depends on the amount of firepower available.  Have this conversation with other CMDRs before engaging one.
 
 -   **Use common terms** - As well as "inbound", "outbound", "runner" and "clops", common methods used to indicate targets includes the clock ray method, taking the centre of the courtyard between the spires as the centre of the clock face, and the main spire as the 12 o'clock direction.  Alternatively, approximate bearings, also from the centre of the courtyard, is effective.  
 
