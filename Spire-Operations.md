@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-08-04T21:02:09.922Z
+date: 2024-08-04T21:13:57.782Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -65,7 +65,7 @@ An "inbound" orthrus will emit a call a few seconds before pulsing its shutdown 
 
 ## Orthrus anti-guardian fields
 
-Shutdown and anti-guardian fields are separate, despite both occurring at the same time.  A shutdown field can be countered with timely use of a shutdown field neutraliser and sufficient energy in SYS in your capacitor.  The only known counter to an anti-guardian field is to engineer weapons with Ram Tah, which reduces their damage output by 20%.  Given the strongest weapons for spire combat are the pre-engineered guardian plasma chargers, which cannot be engineered in this way, common practice is to simply accept the risk of being affected by an anti-guardian field and to equip an auto-field maintenance unit to repair weapons if (when) damaged.  
+Shutdown and anti-guardian fields are separate, despite both occurring at the same time.  A shutdown field can be countered with timely use of a shutdown field neutraliser and sufficient energy in SYS in your capacitor.  The only known counter to an anti-guardian field is to engineer weapons with Ram Tah.  Given the strongest weapons for spire combat are the pre-engineered guardian plasma chargers, which cannot be engineered in this way, common practice is to simply accept the risk of being affected by an anti-guardian field and to equip an auto-field maintenance unit to repair weapons if (when) damaged.  
 
 It's not understood who gets targeted by the anti-guardian field or why.  Tests have disproven a link between receiving the anti-guardian field damage and doing damage to the target, as well as ship thermal signature, and proximity to the target.  the anti-guardian field has a range of about 10km radius and the only way to stop it, once it affects your ship, is to either kill the relevant orthrus or to outrange it.  
 
