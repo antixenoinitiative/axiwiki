@@ -2,7 +2,7 @@
 title: Weapons
 description: Detailed breakdown of Anti-Xeno Weaponry
 published: true
-date: 2023-01-28T15:40:11.880Z
+date: 2024-08-04T14:55:39.819Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
@@ -13,6 +13,7 @@ There are a multitude of different Anti-Xeno weapons in the game, and they come 
 
 - **Human AX Weapons** (AX Multi-Cannon, AX Missile Rack, Advanced Multi-Cannon, Advanced Missile Rack, Remote Release Flak Launcher)
 	- **Enhanced Variant** (Enhanced AX Multi-Cannon and AX Missile Rack)
+ 	- **Pre-engineered Variant** (Azimuth Enhanced AX Multi-Cannon and Sirius AX Missile Rack)
 - **Guardian Weapons** (Guardian Gauss Cannon, Guardian Plasma Charger, Guardian Shard Cannon)
 	- **Modified Variant** (Pre-engineered variants of all three)
 
@@ -60,7 +61,7 @@ Similar to a Frag Cannon, very wide spread with only around a 700m effective ran
 
 ## Modified Guardian Shard Cannon
 
-These shard cannons come in medium and small variants. They have long range engineering and a higher armor penetration. They are a great alternative to gauss, offering a lot of the benefits of shard cannons but with lesser downsides. Due to their comparatively low distributor draw, they are the only Guardian weapon which ships can make use of 6 mounted at once.
+These shard cannons come in medium and small variants. They have long range engineering and a higher armor penetration. They are a great alternative to gauss, offering a lot of the benefits of shard cannons but with lesser downsides. Due to their comparatively low distributor draw, they are the only Guardian weapon which ships can make use of 6 mounted at once.  Class 2 are recommended. 
 
 **Recommendation:** Very good AX weapon (Very high DPS)
 
@@ -72,9 +73,9 @@ Similar to a Plasma Accelerator, but poor armour penetration value makes it less
 
 ## Modified Guardian Plasma Charger
 
-These plasma chargers come in medium and small variants. They have greatly improved stats over stock chargers, with higher armor penetration, shot speed, and damage. While they struggle to deal damage to hearts, they are unrivaled in their exert capability.
+These plasma chargers come in medium and small variants. They have greatly improved stats over stock chargers, with higher armor penetration, shot speed, and damage. It can be a struggle to deal damage to hearts with them as the splash damage on a miss can trigger a re-shield or cause the heart to be withdrawn, but they are unrivaled in their exert capability.  Class 2 are recommended. 
 
-**Recommendation:** Good AX weapon (Massive damage, Not effective against hearts)
+**Recommendation:** Good AX weapon (Massive damage, can be difficult to snipe hearts)
 
 ## AX Multi-Cannon
 
@@ -89,6 +90,13 @@ The gimballed variants are the best, dealing nearly as much damage as fixed and 
 
 **Recommendation:** Great for scouts, viable for cyclops
 
+## Azimuth Enhanced AX Multi-Cannon
+
+the Azimuth pre-engineered multi-cannons have a slightly higher damage output but critically have an autoloader equipped, sustaining fire time.  This comes with the consequence of signficantly higher heat generation.  Combined with a xeno-scanner, these are viable for soloing up to a Basilisk and can also be very useful for heart-sniping on Medusa and even Hydra.  
+
+
+**Recommendation:** Excellent for scouts, great for cyclops, viable for basilisk, have their uses above basilisk
+
 ## AX Missile Rack
 
 Okay, but very difficult to aim as they are slow moving and dumbfire only. Minimal ammo.
@@ -99,7 +107,13 @@ Okay, but very difficult to aim as they are slow moving and dumbfire only. Minim
 
 Coming with only a marginal increase in damage and shot speed over standard AXMRs, these still deal no damage to hearts.
 
-**Recommendation:** Do Not Use (Poor damage)
+**Recommendation:** Useful for shield and hull damage to slow moving targets only (no heart damage)
+
+## Sirius AX Missile Rack
+
+With double the normal capacity of an Enhanced AX Missile Rack, albeit slower projectiles, the Sirius AX Missile Racks are the best choice of all the Missile Rack options.  They are a significant cost in materials, and are pay-per-purchase.  
+
+**Recommendation:** Useful for shield and hull damage to slow moving targets only (no heart damage)
 
 ## Modified AX Missile Rack
 
