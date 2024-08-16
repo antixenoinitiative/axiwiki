@@ -2,7 +2,7 @@
 title: Scouts
 description: Zu Thargoid Scouts
 published: true
-date: 2021-06-15T10:36:02.053Z
+date: 2024-08-16T14:56:38.425Z
 tags: Thargoids, Scouts
 editor: markdown
 dateCreated: 2021-06-15T10:36:00.013Z
@@ -16,16 +16,22 @@ dateCreated: 2021-06-15T10:36:00.013Z
 Thargoid Scouts, gibt es in verschiedenen Varianten, jede von ihnen hat eigene Spezialfähigkeiten.
 
 ## Marauder
-Marauder sind die grundlegende Variante der Scouts und auch die häufigste. Sie haben einen simplen Angriff, sie nutzen eine simple Puls-Waffe, können aber auch eine Kaustik-Rakete abfeuern.
+!\[scout_maurader.png\](/img/thargoids/scout_marauder.png =125x){.align-right}
+
+Marauder sind die grundlegende Variante der Scouts und auch die häufigste. Sie haben einen simplen Angriff, sie nutzen eine simple Puls-Waffe, können aber auch eine Kaustik-Rakete abfeuern. While weak alone, they get buffed by other variants and can be very dangerous in large numbers.
 
 ## Regenerator
-Regeneratorvarianten sind identisch mit dem Marauder, verfügen aber über eine spezielle Regenerations-Pulsfähigkeit. Der Regenerator kann diese Fähigkeit nutzen und einen Regenerations-Verstärkung auf alle Scouts in der Nähe anzuwenden, um ihre Gesundheit rapide zu regenerieren. Regeneratoren erzeugen einen hörbaren Klang, bevor sie den Angriff verwenden, und geben einen grünen Impuls ab. Regeneratorvarianten haben eine grüne Kolorierung.
+
+!\[scout_regenerator.png\](/img/thargoids/scout_regenerator.png =125x){.align-right} Regenerator variants are the same as the Marauder but have a special Regeneration pulse ability. Der Regenerator kann diese Fähigkeit nutzen und einen Regenerations-Verstärkung auf alle Scouts in der Nähe anzuwenden, um ihre Gesundheit rapide zu regenerieren. Regeneratoren erzeugen einen hörbaren Klang, bevor sie den Angriff verwenden, und geben einen grünen Impuls ab. Regeneratorvarianten haben eine grüne Kolorierung.
 
 ## Berserker
-Änhlich dem Regenerator, sind Berserker Varianten quasi Marauder mit einer zusätzlichen Spezialfähigkeit. Beserker können einen roten Energie-Puls austrahlen, der den Schaden aller nahen Scouts erhöht und alle nahen nicht-Beserker Scouts dazu bringt eine kaustische Rakete abzufeuern. Berserker haben eine orange-rote Kolorierung.
+
+!\[scout_beserker.png\](/img/thargoids/scout_berserker.png =125x){.align-right}
+
+Similar to Regenerator, Berserker variants are marauders with a special ability. Berserkers can emit a red energy pulse that will buff the damage of all nearby scouts and trigger all nearby non-berserker scouts to fire a caustic missile. Berserkers have an Orange/red appearance.
 
 ## Inciter
-Inciter sind ebenfalls Marauder mit einer zusätzlichen Spezialfähigkeit. Bei Nutzung entsendet der Scout einen Energiepuls, der die Geschwindigkeit und Manövrierbarkeit allser nahen Scouts temporär erhöht. Inciter haben eine pink-rote Kolorierung.
+!\[scout_inciter.png\](/img/thargoids/scout_inciter.png =125x){.align-right} Inciters are the same as a marauders with a special ability. Bei Nutzung entsendet der Scout einen Energiepuls, der die Geschwindigkeit und Manövrierbarkeit allser nahen Scouts temporär erhöht. Inciter haben eine pink-rote Kolorierung.
 
 # Eigenschaften
 - Scouts sind IMMER feindselig.
