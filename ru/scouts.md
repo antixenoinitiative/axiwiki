@@ -2,7 +2,7 @@
 title: Разведчики
 description: О таргоидских разведчиках
 published: опубликовано
-date: 2021-06-15T10:36:02.053Z
+date: 2024-08-16T14:56:38.425Z
 tags: таргоиды, разведчики
 editor: markdown
 dateCreated: 2021-06-15T10:36:00.013Z
@@ -16,16 +16,22 @@ dateCreated: 2021-06-15T10:36:00.013Z
 Таргоидские разведчики существуют в нескольких вариантах, каждый из которых обладает своими особыми способностями.
 
 ## Marauder
-«Marauder» – базовый тип разведчика и самый распространённый. Они обладают простой схемой нападения с помощью базового импульсного оружия, а также могут стрелять простой едкой ракетой.
+!\[scout_maurader.png\](/img/thargoids/scout_marauder.png =125x){.align-right}
+
+«Marauder» – базовый тип разведчика и самый распространённый. Они обладают простой схемой нападения с помощью базового импульсного оружия, а также могут стрелять простой едкой ракетой. While weak alone, they get buffed by other variants and can be very dangerous in large numbers.
 
 ## Regenerator
-Тип «Regenerator» во многом похож на «Marauder», но имеет специальную способность импульсного восстановления здоровья корпуса разведчика. «Regenerator» может использовать эту способность и применить усиление параметров восстановления на всех разведчиков поблизости, быстро восстанавливая их здоровье. Перед началом нападения «Regenerator» издаёт звуковой сигнал и излучает зелёный импульс. Тип «Regenerator» будет появляться с зелёной окраской.
 
-## Beserker
-Подобно типу «Regenerator», тип «Beserker» – это «Marauder» с особой способностью. «Beserker» может испускать красный энергетический импульс, который увеличивает всем находящимся поблизости разведчикам наносимый урон и заставляет всех ближайших разведчиков, не являющихся типом «Beserker», выпустить едкую ракету. Тип «Beserker» имеет оранжевую/красную окраску.
+!\[scout_regenerator.png\](/img/thargoids/scout_regenerator.png =125x){.align-right} Regenerator variants are the same as the Marauder but have a special Regeneration pulse ability. «Regenerator» может использовать эту способность и применить усиление параметров восстановления на всех разведчиков поблизости, быстро восстанавливая их здоровье. Перед началом нападения «Regenerator» издаёт звуковой сигнал и излучает зелёный импульс. Тип «Regenerator» будет появляться с зелёной окраской.
+
+## Berserker
+
+!\[scout_beserker.png\](/img/thargoids/scout_berserker.png =125x){.align-right}
+
+Similar to Regenerator, Berserker variants are marauders with a special ability. Berserkers can emit a red energy pulse that will buff the damage of all nearby scouts and trigger all nearby non-berserker scouts to fire a caustic missile. Berserkers have an Orange/red appearance.
 
 ## Inciter
-Тип «Inciter» – это то же самое, что и «Marauder», и также с особой способностью. Во время боя тип разведчика «Inciter» излучает энергетический импульс на всех ближайших разведчиков, временно увеличивая их скорость и манёвренность. Тип «Inciter» имеет розовую/красную окраску.
+!\[scout_inciter.png\](/img/thargoids/scout_inciter.png =125x){.align-right} Inciters are the same as a marauders with a special ability. Во время боя тип разведчика «Inciter» излучает энергетический импульс на всех ближайших разведчиков, временно увеличивая их скорость и манёвренность. Тип «Inciter» имеет розовую/красную окраску.
 
 # Особенности
 - Разведчики ВСЕГДА настроены враждебно.
