@@ -2,7 +2,7 @@
 title: Scouts
 description: About Thargoid Scouts
 published: true
-date: 2023-06-12T18:07:16.385Z
+date: 2024-08-16T14:56:38.425Z
 tags: thargoids, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:36:00.013Z
@@ -26,11 +26,11 @@ While weak alone, they get buffed by other variants and can be very dangerous in
 ![scout_regenerator.png](/img/thargoids/scout_regenerator.png =125x){.align-right}
 Regenerator variants are the same as the Marauder but have a special Regeneration pulse ability. The Regenerator may use this ability and apply a regeneration buff to all nearby scouts, rapidly regenerating their health. Regenerators will make an audible sound before using the attack and emit a green pulse. Regenerator variants will appear with a green coloration.
 
-## Beserker
+## Berserker
 
 ![scout_beserker.png](/img/thargoids/scout_berserker.png =125x){.align-right}
 
-Similar to Regenerator, Beserker variants are marauders with a special ability. Beserkers can emit a red energy pulse that will buff the damage of all nearby scouts and trigger all nearby non-beserker scouts to fire a caustic missile. Beserkers have an Orange/red appearance.
+Similar to Regenerator, Berserker variants are marauders with a special ability. Berserkers can emit a red energy pulse that will buff the damage of all nearby scouts and trigger all nearby non-berserker scouts to fire a caustic missile. Berserkers have an Orange/red appearance.
 
 ## Inciter
 ![scout_inciter.png](/img/thargoids/scout_inciter.png =125x){.align-right}
