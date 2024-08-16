@@ -2,7 +2,7 @@
 title: Scoutlar
 description: Thargoid Scoutlar Hakkında
 published: true
-date: 2021-06-15T10:36:02.053Z
+date: 2024-08-16T14:56:38.425Z
 tags: thargoids, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:36:00.013Z
@@ -16,16 +16,22 @@ dateCreated: 2021-06-15T10:36:00.013Z
 Thargoid Scoutlar her biri farklı özel yeteneklere sahip dört türden oluşur.
 
 ## Marauder
-Marauder, en temel ve en yaygın Scout türüdür. Basit bir silaha sahip olmakla birlikte arada bir Caustic füze atarlar.
+!\[scout_maurader.png\](/img/thargoids/scout_marauder.png =125x){.align-right}
+
+Marauder, en temel ve en yaygın Scout türüdür. Basit bir silaha sahip olmakla birlikte arada bir Caustic füze atarlar. While weak alone, they get buffed by other variants and can be very dangerous in large numbers.
 
 ## Regenerator
-Regenerator türü, Marauder özelliklerine ek olarak yenilenme patlaması özel yeteneğine sahiptir. Regenerator, bu yeteneğini kullanarak ortamdaki tüm Scoutlara yenilenme desteği sağlayarak canlarını yeniler. Regenarator, yeteneğini kullanmadan önce duyabileceğiniz bir ses çıkartır ve ardından yeşil bir patlamayla yenilenme desteğini uygular. Yeşil renklere sahiplerdir.
 
-## Beserker
-Regenerator gibi Berserker de Marauder ile aynı özelliklere ek olarak özel yeteneğe sahiptir. Berserker, kırmızı bir ışık patlamasıyla yeteneğini kullanıp ortamdaki tüm Scoutlara hasar takviyesi uygular ve Berserker olmayan Scoutların caustic füzelerini ateşlemesini sağlar. Berserkerler kırmızı/turuncu bir görünüme sahiptirler.
+!\[scout_regenerator.png\](/img/thargoids/scout_regenerator.png =125x){.align-right} Regenerator variants are the same as the Marauder but have a special Regeneration pulse ability. Regenerator, bu yeteneğini kullanarak ortamdaki tüm Scoutlara yenilenme desteği sağlayarak canlarını yeniler. Regenarator, yeteneğini kullanmadan önce duyabileceğiniz bir ses çıkartır ve ardından yeşil bir patlamayla yenilenme desteğini uygular. Yeşil renklere sahiplerdir.
+
+## Berserker
+
+!\[scout_beserker.png\](/img/thargoids/scout_berserker.png =125x){.align-right}
+
+Similar to Regenerator, Berserker variants are marauders with a special ability. Berserkers can emit a red energy pulse that will buff the damage of all nearby scouts and trigger all nearby non-berserker scouts to fire a caustic missile. Berserkers have an Orange/red appearance.
 
 ## Inciter
-Inciterlar da aynı şekilde ek özel yeteneğe sahiptir. Kullanıldığında bir enerji patlaması yayar ve ortamdaki Scoutların hız ve manevra kabiliyetini artırır. Inciterlar pembe/kırmızı görünümdedirler.
+!\[scout_inciter.png\](/img/thargoids/scout_inciter.png =125x){.align-right} Inciters are the same as a marauders with a special ability. Kullanıldığında bir enerji patlaması yayar ve ortamdaki Scoutların hız ve manevra kabiliyetini artırır. Inciterlar pembe/kırmızı görünümdedirler.
 
 # Davranış Biçimleri
 - Scoutlar daime saldırgandır.
