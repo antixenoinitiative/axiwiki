@@ -2,7 +2,7 @@
 title: Waffen
 description: Detailed breakdown of Anti-Xeno Weaponry
 published: true
-date: 2024-08-04T15:16:17.752Z
+date: 2024-09-07T09:35:35.798Z
 tags: Ausrüsten, Module
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
@@ -109,17 +109,12 @@ Coming with only a marginal increase in damage and shot speed over standard AXMR
 
 **Recommendation:** Useful for shield and hull damage to slow moving targets only (no heart damage)
 
-## Sirius AX Missile Rack
+## Pre-Engineered AX Missile Rack
 
 With double the normal capacity of an Enhanced AX Missile Rack, albeit slower projectiles, the Sirius AX Missile Racks are the best choice of all the Missile Rack options.  They are a significant cost in materials, and are pay-per-purchase.
 
 **Recommendation:** Useful for shield and hull damage to slow moving targets only (no heart damage)
 
-## Modified AX Missile Rack
-
-These modified missile racks deal slightly less damage, but come with a greater fire rate and ammo cap. They still suffer from all of the downsides of missile racks, and have a very low armor piercing value.
-
-**Recommendation:** Ok AX Weapon (Less damage than guardian weapons)
 
 ## Advanced Multi-Cannon
 
