@@ -2,48 +2,45 @@
 title: Inicio
 description: Bienvenido a la Wiki de la Anti-Xeno Initiative. Su repositorio completo para Combate Anti-Xeno.
 published: verdadero
-date: 2021-09-19T07:56:05.682Z
+date: 2024-09-10T14:52:08.442Z
 tags: admin
 editor: markdown
 dateCreated: 2021-06-08T12:40:49.911Z
 ---
 
-# ¡Bienvenido!
+![AXI Logo](/img/axi_insignia_hypen_512.png)
 
-Bienvenido a la Wiki de la Iniciativa Anti-Xeno. Este es el repositorio principal de información recopilada por la Iniciativa Anti-Xeno, aquí encontrarás tutoriales, guías y todo tipo de datos sobre Combate Thargoid en Elite Dangerous.
+# Anti-Xeno Wiki
 
-Utilice la ** Barra de Búsqueda ** en la ** parte superior ** de esta página para comenzar
+By the Anti-Xeno Initiative
 
-![](/img/2021-06-21_15_15_32-home___anti-xeno_initiative_wiki_-_beta.png)
+Bienvenido a la Wiki de la Iniciativa Anti-Xeno. The primary repository for the Anti-Xeno Initiative, here you will find tutorials, guides and detailed breakdowns of Thargoid Combat and Thargoids in Elite: Dangerous.
 
-O use la ** Barra de Navegación ** en el ** lado izquierdo ** para navegar por la wiki.
+The Anti-Xeno Wiki is a collection of articles and guides written by the experience Pilots and Mentors of the Anti-Xeno Initiative Community, you can join the community for any further questions or assistance from the many talented and friendly commanders.
 
-## Temas comunes
-¡Explore algunos de nuestros temas más comunes para comenzar!
+Want to contribute? if you know a thing or two about AX combat you can help edit the wiki. Log in with your Discord account and contact a staff of the AXI discord server to get the editor role.
 
-- [Interceptores Thargoid](/en/interceptors)
-- [Cómo encontrar Thargoids](/en/finding-thargoids)
-- [Construcciones de Naves recomendadas](/en/builds)
-- [Guía básica de Combate](/en/basic-combat-guide)
+## Popular Topics
+
+🚀 Ship Builds
+
+[Recommended Builds](/builds) [Ship Build Theory](/shipbuildtheory) [Build Repository](/buildrepository)
+
+⭐ Combat Guides
+
+[Basic Combat Guide](/basic-combat-guide) [Advanced Combat Guide](/advanced-combat-guide) [Speedrunning Guide](/combat-speedrunning)
+
+🛸 Thargoids
+
+[Finding Thargoids](/finding-thargoids) [Thargoid Interceptors](/interceptors) [Thargoid Special Attacks](/special-attacks)
+
+## Browse All Pages
 
 ## Créditos
 
-¿Quiere participar en el proyecto ** Anti-Xeno Initiative Wiki **? Dirígete a nuestro [Repositorio de GitHub](https://github.com/antixenoinitiative/axiwiki) o únete a nosotros en el discord de [AXI](https://discord.gg/bqmDxdm).
-
-[![Discord AXI](https://discord.com/api/guilds/380246809076826112/embed.png?style=banner3)](https://discord.gg/bqmDxdm)
-
 ¡Un gran agradecimiento a nuestro equipo de contenido y desarrollo! ❤️
 
-**Creadores de Contenido**
-
--   CMDT Aranionros Stormrage
--   CMDT Mechan
--   CMDT Aterius
--   CMDT EuanAB
--   CMDT Avasa Siuu
--   CMDT Maligno
-
-**Traductores**
+### Traductores
 
 -   CMDT alterNERDtive
 -   CMDT Trex63
@@ -65,9 +62,18 @@ O use la ** Barra de Navegación ** en el ** lado izquierdo ** para navegar por 
 -   CMDR SGUDestiny
 -   CMDR Archiebeales
 -   CMDR Konstantine Novakov
+-   CMDR Eckee
 
-**Desarrolladores**
+### Creadores de Contenido
 
+-   CMDT Aranionros Stormrage
+-   CMDT Mechan
+-   CMDT Aterius
+-   CMDT EuanAB
+-   CMDT Avasa Siuu
+-   CMDT Maligno
+
+### Desarrolladores
+
+-   CMDR Mgram
 -   CMDR Sanctified (Willhof)
-
-¡Y a todos los demás de la Anti-Xeno Initiative que han ayudado a hacer posible este proyecto!
