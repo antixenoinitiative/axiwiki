@@ -2,48 +2,45 @@
 title: Главная
 description: Добро пожаловать на википедию Anti-Xeno Initiative. Ваше полное хранилище данных для борьбы с таргоидами.
 published: Опубликовано
-date: 2021-09-19T07:56:05.682Z
+date: 2024-09-10T14:52:08.442Z
 tags: admin
 editor: markdown
 dateCreated: 2021-06-08T12:40:49.911Z
 ---
 
-# Добро пожаловать!
+![AXI Logo](/img/axi_insignia_hypen_512.png)
 
-Добро пожаловать на Anti-Xeno Initiative Wiki. Это основное хранилище информации, собранной Anti-Xeno Initiative, здесь вы найдёте обучения, инструкции, а также много другой информации относящейся к боям с таргоидами в игре Elite: Dangerous.
+# Anti-Xeno Wiki
 
-Используйте **строку поиска** в **верху** этой страницы для начала работы с данным ресурсом
+By the Anti-Xeno Initiative
 
-![](/img/2021-06-21_15_15_32-home___anti-xeno_initiative_wiki_-_beta.png)
+Добро пожаловать на Anti-Xeno Initiative Wiki. The primary repository for the Anti-Xeno Initiative, here you will find tutorials, guides and detailed breakdowns of Thargoid Combat and Thargoids in Elite: Dangerous.
 
-Или используйте **Меню навигации**, расположенную **слева** для просмотра содержимого данного ресурса.
+The Anti-Xeno Wiki is a collection of articles and guides written by the experience Pilots and Mentors of the Anti-Xeno Initiative Community, you can join the community for any further questions or assistance from the many talented and friendly commanders.
 
-## Основные темы
-Просмотрите несколько наиболее часто используемых тем, чтобы начать работу!
+Want to contribute? if you know a thing or two about AX combat you can help edit the wiki. Log in with your Discord account and contact a staff of the AXI discord server to get the editor role.
 
-- [Таргоидские перехватчики](/en/interceptors)
-- [Как найти таргоидов](/en/finding-thargoids)
-- [Рекомендации по сборке кораблей](/en/builds)
-- [Базовое руководство по бою с таргоидами](/en/basic-combat-guide)
+## Popular Topics
+
+🚀 Ship Builds
+
+[Recommended Builds](/builds) [Ship Build Theory](/shipbuildtheory) [Build Repository](/buildrepository)
+
+⭐ Combat Guides
+
+[Basic Combat Guide](/basic-combat-guide) [Advanced Combat Guide](/advanced-combat-guide) [Speedrunning Guide](/combat-speedrunning)
+
+🛸 Thargoids
+
+[Finding Thargoids](/finding-thargoids) [Thargoid Interceptors](/interceptors) [Thargoid Special Attacks](/special-attacks)
+
+## Browse All Pages
 
 ## Благодарности
 
-Хотите принять участие в проекте **Anti-Xeno Initiative Wiki**? Присоединяйтесь к нашему [GitHub Repository](https://github.com/antixenoinitiative/axiwiki) или посетите [AXI discord-сервер](https://discord.gg/bqmDxdm).
-
-[![AXI Discord](https://discord.com/api/guilds/380246809076826112/embed.png?style=banner3)](https://discord.gg/bqmDxdm)
-
 Большое спасибо нашей команде авторов и команде разработчиков! ❤️
 
-**Авторы статей**
-
--   CMDR Aranionros Stormrage
--   CMDR Mechan
--   CMDR Aterius
--   CMDR EuanAB
--   CMDR Avasa Siuu
--   CMDR Maligno
-
-**Переводчики**
+### Переводчики
 
 -   CMDR alterNERDtive
 -   CMDR Trex63
@@ -65,9 +62,18 @@ dateCreated: 2021-06-08T12:40:49.911Z
 -   CMDR SGUDestiny
 -   CMDR Archiebeales
 -   CMDR Konstantine Novakov
+-   CMDR Eckee
 
-**Разработчики**
+### Авторы статей
 
+-   CMDR Aranionros Stormrage
+-   CMDR Mechan
+-   CMDR Aterius
+-   CMDR EuanAB
+-   CMDR Avasa Siuu
+-   CMDR Maligno
+
+### Разработчики
+
+-   CMDR Mgram
 -   CMDR Sanctified (Willhof)
-
-И всем остальным из Anti-Xeno Initiative кто помог сделать этот проект возможным!
