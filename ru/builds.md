@@ -2,7 +2,7 @@
 title: Рекомендованные сборки
 description: Рекомендованные сборки AX-кораблей
 published: Опубликовано
-date: 2024-08-03T21:42:32.858Z
+date: 2024-09-20T08:51:00.701Z
 tags: сборки
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -52,8 +52,10 @@ The shieldless Krait is a tried and true powerhouse. The Krait's massive distrib
 
 This build has a Thermal Vent Beam Laser instead of Flak, and brings a Shutdown Field Neutralizer and Caustic Sink Launcher to mitigate the added hazards found in AXCZs. The limpets and cargo rack can be safely removed if fighting at a planetary or station CZ with active station.
 
+The "repairless" build below is specifically for active port defence where repairs are readily available.  For space AXCZ, it is necessary to take your own repairs with you.  The Modified Shard Cannons on the "repairless" build can be swapped for Modified Plasma Chargers, or perhaps a mix of 2x Modified Plasma Chargers and 2x Class 3 Ehanced Multi-Cannons.
 
-[AXCZ Krait Mk.II Build](https://edsy.org/s/v4f20ga)
+
+[AXCZ Krait Mk.II Build](https://edsy.org/s/v4f20ga) [AXCZ Krait Mk.II repairless Modified Shard Cannons Build](https://edsy.org/s/vxeLKnl) [AXCZ Krait Mk.II repairless Modified Plasma Chargers Build](https://edsy.org/s/vtUB6k2)
 
 ### Maelstrom Krait Mk.II
 !\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
