@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-09-24T12:52:13.994Z
+date: 2024-09-24T13:21:43.966Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -110,10 +110,10 @@ Type: **Cold Orbiter**
 
 Recommendation: Unarguably the best ship and build style for AX combat.
 
-[Meta Build (EDSY)](https://edsy.org/s/v02WYpg)
+[Meta Build (EDSY)](https://edsy.org/s/vBhs0qY)
 
 The following build contains modifications intended to make the ship better for Anti-Xeno Combat Zones.
-[AXCZ Meta Build (EDSY)](https://edsy.org/s/vrVcU09)
+[AXCZ Meta Build (EDSY)](https://edsy.org/s/vIaTuhv)
 
 AX Chieftain Build Video: [https://www.youtube.com/watch?v=rP6-xP3vCkI](https://www.youtube.com/watch?v=rP6-xP3vCkI)
 
@@ -155,9 +155,8 @@ Type: **Shield Tank**
 
 Recommendation: Different fighting style and generally very capable with weaker Interceptors. Becomes much harder for tougher variants.
 
-[EDSY Shielded Build](https://is.gd/DgmHXb)
+[EDSY Shielded Build](https://edsy.org/s/vKj663S)
 
-[Coriolis Shielded Build](https://s.orbis.zone/3wbf)
 
 ## Intermediate Builds
 
