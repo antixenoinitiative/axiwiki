@@ -2,7 +2,7 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2024-09-24T05:54:17.325Z
+date: 2024-09-24T12:52:13.994Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -130,7 +130,7 @@ Recommendation: Great for modified shard cannons and plasma chargers.
 
 Engineering Note: When downsizing the powerplant for extra weight reduction, power limits will require more engineering to keep everything running. Check EDSY for minimum engineering based on your specific build.
 
-[EDSY Shieldless Build](https://edsy.org/s/vFVqNg3)
+[EDSY Shieldless Build](https://edsy.org/s/vRboUKu)
 
 
 AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
