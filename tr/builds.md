@@ -2,7 +2,7 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2024-09-24T12:52:13.994Z
+date: 2024-09-24T13:24:41.451Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -107,9 +107,9 @@ Type: **Cold Orbiter**
 
 Recommendation: Unarguably the best ship and build style for AX combat.
 
-[Meta Build (EDSY)](https://edsy.org/s/v02WYpg)
+[Meta Build (EDSY)](https://edsy.org/s/vBhs0qY)
 
-The following build contains modifications intended to make the ship better for Anti-Xeno Combat Zones. [AXCZ Meta Build (EDSY)](https://edsy.org/s/vrVcU09)
+The following build contains modifications intended to make the ship better for Anti-Xeno Combat Zones. [AXCZ Meta Build (EDSY)](https://edsy.org/s/vIaTuhv)
 
 AX Chieftain Build Video: [https://www.youtube.com/watch?v=rP6-xP3vCkI](https://www.youtube.com/watch?v=rP6-xP3vCkI)
 
@@ -151,9 +151,8 @@ Type: **Shield Tank**
 
 Recommendation: Different fighting style and generally very capable with weaker Interceptors. Becomes much harder for tougher variants.
 
-[EDSY Shielded Build](https://is.gd/DgmHXb)
+[EDSY Shielded Build](https://edsy.org/s/vKj663S)
 
-[Coriolis Shielded Build](https://s.orbis.zone/3wbf)
 
 ## Orta Seviye Gemiler
 
@@ -178,9 +177,8 @@ Type: **Cold Orbiter**
 
 Recommendation: A great ship for those who find the Chieftain too responsive, or want to use shards or chargers.
 
-[EDSY Shieldless Build](https://edsy.org/s/v6Rppcb)
+[EDSY Shieldless Build](https://edsy.org/s/vsftAn4)
 
-[Coriolis Shieldless Build](https://s.orbis.zone/fnnx)
 
 ### Federal Corvette (Shieldless)
 !\[federal-corvette.png\](/img/federal-corvette.png =250x){.align-right}
@@ -198,9 +196,8 @@ Type: **Cold Orbiter**
 
 Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
 
-[EDSY Build](https://edsy.org/s/vA8F5FD)
+[EDSY Build]https://edsy.org/s/vlGtcnI)
 
-[Coriolis Build](https://s.orbis.zone/fnn_)
 
 ### Federal Corvette (Shielded)
 !\[federal-corvette.png\](/img/federal-corvette.png =250x){.align-right}
@@ -216,9 +213,8 @@ One of the "big three" the Federal Corvette is a force to be reckoned with. Offe
 
 Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
 
-[EDSY Build](https://edsy.org/s/vVB46ov)
+[EDSY Build](https://edsy.org/s/vXI6H3c)
 
-[Coriolis Build](https://s.orbis.zone/hvm_)
 
 
 ## İleri Seviye Gemiler
