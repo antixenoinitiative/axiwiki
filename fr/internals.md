@@ -2,7 +2,7 @@
 title: Optional Internals & Utility Modules
 description: A short introduction to the use of various modules in AX.
 published: true
-date: 2024-09-24T09:27:49.523Z
+date: 2024-09-24T10:53:10.261Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -67,9 +67,9 @@ GSRPs work best with bi-weaves because of the shield regeneration and recovery e
 ## Repair Limpet Controller
 The repair limpet controller allows you to deploy a limpet from your cargo hold that will repair your ship's hull and canopy. The controller requires a cargo rack with at least 1x Limpet. The Limpet can also be sent to another player’s ship if it is within range. These are a staple of shieldless builds, allowing for a ship to return to 100% hull in between hearts.
 
-D-class Repair Limpet Controllers are generally recommended, as these weight less and use less power than all other classes.  D-class Repair Limpet Controllers repair the same amount of hull damage as all other classes, but the trade-off is that D-class Repair Limpet Controllers have a shorter range than A- or B-class.  The Repair Limpet Controller is primarily for self-repairs, and wingmates can come to you if they need help with repairs.
+D-rated Repair Limpet Controllers are generally recommended, as these weigh less and use less power than all other ratings.  D-class Repair Limpet Controllers repair the same amount of hull damage as all other ratings, but the trade-off is that D-class Repair Limpet Controllers have a shorter range than A- or B-rated Controllers.  The Repair Limpet Controller is primarily for self-repairs, and wingmates can come to you if they need help with repairs.
 
-Whilst Multi-function Limpet Controllers also include repair functionality, they do so at the cost of reduced capability and  extra weight and power consumption.  For example, a 7A Universal Limpet Controller repairs the same amount of hull damage as a Class 5 Repair Limpet Controller (310 hull points), but has a mass of 125T and a power draw of 1.1MW.  A 7D Repair Limpet Controller would fit in the same internal slot, repairs  almost 50% more per limpet (450 hull points) and has a mass of only 32T and a power draw of 0.41MW.
+Whilst Multi-function Limpet Controllers also include repair functionality, they do so at the cost of reduced capability,  extra weight and extra power consumption.  For example, a 7A Universal Limpet Controller repairs the same amount of hull damage as a Class 5 Repair Limpet Controller (310 hull points), but has a mass of 125T and a power draw of 1.1MW.  A 7D Repair Limpet Controller would fit in the same internal slot, repairs  almost 50% more per limpet (450 hull points) and has a mass of only 32T and a power draw of 0.41MW.
 
 ## Experimental Weapons Stabilizer
 This module comes in two classes, class 3 and class 5, increasing the experimental weapon limit by 1 and 2 respectively. This module is very useful for ships using human AX weaponry. It is not very useful for ships using guardian tech, as the added weapons cannot be sustained by the power distributor in most cases.  There are however exceptional use cases, such as the ["CytoPlasmaConda" build](https://edsy.org/s/v0cjudk) used at [Thargoid Spire Sites](/Spire-Operations), which runs 6 Modiifed Plasma Chargers.
