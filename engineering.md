@@ -2,7 +2,7 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2024-09-24T09:12:54.623Z
+date: 2024-09-24T09:23:35.074Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -31,7 +31,7 @@ Selenium has no known crystal shard sites. However, Odyssey introduced new sites
 
 - **Yttrium** - Outotz LS-K D8-3, B 5 A
 - **Antimony** - Outotz LS-K D8-3, B 5 C
-- **Ruthenium** - Outotz LS-K D8-3, B 7 B
+- **Ruthenium** - HIP 36601, C 1 D and Outotz LS-K D8-3, B 7 B
 - **Polonium** - HIP 36601, C 1 A
 - **Tellurium** - HIP 36601, C 3 B
 - **Technetium** - HIP 36601, C 5 A
@@ -40,9 +40,11 @@ Selenium has no known crystal shard sites. However, Odyssey introduced new sites
 
 To use these sites, you will need to go to the celestial body corresponding to the material you require and use your Detailed Surface Scanner (DSS) on it. When this is done, select Crystal Shards and look for dark blue areas. Fly down to the planet and look for shards on the surface. Land, and hop in your SRV. You should be able to find plenty of rare raw materials for all your engineering and synthesis needs.
 
-**Do not forget to bring a Detailed Surface Scanner and SRV**
+The [Elite Materials](https://sites.google.com/view/elite-materials/collection/raw-materials?authuser=0) website hosts a list of planetary co-ordinates for these locaitons where there are known, high-yield sites.  you can use a planetary navigation app such as [ED Discovery](https://edcodex.info/?m=tools&entry=10) or [E.D.I.S.O.N.](https://edcodex.info/?m=tools&entry=431) to accurately find them.  
 
-Dumbfire missiles can be used to increase farming efficiency, as demonstrated [here](https://youtu.be/xQsVE5CLl6o).
+**Do not forget to bring a Detailed Surface Scanner and SRV**.
+
+Dumbfire missiles or flak cannons can be used to increase farming efficiency, as demonstrated [here](https://youtu.be/xQsVE5CLl6o).
 
 ## Selenium and Thargoid Barnacles
 Selenium is (ironically) the most difficult material to farm since it only drops from Grade 2 resource nodes. There are multiple ways to collect it however, albeit slightly slower. The best way is brain trees, which can be farmed similar to crystal shards. Brain trees for selenium can be found at **Kappa-1 Volantis, B 3 F A** and **HR 3230, 3 A A**.
@@ -90,7 +92,7 @@ You can find a collection of high grade encoded materials by travelling to James
 
 # Guardian Materials
 ## Blueprints
-Guardian blueprint fragments come in three forms: Weapon, Module, and Vessel. Each active guardian site will provide one of these types. While many CMDRs have sites they prefer to use, we recommend **HD 63154 planet B 3 A** for modules and **Col 173 Sector OD-J B25-2 planet  B 1** for weapons.
+Guardian blueprint fragments come in three forms: Weapon, Module, and Vessel. Each active guardian site will provide one of these types. While many CMDRs have sites they prefer to use, we recommend **Syniefe GV-T B50-1, planet B 2** for modules and **Synuefe GV-T B50-4, planet  B 1** for weapons.
 
 ### Materials
 Guardian materials can be found at various active guardian sites. Some drop from destructible panels, and some drop from destroyed sentinels. A list of where to find each material can be found [here](https://www.edmaterials.app/home/guardian-materials).
