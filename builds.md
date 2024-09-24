@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-09-24T13:21:43.966Z
+date: 2024-09-24T13:24:41.451Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -181,9 +181,8 @@ Type: **Cold Orbiter**
 
 Recommendation: A great ship for those who find the Chieftain too responsive, or want to use shards or chargers.
 
-[EDSY Shieldless Build](https://edsy.org/s/v6Rppcb)
+[EDSY Shieldless Build](https://edsy.org/s/vsftAn4)
 
-[Coriolis Shieldless Build](https://s.orbis.zone/fnnx)
 
 ### Federal Corvette (Shieldless)
 ![federal-corvette.png](/img/federal-corvette.png =250x){.align-right}
@@ -201,9 +200,8 @@ Type: **Cold Orbiter**
 
 Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
 
-[EDSY Build](https://edsy.org/s/vA8F5FD)
+[EDSY Build]https://edsy.org/s/vlGtcnI)
 
-[Coriolis Build](https://s.orbis.zone/fnn_)
 
 ### Federal Corvette (Shielded)
 ![federal-corvette.png](/img/federal-corvette.png =250x){.align-right}
@@ -220,9 +218,8 @@ Type: **Shield Tank**
 
 Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
 
-[EDSY Build](https://edsy.org/s/vVB46ov)
+[EDSY Build](https://edsy.org/s/vXI6H3c)
 
-[Coriolis Build](https://s.orbis.zone/hvm_)
 
 
 ## Advanced Builds
