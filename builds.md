@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-09-20T13:49:01.008Z
+date: 2024-09-24T05:37:33.765Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -425,9 +425,9 @@ Recommendation: Agile and packs a punch, and strong enough to go toe-to-toe with
 
 ### Anaconda (Shielded)
 ![anaconda.png](/img/anaconda.png =250x){.align-right}
-#### **Krait Mk.II**
+#### **Anaconda (Shielded)**
 
-CMDR Mechan's famous "CytoPlasmaConda" build is designed to very effectively strip Orthrus shields.  Building this ship equires access to the Cytoscrambler lasers, a PowerPlay module from Archon Delaine.  slow but extremely powerful, it is also vulnerable to  Anti-Guardian Fields so again, Auto-Field Maintenance Units are mandatory.
+CMDR Mechan's famous "CytoPlasmaConda" build is designed to very effectively strip Orthrus shields.  Building this ship equires access to the Cytoscrambler lasers, a PowerPlay module from Archon Delaine.  Slow but extremely powerful, it is also vulnerable to  Anti-Guardian Fields so again, Auto-Field Maintenance Units are mandatory.
 
 - Speed: ⭐⭐
 - Agility: ⭐⭐⭐
@@ -438,4 +438,18 @@ Recommendation: Not very agile but huge damage output; requires some finesse, es
 
 [**CytoPlasmaConda Build**](https://edsy.org/s/v0cjudk)
 
+### Python Mk. II (Shielded)
+
+#### **Python Mk.II (Shielded)**
+
+This ship requires access to Class 2 and 3 Guardian Shard Cannons, as well as Guardian Zone Engineering from Ram Tah.  The Python Mk. II build is designed to strike at Orthrus interceptors in a solo instance, dodging incoming Banshee missiles and stakcing a second Thargoid Pulse Neutraliser for when they can't be dodged, or attampting a strike run. Due to the internal module constraints of the Python Mk. II, this build also stacks Caustic sink Launchers to deal with Caustic damage and Shield Boosters, to shrug off incoming Scout fire.  
+
+- Speed: ⭐⭐⭐
+- Agility: ⭐⭐⭐⭐
+- Armour: ⭐⭐
+- Firepower: ⭐⭐⭐⭐⭐
+
+Recommendation: In the hands of a competent pilot this ship is highly capable of effectively demolishing Orthrus interceptors in a solo instance.
+
+[**Python Mk. II Build**](https://edsy.org/s/vvmtsIN)
 
