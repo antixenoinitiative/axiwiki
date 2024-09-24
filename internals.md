@@ -2,7 +2,7 @@
 title: Optional Internals & Utility Modules
 description: A short introduction to the use of various modules in AX.
 published: true
-date: 2024-09-24T09:07:15.996Z
+date: 2024-09-24T09:08:23.179Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -71,7 +71,7 @@ Whilst Multi-function Limpet Controllers also include repair functionality, they
 
 ## Experimental Weapons Stabilizer
 This module comes in two classes, class 3 and class 5, increasing the experimental weapon limit by 1 and 2 respectively.
-This module is very useful for ships using human AX weaponry. It is not very useful for ships using guardian tech, as the added weapons cannot be sustained by the power distributor in most cases.
+This module is very useful for ships using human AX weaponry. It is not very useful for ships using guardian tech, as the added weapons cannot be sustained by the power distributor in most cases.  There are however exceptional use cases, such as the "CytoPlasmaConda" build used at Thargoid Spire Sites, which runs 6 Modiifed Plasma Chargers.  
 
 # Utility Modules
 
