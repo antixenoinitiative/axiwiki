@@ -2,7 +2,7 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2024-09-24T09:23:35.074Z
+date: 2024-09-24T09:25:54.637Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -40,7 +40,7 @@ Selenium has no known crystal shard sites. However, Odyssey introduced new sites
 
 To use these sites, you will need to go to the celestial body corresponding to the material you require and use your Detailed Surface Scanner (DSS) on it. When this is done, select Crystal Shards and look for dark blue areas. Fly down to the planet and look for shards on the surface. Land, and hop in your SRV. You should be able to find plenty of rare raw materials for all your engineering and synthesis needs.
 
-The [Elite Materials](https://sites.google.com/view/elite-materials/collection/raw-materials?authuser=0) website hosts a list of planetary co-ordinates for these locaitons where there are known, high-yield sites.  you can use a planetary navigation app such as [ED Discovery](https://edcodex.info/?m=tools&entry=10) or [E.D.I.S.O.N.](https://edcodex.info/?m=tools&entry=431) to accurately find them.  
+The [Elite Materials](https://sites.google.com/view/elite-materials/collection/raw-materials?authuser=0) website hosts a list of planetary co-ordinates for these locations where there are known, high-yield sites.  you can use a planetary navigation app such as [ED Discovery](https://edcodex.info/?m=tools&entry=10) or [E.D.I.S.O.N.](https://edcodex.info/?m=tools&entry=431) to accurately find them.  
 
 **Do not forget to bring a Detailed Surface Scanner and SRV**.
 
@@ -49,7 +49,7 @@ Dumbfire missiles or flak cannons can be used to increase farming efficiency, as
 ## Selenium and Thargoid Barnacles
 Selenium is (ironically) the most difficult material to farm since it only drops from Grade 2 resource nodes. There are multiple ways to collect it however, albeit slightly slower. The best way is brain trees, which can be farmed similar to crystal shards. Brain trees for selenium can be found at **Kappa-1 Volantis, B 3 F A** and **HR 3230, 3 A A**.
 
-Thargoid Barnacles can provide a good source of selenoum as well, as breaking the spikes most commonly drops G1-G2 materials, but locating the correct barnacle may be tricky. You can use this spreadsheet compiled by CMDR Panpiper to find the correct sites. Look for Allripe Barnacles with Selenium present on the planet. Additionally relogging will cause the spikes to reappear, which means you can repeatedly farm the same site.
+Thargoid Barnacles can provide a good source of selenium as well, as breaking the spikes most commonly drops G1-G2 materials, but locating the correct barnacle may be tricky. You can use this spreadsheet compiled by CMDR Panpiper to find the correct sites. Look for Allripe Barnacles with Selenium present on the planet. Additionally relogging will cause the spikes to reappear, which means you can repeatedly farm the same site.
 
 For more information on barnacles, check out [Panpipers's Pleiades Survivor Guide to Barnacles and More](https://docs.google.com/spreadsheets/d/1giHvc1SISUcD7BPKjlbutkuwPrWQwHuSxnBwQ3MPQME/edit#gid=0)
 
