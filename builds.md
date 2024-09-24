@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-09-24T05:37:33.765Z
+date: 2024-09-24T05:39:00.983Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -442,14 +442,14 @@ Recommendation: Not very agile but huge damage output; requires some finesse, es
 
 #### **Python Mk.II (Shielded)**
 
-This ship requires access to Class 2 and 3 Guardian Shard Cannons, as well as Guardian Zone Engineering from Ram Tah.  The Python Mk. II build is designed to strike at Orthrus interceptors in a solo instance, dodging incoming Banshee missiles and stakcing a second Thargoid Pulse Neutraliser for when they can't be dodged, or attampting a strike run. Due to the internal module constraints of the Python Mk. II, this build also stacks Caustic sink Launchers to deal with Caustic damage and Shield Boosters, to shrug off incoming Scout fire.  
+This ship requires access to Class 2 and 3 Guardian Shard Cannons, as well as Guardian Zone Engineering from Ram Tah.  The Python Mk. II build is designed to strike at Orthrus interceptors in a solo instance, dodging incoming Banshee missiles and stakcing a second Thargoid Pulse Neutraliser for when they can't be dodged, or attampting a strike run. Due to the internal module constraints of the Python Mk. II, this build also stacks Caustic sink Launchers to deal with Caustic damage and Shield Boosters, to shrug off incoming Scout fire. 
 
 - Speed: ⭐⭐⭐
 - Agility: ⭐⭐⭐⭐
 - Armour: ⭐⭐
 - Firepower: ⭐⭐⭐⭐⭐
 
-Recommendation: In the hands of a competent pilot this ship is highly capable of effectively demolishing Orthrus interceptors in a solo instance.
+Recommendation: In the hands of a competent pilot this ship is highly capable of effectively demolishing Orthrus interceptors in a solo instance. The Shard Cannons can be used to clear Scouts but this is highly inefficient use of ammunition, so strike-and-run tactics work well here.   
 
 [**Python Mk. II Build**](https://edsy.org/s/vvmtsIN)
 
