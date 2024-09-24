@@ -2,7 +2,7 @@
 title: Optional Internals & Utility Modules
 description: A short introduction to the use of various modules in AX.
 published: true
-date: 2024-09-24T08:59:39.249Z
+date: 2024-09-24T09:03:09.124Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -120,6 +120,12 @@ Generally, when you hear a shutdown pulse warning, dump pips to SYS, count to th
 ## Heatsink Launcher
 If your AX build doesn't have these, something is very wrong. Heatsinks are the only viable way of venting the extreme heat created by Guardian weaponry. They can either be bound to a firegroup or a dedicated hotkey. They require a small amount of SYS capacitor to use and provide 2 MW of WEP capacitor regeneration for their 10-second duration, in addition to providing rapid cooling. Heatsinks allow cold orbiting, which causes the Thargoid to miss most or all of its shots. For more information, see Cold Orbiting.
 
+Pre-engineered heatsinks can be purchased from Sirius Corp. Megaships, which contain an additional two heatsinks per ammunition loadout.  They can be purchased for the following cost:
+- ** 8 Mechanical Scrap **
+- ** 6 Niobium**
+- ** 6 Vanadium **
+- ** 5 Mechanical Components ** 
+
 ## Caustic Sink Launcher
-Highly recommended for most AX ships, as nearly all Thargoid vessels employ some form of caustic weaponry. These sinks will quickly remove the caustic debuff from your ship automatically, only needing to be ejected when they are full.  
+Highly recommended for most AX ships, as nearly all Thargoid vessels employ some form of caustic weaponry. These sinks will quickly remove the caustic debuff from your ship automatically, only needing to be ejected when they are full.  They can be purchased with credits from Rescue Megaships.
 They are not recommended for solo Interceptor fights, as caustic missiles can be avoided using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95).
