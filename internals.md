@@ -2,7 +2,7 @@
 title: Optional Internals & Utility Modules
 description: A short introduction to the use of various modules in AX.
 published: true
-date: 2024-09-24T09:27:49.523Z
+date: 2024-09-24T10:46:01.464Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
