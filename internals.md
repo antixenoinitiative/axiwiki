@@ -2,7 +2,7 @@
 title: Optional Internals & Utility Modules
 description: A short introduction to the use of various modules in AX.
 published: true
-date: 2024-09-24T09:06:55.254Z
+date: 2024-09-24T09:07:15.996Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -67,7 +67,7 @@ The repair limpet controller allows you to deploy a limpet from your cargo hold 
 
 D-class Repair Limpet Controllers are generally recommended, as these weight less and use less power than all other classes.  D-class Repair Limpet Controllers repair the same amount of hull damage as all other classes, but the trade-off is that D-class Repair Limpet Controllers have a shorter range than A- or B-class.  The Repair Limpet Controller is primarily for self-repairs, and wingmates can come to you if they need help with repairs.  
 
-Whilst Multi-function Limpet Controllers also include repair functionality, they do so at the cost of reduced capability and  extra weight and power consumption.  For example, a 7A Universal Limpet Controller repairs the same amount of hull damage as a Class 5 Repair Limpet Controller (310 hull points), but has a mass of 125T and a power draw of 1.1MW.  A 7D Repair Limpet Controller would fit in the same internal slot, repairs  almost 50% more for per limpet (450 hull points) and has a mass of only 32T and a power draw of 0.41MW. 
+Whilst Multi-function Limpet Controllers also include repair functionality, they do so at the cost of reduced capability and  extra weight and power consumption.  For example, a 7A Universal Limpet Controller repairs the same amount of hull damage as a Class 5 Repair Limpet Controller (310 hull points), but has a mass of 125T and a power draw of 1.1MW.  A 7D Repair Limpet Controller would fit in the same internal slot, repairs  almost 50% more per limpet (450 hull points) and has a mass of only 32T and a power draw of 0.41MW. 
 
 ## Experimental Weapons Stabilizer
 This module comes in two classes, class 3 and class 5, increasing the experimental weapon limit by 1 and 2 respectively.
