@@ -2,7 +2,7 @@
 title: Optional Internals & Utility Modules
 description: A short introduction to the use of various modules in AX.
 published: true
-date: 2024-07-05T10:23:31.362Z
+date: 2024-09-24T08:58:57.760Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -48,6 +48,8 @@ The damage absorption effect stacks multiplicatively, as follows using D class f
 
 Most builds recommend at least 1x MRP to avoid modules being destroyed instantly from Thargoid weapons. Shieldless ship builds usually include three as any damage can be devastating without. The largest MRP that is not in a military slot is damaged first, followed by smaller MRPs outside the military slots, and finishing with those in military slots. Due to this, many builds will use only one large GMRP (C4 or C5) and two smaller MRPs (C1 and C2), all in regular optional internal slots.
 
+To make most effective use of MRPs, especially in the one-large, two-small configuraiton desscribed above, it is important to keep your MRPs repaired, partiuclarly the larger MRP, by using an Auto Field Maintenance Unit (AFMU).  Once the larger MRP is destroyed, the smaller ones will be damaged very quickly.  Repair your MRPs by navigating to them in your "modules" tab on your internal (right hand) panel, selecting them, and then selecting the "repair" option on the sub-menu.  It's easier to scroll from the bottom up to get to your MRPs.  As MRPs are reduced to 0% durability in sequence, the amount of module damage your ship takes will correspondingly increase.  
+
 *GMRPs are also supposed to prevent modules from being shut down by lightning attacks. Instead, they only add another module to the pool that can be shut down. We don’t recommend testing this out yourself*.
 
 ## Guardian Shield Reinforcement Package
@@ -62,6 +64,10 @@ GSRPs work best with bi-weaves because of the shield regeneration and recovery e
 
 ## Repair Limpet Controller
 The repair limpet controller allows you to deploy a limpet from your cargo hold that will repair your ship's hull and canopy. The controller requires a cargo rack with at least 1x Limpet. The Limpet can also be sent to another player’s ship if it is within range. These are a staple of shieldless builds, allowing for a ship to return to 100% hull in between hearts.
+
+D-class Repair Limpet Controllers are generally recommended, as these weight less and use less power than all other classes.  D-class Repair Limpet Controllers repair the same amount of hull damage as all other classes, but the trade-off is that D-class Repair Limpet Controllers have a shorter range than A- or B-class.  The Repair Limpet Controller is primarily for self-repairs, and wingmates can come to you if they need help with repairs.  
+
+Whilst Multi-funciton Limpet Controllers also include repair functionality, they do so at the cost of reduced capability and  extra weight and power consumption.  For example, a 7A Universal Limpet Controller repairs the same amount of hull damage as a Class 5 Repair Limpet Controller (310 hull points), but has a mass of 125T and a power draw of 1.1MW.  A 7D Repair Limpet Controller would fit in the same internal slot, repairs  almost 50% more for per limpet (450 hull points) and has a mass of only 32T and a power draw of 0.41MW. 
 
 ## Experimental Weapons Stabilizer
 This module comes in two classes, class 3 and class 5, increasing the experimental weapon limit by 1 and 2 respectively.
