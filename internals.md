@@ -2,7 +2,7 @@
 title: Optional Internals & Utility Modules
 description: A short introduction to the use of various modules in AX.
 published: true
-date: 2024-09-24T10:53:10.261Z
+date: 2024-09-24T14:32:58.309Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -48,7 +48,7 @@ The damage absorption effect stacks multiplicatively, as follows using D class f
 
 Most builds recommend at least 1x MRP to avoid modules being destroyed instantly from Thargoid weapons. Shieldless ship builds usually include three as any damage can be devastating without. The largest MRP that is not in a military slot is damaged first, followed by smaller MRPs outside the military slots, and finishing with those in military slots. Due to this, many builds will use only one large GMRP (C4 or C5) and two smaller MRPs (C1 and C2), all in regular optional internal slots.
 
-To make most effective use of MRPs, especially in the one-large, two-small configuraiton desscribed above, it is important to keep your MRPs repaired, partiuclarly the larger MRP, by using an Auto Field Maintenance Unit (AFMU).  This means most recommended builds dedicate four slots to MRPs, including the AFMU.
+To make most effective use of MRPs, especially in the one-large, two-small configuraiton desscribed above, it is important to keep your MRPs repaired, partiuclarly the larger MRP, by using an Auto Field Maintenance Unit (AFMU).
 
 Once the largest MRP is destroyed, the smaller ones will be damaged very quickly.  Repair your MRPs by navigating to them in your "modules" tab on your internal (right hand) panel, selecting them, and then selecting the "repair" option on the sub-menu.  It's easier to scroll from the bottom up to get to your MRPs.  As MRPs are reduced to 0% durability in sequence, the amount of module damage your ship takes will correspondingly increase.  
 
@@ -73,7 +73,11 @@ Whilst Multi-function Limpet Controllers also include repair functionality, they
 
 ## Experimental Weapons Stabilizer
 This module comes in two classes, class 3 and class 5, increasing the experimental weapon limit by 1 and 2 respectively.
-This module is very useful for ships using human AX weaponry. It is not very useful for ships using guardian tech, as the added weapons cannot be sustained by the power distributor in most cases.  There are however exceptional use cases, such as the ["CytoPlasmaConda" build](https://edsy.org/s/v0cjudk) used at [Thargoid Spire Sites](/Spire-Operations), which runs 6 Modiifed Plasma Chargers.  
+This module is very useful for ships using human AX weaponry. It is not very useful for ships using guardian tech, as the added weapons cannot be sustained by the power distributor in most cases.  There are however exceptional use cases, such as the ["CytoPlasmaConda" build](https://edsy.org/s/v0cjudk) used at [Thargoid Spire Sites](/Spire-Operations), which runs 6 Modiifed Plasma Chargers.
+
+## Auto Field-Maintinence Unit (AFMU)
+The AFMU allows autonomous repair of internal modules without needing to return to a station. Used in combination with MRPs, the AFMU keeps your MRPs at full health, negating most of the damage to your other modules.
+The repair speed of an AFMU is determined solely by its rating, with A rated AFMUs providing the fastest repair speed. Thus, the only difference in size is the repair capacity. Most shieldless builds will bring a class 1-3 AFMU, providing a good balance between repair capacity and effective hull lost.
 
 # Utility Modules
 
