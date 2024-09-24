@@ -2,7 +2,7 @@
 title: Horizons Engineers
 description: An AX-focused engineer unlocking and travel guide.
 published: true
-date: 2023-02-13T18:09:59.277Z
+date: 2024-09-24T06:01:54.477Z
 tags: engineering
 editor: markdown
 dateCreated: 2023-02-13T17:37:07.496Z
@@ -45,9 +45,13 @@ While Farseer does not provide any unique grade five blueprints, it is highly re
 # How To Unlock
 A few guides exist on how to unlock engineers. The rough overview is that each engineer needs two things met: some achivement, and some cargo delivery. A guide for unlocking engineers can be found [here](https://cmdrs-toolbox.com/guides/engineering-unlock).
 
-> It should be noted that bringing a guardian-thargoid hybrid relic to Arque bypasses Palin's 5000ly travel requirement. 
-> 
-> {.is-info}
+> It should be noted that bringing a guardian-thargoid hybrid relic to Arque bypasses Palin's 5000ly travel requirement.  You may be able to acquire such a relic bi asking in the [Anti-Xeno Initiative Discord](https://discord.gg/antixenoinitiative).
+
+Some CMDRs, particularly those purchasing the game after the release of the Odyssey expansion, report having access to certain engineers without meeting the prerequisites for unlock. These include:
+
+- Mining 500 units of ore for Selene Jean
+- Trading with 50 markets for Lei Cheung
+
 
 ### Unlocking Selene Jean
 *Courtesy of CMDR lyonhaert* For refining 500T of minerals most efficiently, I recommend this approach as it is more consistent and faster than any form of deposit mining.
