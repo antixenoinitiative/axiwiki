@@ -2,7 +2,7 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2024-09-24T09:12:39.276Z
+date: 2024-09-24T09:12:54.623Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -45,7 +45,7 @@ To use these sites, you will need to go to the celestial body corresponding to t
 Dumbfire missiles can be used to increase farming efficiency, as demonstrated [here](https://youtu.be/xQsVE5CLl6o).
 
 ## Selenium and Thargoid Barnacles
-Selenium is (ironically) the most difficult material to farm since it only drops from Grade 2 resource nodes. There are multiple ways to collect it however, albeit slightly slower. The best way is brain trees, which can be farmed similar to crystal shards. Brain trees for selenium can be found at **Kappa-1 Volantis, B 3 F A** and **HR 3230 3 A A**.
+Selenium is (ironically) the most difficult material to farm since it only drops from Grade 2 resource nodes. There are multiple ways to collect it however, albeit slightly slower. The best way is brain trees, which can be farmed similar to crystal shards. Brain trees for selenium can be found at **Kappa-1 Volantis, B 3 F A** and **HR 3230, 3 A A**.
 
 Thargoid Barnacles can provide a good source of selenoum as well, as breaking the spikes most commonly drops G1-G2 materials, but locating the correct barnacle may be tricky. You can use this spreadsheet compiled by CMDR Panpiper to find the correct sites. Look for Allripe Barnacles with Selenium present on the planet. Additionally relogging will cause the spikes to reappear, which means you can repeatedly farm the same site.
 
