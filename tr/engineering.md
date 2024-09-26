@@ -2,7 +2,7 @@
 title: Mühendislik Materyalleri Rehberi
 description: Geminizi mühendislikle yükseltmek için gereken materyalleri elde etme rehberi
 published: true
-date: 2024-09-24T09:25:54.637Z
+date: 2024-09-26T18:50:32.519Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -92,7 +92,7 @@ You can find a collection of high grade encoded materials by travelling to James
 
 # Guardian Materials
 ## Blueprints
-Guardian blueprint fragments come in three forms: Weapon, Module, and Vessel. Each active guardian site will provide one of these types. While many CMDRs have sites they prefer to use, we recommend **Syniefe GV-T B50-1, planet B 2** for modules and **Synuefe GV-T B50-4, planet  B 1** for weapons.
+Guardian blueprint fragments come in three forms: Weapon, Module, and Vessel. Each active guardian site will provide one of these types. While many CMDRs have sites they prefer to use, we recommend **Syniefe LQ-T B50-1, planet B 2** for modules and **Synuefe GV-T B50-4, planet  B 1** for weapons.
 
 ### Materials
 Guardian materials can be found at various active guardian sites. Some drop from destructible panels, and some drop from destroyed sentinels. A list of where to find each material can be found [here](https://www.edmaterials.app/home/guardian-materials).
