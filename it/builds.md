@@ -2,7 +2,7 @@
 title: '“Builds” raccomandate'
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-09-24T13:24:41.451Z
+date: 2024-09-26T21:58:23.921Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -61,7 +61,7 @@ The "repairless" build below is specifically for active port defence where repai
 !\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
 #### **Maelstrom Diver Build**
 
-The Krait Mk.II is a tried and true favorite of maelstrom divers, as it offers substantial firepower and optional internals, while still maintaining good maneuverability.
+The Krait Mk.II is a tried and true favorite of maelstrom divers, as it offers substantial firepower and optional internals, while still maintaining good maneuverability.  The Maelstrom (or TitanKiller) Krait can be outfitted with a variety of weapon loadouts; the example given is the "fighter" configuration with Enhanced AX Multi-Cannons.  For more detail on alternative options, visit the "Titan builds" section below.
 
 - AXMCs: 3 large, 1 medium
 - Speed: 385m/s, 530m/s boost
