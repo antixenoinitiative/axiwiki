@@ -2,7 +2,7 @@
 title: '“Builds” raccomandate'
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-09-27T13:46:48.772Z
+date: 2024-10-01T14:15:35.019Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -394,7 +394,7 @@ The Krait can fit 3x Large and 2x Medium Enchanced AX Multi-Cannons (for Scouts)
 
 Recommendation: A great entry-level ship for Spire AX.
 
-[**Shieldless Krait Missile Bomber Build**](https://edsy.org/s/vdWleXw)
+[**Shieldless Krait Missile Bomber Build**](https://edsy.org/s/vWmUQDT)
 
 ### Krait Mk.II (Shieldless Guardian)
 !\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
