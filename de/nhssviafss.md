@@ -2,7 +2,7 @@
 title: NHSS-Inhalt durch FSS-Tuning vorhersagen
 description: Man kann NHSS vorhersagen und auf dem Spektrum des FSS zuordenen
 published: true
-date: 2021-08-03T13:32:41.413Z
+date: 2024-10-03T12:31:54.054Z
 tags: NHSS
 editor: markdown
 dateCreated: 2021-08-03T12:11:12.142Z
@@ -24,15 +24,16 @@ Durch diese Technik kann man alle Signale, die auf dem FSS auftauchen, vorhersag
 
 - Linke Seite des Spektrums:
 
-![Left.png](https://media.discordapp.net/attachments/854844543823642674/872095282656071690/Left.jpg?width=1290&height=726)
+![nhss_fss_left.jpg](/img/nhss_fss_left.jpg)
+
 
 - Rechte Seite des Spektrums
 
-![Right.png](https://media.discordapp.net/attachments/854844543823642674/872095289354367066/Right.jpg?width=1290&height=726)
+![nhss_fss_right.jpg](/img/nhss_fss_right.jpg)
 
 - Mitte des Spektrums
 
-![Middle.png](https://media.discordapp.net/attachments/854844543823642674/872095297478725712/Middle.jpg?width=1290&height=726)
+![nhss_fss_middle.jpg](/img/nhss_fss_middle.jpg)
 
 Prüfe die Ergebnisse hier: [Xarionn’s Excel](https://docs.google.com/spreadsheets/d/14Ik0S1fV8FHJR5iJQpiSbJ1t_yntRJVBB6axeL3XErk/edit#gid=0)
 
