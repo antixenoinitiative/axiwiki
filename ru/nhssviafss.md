@@ -2,7 +2,7 @@
 title: Прогнозирование содержания НчИС с помощью настройки FSS
 description: Как прогнозировать появляющиеся и отображаемые на карте FSS все НчИС
 published: опубликовано
-date: 2021-08-03T13:32:41.413Z
+date: 2024-10-03T12:31:54.054Z
 tags: nhss, нчис
 editor: markdown
 dateCreated: 2021-08-03T12:11:12.142Z
@@ -24,15 +24,16 @@ dateCreated: 2021-08-03T12:11:12.142Z
 
 - Левая часть спектра:
 
-![Left.png](https://media.discordapp.net/attachments/854844543823642674/872095282656071690/Left.jpg?width=1290&height=726)
+![nhss_fss_left.jpg](/img/nhss_fss_left.jpg)
+
 
 - Правая часть спектра
 
-![Right.png](https://media.discordapp.net/attachments/854844543823642674/872095289354367066/Right.jpg?width=1290&height=726)
+![nhss_fss_right.jpg](/img/nhss_fss_right.jpg)
 
 - Средняя часть спектра
 
-![Middle.png](https://media.discordapp.net/attachments/854844543823642674/872095297478725712/Middle.jpg?width=1290&height=726)
+![nhss_fss_middle.jpg](/img/nhss_fss_middle.jpg)
 
 Обзор данных можно посмотреть здесь: [Xarionn’s spreadsheet](https://docs.google.com/spreadsheets/d/14Ik0S1fV8FHJR5iJQpiSbJ1t_yntRJVBB6axeL3XErk/edit#gid=0)
 
