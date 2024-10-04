@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-10-01T14:15:35.019Z
+date: 2024-10-04T10:52:06.446Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -438,7 +438,7 @@ Recommendation: Not very agile but huge damage output; requires some finesse, es
 
 #### **Python Mk.II (Shielded)**
 
-This ship requires access to Class 2 and 3 Guardian Shard Cannons, as well as Guardian Zone Engineering from Ram Tah.  The Python Mk. II build is designed to strike at Orthrus interceptors in a solo instance, dodging incoming Banshee missiles and stakcing a second Thargoid Pulse Neutraliser for when they can't be dodged, or attempting a strike run. Due to the internal module constraints of the Python Mk. II, this build also stacks Caustic sink Launchers to deal with Caustic damage and Shield Boosters, to shrug off incoming Scout fire. 
+This ship requires access to Class 2 and 3 Guardian Shard Cannons, as well as Guardian Zone Engineering from Ram Tah.  The Python Mk. II build is designed to strike at Orthrus interceptors in a solo instance, dodging incoming Banshee missiles and stacking a second Thargoid Pulse Neutraliser for when they can't be dodged, or attempting a strike run. Due to the internal module constraints of the Python Mk. II, this build also stacks Caustic sink Launchers to deal with Caustic damage and Shield Boosters, to shrug off incoming Scout fire. 
 
 - Speed: ⭐⭐⭐
 - Agility: ⭐⭐⭐⭐
