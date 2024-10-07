@@ -2,7 +2,7 @@
 title: '“Builds” raccomandate'
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2024-10-04T10:52:06.446Z
+date: 2024-10-07T12:31:24.562Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -55,7 +55,7 @@ This build has a Thermal Vent Beam Laser instead of Flak, and brings a Shutdown 
 The "repairless" build below is specifically for active port defence where repairs are readily available.  For space AXCZ, it is necessary to take your own repairs with you.  The Modified Shard Cannons on the "repairless" build can be swapped for Modified Plasma Chargers, or perhaps a mix of 2x Modified Plasma Chargers and 2x Class 3 Ehanced Multi-Cannons.
 
 
-[AXCZ Krait Mk.II Build](https://edsy.org/s/v4f20ga) [AXCZ Krait Mk.II repairless Modified Shard Cannons Build](https://edsy.org/s/vxeLKnl) [AXCZ Krait Mk.II repairless Modified Plasma Chargers Build](https://edsy.org/s/vtUB6k2)
+[AXCZ Krait Mk.II Build](https://edsy.org/s/vV4BbtW) [AXCZ Krait Mk.II repairless Modified Shard Cannons Build](https://edsy.org/s/vhgo1XR) [AXCZ Krait Mk.II repairless Modified Plasma Chargers & Enhanced AXMC Build](https://edsy.org/s/vdUt2Qh)
 
 ### Maelstrom Krait Mk.II
 !\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right}
