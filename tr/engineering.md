@@ -2,7 +2,7 @@
 title: Mühendislik Materyalleri Rehberi
 description: Geminizi mühendislikle yükseltmek için gereken materyalleri elde etme rehberi
 published: true
-date: 2024-09-26T18:50:32.519Z
+date: 2025-01-04T05:06:08.848Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -104,16 +104,18 @@ Canonn Research group has multiple repositories of guardian site maps, some of w
 
 
 # Sensor Fragments
-Required to unlock the Engineer Professor Palin, sensor fragments can be gathered from Thargoid Scavengers or by destroying Thargoid Sensors. You can find Thargoid Sensor fragments very close to Professor Palins lab at a recently discovered crashed ship at the following location.
+Required to unlock the Engineer Professor Palin, sensor fragments can be gathered by destroying Thargoid Scavengers, or the scoopable objects Thargoid Links and Thargoid Sensors. You can find Thargoid Sensor fragments very close to Professor Palins lab at a recently discovered crashed ship at the following location.
 
-**System**: Solati **Body**: Halla **Coordinates**: -70.9912 x -156.4383 **Stuff**: 1 Thargoid Sensor, 1 Cargo Rack which drops one of the following (V, Cr, Zr, Zn, Mn, Sb), Ship Data Core.
+**System**: Solati **Body**: Halla **Coordinates**: 36.9423, -100.2683 **Stuff**: 1 Thargoid Sensor, 1 Cargo Rack which drops one of the following (V, Cr, Zr, Zn, Mn, Sb), Ship Data Core.
 
 This is the closest system to Arque (Palin) to get Sensor Fragments at less than 28 LYs distance. Destroy the Sensor to gather the fragments. You can relog at this site to spawn another.
 
-Credit to CMDR FlyBoyXD of the FRC.
+Credit to CMDR FlyBoyXD of the FRC and to CMDR Vorsipellis.
+
+Alternatively, you can visit a Thargoid structure (where we cook G'relics) and hunt Thargoid Scavengers and Thargoid links/sensors.
 
 # Material Trading
-If you are not able to obtain the materials you need directly, it is possible to trade other materials of the same type at a material trader for a cost. Different material traders will handle different material types such as Data, Raw and Manufactured.
+If you are not able to obtain the materials you need directly, it is sometimes possible to trade other materials of the same type at a material trader for a cost. Different material traders will handle different material types such as Data, Raw and Manufactured.
 
 You can find the nearest trader with [Inara's station search](https://inara.cz/elite/nearest-stations/).
 
@@ -122,3 +124,11 @@ When trading you will always lose some value. You will lose even more if you tra
 **Ideally you want to gather materials at the highest grade possible and trade downwards.**
 
 ![materialTraderImage](https://i.redd.it/6c6z4msafje61.png)
+
+### Contributors
+- Airom
+- Jetlagged
+- Kriskara
+- MGram
+- SecretPro
+- Toscany
