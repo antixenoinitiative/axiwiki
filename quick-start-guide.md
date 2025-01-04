@@ -2,7 +2,7 @@
 title: Quick Start
 description: Here, a prescribed path is given to help newcomers find priority information and references for extended study.
 published: true
-date: 2023-09-03T03:07:47.064Z
+date: 2025-01-04T05:16:10.907Z
 tags: start, quick start, newcomer, roadmap
 editor: markdown
 dateCreated: 2023-08-29T14:14:04.060Z
@@ -51,3 +51,6 @@ Once you know how to survive in the event of a Thargoid encounter, you gain opti
 What comes next is up to you! Curiosity is your best friend to learning all about Thargoids and Elite. If there is anything in particular you find yourself curious about and cannot find it by searching the AXI wiki, try communicating in the AXI discord. With over 5,000 members, the AXI discord is very active and welcoming!
 
 Please check out the many resources provided by the AXI wiki [Home](/en/home).
+
+### Contributors
+ Toscany
