@@ -2,7 +2,7 @@
 title: Changes & Updates
 description: Showing highlighted changes that have been made to AXI wiki and AXI website.
 published: true
-date: 2025-01-04T04:40:55.616Z
+date: 2025-01-04T05:08:20.187Z
 tags: updates, changes, what's new
 editor: markdown
 dateCreated: 2023-08-29T13:16:57.862Z
@@ -14,6 +14,7 @@ If you'd like to contribute to the wiki, please request editor permissions from 
 
 ## Wiki Changes and Updates
 
+- 2025-01-03: Updated coordinates for Sensor Fragments on [Engineering Materials](/en/engineering)
 - 2023-09-03: Created [Flight Maneuvers and Strategies](/en/flight) and added to navigation menu.
 - 2023-09-02: Updated [Quick Start Guide](/en/quick-start-guide)
 - 2023-08-29: Updated [Gibbing](/en/gibbing) page!
@@ -33,3 +34,6 @@ If you'd like to contribute to the wiki, please request editor permissions from 
 
 - 2025-01-03: Added an Event div for the "Blockade of HIP 22460"
 - 2024-08-08: We've reskinned it! It has a whole new look now.
+
+### Contributors
+- CMDR Toscany
