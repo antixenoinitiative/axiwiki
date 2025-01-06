@@ -2,7 +2,7 @@
 title: Synthese
 description: Informationen zu Synthese im AX-Gefecht.
 published: true
-date: 2023-02-16T04:05:09.200Z
+date: 2025-01-06T16:31:40.581Z
 tags: Engineering
 editor: markdown
 dateCreated: 2021-06-10T04:08:01.614Z
@@ -19,36 +19,18 @@ Greife durch folgende Schritte auf das Synthese Menü im Spiel zu:
 
 `Rechte Armatur > Inventar > zweit letztes Menü > Synthese Menü`
 
-!\[synthpanel1.png\](/img/synthpanel1.png =500x) !\[synthpanel2.png\](/img/synthpanel2.png =500x)
+[!\[synthpanel1.png\](/img/synthpanel1.png =500x)](/img/synthpanel1.png) [!\[synthpanel2.png\](/img/synthpanel2.png =500x)](/img/synthpanel2.png)
 
 # Erforderliche Materialien
 > Berechne die genau benötigte Menge mit dem [Synthese Rechner](/en/synthesiscalculator) von CMDR Th3Hero 
 > 
 > {.is-info}
-# {.tabset}
-## Kühlkörper
-
-Kühlkörper sind entscheidend, um Schiffstemperaturen auf niedrig zu halten, während man längere Gauss Kanonen Salven abfeuert. Vorallem beim Vorbeiziehen oder kühlem Umlauf werden sie verbraucht.
-
-Nur einfache Kühlkörper Synthesen werden empfohlen, weil Standard und Premium keinen wirklich nutzvollen Vorteil bringen.
-
-### Einfach
-- 2x Einfache Leiter
-- 2x Wärmeleitungsverdrahtung
-
-## Flakwerfer mit Fernzündung
-Benötigt um Thargon-Schwärme zu bekämpfen, erwarte ein paar Synthesen für Basilisk und höhere Varianten. Nur einfache Flak Synthesen werden empfohlen, weil Standard und Premium keinen wirklich nutzvollen Vorteil bringen.
-
-### Einfach
-
-- 2x Schwefel
-- 3x Kohlenstoff
-- 4x Nickel
+# Optional Internals and Utilities{.tabset}
 
 ## AFM Refills
 In longer fights, you will need to refill your AFMU multiple times to keep your Module Reinforcements and other modules at full integrity.
 
-We recommend only using Basic AFM refills, as standard and premium cost too much to be worth it.
+We recommend only using Basic AFM refills, as standard and premium cost too much to be worth it. Standard and Premium are not shown here
 
 ### Einfach
 - 2x Nickel
@@ -56,8 +38,104 @@ We recommend only using Basic AFM refills, as standard and premium cost too much
 - 2x Chromium
 - 3x Vanadium
 
+## Kühlkörper
+
+Kühlkörper sind entscheidend, um Schiffstemperaturen auf niedrig zu halten, während man längere Gauss Kanonen Salven abfeuert. Vorallem beim Vorbeiziehen oder kühlem Umlauf werden sie verbraucht.
+
+Nur einfache Kühlkörper Synthesen werden empfohlen, weil Standard und Premium keinen wirklich nutzvollen Vorteil bringen. Standard and Premium not shown here.
+
+### Einfach
+- 2x Einfache Leiter
+- 2x Wärmeleitungsverdrahtung
+
+## Caustic Sink Launchers
+Whether in active Spire sites, live Titan space, or AXCZs, a caustic sink launcher is handy for absorbing caustic sources before the source is allowed to deal hull damage.
+
+### Einfach
+- 1x Chemical Storage Units
+- 1x Galvanising Alloys
+- 4x Caustic Shard
+- 2x Corrosive Mechanisms
+
+# Hardpoint Synthesis - Human AX{.tabset}
+
+## Flakwerfer mit Fernzündung
+
+Benötigt um Thargon-Schwärme zu bekämpfen, erwarte ein paar Synthesen für Basilisk und höhere Varianten. Nur einfache Flak Synthesen werden empfohlen, weil Standard und Premium keinen wirklich nutzvollen Vorteil bringen. Standard and Premium not shown here.
+
+### Basic
+
+- 4x Nickel
+- 3x Kohlenstoff
+- 2x Schwefel
+
+## AX Multicannons
+AX Small Calibre Munitions - Standard and Premium synthesis should not be used.
+
+### Einfach
+- 2x Iron
+- 1x Nickel
+- 2x Sulphur
+- 2x Weapon Parts
+
+### Standard (+5% Damage)
+- 2x Iron
+- 2x Phosphorus
+- 2x Zirconium
+- 3x Sensor Fragments
+- 4x Weapon Parts
+
+### Premium (+10% Damage)
+- 3x Iron
+- 2x Phosphorus
+- 2x Zirconium
+- 4x Sensor Fragments
+- 2x Thargoid Carapace
+- 6x Weapon Parts
+
+## AX Missile Racks
+AX Explosive Munitions - Standard and Premium synthesis should not be used.
+
+### Basic
+- 3x Iron
+- 3x Nickel
+- 4x Carbon
+- 3x Propulsion Elements
+
+### Standard (+5% Damage)
+- 6x Sulphur
+- 6x Phosphorus
+- 2x Mercury
+- 4x Thargoid Organic Circuitry
+- 4x Propulsion Elements
+
+### Premium (+10% Damage)
+- 5x Tungsten
+- 4x Mercury
+- 2x Polonium
+- 5x Bio-mechanical Conduits
+- 5x Propulsion Elements
+- 6x Ship Flight Data
+
+## Advanced Missile Rack
+This MR is not an AX hardpoint; however, Configurable Explosive Munitions will add AX damage to it using standard synthesis. The Advanced Missile Rack is not recommended for any AX activities.
+
+### Standard (Applies Anti-Xeno Damage)
+- 6x Phosphorus
+- 4x Arsenic
+- 2x Mercury
+- 1x Guardian Power Cell
+- 1x Guardian Power Conduit
+- 1x Guardian Technology Component
+
+# Hardpoint Synthesis - Guardian AX{.tabset}
+
 ## Guardian Gauss Cannon
-Guardian Gauss Cannons are currently the most effective AX weapon and due to their low ammo total we recommend carrying a few synths for solo Medusa and higher. Premium Gauss Synths are strongly recommended for Hydra variant Interceptors.
+Also applies to Modified Guardian Gauss Cannon.
+
+Guardian Gauss Cannons are currently the most effective AX weapon and due to their low ammo total we recommend carrying a few synths for solo Medusa and higher.
+
+Premium Gauss Synths are strongly recommended for Hydra variant Interceptors.
 
 ### Basic
 
@@ -89,9 +167,10 @@ For the maximum possible Premium Gauss synths you will need:
 - 120x Guardian Tech Components
 
 ## Guardian Plasma Charger
+
 Guardian Plasma Chargers are currently one of the most effective AX weapons. While the modified variants have a lot of ammo, packing synths never hurts.
 
-### Einfach
+### Basic
 
 - 3x Chromium
 - 2x Heat Dispersion Plate
@@ -128,7 +207,7 @@ Guardian Shard Cannons are currently one of the most effective AX weapons. While
 
 ### Standard (+15% dmg)
 
-- 4x Crysal Shards
+- 4x Crystal Shards
 - 2x Guardian Power Cell
 - 2x Guardian Sentinel Weapon Parts
 
@@ -139,12 +218,49 @@ Guardian Shard Cannons are currently one of the most effective AX weapons. While
 - 4x Vanadium
 - 8x Crystal Shards
 
-## Limpets
-For repairs and decontamination limpets.
+## Nanite Torpedo Pylon
+Torpedoes are only useful at live Titans on vents although they can lock on to many other entities. Synthing Nanite munitions is not common practice.
 
 ### Basic
-- 10x Iron
-- 10x Nickel
 
+- 2x Guardian Power Cell
+- 5x Heat Exposure Specimen
+- 5x Phasing Membrane Residue
 
+# Being Prepared for AX
+We recommended to fill up on all of the following materials:
 
+### Raw
+- Carbon
+- Vanadium
+- Sulfur
+- Nickel
+- Zinc
+- Chromium
+- Manganese
+- Zirconium
+
+### Manufactured
+- Basic Conductors
+- Heat Conduction Wiring
+- Focus Crystals
+- Heat Resistant Ceramics
+- Filament Composites
+- Heat Dispersion Plate
+- Heat Exchangers
+- Phase Alloys
+- Crystal Shards
+
+### Guardian
+- Guardian Power Conduit
+- Guardian Power Cell
+- Guardian Technology Component
+- Guardian Sentinel Weapon Parts
+- Guardian Wreckage Component
+
+For information on how to get these materials then visit our [Engineering Materials Guide](/en/Engineering).
+
+### Contributors
+- Airom
+- MGram
+- Toscany
