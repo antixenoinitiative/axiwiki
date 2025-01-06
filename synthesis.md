@@ -2,7 +2,7 @@
 title: Synthesis
 description: Information on Sythnesis in AX combat.
 published: true
-date: 2025-01-06T16:25:20.250Z
+date: 2025-01-06T16:31:40.581Z
 tags: engineering
 editor: markdown
 dateCreated: 2021-06-10T04:08:01.614Z
@@ -228,8 +228,8 @@ Torpedoes are only useful at live Titans on vents although they can lock on to m
 - 5x Heat Exposure Specimen
 - 5x Phasing Membrane Residue
 
-# Full List
-The following is a full list of every material required for AX synthesis. It is recommended to, at some point, fill up one every single one of these materials. Doing so will set you for quite a lot of AX combat.
+# Being Prepared for AX
+We recommended to fill up on all of the following materials:
 
 ### Raw
 - Carbon
