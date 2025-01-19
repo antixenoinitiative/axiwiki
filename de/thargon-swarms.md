@@ -2,7 +2,7 @@
 title: Thargon Schwärme
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: ja
-date: 2021-09-19T11:13:03.841Z
+date: 2025-01-19T22:59:09.740Z
 tags: thargoids, interceptors, schwärme
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -33,7 +33,7 @@ Zusaützlich zum anfänglich freigesetzten Schwarm, kann der Interceptor bei jed
 Der Interceptor kann jederzeit einen Ruf zum Auffüllen machen, normalerweise wenn der Schwarm nur noch gering bestückt ist. Dies führt zu einer kreischenden Antwort des Schwarms und der Rückkehr zum Interceptor, für komplettes Auffüllen seiner Anzahl. Dies zieht in keiner Weise von einem möglich aufbewahrten Schwarm.
 
 ## Wütend
-Nach einiger vergangener Zeit ohne Zerstörung eines Herzens, wird der Interceptor in einen wütenden Status wechseln. Die Zeitspanne beträgt 6 Minuten beim Cyclops, 7 Minuten beim Basilisk und der Medusa, und 8 Minuten bei der Hydra. Die Zeitspanne beginnt in dem Moment in dem der Interceptor in den Kampf tritt und setzt sich bei jeder Zerstörung eines Herzens zurück. In wütendem Zustand werden nach Zerstörung sofort neue freigesetzt und falls ein Thargon Geschoss Angriff ausgelöst wird, wird der komplette Schwarm zeitgleich zu Kamikaze Flugkörpern. Dieser Angriff ist normalerweise, falls nicht ausgewichen, fatal.
+Nach einiger vergangener Zeit ohne Zerstörung eines Herzens, wird der Interceptor in einen wütenden Status wechseln. Die Zeitspanne beträgt 6 Minuten beim Cyclops, 7 Minuten beim Basilisk und der Medusa, und 8 Minuten bei der Hydra. Die Zeitspanne beginnt in dem Moment in dem der Interceptor in den Kampf tritt und setzt sich bei jeder Zerstörung eines Herzens zurück. Upon triggering the enrage, replacement swarms are immediately released upon one’s destruction. Additionally, if a Thargon swarm is in missile formation and a kamikaze missile attack is triggered, the entire swarm will turn into missiles at the same time. Dieser Angriff ist normalerweise, falls nicht ausgewichen, fatal.
 
 # Formationen
 Schwärme nutzen eine Anzahl verschiedener Formationen, diese geben uns Anzeichen über sein Verhalten und seine Reaktionsweisen.
