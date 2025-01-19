@@ -2,7 +2,7 @@
 title: Basic Combat Guide
 description: The fundamental concepts of AX combat and how to fight an Interceptor.
 published: true
-date: 2024-09-10T14:09:45.024Z
+date: 2025-01-19T22:52:17.495Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:18:38.671Z
@@ -42,7 +42,7 @@ Continue firing until the heart is exerted (glows red and is listed as exerted i
 
 Once the heart has been destroyed, transfer pips 2-4-0. Boost past the Thargoid if within 1 km, and away from the Thargoid if outside of 1 km. The Thargoid will charge yellow and begin chasing you, if it gets within range you will be hit by the [lightning](/en/special-attacks) which will disrupt your systems, kill your momentum (Regardless of FA-OFF), and drain your shields.
 
-From this point on, fights are divided into two phases: [swarm](/en/thargon-swarms) and heart destruction. Each Thargoid has a set number of “hearts” (4 on a Cyclops, 5 on a Basilisk, 6 on a Medusa, 8 on a Hydra). After the opening, you have destroyed one heart and have ~7 minutes until the Thargoid becomes “enraged”. An enraged Thargoid will launch a new swarm, and keep replacing it as soon as it is destroyed. The entire swarm will also turn into missiles at once, destroying less armoured ships outright. Enrage means you have likely lost.
+From this point on, fights are divided into two phases: [swarm](/en/thargon-swarms) and heart destruction. Each Thargoid has a set number of “hearts” (4 on a Cyclops, 5 on a Basilisk, 6 on a Medusa, 8 on a Hydra). After the opening, you have destroyed one heart and have ~7 minutes until the Thargoid becomes “enraged”. An enraged Thargoid will launch a new swarm, and keep replacing it as soon as it is destroyed. If the swarm is agitated into missiling, the entire swarm will also turn into missiles at once, destroying less armoured ships outright. Enrage means you have likely lost.
 
 Prior to attacking the next heart, you have a set time period during which the Thargoid is protected by a shield (2, 3, 4, 5 minutes for the respective Thargoid variant). In this time period you have three objectives, destroy the swarm, re-arm, and recharge your shields. After this time period and before the 6 minute mark (7 for Basilisk and Medusa, 8 for Hydra), you must exert and destroy the next heart. Otherwise the Thargoid will become enraged.
 
