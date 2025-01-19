@@ -2,7 +2,7 @@
 title: Thargoid Specifications
 description: Details specs of Thargoid Interceptors
 published: true
-date: 2024-06-06T12:03:18.907Z
+date: 2025-01-19T23:01:45.004Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T11:27:45.002Z
@@ -14,6 +14,8 @@ Details on the known values of different Thargoid vessels.
 **CAU** = Caustic Damage
 
 **ABS** = Absolute Damage
+
+Please note that HP and damage values are approximately calculated based on testing. In particular, HP numbers may not be entirely accurate when used outside of a Gauss context.
 
 # Scouts
 | | **Scout** |
