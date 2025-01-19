@@ -2,7 +2,7 @@
 title: Enjambres de Thargons
 description: Comportamiento detallado y mecánica de los Enjambres Thargon
 published: verdadero
-date: 2021-09-19T11:13:03.841Z
+date: 2025-01-19T22:59:09.740Z
 tags: thargoides, interceptores, enjambres
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -33,7 +33,7 @@ Además del primer enjambre lanzado al comienzo de la lucha, el Interceptor pued
 El Interceptor puede enviar una llamada de 'recarga' en cualquier momento, generalmente si el enjambre es bajo en número, lo que hará que el enjambre responda con un sonido chirriante y regrese al Interceptor rellenando completamente sus números. Esto no cuenta contra el enjambre bancado (en reserva), y no tiene que haber un enjambre bancado para que ocurra una recarga.
 
 ## Enfurecido
-Después de que pase algún tiempo sin que un corazón sea destruido, el Interceptor entrará en un estado de "enfurecido". El temporizador para esto es de 6 minutos para el Cíclope, 7 minutos para el Basilisco y Medusa, y 8 minutos para la Hydra. El temporizador comienza en el momento en que el Interceptor entra en combate, y se restablece cada vez que se destruye un corazón. Al desencadenar el enfurecimiento, los enjambres son reemplazado inmediatamente tras la destrucción de uno y si se desencadena un ataque de misiles Thargon, todo el enjambre se convertirá en misiles al mismo tiempo. Este ataque es normalmente fatal a menos que se evite.
+Después de que pase algún tiempo sin que un corazón sea destruido, el Interceptor entrará en un estado de "enfurecido". El temporizador para esto es de 6 minutos para el Cíclope, 7 minutos para el Basilisco y Medusa, y 8 minutos para la Hydra. El temporizador comienza en el momento en que el Interceptor entra en combate, y se restablece cada vez que se destruye un corazón. Upon triggering the enrage, replacement swarms are immediately released upon one’s destruction. Additionally, if a Thargon swarm is in missile formation and a kamikaze missile attack is triggered, the entire swarm will turn into missiles at the same time. Este ataque es normalmente fatal a menos que se evite.
 
 # Formaciones
 Los enjambres usarán varias formaciones, estas pueden decirnos información sobre su comportamiento y cómo reaccionará.
