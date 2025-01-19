@@ -2,7 +2,7 @@
 title: Thargon Swarmları
 description: Thargon Swarmlarının davranış ve mekaniklerine dair detaylı bilgiler
 published: true
-date: 2021-09-19T11:13:03.841Z
+date: 2025-01-19T22:59:09.740Z
 tags: thargoids, interceptors, swarms
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -33,7 +33,7 @@ Savaş başında çıkarılan Swarm'a ek olarak her Kalp parçalanışında yeni
 Swarm'ın sayısı azaltığında Interceptor, Swarm'ı takviye için geri çağırıp sayısını yenileyebilir. Bu olay, depolanan Swarm'la ilgili değildir ve depoda bir Swarm olmasa dahi gerçekleşebilir.
 
 ## Enrage
-Kalp parçalanmadan belirli bir süre geçerse Interceptor "enraged" dediğimiz bir duruma girer. Bu süre Cyclops için 6 dakika, Basilisk ve Medusa için 7 ve Hydra için 8 dakikadır. Bu geri sayım, Interceptor savaşa girer girmez başlar ve her Kalp parçalanışında yenilenir. Enrage durumundayken, bir Swarm yok edilir edilmez yenisi ortaya çıkarılır ve eğer Thargon Füzesi saldırısı tetiklenirse tüm Swarm füzeye dönüşerek saldırır. Bu saldırı kaçınılmadığı takdirde genelde ölümcüldür.
+Kalp parçalanmadan belirli bir süre geçerse Interceptor "enraged" dediğimiz bir duruma girer. Bu süre Cyclops için 6 dakika, Basilisk ve Medusa için 7 ve Hydra için 8 dakikadır. Bu geri sayım, Interceptor savaşa girer girmez başlar ve her Kalp parçalanışında yenilenir. Upon triggering the enrage, replacement swarms are immediately released upon one’s destruction. Additionally, if a Thargon swarm is in missile formation and a kamikaze missile attack is triggered, the entire swarm will turn into missiles at the same time. Bu saldırı kaçınılmadığı takdirde genelde ölümcüldür.
 
 # Uçuş Düzeni
 Swarmlar çeşitli düzenlerde uçar ve buna bağlı olarak davranışları öngörülebilir.
