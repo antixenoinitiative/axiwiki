@@ -2,7 +2,7 @@
 title: Interceptoren
 description: Über Thargoid-Interceptoren
 published: true
-date: 2024-07-10T07:37:00.579Z
+date: 2025-01-21T19:28:47.480Z
 tags: Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-15T10:23:32.433Z
@@ -14,10 +14,10 @@ Thargoid Interceptors come in five variants: **Cyclops**, **Basilisk**, **Medusa
 Interceptoren sind unglaublich robust und eignen sich in der Regel am besten zum Kampf im Geschwader, da es eine große Herausforderung ist sie alleine zu bekämpfen. Interceptoren verwenden sehr hohe Schadensausstoßwaffen, Spezialfähigkeiten im Stil der Mengenkontrolle und unabhängige Drohnen, um auf dem Schlachtfeld verheerende Schäden zu verursachen.
 
 ## Verhalten
-Thargoid-Interceptoren sind in den meisten Fällen nicht feindselig. Wenn man auf einen Interceptor trifft, nähert dieser sich dem Schiff auf ~500m und führt einen Schiffsscan durch. Wenn man Thargoid- oder Guardian-Technologie (Fracht, nicht Module) mit sich führt, werden sie entsprechend reagieren.
-
-- **Thargoid-Technik** (Sonde, Sensor, Meta-Legierungen, etc.) - Der Thargoide reagiert mit einem Ton. Wird die Ladung nicht innerhalb von ca. 30 Sekunden abgeworfen, wird der Thargoid feindlich werden und angreifen.
-- **Guardiantechnik** (Antike Relikt, antike Schlüssel usw.) - Der Thargoide wird sofort feindselig reagieren.
+Thargoid-Interceptoren sind in den meisten Fällen nicht feindselig. Wenn man auf einen Interceptor trifft, nähert dieser sich dem Schiff auf ~500m und führt einen Schiffsscan durch. If you are carrying certain types of cargo, including Thargoid or Guardian items (Specifically cargo, not modules) they will react accordingly.
+- **Non Hostile** (Meta Alloys, Escape Pods, etc) - The thargoid will react by making a sound, but if you do not drop the cargo it will just move on to scan other ships/objects in the vicinity.
+- **Thargoid Technology** (Probe, Sensor, etc) - The Thargoid will react by making a sound, if you do not drop the cargo within approx, 30 sec, the Thargoid will become hostile and start attacking you.
+- **Guardian Technology** (Ancient Relic, Ancient Key, etc) - The Thargoid will flash Red and make a hostile sound, if you do not drop the cargo within approx. 30s, it will become hostile and start attacking you.
 
 Sobald ein Thargoid alles von Interesse in einer Instanz gesammelt/gescannt hat, verlässt er diese, indem er schnell beschleunigt und in den Hyperraum verschwindet.
 
