@@ -2,7 +2,7 @@
 title: Interceptorler
 description: Thargoid Interceptorler hakkında
 published: true
-date: 2025-01-21T19:28:47.480Z
+date: 2025-01-21T22:12:56.775Z
 tags: thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-15T10:23:32.433Z
@@ -15,7 +15,7 @@ Interceptorler çok zorlayıcıdır, wing savaşlarına daha uygundur ve solo ö
 
 ## Davranış
 Thargoid Interceptorler genel olarak saldırgan değildirler. Bir Interceptor'le karşılaştığınız zaman size ~500 m civarı yaklaşır ve geminize tarama yapar. If you are carrying certain types of cargo, including Thargoid or Guardian items (Specifically cargo, not modules) they will react accordingly.
-- **Non Hostile** (Meta Alloys, Escape Pods, etc) - The thargoid will react by making a sound, but if you do not drop the cargo it will just move on to scan other ships/objects in the vicinity.
+- **Non Hostile** (Meta Alloys, etc) - The thargoid will react by making a sound, but if you do not drop the cargo it will just move on to scan other ships/objects in the vicinity.
 - **Thargoid Technology** (Probe, Sensor, etc) - The Thargoid will react by making a sound, if you do not drop the cargo within approx, 30 sec, the Thargoid will become hostile and start attacking you.
 - **Guardian Technology** (Ancient Relic, Ancient Key, etc) - The Thargoid will flash Red and make a hostile sound, if you do not drop the cargo within approx. 30s, it will become hostile and start attacking you.
 
