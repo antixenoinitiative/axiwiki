@@ -2,7 +2,7 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2025-01-21T06:24:19.863Z
+date: 2025-01-21T06:24:53.126Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -45,6 +45,8 @@ The [Elite Materials](https://sites.google.com/view/elite-materials/collection/r
 **Do not forget to bring a Detailed Surface Scanner and SRV**.
 
 Dumbfire missiles or flak cannons can be used to increase farming efficiency, as demonstrated [here](https://youtu.be/xQsVE5CLl6o).
+
+*TODO(vorsipellis): add notes/tips for draw distance and B-rating collectors*
 
 ## Selenium and Thargoid Barnacles
 Selenium is (ironically) the most difficult material to farm since it only drops from Grade 2 resource nodes. There are multiple ways to collect it however, albeit slightly slower. The best way is brain trees, which can be farmed similar to crystal shards. Brain trees for selenium can be found at **Kappa-1 Volantis, B 3 F A** and **HR 3230, 3 A A**.
