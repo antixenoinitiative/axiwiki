@@ -2,7 +2,7 @@
 title: Перехватчики
 description: О таргоидских перехватчиках
 published: опубликовано
-date: 2024-07-10T07:37:00.579Z
+date: 2025-01-21T19:28:47.480Z
 tags: таргоиды, перехватчики
 editor: markdown
 dateCreated: 2021-06-15T10:23:32.433Z
@@ -14,10 +14,10 @@ Thargoid Interceptors come in five variants: **Cyclops**, **Basilisk**, **Medusa
 Перехватчики невероятно сложные противники и, как правило, лучше всего подходят для боя в крыле/команде, так как уничтожить их в одиночном режиме игры (Соло) – это огромное достижение. Перехватчики наносят очень большой урон, используют особые способности в стиле управления как целым роем, так и отдельными дронами (таргонами), чтобы нести хаос на поле боя.
 
 ## Поведение
-Таргоидские перехватчики обычно в большинстве случаев не настроены враждебно. После встречи с перехватчиком, он приблизится к вашему кораблю примерно на 500 метров и выполнит сканирование корабля. Если вы перевозите любую из технологий таргоидов или Стражей (груз, не модули), перехватчик отреагирует соответствующим образом.
-
-- **Технологии таргоидов** (зонд, сенсор, метасплавы и т. п.) - таргоид отреагирует, издав рёв, если в течение 30 секунд вы не сбросите груз, таргоидский перехватчик станет враждебным и начнёт атаковать вас.
-- **Технологии Стражей** (древняя реликвия, древний ключ и т. п.) - таргоид незамедлительно станет к вам враждебен.
+Таргоидские перехватчики обычно в большинстве случаев не настроены враждебно. После встречи с перехватчиком, он приблизится к вашему кораблю примерно на 500 метров и выполнит сканирование корабля. If you are carrying certain types of cargo, including Thargoid or Guardian items (Specifically cargo, not modules) they will react accordingly.
+- **Non Hostile** (Meta Alloys, Escape Pods, etc) - The thargoid will react by making a sound, but if you do not drop the cargo it will just move on to scan other ships/objects in the vicinity.
+- **Thargoid Technology** (Probe, Sensor, etc) - The Thargoid will react by making a sound, if you do not drop the cargo within approx, 30 sec, the Thargoid will become hostile and start attacking you.
+- **Guardian Technology** (Ancient Relic, Ancient Key, etc) - The Thargoid will flash Red and make a hostile sound, if you do not drop the cargo within approx. 30s, it will become hostile and start attacking you.
 
 Таргоиды, если они не участвуют в бою, начинают собирать различные части грузов, и как только таргоид соберёт/просканирует всё, что его интересует в интсансе (в сигнале), он уйдёт, быстро набирая скорость и открыв червоточину, через которую он исчезнет.
 
