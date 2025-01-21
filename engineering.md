@@ -2,7 +2,7 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2025-01-04T05:06:08.848Z
+date: 2025-01-21T06:24:19.863Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -57,6 +57,8 @@ For more information on barnacles, check out [Panpipers's Pleiades Survivor Guid
 ## HGE Looping
 *Guide By CMDR Jetlagged*
 
+*TODO(vorsipellis): update for HGE changes*
+
 HGE Looping is a time-efficient method of grinding Grade 5 Manufactured materials. Ideally you will want to be using a ship with at least 3 collector limpets and a good turn rate in supercruise.
 
 1. Start by finding a HGE that contains the desired materials which has longer than 20 minutes on the decay timer.
@@ -94,14 +96,19 @@ You can find a collection of high grade encoded materials by travelling to James
 ## Blueprints
 Guardian blueprint fragments come in three forms: Weapon, Module, and Vessel. Each active guardian site will provide one of these types. While many CMDRs have sites they prefer to use, we recommend **Syniefe LQ-T B50-1, planet B 2** for modules and **Synuefe GV-T B50-4, planet  B 1** for weapons.
 
+*TODO(vorsipellis): justification for sites, typos, vessel sites*
+
 ### Materials
 Guardian materials can be found at various active guardian sites. Some drop from destructible panels, and some drop from destroyed sentinels. A list of where to find each material can be found [here](https://www.edmaterials.app/home/guardian-materials).
+
+*TODO(vorsipellis): guardian tech components @ Synuefe HT-F D12-29 C 3*
 
 ### Data
 Guardian Pattern Data comes in various forms, and can be obtained from scanning any active obelisk. Drops are random, and many relogs are required to get the data you need. While any guardian site has active obelisks, we recommend **Synuefe XR-H D11-102 planet 1 B** for pattern data, as there is a site with [4 obelisks next to each other](https://cdn.discordapp.com/attachments/407073451409670145/721780080593993768/unknown.png).
 
 Canonn Research group has multiple repositories of guardian site maps, some of which can be found [here](https://imgur.com/gallery/43BCKNz) and [here](http://imgur.com/a/CxyuI).
 
+*TODO(vorsipellis): guardian ruins POI*
 
 # Sensor Fragments
 Required to unlock the Engineer Professor Palin, sensor fragments can be gathered by destroying Thargoid Scavengers, or the scoopable objects Thargoid Links and Thargoid Sensors. You can find Thargoid Sensor fragments very close to Professor Palins lab at a recently discovered crashed ship at the following location.
@@ -135,3 +142,4 @@ When trading you will always lose some value. You will lose even more if you tra
 - MGram
 - SecretPro
 - Toscany
+- Vorsipellis
