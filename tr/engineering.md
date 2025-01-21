@@ -2,7 +2,7 @@
 title: Mühendislik Materyalleri Rehberi
 description: Geminizi mühendislikle yükseltmek için gereken materyalleri elde etme rehberi
 published: true
-date: 2025-01-21T06:24:53.126Z
+date: 2025-01-21T21:06:36.574Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -113,6 +113,8 @@ Canonn Research group has multiple repositories of guardian site maps, some of w
 *TODO(vorsipellis): guardian ruins POI*
 
 # Sensor Fragments
+*TODO(vorsipellis): expand this section to thargoid mats, include TDC farming guide; move to end*
+
 Required to unlock the Engineer Professor Palin, sensor fragments can be gathered by destroying Thargoid Scavengers, or the scoopable objects Thargoid Links and Thargoid Sensors. You can find Thargoid Sensor fragments very close to Professor Palins lab at a recently discovered crashed ship at the following location.
 
 **System**: Solati **Body**: Halla **Coordinates**: 36.9423, -100.2683 **Stuff**: 1 Thargoid Sensor, 1 Cargo Rack which drops one of the following (V, Cr, Zr, Zn, Mn, Sb), Ship Data Core.
