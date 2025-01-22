@@ -2,7 +2,7 @@
 title: Construcciones Recomendadas
 description: Recommended Anti-Xeno Ship Builds
 published: verdadero
-date: 2024-10-07T12:31:24.562Z
+date: 2025-01-22T03:15:14.970Z
 tags: construcciones
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -35,6 +35,8 @@ In addition, there are many different AX activities, and the builds for them can
 
 # Best In Class - Krait Mk.II
 In the current meta, the **Krait Mk.II is the most versatile ship**. With the ability to mount any weapon, plenty of optional internals, a massive powerplant, and good maneuverability, the Krait Mk.II is the **best all-around starter build**.
+
+*TODO(vorsipellis): add note about krait boost orbiting*
 
 ## Tabset {.tabset}
 
