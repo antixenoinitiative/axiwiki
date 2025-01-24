@@ -2,7 +2,7 @@
 title: Horizons Engineers
 description: An AX-focused engineer unlocking and travel guide.
 published: true
-date: 2025-01-24T15:30:10.204Z
+date: 2025-01-24T15:31:02.284Z
 tags: engineering
 editor: markdown
 dateCreated: 2023-02-13T17:37:07.496Z
@@ -86,7 +86,7 @@ This route provides you the optimal path for collecting the experimentals you ne
 
 
 
-## Choose-your-own Adventure
+## Choose-Your-Own Adventure
 *Courtesy of CMDR Secretpro*
 Can't be bothered flying to engineers in a random order to get all those experimentals applied? Looking for a way to save some time?
 Lucky for you, I have found a pretty nifty way to make this part of the grind better!
