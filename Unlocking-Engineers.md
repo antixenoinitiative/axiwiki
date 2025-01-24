@@ -2,7 +2,7 @@
 title: Horizons Engineers
 description: An AX-focused engineer unlocking and travel guide.
 published: true
-date: 2025-01-24T15:31:02.284Z
+date: 2025-01-24T15:31:15.838Z
 tags: engineering
 editor: markdown
 dateCreated: 2023-02-13T17:37:07.496Z
@@ -77,7 +77,7 @@ Occasionally check "Minerals refined" in your statistics to see when you're over
 
 # Optimal Engineering Routes
 ## Optimal Experimental Engineering
-*Courtesy of Ansic*
+*Courtesy of CMDR Ansic*
 This route provides you the optimal path for collecting the experimentals you need engineered for AX, assuming that you're starting with buying your ship fully from Shinrarta Dezhra. Although you can go in any order, we suggest Deciat as engineering your FSD first will decrease the number of jumps you need, and you should engineer Armor and Hull Reinforcements last as they add mass (and reduce your jump range).
 
 **Note: This assumes that you have blueprints pinned to G5 from every engineer needed.**
