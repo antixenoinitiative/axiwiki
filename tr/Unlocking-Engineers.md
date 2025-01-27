@@ -1,8 +1,8 @@
 ---
-title: Horizons Engineers
+title: AX Ship Engineering
 description: An AX-focused engineer unlocking and travel guide.
 published: true
-date: 2025-01-24T15:31:15.838Z
+date: 2025-01-27T19:16:39.793Z
 tags: engineering
 editor: markdown
 dateCreated: 2023-02-13T17:37:07.496Z
@@ -10,6 +10,10 @@ dateCreated: 2023-02-13T17:37:07.496Z
 
 # Unlocking AX Engineers
 This guide aims to provide the most efficient ways for unlocking engineers neccesary for anti-xeno combat.
+
+> You DO NOT have to max out the previous grade of an engineering blueprint before applying the next. A module only stores one grade of engineering, so each higher grade replaces previous ones. 
+> 
+> {.is-warning}
 
 # Required Engineers
 For a shieldless ship, the following components should be engineered at a minimum:
