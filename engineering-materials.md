@@ -2,30 +2,30 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2025-01-27T19:40:04.394Z
+date: 2025-01-27T20:08:33.946Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
 ---
 
 # Engineering Materials Guide
-This is an extensive general guide on gathering and collecting materials for engineering your ship in Elite Dangerous.
+This is an extensive general guide on gathering and collecting materials for engineering your ship in Elite Dangerous. You should aim to do your materials collection in Solo as only one person can pick up any material per site, including Guardian blueprints.
 
 **In general, we recommend filling up on the highest grade of materials and trading down (see [below](https://wiki.antixenoinitiative.com/en/engineering-materials#material-trading)) to lower grade materials you may need as this is the most efficient approach.** One round of filling up on high-grade materials, trading down to fill your lower-grade materials, and then a second round to fill up your high-grade materials is much faster than filling each grade up individually. This should last you for multiple full ship engineering builds.
 
 # Raw Materials
 
 ## Crystal Shard Farming
-*Guide By CMDRs Secretpro & Airom42, updated by CMDR Vorsipellis*
+*Guide by CMDRs Secretpro & Airom42, updated by CMDR Vorsipellis*
 
 Raw materials (Grade 4) can be easily obtained en masse at special **Crystalline Shard Biological Sites**. A large cluster of these sites, consisting of purely the highest grade (G4) of Raw materials can be found at two systems approximately 1500-1800Ly from the bubble. We recommend putting together a decent exploration ship (unengineered works) and visiting both systems to completely fill on all G4 materials (except Selenium).
 
-- **Yttrium** - Outotz LS-K D8-3, B 5 A
-- **Antimony** - Outotz LS-K D8-3, B 5 C
-- **Ruthenium** - HIP 36601, C 1 D and Outotz LS-K D8-3, B 7 B
-- **Polonium** - HIP 36601, C 1 A
-- **Tellurium** - HIP 36601, C 3 B
-- **Technetium** - HIP 36601, C 5 A
+- **Yttrium** - Outotz LS-K D8-3, planet B 5 A
+- **Antimony** - Outotz LS-K D8-3, planet B 5 C
+- **Ruthenium** - HIP 36601, planet C 1 D and Outotz LS-K D8-3, planet B 7 B
+- **Polonium** - HIP 36601, planet C 1 A
+- **Tellurium** - HIP 36601, planet C 3 B
+- **Technetium** - HIP 36601, planet C 5 A
 - **Selenium** - No known crystal shard site. See [below](https://wiki.antixenoinitiative.com/en/engineering-materials#selenium) for how to collect them.
 
 The [Elite Materials](https://sites.google.com/view/elite-materials/collection/raw-materials?authuser=0) website hosts a list of planetary co-ordinates for these locations where there are known, high-yield sites
@@ -42,7 +42,7 @@ Selenium is (ironically) the most difficult material to farm since it only drops
 
 # Manufactured Materials
 ## High-Grade Emissions (HGEs)
-*Guide By CMDR Vorsipellis*
+*Guide by CMDR Vorsipellis*
 
 HGEs are the fastest method to grind Grade 5 Manufactured materials. After the July/August 2024 engineering changes, a single HGE signal will usually fill up all of that Grade 5 material. You want to use a ship with a collector limpet controller or two.
 
@@ -62,8 +62,8 @@ While HGEs are the fastest way to farm most manufactured materials, some CMDRs p
 ## Jameson's Crashed Cobra
 You can find a collection of high grade encoded materials by travelling to the Jameson's Crashed Cobra site and scanning the small red beacons surrounding the crash site, once you log out/in (no need to quit to desktop) these will refresh and you can continue to do this until your materials are full.
 
-1. Equip an SRV and Detailed Surface Scanner
-2. Travel to HIP 12099 Planet 1B (-54.3803, -50.3575)
+1. Equip an SRV and Detailed Surface Scanner.
+2. Travel to HIP 12099 Planet 1B (-54.3803, -50.3575).
 3. Use your Detailed Surface Scanner to scan the planet and locate the crash site.
 4. Drop into the site and deploy your SRV.
 5. Drive up the the Cobra and using your Data Link Scanner, scan all the red beacons.
@@ -71,41 +71,72 @@ You can find a collection of high grade encoded materials by travelling to the J
 7. Repeat from step 5.
 
 # Guardian Materials
+Although we will link the relevant Guardian site maps below, Canonn Research group has multiple repositories of Guardian site maps, some of which can be found [here](https://imgur.com/gallery/43BCKNz) and [here](http://imgur.com/a/CxyuI).
+
+If you have issues with Guardian materials yeeting into space, you might be able to reduce the chance of that happening by reducing your frame rate. For reasons unknown, the number of physics calculations appear to be tied to your frame rate.
+
 ## Blueprints
-Guardian blueprint fragments come in three forms: Weapon, Module, and Vessel. Each active guardian site will provide one of these types. While many CMDRs have sites they prefer to use, we recommend **Syniefe LQ-T B50-1, planet B 2** for modules and **Synuefe GV-T B50-4, planet  B 1** for weapons.
+Guardian blueprint fragments come in three forms: Weapon, Module, and Vessel. Each active guardian site will provide one of these types. While many CMDRs have sites they prefer to use, we recommend **Synuefe LQ-T B50-1, planet B 2** for modules and **Synuefe GV-T B50-4, planet  B 1** for weapons.
 
-*TODO(vorsipellis): justification for sites, typos, vessel sites*
+![synuefe_lq-t_b50-1_r.png](/img/synuefe_lq-t_b50-1_r.png)
 
-### Materials
+![synuefe_gv-t_b50-4.png](/img/synuefe_gv-t_b50-4.png)
+
+## Materials
 Guardian materials can be found at various active guardian sites. Some drop from destructible panels, and some drop from destroyed sentinels. A list of where to find each material can be found [here](https://www.edmaterials.app/home/guardian-materials).
 
-*TODO(vorsipellis): guardian tech components @ Synuefe HT-F D12-29 C 3*
+### Guardian Technology Components
+Guardian Technology Components (GTCs) are infrequently-found (if at all) at many Guardian sites and yet required by many weapons/modules. It might be more efficient for you to farm them separately from other Guardian materials by visiting **Synuefe HT-F D12-29, planet C 3** as this site has eight separate spawns, so one run will fill up 24 GTCs.
 
-### Data
-Guardian Pattern Data comes in various forms, and can be obtained from scanning any active obelisk. Drops are random, and many relogs are required to get the data you need. While any guardian site has active obelisks, we recommend **Synuefe XR-H D11-102 planet 1 B** for pattern data, as there is a site with [4 obelisks next to each other](https://cdn.discordapp.com/attachments/407073451409670145/721780080593993768/unknown.png).
+![synuefe_ht-f_d12-29.png](/img/synuefe_ht-f_d12-29.png)
 
-Canonn Research group has multiple repositories of guardian site maps, some of which can be found [here](https://imgur.com/gallery/43BCKNz) and [here](http://imgur.com/a/CxyuI).
+## Data
+Guardian Pattern Data comes in various forms, and can be obtained from scanning any active obelisk. Drops are random, and many relogs are required to get the data you need. While any guardian site has active obelisks, we recommend **Synuefe XR-H D11-102, planet 1 B** for pattern data, as there is a site with 4 obelisks next to each other.
 
-*TODO(vorsipellis): guardian ruins POI*
+![synuefe_xr-h_d11-102_guardian_obelisks.png](/img/synuefe_xr-h_d11-102_guardian_obelisks.png)
 
-# Sensor Fragments
-*TODO(vorsipellis): expand this section to thargoid mats, include TDC farming guide; move to end*
+# Thargoid Materials
 
-Required to unlock the Engineer Professor Palin, sensor fragments can be gathered by destroying Thargoid Scavengers, or the scoopable objects Thargoid Links and Thargoid Sensors. You can find Thargoid Sensor fragments very close to Professor Palins lab at a recently discovered crashed ship at the following location.
+## Sensor Fragments
+*Guide by CMDR FlyBoyXD of the FRC and CMDR Vorsipellis*
+
+Required to unlock the Engineer Professor Palin, sensor fragments can be gathered by destroying Thargoid Scavengers, or the scoopable objects Thargoid Links and Thargoid Sensors. You can find Thargoid Sensor fragments very close to Professor Palins lab at a crashed ship at the following location.
 
 **System**: Solati
 **Body**: Halla
 **Coordinates**: 36.9423, -100.2683
 **Stuff**: 1 Thargoid Sensor, 1 Cargo Rack which drops one of the following (V, Cr, Zr, Zn, Mn, Sb), Ship Data Core.
 
+1. Land and drive up to the crash site in your SRV. You should find a Thargoid Sensor object flashing and beeping near the back of the wreck.
+2. Shoot it until it explodes into several scoopable Sensor Fragment materials.
+3. Pick them up with your SRV cargo scoop.
+4. Relog to cause it to respawn and repeat again.
+
 This is the closest system to Arque (Palin) to get Sensor Fragments at less than 28 LYs distance. Destroy the Sensor to gather the fragments. You can relog at this site to spawn another.
 
-Credit to CMDR FlyBoyXD of the FRC and to CMDR Vorsipellis.
+Alternatively, you can visit a Thargoid structure (where we cook Guardian Relics) and hunt Thargoid Scavengers and Thargoid Links/Sensors.
 
-Alternatively, you can visit a Thargoid structure (where we cook G'relics) and hunt Thargoid Scavengers and Thargoid links/sensors.
+## Titan Drive Components
+*Guide by CMDR Vorsipellis*
+
+Titan Drive Components (TDCs) are a required commodity for the Pre-Engineered FSD SCOs that were awarded (and made available through Human Tech Brokers) after Titan Cocijo's death. The only place that they can be found are at Titan graveyards.
+
+As a note, **there is currently no known shortcut to collecting Titan Drive Components besides elbow grease and RNG - they are incredibly rare spawns**. We recommend a fast ship with A-rated sensors (long range engineered if possible, but necessary), collector limpets, and Anti-Corrosion Cargo Racks. Fly around the whole area of any Titan's wreck and keep checking your contacts panel and pray to RNGesus. They are not limited to spawning near the big pieces of the wreck, and can sometimes spawn at the edge of the cloud too.
+
+Some things that have empirically (but are not confirmed) to improve your chances:
+- Relog (from desktop) and try again if you've covered the whole area
+- More players may increase spawns, although that also increases competition - bringing a friend you trust or an alt account might help
+- There seems to be some maximum limit on how many scoopable items can spawn in an area before new ones will spawn. Try picking up some materials or commodities as this has been seen to cause TDCs and other scoopables to spawn out of thin air.
+- Praying harder to RNGesus.
+
+## Propulsion Elements & Weapon Parts
+*Guide by CMDR Vorsipellis*
+
+Thargoid Propulsion Elements are another requirement of the Pre-Engineered FSD SCOs, while Thargoid Weapon Parts are a requirement for Pre-Engineered Azimuth EAXMCs. These can be found as scoopables in Titan graveyards, or alternatively by farming Thargoid Scouts in NHSS Threat 4's and NHSS Threat 5's. The [NHSS Guide](https://wiki.antixenoinitiative.com/en/nhss) provides information on how to find them.
+
 
 # Material Trading
-If you are not able to obtain the materials you need directly, it is sometimes possible to trade other materials of the same type at a material trader for a cost. Different material traders will handle different material types such as Data, Raw and Manufactured.
+If you are not able to obtain the raw, manufactured, or encoded materials you need directly (usually lower-grade materials), it is sometimes possible to trade other materials of the same type at a material trader for a cost. Different material traders will handle different material types such as Data, Raw and Manufactured.
 
 You can find the nearest trader with [Inara's station search](https://inara.cz/elite/nearest-stations/).
 
