@@ -2,7 +2,7 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2025-01-27T19:39:06.532Z
+date: 2025-01-27T19:40:04.394Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -11,7 +11,7 @@ dateCreated: 2021-06-15T05:40:06.134Z
 # Engineering Materials Guide
 This is an extensive general guide on gathering and collecting materials for engineering your ship in Elite Dangerous.
 
-**In general, we recommend filling up on the highest grade of materials and trading down (see [below]((https://wiki.antixenoinitiative.com/en/engineering-materials#material-trading))) to lower grade materials you may need as this is the most efficient approach.** One round of filling up on high-grade materials, trading down to fill your lower-grade materials, and then a second round to fill up your high-grade materials is much faster than filling each grade up individually. This should last you for multiple full ship engineering builds.
+**In general, we recommend filling up on the highest grade of materials and trading down (see [below](https://wiki.antixenoinitiative.com/en/engineering-materials#material-trading)) to lower grade materials you may need as this is the most efficient approach.** One round of filling up on high-grade materials, trading down to fill your lower-grade materials, and then a second round to fill up your high-grade materials is much faster than filling each grade up individually. This should last you for multiple full ship engineering builds.
 
 # Raw Materials
 
