@@ -2,7 +2,7 @@
 title: AX Ship Engineering
 description: An AX-focused engineer unlocking and travel guide.
 published: true
-date: 2025-01-27T19:16:39.793Z
+date: 2025-01-27T20:34:45.021Z
 tags: engineering
 editor: markdown
 dateCreated: 2023-02-13T17:37:07.496Z
@@ -82,7 +82,7 @@ Occasionally check "Minerals refined" in your statistics to see when you're over
 
 **Note: This assumes that you have blueprints pinned to G5 from every engineer needed.**
 
-![ax_experimental_optimal.png](/img/ax_experimental_optimal.png)
+![ax_experimental_fixed.png](/img/ax_experimental_fixed.png)
 
 
 
