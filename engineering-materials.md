@@ -2,7 +2,7 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2025-01-27T20:12:15.083Z
+date: 2025-01-27T20:13:01.370Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -26,7 +26,7 @@ Raw materials (Grade 4) can be easily obtained en masse at special **Crystalline
 - **Polonium** - HIP 36601, planet C 1 A
 - **Tellurium** - HIP 36601, planet C 3 B
 - **Technetium** - HIP 36601, planet C 5 A
-- **Selenium** - No known crystal shard site. See [below](https://wiki.antixenoinitiative.com/en/engineering-materials#selenium) for how to collect them.
+- **Selenium** - No known crystal shard site. See [below](https://wiki.antixenoinitiative.com/en/engineering-materials#selenium) for how to collect them
 
 The [Elite Materials](https://sites.google.com/view/elite-materials/collection/raw-materials?authuser=0) website hosts a list of planetary co-ordinates for these locations where there are known, high-yield sites. To use these sites, you will need to go to the celestial body corresponding to the material you require and use your Detailed Surface Scanner (DSS) on it. When this is done, select Crystal Shards and look for dark blue areas. 
 
