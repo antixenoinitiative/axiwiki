@@ -2,7 +2,7 @@
 title: Changes & Updates
 description: Showing highlighted changes that have been made to AXI wiki and AXI website.
 published: true
-date: 2025-01-27T20:33:47.004Z
+date: 2025-01-27T20:35:02.700Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-29T13:16:57.862Z
@@ -13,8 +13,8 @@ Wiki page editorials and website changes are discussed in discord under the OTHE
 If you'd like to contribute to the wiki, please request editor permissions from AXI staff in discord.
 
 ## Wiki Changes and Updates
-- 2025-01-27: Updated [Engineering Materials](en/engineering-materials)
-- 2025-01-25: Updated [Unlocking Engineers](en/Unlocking-Engineers)
+- 2025-01-27: Updated [Engineering Materials](/en/engineering-materials)
+- 2025-01-25: Updated [Unlocking Engineers](/en/Unlocking-Engineers)
 - 2025-01-06: Updated [Synthesis](/en/synthesis) to include AXMCs and AXMRs.
 - 2025-01-03: Updated coordinates for Sensor Fragments on [Engineering Materials](/en/engineering).
 - 2023-09-03: Created [Flight Maneuvers and Strategies](/en/flight) and added to navigation menu.
