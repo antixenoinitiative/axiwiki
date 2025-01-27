@@ -2,32 +2,23 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2025-01-21T21:06:36.574Z
+date: 2025-01-27T19:39:06.532Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
 ---
 
 # Engineering Materials Guide
-This is an extensive general guide on gathering and collecting materials for engineering your ship in Elite Dangerous. For a more focused list of material sources, check out [Elite Materials](https://sites.google.com/view/elite-materials/home).
+This is an extensive general guide on gathering and collecting materials for engineering your ship in Elite Dangerous.
 
-> You DO NOT have to max out the previous grade of an engineering blueprint before applying the next. A module only stores one grade of engineering, so each higher grade replaces previous ones.
-{.is-warning}
-
-
-# Useful Links
-- [Ship Build Theory](/en/shipbuildtheory) page - Information on how to engineer your ship
-- [Elite Materials](https://sites.google.com/view/elite-materials/home) - Comprehensive summary of material sources
-- [ED Discovery](https://edcodex.info/?m=tools&entry=10) - Aids with planetary navigation, among many other useful features.
-- [Weapon Unlock Costs](https://inara.cz/elite/techbroker) - Inara keeps a list of tech broker unlock requirements.
+**In general, we recommend filling up on the highest grade of materials and trading down (see [below]((https://wiki.antixenoinitiative.com/en/engineering-materials#material-trading))) to lower grade materials you may need as this is the most efficient approach.** One round of filling up on high-grade materials, trading down to fill your lower-grade materials, and then a second round to fill up your high-grade materials is much faster than filling each grade up individually. This should last you for multiple full ship engineering builds.
 
 # Raw Materials
 
-## Shard Farming
-*Guide By CMDRs Secretpro & Airom42*
+## Crystal Shard Farming
+*Guide By CMDRs Secretpro & Airom42, updated by CMDR Vorsipellis*
 
-Raw materials (Grade 4) can be easily obtained en masse at special **Crystalline Shard Biological Sites**. A large cluster of these sites, consisting of purely the highest grade (G4) of Raw materials can be found at two systems approximately 1500-1800Ly from the bubble. We recommend putting together a decent exploration ship (unengineered works) and visiting both systems to completely fill on all G4 materials (except Selenium) which you can trade down for any lower grade materials you may need. This should last you for multiple full ship engineering builds.
-Selenium has no known crystal shard sites. However, Odyssey introduced new sites which can be farmed at nearly the same efficieny. (see below)
+Raw materials (Grade 4) can be easily obtained en masse at special **Crystalline Shard Biological Sites**. A large cluster of these sites, consisting of purely the highest grade (G4) of Raw materials can be found at two systems approximately 1500-1800Ly from the bubble. We recommend putting together a decent exploration ship (unengineered works) and visiting both systems to completely fill on all G4 materials (except Selenium).
 
 - **Yttrium** - Outotz LS-K D8-3, B 5 A
 - **Antimony** - Outotz LS-K D8-3, B 5 C
@@ -35,64 +26,49 @@ Selenium has no known crystal shard sites. However, Odyssey introduced new sites
 - **Polonium** - HIP 36601, C 1 A
 - **Tellurium** - HIP 36601, C 3 B
 - **Technetium** - HIP 36601, C 5 A
+- **Selenium** - No known crystal shard site. See [below](https://wiki.antixenoinitiative.com/en/engineering-materials#selenium) for how to collect them.
 
+The [Elite Materials](https://sites.google.com/view/elite-materials/collection/raw-materials?authuser=0) website hosts a list of planetary co-ordinates for these locations where there are known, high-yield sites
+To use these sites, you will need to go to the celestial body corresponding to the material you require and use your Detailed Surface Scanner (DSS) on it. When this is done, select Crystal Shards and look for dark blue areas. 
 
-
-To use these sites, you will need to go to the celestial body corresponding to the material you require and use your Detailed Surface Scanner (DSS) on it. When this is done, select Crystal Shards and look for dark blue areas. Fly down to the planet and look for shards on the surface. Land, and hop in your SRV. You should be able to find plenty of rare raw materials for all your engineering and synthesis needs.
-
-The [Elite Materials](https://sites.google.com/view/elite-materials/collection/raw-materials?authuser=0) website hosts a list of planetary co-ordinates for these locations where there are known, high-yield sites.  you can use a planetary navigation app such as [ED Discovery](https://edcodex.info/?m=tools&entry=10) or [E.D.I.S.O.N.](https://edcodex.info/?m=tools&entry=431) to accurately find them.  
+While you can shoot the shards and collect them with your SRV, *we do not recommend this approach due to how slow it is*.
 
 **Do not forget to bring a Detailed Surface Scanner and SRV**.
 
-Dumbfire missiles or flak cannons can be used to increase farming efficiency, as demonstrated [here](https://youtu.be/xQsVE5CLl6o).
+To farm them, use Remote Release Flak Launchers (dumbfire missile racks can work too) to destroy them and scoop them up with collector limpets, as demonstrated [here](https://www.youtube.com/watch?v=oLSUiZyQvoI). **We strongly recommend bringing B-rated (the longest range) collector limpets and reducing your draw distance in graphics settings**.
 
-*TODO(vorsipellis): add notes/tips for draw distance and B-rating collectors*
-
-## Selenium and Thargoid Barnacles
-Selenium is (ironically) the most difficult material to farm since it only drops from Grade 2 resource nodes. There are multiple ways to collect it however, albeit slightly slower. The best way is brain trees, which can be farmed similar to crystal shards. Brain trees for selenium can be found at **Kappa-1 Volantis, B 3 F A** and **HR 3230, 3 A A**.
-
-Thargoid Barnacles can provide a good source of selenium as well, as breaking the spikes most commonly drops G1-G2 materials, but locating the correct barnacle may be tricky. You can use this spreadsheet compiled by CMDR Panpiper to find the correct sites. Look for Allripe Barnacles with Selenium present on the planet. Additionally relogging will cause the spikes to reappear, which means you can repeatedly farm the same site.
-
-For more information on barnacles, check out [Panpipers's Pleiades Survivor Guide to Barnacles and More](https://docs.google.com/spreadsheets/d/1giHvc1SISUcD7BPKjlbutkuwPrWQwHuSxnBwQ3MPQME/edit#gid=0)
+## Selenium
+Selenium is (ironically) the most difficult material to farm since it only drops from Grade 2 resource nodes. There are multiple ways to collect it however, albeit slightly slower. The best way is brain trees, which can be farmed similar to crystal shards. Brain trees for Selenium can be found at **Kappa-1 Volantis, B 3 F A** and **HR 3230, 3 A A**.
 
 # Manufactured Materials
-## HGE Looping
-*Guide By CMDR Jetlagged*
+## High-Grade Emissions (HGEs)
+*Guide By CMDR Vorsipellis*
 
-*TODO(vorsipellis): update for HGE changes*
+HGEs are the fastest method to grind Grade 5 Manufactured materials. After the July/August 2024 engineering changes, a single HGE signal will usually fill up all of that Grade 5 material. You want to use a ship with a collector limpet controller or two.
 
-HGE Looping is a time-efficient method of grinding Grade 5 Manufactured materials. Ideally you will want to be using a ship with at least 3 collector limpets and a good turn rate in supercruise.
+1. Go to the [High Grade Emissions Finder](https://edgalaxy.net/hge) website and click on the tab for the G5 material you're looking for.
+2. Drop into the HGE and confirm on the contacts panel that they are the materials you want. Some G5 materials share the same spawn conditions and are grouped into the same tab on the website, and there is no way to know what is in the site till you enter it.
+3. Deploy your cargo scoop and collector limpets.
+4. If you don't manage to fully fill up your materials storage, quit the game to desktop and re-launch. Once you're back in, enter supercruise and set your throttle to 0% immediately and turn around, the HGE you just left should be right behind you.
 
-1. Start by finding a HGE that contains the desired materials which has longer than 20 minutes on the decay timer.
-1. Drop into this HGE and collect the contents with your collector limpets.
-1. Exit the game to desktop and restart via the launcher.
-1. Join the same mode you were in originally, charge your FSD, and boost. Do not use your throttle.
-1. Upon transitioning to supercruise, immediately set throttle to 0% (it should already be) and open the left panel.
-1. The nearest Unknown Signal Source should be a few hundred km away and is the same HGE you dropped into the first time.
-1. Drop in, collect the contents and repeat until material storage is full or the HGE times out.
+**Biotech Conductors and Exquisite Focus Crystals cannot be obtained from HGEs**, and are instead obtained from missions. Robigo Mines, or Pilot Trade Network [Wing Mining Missions](https://pilotstradenetwork.com/wmms/) and [AFK Massacre Missions](https://pilotstradenetwork.com/afk-laser-disco/) are good ways of obtaining these materials.
 
-The contents of a given HGE are determined by system allegiance (Federation/Empire) and minor faction state (Outbreak, War, etc.) and spawn at random in systems in such states. See [Elite Materials](https://sites.google.com/view/elite-materials/collection/manufactured-items) for more information on what material corresponds to each faction state.
-
-You can use the [min-ed-launcher](https://github.com/Rfvgyhn/min-ed-launcher#features)'s auto-restart feature to save some time on each game restart.
-
-If you have a weak PC (or want to speed up the grind even more) you can load the vanilla (non-horizon) version of the game, as it loads faster.
+If the HGE Finder website doesn't have any systems listed for the material you're looking for, you can use the in-game Galaxy Map to find systems that might spawn it. The contents of a given HGE are determined by system allegiance (Federation/Empire) and minor faction state (Outbreak, War, etc.) and spawn at random in systems in such states. See [Elite Materials](https://sites.google.com/view/elite-materials/collection/manufactured-items) for more information on what material corresponds to each faction state.
 
 ## Other Methods
 While HGEs are the fastest way to farm most manufactured materials, some CMDRs prefer other methods, such as Hot Jupiter, Big Boo, or [Dav's Hope](https://i.redd.it/jak5olaegui01.png).
 
-Additionally, **Biotech Conductors and Exquisite Focus Crystals cannot be obtained from HGEs**, and are instead obtained from missions. Robigo Mines or Thargoid-related missions are currently the best known ways of obtaining these materials
-
 # Encoded Materials
 ## Jameson's Crashed Cobra
-You can find a collection of high grade encoded materials by travelling to Jameson's crashed cobra and scanning the small red beacons surrounding the crash site, once you log out/in these will refresh and you can continue to do this until your materials are full.
+You can find a collection of high grade encoded materials by travelling to the Jameson's Crashed Cobra site and scanning the small red beacons surrounding the crash site, once you log out/in (no need to quit to desktop) these will refresh and you can continue to do this until your materials are full.
 
 1. Equip an SRV and Detailed Surface Scanner
-1. Travel to HIP 12099 Planet 1B (-54.3803, -50.3575)
-1. Use your Detailed Surface Scanner to scan the planet and locate the crash site.
-1. Drop into the site and deploy your SRV.
-1. Drive up the the Cobra and using your Data Link Scanner, scan all the red beacons.
-1. Log off and back on.
-1. Repeat from step 5.
+2. Travel to HIP 12099 Planet 1B (-54.3803, -50.3575)
+3. Use your Detailed Surface Scanner to scan the planet and locate the crash site.
+4. Drop into the site and deploy your SRV.
+5. Drive up the the Cobra and using your Data Link Scanner, scan all the red beacons.
+6. Log off and back on.
+7. Repeat from step 5.
 
 # Guardian Materials
 ## Blueprints
@@ -138,6 +114,12 @@ When trading you will always lose some value. You will lose even more if you tra
 **Ideally you want to gather materials at the highest grade possible and trade downwards.**
 
 ![materialTraderImage](https://i.redd.it/6c6z4msafje61.png)
+
+# Other Useful Links
+- [Ship Build Theory](/en/shipbuildtheory) page - Information on how to engineer your ship
+- [Elite Materials](https://sites.google.com/view/elite-materials/home) - Comprehensive summary of material sources
+- [ED Discovery](https://edcodex.info/?m=tools&entry=10) - Aids with planetary navigation, among many other useful features.
+- [Weapon Unlock Costs](https://inara.cz/elite/techbroker) - Inara keeps a list of tech broker unlock requirements.
 
 ### Contributors
 - Airom
