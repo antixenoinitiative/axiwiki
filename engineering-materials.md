@@ -2,7 +2,7 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2025-01-27T20:28:18.523Z
+date: 2025-01-28T03:18:40.486Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -48,7 +48,7 @@ HGEs are the fastest method to grind Grade 5 Manufactured materials. After the J
 3. Deploy your cargo scoop and collector limpets.
 4. If you don't manage to fully fill up your materials storage, quit the game to desktop and re-launch. Once you're back in, enter supercruise and set your throttle to 0% immediately and turn around, the HGE you just left should be right behind you.
 
-**Biotech Conductors and Exquisite Focus Crystals cannot be obtained from HGEs**, and are instead obtained from missions. Robigo Mines, or Pilot Trade Network [Wing Mining Missions](https://pilotstradenetwork.com/wmms/) and [AFK Massacre Missions](https://pilotstradenetwork.com/afk-laser-disco/) are good ways of obtaining these materials.
+**Biotech Conductors and Exquisite Focus Crystals cannot be obtained from HGEs**, and are instead obtained from missions. The **recommended approach is to cross-trade for them**, even though it is less-efficient than trading down. Alternatively, Robigo Mines, or Pilot Trade Network [Wing Mining Missions](https://pilotstradenetwork.com/wmms/) and [AFK Massacre Missions](https://pilotstradenetwork.com/afk-laser-disco/) are ways of obtaining these materials. However, do note that mission rewards are now bloated, so it's not guaranteed that you'll always get the mission rewards you want.
 
 If the HGE Finder website doesn't have any systems listed for the material you're looking for, you can use the in-game Galaxy Map to find systems that might spawn it. The contents of a given HGE are determined by system allegiance (Federation/Empire) and minor faction state (Outbreak, War, etc.) and spawn at random in systems in such states. See [Elite Materials](https://sites.google.com/view/elite-materials/collection/manufactured-items) for more information on what material corresponds to each faction state.
 
