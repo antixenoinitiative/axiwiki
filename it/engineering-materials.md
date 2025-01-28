@@ -2,7 +2,7 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2025-01-28T03:18:40.486Z
+date: 2025-01-28T04:39:44.348Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -137,8 +137,8 @@ As a note, **there is currently no known shortcut to collecting Titan Drive Comp
 
 Some things that have empirically (but are not confirmed) to improve your chances:
 
-- Relog (from desktop) and try again if you've covered the whole area
-- More players may increase spawns, although that also increases competition - bringing a friend you trust or an alt account might help
+- Relog (from desktop) and try again if you've covered the whole area.
+- More players may increase spawns, although that also increases competition - bringing a friend you trust or an alt account might help.
 - There seems to be some maximum limit on how many scoopable items can spawn in an area before new ones will spawn. Try picking up some materials or commodities as this has been seen to cause TDCs and other scoopables to spawn out of thin air.
 - Praying harder to RNGesus.
 
