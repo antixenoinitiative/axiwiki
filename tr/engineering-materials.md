@@ -2,7 +2,7 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2025-01-28T04:39:44.348Z
+date: 2025-01-28T16:34:26.841Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -74,6 +74,8 @@ You can find a collection of high grade encoded materials by travelling to the J
 5. Drive up the the Cobra and using your Data Link Scanner, scan all the red beacons.
 6. Log off and back on.
 7. Repeat from step 5.
+
+Alternatively, if you're flying a ship with a front-mounted cockpit (e.g. not an Anaconda or Corvette, for example) it is possible to do your scans from your ship using your ship's Datalink Scanner. Fly almost-vertically over the site and maneuver close enough for each beacon to be target lockable. For more agile ships, you might find deploying your Cargo Scoop to help reduce the twitchiness that could lead to unintentional collisions.
 
 # Guardian Materials
 
