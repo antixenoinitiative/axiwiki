@@ -2,7 +2,7 @@
 title: Recommend Builds (old page)
 description: 
 published: true
-date: 2025-02-01T19:36:32.180Z
+date: 2025-02-01T20:10:05.862Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-01T19:36:32.180Z
@@ -38,49 +38,53 @@ In the current meta, the **Krait Mk.II is the most versatile ship**. With the ab
 
 *TODO(vorsipellis): add note about krait boost orbiting*
 
-## Tabset {.tabset}
+<details>
+  <summary>Click to Expand/Collapse Tabset</summary>
 
-### Solo Krait Mk.II
-![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
-#### **Solo Build**
+  ## Tabset {.tabset}
 
-The shieldless Krait is a tried and true powerhouse. The Krait's massive distributor and numerous hardpoints allow it to mount four of any AX weapon effectively. This build is designed specifically for solo fights, and is lacking in coutermeasures against caustic and shutdown fields (which can be avoided solo).
+  ### Solo Krait Mk.II
+  ![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
+  #### **Solo Build**
+  
+  The shieldless Krait is a tried and true powerhouse. The Krait's massive distributor and numerous hardpoints allow it to mount four of any AX weapon effectively. This build is designed specifically for solo fights, and is lacking in countermeasures against caustic and shutdown fields (which can be avoided solo).
 
-[Solo Krait Mk.II Build](https://edsy.org/s/vOD6Gi4)
+  [Solo Krait Mk.II Build](https://edsy.org/s/vOD6Gi4)
 
-### AXCZ Krait Mk.II
-![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
-#### **AXCZ Build**
+  ### AXCZ Krait Mk.II
+  ![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
+  #### **AXCZ Build**
 
-This build has a Thermal Vent Beam Laser instead of Flak, and brings a Shutdown Field Neutralizer and Caustic Sink Launcher to mitigate the added hazards found in AXCZs. The limpets and cargo rack can be safely removed if fighting at a planetary or station CZ with active station.
+  This build has a Thermal Vent Beam Laser instead of Flak, and brings a Shutdown Field Neutralizer and Caustic Sink Launcher to mitigate the added hazards found in AXCZs. The limpets and cargo rack can be safely removed if fighting at a planetary or station CZ with an active station.
 
-The "repairless" build below is specifically for active port defence where repairs are readily available.  For space AXCZ, it is necessary to take your own repairs with you.  The Modified Shard Cannons on the "repairless" build can be swapped for Modified Plasma Chargers, or perhaps a mix of 2x Modified Plasma Chargers and 2x Class 3 Ehanced Multi-Cannons.
+  The "repairless" build below is specifically for active port defense where repairs are readily available. For space AXCZ, it is necessary to take your own repairs with you. The Modified Shard Cannons on the "repairless" build can be swapped for Modified Plasma Chargers, or perhaps a mix of 2x Modified Plasma Chargers and 2x Class 3 Enhanced Multi-Cannons.
 
+  [AXCZ Krait Mk.II Build](https://edsy.org/s/vV4BbtW)  
+  [AXCZ Krait Mk.II repairless Modified Shard Cannons Build](https://edsy.org/s/vhgo1XR)  
+  [AXCZ Krait Mk.II repairless Modified Plasma Chargers & Enhanced AXMC Build](https://edsy.org/s/vdUt2Qh)
 
-[AXCZ Krait Mk.II Build](https://edsy.org/s/vV4BbtW)
-[AXCZ Krait Mk.II repairless Modified Shard Cannons Build](https://edsy.org/s/vhgo1XR)
-[AXCZ Krait Mk.II repairless Modified Plasma Chargers & Enhanced AXMC Build](https://edsy.org/s/vdUt2Qh)
+  ### Maelstrom Krait Mk.II
+  ![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
+  #### **Maelstrom Diver Build**
 
-### Maelstrom Krait Mk.II
-![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
-#### **Maelstrom Diver Build**
+  The Krait Mk.II is a tried and true favorite of maelstrom divers, as it offers substantial firepower and optional internals while still maintaining good maneuverability. The Maelstrom (or TitanKiller) Krait can be outfitted with a variety of weapon loadouts; the example given is the "fighter" configuration with Enhanced AX Multi-Cannons. For more detail on alternative options, visit the "Titan builds" section below.
 
-The Krait Mk.II is a tried and true favorite of maelstrom divers, as it offers substantial firepower and optional internals, while still maintaining good maneuverability.  The Maelstrom (or TitanKiller) Krait can be outfitted with a variety of weapon loadouts; the example given is the "fighter" configuration with Enhanced AX Multi-Cannons.  For more detail on alternative options, visit the "Titan builds" section below.
+  - AXMCs: 3 large, 1 medium
+  - Speed: 385m/s, 530m/s boost
+  - Hull: 3,050
 
-- AXMCs: 3 large, 1 medium
-- Speed: 385m/s, 530m/s boost
-- Hull: 3,050
+  [Maelstrom Krait Mk.II Build](https://edsy.org/s/vKhEdCd)  
+  [Build Video](https://www.youtube.com/watch?v=DaOp39Oksqc) by CMDR Mechan
 
-[Maelstrom Krait Mk.II Build](https://edsy.org/s/vKhEdCd)
-[Build Video](https://www.youtube.com/watch?v=DaOp39Oksqc) by CMDR Mechan
+  ### Low-Engineering Krait Mk.II
+  ![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
+  #### **Low-Engineering Build**
 
-### Low-Engineering Krait Mk.II
-![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
-#### **Low-Engineering Build**
+  While not recommended, this build gives a sense for what grade three engineering looks like. While grade five is always recommended, the Krait can still be a potent vessel even with minimal engineering.
 
-While not recommended, this build gives a sense for what grade three engineering looks like. While grade five is always recommended, the Krait can still be a potent vessel even with minimal engineering.
+  [Low-Engineering Krait Mk.II Build](https://edsy.org/s/v2FcXCA)
 
-[Low-Engineering Krait Mk.II Build](https://edsy.org/s/v2FcXCA)
+</details>
 
 
 
