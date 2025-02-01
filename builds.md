@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2025-02-01T19:36:28.682Z
+date: 2025-02-01T19:41:26.289Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -200,7 +200,7 @@ Recommendation: An outstanding large ship for those looking for such a thing. Re
 
 [EDSY Build](https://edsy.org/s/vXI6H3c)
 
-# Outdated Builds
+# Outdated/Retired Builds
 
 **There are no more Titans or Spires**, therefore, these builds are outdated and no longer used. They are kept here for posterity and historical reference, and in the event that Fdev decides to return this content to us.
 
