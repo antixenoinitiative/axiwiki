@@ -2,7 +2,7 @@
 title: Finding Thargoids
 description: How to find Thargoids in Elite Dangerous
 published: true
-date: 2025-02-01T19:23:48.546Z
+date: 2025-02-01T19:24:22.072Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -28,7 +28,7 @@ Thargoids can be found in various locations, such as:
 - [Static Signal Sources](/en/static-signals) (Bubble, Pleaides, Witch Head and Coalsack Nebulae)
 - [Thargoid Structures](https://canonn.science/codex/the-unknown-structure/?highlight=structure) (Pleaides, Witch Head and Coalsack Nebulae)
 - **Megaships** (Bubble, Pleiades Nebula)
-- [AX Conflict Zones](/en/finding-thargoids#ax-conflict-zones)
+- [AX Conflict Zones](/en/finding-thargoids#ax-conflict-zones-axczs)
 
 ## AX Conflict Zones (AXCZs)
 
