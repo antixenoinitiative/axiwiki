@@ -2,7 +2,7 @@
 title: Static Signal Sources
 description: Static Thargoid Locations
 published: true
-date: 2021-08-29T14:12:22.660Z
+date: 2025-02-01T00:44:14.331Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-24T12:26:17.619Z
@@ -10,6 +10,10 @@ dateCreated: 2021-06-24T12:26:17.619Z
 
 # Static Thargoid Signal Sources
 Across human space there are a handful of permanent Distress Calls and Megaships that can spawn Interceptors. These will typically have 1-2 Interceptors spawn upon arrival. Megaships also will sometimes have scouts instead.
+
+> NOTE: These are not the same as [Non-Human Signal Sources](https://wiki.antixenoinitiative.com/en/nhss).
+{.is-info}
+
 
 Relogging (exit to menu and log in) will cause these locations to refresh with potentially different Thargoids.
 
@@ -23,7 +27,7 @@ For an extended list, check out the [Thargoid Attacks Spreadsheet](https://docs.
 
 
 
-> Distress Call Points Of Interest that contain megaships or capital ships attacked by thargoids are leftovers of the initial bubble invasion. They have been placed there manually by FDev, who forgot to remove them once the invasion was over. Deciat specifically was attacked on July 5th 2018, and there are about 40+ more systems with the same type of POI all over the bubble and pleiades region. These POIs are not an indication of any actual thargoid activity by themselves, only Non-Human Signal Sources or AX Combat Zones are. Keep in mind though, that NHSS are naturally present in pleiades region (roughly 150Ly around Merope) and Witch Head nebula, and do not necessarily mean those systems are in danger. 
+> NOTE: Distress Call Points Of Interest that contain megaships or capital ships attacked by Thargoids are leftovers of the initial bubble invasion. They have been placed there manually by FDev, who forgot to remove them once the invasion was over. Deciat specifically was attacked on July 5th 2018, and there are about 40+ more systems with the same type of POI all over the bubble and pleiades region. These POIs are not an indication of any actual Thargoid activity by themselves, only Non-Human Signal Sources or AX Combat Zones are. Keep in mind though, that NHSS are naturally present in the nebulae regions (such as Pleiades, Coalsack, and Witch Head), and do not necessarily mean those systems are in danger. 
 > 
 > {.is-info}
 
