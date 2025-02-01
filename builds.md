@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2025-02-01T19:41:26.289Z
+date: 2025-02-01T19:51:46.772Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -10,6 +10,10 @@ dateCreated: 2021-06-08T12:52:54.657Z
 
 # Recommended Builds
 Anti-Xeno operations require specialised ship builds as Thargoids have special resistances and deal special damage types that will typically render a standard combat build useless. As such, we have put together the following guide to help you make the correct decisions to lead you towards building the most effective ship for hunting down Thargoid vessels. These ship builds are designed to maximize firepower and survivability, allowing any commander, regardless of skill level, to achieve victory.
+
+> This page is underdoing a revamp as of February 2025 to bring it more up-to-date with current AX standards and activities. Please bear us while this happens.
+{.is-info}
+
 
 ## Ship Build Types
 
@@ -20,6 +24,8 @@ There are two common build types used for Anti-Xeno Combat:
 -   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage. **Generally recommended for all skill levels.**
     
 -   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically. **Much more difficult to fly and not recommended for beginners.**
+
+*TODO(vorsipellis): add note about why we avoid using shields*
 
 Previously, there were two additional categories of builds when Titans and Spires still existed:
 - **Titan Builds** - Heavily specialized for combat in the most extreme locations - where caustic clouds are thick, staying undetected is paramount, and guardian tech is useless. These build have the same base hull configuration as Solo Builds, but share little else.
