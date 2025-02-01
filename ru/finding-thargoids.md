@@ -2,14 +2,14 @@
 title: Поиск таргоидов
 description: Как найти таргоидов в Elite Dangerous
 published: опубликовано
-date: 2021-11-05T09:10:07.131Z
+date: 2025-02-01T19:24:22.072Z
 tags: таргоиды, перехватчики, разведчики
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
 ---
 
 # Поиск таргоидов
-Таргоиды — достаточно неуловимые, но есть определённые хитрости и точки, которые помогут вам найти то, что вы ищете. Наиболее распространённым способом является обнаружение таргоидов в **нечеловеческих источниках сигналов (НчИС)** в регионе Плеяд (Pleiades Region), туманности Угольный Мешок (Coalsack Nebula) или туманности Голова Ведьмы (Witch Head Nebula). Однако также можно найти таргоидов в нескольких постоянных сигналах во всём человеческом пространстве.
+Таргоиды — достаточно неуловимые, но есть определённые хитрости и точки, которые помогут вам найти то, что вы ищете. Наиболее распространённым способом является обнаружение таргоидов в **нечеловеческих источниках сигналов (НчИС)** в регионе Плеяд (Pleiades Region), туманности Угольный Мешок (Coalsack Nebula) или туманности Голова Ведьмы (Witch Head Nebula). They are not reliable spawns inside of the war systems, you can also find Thargoids at a few static locations across human space.
 
 > ## Текущие активные регионы
 > 
@@ -27,6 +27,21 @@ dateCreated: 2021-06-15T10:50:27.574Z
 - [Постоянные источники сигналов](/en/static-signals) (Пузырь, туманности: Плеяды, Голова Ведьмы и Угольный мешок)
 - [Таргоидские планетарные объекты](https://canonn.science/codex/the-unknown-structure/?highlight=structure) (туманности: Плеяды, Голова Ведьмы и Угольный мешок)
 - **Гигантские корабли** (Пузырь, туманность Плеяды)
+- [AX Conflict Zones](/en/finding-thargoids#ax-conflict-zones-axczs)
+
+## AX Conflict Zones (AXCZs)
+
+The only currently-known (as of February 2025) active AX Conflicts Zones are in the California Nebula.
+
+California Sectors:
+- BA-A e6 - 1x High, 1x Medium AXCZ near body 4, both functional
+    - Medium CZ is 450km altitude within orbital cruise.
+- HR-W d1-28 - 2x High, 1x Medium AXCZ near body 3 (~260Ls from star)
+    - Medium CZ and one high CZ were on same side of planet at time of recon - Those two worked (scenario popup & thargs/AX pilots spawn)
+  - The Second high CZ @ ~1.38Mm altitude on Opposite side was nonfunctional, no scenario, no spawns.
+- JH-V c2-12 - 1x Medium AXCZ near body 6 (~45Ls), functional.
+
+**We recommend the BA-A e6 High CZ or the JH-V c2-12 Medium CZ.**
 
 ## Карта активности
 **Примечание:** эта карта составлена до появления целей сообщества (ЦС) в туманности Угольный Мешок и ЦС, связанных с Salvation, которые вызвали появление НчИС в регионе туманности Угольный мешок и, соответственно расширение региона Плеяд.
