@@ -2,14 +2,14 @@
 title: Trouver des Thargoids
 description: Comment trouver des Thargoids dans Elite Dangerous
 published: true
-date: 2021-11-05T09:10:07.131Z
+date: 2025-02-01T19:24:22.072Z
 tags: thargoids, intercepteurs, éclaireurs
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
 ---
 
 # Trouver des Thargoids
-Les Thargoids savent se faire discrets mais il existe des astuces et des zones d'activité à connaître qui peuvent vous aider à trouver ce que vous cherchez. Le moyen le plus fiable est de chercher des Thargoids dans les **Sources de Signal Non Humaines (NHSS)** dans les régions des Pléiades, de Coalsack ou de Witch Head Nebula. Cependant, vous pouvez aussi trouver des Thargoids à certains endroits fixes à travers l'espace humain.
+Les Thargoids savent se faire discrets mais il existe des astuces et des zones d'activité à connaître qui peuvent vous aider à trouver ce que vous cherchez. Le moyen le plus fiable est de chercher des Thargoids dans les **Sources de Signal Non Humaines (NHSS)** dans les régions des Pléiades, de Coalsack ou de Witch Head Nebula. They are not reliable spawns inside of the war systems, you can also find Thargoids at a few static locations across human space.
 
 > ## Zones d'activité actuelles
 > 
@@ -27,6 +27,21 @@ Thargoids can be found in various locations, such as:
 - [Static Signal Sources](/en/static-signals) (Bubble, Pleaides, Witch Head and Coalsack Nebulae)
 - [Thargoid Structures](https://canonn.science/codex/the-unknown-structure/?highlight=structure) (Pleaides, Witch Head and Coalsack Nebulae)
 - **Megaships** (Bubble, Pleiades Nebula)
+- [AX Conflict Zones](/en/finding-thargoids#ax-conflict-zones-axczs)
+
+## AX Conflict Zones (AXCZs)
+
+The only currently-known (as of February 2025) active AX Conflicts Zones are in the California Nebula.
+
+California Sectors:
+- BA-A e6 - 1x High, 1x Medium AXCZ near body 4, both functional
+    - Medium CZ is 450km altitude within orbital cruise.
+- HR-W d1-28 - 2x High, 1x Medium AXCZ near body 3 (~260Ls from star)
+    - Medium CZ and one high CZ were on same side of planet at time of recon - Those two worked (scenario popup & thargs/AX pilots spawn)
+  - The Second high CZ @ ~1.38Mm altitude on Opposite side was nonfunctional, no scenario, no spawns.
+- JH-V c2-12 - 1x Medium AXCZ near body 6 (~45Ls), functional.
+
+**We recommend the BA-A e6 High CZ or the JH-V c2-12 Medium CZ.**
 
 ## Carte des activités
 **Note:** This map is from before the Coalsack CG and Salvation CG which caused Coalsack NHSS to appear and the Pleiades region to expand, respectively.
