@@ -2,7 +2,7 @@
 title: Recommend Builds (old page)
 description: null
 published: true
-date: 2025-02-01T20:10:05.862Z
+date: 2025-02-01T20:56:46.745Z
 tags: null
 editor: markdown
 dateCreated: 2025-02-01T19:36:32.180Z
@@ -38,10 +38,7 @@ In addition, there are many different AX activities, and the builds for them can
 
 In the current meta, the **Krait Mk.II is the most versatile ship**. With the ability to mount any weapon, plenty of optional internals, a massive powerplant, and good maneuverability, the Krait Mk.II is the **best all-around starter build**.
 
-_TODO(vorsipellis): add note about krait boost orbiting_
-
-<details>
-  <summary>Click to Expand/Collapse Tabset</summary>
+Do note that cold orbiting in the Krait requires more finesse than in the Chieftain. Due to its weaker lateral thrusters, you will need to boost at correct times, which can be difficult. Because of this reason, we often recommend new players to start out with the Chieftain, as it doesn't need this boost to keep orbiting.
 
 ## Tabset {.tabset}
 
@@ -93,8 +90,6 @@ The Krait Mk.II is a tried and true favorite of maelstrom divers, as it offers s
 While not recommended, this build gives a sense for what grade three engineering looks like. While grade five is always recommended, the Krait can still be a potent vessel even with minimal engineering.
 
 [Low-Engineering Krait Mk.II Build](https://edsy.org/s/v2FcXCA)
-
-</details>
 
 # Solo Builds
 
@@ -348,11 +343,12 @@ These are best suited as they are not affected by the 77% resistance, can active
 Ultimately, due to the simple nature of scout hunting, almost any ship can be retrofitted for the task quite easily. A simple rule of thumb is….
 
 - Decent Hull
-- Decent Shields
-- As many AX Multi-Cannons as you can fit
-- Decontamination Limpets
 
-And you’re good to go!
+- Decent Shields
+
+- As many AX Multi-Cannons as you can fit
+
+- Decontamination Limpets
 
 ## Scout Builds
 
