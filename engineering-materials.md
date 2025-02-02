@@ -2,7 +2,7 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2025-01-28T16:34:26.841Z
+date: 2025-02-02T00:46:24.638Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -120,7 +120,7 @@ Alternatively, you can visit a Thargoid structure (where we cook Guardian Relics
 
 Titan Drive Components (TDCs) are a required commodity for the Pre-Engineered FSD SCOs that were awarded (and made available through Human Tech Brokers) after Titan Cocijo's death. The only place that they can be found are at Titan graveyards.
 
-As a note, **there is currently no known shortcut to collecting Titan Drive Components besides elbow grease and RNG - they are incredibly rare spawns**. We recommend a fast ship with A-rated sensors (long range engineered if possible, but necessary), collector limpets, and Anti-Corrosion Cargo Racks. Fly around the whole area of any Titan's wreck and keep checking your contacts panel and pray to RNGesus. They are not limited to spawning near the big pieces of the wreck, and can sometimes spawn at the edge of the cloud too.
+As a note, **there is currently no known shortcut to collecting Titan Drive Components besides elbow grease and RNG - they are incredibly rare spawns**. We recommend a fast ship with A-rated sensors (long range engineered if possible, but not necessary), collector limpets, and Anti-Corrosion Cargo Racks. Fly around the whole area of any Titan's wreck and keep checking your contacts panel and pray to RNGesus. They are not limited to spawning near the big pieces of the wreck, and can sometimes spawn at the edge of the cloud too.
 
 Some things that have empirically (but are not confirmed) to improve your chances:
 - Relog (from desktop) and try again if you've covered the whole area.
