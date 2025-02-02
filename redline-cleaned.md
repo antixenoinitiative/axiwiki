@@ -2,7 +2,7 @@
 title: Redline Cleaned
 description: This is a duplicate page for providing authors the new look of a page after redlining and new text
 published: false
-date: 2023-08-11T22:41:25.089Z
+date: 2025-02-02T01:18:31.223Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-06T03:40:01.561Z
@@ -11,7 +11,7 @@ dateCreated: 2023-08-06T03:40:01.561Z
 [![Maelstrom Over Ringed Ammonia World](/elite-dangerous-thargoid-invasion-update-14.jpg)](/elite-dangerous-thargoid-invasion-update-14.jpg)
 
 # A Brief Intro to the Maelstrom
-
+<!-- Testing commentary -->
 The Thargoid Maelstrom is a system point of interest (POI) that appeared alongside the Thargoid invasion event in Nov 3308. These instances have appeared in several systems and they are an incredibly dangerous anomaly. 
 
 Thargoid Maelstroms are multilayered and may make you want to think twice about disengaging your supercruise in the dropzone. Maelstroms have massive caustic zones, that we call *the cloud*, and dropping at the HUD's perfect spot indicator will land your vessel inside of the outer caustic zone of *the cloud*. Unless you are prepared to drop into caustic, plan to drop one tick next to the "drop zone" indicated by the HUD.
