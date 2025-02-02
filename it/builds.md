@@ -2,7 +2,7 @@
 title: '“Builds” raccomandate'
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2025-02-01T20:57:58.077Z
+date: 2025-02-02T01:28:22.473Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -13,20 +13,21 @@ Anti-Xeno operations require specialised ship builds as Thargoids have special r
 
 ## Tipologie di Allestimento
 
-Due to the variety of Thargoid Vessels and locations in which they may be encountered, there are a variety of specialized build classes required for Anti-Xeno combat. As a rule of thumb, **a solo-capable build is always the best option.** Variantions on the solo builds below form the core of all other build classes, as more specialized technology is usually required for more hostile locations.
+Due to the variety of Thargoid Vessels and locations in which they may be encountered, there are a variety of specialized build classes required for Anti-Xeno combat. As a rule of thumb, **a solo-capable build is always the best option, even for AXCZs.** Variations on the solo builds below form the core of all other build classes, as more specialized technology is usually required for more hostile locations.
+
 
 There are two common build types used for Anti-Xeno Combat:
 
--   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage
+-   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage. **Generally recommended for all skill levels.**
 
--   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically
+-   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically. **Much more difficult to fly and not recommended for absolute beginners. You have been warned - the technique for flying shielded fits is different from cold orbiting.**
 
 In addition, there are many different AX activities, and the builds for them can be quite different:
 - **Solo Builds** - One commander, one (or more) interceptors. These builds form the basis of all other builds, and you should always start here.
 - **Anti-Xeno Conflict Zone (AXCZ) Builds** - These builds are solo builds with various modifications to make them better suited for fighting in groups. Group AX presents a few hazards which usually aren't seen in solo fights.
 - **Scout Builds** - Like shooting fish in a barrel, Thargoid Scouts put up little resistance to a few Enhanced AXMCs.
 
-The abscence of Titans, their maelstroms and Spire sites have made these builds obsolete:
+The absence of Titans (and maelstroms) and Spire sites have made these builds obsolete:
 - **Maelstrom Builds** - Heavily specialized for combat in the most extreme locations - where caustic clouds are thick, staying undetected is paramount, and guardian tech is useless. These build have the same base hull configuration as Solo Builds, but share little else.
 
 - **Spire Builds** - Even more like shooting fish in a barrel, Thargoid Spire sites are very low intensity combat zones where Cyclops interceptors and Scouts occasionally spawn, and where Orthrus interceptors are found in large numbers.  Builds for Spire sites are designed for maximum shield damage to Orthrus.
@@ -102,6 +103,8 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
   #### **Imperial Cutter (Shielded)**
 
   If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
+
+  **Much more difficult to fly and not recommended for absolute beginners. You have been warned - the technique for flying shielded fits is different from cold orbiting.**
 
   Type: **Shield Tank**
 
@@ -186,7 +189,7 @@ These builds are targeted at more experienced commanders, either those who have 
 ## Advanced Builds
 A collection of more advanced builds can be found on the Advanced Builds page.
 
-View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links.
+View even more ship builds by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots, along with full stats, ratings, and build links. **Be warned that many of these fits are out-of-date and may not be the most optimally-fit.**
 
 # Anti-Xeno Conflict Zone Builds
 Because of the presence of variables outside one's control (other players) and with more Interceptors on the field at once, certain modules are recommended. Most Solo builds can be refitted slightly to incorporate these modules, to get a ship well-equipped for AXCZ's.
@@ -199,7 +202,7 @@ Because of the presence of variables outside one's control (other players) and w
 # Scout Builds
 Hunting scouts is an efficient method to increase combat rank. This is because all scouts are considered dangerous or deadly targets and will give a lot of experience per kill. Scout killers also hold a valuable role in Anti-Xeno Conflict Zones. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of **Large Enhanced Anti-Xeno Multi-Cannons**, either Gimballed or Turreted, as the most effective weapon for hunting scouts.
 
-These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. While vessels used to be limited to four AX Weapons, Azimuth's stabilizers now allow ships to mount up to six, allowing for truly devasating scout killers.
+These are best suited as they are not affected by the 77% resistance, can actively stay on target with scouts and are very ammo-efficient. While vessels used to be limited to four AX Weapons, Experimental Weapon Stabilizers now allow ships to mount up to six, allowing for truly devasating Scout killers.
 
 ## Extra Modules Suggested
 - **Decontamination Limpet Controller (and Cargo Rack)** - For when hit by caustic missiles.
@@ -210,11 +213,14 @@ Ultimately, due to the simple nature of scout hunting, almost any ship can be re
 
 - Decent Hull
 - Decent Shields
-- As many AX Multi-Cannons as you can fit
-- Decontamination Limpets
-
+- As many Enhanced AX Multi-Cannons as you can fit
+- Caustic Sink Launchers
 
 ## Scout Builds
+> WARNING: Some of these fits are out-of-date and will be updated at some point. 
+> 
+> {.is-warning}
+
 
 <details>
   <summary><b>Click to expand/collapse</b></summary>
@@ -313,7 +319,7 @@ Do note that cold orbiting in the Krait requires more finesse than in the Chieft
   [Low-Engineering Krait Mk.II Build](https://edsy.org/s/v2FcXCA) </details>
 
 # Retired Builds
-The following builds are no longer relevant because of the abscence of living Titans and their Spire sites.
+**There are no more Titans or Spire sites**, therefore, these builds are outdated and no longer used. They are kept here for posterity and historical reference, and in the event that Fdev decides to return this content to us.
 
 ## Titan Builds
 Titan Maelstroms contain an anti-guardian field and large caustic zones.  Specialized ships are required to be effective in these operating conditions, and Guardian internal modules will be destroyed; Guardian weapons (but not modules)  can, however, be engineered to avoid this. These are modifications of other meta ships, designed to either strike directly at the Titan itself, or to provide combat interdiciton to Thargoid Scouts or Interceptors in Titan space, with various specific modifications.
