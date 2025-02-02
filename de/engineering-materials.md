@@ -2,7 +2,7 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2025-02-02T00:46:24.638Z
+date: 2025-02-02T03:52:05.081Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -144,11 +144,11 @@ Some things that have empirically (but are not confirmed) to improve your chance
 - There seems to be some maximum limit on how many scoopable items can spawn in an area before new ones will spawn. Try picking up some materials or commodities as this has been seen to cause TDCs and other scoopables to spawn out of thin air.
 - Praying harder to RNGesus.
 
-## Propulsion Elements & Weapon Parts
+## Propulsion Elements, Weapon Parts, Wreckage Components, Bio-Mechanical Conduits
 
 _Guide by CMDR Vorsipellis_
 
-Thargoid Propulsion Elements are another requirement of the Pre-Engineered FSD SCOs, while Thargoid Weapon Parts are a requirement for Pre-Engineered Azimuth EAXMCs. These can be found as scoopables in Titan graveyards, or alternatively by farming Thargoid Scouts in NHSS Threat 4's and NHSS Threat 5's. The [NHSS Guide](https://wiki.antixenoinitiative.com/en/nhss) provides information on how to find them.
+Propulsion Elements are another requirement of the Pre-Engineered FSD SCOs, while Weapon Parts, Wreckage Components, and Bio-Mechanical Conduits are a requirement for Pre-Engineered Azimuth EAXMCs. These can be found as scoopables in Titan graveyards, or alternatively by farming Thargoid Scouts in NHSS Threat 4's and NHSS Threat 5's. The [NHSS Guide](https://wiki.antixenoinitiative.com/en/nhss) provides information on how to find them.
 
 # Material Trading
 
