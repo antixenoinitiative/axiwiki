@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2025-02-02T00:54:31.303Z
+date: 2025-02-02T01:28:22.473Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -20,7 +20,7 @@ There are two common build types used for Anti-Xeno Combat:
     
 -   **Fast Shieldless Builds** (Cold Orbiters) - Fast ships that use no shield and cold mechanics to evade damage. **Generally recommended for all skill levels.**
     
--   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically. **Much more difficult to fly and not recommended for beginners.**
+-   **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically. **Much more difficult to fly and not recommended for absolute beginners. You have been warned - the technique for flying shielded fits is different from cold orbiting.**
 
 In addition, there are many different AX activities, and the builds for them can be quite different:
 - **Solo Builds** - One commander, one (or more) interceptors. These builds form the basis of all other builds, and you should always start here.
@@ -101,6 +101,8 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
   #### **Imperial Cutter (Shielded)**
 
   If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
+  
+  **Much more difficult to fly and not recommended for absolute beginners. You have been warned - the technique for flying shielded fits is different from cold orbiting.**
 
   Type: **Shield Tank**
 
