@@ -2,7 +2,7 @@
 title: Рекомендованные сборки
 description: Рекомендованные сборки AX-кораблей
 published: Опубликовано
-date: 2025-02-02T01:28:22.473Z
+date: 2025-02-02T19:25:22.408Z
 tags: сборки
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -46,31 +46,36 @@ Thargoid Interceptors are **very tough and powerful enemies** that will require 
 
 ## Сборки для начинающих
 
-When starting out, stick to the tried and true. The Chieftain and the Krait have been the best ships for AX combat for a long time. The Chieftain offers exceptional agility paired with an excellent set of hardpoints. The Krait trades agility for firepower and is able to run four medium AX weapons. The odd one out is the Imperial Cutter as a large shielded ship, offering an entirely different style of combat.
+When starting out, stick to the tried and true. The Chieftain and the Krait have been the best ships for AX combat for a long time. The Chieftain offers exceptional agility paired with an excellent set of hardpoints. The Krait trades agility for firepower and is able to run four medium AX weapons.
 
 <details>
   <summary><b>Click to expand/collapse</b></summary>
 
   ## Tabset {.tabset}
 
+
+
   ### Alliance Chieftain (Shieldless) !\[alliance-chieftain.png\](/img/alliance-chieftain.png =250x){.align-right} #### **Alliance Chieftain (Shieldless)**
 
   The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-de-Lance in PVP. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
+
+  Unarguably the best ship and build style for AX combat.
 
   Type: **Cold Orbiter**
 
   - Скорость: ⭐⭐⭐⭐⭐
   - Agility: ⭐⭐⭐⭐⭐
   - Armour: ⭐⭐⭐⭐
-  - Firepower: ⭐⭐⭐
-
-  Recommendation: Unarguably the best ship and build style for AX combat.
+  - Щит:
+  - Firepower: ⭐⭐⭐⭐
 
   [Meta Build](https://edsy.org/s/vBhs0qY)
 
-  The following build contains modifications intended to make the ship better for Anti-Xeno Combat Zones. [AXCZ Meta Build](https://edsy.org/s/vIaTuhv)
-
   AX Chieftain Build Video: [https://www.youtube.com/watch?v=rP6-xP3vCkI](https://www.youtube.com/watch?v=rP6-xP3vCkI)
+
+  The following build contains modifications intended to make the ship better for Anti-Xeno Combat Zones: [AXCZ Meta Build](https://edsy.org/s/vIaTuhv)
+
+
 
 
   ### Krait Mk.II (Shieldless)
@@ -85,86 +90,65 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
   - Скорость: ⭐⭐⭐⭐⭐
   - Agility: ⭐⭐⭐
   - Armour: ⭐⭐⭐⭐
+  - Щит:
   - Firepower: ⭐⭐⭐⭐⭐
 
   Recommendation: Great for modified shard cannons and plasma chargers.
 
   Engineering Note: When downsizing the powerplant for extra weight reduction, power limits will require more engineering to keep everything running. Check EDSY for minimum engineering based on your specific build.
 
-  [EDSY Shieldless Build](https://edsy.org/s/vRboUKu)
-
+  [Shieldless Build](https://edsy.org/s/vRboUKu)
 
   AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
 
-  ### Imperial Cutter (Shielded)
-  !\[imperial-cutter.png\](/img/imperial-cutter.png =250x){.align-right}
 
-  #### **Imperial Cutter (Shielded)**
 
-  If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage. If you intend to use the Cutter, we recommend reading the Anti-Xeno Large Ship Guide.
+  ### Alliance Challenger (Shieldless)
+  !\[alliance-challenger.png\](/img/alliance-challenger.png =250x){.align-right}
 
-  **Much more difficult to fly and not recommended for absolute beginners. You have been warned - the technique for flying shielded fits is different from cold orbiting.**
+  #### **Alliance Challenger (Shieldless)**
 
-  Type: **Shield Tank**
+  The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower alternative with higher damage output against an interceptor’s shields. Depending on preference, it can also have more raw hull than a standard Chieftain build. Its three medium hardpoints with good convergence make it a better platform for running modified Shard Cannons or Plasma Chargers.
+
+  A great ship for those who find the Chieftain too responsive, or want to use shards or chargers.
+
+  Type: **Cold Orbiter**
 
   - Скорость: ⭐⭐⭐⭐
-  - Agility: ⭐⭐
+  - Agility: ⭐⭐⭐⭐
   - Armour: ⭐⭐⭐⭐
+  - Shield:
   - Firepower: ⭐⭐⭐⭐
-  - Shield: ⭐⭐⭐⭐⭐
 
-  Recommendation: Different fighting style and generally very capable with weaker Interceptors. Becomes much harder for tougher variants.
-
-  [EDSY Shielded Build](https://edsy.org/s/vKj663S) </details>
+  [Shieldless Build](https://edsy.org/s/vsftAn4) </details>
 
 
 ## Промежуточные сборки
 
-These builds are targeted at more experienced commanders, either those who have flown the above ships against Thargoids before or have prior PVP combat experience. These ships offer different flight characteristics, new hardpoint setups and generally some variety while requiring more experience to use effectively.
+These builds are targeted at more experienced commanders, either those who have flown the above ships against Thargoids before or have prior PVP combat experience. These ships offer different flight characteristics, new hardpoint setups and generally some variety while requiring more experience to use effectively. If you intend to use any of these, we recommend reading the Anti-Xeno Large Ship Guide.
 
 <details>
   <summary><b>Click to expand/collapse</b></summary>
 
   ## Tabset {.tabset}
 
-  ### Alliance Challenger (Shieldless) !\[alliance-challenger.png\](/img/alliance-challenger.png =250x){.align-right} #### **Alliance Challenger (Shieldless)**
-
-
-  The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower alternative with higher damage output against an interceptor’s shields. Depending on preference, it can also have more raw hull than a standard Chieftain build. Its three medium hardpoints with good convergence make it a better platform for running modified Shard Cannons or Plasma Chargers.
-
-  Type: **Cold Orbiter**
-
-  - Speed: ⭐⭐⭐⭐
-  - Agility: ⭐⭐⭐⭐
-  - Щит:
-  - Броня: ⭐⭐⭐⭐
-  - Firepower: ⭐⭐⭐⭐
-
-  Recommendation: A great ship for those who find the Chieftain too responsive, or want to use shards or chargers.
-
-  [EDSY Shieldless Build](https://edsy.org/s/vsftAn4)
-
-
-
-  ### Federal Corvette (Shieldless)
-  !\[federal-corvette.png\](/img/federal-corvette.png =250x){.align-right}
-
-  #### **Federal Corvette (Shieldless)**
+  ### Federal Corvette (Shieldless) !\[federal-corvette.png\](/img/federal-corvette.png =250x){.align-right} #### **Federal Corvette (Shieldless)**
 
   One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. When shieldless, it stays icy cold while firing on all cylinders.
+
+  An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
 
   Type: **Cold Orbiter**
 
   - Speed: ⭐⭐
   - Agility: ⭐⭐⭐
-  - Щит:
   - Armour: ⭐⭐⭐⭐⭐
+  - Shield:
   - Firepower: ⭐⭐⭐⭐
 
-  Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
+  [Shieldless Build](https://edsy.org/s/vlGtcnI)
 
-  [EDSY Build]https://edsy.org/s/vlGtcnI)
 
 
 
@@ -173,17 +157,41 @@ These builds are targeted at more experienced commanders, either those who have 
 
   #### **Federal Corvette (Shielded)**
 
-  One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. By utilizing prismatic or even bi-weave shields, the Corvette can slug it out with the toughest of targets. Type: **Shield Tank**
+  One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. By utilizing prismatic or even bi-weave shields, the Corvette can slug it out with the toughest of targets.
+
+  An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
+
+  Type: **Shield Tank**
 
   - Speed: ⭐⭐
   - Манёвренность: ⭐⭐⭐
-  - Shield:⭐⭐⭐⭐
   - Armour: ⭐⭐⭐⭐⭐
+  - Shield:⭐⭐⭐⭐
   - Огневая мощь: ⭐⭐⭐⭐
 
-  Recommendation: An outstanding large ship for those looking for such a thing. Requires good knowledge of AX mechanics.
+  [Shielded Build](https://edsy.org/s/vXI6H3c)
 
-  [EDSY Build](https://edsy.org/s/vXI6H3c) </details>
+
+
+
+  ### Imperial Cutter (Shielded)
+  !\[imperial-cutter.png\](/img/imperial-cutter.png =250x){.align-right}
+
+  #### **Imperial Cutter (Shielded)**
+
+  If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage.
+
+  Different fighting style and generally very capable with weaker Interceptors. Becomes much harder for tougher variants.
+
+  Type: **Shield Tank**
+
+  - Speed: ⭐⭐⭐⭐
+  - Agility: ⭐⭐
+  - Броня: ⭐⭐⭐⭐
+  - Shield: ⭐⭐⭐⭐⭐
+  - Firepower: ⭐⭐⭐⭐
+
+  [EDSY Shielded Build](https://edsy.org/s/vKj663S) </details>
 
 
 ## Advanced Builds
