@@ -2,7 +2,7 @@
 title: Поиск таргоидов
 description: Как найти таргоидов в Elite Dangerous
 published: опубликовано
-date: 2025-02-01T19:24:22.072Z
+date: 2025-02-04T18:29:56.507Z
 tags: таргоиды, перехватчики, разведчики
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -10,14 +10,6 @@ dateCreated: 2021-06-15T10:50:27.574Z
 
 # Поиск таргоидов
 Таргоиды — достаточно неуловимые, но есть определённые хитрости и точки, которые помогут вам найти то, что вы ищете. Наиболее распространённым способом является обнаружение таргоидов в **нечеловеческих источниках сигналов (НчИС)** в регионе Плеяд (Pleiades Region), туманности Угольный Мешок (Coalsack Nebula) или туманности Голова Ведьмы (Witch Head Nebula). They are not reliable spawns inside of the war systems, you can also find Thargoids at a few static locations across human space.
-
-> ## Текущие активные регионы
-> 
-> Туманность Плеяды (Pleiades Nebula: ~175 св. лет, около Merope) Туманность Голова Ведьмы (Witch Head Nebula: ~75 св. лет, около Witch Head Sector IR-W C1-9) Туманность Угольный Мешок (Coalsack Nebula: ~60 св. лет, около Musca Dark Region PJ-P B6-1) Туманность Калифорния (California Nebula: ~100 св. лет, около HIP 18390) 
-> 
-> {.is-info}
-
-Источник: [NHSS Survey Spreadsheet](https://docs.google.com/spreadsheets/d/1DhDTU3SLvmoNjBb_Ymy-S6RV1DsYztPRiULh1zR26lA/edit#gid=0)
 
 ## Местонахождения таргоидов
 
@@ -28,6 +20,22 @@ dateCreated: 2021-06-15T10:50:27.574Z
 - [Таргоидские планетарные объекты](https://canonn.science/codex/the-unknown-structure/?highlight=structure) (туманности: Плеяды, Голова Ведьмы и Угольный мешок)
 - **Гигантские корабли** (Пузырь, туманность Плеяды)
 - [AX Conflict Zones](/en/finding-thargoids#ax-conflict-zones-axczs)
+
+## Current Active Regions (and suggested systems)
+- #### **Pleiades Nebula**
+  - *Has stations if you don't have a Fleet Carrier and are close to the Bubble, and Sterope II is a recommended Hydra hunting ground*
+  - ~175ly around **Merope**
+  - **Pleiades Sector MI-S B4-0**: *Historically known as The Zoo, this was known for being the only system to spawn solo, no-scout Hydras in both “guaranteed” (triple icon / debris field) and non-guaranteed (single icon / green cloud) instances; it is still a recommended Hydra hunting ground but not the only place that Hydras can be found.*
+    - We recommend: **Asterope**, **Merope**, **Sterope II**
+- #### **Coalsack Nebula**
+  - *No station in-system or nearby, but contains high spawn density of higher-threat NHSSes if you have a Fleet Carrier to operate out of, and also has material traders within approximately ~30 LY's*
+  - ~60ly around **Musca Dark Region PJ-P B6-1**
+  - We recommend: **Musca Dark Region HM-V c2-17**
+- #### **California Nebula**
+    - ~100ly around **HIP 18390**
+  - Only known locations of of AX Conflict Zones (see [below](/en/finding-thargoids#ax-conflict-zones-axczs))
+- #### **Witch Head Nebula**
+    - ~75ly around **Witch Head Sector IR-W C1-9**
 
 ## AX Conflict Zones (AXCZs)
 
