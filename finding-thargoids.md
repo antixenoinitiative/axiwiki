@@ -2,7 +2,7 @@
 title: Finding Thargoids
 description: How to find Thargoids in Elite Dangerous, from solo interceptors to AX Conflict zones and everything in between
 published: true
-date: 2025-02-04T18:32:53.929Z
+date: 2025-02-04T20:21:49.719Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -14,14 +14,14 @@ Thargoids are an elusive bunch but there are certain tricks and hotspots that ca
 ## Thargoid Locations
 
 Thargoids can be found in various locations, such as:
-- [Non-Human Signal Sources](/en/nhss) (Pleaides, Witch Head and Coalsack Nebulae)
+- [Non-Human Signal Sources (NHSS)](/en/nhss) (Pleaides, Witch Head and Coalsack Nebulae)
 - [Hyperdictions](/en/hyperdictions) (Pleaides, Witch Head and Coalsack Nebulae)
 - [Static Signal Sources](/en/static-signals) (Bubble, Pleaides, Witch Head and Coalsack Nebulae)
 - [Thargoid Structures](https://canonn.science/codex/the-unknown-structure/?highlight=structure) (Pleaides, Witch Head and Coalsack Nebulae)
 - **Megaships** (Bubble, Pleiades Nebula)
 - [AX Conflict Zones](/en/finding-thargoids#ax-conflict-zones-axczs)
 
-## Current Active Regions (and suggested systems)
+## Current Active Regions for NHSSes (and suggested systems)
 - #### **Pleiades Nebula**
   - *Has stations if you don't have a Fleet Carrier and are close to the Bubble, and Sterope II is a recommended Hydra hunting ground*
   - ~175ly around **Merope**
