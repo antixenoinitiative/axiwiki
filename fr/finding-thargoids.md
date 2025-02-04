@@ -2,7 +2,7 @@
 title: Trouver des Thargoids
 description: Comment trouver des Thargoids dans Elite Dangerous
 published: true
-date: 2025-02-01T19:24:22.072Z
+date: 2025-02-04T18:29:56.507Z
 tags: thargoids, intercepteurs, éclaireurs
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -10,14 +10,6 @@ dateCreated: 2021-06-15T10:50:27.574Z
 
 # Trouver des Thargoids
 Les Thargoids savent se faire discrets mais il existe des astuces et des zones d'activité à connaître qui peuvent vous aider à trouver ce que vous cherchez. Le moyen le plus fiable est de chercher des Thargoids dans les **Sources de Signal Non Humaines (NHSS)** dans les régions des Pléiades, de Coalsack ou de Witch Head Nebula. They are not reliable spawns inside of the war systems, you can also find Thargoids at a few static locations across human space.
-
-> ## Zones d'activité actuelles
-> 
-> Pleiades Nebula (~175ly around Merope) Witch Head Nebula (~75ly around Witch Head Sector IR-W C1-9) Coalsack Nebula (~60ly around Musca Dark Region PJ-P B6-1) California Nebula (~100ly around HIP 18390) 
-> 
-> {.is-info}
-
-Source: [NHSS Survey Spreadsheet](https://docs.google.com/spreadsheets/d/1DhDTU3SLvmoNjBb_Ymy-S6RV1DsYztPRiULh1zR26lA/edit#gid=0)
 
 ## Emplacements Thargoids
 
@@ -28,6 +20,22 @@ Thargoids can be found in various locations, such as:
 - [Thargoid Structures](https://canonn.science/codex/the-unknown-structure/?highlight=structure) (Pleaides, Witch Head and Coalsack Nebulae)
 - **Megaships** (Bubble, Pleiades Nebula)
 - [AX Conflict Zones](/en/finding-thargoids#ax-conflict-zones-axczs)
+
+## Current Active Regions (and suggested systems)
+- #### **Pleiades Nebula**
+  - *Has stations if you don't have a Fleet Carrier and are close to the Bubble, and Sterope II is a recommended Hydra hunting ground*
+  - ~175ly around **Merope**
+  - **Pleiades Sector MI-S B4-0**: *Historically known as The Zoo, this was known for being the only system to spawn solo, no-scout Hydras in both “guaranteed” (triple icon / debris field) and non-guaranteed (single icon / green cloud) instances; it is still a recommended Hydra hunting ground but not the only place that Hydras can be found.*
+    - We recommend: **Asterope**, **Merope**, **Sterope II**
+- #### **Coalsack Nebula**
+  - *No station in-system or nearby, but contains high spawn density of higher-threat NHSSes if you have a Fleet Carrier to operate out of, and also has material traders within approximately ~30 LY's*
+  - ~60ly around **Musca Dark Region PJ-P B6-1**
+  - We recommend: **Musca Dark Region HM-V c2-17**
+- #### **California Nebula**
+    - ~100ly around **HIP 18390**
+  - Only known locations of of AX Conflict Zones (see [below](/en/finding-thargoids#ax-conflict-zones-axczs))
+- #### **Witch Head Nebula**
+    - ~75ly around **Witch Head Sector IR-W C1-9**
 
 ## AX Conflict Zones (AXCZs)
 
