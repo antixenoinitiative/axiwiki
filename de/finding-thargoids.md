@@ -1,8 +1,8 @@
 ---
 title: Thargoids finden
-description: Wie man Thargoids in Elite Dangerous findet
+description: How to find Thargoids in Elite Dangerous, from solo interceptors to AX Conflict zones and everything in between
 published: true
-date: 2025-02-04T18:29:56.507Z
+date: 2025-02-04T18:32:53.929Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
