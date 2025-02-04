@@ -2,7 +2,7 @@
 title: Поиск таргоидов
 description: How to find Thargoids in Elite Dangerous, from solo interceptors to AX Conflict zones and everything in between
 published: опубликовано
-date: 2025-02-04T18:32:53.929Z
+date: 2025-02-04T20:23:10.743Z
 tags: таргоиды, перехватчики, разведчики
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -14,14 +14,15 @@ dateCreated: 2021-06-15T10:50:27.574Z
 ## Местонахождения таргоидов
 
 Таргоидов можно найти в различных местах, таких как:
-- [Нечеловеческие источники сигналов](/en/nhss) (Туманности: Плеяды, Голова Ведьмы и Угольный мешок)
+- [Non-Human Signal Sources (NHSS)](/en/nhss) (Pleaides, Witch Head and Coalsack Nebulae)
+- [AX Conflict Zones](/en/finding-thargoids#ax-conflict-zones-axczs)
 - [Перехват в гиперпространстве](/en/hyperdictions) (Туманности: Плеяды, Голова Ведьмы и Угольный мешок)
 - [Постоянные источники сигналов](/en/static-signals) (Пузырь, туманности: Плеяды, Голова Ведьмы и Угольный мешок)
 - [Таргоидские планетарные объекты](https://canonn.science/codex/the-unknown-structure/?highlight=structure) (туманности: Плеяды, Голова Ведьмы и Угольный мешок)
 - **Гигантские корабли** (Пузырь, туманность Плеяды)
-- [AX Conflict Zones](/en/finding-thargoids#ax-conflict-zones-axczs)
 
-## Current Active Regions (and suggested systems)
+## Current Active Regions for NHSSes (and suggested systems)
+Take note - **hyperdictions** will happen in and around these regions, although they will not be hostile unless you're carrying Thargoid cargo.
 - #### **Pleiades Nebula**
   - *Has stations if you don't have a Fleet Carrier and are close to the Bubble, and Sterope II is a recommended Hydra hunting ground*
   - ~175ly around **Merope**
