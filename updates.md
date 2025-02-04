@@ -2,7 +2,7 @@
 title: Changes & Updates
 description: Showing highlighted changes that have been made to AXI wiki and AXI website.
 published: true
-date: 2025-02-01T20:04:44.594Z
+date: 2025-02-04T18:31:09.513Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-29T13:16:57.862Z
@@ -13,6 +13,7 @@ Wiki page editorials and website changes are discussed in discord under the OTHE
 If you'd like to contribute to the wiki, please request editor permissions from AXI staff in discord.
 
 ## Wiki Changes and Updates
+- 2025-02-04: Updated [Finding Thargoids](/en/finding-thargoids) to align with the [PR](https://github.com/antixenoinitiative/warden.bot/pull/183/files) that updates the bot's `/zoo` command
 - 2025-02-01: Start of updating [Recommended Builds](/en/builds); old page is archived [here](/en/builds-old)
 - 2025-01-27: Updated [Engineering Materials](/en/engineering-materials)
 - 2025-01-25: Updated [Unlocking Engineers](/en/Unlocking-Engineers)
