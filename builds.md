@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2025-02-02T19:25:22.408Z
+date: 2025-02-09T23:57:55.350Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -70,11 +70,9 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
   - Shield: 
   - Firepower: ⭐⭐⭐⭐
 
-  [Meta Build](https://edsy.org/s/vBhs0qY)
+  [Meta Build](https://edsy.org/#/L=I950000H4C0S00,LYS05LYS05L3I07EhtG57P_W0LXC05LXC05,EAk05CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG75I_W0AAAG53K_W0APoG55I_W0AdsG55J_W0AtyG53G_W0B8gG53L_W0BLAG55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T056kK05072050Iw0520n051-D05)
 
   AX Chieftain Build Video: [https://www.youtube.com/watch?v=rP6-xP3vCkI](https://www.youtube.com/watch?v=rP6-xP3vCkI)
-  
-  The following build contains modifications intended to make the ship better for Anti-Xeno Combat Zones: [AXCZ Meta Build](https://edsy.org/s/vIaTuhv)
   
   
   
@@ -96,7 +94,7 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
 
   Engineering Note: When downsizing the powerplant for extra weight reduction, power limits will require more engineering to keep everything running. Check EDSY for minimum engineering based on your specific build.
 
-  [Shieldless Build](https://edsy.org/s/vRboUKu)
+  [Shieldless Build](https://edsy.org/#/L=IEA0000H4C0SA0,LYS17EkhH77P_W0LYS17L3I17LYS17,EAk15CjwH-2G002P000S_00CjwG-2G002P000S_00CjwH-2G002P000S_00,9onG75I_W0AAA07APoGA5I_W0AdsI-5J_W60upD6upD8qpDE_PcGzcQKsPcAsOGA3G_W0BAEGA3L_W0BOmGA5G_W0Bcg0A,,0AA0716yG55I_W06kK1525T050M22713qG75I_W013qG75I_W020n051-D05)
 
   AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
   
@@ -118,7 +116,7 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
   - Shield:
   - Firepower: ⭐⭐⭐⭐
 
-  [Shieldless Build](https://edsy.org/s/vsftAn4)
+  [Shieldless Build](https://edsy.org/#/L=ID50000H4C0S10,LYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEhtG57P_W0EhtG77P_W0EhtG77P_W0,EAk0ACjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00,9onG75I_W0AAAG53I_W0APoG55I_W0AdsH-5J_W60upD6upD8qpDE_PcGzcQKsPcAtyG53G_W0B8gG53L_W0BLeG55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T076kK0005U0A05U070Iw0A20n071-D07)
 </details>
 
 
