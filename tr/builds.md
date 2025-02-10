@@ -2,7 +2,7 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2025-02-10T11:51:50.992Z
+date: 2025-02-10T14:53:31.172Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -147,7 +147,7 @@ These builds are targeted at more experienced commanders, either those who have 
   - Shield:
   - Firepower: ⭐⭐⭐⭐
 
-  [Shieldless Build](https://edsy.org/s/vlGtcnI)
+  [Shieldless Build](https://edsy.org/#/L=Hz00000H4C0S80,LYS00LYS00EkhG07P_W0L3I00L3I00LXC00LXC00,EBD00EB200CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00,9p3G05I_W0ADIG05I_W0ARMG05I_W0AfRG05J_W0AtyG030_W0BBoG03L_W0BRuG05G_W0Bcg00,16yG05I_W016yG05I_W0,0Bk006nS0016yG05I_W016yG05I_W016yG05I_W016yG05I_W025T0023u000M20022K001-C00,Shieldless_0AX_0Corvette,AXIN)
 
 
 
@@ -169,7 +169,7 @@ These builds are targeted at more experienced commanders, either those who have 
   - Shield:⭐⭐⭐⭐
   - Ateş gücü: ⭐⭐⭐⭐
 
-  [Shielded Build](https://edsy.org/s/vXI6H3c)
+  [Shielded Build](https://edsy.org/#/L=Hz5WcKGo0H4C0SB0,LYS20LYS20EkhI07P_W0L3I20L3I20LXC20LXC20,CjwH-2G002P000S_00CjwH-2G002P000S_00DBwH05L_W0DBwH05L_W0DBwI05L_W0DBwI05L_W0DBwI05L_W0DBwI05L_W0,9onH05I_W0ADIH07I_W0ARMG05I_W0AfRG05J_W0AtyG02m_W0BBoG03L_W0BRuG04m_W0Bcg15,16yH05I_W016yH05I_W0,7VtH07K_W07lUI04n_W07lUI04n_W016yH05I_W016yH05I_W016yH05I_W016yH05I_W015OH05I_W023u0022K0010j00,Shielded_0AX_0Corvette,AXIN)
 
 
 
@@ -191,7 +191,7 @@ These builds are targeted at more experienced commanders, either those who have 
   - Shield: ⭐⭐⭐⭐⭐
   - Firepower: ⭐⭐⭐⭐
 
-  [EDSY Shielded Build](https://edsy.org/s/vKj663S) </details>
+  [EDSY Shielded Build](https://edsy.org/#/L=H_00000H4C0SC0,LYS00EkhG07P_W0LYS00LYS00LYS00L3I00L3I00,CjwG-2G002P000S_00CjwG-2G002P000S_00DBwG05L_W0DBwG05L_W0DBwG05L_W0DBwG05L_W0DBwG05L_W0DBwG05L_W0,9onG05I_W0ADIG07I_W0ASwG05I_W0Ag-H05J_W0Ax400BAEG0DL_W0BQKG05G_W0BeE00,16yG05I_W016yG05I_W0,7XRG07L_W07n2G051_W07jwG051_W016yG05I_W016yG05I_W016yG05I_W016yG05I_W023u0022K000HMB0,AX_0Cutter) </details>
 
 
 ## Advanced Builds
@@ -241,7 +241,7 @@ Ultimately, due to the simple nature of scout hunting, almost any ship can be re
   - 2x Large AX Multicannons, and a class 5 shield generator
   - Does not need engineering, although it is still recommended
 
-  [**Unengineered Vulture Build**](https://edsy.org/s/vdAYRaG) [**Engineered Vulture Build**](https://edsy.org/s/vs1wd7p)
+  [**Unengineered Vulture Build**](https://edsy.org/#/L=HN00000H4C0SA0,L5110L5110,EBD10EAk10DBw00Cjw00,9on10A7210AOE00AcI00Aqq00B7600BLe00BZY10,16y10,7T4107Ac1003w007sD001-C0010i0010i00,Anti_DScout_0Vulture,AXIN) [**Engineered Vulture Build**](https://edsy.org/#/L=HN00000H4C0SA0,L5110L5110,EBD10EAk10DBwG04r_W0CjwG02G_W0,9onH04o_W0A72H02q_W0AOEG04o_W0AcIG04p_W0AqqG02G_W0B76G02r_W0BLeG04G_W0BZY10,16yH04o_W0,7T4H06o_W07Ac1003w007sD001-C0010i0010j00,Anti_DScout_0Vulture,AXIN)
 
 
   ### Krait Mk.II (Shielded)
@@ -254,7 +254,7 @@ Ultimately, due to the simple nature of scout hunting, almost any ship can be re
   - High mobility to keep targets in range or disengage.
   - Good upgrade from a Vulture, allowing for powerful AXCZ support.
 
-  [**Krait Mk.II Build**](https://edsy.org/s/vgZzbI2)
+  [**Krait Mk.II Build**](https://edsy.org/#/L=HE00000H4C0S00,L5100L5100L5100L3n00L3n00,EAk00EBD00Cjw00DBwG05L_W0,9onG05I_W0AAAG03K_W0APoG05I_W0AdsG-5G_W60upD6upD8qpDE_PcGzcQKsPcAsOG02m_W0BAEG03L_W0BOmG05G_W0Bcg00,,7UeG07I_W07jwG051_W07Dk0016yG05I_W0072003Gm0013qG05I_W020m000HM00,Anti_DScout_0Krait_0MKII,AXIN)
 
 
   ### Anaconda (Shielded)
@@ -266,7 +266,7 @@ Ultimately, due to the simple nature of scout hunting, almost any ship can be re
   - Can be fitted with large shields and boosters for worry-free farming
   - Overkill in nearly all cases
 
-  [**Anaconda Build**](https://edsy.org/s/vy3MVEQ)
+  [**Anaconda Build**](https://edsy.org/#/L=H600000H4C0S80,L5100L5100L5100L5100L3n00L3n00EhtG07P_W0EhtG07P_W0,EAk00EBD00Cjw00DBwG05L_W0DBwG05L_W0DBwG05L_W0DBwG05L_W0DBwG05L_W0,9onG05J_W0ADIG03K_W0ARMG05I_W0AfQG05J_W0AtyG03G_W0BBoG03L_W0BRuG05G_W0Bcg00,16yG05I_W0,7WCG07I_W07jwG04X_W07jwO04X_W07Dk003Ju0016yG05I_W016yG05I_W00720015OG05I_W023u000Iw001-C00,Anti_DScout_0Anaconda,AXIN)
 
 
   ### Type-10 Defender (Shielded)
@@ -277,7 +277,7 @@ Ultimately, due to the simple nature of scout hunting, almost any ship can be re
   - Outclassed by the Anaconda in pretty much every way
   - Some people just really like flying this ship, for some reason. So here it is.
 
-  [**Type-10 Build**](https://edsy.org/s/vsBBqw3) </details>
+  [**Type-10 Build**](https://edsy.org/#/L=Ha00000H4C0S00,L5100L5100L5100L5100Hf5G0BH_W0L3n00Hf500EhtG07P_W0EhtG07P_W0,EAk00EBD00Cjw00DBwG05L_W0DBwG05L_W0DBwG05L_W0DBwG05L_W0DBwG05L_W0,9onG05I_W0ADIG03K_W0ARMG05I_W0Ag_G05J_W0AtyG02m_W0BAEG03L_W0BLeG05G_W0BeE00,16yG05I_W016yG05I_W0,7XmG07I_W07Gs007jwG04n_W03Gm000720015OG05I_W013qG05I_W022K000Iw0010j00,Anti_DScout_0Type_D10,AXIN) </details>
 
 # Best In Class - Krait Mk.II
 In the current meta, the **Krait Mk.II is the most versatile ship**. With the ability to mount any weapon, plenty of optional internals, a massive powerplant, and good maneuverability, the Krait Mk.II is the **best all-around starter build**.
@@ -293,7 +293,7 @@ Do note that cold orbiting in the Krait requires more finesse than in the Chieft
 
   The shieldless Krait is a tried and true powerhouse. The Krait's massive distributor and numerous hardpoints allow it to mount four of any AX weapon effectively. This build is designed specifically for solo fights, and is lacking in countermeasures against caustic and shutdown fields (which can be avoided solo).
 
-  [Solo Krait Mk.II Build](https://edsy.org/s/vOD6Gi4)
+  [Solo Krait Mk.II Build](https://edsy.org/#/L=HE00000H4C0S40,LYS20LYS20EkhI07P_W0LYS20L3I10,CjwH02G_W0CjwH02G_W0CjwH02G_W0CjwH02G_W0,9onG05I_W0AAAG03K_W0APoG05I_W0AdsJ05J_W0AsOG030_W0BAEH03L_W0BOmH05G_W0Bcg00,,25T006kK1016yG05I_W016yG05I_W00720013qG05I_W00KU1020m001-C00,Meta_0Krait_0MKII,AXIN)
 
   ### AXCZ Krait Mk.II !\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right} #### **AXCZ Build**
 
@@ -301,9 +301,9 @@ Do note that cold orbiting in the Krait requires more finesse than in the Chieft
 
   The "repairless" build below is specifically for active port defense where repairs are readily available. For space AXCZ, it is necessary to take your own repairs with you. The Modified Shard Cannons on the "repairless" build can be swapped for Modified Plasma Chargers, or perhaps a mix of 2x Modified Plasma Chargers and 2x Class 3 Enhanced Multi-Cannons.
 
-  [AXCZ Krait Mk.II Build](https://edsy.org/s/vV4BbtW)  
-[AXCZ Krait Mk.II repairless Modified Shard Cannons Build](https://edsy.org/s/vhgo1XR)  
-[AXCZ Krait Mk.II repairless Modified Plasma Chargers & Enhanced AXMC Build](https://edsy.org/s/vdUt2Qh)
+  [AXCZ Krait Mk.II Build](https://edsy.org/#/L=HE00000H4C0S40,EkhH07P_W0LYS20LYS20LYS20LYS20,CjwH-2G002P000S_00CjwH-2G002P000S_00CjxH02G_W0EBD10,9onG05I_W0AAAG03K_W0APoG05I_W0AdtJ05J_W0AsOG03G_W0BAEH03L_W0BOmH05G_W0Bcg00,,25T006kK1016yG05I_W016yG05I_W00720013qG05I_W00KU1020m001-C00,AXCZ_0Krait_0MKII,AXIN)  
+[AXCZ Krait Mk.II repairless Modified Shard Cannons Build](https://edsy.org/#/L=HE5b9FA-0H4C0S20,EkhG07P_W0LYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXv,CjwG-2G002P000S_00CjwG-2G002P000S_00CjxG02G_W0EBD00,9onnf8e5m5I_W0AAAH03K_W0APomZ3Oeo5I_W0Adtmf1R7g5J_W0AsOm2OK30_W0BAEmb22Jd3L_W0BOmmR2_d5G_W0BcgXJ1Jn,,16yH05I_W016yG05I_W016ynR61d5I_W025SXR61d15OnT2vg5I_W013qnU17_5I_W00KUWVZ8x20mX6Us1-CX1EI,Repairless_0Shard_0KRAIT,AXIN)  
+[AXCZ Krait Mk.II repairless Modified Plasma Chargers & Enhanced AXMC Build](https://edsy.org/#/L=HE5b9FA-0H4C0S20,EkhG07P_W0L5100L5100LYVG-2Gxq60vBh4zHx8y00Cw00H800KvLLLYVG-2Gxq60vBh4zHx8y00Cw00H800KvLL,CjwG-2G002P000S_00CjwG-2G002P000S_00CjxG02G_W0EBD00,9onnf8e5m5I_W0AAAH03K_W0APomZ3Oeo5I_W0Adtmf1R7g5J_W0AsOm2OK30_W0BAEmb22Jd3L_W0BOmmR2_d5G_W0BcgXJ1Jn,,16yH05I_W016yG05I_W016ynR61d5I_W025SXR61d15OnT2vg5I_W013qnU17_5I_W00KUWVZ8x20mX6Us1-CX1EI,RepaIRless_0Plasma_FAXMC,AXIN)
 
   ### Maelstrom Krait Mk.II !\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right} #### **Maelstrom Diver Build**
 
@@ -313,7 +313,7 @@ Do note that cold orbiting in the Krait requires more finesse than in the Chieft
   - Speed: 385m/s, 530m/s boost
   - Hull: 3,050
 
-  [Maelstrom Krait Mk.II Build](https://edsy.org/s/vKhEdCd)  
+  [Maelstrom Krait Mk.II Build](https://edsy.org/#/L=HE5b9FA-0H4C0S40,L5100L5100L5100L3n10EjHH07P_W0,CjxG52G_W0CjwG-2G002P000S_00EAk05EB400,9onH05I_W0ABkH55K_W0APoG55I_W0AdsK-5J_W60upD6upD8qpDE_PcGzcQKsPcAsOG530_W0BAEG53L_W0BOmG55G_W0Bcg15,,6kK3516yH05I_W025S1516yH55IXm00734013qJ05I_W00KU2520m151-C15,MAelstrom_0Krait_0MKII,AXIN)  
     [Build Video](https://www.youtube.com/watch?v=DaOp39Oksqc) by CMDR Mechan
 
 
@@ -324,7 +324,7 @@ Do note that cold orbiting in the Krait requires more finesse than in the Chieft
 
   While not recommended, this build gives a sense for what grade three engineering looks like. While grade five is always recommended, the Krait can still be a potent vessel even with minimal engineering.
 
-  [Low-Engineering Krait Mk.II Build](https://edsy.org/s/v2FcXCA) </details>
+  [Low-Engineering Krait Mk.II Build](https://edsy.org/#/L=HE00000H4C0S40,LYS20LYS20EkhH06v_W0LYS20LYS20,Cjw10Cjw10Cjw10Cjw10,9onG04o_W0ABk00APoG04o_W0AdsJ-5G_W60upD6upD8qpDE_PcGzcQKsPcAsOG02G_W0BAEH03L_W0BOmH04m_W0Bcg00,,25S006kK1016yG04m_W016yG04m_W00720013q000KU1020m001-C00,Low_0Engi_0Krait_0MKII,AXIN) </details>
 
 # Retired Builds
 **There are no more Titans or Spire sites**, therefore, these builds are outdated and no longer used. They are kept here for posterity and historical reference, and in the event that Fdev decides to return this content to us.
@@ -376,7 +376,7 @@ Titan Maelstroms contain an anti-guardian field and large caustic zones.  Specia
   - Speed: 346m/s, 476m/s boost
   - Hull: 1,376
 
-  [TitanKiller "Farseer" Bomber Build](https://edsy.org/s/vUp8dG8)
+  [TitanKiller "Farseer" Bomber Build](https://edsy.org/#/L=HE00000H4C0SC0,L4n10L4n10L4n10L3X10LZh10,Cjw0-Cjx80Cjx00EB400,9p300AAAG04K_W0APoG04r_W0AdtS05J_W0AsO00BAE00BOmG04m_W0Bcg00,,0AA006kKA016y0025S0015O3013q000KUB020m001-C00,Titankiller_0Farseer,XSF)
 
 
   ### Krait Mk.II Bomber (Shieldless)
@@ -391,7 +391,7 @@ Titan Maelstroms contain an anti-guardian field and large caustic zones.  Specia
   - Speed: 322m/s, 544m/s boost
   - Hull: 3,358
 
-  [TitanKiller Bomber Build](https://edsy.org/s/voSTwzN)
+  [TitanKiller Bomber Build](https://edsy.org/#/L=HE00000H4C0SC0,L4wH-3G_W90zcQ4sPcAhhXEsPcIupDL000P000UxCpWy00L4wH-3G_W90zcQ4sPcAhhXEsPcIupDL000P000UxCpWy00L4wH-3G_W90zcQ4sPcAhhXEsPcIupDL000P000UxCpWy00EjHH07P_W0LZh10,CjwG-2G002P000S_00CjxG02G_W0CjxG02G_W0EB400,9p3G05I_W0ABkG05K_W0APoG05I_W0AdsS-5J_W60upD6upD8qpDE_PcGzcQKsPcAsOG03G_W0BAEG03L_W0BOmG05G_W0Bcg00,,0AA006kK2016yG05I_W025S0015OJ05I_W013qG05I_W00KU3020m001-C00,Titankiller_0v2_E0B_0L,XSF)
 
 
   ### Krait Mk.II Fighter (Shieldless)
@@ -403,7 +403,7 @@ Titan Maelstroms contain an anti-guardian field and large caustic zones.  Specia
   - 1x class 2 gimballed beam laser with Long Range and Thermal Vent
   - Speed: 323/s, 547m/s boost
 
-  [TitanKiller Fighter Build](https://edsy.org/s/v8shXsd) </details>
+  [TitanKiller Fighter Build](https://edsy.org/#/L=HE5b9FA-0H4C0SC0,L5110L5110L5110L3n10EjHH07P_W0,CjwG-2G002P000S_00CjxG02G_W0EAk00EB400,9p3H05I_W0ABkH05K_W0APoG05I_W0AdsS-5J_W60upD6upD8qpDE_PcGzcQKsPcAsOG030_W0BAEG03L_W0BOmG05G_W0Bcg10,,0AA206kK2016yH05I_W025S1015OK05I_W013qJ05I_W00KU3020m101-C10,Titankiller_0v2_E0F_0L,XSF) </details>
 
 ## Spire Builds
 Thargoid Spire sites are low-threat conflict zones where Orthrus-type interceptors come and go regularly.  Combat in Spire sites assists with the recapturing of systems from Titans.  When engaged, Orthrus will summon packs of Scouts, and occasionally a Cyclops, to defend them.  Combat bonds for Orthrus kills are especially high at 15 million credits.
@@ -441,7 +441,7 @@ The general premise of Spire site builds is to create a ship which can survive i
 
   Recommendation: A great entry-level ship for Spire AX.
 
-  [**Shieldless Krait Missile Bomber Build**](https://edsy.org/s/vWmUQDT)
+  [**Shieldless Krait Missile Bomber Build**](https://edsy.org/#/L=HE00000H4C0SC0,L4n10L4n10L4n10L3X10EjGH07P_W0,CjxG02G_W0CjxG02G_W0EAk00EBD00,9onG05I_W0ABkG05K_W0APoG05I_W0AdsS-5J_W60upD6upD8qpDE_PcGzcQKsPcAsOG02m_W0BAEG03L_W0BOmG05G_W0Bcg00,,0AA006kK2025S0016yG05I_W015OJ05I_W013qG05I_W00KU3020m001-C00,Spire_0Bomber,AXIN)
 
 
   ### Krait Mk.II (Shieldless Guardian)
@@ -458,7 +458,7 @@ The general premise of Spire site builds is to create a ship which can survive i
 
   Recommendation: Agile and packs a punch, and strong enough to go toe-to-toe with Cyclops.
 
-  [**Shieldless Krait Guardian Weapons Build**](https://edsy.org/s/vNSpM8O)
+  [**Shieldless Krait Guardian Weapons Build**](https://edsy.org/#/L=HE5b9FA-0H4C0S20,EkhG07P_W0LYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXv,CjxmEeT2G_W0CjxmEeT2Gsd1OwPcCjxG02G_W0EB4WP1vP,9onnf8e5m5I_W0ABknj89263I_W0APomZ3Oeo5I_W0Adtmf1R7g5J_W0AsOm2OK30_W0BAEmb22Jd3L_W0BOmmR2_d5G_W0BcgXJ1Jn,,0AAXN5PF6kKWI1SZ16ynR61d5I_W025SXR61d15OnT2vg5I_W013qnU17_5I_W00KUWVZ8x20mX6Us1-CX1EI,XSF_0Ethics_0Gradient,AXC_D2T)
 
 
 
@@ -476,7 +476,7 @@ The general premise of Spire site builds is to create a ship which can survive i
 
   Recommendation: Not very agile but huge damage output; requires some finesse, especially for escaping interdictions.
 
-  [**CytoPlasmaConda Build**](https://edsy.org/s/v0cjudk)
+  [**CytoPlasmaConda Build**](https://edsy.org/#/L=H64kUSZW0H4C0S40,LYVH-2Gxq60vBh4zHx8y00Cw00H800KvLLLYVH-2Gxq60vBh4zHx8y00Cw00H800KvLLLYVH-2Gxq60vBh4zHx8y00Cw00H800KvLLLYVH-2Gxq60vBh4zHx8y00Cw00H800KvLLLYVH-2Gxq60vBh4zHx8y00Cw00H800KvLLLYVH-2Gxq60vBh4zHx8y00Cw00H800KvLLExiH09M_W0ExiH09M_W0,CjxG02G_W0CjxG02G_W0CjxG02G_W0CjxG02G_W0CjwG02G_W0CjwG02G_W0EBD00EAk00,9onH05I_W0ADIH074_W0ARMG05I_W0AfQG05J_W0AtyG03G_W0BBoG03L_W0BRuG05G_W0Bcg10,16yH05I_W0,4p_207UeG07L_W00AA101Oc403Ju0025S1016yH05I_W00M2300M2300M23020m101-C10,CytoPlasmaConda,AX_DCPC)
 
 
   ### Python Mk. II (Shielded)
@@ -493,4 +493,4 @@ The general premise of Spire site builds is to create a ship which can survive i
 
   Recommendation: In the hands of a competent pilot this ship is highly capable of effectively demolishing Orthrus interceptors in a solo instance. The Shard Cannons can be used to clear Scouts but this is highly inefficient use of ammunition, so strike-and-run tactics work well here.
 
-  [**Python Mk. II Build**](https://edsy.org/s/vvmtsIN) </details>
+  [**Python Mk. II Build**](https://edsy.org/#/L=HF00000H4C0S80,LaGG04G_W0LaGG04G_W0LaGG04G_W0LaGG04G_W0LYOG04G_W0EjHG07P_W0,DBwG05L_W0DBwG05L_W0CjxG02G_W0CjxG02G_W0EB410EB400,9onG05I_W0AAAG07I_W0APoG05I_W0AdtH05J_W0AsOG03G_W0B8gG03L_W0BNCG05G_W0Bb600,,7UJG07K_W023u003Gm0012GG05I_W010iG05I_W01-C00,PM2_0Shards) </details>
