@@ -2,7 +2,7 @@
 title: '“Builds” raccomandate'
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2025-02-10T00:05:26.168Z
+date: 2025-02-10T11:51:50.992Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -95,7 +95,7 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
 
   Engineering Note: When downsizing the powerplant for extra weight reduction, power limits will require more engineering to keep everything running. Check EDSY for minimum engineering based on your specific build.
 
-  [Shieldless Build](https://edsy.org/#/L=IEA0000H4C0SA0,LYS17EkhH77P_W0LYS17L3I17LYS17,EAk15CjwH-2G002P000S_00CjwG-2G002P000S_00CjwH-2G002P000S_00,9onG75I_W0AAA07APoGA5I_W0AdsI-5J_W60upD6upD8qpDE_PcGzcQKsPcAsOGA3G_W0BAEGA3L_W0BOmGA5G_W0Bcg0A,,0AA0716yG55I_W06kK1525T050M22713qG75I_W013qG75I_W020n051-D05)
+  [Shieldless Build](https://edsy.org/#/L=IEA0000H4C0SA0,LYS17EkhH77P_W0LYS17L3I17LYS17,EAk05CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00,9onG75I_W0AAA07APoGA5I_W0AdsI-5J_W60upD6upD8qpDE_PcGzcQKsPcAsOGA3G_W0BAEGA3L_W0BOmGA5G_W0Bcg0A,,16yG75I_W016yG55I_W06kK0525S07072270KU0713qG75I_W020m071-C07)
 
   AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
