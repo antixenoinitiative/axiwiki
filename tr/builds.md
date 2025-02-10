@@ -2,7 +2,7 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2025-02-09T23:57:55.350Z
+date: 2025-02-10T00:05:26.168Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -107,7 +107,7 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
 
   #### **Alliance Challenger (Shieldless)**
 
-  The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower alternative with higher damage output against an interceptor’s shields. Depending on preference, it can also have more raw hull than a standard Chieftain build. Its three medium hardpoints with good convergence make it a better platform for running modified Shard Cannons or Plasma Chargers.
+  The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower alternative with higher damage output against an interceptor’s shields. Depending on preference, it can also have more raw hull than a standard Chieftain build. Its three medium hardpoints with good convergence make it a better platform for running modified Shard Cannons or Plasma Chargers, hence it is a popular option for AXCZ's as well.
 
   A great ship for those who find the Chieftain too responsive, or want to use shards or chargers.
 
@@ -119,7 +119,9 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
   - Shield:
   - Firepower: ⭐⭐⭐⭐
 
-  [Shieldless Build](https://edsy.org/#/L=ID50000H4C0S10,LYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEhtG57P_W0EhtG77P_W0EhtG77P_W0,EAk0ACjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00,9onG75I_W0AAAG53I_W0APoG55I_W0AdsH-5J_W60upD6upD8qpDE_PcGzcQKsPcAtyG53G_W0B8gG53L_W0BLeG55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T076kK0005U0A05U070Iw0A20n071-D07) </details>
+  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=ID50000H4C0S10,L3I07LYS07LYS07LYS07EhtG57P_W0EhtG77P_W0EhtG77P_W0,EAk0ACjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00,9onG75I_W0AAAG53I_W0APoG55I_W0AdsH-5J_W60upD6upD8qpDE_PcGzcQKsPcAtyG53G_W0B8gG53L_W0BLeG55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T076kK0005U0A05U070Iw0A20n071-D07) [Shieldless Build, Shard Cannons](https://edsy.org/#/L=ID50000H4C0S10,LYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEhtG57P_W0EhtG77P_W0EhtG77P_W0,EAk0ACjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00,9onG75I_W0AAAG53I_W0APoG55I_W0AdsH-5J_W60upD6upD8qpDE_PcGzcQKsPcAtyG53G_W0B8gG53L_W0BLeG55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T076kK0005U0A05U070Iw0A20n071-D07)
+
+</details>
 
 
 ## Orta Seviye Gemiler
