@@ -2,7 +2,7 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2025-02-10T15:31:44.471Z
+date: 2025-03-17T13:30:51.570Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -204,8 +204,7 @@ Because of the presence of variables outside one's control (other players) and w
 
 ## Extra Modules Suggested
 - **Shutdown Field Neutralizer** - Interceptors fire an unavoidable Shutdown Pulse upon entering the AXCZ, for which you'll need an SFN.
-- **Decontamination Limpet Controller or Caustic Sink Launcher** - Caustic missiles are more common, and Scouts & Interceptors leave caustic clouds behind when they die. Either of these modules will get rid of the caustic status effect, but overheating is also a viable option to remove it.
-- **No Gauss cannons** - Because of the low ammo capacity of Gauss, it is recommended to bring other weapons instead, or to be prepared to synthesize/rearm a lot.
+- **Caustic Sink Launcher** - Caustic missiles are more common, and Scouts & Interceptors leave caustic clouds behind when they die. Caustic sinks are a great way to ignore caustic damage, but overheating is also a viable option to remove it.
 
 # Scout Builds
 Hunting scouts is an efficient method to increase combat rank. This is because all scouts are considered dangerous or deadly targets and will give a lot of experience per kill. Scout killers also hold a valuable role in Anti-Xeno Conflict Zones. Due to the **77% resistance** to human weapons it is very inefficient to use normal weapons against them. Due to the unpredictable flight nature of scouts, we strongly recommend the use of **Large Enhanced Anti-Xeno Multi-Cannons**, either Gimballed or Turreted, as the most effective weapon for hunting scouts.
