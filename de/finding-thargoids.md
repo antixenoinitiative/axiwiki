@@ -2,7 +2,7 @@
 title: Thargoids finden
 description: How to find Thargoids in Elite Dangerous, from solo interceptors to AX Conflict zones and everything in between
 published: true
-date: 2025-02-04T20:23:10.743Z
+date: 2025-03-23T15:13:06.985Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -55,6 +55,6 @@ California Sectors:
 ## Aktivitätskarte
 **Note:** This map is from before the Coalsack CG and Salvation CG which caused Coalsack NHSS to appear and the Pleiades region to expand, respectively.
 
-![thargoidmap.png](/img/thargoidmap.png)
+[![thargoidmap.png](/img/thargoidmap.png)](/img/thargoid_activity_map_v0.4.jpg)
 
-[Click here for a full sized image](https://cdn.discordapp.com/attachments/625989888432537611/854310144946208808/Thargoid_Activity_Map_v0.5.png)
+[Click here for a full sized image](/img/thargoid_activity_map_v0.4.jpg)
