@@ -2,7 +2,7 @@
 title: Поиск таргоидов
 description: How to find Thargoids in Elite Dangerous, from solo interceptors to AX Conflict zones and everything in between
 published: опубликовано
-date: 2025-02-04T20:23:10.743Z
+date: 2025-03-23T15:13:06.985Z
 tags: таргоиды, перехватчики, разведчики
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -55,6 +55,6 @@ California Sectors:
 ## Карта активности
 **Примечание:** эта карта составлена до появления целей сообщества (ЦС) в туманности Угольный Мешок и ЦС, связанных с Salvation, которые вызвали появление НчИС в регионе туманности Угольный мешок и, соответственно расширение региона Плеяд.
 
-![thargoidmap.png](/img/thargoidmap.png)
+[![thargoidmap.png](/img/thargoidmap.png)](/img/thargoid_activity_map_v0.4.jpg)
 
-[Нажмите сюда для просмотра полноразмерного изображения](https://cdn.discordapp.com/attachments/625989888432537611/854310144946208808/Thargoid_Activity_Map_v0.5.png)
+[Нажмите сюда для просмотра полноразмерного изображения](/img/thargoid_activity_map_v0.4.jpg)
