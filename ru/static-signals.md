@@ -2,7 +2,7 @@
 title: Постоянные источники сигналов
 description: Постоянные местонахождения таргоидов
 published: опубликовано
-date: 2022-12-08T00:51:38.723Z
+date: 2025-04-21T17:47:06.869Z
 tags: таргоиды, перехватчики, разведчики
 editor: markdown
 dateCreated: 2021-06-15T11:22:37.088Z
@@ -15,9 +15,9 @@ dateCreated: 2021-06-15T11:22:37.088Z
 
 Несколько известных мест:
 
-- **HR 1185** - постоянный источник сигнала «Сигнал о помощи» (очень полезен для поиска боев с несколькими или одиночными перехватчиками типа Hydra за пределами туманности Голова Ведьмы) — о появлении сигнала о помощи в HR 1185 читайте здесь.
+- **HR 1185** - Permanent Distress Call (Very useful to find multi-goid fights or solo Hydras outside of the Witch Head Nebula) - Read about the HR 1185 Distress Call Spawns [here](https://wiki.antixenoinitiative.com/en/distress-call-analysis).
 - **Deciat** — несколько повреждённых гигантских кораблей (по сценарию, около них могут появляться перехватчики)
-- **Gree** — в этой системе находится 2 гигантских корабля, которые можно использовать для вызова таргоидов. В настоящее время это единственная система, официально одобренная AXI для проведение соревнований около гигантских кораблей.
+- **Gree** - This systems contains 2 megaships that can be used to summon Thargoids.
 
 Для получения расширенного списка ознакомьтесь с [Thargoid Attacks Spreadsheet (Таблица нападения таргоидов)](https://docs.google.com/spreadsheets/d/1hnJTNAwAu0fY9Asu8SgXsfpjyTFxRhW_4oPCJS5Ydv4/edit#gid=0)
 
