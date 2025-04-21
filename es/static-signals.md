@@ -2,7 +2,7 @@
 title: Fuentes de Señales Permanentes
 description: Ubicaciones fijas de Thargoides
 published: verdadero
-date: 2022-12-08T00:51:38.723Z
+date: 2025-04-21T17:47:06.869Z
 tags: thargoides, interceptores, scouts
 editor: markdown
 dateCreated: 2021-06-15T11:22:37.088Z
@@ -15,9 +15,9 @@ Relogging (salir al menú y volver a iniciar sesión) causará que estas ubicaci
 
 Algunos lugares notables:
 
-- **HR 1185** - Llamada de auxilio Permanente (muy útil para encontrar luchas contra Thargoides múltiples o Hydras solitarias por fuera de la Nebula Witch head) - Lee acerca del "spawneo" en la Llamada de Auxilio de HR 1185 aquí.
+- **HR 1185** - Permanent Distress Call (Very useful to find multi-goid fights or solo Hydras outside of the Witch Head Nebula) - Read about the HR 1185 Distress Call Spawns [here](https://wiki.antixenoinitiative.com/en/distress-call-analysis).
 - **Deciat** - Unas cuantas Meganaves dañadas (Escenarios al rededor de estas pueden general Interceptores)
-- **Gree** - Este sistema tiene 2 Meganaves que pueden ser usadas para invocar Thargoides. Actualmente este es el único sistema oficialmente aprobado por AXI para la albergar de eventos de Meganave.
+- **Gree** - This systems contains 2 megaships that can be used to summon Thargoids.
 
 Para un listado extendido, revisa la [Hoja de Cálculo de Ataques Thargoides](https://docs.google.com/spreadsheets/d/1hnJTNAwAu0fY9Asu8SgXsfpjyTFxRhW_4oPCJS5Ydv4/edit#gid=0)
 
