@@ -2,7 +2,7 @@
 title: Permanente Signalquellen
 description: Permanente Thargoid-Standorte
 published: true
-date: 2022-12-08T00:51:38.723Z
+date: 2025-04-21T17:47:06.869Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T11:22:37.088Z
@@ -15,9 +15,9 @@ Reloggen (zum Menü und wieder einloggen) wird diese Standorte neu laden, so das
 
 Ein paar nennenswerte Orte:
 
-- **HR 1185** - Permanenter Notruf (sehr nützlich um mehrere Thargoids gleichzeitig oder Hydras außerhalb des Witch Head Nebels zu finden) - Lies zu Erscheinungen im HR 1185 Notruf hier.
+- **HR 1185** - Permanent Distress Call (Very useful to find multi-goid fights or solo Hydras outside of the Witch Head Nebula) - Read about the HR 1185 Distress Call Spawns [here](https://wiki.antixenoinitiative.com/en/distress-call-analysis).
 - **Deciat** - Mehrere beschädigte Megaschiffe (Instanzen hierum können Interceptors enthalten)
-- **Gree** - Dieses System enthält 2 Megaschiffe, bei denen Thargoids erscheinen können. Derzeit ist dies das einzige System, welches von AXI offiziell für Megaschiff-Veranstaltungen genehmigt ist.
+- **Gree** - This systems contains 2 megaships that can be used to summon Thargoids.
 
 Nähere Informationen findest du in der [Thargoid Attacken-Liste](https://docs.google.com/spreadsheets/d/1hnJTNAwAu0fY9Asu8SgXsfpjyTFxRhW_4oPCJS5Ydv4/edit#gid=0)
 
