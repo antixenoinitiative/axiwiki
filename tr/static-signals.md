@@ -2,7 +2,7 @@
 title: Sabit Sinyal Kaynakları
 description: Sabit Thargoid Yerleşkeleri
 published: true
-date: 2022-12-08T00:51:38.723Z
+date: 2025-04-21T17:47:06.869Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T11:22:37.088Z
@@ -15,9 +15,9 @@ Oturup kapatıp açma (ana menüye dönüp tekrar giriş yapmak) bu ortamların 
 
 Bazı önemli yerler:
 
-- **HR 1185** - Kalıcı Disctress Call. Çoklu-Goid savaşları ve solo Hydra bulmak için iyi bir yer. Doğum oranları için daha fazla bilgiye buradan ulaşabilirsiniz.
+- **HR 1185** - Permanent Distress Call (Very useful to find multi-goid fights or solo Hydras outside of the Witch Head Nebula) - Read about the HR 1185 Distress Call Spawns [here](https://wiki.antixenoinitiative.com/en/distress-call-analysis).
 - **Deciat** - Birkaç hasarlı Megaship (Bu gemiler çevresindeki senaryolar Interceptor doğurabilir).
-- **Gree** - Thargoid doğurmak için kullanabileceğiniz 2 Megaship vardır. Şu an için AXI tarafından, megaship etkinlikleri için onaylanmış tek sistemdir.
+- **Gree** - This systems contains 2 megaships that can be used to summon Thargoids.
 
 Listenin devamı için: [Thargoid Saldırıları Çizelgesi](https://docs.google.com/spreadsheets/d/1hnJTNAwAu0fY9Asu8SgXsfpjyTFxRhW_4oPCJS5Ydv4/edit#gid=0)
 
