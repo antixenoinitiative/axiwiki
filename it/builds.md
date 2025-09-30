@@ -2,7 +2,7 @@
 title: '“Builds” raccomandate'
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2025-03-17T13:30:51.570Z
+date: 2025-09-30T02:00:57.300Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -69,7 +69,7 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
   - Shield:
   - Firepower: ⭐⭐⭐⭐
 
-  [Meta Build](https://edsy.org/#/L=I950000H4C0S00,LYS05LYS05L3I07EhtG57P_W0LXC05LXC05,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG75I_W0AAAG53K_W0APoG55I_W0AdsG55J_W0AtyG53G_W0B8gG53L_W0BLAG55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T056kK05072050Iw0520n051-D05)
+  [Meta Build](https://edsy.org/#/L=J950000H4C0S40,LYS15LYS15L3I17EhtH57P_W0LXC15LXC15,CjwG-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00,9onG75I_W0AAAG53K_W0APoG55I_W0AeLJ03K_W0AtyH53G_W0B8gG53L_W0BLeH05G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T056kK25072050Iw2520n051-D05)
 
   AX Chieftain Build Video: [https://www.youtube.com/watch?v=rP6-xP3vCkI](https://www.youtube.com/watch?v=rP6-xP3vCkI)
 
@@ -93,9 +93,9 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
 
   Recommendation: Great for modified shard cannons and plasma chargers.
 
-  Engineering Note: When downsizing the powerplant for extra weight reduction, power limits will require more engineering to keep everything running. Check EDSY for minimum engineering based on your specific build.
+  Engineering Note: Can comfortably use the same power plant as meta chieftain or even unengineered 6A or 7A, depending on your preferences between power priorities, speed and material or rebuy cost. Check EDSY for minimum engineering based on your specific build.
 
-  [Shieldless Build](https://edsy.org/#/L=IEA0000H4C0SA0,LYS17EkhH77P_W0LYS17L3I17LYS17,CjwG-YG002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00,9onG75I_W0AAA07APoGA5I_W0AdsI-5J_W60upD6upD8qpDE_PcGzcQKsPcAsOGA3G_W0BAEGA3L_W0BOmGA5G_W0Bcg0A,,16yG75I_W016yG55I_W06kK0525S07072270KU0713qG75I_W020m071-C07)
+  [Shieldless Build](https://edsy.org/#/L=JEA0000H4C0SC0,LYS27EkhI77P_W0LYS27L3I27LYS27,CjwG-YG002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00,9onG75I_W0AAAG03K_W0APoGA5I_W0AeLJ03K_W0AsOGA3G_W0BAEGA3L_W0BOmGA5G_W0Bcg0A,,16yG75I_W00AA006kK1525S0715OG05I_W00KU1713qG75I_W020m071-C07)
 
   AX Krait Mk.II Review Video: [https://www.youtube.com/watch?v=isamR6yLLMQ](https://www.youtube.com/watch?v=isamR6yLLMQ)
 
@@ -119,14 +119,14 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
   - Shield:
   - Firepower: ⭐⭐⭐⭐
 
-  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=ID50000H4C0S10,L3I07LYS07LYS07LYS07EhtG57P_W0EhtG77P_W0EhtG77P_W0,CjwG-YG002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00,9onG75I_W0AAAG53I_W0APoG55I_W0AdsH-5J_W60upD6upD8qpDE_PcGzcQKsPcAtyG53G_W0B8gG53L_W0BLeG55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T076kK0005U0A05U070Iw0A20n071-D07) [Shieldless Build, Shard Cannons](https://edsy.org/#/L=ID50000H4C0S10,LYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEhtG57P_W0EhtG77P_W0EhtG77P_W0,CjwG-YG002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00,9onG75I_W0AAAG53I_W0APoG55I_W0AdsH-5J_W60upD6upD8qpDE_PcGzcQKsPcAtyG53G_W0B8gG53L_W0BLeG55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T076kK0005U0A05U070Iw0A20n071-D07)
+  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JD50000H4C0S40,L3I17LYS17LYS17LYS17EhtH57P_W0EhtH77P_W0EhtH77P_W0,CjwG-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00,9onG75I_W0AAAG53K_W0APoG55I_W0AeLJ03K_W0AtyH53G_W0B8gG53L_W0BLeH55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T076kK2005U0A05U070Iw2A20n071-D07) [Shieldless Build, Shard Cannons](https://edsy.org/#/L=JD5000018C0S40,LYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEhtH57P_W0EhtH77P_W0EhtH77P_W0,CjwG-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00,9onG75I_W0AAAG53K_W0APoG55I_W0AeLJ03K_W0AtyH53G_W0B8gG53L_W0BLeH55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T076kK2005U0A05U070Iw2A20n071-D07)
 
 </details>
 
 
-## Intermediate Builds
+## Recommended Large Builds
 
-These builds are targeted at more experienced commanders, either those who have flown the above ships against Thargoids before or have prior PVP combat experience. These ships offer different flight characteristics, new hardpoint setups and generally some variety while requiring more experience to use effectively. If you intend to use any of these, we recommend reading the Anti-Xeno Large Ship Guide.
+While flying a large ships is a net disadvantage compared to meta mediums, you can still use them for your own pleasure. These builds are targeted at more experienced commanders, either those who have flown the above ships against Thargoids before or have prior PVP combat experience. These ships offer different flight characteristics, new hardpoint setups and generally some variety while requiring more experience to use effectively. If you intend to use any of these, we recommend reading the Anti-Xeno Large Ship Guide.
 
 <details>
   <summary><b>Click to expand/collapse</b></summary>
@@ -147,7 +147,7 @@ These builds are targeted at more experienced commanders, either those who have 
   - Shield:
   - Firepower: ⭐⭐⭐⭐
 
-  [Shieldless Build](https://edsy.org/#/L=Hz00000H4C0S80,LYS00LYS00EkhG07P_W0L3I00L3I00LXC00LXC00,EBD00EB200CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00,9p3G05I_W0ADIG05I_W0ARMG05I_W0AfRG05J_W0AtyG030_W0BBoG03L_W0BRuG05G_W0Bcg00,16yG05I_W016yG05I_W0,0Bk006nS0016yG05I_W016yG05I_W016yG05I_W016yG05I_W025T0023u000M20022K001-C00,Shieldless_0AX_0Corvette,AXIN)
+  [Shieldless Build](https://edsy.org/#/L=Jz00000H4C0S40,LYS10LYS10EkhH07P_W0L3I10L3I10LXC10LXC10,EAk10CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9p3G05I_W0AAAG07I_W0ARMG05I_W0AfvJ03K_W0AtyH030_W0BBoG03L_W0BRuH05G_W0Bcg00,16yG05I_W016yG05I_W0,0Bk006nS2016yG05I_W016yG05I_W016yG05I_W016yG05I_W025T000M2200M22022L001-D00,Shieldless_0AX_0Corvette,AXIN)
 
 
 
@@ -169,7 +169,7 @@ These builds are targeted at more experienced commanders, either those who have 
   - Shield:⭐⭐⭐⭐
   - Firepower: ⭐⭐⭐⭐
 
-  [Shielded Build](https://edsy.org/#/L=Hz5WcKGo0H4C0SB0,LYS20LYS20EkhI07P_W0L3I20L3I20LXC20LXC20,CjwH-2G002P000S_00CjwH-2G002P000S_00DBwH05L_W0DBwH05L_W0DBwI05L_W0DBwI05L_W0DBwI05L_W0DBwI05L_W0,9onH05I_W0ADIH07I_W0ARMG05I_W0AfRG05J_W0AtyG02m_W0BBoG03L_W0BRuG04m_W0Bcg15,16yH05I_W016yH05I_W0,7VtH07K_W07lUI04n_W07lUI04n_W016yH05I_W016yH05I_W016yH05I_W016yH05I_W015OH05I_W023u0022K0010j00,Shielded_0AX_0Corvette,AXIN)
+  [Shielded Build](https://edsy.org/#/L=Jz5WcKGo0H4C0SB0,LYS20LYS20EkhH07P_W0L3I10L3I10LXC20LXC20,CjwG-YG002P000S_00CjwG-YG002P000S_00DBwI05L_W0DBwI05L_W0DBwI05L_W0DBwI05L_W0DBwI05L_W0DBwI05L_W0,9onH05I_W0ADIH07I_W0ARMG05I_W0AfvH03K_W0AtyH03G_W0BBoG03L_W0BRuG05G_W0Bcg15,16yH05I_W016yH05I_W0,7VtG07K_W07lUI051_W07lUI051_W016yH05I_W016yH05I_W016yH05I_W016yH05I_W015OH05I_W023u0022K0010j00,Shielded_0AX_0Corvette,AXIN)
 
 
 
@@ -191,7 +191,7 @@ These builds are targeted at more experienced commanders, either those who have 
   - Shield: ⭐⭐⭐⭐⭐
   - Firepower: ⭐⭐⭐⭐
 
-  [EDSY Shielded Build](https://edsy.org/#/L=H_00000H4C0SC0,LYS00EkhG07P_W0LYS00LYS00LYS00L3I00L3I00,CjwG-2G002P000S_00CjwG-2G002P000S_00DBwG05L_W0DBwG05L_W0DBwG05L_W0DBwG05L_W0DBwG05L_W0DBwG05L_W0,9onG05I_W0ADIG07I_W0ASwG05I_W0Ag-H05J_W0Ax400BAEG0DL_W0BQKG05G_W0BeE00,16yG05I_W016yG05I_W0,7XRG07L_W07n2G051_W07jwG051_W016yG05I_W016yG05I_W016yG05I_W016yG05I_W023u0022K000HMB0,AX_0Cutter) </details>
+  [EDSY Shielded Build](https://edsy.org/#/L=J_00000H4C0S40,LYS10EkhH07P_W0LYS10LYS10LYS10L3I10L3I10,CjwG-YG002P000S_00CjwG-YG002P000S_00DBwI05L_W0DBwI05L_W0DBwI05L_W0DBwI05L_W0DBwI05L_W0DBwI05L_W0,9onG05I_W0ADIG07I_W0ASwG05I_W0AhTK03K_W0Ax4H03G_W0BAEG03L_W0BQKG05G_W0BeE00,16yG05I_W016yG05I_W0,7XRG07L_W07n2I051_W07jwI051_W016yG05I_W016yG05I_W016yG05I_W016yG05I_W023u0022K000HM30,AX_0Cutter) </details>
 
 
 ## Advanced Builds
