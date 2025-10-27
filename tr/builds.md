@@ -2,7 +2,7 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2025-09-30T17:58:31.443Z
+date: 2025-10-27T11:42:19.756Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -91,7 +91,7 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
   - Kalkan:
   - Firepower: ⭐⭐⭐⭐⭐
 
-  Recommendation: Great for modified shard cannons and plasma chargers.
+  Recommendation: Also great for modified shard cannons and plasma chargers.
 
   Engineering Note: Can comfortably use the same power plant as meta chieftain or even unengineered 6A or 7A, depending on your preferences between power priorities, speed and material or rebuy cost. Check EDSY for minimum engineering based on your specific build.
 
@@ -121,12 +121,39 @@ When starting out, stick to the tried and true. The Chieftain and the Krait have
 
   [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JD50000H4C0S40,L3I17LYS17LYS17LYS17EhtH57P_W0EhtH77P_W0EhtH77P_W0,CjwG-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00,9onG75I_W0AAAG53K_W0APoG55I_W0AdtJ05J_W0AtyH53G_W0B8gG53L_W0BLeH55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T076kK2005U0A05U070Iw2A20n071-D07) [Shieldless Build, Shard Cannons](https://edsy.org/#/L=JD50000H4C0S40,LYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEhtH57P_W0EhtH77P_W0EhtH77P_W0,CjwG-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00,9onG75I_W0AAAG53K_W0APoG55I_W0AdtJ05J_W0AtyH53G_W0B8gG53L_W0BLeH55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T076kK2005U0A05U070Iw2A20n071-D07)
 
+
+
+
+  ### Corsair (Shieldless)
+  !\[corsair.png\](/img/corsair.png =250x){.align-right}
+
+  #### **Corsair (Shieldless)**
+
+  The Corsair, while not as maneuverable as the other recommended mediums, provides great damage output, versatility and speed. The Corsairs' massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively. It is the recommended medium with the most survivability. This is also a great platform for mounting Enhanced AXMCs for commanders who do not yet have access to guardian tech.
+
+  Type: **Cold Orbiter**
+
+  - Speed: ⭐⭐⭐⭐⭐
+  - Agility: ⭐⭐⭐
+  - Armour: ⭐⭐⭐⭐⭐
+  - Shield:
+  - Firepower: ⭐⭐⭐⭐⭐
+
+  Recommendation: Also great for modified shard cannons and plasma chargers.
+
+  Engineering Note: Can comfortably use the same power plant as meta chieftain or even unengineered 6A or 7A, depending on your preferences between power priorities, speed and material or rebuy cost. Check EDSY for minimum engineering based on your specific build.
+
+  [Shieldless Build](https://edsy.org/#/L=JH00000H4C0S40,EkhG07P_W0LYS10LYS10LYS10LYS10L3I00,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABk00ARMG05I_W0AdtJ-bJ0060upD6upD8qpDE_PcGzcQKsPcAsO00BAEG03L_W0BOmG05G_W0Bcg00,,6kK0016yG05I_W016yG05I_W016yG05I_W016yG05I_W025S00072200KU2020m201-C00,Solo_0Corsair,AXI)
+
+
+
+
 </details>
 
 
 ## Recommended Large Builds
 
-While flying a large ships is a net disadvantage compared to meta mediums, you can still use them for your own pleasure. These builds are targeted at more experienced commanders, either those who have flown the above ships against Thargoids before or have prior PVP combat experience. These ships offer different flight characteristics, new hardpoint setups and generally some variety while requiring more experience to use effectively. If you intend to use any of these, we recommend reading the Anti-Xeno Large Ship Guide.
+While flying a large ship is a net disadvantage compared to meta mediums, you can still use them for your own pleasure. These builds are targeted at more experienced commanders, either those who have flown the above ships against Thargoids before or have prior PVP combat experience. These ships offer different flight characteristics, new hardpoint setups and generally some variety while requiring more experience to use effectively. If you intend to use any of these, we recommend reading the Anti-Xeno Large Ship Guide.
 
 <details>
   <summary><b>Click to expand/collapse</b></summary>
@@ -142,7 +169,7 @@ While flying a large ships is a net disadvantage compared to meta mediums, you c
   Type: **Cold Orbiter**
 
   - Speed: ⭐⭐
-  - Agility: ⭐⭐⭐
+  - Çeviklik: ⭐⭐⭐
   - Armour: ⭐⭐⭐⭐⭐
   - Shield:
   - Firepower: ⭐⭐⭐⭐
@@ -164,7 +191,7 @@ While flying a large ships is a net disadvantage compared to meta mediums, you c
   Type: **Shield Tank**
 
   - Speed: ⭐⭐
-  - Çeviklik: ⭐⭐⭐
+  - Agility: ⭐⭐⭐
   - Armour: ⭐⭐⭐⭐⭐
   - Shield:⭐⭐⭐⭐
   - Ateş gücü: ⭐⭐⭐⭐
