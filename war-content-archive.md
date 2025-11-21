@@ -2,11 +2,16 @@
 title: War Content Archive
 description: Storage facility for Page-Segments and Content that is no longer accessable after the end of the War.
 published: false
-date: 2025-11-21T10:54:53.633Z
+date: 2025-11-21T12:17:51.488Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T10:54:53.633Z
 ---
+
+The absence of Titans (and maelstroms) and Spire sites have made these builds obsolete:
+- **Maelstrom Builds** - Heavily specialized for combat in the most extreme locations - where caustic clouds are thick, staying undetected is paramount, and guardian tech is useless. These build have the same base hull configuration as Solo Builds, but share little else.
+
+- **Spire Builds** - Even more like shooting fish in a barrel, Thargoid Spire sites are very low intensity combat zones where Cyclops interceptors and Scouts occasionally spawn, and where Orthrus interceptors are found in large numbers.  Builds for Spire sites are designed for maximum shield damage to Orthrus.
 
 # Retired Builds
 **There are no more Titans or Spire sites**, therefore, these builds are outdated and no longer used. They are kept here for posterity and historical reference, and in the event that Fdev decides to return this content to us.
