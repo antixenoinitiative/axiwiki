@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2025-11-21T19:04:44.632Z
+date: 2025-11-21T19:05:24.443Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -190,7 +190,7 @@ immensely effective.
   - Shield: 
   - Firepower: ⭐⭐⭐⭐
 
-  [Shieldless AXCZ Build](https://edsy.org/#/L=J900000H4C0S40,LYS10LYS10EjGH07P_W0LXC10LXC10EhsH07P_W0,CjwG02G_W0CjwG02G_W0CjxG02G_W0EBD00,9onG05I_W0AAAG03K_W0APoG05I_W0AdtG05J_W0AtyJ03G_W0B8gG03L_W0BLeG05G_W0Bb600,15OG05I_W015OG05I_W015OG05I_W0,25S006kK20072000Iw2020m001-C00,AXCZ_0ChieftaIN,AXI)  
+  [Shieldless AXCZ Build, Gauss Cannons](https://edsy.org/#/L=J900000H4C0S40,LYS10LYS10EjGH07P_W0LXC10LXC10EhsH07P_W0,CjwG02G_W0CjwG02G_W0CjxG02G_W0EBD00,9onG05I_W0AAAG03K_W0APoG05I_W0AdtG05J_W0AtyJ03G_W0B8gG03L_W0BLeG05G_W0Bb600,15OG05I_W015OG05I_W015OG05I_W0,25S006kK20072000Iw2020m001-C00,AXCZ_0ChieftaIN,AXI)  
   
 ## Module Recommendations
 - **Shutdown Field Neutralizer** - Interceptors fire an unavoidable Shutdown Pulse upon entering the AXCZ, for which you'll need an SFN.
