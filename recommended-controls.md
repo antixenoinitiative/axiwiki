@@ -2,7 +2,7 @@
 title: Recommended Control Scheme
 description: Best suggested controls for Combat in Elite
 published: true
-date: 2025-11-21T04:27:39.430Z
+date: 2025-11-21T04:36:12.712Z
 tags: combat, controls
 editor: markdown
 dateCreated: 2021-06-21T04:46:46.489Z
@@ -63,5 +63,12 @@ Example of limited input firegroup setups to allow easy use of heatsinks.
 
 Example of standard K&M binds, which leave heatsinks to their own bind.
 
-# Reference Keybinds
+# Reference Keybinds (Odyssey only! These will not work with Legacy)
 
+These are "reference" (mouse and keyboard only) binds which can be used as the basis to edit and add additional devices. They should always load, and work well out-of-the-box:
+[mechan_mkb_v6.4.2.binds](/mechan_mkb_v6.4.2.binds)
+
+This is a Joystick Gremlin configuration file for Winwing Ursa Minor HOSAS dual sticks (right handed), and the in-game binds file. It adds curves, pip macros, and a heatsink macro.
+[mechan_winwing_hosas_v6.4.2.xml](/mechan_winwing_hosas_v6.4.2.xml)
+[mechan_winwing_hosas_v6.4.2.binds](/mechan_winwing_hosas_v6.4.2.binds)
+Note: These will only work when configured through vJoy/Hidhide/Gremlin - they will NOT work with "native" Joysticks (without using vJoy)!
