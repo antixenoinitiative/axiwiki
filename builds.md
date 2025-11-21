@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2025-11-21T19:07:10.438Z
+date: 2025-11-21T19:12:32.709Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -181,7 +181,7 @@ Because of the presence of variables outside one's control (NPCs, other Players)
   ![alliance-chieftain.png](/img/alliance-chieftain.png =250x){.align-right}
   #### **Alliance Chieftain (Shieldless)**
 
-  While the Alliance Chieftain is the undisputed AX meta in solo, the gauss cannons that are so heavily favored by its hardpoint layout do leave some Ammo capacity to be desired. However the  Chieftain is able to effortlessly cold orbit, and especially with closeby re-arms, will still be 
+  While the Alliance Chieftain is the undisputed AX meta in solo, the gauss cannons that are so heavily favored by its hardpoint layout do leave some Ammo capacity to be desired. However the  Chieftain is able to effortlessly cold orbit and, especially with closeby re-arms, will still be 
 immensely effective.
  
   - Speed: ⭐⭐⭐⭐⭐
