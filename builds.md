@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2025-11-21T19:05:24.443Z
+date: 2025-11-21T19:07:10.438Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -74,7 +74,7 @@ When starting out, stick to the tried and true. These are our Meta picks. The mo
 
   Engineering Note: Can comfortably use the same power plant as meta chieftain or even unengineered 6A or 7A, depending on your preferences between power priorities, speed and material or rebuy cost. Check EDSY for minimum engineering based on your specific build. 
 
-  [Shieldless Build](https://edsy.org/#/L=JEA0000H4C0SC0,LYS17EkhH77P_W0LYS17L3I17LYS17,CjwG-YG002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwH-2G002P000S_00,9onG75I_W0AAA00APoGA5I_W0AdtJ05J_W0AsOHA3G_W0BAEGA3L_W0BOmHA5G_W0Bcg0A,,16yG75I_W016yG75I_W025S076kK20072000KU2713qG75I_W020m071-C07)
+  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JEA0000H4C0SC0,LYS17EkhH77P_W0LYS17L3I17LYS17,CjwG-YG002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwH-2G002P000S_00,9onG75I_W0AAA00APoGA5I_W0AdtJ05J_W0AsOHA3G_W0BAEGA3L_W0BOmHA5G_W0Bcg0A,,16yG75I_W016yG75I_W025S076kK20072000KU2713qG75I_W020m071-C07)
   
   
   ### Alliance Challenger (Shieldless)
