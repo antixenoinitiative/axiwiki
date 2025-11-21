@@ -2,7 +2,7 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2025-11-21T15:27:24.083Z
+date: 2025-11-21T19:07:10.438Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -73,7 +73,7 @@ When starting out, stick to the tried and true. These are our Meta picks. The mo
 
   Engineering Note: Can comfortably use the same power plant as meta chieftain or even unengineered 6A or 7A, depending on your preferences between power priorities, speed and material or rebuy cost. Check EDSY for minimum engineering based on your specific build.
 
-  [Shieldless Build](https://edsy.org/#/L=JEA0000H4C0SC0,LYS17EkhH77P_W0LYS17L3I17LYS17,CjwG-YG002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwH-2G002P000S_00,9onG75I_W0AAA00APoGA5I_W0AdtJ05J_W0AsOHA3G_W0BAEGA3L_W0BOmHA5G_W0Bcg0A,,16yG75I_W016yG75I_W025S076kK20072000KU2713qG75I_W020m071-C07)
+  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JEA0000H4C0SC0,LYS17EkhH77P_W0LYS17L3I17LYS17,CjwG-YG002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwH-2G002P000S_00,9onG75I_W0AAA00APoGA5I_W0AdtJ05J_W0AsOHA3G_W0BAEGA3L_W0BOmHA5G_W0Bcg0A,,16yG75I_W016yG75I_W025S076kK20072000KU2713qG75I_W020m071-C07)
 
 
 
@@ -136,7 +136,7 @@ Because of the presence of variables outside one's control (NPCs, other Players)
 
   Recommendation: Modified shard cannons or plasma chargers.
 
-  [Shieldless AXCZ Build, Shard Cannons](N/A)
+  [Shieldless AXCZ Build, Shard Cannons](https://edsy.org/#/L=JE00000H4C0S40,LYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEkgH07P_W0LYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXv,CjwG-2G002P000S_00CjwG-2G002P000S_00CjxG02G_W0EBD00,9p3G05I_W0ABk00APoG05I_W0AdtJ05J_W0AsOG03G_W0BAEG03L_W0BOmG05G_W0Bcg00,,0AA206kK2016yG05I_W025S2015OG05I_W013qG05I_W00KU2020m001-C00,AXCZ_0Krait,AXI)
 
 
 
@@ -155,7 +155,7 @@ Because of the presence of variables outside one's control (NPCs, other Players)
   - Shield:
   - Firepower: ⭐⭐⭐⭐
 
-  [Shieldless AXCZ Build, Shard Cannons](N/A)
+  [Shieldless AXCZ Build, Shard Cannons](https://edsy.org/#/L=JD00000H4C0S40,LYOI-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOI-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOI-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOI-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEhsI07P_W0EhsI07P_W0EhsI07P_W0,CjwH-2G002P000S_00CjwH-2G002P000S_00CjxH02G_W0EBD10,9p3G05I_W0AAAG03K_W0APoG05I_W0AdtJ05J_W0AtyG03G_W0B8gG03L_W0BLeG05G_W0Bb600,15OG05I_W015OG05I_W015OG05I_W0,25S006kK1005U0005U000Iw2020m001-C00,AXCZ_0Challenger,AXI)
 
 
 
@@ -177,7 +177,7 @@ Because of the presence of variables outside one's control (NPCs, other Players)
 
   Engineering Note: Can comfortably use the same power plant as meta chieftain or even unengineered 6A or 7A, depending on your preferences between power priorities, speed and material or rebuy cost. Check EDSY for minimum engineering based on your specific build.
 
-  [Shieldless AXCZ Build, Shard Cannons](N/A)
+  [Shieldless AXCZ Build, Shard Cannons](https://edsy.org/#/L=JH00000H4C0S40,LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEkgG07P_W0LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEjGG07P_W0,CjxG02G_W0EBD00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABkG02q_W0ARMG05I_W0AdtJ-bJ0060upD6upD8qpDE_PcGzcQKsPcArw00BAEG03L_W0BOmG05G_W0Bcg00,,0ABG0W000016yG05I_W016yG05I_W016yG05I_W025S006kK200M22013qG05I_W020m001-C00,AXCZ_0Corsair,AXI)
 
 
  ### Alliance Chieftain (Shieldless)
@@ -193,7 +193,7 @@ Because of the presence of variables outside one's control (NPCs, other Players)
   - Shield:
   - Ateş gücü: ⭐⭐⭐⭐
 
-  [Shieldless AXCZ Build](N/A)
+  [Shieldless AXCZ Build, Gauss Cannons](https://edsy.org/#/L=J900000H4C0S40,LYS10LYS10EjGH07P_W0LXC10LXC10EhsH07P_W0,CjwG02G_W0CjwG02G_W0CjxG02G_W0EBD00,9onG05I_W0AAAG03K_W0APoG05I_W0AdtG05J_W0AtyJ03G_W0B8gG03L_W0BLeG05G_W0Bb600,15OG05I_W015OG05I_W015OG05I_W0,25S006kK20072000Iw2020m001-C00,AXCZ_0ChieftaIN,AXI)
 
 ## Module Recommendations
 - **Shutdown Field Neutralizer** - Interceptors fire an unavoidable Shutdown Pulse upon entering the AXCZ, for which you'll need an SFN.
