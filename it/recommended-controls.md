@@ -2,7 +2,7 @@
 title: Recommended Control Scheme
 description: Best suggested controls for Combat in Elite
 published: true
-date: 2024-09-10T14:42:43.050Z
+date: 2025-11-21T04:36:12.712Z
 tags: combat, controls
 editor: markdown
 dateCreated: 2021-06-21T04:46:46.489Z
@@ -36,18 +36,17 @@ Maneuvering in supercruise with relative mouse enabled is tedious. There are two
 
 The AXI strongly recommends backing up controls. Elite will sometimes reset controls when inputs are changed or the game is updated and this is the best way to avoid losing all of your personal binds.
 
-This can be done by finding your bindings folder, and making a duplicate of that, to be used as a replacement if an update breaks the orignals. 
+This can be done by finding your bindings folder, and making a duplicate of that, to be used as a replacement if an update breaks the orignals.
 
 The default file path for a steam installation will be \[C:\\Users\\USER\\AppData\\Local\\Frontier Developments\\Elite Dangerous\\Options\\Bindings\]. Best practice will be to save the entire bindings folder as a replacement, but making a personal bindings file and backing just that up is also a good option.
 
 The other main leg of ship setup involves fire groups, night vision, and lights. Night vision and ship lights come down to personal preference, but in many combat areas the lighting will be poor and limit overall visibility. It is recommended that at least night vision is turned on to combat this poor lighting, and increase the thargoid heart visibility. This is done by opening up the right hand ship panel (default for this on keyboard is 4 on the number row). It will be inside the SHIP tab and is a simple toggle. Ship lights are in the same tab, and help some but are not necessary.
 
-Fire groups are more complex, and there are a number of things to consider in how they are setup. 
+Fire groups are more complex, and there are a number of things to consider in how they are setup.
 
 - Heat Management
 - Input Method
-- Ease of Use\
-   
+- Ease of Use
 
 First, controlling the heat output of the very power hungry and hot running guardian weapons is the main concern. This gives us the ability to better stay under 20% heat and avoid being locked onto by the interceptor. For guardian gauss cannons and modified guardian shards, you should only be firing half of your weapons at a time, alternating to utilize all of your weapons, and take advantage of reloads to keep dps high. This both gives your power distributor time to recharge, and keeps the heat per volley down. Important to remember is to split any different size weapons equally onto primary and secondary in any given firegroup. This is to make sure you don't fire 2 medium gauss, and then 2 small gauss, which will make your heat spike on the former much higher.
 
@@ -59,6 +58,16 @@ Lastly to consider is ease of use. Your guardian weapons will be separate fire g
 
 Example of limited input firegroup setups to allow easy use of heatsinks.
 
-![](/k\&mfiregroups.jpg)
+![](/k&mfiregroups.jpg)
 
 Example of standard K&M binds, which leave heatsinks to their own bind.
+
+# Reference Keybinds (Odyssey only! These will not work with Legacy)
+
+These are "reference" (mouse and keyboard only) binds which can be used as the basis to edit and add additional devices. They should always load, and work well out-of-the-box:
+[mechan_mkb_v6.4.2.binds](/mechan_mkb_v6.4.2.binds)
+
+This is a Joystick Gremlin configuration file for Winwing Ursa Minor HOSAS dual sticks (right handed), and the in-game binds file. It adds curves, pip macros, and a heatsink macro.
+[mechan_winwing_hosas_v6.4.2.xml](/mechan_winwing_hosas_v6.4.2.xml)
+[mechan_winwing_hosas_v6.4.2.binds](/mechan_winwing_hosas_v6.4.2.binds)
+Note: These will only work when configured through vJoy/Hidhide/Gremlin - they will NOT work with "native" Joysticks (without using vJoy)!
