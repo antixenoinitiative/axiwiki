@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2025-11-21T15:18:26.166Z
+date: 2025-11-21T15:27:24.083Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -119,15 +119,6 @@ When starting out, stick to the tried and true. These are our Meta picks. The mo
 # Anti-Xeno Conflict Zone Builds
 Because of the presence of variables outside one's control (NPCs, other Players) and with more Thargoid enemies on the field at once, certain modules are recommended to deal with stray special attacks, fire and effects. Most Solo builds can be refitted slightly to incorporate these modules, to get a ship well-equipped for AXCZ's.
 
-## Module Recommendations
-- **Shutdown Field Neutralizer** - Interceptors fire an unavoidable Shutdown Pulse upon entering the AXCZ, for which you'll need an SFN.
-- **Higher Ammo and carrying Capacity** - AXCZs can take extended periods of time, and not always will you have the option of a nearby re-fill or leaving the instance without losing progress. Choose weapons accordingly if possible.
-- **Flakless** - Swarm behavior is often unpredictable in space AXCZs, and there are none in planetary AXCZs. Dropping flak for more firepower is recommended.
-
-### Suggested Extra Modules
-- **Caustic Sink Launcher** - Caustic missiles are more common, and Scouts & Interceptors leave caustic clouds behind when they die. Caustic sinks are a great way to deal with caustic damage, especially for beginners. Overheating is also a viable option to remove caustic effects, experienced pilots or utility limited ships can drop these.
-- **Enhanced Xeno Scanner** - Lets you see thargoid health and type, as well as allowing you to scan Interceptors for heart sub-targeting. **Sub-targeting is required to hit hearts with gimballed multi-cannons.**
-- **Additional AFMU capacity** - Commanders may find value in increasing their AFMU capacity or by installing an additional one for faster repairs. But be warned that this will always come as a tradeoff when giving up the module slot.
 
 ## Tabset {.tabset}
 
@@ -200,6 +191,16 @@ immensely effective.
   - Firepower: ⭐⭐⭐⭐
 
   [Shieldless AXCZ Build](N/A)  
+  
+## Module Recommendations
+- **Shutdown Field Neutralizer** - Interceptors fire an unavoidable Shutdown Pulse upon entering the AXCZ, for which you'll need an SFN.
+- **Higher Ammo and carrying Capacity** - AXCZs can take extended periods of time, and not always will you have the option of a nearby re-fill or leaving the instance without losing progress. Choose weapons accordingly if possible.
+- **Flakless** - Swarm behavior is often unpredictable in space AXCZs, and there are none in planetary AXCZs. Dropping flak for more firepower is recommended.
+
+### Suggested Extra Modules
+- **Caustic Sink Launcher** - Caustic missiles are more common, and Scouts & Interceptors leave caustic clouds behind when they die. Caustic sinks are a great way to deal with caustic damage, especially for beginners. Overheating is also a viable option to remove caustic effects, experienced pilots or utility limited ships can drop these.
+- **Enhanced Xeno Scanner** - Lets you see thargoid health and type, as well as allowing you to scan Interceptors for heart sub-targeting. **Sub-targeting is required to hit hearts with gimballed multi-cannons.**
+- **Additional AFMU capacity** - Commanders may find value in increasing their AFMU capacity or by installing an additional one for faster repairs. But be warned that this will always come as a tradeoff when giving up the module slot.
   
 
 ## Scout Builds
