@@ -2,7 +2,7 @@
 title: Recommended Control Scheme
 description: Best suggested controls for Combat in Elite
 published: true
-date: 2024-09-10T14:42:43.050Z
+date: 2025-11-21T04:27:39.430Z
 tags: combat, controls
 editor: markdown
 dateCreated: 2021-06-21T04:46:46.489Z
@@ -62,3 +62,6 @@ Example of limited input firegroup setups to allow easy use of heatsinks.
 ![](/k&mfiregroups.jpg)
 
 Example of standard K&M binds, which leave heatsinks to their own bind.
+
+# Reference Keybinds
+
