@@ -2,7 +2,7 @@
 title: Quick Start
 description: Here, a prescribed path is given to help newcomers find priority information and references for extended study.
 published: true
-date: 2025-11-22T21:08:49.739Z
+date: 2025-11-22T22:50:57.357Z
 tags: start, quick start, newcomer, roadmap
 editor: markdown
 dateCreated: 2023-08-29T14:14:04.060Z
@@ -33,7 +33,8 @@ If you know where they are, you have some control over when you might encounter 
 ## Step 2 - Configuring Controls
 
 AXI wiki presumes that its audience is most interested in combat. All wiki recommendations for controls and outfitting are going to have Thargoid combat as the basis of its advice.
-> "Your control scheme is important and affects every action you take in your ship. Optimize your settings for the best experience you can have." 
+
+> Your control scheme is important and affects every action you take in your ship. Optimize your settings for the best experience you can have. 
 > 
 > {.is-info}
 
