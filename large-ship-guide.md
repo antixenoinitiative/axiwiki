@@ -2,7 +2,7 @@
 title: Large Ship Guide
 description: Combat guide for Large Ships
 published: true
-date: 2025-11-22T13:45:41.740Z
+date: 2025-11-22T14:05:44.298Z
 tags: combat, thargoids
 editor: markdown
 dateCreated: 2021-06-17T05:29:18.657Z
@@ -12,9 +12,12 @@ dateCreated: 2021-06-17T05:29:18.657Z
 
 by CMDR Aterius in collaboration with CMDR Aranionros Stormrage and CMDR Painbeaver.
 
+> We typically do not recommend starting out with large ships. Interested pilots should also familiarize themselves with the general [AX Flight Manual](/en/basic-combat-guide) beforehand.
+{.is-warning}
+
 Large ships can be divided into two categories based on top speed. Being able to outrun Interceptors, or not. This allows for a different approach and tactics.
 
-The Imperial Cutter, unlike the Anaconda, Federal Corvette, Beluga, and Type-10 is capable of outrunning a Hydra, Medusa, Cyclops, and the Thargon swarm (note the exception of the Basilisk). This allows the Cutter time to synthesize heatsinks, repair modules, and reverski the swarm (see [_AX Flight Manual_](/en/basic-combat-guide)). 
+The Imperial Cutter, unlike the Anaconda, Federal Corvette, Beluga, and Type-10 is capable of outrunning a Hydra, Medusa, Cyclops, and the Thargon swarm (note the exception of the Basilisk). This allows the Cutter time to synthesize heatsinks, repair modules, and reverski the swarm.
 
 Other large ships must tank the Thargoid for the entirety of the fight, or strategically kite using low-temperature orbiting.
 
