@@ -2,7 +2,7 @@
 title: Speedrun Schiffsausstattungen
 description: Ship builds designed for killing Thargoids quickly
 published: true
-date: 2021-09-19T11:09:29.773Z
+date: 2025-11-22T16:42:20.737Z
 tags: builds, outfitting, speedrunning
 editor: markdown
 dateCreated: 2021-06-10T03:49:40.037Z
@@ -10,7 +10,7 @@ dateCreated: 2021-06-10T03:49:40.037Z
 
 # Speedrun Schiffausstattungen
 
-> Diese Schiffsausstattungen sind nicht für Neulinge in der Anti-Xeno Bekämpfung geeignet, da sie ein solides Verständnis über Thargoid-Mechaniken und Fähigkeiten voraussetzen um am Leben zu bleiben, ganz zu schweigen davon einen Interceptor zu zerstören. **NUTZUNG AUF EIGENE GEFAHR** In den richtigen Händen können sie aber deutlich effektiver sein als klassische Austattungen. Klicke [hier](/en/builds) um Vorschläge für klassische AX-Ausstattungen zu sehen. 
+> These ship builds are not recommended for pilots new to Anti-Xeno Content, they require a solid understanding of Thargoid mechanics to be able to succeed. **Use these at your own Risk.** Click [here](/en/builds) to see our recommended builds for regular AX. 
 > 
 > {.is-warning}
 
@@ -21,33 +21,47 @@ Es gibt mehrere Unterschiede zwischen klassischen AX-Ausstattungen und denen zum
 - Abschalt-Feld Neutralisatoren können nützlich sein, da manche Techniken auf das absichtliche Auslösen des Abschalt-Impulses und oder kaustischen Raketen setzen, um den Kampf zu beschleunigen.
 - Thermische-Entlastungs-Strahlenlaser sind weniger wichtig, da für kurze Zeitspannen der stille Flug genutzt werden kann und man den Interceptor nicht lange hinhält.
 
-# {.tabset}
-## Krait Mk.II
-![](https://edassets.org/static/img/ship-schematics/qohen-leth/krait-mk-ii.png =250x)
-### Krait Mk.II
-Eines der vielseitigsten AX-Schiffe und eine der besten Optionen für Speedruns. Sie verfügt über hohe Widerstandskraft, während sie mit ihren 4 Gauss-Kanonen über maximale Feuerkraft verfügt. Es können auch ein bis zwei große Shard-Kanonen ausgerüstet werden, um die schwächeren Interceptor-Varianten zu bekämpfen.
+Note that there are roughly 2 main types of speedruns:
 
-**Größe:** Medium
+- **Regular Speedruns** - Faster paced combat, sometimes with the use of more nuanced techniques, with the willingness to expend as much ammo and health as needed to get the kill as fast as possible.
+- **Stunlocks** - Relies heavily on the sleepphase of an Interceptor with the goal to kill it as fast as possible while avoiding an open-fielded fight.
 
-#### Ausstattungen
-- https://s.orbis.zone/chzd
+These are not mutually exclusive, but some speedrunning builds are built to specialise on one over the other.
 
-## Allianz Challenger
-![](https://edassets.org/static/img/ship-schematics/qohen-leth/alliance-challenger.png =250x)
-### Allianz Challenger
-Der robusteste aus dem Allianz Trio und verfügt auch über die höchste Feuerkraft - wichtigste Eigenschaft jedes Speedrunners.
+> View the [Speedrunning Guide](/en/combat-speedrunning) to learn more about speedrunning techniques. 
+> 
+> {.is-info}
 
-**Größe:** Medium
+## {.tabset}
+ ### Anaconda !\[anaconda.png\](/img/anaconda.png =250x){.align-right} #### **Anaconda**
 
-#### Ausstattungen
-- https://s.orbis.zone/chzf
+  TBD
 
-## Beluga Liner
-![](https://edassets.org/static/img/ship-schematics/qohen-leth/beluga-liner.png =250x)
-### Beluga Liner
-Eine überraschende Option, die Widerstandsfähigkeit, Feuerkraft, Manövrierfähigkeit und höhere Geschwindigkeit als die Anaconda oder die Corvette bietet. Mit mehr Raum für Kühlkörper als jedes Medium-Schiff.
+  Arguably the best large ship for stunlocking.
 
-**Größe:**Groß
+  [Stunlock Build](https://edsy.org/#/L=J600000H4C0S00,LYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvHNkG0DM_W0HNkG0DM_W0,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00EAk00,9onG05I_W0ADIG03K_W0ARMG05I_W0AfRG05J_W0AtyG03G_W0BBoG03L_W0BRuG05G_W0Bcg00,16yG05I_W0,25S0025S0016yG05I_W016yG05I_W016yG05I_W03Ju0016yG05I_W015OG05I_W015OG05I_W023u0020m001-C00,Gotta_0GO_0Fast)
 
-#### Ausstattungen
-- https://s.orbis.zone/chzm
+ ### Krait Mk II !\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right} #### **Krait Mk II**
+
+  TBD
+
+  The Krait Mk II is a versatile ship that can fit into many AX roles, often with only little modification required.
+
+  [Speedrun Build](N/A)
+
+### Corsair
+  !\[krait-mk-ii.png\](/img/corsair.png =250x){.align-right} #### **Corsair**
+
+  TBD
+
+  The Krait Mk II is a versatile ship that can fit into many AX roles, often with only little modification required.
+
+  [X Build](N/A) [X Build](N/A)
+
+ ### Federal Gunship !\[beluga.png\](https://edassets.org/static/img/ship-schematics/qohen-leth/beluga-liner.png =250x){.align-right} #### **Federal Gunship**
+
+  Eine überraschende Option, die Widerstandsfähigkeit, Feuerkraft, Manövrierfähigkeit und höhere Geschwindigkeit als die Anaconda oder die Corvette bietet. Mit mehr Raum für Kühlkörper als jedes Medium-Schiff.
+
+
+  [X Build](N/A)
+ 
