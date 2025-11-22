@@ -2,7 +2,7 @@
 title: '“Builds” raccomandate'
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2025-11-21T19:48:18.241Z
+date: 2025-11-22T12:15:18.926Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -236,11 +236,13 @@ Flying a large AX ship is often a net disadvantage compared to meta mediums in o
 
 - **Slow Shieldless Builds** - Slow ships without shields. These especially are simply outclassed by more effective mediums.
 
+- **Fast Large Builds** - This category only applies to the Imperial Cutter, which can outrun most Thargoid foes.
+
+These ships offer different flight characteristics, new hardpoint setups and generally some variety, while requiring more experience to use to their full potential. If you intend to use any of these, we recommend reading the Anti-Xeno [Large Ship Guide](/en/large-ship-guide).
+
 > Specific large ship builds are used in Stunlocking, a [speedrunning](https://wiki.antixenoinitiative.com/en/combat-speedrunning) technique. View [speedrunning builds](https://wiki.antixenoinitiative.com/en/speedrunbuilds). 
 > 
 > {.is-info}
-
-These ships offer different flight characteristics, new hardpoint setups and generally some variety, while requiring more experience to use effectively. If you intend to use any of these, we recommend reading the Anti-Xeno Large Ship Guide.
 
 
 
