@@ -2,7 +2,7 @@
 title: Empfohlene Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2025-11-22T12:15:18.926Z
+date: 2025-11-22T14:29:48.904Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -230,7 +230,7 @@ There are also off-meta build-variants which are more custom tailored to the nee
 
 ## Large Builds
 
-Flying a large AX ship is often a net disadvantage compared to meta mediums in open fielded combat, but you can still use them at your own discretion, their main types are:
+Flying a large AX ship is often a net disadvantage compared to meta mediums in open fielded combat, you will achieve less while using more, but you can still use them at your own discretion, their main types are:
 
 - **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically. Harder to use in open-field combat than meta mediums.
 
