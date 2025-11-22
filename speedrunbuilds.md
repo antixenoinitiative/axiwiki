@@ -2,7 +2,7 @@
 title: Speedrun Builds
 description: Ship builds designed for killing Thargoids quickly
 published: true
-date: 2025-11-22T16:40:44.628Z
+date: 2025-11-22T16:42:20.737Z
 tags: builds, outfitting, speedrunning
 editor: markdown
 dateCreated: 2021-06-10T03:49:40.037Z
@@ -32,9 +32,9 @@ These are not mutually exclusive, but some speedrunning builds are built to spec
 {.is-info}
 
 ## {.tabset}
- ### Anaconda (Stunlock)
+ ### Anaconda
   ![anaconda.png](/img/anaconda.png =250x){.align-right}
-  #### **Anaconda (Stunlock)**
+  #### **Anaconda**
 
   TBD
   
@@ -42,7 +42,7 @@ These are not mutually exclusive, but some speedrunning builds are built to spec
 
   [Stunlock Build](https://edsy.org/#/L=J600000H4C0S00,LYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvHNkG0DM_W0HNkG0DM_W0,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00EAk00,9onG05I_W0ADIG03K_W0ARMG05I_W0AfRG05J_W0AtyG03G_W0BBoG03L_W0BRuG05G_W0Bcg00,16yG05I_W0,25S0025S0016yG05I_W016yG05I_W016yG05I_W03Ju0016yG05I_W015OG05I_W015OG05I_W023u0020m001-C00,Gotta_0GO_0Fast)
   
- ### Krait Mk II (Speedrun)
+ ### Krait Mk II
   ![krait-mk-ii.png](/img/krait-mk-ii.png =250x){.align-right}
   #### **Krait Mk II**
 
@@ -52,9 +52,9 @@ These are not mutually exclusive, but some speedrunning builds are built to spec
 
   [Speedrun Build](N/A)
   
-### Corsair (Stunlock)
+### Corsair
   ![krait-mk-ii.png](/img/corsair.png =250x){.align-right}
-  #### **Krait Mk II**
+  #### **Corsair**
 
   TBD
   
