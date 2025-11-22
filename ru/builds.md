@@ -2,7 +2,7 @@
 title: Рекомендованные сборки
 description: Рекомендованные сборки AX-кораблей
 published: Опубликовано
-date: 2025-11-22T14:29:48.904Z
+date: 2025-11-22T16:15:41.775Z
 tags: сборки
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -234,7 +234,7 @@ Flying a large AX ship is often a net disadvantage compared to meta mediums in o
 
 - **Slow Shielded Builds** (Shield Tanks) - Slow ships with large shields, using reboots to regenerate shields periodically. Harder to use in open-field combat than meta mediums.
 
-- **Slow Shieldless Builds** - Slow ships without shields. These especially are simply outclassed by more effective mediums.
+- **Slow Shieldless Builds** - Slow ships without shields. These especially are simply outclassed by more effective mediums in open-fielded combat.
 
 - **Fast Large Builds** - This category only applies to the Imperial Cutter, which can outrun most Thargoid foes.
 
