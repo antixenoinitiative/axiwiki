@@ -2,7 +2,7 @@
 title: Speedrun Builds
 description: Ship builds designed for killing Thargoids quickly
 published: true
-date: 2025-11-22T18:03:53.486Z
+date: 2025-11-22T18:06:54.769Z
 tags: builds, outfitting, speedrunning
 editor: markdown
 dateCreated: 2021-06-10T03:49:40.037Z
@@ -10,8 +10,7 @@ dateCreated: 2021-06-10T03:49:40.037Z
 
 # Speedrun Builds
 
-> These ship builds are not recommended for pilots new to Anti-Xeno Content, they require a solid understanding of Thargoid mechanics to be able to succeed. **Use these at your own Risk.**
-Click [here](/en/builds) to see our recommended builds for regular AX.
+> These ship builds are not recommended for pilots new to Anti-Xeno Content, they require a solid understanding of Thargoid mechanics to truly succeed. Click [here](/en/builds) to see our recommended builds for regular AX.
 {.is-warning}
 
 There are several differences between a general-purpose AX build and a speedrunner - they key difference being the focus of survivability and versatility in general builds, whereas speedrun builds can be highly specific to a particular variant and often forego self-repair capabilities, instead focusing on lasting just long enough to complete the kill.
