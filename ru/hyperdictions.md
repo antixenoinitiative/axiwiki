@@ -2,13 +2,13 @@
 title: Перехваты в гиперпространстве
 description: О перехватах таргоидами в гиперпространстве
 published: Опубликовано
-date: 2023-06-02T12:19:19.282Z
+date: 2025-11-22T19:04:35.495Z
 tags: таргоиды, перехватчики
 editor: markdown
 dateCreated: 2021-06-15T11:06:57.862Z
 ---
 
-> The information on this page is outdated. Thargoid Hunter class vessels can also hyperdict you, and the chances of each hyperdiction combo spawning is different that presented in this article. 
+> This article handles Hyperdictions around Nebulae. Hyper- and Interdictions in War-Systems play out differently. The Statistics may also be outdated. 
 > 
 > {.is-warning}
 
