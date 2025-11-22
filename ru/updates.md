@@ -2,7 +2,7 @@
 title: Changes & Updates
 description: Showing highlighted changes that have been made to AXI wiki and AXI website.
 published: true
-date: 2025-02-04T18:31:09.513Z
+date: 2025-11-22T19:10:08.328Z
 tags:
 editor: markdown
 dateCreated: 2023-08-29T13:16:57.862Z
@@ -13,6 +13,7 @@ Wiki page editorials and website changes are discussed in discord under the OTHE
 If you'd like to contribute to the wiki, please request editor permissions from AXI staff in discord.
 
 ## Wiki Changes and Updates
+- 2025-11-21: Begun update and overhaul of multiple pages. Starting with recommended builds.
 - 2025-02-04: Updated [Finding Thargoids](/en/finding-thargoids) to align with the [PR](https://github.com/antixenoinitiative/warden.bot/pull/183/files) that updates the bot's `/zoo` command
 - 2025-02-01: Start of updating [Recommended Builds](/en/builds); old page is archived [here](/en/builds-old)
 - 2025-01-27: Updated [Engineering Materials](/en/engineering-materials)
@@ -38,6 +39,3 @@ If you'd like to contribute to the wiki, please request editor permissions from 
 
 - 2025-01-03: Added an Event div for the "Blockade of HIP 22460"
 - 2024-08-08: We've reskinned it! It has a whole new look now.
-
-### Contributors
-- Toscany
