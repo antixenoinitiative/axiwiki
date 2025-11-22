@@ -2,7 +2,7 @@
 title: Speedrun Gemileri
 description: Thargoidleri hızlıca yok etmek için tasarlanmış gemiler
 published: true
-date: 2021-09-19T11:09:29.773Z
+date: 2025-11-22T16:42:20.737Z
 tags: builds, outfitting, speedrunning
 editor: markdown
 dateCreated: 2021-06-10T03:49:40.037Z
@@ -10,7 +10,7 @@ dateCreated: 2021-06-10T03:49:40.037Z
 
 # Speedrun Gemileri
 
-> Bu gemiler, Anti-Xeno savaşlarınde yeni olan pilotlara önerilmez. **KENDİ SORUMLULUĞUNUZDA KULLANIN!** Fakat doğru ellerde, bu gemiler diğerlerinden çok daha etkili olabilirler. Genel AX savaşları için önerdiğimiz gemiler için [buraya](/en/builds) tıklayabilirsiniz. 
+> These ship builds are not recommended for pilots new to Anti-Xeno Content, they require a solid understanding of Thargoid mechanics to be able to succeed. **Use these at your own Risk.** Click [here](/en/builds) to see our recommended builds for regular AX. 
 > 
 > {.is-warning}
 
@@ -21,33 +21,47 @@ Burada genel AX gemileri ve speedruncılar arasındaki bazı farklılıklar veri
 - Shutdown Field Neutralizer'lar, savaşı hızlandırmak için EMP/Caustik füzeler yeteneklerinin tetiklendiği bazı yöntemler için kullanışlı olabilirler.
 - Thermal Vent Beam Laser'leri düşük önem taşır zira bu gemiler kısa sürelerde silent running kullanırlar.
 
-# {.tabset}
-## Krait Mk.II
-![](https://edassets.org/static/img/ship-schematics/qohen-leth/krait-mk-ii.png =250x)
-### Krait Mk.II
-En çok yönlü AX gemilerinden ve speedruncıların en iyi seçeneklerinden biridir. 4 Gauss ile en yüksek hasar potansiyeline sahip olmasının yanı sıra yüksek savunmaya sahip olabilir. Zayıf Interceptorlere karşı etkili olabilecek 2 ya da 3 Large Shard Cannon yüklenebilir.
+Note that there are roughly 2 main types of speedruns:
 
-**Boyut:** Orta
+- **Regular Speedruns** - Faster paced combat, sometimes with the use of more nuanced techniques, with the willingness to expend as much ammo and health as needed to get the kill as fast as possible.
+- **Stunlocks** - Relies heavily on the sleepphase of an Interceptor with the goal to kill it as fast as possible while avoiding an open-fielded fight.
 
-#### Donatımlar:
-- https://s.orbis.zone/chzd
+These are not mutually exclusive, but some speedrunning builds are built to specialise on one over the other.
 
-## Alliance Challenger
-![](https://edassets.org/static/img/ship-schematics/qohen-leth/alliance-challenger.png =250x)
-### Alliance Challenger
-Alliance üçlüsünün en sağlamı ve en yüksek hasara sahip olanı - tüm iyi speedruncıların istediği özellikler.
+> View the [Speedrunning Guide](/en/combat-speedrunning) to learn more about speedrunning techniques. 
+> 
+> {.is-info}
 
-**Boyut:** Orta
+## {.tabset}
+ ### Anaconda !\[anaconda.png\](/img/anaconda.png =250x){.align-right} #### **Anaconda**
 
-#### Donatımlar:
-- https://s.orbis.zone/chzf
+  TBD
 
-## Beluga Liner
-![](https://edassets.org/static/img/ship-schematics/qohen-leth/beluga-liner.png =250x)
-### Beluga Liner
-Yüksek dayanıklılık, ateş gücü, manevra kabiliyeti ve Anaconda veya Corvette'ten daha yüksek hıza sahip, orta büyüklükteki gemilerden daha fazla heatsink taşıyabilen şaşırtıcı bir seçenek.
+  Arguably the best large ship for stunlocking.
 
-**Boyut:** Büyük
+  [Stunlock Build](https://edsy.org/#/L=J600000H4C0S00,LYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvHNkG0DM_W0HNkG0DM_W0,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00EAk00,9onG05I_W0ADIG03K_W0ARMG05I_W0AfRG05J_W0AtyG03G_W0BBoG03L_W0BRuG05G_W0Bcg00,16yG05I_W0,25S0025S0016yG05I_W016yG05I_W016yG05I_W03Ju0016yG05I_W015OG05I_W015OG05I_W023u0020m001-C00,Gotta_0GO_0Fast)
 
-#### Donatımlar:
-- https://s.orbis.zone/chzm
+ ### Krait Mk II !\[krait-mk-ii.png\](/img/krait-mk-ii.png =250x){.align-right} #### **Krait Mk II**
+
+  TBD
+
+  The Krait Mk II is a versatile ship that can fit into many AX roles, often with only little modification required.
+
+  [Speedrun Build](N/A)
+
+### Corsair
+  !\[krait-mk-ii.png\](/img/corsair.png =250x){.align-right} #### **Corsair**
+
+  TBD
+
+  The Krait Mk II is a versatile ship that can fit into many AX roles, often with only little modification required.
+
+  [X Build](N/A) [X Build](N/A)
+
+ ### Federal Gunship !\[beluga.png\](https://edassets.org/static/img/ship-schematics/qohen-leth/beluga-liner.png =250x){.align-right} #### **Federal Gunship**
+
+  Yüksek dayanıklılık, ateş gücü, manevra kabiliyeti ve Anaconda veya Corvette'ten daha yüksek hıza sahip, orta büyüklükteki gemilerden daha fazla heatsink taşıyabilen şaşırtıcı bir seçenek.
+
+
+  [X Build](N/A)
+ 
