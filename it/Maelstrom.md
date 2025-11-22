@@ -2,15 +2,17 @@
 title: Maelstrom
 description: The Thargoid Maelstrom
 published: true
-date: 2025-01-21T21:05:32.952Z
+date: 2025-11-22T22:50:52.673Z
 tags: thargoids, maelstrom
 editor: markdown
 dateCreated: 2022-12-03T23:50:43.297Z
 ---
 
-[![Maelstrom Over Ringed Ammonia World](/elite-dangerous-thargoid-invasion-update-14.jpg)](/elite-dangerous-thargoid-invasion-update-14.jpg)
+> Maelstroms and living Titans are game-content that is no longer accessible at this time. 
+> 
+> {.is-warning}
 
-*TODO(vorsipellis): titans ded*
+[![Maelstrom Over Ringed Ammonia World](/elite-dangerous-thargoid-invasion-update-14.jpg)](/elite-dangerous-thargoid-invasion-update-14.jpg)
 
 # A Brief Intro to the Maelstrom
 
