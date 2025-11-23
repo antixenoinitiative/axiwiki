@@ -2,7 +2,7 @@
 title: Finding Thargoids
 description: How to find Thargoids in Elite Dangerous, from solo interceptors to AX Conflict zones and everything in between
 published: true
-date: 2025-03-23T15:13:06.985Z
+date: 2025-11-23T23:55:24.836Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -15,7 +15,7 @@ Thargoids are an elusive bunch but there are certain tricks and hotspots that ca
 
 Thargoids can be found in various locations, such as:
 - [Non-Human Signal Sources (NHSS)](/en/nhss) (Pleaides, Witch Head and Coalsack Nebulae)
-- [AX Conflict Zones](/en/finding-thargoids#ax-conflict-zones-axczs)
+- [AX Conflict Zones](/en/finding-thargoids#ax-conflict-zones-axczs) (currently only California Nebula)
 - [Hyperdictions](/en/hyperdictions) (Pleaides, Witch Head and Coalsack Nebulae)
 - [Static Signal Sources](/en/static-signals) (Bubble, Pleaides, Witch Head and Coalsack Nebulae)
 - [Thargoid Structures](https://canonn.science/codex/the-unknown-structure/?highlight=structure) (Pleaides, Witch Head and Coalsack Nebulae)
@@ -37,6 +37,9 @@ Take note - **hyperdictions** will happen in and around these regions, although 
   - Only known locations of of AX Conflict Zones (see [below](/en/finding-thargoids#ax-conflict-zones-axczs))
 - #### **Witch Head Nebula**
 	- ~75ly around **Witch Head Sector IR-W C1-9**
+>   Be warned that Witch Head is currently full of performance- and gamebreaking issues in Odyssey.
+{.is-warning}
+
 
 ## AX Conflict Zones (AXCZs)
 
@@ -51,6 +54,10 @@ California Sectors:
 - JH-V c2-12 - 1x Medium AXCZ near body 6 (~45Ls), functional.
 
 **We recommend the BA-A e6 High CZ or the JH-V c2-12 Medium CZ.**
+
+> View the [AX Conflict Zones Guide](/en/conflict-zones) to prepare beforehand.
+{.is-info}
+
 
 ## Activity Map
 **Note:** This map is from before the Coalsack CG and Salvation CG which caused Coalsack NHSS to appear and the Pleiades region to expand, respectively.
