@@ -2,14 +2,14 @@
 title: Speedrunning Guide
 description: Can kill goids? Yes? But can you kill them quick?
 published: true
-date: 2025-11-22T15:49:46.245Z
+date: 2025-11-23T00:20:34.910Z
 tags: 
 editor: ckeditor
 dateCreated: 2021-06-10T13:56:57.206Z
 -->
 
 <h1>Introduction</h1>
-<p>First things first: Speedrunning is not for newcomer pilots to Anti-Xeno combat.</p>
+<p>Speedrunning is not for newcomer pilots to Anti-Xeno combat.</p>
 <p>We generally recommend CMDRs attain at least the Serpent’s Nemesis rank (Medusa solo) before they focus on learning any techniques involved in speedrunning.</p>
 <h1>Speedrunning Ranks</h1>
 <p>There are two ranks associated with speed kills: Myrmidon and Caduceus’ Glint</p>
@@ -29,16 +29,20 @@ dateCreated: 2021-06-10T13:56:57.206Z
 <p>Speedrunning is about killing a Thargoid in the shortest amount possible, without resorting to bugs or unintended mechanics (e.g., “gibbing”).</p>
 <p>In order to get started, the first thing you’ll want to understand is the detailed behavior of Goid AI upon heart distruction. Understanding this is critical to avoid triggering “panic shields”:</p>
 <figure class="image"><img src="/img/speedrunchart.png"></figure>
+<h2>NEI - Non Exert Interval</h2>
+<p>A time during which a heart can not be exerted. After a heart is destroyed the interceptor can not be exerted again for 10 seconds, even with overwhelming damage.<br>If overwhelming damage to reach the exert treshhold was done during this time period, the next interceptor heart will immedietely exert at the end of the NEI, assuming the treshhold is still met at that point.</p>
+<h2>Sleep Phase</h2>
+<p>Whenever an interceptor's heart is destroyed it will enter a 35-40 second sleep phase. The exact time differs between Variants. (Except after the first heart, here the interceptor will enter the lightning phase unless the second heart is destroyed before activation.)</p>
+<p>During the sleep phase the interceptor is looking for a target for its caustic missile or shutdown-field special attack.<br>Avoiding detection will let the sleep phase play out fully.</p>
 <h1>Speedrunning Techniques</h1>
 <h2>Shield Ramming</h2>
 <p>Shield ramming can be used in any type of speedrun whether it's <strong>cold orbiting</strong> or <strong>stunlocking</strong>. Ramming interceptor's shield most of the time implies triggering <strong>special attack</strong> as a result of violating minimum range for:</p>
 <p>· <strong>Lightning</strong> if interceptor is active;</p>
 <p>· <strong>Caustic missiles</strong> if interceptor is in sleep phase;</p>
 <p>· <strong>Shutdown field</strong> if it's second to last sleep phase (along with caustic missiles).</p>
+<p>Let's break down the most common shieldrams:</p>
 <p>&nbsp;</p>
-<p>Let's break down most common shieldrams.</p>
-<p>&nbsp;</p>
-<p>1) Shield after first heart.</p>
+<h3>Shield after first heart.</h3>
 <p>After destroying first heart interceptor initiates a <strong>lightning chase</strong> which:</p>
 <p>&nbsp; &nbsp;· Encourages us to ram it's shield;</p>
 <p>&nbsp; &nbsp;· Blocks interceptor's ability to deploy <strong>panic shield</strong> regardless of how fast this shield will get destroyed.</p>
@@ -48,7 +52,7 @@ dateCreated: 2021-06-10T13:56:57.206Z
 <p>· Line up and boost into the interceptor so you ram shield before zap kills your momentum.</p>
 <p>Usually lightning duration is enough to exert and destroy next heart after successful shieldram.</p>
 <p>&nbsp;</p>
-<p>2) Shield after all other hearts.</p>
+<h3>Shield after all other hearts.</h3>
 <p>As we already know, after every heart destruction except first one, interceptor falls into <strong>sleep phase</strong> meanwhile deploying new shield. If you want to ram this shield off, you should expect interrupting <strong>sleep phase</strong> because of violating <strong>minimum detection range</strong> (roughly 700m).</p>
 <p>And that's where it's getting more complicated, because without full knowledge on how panic shields are triggered, you will end up causing exactly that.</p>
 <p>To successfully ram shield off you need:</p>
@@ -59,11 +63,28 @@ dateCreated: 2021-06-10T13:56:57.206Z
 <p>In case of shieldramming in second to last sleep phase, you should expect triggering <strong>shutdown field</strong> which implies that you have <strong>shutdown field neutralizer</strong> equipped.</p>
 <p>&nbsp;</p>
 <h2>Silent Running firing “SR Max”</h2>
-<p>TBD</p>
+<p>TBD?</p>
+<h2>Stunlocking</h2>
+<p>In AX, stunlocking refers to a method of killing interceptors by dealing overwhelming damage during their <strong>Sleep phase</strong>,<strong> </strong>to reset it.<br>By repeatedly forcing the interceptor from one sleep phase to the next it is possible to keep it from moving.</p>
+<p>This is convenient since it is possible to avoid an open-fielded fight with the interceptor that way. It allows for more specialised builds, less focused on manoeuvrability and more focused on raw damage output.</p>
+<p>In order to not wake the interceptor up it is necessary to <strong>avoid detection</strong>. Interceptors can detect a ship by <strong>heat; ~ &gt;20%</strong>, or by proximity when entering the minimum detection threshhold of <i><strong>roughly</strong></i><strong> 700m</strong>. These values are rules of thumb and will slightly differ by ship.</p>
+<h3>Silent Running Lock</h3>
+<p>Stunlocking while silent running will mean you can freely fire away your weapons at maximum possible output.</p>
+<p>SR is the easiest way to avoid detection during the fight, but firing weapons under silent running comes with constant <strong>overheating</strong>, causing:</p>
+<ul>
+  <li>Hull damage over time</li>
+  <li>Internal Module damage over time</li>
+</ul>
+<h3>Cold Locking&nbsp;</h3>
+<p>Cold Locking can always be used, but becomes necessary when stunlocking Hydras. Their survivability simply drags out the fight too long to get away with the internal damage dealt by overheating during silent running.</p>
+<p>To cold lock you need to deal the damage required for stunlocking while also maintaining a <strong>temperature of &gt;20% </strong>using heatsinks (20% is a rule of thumb and differs by ship).</p>
+<h2>Doublehearting</h2>
+<p>Destroying the next heart and skipping the shield phase of the previous heart.</p>
+<h3>“Impossible Shot” or “Lightning skip”</h3>
+<p>Destroying the second heart <strong>before</strong> the first shield comes up and therefore skipping the lightning phase.</p>
 <h2>Heart “underpopping”</h2>
 <p>TBD</p>
-<h2>Aggro Switching (duo fights only)</h2>
 <h1>Speedrunning builds</h1>
-<p>See <a href="/en/speedrunbuilds">speedrunbuilds</a></p>
+<p>View the <a href="/en/speedrunbuilds">Speedrun Builds</a> page for a collection of recommended builds specialised for speedruns.</p>
 <h1>Speedrunning Tutorial</h1>
 <p>TBD</p>
