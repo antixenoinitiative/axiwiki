@@ -2,7 +2,7 @@
 title: Cold Orbiting
 description: How to avoid damage using cold orbiting
 published: true
-date: 2025-11-23T18:04:59.935Z
+date: 2025-11-23T18:07:09.569Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:18:39.016Z
@@ -15,7 +15,7 @@ Cold orbiting is a technique used mainly with **small** and **medium** ships to 
 1.  You are moving perpendicular to the Thargoid’s facing direction with sufficient speed.
 2.  Your ship’s effective heat is below 20% (Heatsinks, Thermal Vent Beam or Silent Running)
 
-Cold orbiting can be used in different phases of the fight, While waiting for a shield to drop, cold orbiting can be maintained with a Thermal Vent Beam. During a Gauss attack run you will require constant heatsinks to avoid going above 20% heat.
+Cold orbiting can be used in different phases of the fight, While waiting for a shield to drop, cold orbiting can be maintained with a thermal vent Beam. During a Gauss attack run you will require constant heatsinks to avoid going above 20% heat.
 
 To effectively cold orbit, you will need to be able to comfortably fly in **Flight Assist Off** mode.
 
