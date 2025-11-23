@@ -2,17 +2,19 @@
 title: Mekanik Atlama Rehberi
 description: Thargoid savaşlarında bazı mekanikler nasıl atlanır
 published: true
-date: 2021-08-20T01:57:10.991Z
+date: 2025-11-23T21:38:59.313Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
 ---
 
-# Uyku Evresi Mekanikleri
+# Interceptor Mechanics Bypass
 
 Thargoid Interceptorler, Kalp parçalanmaları sonrası bazı özel yetenekler kullanırlar (bkz. [Özel Yetenekler](/en/special-attacks)). "Caustic Füzeler", "Shutdown Pulse" ve "Panik Kalkanları" yeteneklerini kullanmak için Interceptor'ün **Hedefe Kilitli** olması gerekir.
 
 Thargoid, Kalbi parçalandığı zaman **Hedefe Kilitli** durumuna geçmek ister. Thargoid Interceptor, yalnızca "mevcut hedef" (en yüksek hasar uygulamış)'in sıcaklığı **en düşük algılama eşiğinin üzerindeyse (>~20%)** ya da uzaklığı **en düşük algılama menzilinin içindeyse (<~700 m)** **"Hedefe Kilitli"** durumuna geçebilir.
+
+## Sleep Phase
 
 Interceptor **35** **saniye** boyunca **Hedefe Kilitli** olabilmek için mevcut hedefi arayacaktır. Bu evreye **“Uyku Evresi”** deriz. Ardından Interceptor pes eder ve halihazırda mevcut değilse bir [Thargon Swarm'ı](/en/thargon-swarms) konuşlandırır. _Bu da o Kalp sonrası kullanılacak Caustic Füzeler ya da Shutdown Field'ı es geçmiş olduğunuz anlamına gelir._
 
@@ -24,9 +26,20 @@ Uyku Evresi'ndeyken Thargoid'in mevcut hedefi değişebilir. Eğer yeterince so�
 
 Önceden kalmış bir Swarm varsa ve şu anki uyku evresi **sürerken** yok ederseniz; Thargoid, yeni Swarm'ı konuşlandırmadan önce **bir yaylım ana silah atışı** yapacaktır. Uyku evresinden **önce** yok ederseniz bu olmayacak ve Swarm uyku evresinden hemen sonra konuşlandırılacaktır.
 
-## Savaş Taktikleri
+## Caustic Missile Blocking
+Thargoid Caustic missiles are launched in volleys, and when in a multi-CMDR fight, there will be one volley of missiles assigned for each CMDR that the Interceptor is in combat with at the time the missiles are activated. When the Thargoid Interceptor is able to successfully begin a Caustic Missile attack, each volley for each commander is launched sequentially, one after the other until each volley has been deployed. **If the ‘current target’ is detected and triggers a Caustic Volley, all other CMDRs will also get a volley assigned, regardless of heat and distance.**
 
-### Bireysel Taktikler
+When the Interceptor launches a volley, it must be able to make a **Target Lock** on them to fire. The Thargoid Interceptor can only make a **Target Lock** when the volley target has a heat signature above the **minimum detection threshold** (~20%) or are within the **minimum detection range** (~700m).
+
+If the Interceptor cannot get a **Target Lock** on the specific CMDR for that volley, it will wait **indefinitely** until it can get it. This effectively put **ALL** other caustic missiles on-hold **until the pending volley is fired**. ***Aka: The Thargoid is now ***constipated******.
+
+Should the target of the pending volleys remain cold and undetectable for the rest of the fight, **the Interceptor will not be able to fire any more Caustic Missiles.**
+
+It is worth noting that unlike triggering the volley itself (which requires you to be within 3km), if a volley is assigned to you and, for example, 2 out of 3 missiles are launched before you become undetectable, the last missile can be launched at any range and at any time as soon as your heat goes above the detection range.
+
+# Savaş Taktikleri
+
+## Bireysel Taktikler
 
 Bireysel savaşlarda uyku evresinden faydalanarak Thargoid'in özel yeteneklerini es geçebilmenizin yanında [Thargoid kalkanlarını](/en/shields) hızlıca kırmak için **kalkan toslaması**na fırsat sağlayabilirsiniz.
 
@@ -48,7 +61,7 @@ Thargoid kalbini parçaladıktan sonra; heatsink, "silent running" veya [Thermal
 
 Interceptor'e, Swarm konuşlandırmadan önce toslamak panik kalkanlarını tetikleyeceğinden işe yaramaz.
 
-### Wing Taktikleri
+## Wing Taktikleri
 
 Wing taktikleri yukarıda belirtilen **bireysel taktikler**de bahsedilen uyku evresinden faydalanma yöntemlerinin yanı sıra aggro sahibi olmayan bir wing arkadaşının varlığından da faydalanır.
 
@@ -67,7 +80,7 @@ Daha önce belirtildiği gibi; Thargoid ne zaman hedef değiştirse, bir **Hedef
 
 Ek olarak; bu şekildeki bir kalkan kırmanın ardından, aggro sahibi hariç herkes uyku evresinin bitmesini beklemeden Interceptor'e saldırıp Kalbi pörtletip parçalama imkanına sahiptir. Bu olay, ilk 35 saniyelik süre geçtikten sonra başlayacak yeni bir uyku evresini tetikler ve Interceptor, iki uyku arası ne yeni bi Swarm konuşlandırır ne de silahını ateşler. Etkin bir wing, bu yöntemle Interceptor'ü savaş boyunca sersemletme kilidine sokup herhangi bir hasar almadan (toslama dahil) yok edebilir.
 
-### Panik Kalkanları
+# Panik Kalkanları
 
 *Panik kalkanları için detaylı bili için bkz.* [***_Thargoid Kalkanları_***](/en/shields)
 
