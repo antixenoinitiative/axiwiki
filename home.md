@@ -2,13 +2,13 @@
 title: Home
 description: Welcome to the Anti-Xeno Initiative Wiki. Your complete repository for Anti-Xeno Combat.
 published: true
-date: 2025-11-23T11:16:33.593Z
+date: 2025-11-23T14:16:11.814Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-08T12:40:49.911Z
 ---
 
-![AXI Logo](/img/axi_insignia_hypen_512.png)
+![AXI Logo](/axi_logo_new2.png)
 
 # Anti-Xeno Wiki
 
@@ -24,15 +24,15 @@ Want to contribute? if you know a thing or two about AX combat you can help edit
 
 🚀 Ship Builds
 
-[Recommended Builds](/builds) [Ship Build Theory](/shipbuildtheory) [Build Repository](/buildrepository)
+[Recommended Builds](/en/builds) [Ship Build Theory](/en/shipbuildtheory) [Build Repository](/en/buildrepository)
 
 ⭐ Combat Guides
 
-[Basic Combat Guide](/basic-combat-guide) [Advanced Combat Guide](/advanced-combat-guide) [Speedrunning Guide](/combat-speedrunning)
+[Basic Combat Guide](/en/basic-combat-guide) [Advanced Combat Guide](/en/advanced-combat-guide) [Speedrunning Guide](/en/combat-speedrunning)
 
 🛸 Thargoids
 
-[Finding Thargoids](/finding-thargoids) [Thargoid Interceptors](/interceptors) [Thargoid Special Attacks](/special-attacks)
+[Finding Thargoids](/en/finding-thargoids) [Thargoid Interceptors](/en/interceptors) [Thargoid Special Attacks](/en/special-attacks)
 
 ## Browse All Pages
 
@@ -40,7 +40,7 @@ Want to contribute? if you know a thing or two about AX combat you can help edit
 
 A big thanks to our content and development team! ❤️
 
-### Translators
+### Translators & Editors
 
 -   CMDR alterNERDtive
 -   CMDR Trex63
@@ -63,6 +63,8 @@ A big thanks to our content and development team! ❤️
 -   CMDR Archiebeales
 -   CMDR Konstantine Novakov
 -   CMDR Eckee
+-   CMDR Sadeena
+-   CMDR vorsipellis
 
 ### Content Creators
 
@@ -72,6 +74,9 @@ A big thanks to our content and development team! ❤️
 -   CMDR EuanAB
 -   CMDR Avasa Siuu
 -   CMDR Maligno
+-   CMDR Airom
+-   CMDR AlexMG1
+-   CMDR Toscany
 
 ### Developers
 
