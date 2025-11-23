@@ -2,7 +2,7 @@
 title: Speedrun Rehberi
 description: Goidleri öldürebilir misiniz? Evet? Ama çabuk öldürebilir misiniz?
 published: true
-date: 2025-11-23T15:46:43.235Z
+date: 2025-11-23T18:19:10.151Z
 tags:
 editor: markdown
 dateCreated: 2021-06-10T13:56:57.206Z
