@@ -2,8 +2,8 @@
 title: Ana Sayfa
 description: Anti-Xeno Initiative Wiki'sine hoş geldiniz. Anti-Xeno Savaşı için ana kaynağınız.
 published: true
-date: 2024-09-10T14:52:08.442Z
-tags: admin
+date: 2025-11-23T11:16:33.593Z
+tags:
 editor: markdown
 dateCreated: 2021-06-08T12:40:49.911Z
 ---
