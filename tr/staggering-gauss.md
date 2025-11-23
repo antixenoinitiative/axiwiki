@@ -2,7 +2,7 @@
 title: Gauss Atışlarını Bölmek
 description: Gauss atışlarını bölmenin faydaları ve farklı yolları.
 published: true
-date: 2025-11-23T19:02:34.433Z
+date: 2025-11-23T19:04:03.411Z
 tags: combat, weapons, controls
 editor: markdown
 dateCreated: 2021-06-24T06:27:14.908Z
@@ -40,7 +40,7 @@ This is the “ultimate” tecnique. it offers the best sdps, with the best heat
 [https://youtu.be/KclGzsahbPU?si=FWkmEd0jkUbwm\_2L](https://youtu.be/KclGzsahbPU?si=FWkmEd0jkUbwm_2L)
 
 <div class="iframeContainer">
-    <iframe src="https://www.youtube.com/embed/I2tpYSQGIb8?si=pl0Z7tGSde1AzBtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
+    <iframe src="https://www.youtube.com/embed/KclGzsahbPU?si=Q998LLHnGBM5geCr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
 </div>
 
 ## Taramalı
