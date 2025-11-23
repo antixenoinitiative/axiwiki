@@ -2,13 +2,13 @@
 title: Home
 description: Welcome to the Anti-Xeno Initiative Wiki. Your complete repository for Anti-Xeno Combat.
 published: true
-date: 2025-11-23T11:01:56.559Z
-tags: admin
+date: 2025-11-23T11:02:51.923Z
+tags: 
 editor: markdown
 dateCreated: 2021-06-08T12:40:49.911Z
 ---
 
-![AXI Logo](/axi_logo_new2.png =250x){.inline}
+![AXI Logo](/img/axi_insignia_hypen_512.png)
 
 # Anti-Xeno Wiki
 
@@ -40,7 +40,7 @@ Want to contribute? if you know a thing or two about AX combat you can help edit
 
 A big thanks to our content and development team! ❤️
 
-### Translators & Editors
+### Translators
 
 -   CMDR alterNERDtive
 -   CMDR Trex63
@@ -63,7 +63,6 @@ A big thanks to our content and development team! ❤️
 -   CMDR Archiebeales
 -   CMDR Konstantine Novakov
 -   CMDR Eckee
-- 	CMDR Sadeena
 
 ### Content Creators
 
@@ -73,9 +72,6 @@ A big thanks to our content and development team! ❤️
 -   CMDR EuanAB
 -   CMDR Avasa Siuu
 -   CMDR Maligno
-- 	CMDR Airom
--   CMDR AlexMG1
-- 	CMDR Toscany
 
 ### Developers
 
