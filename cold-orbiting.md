@@ -2,7 +2,7 @@
 title: Cold Orbiting
 description: How to avoid damage using cold orbiting
 published: true
-date: 2025-11-23T18:07:09.569Z
+date: 2025-11-23T18:09:43.276Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:18:39.016Z
@@ -28,3 +28,13 @@ In order to keep control of your heat here are a few tips:
 -   Always use heatsinks when firing Gauss. This will prevent your heat from going above 20% (deploy a heatsink when your previous one ejects, at minimum)
     
 -   Split your Gauss firegroups in half, firing 2x Gauss cannons at a time. This will prevent the heat from temporarily spiking above 20% allowing the goid to hit you. (if done fast enough this can be done without losing appreciable DPS)
+
+</div><div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/TpMPMzQFTD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; encrypted-media;" allowfullscreen=""></iframe>
+</div><div>
+</div><div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/cWr_ixTAKWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div><div>
+</div><div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/f-2zN0f__HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
