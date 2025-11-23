@@ -2,7 +2,7 @@
 title: Basic Combat Guide
 description: The fundamental concepts of AX combat and how to fight an Interceptor.
 published: true
-date: 2025-11-23T18:51:00.203Z
+date: 2025-11-23T18:52:29.258Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:18:38.671Z
@@ -14,9 +14,9 @@ Thargoids pose a significant combat Threat in Elite: Dangerous. To effectively d
 
 > Fighting Thargoids is hard until it is easy. Prepare to die and face the rebuy screen. Medium ships are faster, cheaper to (re)buy, require less engineering, and pack roughly the same firepower as large ships due to the weapons cap on experimentals (4). Flying without using a recommended build puts you and your wingmates at risk. Be courteous to your fellow pilots! Engineering is not optional, and flying without Guardian weapons is not recommended. As always, never fly without a rebuy. For information on how to put together a AX Ship, head to our [Ship Builds](/en/builds) Section. For a basic rundown of controls on keyboard and mouse see [recommended-controls.](/en/recommended-controls)
 
-</div><div class="iframeContainer">
+<div class="iframeContainer">
     <iframe src="https://www.youtube.com/watch?v=70xUm6Jh5eg&t=442s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
-</div><div>
+</div>
 
 ## The Basics
 
