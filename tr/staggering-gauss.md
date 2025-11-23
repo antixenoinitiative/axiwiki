@@ -2,7 +2,7 @@
 title: Gauss Atışlarını Bölmek
 description: Gauss atışlarını bölmenin faydaları ve farklı yolları.
 published: true
-date: 2021-06-24T06:27:14.908Z
+date: 2025-11-23T17:24:18.737Z
 tags: combat, weapons, controls
 editor: markdown
 dateCreated: 2021-06-24T06:27:14.908Z
@@ -18,16 +18,18 @@ Bunu yapmanın 4 (ve tabiri caizse bir adet bonus) ana yolu vardır:
 - Üst üste binmiş Ek olarak; "taramalı" gauss, CMDR Aranionros Stormrage tarafından icat edilmiştir.
 
 ## Hepsi birden
-Bu yöntem Gauss atışlarınızı bölmeden tümünü aynı anda ateşlemektir ve distribütörünüze binen yükü yaymadığınızı için en kötü termal performansa sahiptir. Bununla birlikte, Vulture ve Corvette gibi, Gauss yüküne oranla çok büyük Distributor'e sahip gemilerde sorunsuzca kullanılabilir. Bazen deneyimli pilotlar da Kalp parçalama sırasında yüksek alpha hasarı, ilk atışta verilen hasar, sebebiyle bu yöntemi kullanırlar.
+This tecnique implies not actually spitting your gauss, and as such it's the worst for heat given the fact that the distro draw isn't spread out. Bununla birlikte, Vulture ve Corvette gibi, Gauss yüküne oranla çok büyük Distributor'e sahip gemilerde sorunsuzca kullanılabilir. Bazen deneyimli pilotlar da Kalp parçalama sırasında yüksek alpha hasarı, ilk atışta verilen hasar, sebebiyle bu yöntemi kullanırlar.
 
 ## Dönüşümlü
-Atış bölmenin giriş seviyesidir. En iyi yöntem olmaktan uzaktır ancak tüm Gauss'ları aynı ateşlemekten daha iyidir. Fakat en yüksek DPS'e sahip olmanızı sağlamaz. Bu yöntemde Gauss'larınızı iki gruba ayırır ve biri atışını tamamladıktan hemen sonra diğerini tetiklersiniz.
+This is the entry-level version of stagger. En iyi yöntem olmaktan uzaktır ancak tüm Gauss'ları aynı ateşlemekten daha iyidir. Fakat en yüksek DPS'e sahip olmanızı sağlamaz. Bu yöntemde Gauss'larınızı iki gruba ayırır ve biri atışını tamamladıktan hemen sonra diğerini tetiklersiniz.
 
 ## Ani
-Üst üste bindirmenin kolay halidir. İyi alpha hasarının yanında daha kötü termal performans sunar. Gauss atışlarınızı ikiye ayırdıktan sonra, tetikler arasında ufak bir gecikme bırakarak ateşlersiniz. Bu yöntemle en yüksek DPS'e ulaşabilirsiniz.
+This is a "easier" version of overlapping, with good alpha damage but slightly worse heat characteristics compared to overlapping. Gauss atışlarınızı ikiye ayırdıktan sonra, tetikler arasında ufak bir gecikme bırakarak ateşlersiniz. Bu yöntemle en yüksek DPS'e ulaşabilirsiniz.
 
-## Üst üste binmiş
-Nihai yöntemdir. En iyi SDPS'i sunarken en iyi termal performansa sahiptir (makro kullanmadan) ve öğrenmesi en zor olandır. Alıştırma yapar ve kas hafızası elde ederseniz doğal bir hareket haline gelebilir. Bu yöntemde, ayırdığınız Gauss atış gruplarını, biri ateşlemeye yaklaşmışken diğerini tetiklersiniz.
+## Overlapping / Staggering
+This is the "ultimate" tecnique. En iyi SDPS'i sunarken en iyi termal performansa sahiptir (makro kullanmadan) ve öğrenmesi en zor olandır. Alıştırma yapar ve kas hafızası elde ederseniz doğal bir hareket haline gelebilir. This tecnique consists of dividing your gauss into two triggers, and then overlapping them to start charging one set of gauss while the other still hasn't fired, but is close to.
+
+https://youtu.be/KclGzsahbPU?si=FWkmEd0jkUbwm_2L
 
 ## Taramalı
-Taramalı Gauss biraz değişiktir. Atış gruplarınızı hızlıca değiştirebilmek için makro atamanızı gerektirir. Bu yöntemin amacı hasarınızı ve distribütör yükünü yayıp en iyi termal performans elde ederken en yüksek DPS'e de sahip olmanızdır. CMDR Aranionros Stormrage tarafından icat edilmiştir.
+The gauss minigun is different. It requires a macro to switch your firegroups. The purpose of it is to spread out your damage as much as possible while still maintaning max dps to get the best heat caracteristics and the most spread out distro draw out of all the firing modes. This was invented by CMDR Aranionros Stormrage.
