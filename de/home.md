@@ -2,8 +2,8 @@
 title: Hauptseite
 description: Willkommen im Wiki der Anti-Xeno Initiative, der Hauptquelle für Informationen gesammelt von der Anti-Xeno Initiative. Hier findest du Einführungen, Anleitungen und alle möglichen Daten rund um den Kampf gegen Thargoiden in Elite Dangerous.
 published: true
-date: 2024-09-10T14:52:08.442Z
-tags: admin
+date: 2025-11-23T11:16:33.593Z
+tags:
 editor: markdown
 dateCreated: 2021-06-08T12:40:49.911Z
 ---
