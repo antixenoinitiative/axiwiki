@@ -2,7 +2,7 @@
 title: Conflict Zones Guide
 description: A guide to AX Conflict Zones
 published: true
-date: 2025-11-23T21:35:30.757Z
+date: 2025-11-23T21:44:15.812Z
 tags: combat, interceptors, axcz
 editor: markdown
 dateCreated: 2021-06-21T02:06:34.482Z
@@ -61,7 +61,7 @@ The types of Interceptors vary between Cyclops, Basilisk and Medusa, Cyclops bei
 
 Depending on what types of Interceptors you’re dealing with, the following strategies are advised:
 
-### **Two Cyclops**
+### Two Cyclops
 
 Their damage to the NPCs is negligible, you can alternate between both of them and take out a heart each. Saving ammo by letting NPCs exert them is a viable tactic, as they can easily exert a full strength Cyclops, and even kill it once its final heart is destroyed.
 
