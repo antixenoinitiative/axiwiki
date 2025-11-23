@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the Anti-Xeno Initiative Wiki. Your complete repository for Anti-Xeno Combat.
 published: true
-date: 2025-11-23T14:16:11.814Z
+date: 2025-11-23T14:25:58.282Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-08T12:40:49.911Z
@@ -33,8 +33,6 @@ Want to contribute? if you know a thing or two about AX combat you can help edit
 🛸 Thargoids
 
 [Finding Thargoids](/en/finding-thargoids) [Thargoid Interceptors](/en/interceptors) [Thargoid Special Attacks](/en/special-attacks)
-
-## Browse All Pages
 
 ## Credits
 
