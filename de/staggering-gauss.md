@@ -2,7 +2,7 @@
 title: Versetztes Gauss-Kanonen Feuer
 description: Vorteile und verschiedene Herangehensweisen, beim versetzten Abfeuern von Gauss-Kanonen.
 published: true
-date: 2021-06-24T06:27:14.908Z
+date: 2025-11-23T17:24:18.737Z
 tags: combat, weapons, controls
 editor: markdown
 dateCreated: 2021-06-24T06:27:14.908Z
@@ -18,16 +18,18 @@ Es gibt 4 Hauptherangehensweisen damit umzugehen (+ eine etwas speziellere Techn
 - Versetzt. Die zusätzliche Technik, wie eine Minigun, wurde von CMDR Aronionros Stormrage erfunden.
 
 ## Alle(s) auf einmal abfeuern
-Diese Technik impliziert, die Gauss-Kanonen nicht wirklich aufzuteilen, was wegen der schlechten Verteilung in hohem Wärmeausstoß resultiert. Trotzdem, manche Schiffe (wie die Vulture oder Corvette) können dies wegen ihren relativ großen Verteilen machen. Manchmal wird von erfahrenen Piloten auch Alles auf einmal abgefeuert, um ein Herz schnell zu zerstören.
+This tecnique implies not actually spitting your gauss, and as such it's the worst for heat given the fact that the distro draw isn't spread out. Trotzdem, manche Schiffe (wie die Vulture oder Corvette) können dies wegen ihren relativ großen Verteilen machen. Manchmal wird von erfahrenen Piloten auch Alles auf einmal abgefeuert, um ein Herz schnell zu zerstören.
 
 ## Abwechselnd
-Dies ist die enfachste Version des Versetzens. Es ist alles andere als optimal, aber immer noch ein großer Schritt vorwärts beim kontrollieren des Wärmeausstoßes, im Vergleich zum gleichzeitigen Abfeuern aller Gauss-Kanonen. Jedoch bringt es nicht den meisten Schaden pro Sekunde (DPS). Diese Technik bedeutet, dass die Gauss-Kanonen auf zwei Feuergruppen aufgeteilt werden und abwechselnd nacheinander gefeuert werden.
+This is the entry-level version of stagger. Es ist alles andere als optimal, aber immer noch ein großer Schritt vorwärts beim kontrollieren des Wärmeausstoßes, im Vergleich zum gleichzeitigen Abfeuern aller Gauss-Kanonen. Jedoch bringt es nicht den meisten Schaden pro Sekunde (DPS). Diese Technik bedeutet, dass die Gauss-Kanonen auf zwei Feuergruppen aufgeteilt werden und abwechselnd nacheinander gefeuert werden.
 
 ## Stoßhaft
-Dies ist eine "einfachere" Version des versetzten Abfeuerns, mit gutem Erst-Schaden, aber etwas schlechteren Wärmeeigenschaften im Vergleich. Man spricht von dieser Technik, wenn die Gauss-Kanonen auf 2 Feuergruppen aufzuteilen, und diese dann mit nur leichter Verzögerung von einander abfeuert. Diese Technik erlaubt maximalen Schaden pro Sekunde (DPS).
+This is a "easier" version of overlapping, with good alpha damage but slightly worse heat characteristics compared to overlapping. Man spricht von dieser Technik, wenn die Gauss-Kanonen auf 2 Feuergruppen aufzuteilen, und diese dann mit nur leichter Verzögerung von einander abfeuert. Diese Technik erlaubt maximalen Schaden pro Sekunde (DPS).
 
-## Versetzt
-Dies ist die optimalste Technik. Sie bietet den am besten aufrechtzuerhaltenen Schaden pro Sekunde (sDPS), mit den besten Wärmeeigenschaften (ohne ein Makro zu nutzen). Es ist aber auch das am schwierigsten zu meisternde. Wenn man aber einmal angefangen hat es anzuwenden, bildet sich ein Muskelgedächtnis und es wird zur zweiten Natur. Die Technik besteht darin, die Gauss-Kanonen auf 2 Feuergruppen aufzuteilen und sie dann versetzt abzufeuern. Also während eine Gruppe kurz vorm Abfeuern ist, aber noch lädt, schon zu beginnen die nächste Gruppe aufzuladen.
+## Overlapping / Staggering
+This is the "ultimate" tecnique. Sie bietet den am besten aufrechtzuerhaltenen Schaden pro Sekunde (sDPS), mit den besten Wärmeeigenschaften (ohne ein Makro zu nutzen). Es ist aber auch das am schwierigsten zu meisternde. Wenn man aber einmal angefangen hat es anzuwenden, bildet sich ein Muskelgedächtnis und es wird zur zweiten Natur. This tecnique consists of dividing your gauss into two triggers, and then overlapping them to start charging one set of gauss while the other still hasn't fired, but is close to.
+
+https://youtu.be/KclGzsahbPU?si=FWkmEd0jkUbwm_2L
 
 ## Minigun
-Die Minigun-Technik ist sehr unterschiedlich zu den vorherigen. Die Feuergruppen so schnell zu wechseln erfordert ein Makro. Das Ziel ist, den Schaden zeitlich zu verteilen, während man trotzdem maximalen DPS erreicht. Das zeitliche Verteilen der einzelnen Schüsse verschafft Entlastung beim Wärmeausstoß und dem Waffen-Kondensator. Diese Technik wurde von CMDR Aranionros Stormrage erfunden und entwickelt.
+The gauss minigun is different. It requires a macro to switch your firegroups. The purpose of it is to spread out your damage as much as possible while still maintaning max dps to get the best heat caracteristics and the most spread out distro draw out of all the firing modes. This was invented by CMDR Aranionros Stormrage.
