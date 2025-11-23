@@ -2,17 +2,19 @@
 title: Mechanic Bypass Guide
 description: How to skip certain mechanics in a thargoid fight
 published: true
-date: 2021-08-20T01:57:14.545Z
+date: 2025-11-23T21:38:59.313Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
 ---
 
-# Sleep Phase Mechanics
+# Interceptor Mechanics Bypass
 
 Thargoid Interceptors use various special abilities (read more about these in our [Special Attacks](/en/special-attacks) page) which occur whenever a Thargoid Heart is broken. The Caustic Missiles, Shutdown Pulse and the Panic Shield Regeneration abilities require the Interceptor to have a **Target Lock** for it to be able to activate them (similar to how seeker missiles work).
 
 When the Thargoid Heart is broken, it will begin looking for a **Target Lock**. The Interceptor can only make a **Target Lock** when the current active target (most damage dealt) has a heat signature above the **minimum detection threshold** (~20%) or are within the **minimum detection range** (~700m).
+
+## Sleep Phase
 
 The Interceptor will continue to try and get a **Target Lock** on the current target until **35** **Seconds** have passed. This is called the **“Sleep Phase”**. After this period, the Interceptor will give up on getting a target lock, deploy new [Thargon Swarms](/en/thargon-swarms) (if one is not already active) and continue the fight. _Effectively skipping any Caustic Missiles or Shutdown Fields that were due for that Heart_
 
@@ -23,9 +25,20 @@ The ‘Current Target’ can change while the Thargoid is in the “Sleep Phase�
 
 If you destroyed the previous swarm **during** the current sleep phase, the Thargoid will fire **one volley of main-cannon fire** before deploying the next swarm. If you destroyed the previous swarm **before** the current sleep phase began, this will not happen and the Thargoid will deploy the swarm immediately.
 
-## Combat Tactics
+## Caustic Missile Blocking
+Thargoid Caustic missiles are launched in volleys, and when in a multi-CMDR fight, there will be one volley of missiles assigned for each CMDR that the Interceptor is in combat with at the time the missiles are activated. When the Thargoid Interceptor is able to successfully begin a Caustic Missile attack, each volley for each commander is launched sequentially, one after the other until each volley has been deployed. **If the ‘current target’ is detected and triggers a Caustic Volley, all other CMDRs will also get a volley assigned, regardless of heat and distance.**
 
-### Solo Tactics
+When the Interceptor launches a volley, it must be able to make a **Target Lock** on them to fire. The Thargoid Interceptor can only make a **Target Lock** when the volley target has a heat signature above the **minimum detection threshold** (~20%) or are within the **minimum detection range** (~700m).
+
+If the Interceptor cannot get a **Target Lock** on the specific CMDR for that volley, it will wait **indefinitely** until it can get it. This effectively put **ALL** other caustic missiles on-hold **until the pending volley is fired**. *Aka: The Thargoid is now **constipated***.
+
+Should the target of the pending volleys remain cold and undetectable for the rest of the fight, **the Interceptor will not be able to fire any more Caustic Missiles.**
+
+It is worth noting that unlike triggering the volley itself (which requires you to be within 3km), if a volley is assigned to you and, for example, 2 out of 3 missiles are launched before you become undetectable, the last missile can be launched at any range and at any time as soon as your heat goes above the detection range.
+
+# Combat Tactics
+
+## Solo Tactics
 
 In a solo fight, the Sleep Mechanics can be used to skip the special abilities (**Shutdown Pulse** and **Caustic Missiles**) and also open up a window of opportunity to use **ramming tactics** to destroy the [Thargoid Shields](/en/shields) very quickly.
 
@@ -47,7 +60,7 @@ For Example:
 
 Ramming the Interceptor before the swarm deploys while solo will not work as this will trigger the “Panic Shield”
 
-### Wing Tactics
+## Wing Tactics
 
 The wing tactics that can utilize the sleep mode include the **solo tactics** mentioned above plus a the ability to have a second wingmate take advantage of not having aggro.
 
@@ -66,7 +79,7 @@ Of course, any damage dealt during the **Target Swap Lockout** will count toward
 
 Additionally, once the shield is removed in this manner, everyone but the aggro-holder are free to open fire on the Interceptor, exerting and destroying the next heart before the sleep phase ends. This will trigger a new sleep after the initial 35s have passed, and the Interceptor will not launch a swarm or fire its cannon when transitioning between the first and second sleep phase. This allows an efficient wing to stun-lock an Interceptor and take it down without taking any (ramming excluded) damage.
 
-### Panic Shields
+# Panic Shields
 
 *For a more detailed overview on panic shields, see* [***_Thargoid Shields_***](/en/shields)
 
