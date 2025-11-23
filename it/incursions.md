@@ -2,13 +2,13 @@
 title: Incursioni
 description: Informazioni sugli stati “Thargoid Incursion” e “Thargoid Infestation”
 published: true
-date: 2023-06-02T12:17:34.674Z
+date: 2025-11-23T10:49:19.827Z
 tags: thargoids, incursions, infestations
 editor: markdown
 dateCreated: 2021-06-17T01:24:54.361Z
 ---
 
-> This page contains information on Legacy mechanics. See the [Maelstroms](/en/Maelstrom) page for information on current Thargoid attack mechanics.{.is-warning}
+> This page contains information on Legacy mechanics. They were superseded by newer war-status mechanics during the Maelstrom invasion of the bubble at the end of 3308 (2022).{.is-warning}
 
 # Thargoid Infestations
 Durante i periodi di maggiore attività concentrata dei Thargoid, ogni settimana un certo numero di sistemi diventeranno “Infestati” e entreranno nello stato **Infestation**. Questo si manifesta inizialmente con la presenza di[Non-Human Signal Sources](/en/nhss) contenenti vari Scouts e Interceptors. Un'infestazione indica un'invasione in arrivo nello stesso sistema, a meno che una grande quantità di vascelli Thargoid siano distrutti nel sistema in oggetto.
