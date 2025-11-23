@@ -2,7 +2,7 @@
 title: Speedrunning Guide
 description: Can kill goids? Yes? But can you kill them quick?
 published: true
-date: 2025-11-23T18:17:16.957Z
+date: 2025-11-23T18:18:07.367Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-10T13:56:57.206Z
@@ -149,5 +149,5 @@ View the [Speedrun Builds](/en/speedrunbuilds) page for a collection of recommen
 A great Stunlocking Tutorial Video: [https://www.youtube.com/watch?v=cdvLDxQReq0](https://www.youtube.com/watch?v=cdvLDxQReq0)
 
 </div><div class="iframeContainer">
-    <iframe src="https://youtu.be/cdvLDxQReq0?si=ZorcZstIoDRszVPK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media;" allowfullscreen=""></iframe>
+    <iframe src="https://www.youtube.com/watch?v=cdvLDxQReq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media;" allowfullscreen=""></iframe>
 </div><div>
