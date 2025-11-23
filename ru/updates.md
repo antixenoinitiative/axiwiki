@@ -2,7 +2,7 @@
 title: Changes & Updates
 description: Showing highlighted changes that have been made to AXI wiki and AXI website.
 published: true
-date: 2025-11-22T19:10:08.328Z
+date: 2025-11-23T15:26:59.364Z
 tags:
 editor: markdown
 dateCreated: 2023-08-29T13:16:57.862Z
@@ -37,5 +37,6 @@ If you'd like to contribute to the wiki, please request editor permissions from 
 
 ## AXI Website Changes and Updates
 
+- 2025-11-01: Finished a major visual and fuctional update of the main Website to align with the established AXI themes once again. News- and Watch- section reworked, among other things.
 - 2025-01-03: Added an Event div for the "Blockade of HIP 22460"
 - 2024-08-08: We've reskinned it! It has a whole new look now.
