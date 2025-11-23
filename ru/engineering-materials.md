@@ -87,9 +87,9 @@ If you have issues with Guardian materials yeeting into space, you might be able
 
 Guardian blueprint fragments come in three forms: Weapon, Module, and Vessel. Each active guardian site will provide one of these types. While many CMDRs have sites they prefer to use, we recommend **Synuefe LQ-T B50-1, planet B 2** for modules and **Synuefe GV-T B50-4, planet  B 1** for weapons.
 
-![synuefe\_lq-t\_b50-1\_r.png](/img/synuefe_lq-t_b50-1_r.png)
+![synuefe_lq-t_b50-1_r.png](/img/synuefe_lq-t_b50-1_r.png)
 
-![synuefe\_gv-t\_b50-4.png](/img/synuefe_gv-t_b50-4.png)
+![synuefe_gv-t_b50-4.png](/img/synuefe_gv-t_b50-4.png)
 
 ## Materials
 
@@ -99,13 +99,13 @@ Guardian materials can be found at various active guardian sites. Some drop from
 
 Guardian Technology Components (GTCs) are infrequently-found (if at all) at many Guardian sites and yet required by many weapons/modules. It might be more efficient for you to farm them separately from other Guardian materials by visiting **Synuefe HT-F D12-29, planet C 3** as this site has eight separate spawns, so one run will fill up 24 GTCs.
 
-![synuefe\_ht-f\_d12-29.png](/img/synuefe_ht-f_d12-29.png)
+![synuefe_ht-f_d12-29.png](/img/synuefe_ht-f_d12-29.png)
 
 ## Data
 
 Guardian Pattern Data comes in various forms, and can be obtained from scanning any active obelisk. Drops are random, and many relogs are required to get the data you need. While any guardian site has active obelisks, we recommend **Synuefe XR-H D11-102, planet 1 B** for pattern data, as there is a site with 4 obelisks next to each other.
 
-![synuefe\_xr-h\_d11-102\_guardian\_obelisks.png](/img/synuefe_xr-h_d11-102_guardian_obelisks.png)
+![synuefe_xr-h_d11-102_guardian_obelisks.png](/img/synuefe_xr-h_d11-102_guardian_obelisks.png)
 
 # Thargoid Materials
 
@@ -166,7 +166,7 @@ When trading you will always lose some value. You will lose even more if you tra
 
 - [Ship Build Theory](/en/shipbuildtheory) page - Information on how to engineer your ship
 - [Elite Materials](https://sites.google.com/view/elite-materials/home) - Comprehensive summary of material sources
-- [ED Discovery](https://edcodex.info/?m=tools\&entry=10) - Aids with planetary navigation, among many other useful features.
+- [ED Discovery](https://edcodex.info/?m=tools&entry=10) - Aids with planetary navigation, among many other useful features.
 - [Weapon Unlock Costs](https://inara.cz/elite/techbroker) - Inara keeps a list of tech broker unlock requirements.
 
 ### Contributors
