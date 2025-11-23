@@ -2,7 +2,7 @@
 title: Recommended Control Scheme
 description: Best suggested controls for Combat in Elite
 published: true
-date: 2025-11-23T16:31:17.496Z
+date: 2025-11-23T16:31:34.799Z
 tags: combat, controls
 editor: markdown
 dateCreated: 2021-06-21T04:46:46.489Z
@@ -58,7 +58,7 @@ Lastly to consider is ease of use. Your guardian weapons will be separate fire g
 
 
 
-> Example of limited input firegroup setups to allow easy use of heatsinks. (For example if your input device or setup does not allow for the use of more hotkey binds.)
+> Example of limited input firegroup to allow easy use of heatsinks. (For example if your input device or setup does not allow for the use of more hotkey binds.)
  
  ![](/controllerfiregroups.jpg =250x)
 
