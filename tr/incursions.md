@@ -2,13 +2,14 @@
 title: Incursion'lar
 description: Thargoid Incursion ve Infestation'larına dair
 published: true
-date: 2025-11-23T10:49:19.827Z
+date: 2025-11-23T14:31:27.917Z
 tags: thargoids, incursions, infestations
 editor: markdown
 dateCreated: 2021-06-17T01:24:54.361Z
 ---
 
-> This page contains information on Legacy mechanics. They were superseded by newer war-status mechanics during the Maelstrom invasion of the bubble at the end of 3308 (2022).{.is-warning}
+> This page contains information on Legacy mechanics. They were superseded by newer war-status mechanics during the Maelstrom invasion of the bubble at the end of 3308 (2022).{.is-danger}
+
 
 # Thargoid Infestation
 Thargoidlerin etkin olduğu dönemlerde, haftalık bazda bir grup sistem "kuşatılır" ve **Infestation** (kuşatılmış) durumuna geçer. Bu durum ilk başta, çeşitli Scout ve Interceptor türlerini içeren [Non-Human Signal Sources (NHSS)](/en/nhss) sinyallerinin ortaya çıkmasıyla fark edilir. Infestation durumu, eğer çok sayıda Thargoid yok edilip savunulmadığı takdirde sistemin istila edileceğinin belirtisidir.
