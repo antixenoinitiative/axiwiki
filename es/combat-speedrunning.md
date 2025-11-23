@@ -2,7 +2,7 @@
 title: Guía de velocidad
 description: '¿Pueden matar goids? ¿Sí? Pero, ¿pueden matarlos rápidamente?'
 published: verdadero
-date: 2025-11-23T15:46:43.235Z
+date: 2025-11-23T18:19:10.151Z
 tags:
 editor: markdown
 dateCreated: 2021-06-10T13:56:57.206Z
