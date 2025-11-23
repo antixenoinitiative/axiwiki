@@ -2,7 +2,7 @@
 title: Staggering Gauss Fire
 description: The advantages and different ways you can stagger gauss fire.
 published: true
-date: 2025-11-23T18:38:33.161Z
+date: 2025-11-23T19:02:34.433Z
 tags: combat, weapons, controls
 editor: markdown
 dateCreated: 2021-06-24T06:27:14.908Z
@@ -38,6 +38,10 @@ This is a “easier” version of overlapping, with good alpha damage but slight
 This is the “ultimate” tecnique. it offers the best sdps, with the best heat characteristics (without using a macro), but it’s also the hardest to learn. however, once one gets to practicing it and builds the muscle memory, it becomes basically second nature. This tecnique consists of dividing your gauss into two triggers, and then overlapping them to start charging one set of gauss while the other still hasn’t fired, but is close to.
 
 [https://youtu.be/KclGzsahbPU?si=FWkmEd0jkUbwm\_2L](https://youtu.be/KclGzsahbPU?si=FWkmEd0jkUbwm_2L)
+
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/I2tpYSQGIb8?si=pl0Z7tGSde1AzBtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
+</div>
   
 ## Minigun
 
