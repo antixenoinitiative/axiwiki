@@ -1,9 +1,9 @@
 ---
 title: Recommend Builds (old page)
-description: null
+description:
 published: true
 date: 2025-02-01T20:56:46.745Z
-tags: null
+tags:
 editor: markdown
 dateCreated: 2025-02-01T19:36:32.180Z
 ---
@@ -62,8 +62,8 @@ This build has a Thermal Vent Beam Laser instead of Flak, and brings a Shutdown 
 
 The "repairless" build below is specifically for active port defense where repairs are readily available. For space AXCZ, it is necessary to take your own repairs with you. The Modified Shard Cannons on the "repairless" build can be swapped for Modified Plasma Chargers, or perhaps a mix of 2x Modified Plasma Chargers and 2x Class 3 Enhanced Multi-Cannons.
 
-[AXCZ Krait Mk.II Build](https://edsy.org/s/vV4BbtW)\
-[AXCZ Krait Mk.II repairless Modified Shard Cannons Build](https://edsy.org/s/vhgo1XR)\
+[AXCZ Krait Mk.II Build](https://edsy.org/s/vV4BbtW)  
+[AXCZ Krait Mk.II repairless Modified Shard Cannons Build](https://edsy.org/s/vhgo1XR)  
 [AXCZ Krait Mk.II repairless Modified Plasma Chargers & Enhanced AXMC Build](https://edsy.org/s/vdUt2Qh)
 
 ### Maelstrom Krait Mk.II
@@ -78,7 +78,7 @@ The Krait Mk.II is a tried and true favorite of maelstrom divers, as it offers s
 - Speed: 385m/s, 530m/s boost
 - Hull: 3,050
 
-[Maelstrom Krait Mk.II Build](https://edsy.org/s/vKhEdCd)\
+[Maelstrom Krait Mk.II Build](https://edsy.org/s/vKhEdCd)  
 [Build Video](https://www.youtube.com/watch?v=DaOp39Oksqc) by CMDR Mechan
 
 ### Low-Engineering Krait Mk.II
