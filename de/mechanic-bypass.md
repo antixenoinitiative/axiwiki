@@ -2,17 +2,19 @@
 title: Mechaniken überspringen
 description: Wie man bestimmte Mechaniken im Thargoid-Kampf überspringt
 published: true
-date: 2021-08-20T01:57:10.991Z
+date: 2025-11-23T21:38:59.313Z
 tags: Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
 ---
 
-# Sleep Phase Mechanics
+# Interceptor Mechanics Bypass
 
 Thargoid Interceptor haben einige Spezialangriffe (mehr dazu auf der Seite [Spezialangriffe](/en/special-attacks)), die sie einsetzen nachdem ein Herz zerstört wurde. Für kaustische Raketen, das Abschaltfeld und den Panikschild muss der Interceptor ein **Ziel aufgeschaltet** haben, damit er sie einsetzen kann (ähnlich zu Suchraketen).
 
 Nachdem ein Thargoid Herz zerstört wurde, versucht der Interceptor ein **Ziel aufzuschalten**. Der Interceptor kann nur **aufschalten**, wenn das jetztige aktive Ziel (am meisten Schaden gemacht) eine Hitzesignatur über dem **Mindest-Erfassungswert** (~20%) hat, oder innerhalb der **Mindest-Erfassungsreichweite** (~700m) ist.
+
+## Sleep Phase
 
 Der Interceptor wird **35** ** Sekunden** lang versuchen ein **Ziel aufzuschalten**. Dies nennt man die **„Schlafzustand“**. Nach dieser Phase gibt der Interceptor auf ein Ziel zu finden und lässt einen neuen [Thargon Schwarm](/en/thargon-swarms) frei (wenn es momentan keinen gibt) und macht mit dem Kampf weiter. _ Das überdpring praktisch allen kaustischen Raketen oder Abschaltfelder, die hätten eingesetzt werden sollen._
 
@@ -24,9 +26,20 @@ Das 'aktuelle Ziel' kann sich ändern, während sich der Thargoid im Schlafzusta
 
 Wenn du den vorherigen Schwarm **während** der aktuellen Schlafphase zerstörst, feuert der Thargoid **eine Salve der Hauptkanone ab** und lässt dann einen Schwarm frei. Wenn du den vorherigen Schwarm zerstörst **bevor** die aktuelle Schlafphase begonnen hat, wird das alles nicht passieren und die Thargoid wird den Schwarm sofort bereitstellen.
 
-## Kampftaktiken
+## Caustic Missile Blocking
+Thargoid Caustic missiles are launched in volleys, and when in a multi-CMDR fight, there will be one volley of missiles assigned for each CMDR that the Interceptor is in combat with at the time the missiles are activated. When the Thargoid Interceptor is able to successfully begin a Caustic Missile attack, each volley for each commander is launched sequentially, one after the other until each volley has been deployed. **If the ‘current target’ is detected and triggers a Caustic Volley, all other CMDRs will also get a volley assigned, regardless of heat and distance.**
 
-### Einzelkämpfertaktik
+When the Interceptor launches a volley, it must be able to make a **Target Lock** on them to fire. The Thargoid Interceptor can only make a **Target Lock** when the volley target has a heat signature above the **minimum detection threshold** (~20%) or are within the **minimum detection range** (~700m).
+
+If the Interceptor cannot get a **Target Lock** on the specific CMDR for that volley, it will wait **indefinitely** until it can get it. This effectively put **ALL** other caustic missiles on-hold **until the pending volley is fired**. ***Aka: The Thargoid is now ***constipated******.
+
+Should the target of the pending volleys remain cold and undetectable for the rest of the fight, **the Interceptor will not be able to fire any more Caustic Missiles.**
+
+It is worth noting that unlike triggering the volley itself (which requires you to be within 3km), if a volley is assigned to you and, for example, 2 out of 3 missiles are launched before you become undetectable, the last missile can be launched at any range and at any time as soon as your heat goes above the detection range.
+
+# Kampftaktiken
+
+## Einzelkämpfertaktik
 
 In einem Solokampf kann die Schlafmechanik benutzt werden, um die speziellen Fähigkeiten zu überspringen (**Abschaltfeld** und **Kaustische Raketen**), was die Chance ermöglicht, besondere **Rammtaktiken** zu benutzen, um die [Thargoid-Schilde](/en/shields) sehr schnell zu zerstören.
 
@@ -48,7 +61,7 @@ Zum Beispiel:
 
 Den Interceptor zu rammen bevor er den Schwarm freilässt, wird im Solo-Kampf nicht funktionieren, weil er dann den "Panikschild" aktiviert.
 
-### Strategien für Wings
+## Strategien für Wings
 
 Die Wing-Strategien, die den Schlafzustand ausnutzen, beinhalten die **Einzelkämpfertaktik**, die oben genannt wurde plus die Möglichkeit einen Mitspieler den fehlenden Aggro ausnutzen zu lassen.
 
@@ -67,7 +80,7 @@ Näturlich zählt jeglicher Schaden, der während der **Zielwechsel-Sperre** aus
 
 Außerdem kann, sobald der Schild zerstört wurde jeder außer der mit Aggro auf den Interceptor feuern, das Herz freilegen und zerstören, bis der Schlafzustand aufhört. Nach den ersten 35 Sekunden löst das noch einen Schlafzustand aus und der Interceptor wird keinen Schwarm aussenden oder seine Kannone abfeuern, während er von der ersten zur zweiten Schlafphase übergeht. Damit haben Wings einen einfachen Weg den Interceptor festzusetzen und zu töten, ohne Schaden zu nehmen (außer das Rammen).
 
-### Panikschilde
+# Panikschilde
 
 *Für einen detailierteren Überblick über Panikschilde, besuche* [***_Thargoid-Schilde_***](/en/shields)
 
