@@ -2,7 +2,7 @@
 title: Speedrunning Guide
 description: Can kill goids? Yes? But can you kill them quick?
 published: true
-date: 2025-11-23T15:43:38.536Z
+date: 2025-11-23T15:46:43.235Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-10T13:56:57.206Z
@@ -64,11 +64,11 @@ Avoiding detection will let the sleep phase play out fully.
 
 Shield ramming can be used in any type of speedrun whether it's **cold orbiting** or **stunlocking**. Ramming interceptor's shield most of the time implies triggering **special attack** as a result of violating minimum range for:
 
-· **Lightning** if interceptor is active;
+- **Lightning** if interceptor is active;
 
-· **Caustic missiles** if interceptor is in sleep phase;
+- **Caustic missiles** if interceptor is in sleep phase;
 
-· **Shutdown field** if it's second to last sleep phase (along with caustic missiles).
+- **Shutdown field** if it's second to last sleep phase (along with caustic missiles).
 
 Let's break down the most common shieldrams:
 
@@ -76,17 +76,17 @@ Let's break down the most common shieldrams:
 
 After destroying first heart interceptor initiates a **lightning chase** which:
 
-   · Encourages us to ram it's shield;
+- Encourages us to ram it's shield;
 
-   · Blocks interceptor's ability to deploy **panic shield** regardless of how fast this shield will get destroyed.
+- Blocks interceptor's ability to deploy **panic shield** regardless of how fast this shield will get destroyed.
 
 Lightning does insignificant amount of hull damage because of it's low AP so it's a common trade of ship hull for instant shield removal.
 
 To successfully ram shield off you need to:
 
-· Back off a little bit from interceptor after destroying it's first heart;
+- Back off a little bit from interceptor after destroying it's first heart;
 
-· Line up and boost into the interceptor so you ram shield before zap kills your momentum.
+- Line up and boost into the interceptor so you ram shield before zap kills your momentum.
 
 Usually lightning duration is enough to exert and destroy next heart after successful shieldram.
 
@@ -98,11 +98,11 @@ And that's where it's getting more complicated, because without full knowledge o
 
 To successfully ram shield off you need:
 
-· Count to 7 (every second) from the moment when shield got deployed (cue: green dots and lights along with "exhale" noise)
+- Count to 7 (every second) from the moment when shield got deployed (cue: green dots and lights along with "exhale" noise)
 
-· Trigger **caustic missiles** and wait until *_ALL_* of them are released (cue: after releasing all caustic missiles, interceptor petals stop glowing bright red)
+- Trigger **caustic missiles** and wait until *_ALL_* of them are released (cue: after releasing all caustic missiles, interceptor petals stop glowing bright red)
 
-· Line up for the ram and boost
+- Line up for the ram and boost
 
 Without those steps one may end up triggering **panic shield** either due to **overwhelming shield damage** or **countermeasure deployment**.
 
