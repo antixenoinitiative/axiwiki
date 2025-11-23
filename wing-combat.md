@@ -2,7 +2,7 @@
 title: Wing AX Combat
 description: AX combat and how to effectively fight in wings.
 published: true
-date: 2025-11-23T15:05:13.788Z
+date: 2025-11-23T15:05:33.245Z
 tags: wing, murderball, discoball, ax cz
 editor: markdown
 dateCreated: 2023-08-06T01:43:08.175Z
@@ -16,7 +16,7 @@ dateCreated: 2023-08-06T01:43:08.175Z
  - Before a shield drops, have your wing ready to simultaneously attack. The more people atttacking, the greater the dps, the faster the exert, and the less gauss/heatsinks used per attack run.
 3. Mind the Aggro
  - The damage you deal can be used to pull aggro off a wingmate. It can also inadvertently interfere with a wingmate kiting the Thargoid. Be aware of what impact your damage will have. Communicate with your wingmates.
->  Update 15 changed Interceptor aggro behavior. Damage is no longer the biggest factor, heat and line-of-sight have the major effect on the aggro now. Aggro can be difficult to control in areas like AXCZs.
+>  Update 15 changed Interceptor aggro behavior. Damage is no longer the biggest factor, heat and line-of-sight have the major effect over the aggro now. Aggro can be difficult to control in areas like AXCZs.
 {.is-info}
 
 4. Warn about the Swarm
