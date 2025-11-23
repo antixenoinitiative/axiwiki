@@ -2,7 +2,7 @@
 title: Large Ship Guide
 description: Combat guide for Large Ships
 published: true
-date: 2025-11-22T14:05:44.298Z
+date: 2025-11-23T16:09:24.227Z
 tags: combat, thargoids
 editor: markdown
 dateCreated: 2021-06-17T05:29:18.657Z
@@ -35,7 +35,7 @@ Prismatics or A-rated shields are interchangeable (though Prismatics are better)
 
 You can replace shield boosters with a shutdown field neutralizer or xeno scanner. A xeno scanner is functionally a waste of slot in solo fights, but it is advisable to have at least one person bring a scanner when doing wing-combat.
 
-> Find a selection of reference builds on the [Recommended Builds](/en/shipbuildtheory) page.
+> Find a selection of reference builds on the [Recommended Builds](/en/builds) page.
 {.is-info}
 
 ### Other Large Ships
