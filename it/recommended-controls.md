@@ -2,7 +2,7 @@
 title: Recommended Control Scheme
 description: Best suggested controls for Combat in Elite
 published: true
-date: 2025-11-21T04:36:12.712Z
+date: 2025-11-23T16:31:34.799Z
 tags: combat, controls
 editor: markdown
 dateCreated: 2021-06-21T04:46:46.489Z
@@ -14,7 +14,7 @@ dateCreated: 2021-06-21T04:46:46.489Z
 
 For those new to anti-xeno or combat in general, there are a number of binds which are necessary for Thargoid combat that may not be easily accessible or bound at all without doing it manually. These binds will be used regularly and should be comfortable to reach from a neutral hand position over thrust controls, or from your mouse.
 
-On top of the standard thruster binds you will need
+On top of the standard thruster binds you will need:
 
 - Cycle next fire group and/or Cycle previous fire group (only one is necessary but both is nice)
 - Silent running
@@ -24,21 +24,17 @@ On top of the standard thruster binds you will need
 - Flight assist
 - Boost
 
+## Mouse Settings
+
 The following are recommended mouse settings which **enable relative mouse control** (the cursor returns to the center of the reticule without player input). This dramatically increases your aim because it makes it easier to make small adjustments in FA-off. **Rebind yaw to mouse X axis and roll to the Q and E for QWERTY keyboards or A and D for AZERTY keyboards.** Ensure that **flight assist is** **set to toggle**.
 
 _Although KBM is typically the most precise input form, you may find a different setup is more suited to yourself, find what works for you, experiment!_
 
 ![](/mousecontrolstoggle.png)
 
-Mouse settings
-
 Maneuvering in supercruise with relative mouse enabled is tedious. There are two main solutions this.The above image shows a disable relative mouse, which can be made a toggle or hold down. The second option is to bind pitch yaw and roll somewhere else on your inputs, like a number pad.
 
-The AXI strongly recommends backing up controls. Elite will sometimes reset controls when inputs are changed or the game is updated and this is the best way to avoid losing all of your personal binds.
-
-This can be done by finding your bindings folder, and making a duplicate of that, to be used as a replacement if an update breaks the orignals.
-
-The default file path for a steam installation will be \[C:\\Users\\USER\\AppData\\Local\\Frontier Developments\\Elite Dangerous\\Options\\Bindings\]. Best practice will be to save the entire bindings folder as a replacement, but making a personal bindings file and backing just that up is also a good option.
+## Fire Groups & Binds
 
 The other main leg of ship setup involves fire groups, night vision, and lights. Night vision and ship lights come down to personal preference, but in many combat areas the lighting will be poor and limit overall visibility. It is recommended that at least night vision is turned on to combat this poor lighting, and increase the thargoid heart visibility. This is done by opening up the right hand ship panel (default for this on keyboard is 4 on the number row). It will be inside the SHIP tab and is a simple toggle. Ship lights are in the same tab, and help some but are not necessary.
 
@@ -54,15 +50,23 @@ Secondary to heat management and directly related to input method, is how your h
 
 Lastly to consider is ease of use. Your guardian weapons will be separate fire groups from your utility, but how you mix and match your utility depends on your specific loadout. In a full build with flak, repairs, and thermal vent beams, the general guidance is to place repair limpets and your beams, on primary and secondary of the same group, and have flak and beam on a separate group. This allows you to keep your ship cool without sinks any time you are in beam range of the thargoid, and separates flak and repairs, since you are more likely to be hit while killing the swarm.
 
-![](/controllerfiregroups.jpg)
+> Example of standard K&M or HOTAS / HOSAS firegroups, which leave heatsinks to their own bind. (Remember to bind a hotkey for Heatsinks in Settings.) {.is-success}
 
-Example of limited input firegroup setups to allow easy use of heatsinks.
+![](/k&mfiregroups.jpg =600x)
 
-![](/k&mfiregroups.jpg)
+> Example of limited input firegroup to allow easy use of heatsinks. (For example if your input device or setup does not allow for the use of more hotkey binds.)
 
-Example of standard K&M binds, which leave heatsinks to their own bind.
+![](/controllerfiregroups.jpg =250x)
 
-# Reference Keybinds (Odyssey only! These will not work with Legacy)
+# Keybinds Backup
+
+The AXI strongly recommends backing up controls. Elite will sometimes reset controls when inputs are changed or the game is updated and this is the best way to avoid losing all of your personal binds.
+
+This can be done by finding your bindings folder, and making a duplicate of that, to be used as a replacement if an update breaks the orignals.
+
+The default file path for a steam installation will be \[C:\\Users\\USER\\AppData\\Local\\Frontier Developments\\Elite Dangerous\\Options\\Bindings\]. Best practice will be to save the entire bindings folder as a replacement, but making a personal bindings file and backing just that up is also a good option.
+
+## Reference Keybinds (Odyssey only! These will not work with Legacy)
 
 These are "reference" (mouse and keyboard only) binds which can be used as the basis to edit and add additional devices. They should always load, and work well out-of-the-box:
 [mechan_mkb_v6.4.2.binds](/mechan_mkb_v6.4.2.binds)
