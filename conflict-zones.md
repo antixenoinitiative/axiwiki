@@ -2,7 +2,7 @@
 title: Conflict Zones Guide
 description: A guide to AX Conflict Zones
 published: true
-date: 2024-09-10T14:36:19.546Z
+date: 2025-11-23T21:35:30.757Z
 tags: combat, interceptors, axcz
 editor: markdown
 dateCreated: 2021-06-21T02:06:34.482Z
@@ -20,13 +20,16 @@ When it comes to looking for AXCZs, you will be able to find them in systems in 
 
 Whilst standard AX builds may seem like a good idea, there are a few modifications you will need to make in order to better stand a chance in an AXCZ.
 
-Read more about general Anti-Xeno ships in our [Ship Builds Section](/en/builds).
+> Read more about Anti-Xeno ships in our [Ship Builds Section](/en/builds). You can find general AX and AXCZ Builds there.
+{.is-info}
 
-Firstly, [decontamination limpets](/en/internals) (or use of an alternative such as overheating) are highly recommended. Unlike solo Interceptor fights, you are very likely to have the caustic DoT effect applied to you (and not just once either). As with repair limpets, higher class controllers are recommended due to the greater repair rate. Along with a decontamination limpet controller, you will obviously want a cargo rack. You will need a lot of limpets, so a C4 or larger is recommended.
 
-Having a Shutdown Field Neutraliser can be very helpful, since Shutdown Pulses happen very often within an AXCZ. The usual cold mechanics can still be used, but NPCs will often trigger the last heart pulses in addition to the pulses when a new interceptor drops in.
+Firstly, you should be prepared to deal with caustic. **Caustic Sinks** are very useful equipment but not required, you can get rid of caustic by overheating your ship deliberately. Older decon limpets have largely fallen out of favor.
+Unlike solo Interceptor fights, you are very likely to have the caustic DoT effect applied to you (and not just once either). As with repair limpets, higher class controllers are recommended due to the greater repair rate. Along with a decontamination limpet controller, you will obviously want a cargo rack. You will need a lot of limpets, so a C4 or larger is recommended.
 
-These Conflict Zones can take a while to complete so it’s wise to stock up on synthesis materials beforehand to ensure you’ll have enough heatsinks and flak to last the entire fight. Bringing gauss synths is recommended as well in case you run out of ammo and cannot go back to the station to resupply (being solo or needing to keep the instance going for your wing).
+Having a **Shutdown Field Neutraliser** is recommended, since Shutdown Pulses happen very often within an AXCZ. The usual cold mechanics can still be used, but NPCs will often trigger the last heart pulses in addition to the pulses when a new interceptor drops in.
+
+These Conflict Zones can take a while to complete so bring heatsinks, ammo and limpets to last the entire fight. It’s wise to stock up on materials beforehand to ensure you’ll have enough synths in case you run out of ammo and cannot go back to a nearby station to resupply (being solo or needing to keep the instance going for your wing).
 
 Long-range thermal vent beam lasers can be of great use. They allow you to:
 
@@ -65,13 +68,13 @@ Their damage to the NPCs is negligible, you can alternate between both of them a
 
 In a full wing, after taking out 2 hearts on a Cyclops, it should be relatively easy to kill it without destroying the final 2 hearts by concentrating fire on it. Failing this, taking out its second to last heart and maintaining fire should see the Cyclops dead before it has time to activate the Shutdown Field.
 
-### **Solo Cyclops and a more powerful interceptor**
+### Solo Cyclops and a more powerful interceptor
 
 Medusa can make short work of the NPCs, so you can either take out the Cyclops as fast as possible and then work on the Medusa (better in a wing), or, try to separate the Medusa from the CZ and fight it as you would solo. A Basilisk is not as big a threat to the NPCs, so you can let them tank it while you take out the Cyclops, and then move to the Basilisk.
 
 Generally, after taking out the last heart on an interceptor a wing should maintain fire and kill the interceptor before it has time to raise its final shield. Always call out when you take out the 2nd last heart as this will trigger a Shutdown Field.
 
-### **Two Basilisks or more powerful interceptors**
+### Two Basilisks or more powerful interceptors
 
 These will very quickly reduce the NPCs to scrap, and it takes tremendous skill to engage and defeat both of them at once if you are alone. Separating one of them from the fight and fighting it solo is pretty much your only option (other than retreating of course).
 
@@ -93,14 +96,15 @@ Upon destroying the Hydra you will be presented with a 60,000,000 CR bond, as us
 
 When fighting in an AXCZ, many different bugs can appear. It’s important to be able to identify them and know how to deal with them in order to complete the zone.
 
-Infinite Scouts: Sometimes the Interceptors won’t jump in and you’ll be stuck with endless waves of scouts. They will keep coming even after the progress bar is full, and the battle won’t end. One solution is to just jump out and reset the instance, or kill enough scouts to fill the bar and then fly out far from the AXCZ POI (around 30-50km should be enough) which should complete the zone.
+- Interceptors won’t jump in or stuck with endless waves of scouts? One solution is to just jump out and reset the instance (try one person at a time when in multiplayer), or fly out far from the AXCZ POI (around 30-50km should be enough), this can sometimes soft-reset it.
 
-Multiple progress bars, progress bars not appearing: This can be resolved by resetting the instance (sometimes leaving the zone is enough, but sometimes everyone will need to log out to the main menu)
+- Multiple progress bars, progress bars not appearing: This can be resolved by resetting the instance (often just one person leaving the zone is enough, but sometimes everyone will need to leave)
 
-NPCs becoming hostile: Accidentally hitting an NPC (even with flak) will get you a bounty, and if the NPC dies, you’ll get a murder bounty as well as notoriety.
+- AX NPCs: Accidentally hitting an NPC (even with flak) will get you a bounty, and if the NPC dies, you’ll get a murder bounty as well as notoriety.
+- NPC point defence will shoot down your flak: Self-explanatory, not much you can do about it
 
-NPC point defence will shoot down your flak: Self-explanatory, not much you can do about it
+- Wing/Networking bugs, such as rubberbanding, multiple swarms and shields, caustic missile spam and EMPs.
 
-Be ready for wing/networking bugs, such as rubberbanding, multiple swarms and shields, caustic missile spam and EMPs
+> Many bugs occuring during multiplayer in Elite: Dangerous are related to Networking. See [Port Forwarding](/en/port_fwd_guide) to deal with them.
 
-Whenever someone jumps into the instance, this will cause a new wave of NPCs and scouts to appear. Be careful, as multiple CMDRs joining late can lead to massive amounts of scouts in the AXCZ.
+Whenever someone jumps into the instance, this can cause a new wave of NPCs and scouts to appear. Be careful, as multiple CMDRs joining late can lead to massive amounts of scouts in the AXCZ.
