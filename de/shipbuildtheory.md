@@ -2,7 +2,7 @@
 title: Schiffs Build Theorie
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2023-06-01T20:20:48.004Z
+date: 2025-11-24T18:53:55.195Z
 tags: Builds, Theorie, Engineering, Ausrüstung
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -42,6 +42,8 @@ Vermeide häufige Fehler, die man [hier](/en/commonmistakes) finden kann.
 
 # Intern (Basis)
 
+Core Internals stay largely the same across different AX build types, similarly to other combat in Elite.
+
 ## Hüllenpanzerung
 
 **Die Meta:** Militärische Legierungen mit Heavy Duty und Deep Plating als experimenteller Effekt. Bei AX sind Resistenzen egal und HD-Militär bringt den größten Gesundheitspool. Verstärkte Legierungen sind modifiziert gegenüber Militär und Leichtgewicht Legierungen einfach unterlegen. Und Gespiegelte Hülle und Reaktivpanzerung erhöhen nur den Rebuy und bieten nicht mehr absolute Hülle.
@@ -70,7 +72,9 @@ Vermeide häufige Fehler, die man [hier](/en/commonmistakes) finden kann.
 
 **Die Meta:** Klasse A in der größten verfügbaren Größe mit dem Erhöhte Reichweite-Bauplan und dem Massemanager-Experiment. Thargoid findet man in "Blasen" im All, also ist es für den AX-Kampf wichtig, sich in einer kleinen Reichweite bewegen zu können.
 
-**Alternative:** 2D FSD with grade one fast boot and Stripped Down experimental - provides a small speed boost at the cost of being unable to jump your ship any meaningful distance.
+**Supercruise Overcharge (SCO):** It is absolutely worth replacing your old FSDs with new ones for AX! The extra bit of range is apreciated, but the faster supercruise adds great quality of life to signal source hunting!
+
+**Alternative:** 2D FSD with grade one fast boot and Stripped Down experimental - provides a small speed boost at the cost of being unable to jump your ship any meaningful distance. This is generally not recommended unless absolute weight minmaxing is wished for.
 
 ## Lebenserhaltung
 
@@ -92,7 +96,9 @@ Vermeide häufige Fehler, die man [hier](/en/commonmistakes) finden kann.
 
 # Intern (optional)
 
-Beim optionalen internen Loadout liegt der Hauptunterschied zwischen verschiedenen Build-Stilen und kann von Commander zu Commander stark variieren. Unten sind die drei allgemeinen Loadouts der drei Build-Typen. For more information on the uses of each optional internal, refer to the [Core and Optional Internals](/en/internals) page.
+Beim optionalen internen Loadout liegt der Hauptunterschied zwischen verschiedenen Build-Stilen und kann von Commander zu Commander stark variieren. Below are the three general loadouts to use:
+
+For more information on specific optional internal modules, refer to the [Optionals & Utility Page](/en/optionals) page.
 
 
 ## Kalte Orbiter
@@ -101,6 +107,11 @@ Beim optionalen internen Loadout liegt der Hauptunterschied zwischen verschieden
 - 2A AFMU
 - HRPs in the rest of the internal slots
 
+> The best setup and method for beginners and experienced pilots alike. 
+> 
+> {.is-success}
+
+
 ## Bi-Weave-Hybride
 - Largest possible Bi-Weave Shield with Reinforce blueprint and either Fast Charge or Lo-Draw experimental.
 - 1A AFMU
@@ -108,13 +119,22 @@ Beim optionalen internen Loadout liegt der Hauptunterschied zwischen verschieden
 - HRPs in the rest of the slots
 - GSRP as per personal preference
 
+> This setup is not recommended for beginners. If used it is better suited for wing-ops with concordant sequence, rather than solo. Even then there are caveats to consider. 
+> 
+> {.is-info}
+
+
 ## Shield Tanks
 - Largest possible Prismatic Shield with Reinforced blueprint and Hi-Capacity experimental
 - Large Shield Cell Banks with Specialized blueprint and Boss Cells experimental
 - One or two GMRPs or MRPs
-- Decontamination Limpet Controller if preferred
 - AFMU, size depending on preference
 - HRPs in the rest of the slots
+
+> This setup is not recommended for beginners. 
+> 
+> {.is-info}
+
 
 # Werkzeug-Steckplätze
 
@@ -124,15 +144,17 @@ Essential for Cold Oribing vessels to dissipate the heat generation of their wea
 ## Caustic Sink Launchers
 These are highly recommended for AXCZs and Maelstroms, and not recommended for solo interceptor combat. This is because, using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95), caustic can be easily avoided in solo fights, and the loss of a heatsink is not worth the niche use.
 
-## Shield Boosters
-Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
+Shielded ships may find them extra useful to get rid of caustic without overheating (and the dropped shield from silent-running when doing so).
 
 ## Xeno Scanners
 Xeno Scanners currently come in three variants: the Xeno Scanner, Enhanced Xeno Scanner, and Pulse Wave Xeno Scanner. The Enhanced version is recommended for use in most cases, as it is a direct successor to the regular variant. The Pulse Wave Xeno Scanner, also known as the thargoid pulse scanner or TPS, is specifically designed to scan Thargoid Titians, and is recommended only for use in Titan dives. While not recommended for use alongside guardian weaponry, bringing a scanner is virtually required with the use of Enhanced AXMCs.
 
 
-## Shutdown Field Neutralizers
+## Shutdown Field / Pulse Neutralizers
 There are two variants of neutralizers: the Shutdown Field Neutralizer (SFN) and the Thargoid Pulse Neutralizer (TPN). The SFN protects you and any other ships within 3km from standard Interceptor shutdown pulses. The TPN protects only your ship from Interceptor pulses, but also allows passage through the much more intense Titan shutdown wave.
 
+## Shield Boosters
+Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
+
 ## Other Modules
-For more information on Xeno Scanners and Shutdown Field Neutralizers, see the [Core and Optional Internals](/en/internals) page.
+For more detailed information and instructions on Xeno Scanners, Shutdown Field Neutralizers, and other optional and utility modules see the [Optionals & Utility](/en/optionals) page.
