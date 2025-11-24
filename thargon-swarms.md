@@ -2,7 +2,7 @@
 title: Thargon Swarms
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: true
-date: 2025-01-19T22:59:09.740Z
+date: 2025-11-24T00:06:48.984Z
 tags: thargoids, interceptors, swarms
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -39,18 +39,15 @@ After some time passes without a heart being destroyed, the Interceptor will ent
 Swarms will user various formations, these can tell us information about it's behaviour and how it will react.
 
 # {.tabset}
-## Ball Formation
+## {.tabset}
+### Ball Formation
 ![embeddedimage_(1).png](/img/embeddedimage_(1).png)
 Left to Right: Cyclops Ball, Medusa Ball
 
-This is the Cyclops’ only non-missile formation, and it is also used by the other variants (though more rarely as they prefer their more advanced formations). This formation is easiest to destroy, requiring only a very few well placed shots in the center of the ball.
+- This is the Cyclops’ only non-missile formation
+- It is also used by the other variants, but since they prefer their more advanced formations it is rarer to see there. 
 
-
-## Ring Formation
-![embeddedimage_(2).png](/img/embeddedimage_(2).png)
-Left to Right: Medusa Ring, Hydra Ring
-
-The dreaded ring formation is the preferred formation with the Medusae and Hydrae. It is significantly more difficult to destroy, with flak shells detonating in the center doing no damage whatsoever. Widely offset flak (such as on the Cutter’s wings) or manually aiming away from the reticle are necessary to deal with this form.
+This formation is easiest to destroy, requiring only a very few well placed shots in the center of the ball.
 
 
 ## Cone/Spiral Formation
@@ -58,6 +55,12 @@ The dreaded ring formation is the preferred formation with the Medusae and Hydra
 Left to Right: Basilisk Cone, Medusa Cone
 
 The Cone or Spiral formation is first used by the Basilisk and it is not uncommon with stronger variants. Much like the Ball formation, this one is easy to destroy, with only several shots at the tip of the spiral needed.
+
+## Ring Formation
+![embeddedimage_(2).png](/img/embeddedimage_(2).png)
+Left to Right: Medusa Ring, Hydra Ring
+
+The dreaded ring formation is the preferred formation with the Medusae and Hydrae. It is significantly more difficult to destroy, with flak shells detonating in the center doing no damage whatsoever. Widely offset flak (such as on the Cutter’s wings) or manually aiming away from the reticle are necessary to deal with this form.
 
 
 ## Death Wall Formation
