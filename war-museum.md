@@ -2,7 +2,7 @@
 title: Thargoid War Museum
 description: Historic preservation of content tied to past thargoid conflict.
 published: true
-date: 2025-11-24T13:45:24.458Z
+date: 2025-11-24T14:10:15.236Z
 tags: thargoids
 editor: markdown
 dateCreated: 2025-11-24T13:44:19.796Z
@@ -13,7 +13,7 @@ dateCreated: 2025-11-24T13:44:19.796Z
 
 
 # Thargoid War Museum
-Historic preservation of content tied to past thargoid conflict.
+Historic preservation of content tied to past thargoid conflict in Elite: Dangerous.
 
 > Thargoid conflict states, mechanics and areas described here are no longer available on the Live version of the game.
 {.is-warning}
