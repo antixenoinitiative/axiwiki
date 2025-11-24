@@ -2,7 +2,7 @@
 title: Interceptorler
 description: Thargoid Interceptorler hakkında
 published: true
-date: 2025-01-21T22:12:56.775Z
+date: 2025-11-24T17:46:29.950Z
 tags: thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-15T10:23:32.433Z
@@ -70,6 +70,6 @@ Parlak yeşil renkler barındıran Hydra türü birtakım fiziksel farklılıkla
 
 During its initial brief appearance, the Orthrus variant could be seen momentarily flying away from Palin's Base before High-Waking away. Herhangi bir savaş mekaniğine sahipmiş gibi gözükmeyen Orthrus, öldürüldüğünde "glitch"e sebep olmuştur. Basilisk'e yakın özellikleri vardır. Doku örneği alındığında, "Basilisk doku örneği" vermiştir.
 
-The Orthrus now fulfills an unknown purpose in the Thargoid fleet, as it is only spotted harvesting Thargoid Probes in NHSS Threat 4. It has no hearts, and flees when attacked. However, it has a powerful shield and will employ an anti-guardian field while trying to flee.
+The Orthrus is speculated to fulfill a sort of intelligence and logistics role within the Thargoid fleet. It is spotted harvesting Thargoid Probes in NHSS Threat 4, they frequently travel between Spiresites and Titans and are seen enter and exit both structures. It has no hearts, and flees when attacked. However, it has a powerful shield and will employ an anti-guardian field while trying to flee. *The Orthrus variant has disappeared together with the Titans and spire sites, for now.*
 
 **Hearts**: 0 **Max Speed**: 115 m/s **Payout**: 15,000,000 Cr
