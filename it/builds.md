@@ -2,7 +2,7 @@
 title: '“Builds” raccomandate'
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2025-11-22T16:15:41.775Z
+date: 2025-11-24T20:11:49.472Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -52,7 +52,7 @@ When starting out, stick to the tried and true. These are our Meta picks. The mo
   - Shield:
   - Firepower: ⭐⭐⭐⭐
 
-  [Meta Build](https://edsy.org/#/L=J950000H4C0S40,LYS15LYS15L3I17EhtH57P_W0LXC15LXC15,CjwG-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00,9onG75I_W0AAAG53K_W0APoG55I_W0AdtJ05J_W0AtyH53G_W0B8gG53L_W0BLeH05G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T056kK25072050Iw2520n051-D05)
+  [Meta Build](https://edsy.org/#/L=J900000H4C0S40,LYS10LYS10L3I10LXC10LXC10EhtH07P_W0,CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00,9onG05I_W0AAAG03K_W0APoG05I_W0AdtG05J_W0AtyJ03G_W0B8gG03L_W0BLeG05G_W0Bb600,15OG05I_W015OG05I_W015OG05I_W0,25T006kK20072000Iw2020n001-D00,Meta_0AX_0Chieftan,AXIN)
 
 
 
@@ -69,11 +69,11 @@ When starting out, stick to the tried and true. These are our Meta picks. The mo
   - Shield:
   - Firepower: ⭐⭐⭐⭐⭐
 
-  Recommendation: Also great for modified shard cannons and plasma chargers.
+  You may drop flak for a fourth Gauss Cannon if you wish. Recommendation: Also great for modified shard cannons and plasma chargers.
 
   Engineering Note: Can comfortably use the same power plant as meta chieftain or even unengineered 6A or 7A, depending on your preferences between power priorities, speed and material or rebuy cost. Check EDSY for minimum engineering based on your specific build.
 
-  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JEA0000H4C0SC0,LYS17EkhH77P_W0LYS17L3I17LYS17,CjwG-YG002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwH-2G002P000S_00,9onG75I_W0AAA00APoGA5I_W0AdtJ05J_W0AsOHA3G_W0BAEGA3L_W0BOmHA5G_W0Bcg0A,,16yG75I_W016yG75I_W025S076kK20072000KU2713qG75I_W020m071-C07)
+  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JEA0000H4C0SC0,LYS17EkhH77P_W0LYS17L3I17LYS17,CjwG-YG002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwH-2G002P000S_00,9onG75I_W0AAA00APoGA5I_W0AdtJ05J_W0AsOHA3G_W0BAEGA3L_W0BOmHA5G_W0Bcg0A,,16yG75I_W016yG75I_W025S076kK20072000KU2713qG75I_W020m071-C07,Meta_0Krait,AXIN)
 
 
 
