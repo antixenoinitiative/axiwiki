@@ -2,7 +2,7 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2025-02-02T03:52:05.081Z
+date: 2025-11-24T18:16:40.401Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -53,7 +53,8 @@ HGEs are the fastest method to grind Grade 5 Manufactured materials. After the J
 If the HGE Finder website doesn't have any systems listed for the material you're looking for, you can use the in-game Galaxy Map to find systems that might spawn it. The contents of a given HGE are determined by system allegiance (Federation/Empire) and minor faction state (Outbreak, War, etc.) and spawn at random in systems in such states. See [Elite Materials](https://sites.google.com/view/elite-materials/collection/manufactured-items) for more information on what material corresponds to each faction state.
 
 ## Other Methods
-While HGEs are the fastest way to farm most manufactured materials, some CMDRs prefer other methods, such as Hot Jupiter, Big Boo, or [Dav's Hope](https://i.redd.it/jak5olaegui01.png).
+While HGEs are the fastest way to farm most manufactured materials, some CMDRs prefer other methods.
+Mission- and Powerplay-rewards can be a decent source of materials.
 
 # Encoded Materials
 ## Jameson's Crashed Cobra
