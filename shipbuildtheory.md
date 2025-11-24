@@ -2,7 +2,7 @@
 title: Ship Build Theory
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2023-06-01T20:20:55.700Z
+date: 2025-11-24T18:27:59.642Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -71,7 +71,9 @@ Avoid making these common mistakes listed [Here](/en/commonmistakes).
 
 **The Meta:**  A-rated in the largest size available with Increased Range blueprint and Mass Manager experimental. Thargoids are often found in "bubbles" of space, so being able to move around in a small range is required for AX combat.
 
-**Alternative:** 2D FSD with grade one fast boot and Stripped Down experimental - provides a small speed boost at the cost of being unable to jump your ship any meaningful distance.
+**Supercruise Overcharge (SCO):** It is absolutely worth replacing your old FSDs with new ones for AX! The extra bit of range is apreciated, but the faster supercruise adds great quality of life to signal source hunting!
+
+**Alternative:** 2D FSD with grade one fast boot and Stripped Down experimental - provides a small speed boost at the cost of being unable to jump your ship any meaningful distance. This is generally not recommended unless absolute weight minmaxing is wished for.
 
 ## Life Support
 
@@ -102,6 +104,10 @@ The optional internal loadout is where the main differences lie between build st
 - 2A AFMU
 - HRPs in the rest of the internal slots
 
+> The best setup and method for beginners and experienced pilots alike.
+{.is-success}
+
+
 ## Bi-Weave Hybrids
 - Largest possible Bi-Weave Shield with Reinforce blueprint and either Fast Charge or Lo-Draw experimental.
 - 1A AFMU
@@ -109,13 +115,20 @@ The optional internal loadout is where the main differences lie between build st
 - HRPs in the rest of the slots
 - GSRP as per personal preference
 
+> This setup is not recommended for beginners. If used it is better suited for wing-ops with concordant sequence, rather than solo. Even then there are caveats to consider.
+{.is-info}
+
+
 ## Shield Tanks
 - Largest possible Prismatic Shield with Reinforced blueprint and Hi-Capacity experimental
 - Large Shield Cell Banks with Specialized blueprint and Boss Cells experimental
 - One or two GMRPs or MRPs
-- Decontamination Limpet Controller if preferred
 - AFMU, size depending on preference
 - HRPs in the rest of the slots
+
+> This setup is not recommended for beginners.
+{.is-info}
+
 
 # Utility Slots
 
@@ -126,6 +139,8 @@ Engineering them with the Ammo Capacity blueprint gives one extra heatsink per l
 ## Caustic Sink Launchers
 These are highly recommended for AXCZs and Maelstroms, and not recommended for solo interceptor combat. This is because, using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95), caustic can be easily avoided in solo fights, and the loss of a heatsink is not worth the niche use.
 
+Shielded ships may also find them extra useful to get rid of caustic without overheating (and the dropped shield from silent-running when doing so).
+
 ## Shield Boosters
 Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
 
@@ -135,7 +150,7 @@ The Enhanced version is recommended for use in most cases, as it is a direct suc
 While not recommended for use alongside guardian weaponry, bringing a scanner is virtually required with the use of Enhanced AXMCs.
 
 
-## Shutdown Field Neutralizers
+## Shutdown Field / Pulse Neutralizers
 There are two variants of neutralizers: the Shutdown Field Neutralizer (SFN) and the Thargoid Pulse Neutralizer (TPN). The SFN protects you and any other ships within 3km from standard Interceptor shutdown pulses. The TPN protects only your ship from Interceptor pulses, but also allows passage through the much more intense Titan shutdown wave.
 
 ## Other Modules
