@@ -2,7 +2,7 @@
 title: Build Repository
 description: Repository of submitted Anti-Xeno Ship Builds
 published: true
-date: 2025-11-24T19:09:22.460Z
+date: 2025-11-24T19:10:59.404Z
 tags: builds, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:55:54.301Z
@@ -16,3 +16,9 @@ There are many different ways to build an Anti-Xeno Ship. The **AXI Ship Build R
 {.is-warning}
 
 -   [Click here to view the full Repository](https://docs.google.com/spreadsheets/d/1tshjtvrFU9lDkd8kGcnsE1dRdGaDwqz-KKAr0RkDzWg/edit?usp=sharing)
+
+<div>
+  <div class="iframeContainer">
+    <iframe class="spreadSheet" src="https://docs.google.com/spreadsheets/d/1tshjtvrFU9lDkd8kGcnsE1dRdGaDwqz-KKAr0RkDzWg/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
