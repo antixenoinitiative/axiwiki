@@ -2,7 +2,7 @@
 title: Поиск таргоидов
 description: How to find Thargoids in Elite Dangerous, from solo interceptors to AX Conflict zones and everything in between
 published: опубликовано
-date: 2025-03-23T15:13:06.985Z
+date: 2025-11-23T23:55:24.836Z
 tags: таргоиды, перехватчики, разведчики
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -15,7 +15,7 @@ dateCreated: 2021-06-15T10:50:27.574Z
 
 Таргоидов можно найти в различных местах, таких как:
 - [Non-Human Signal Sources (NHSS)](/en/nhss) (Pleaides, Witch Head and Coalsack Nebulae)
-- [AX Conflict Zones](/en/finding-thargoids#ax-conflict-zones-axczs)
+- [AX Conflict Zones](/en/finding-thargoids#ax-conflict-zones-axczs) (currently only California Nebula)
 - [Перехват в гиперпространстве](/en/hyperdictions) (Туманности: Плеяды, Голова Ведьмы и Угольный мешок)
 - [Постоянные источники сигналов](/en/static-signals) (Пузырь, туманности: Плеяды, Голова Ведьмы и Угольный мешок)
 - [Таргоидские планетарные объекты](https://canonn.science/codex/the-unknown-structure/?highlight=structure) (туманности: Плеяды, Голова Ведьмы и Угольный мешок)
@@ -36,7 +36,9 @@ Take note - **hyperdictions** will happen in and around these regions, although 
     - ~100ly around **HIP 18390**
   - Only known locations of of AX Conflict Zones (see [below](/en/finding-thargoids#ax-conflict-zones-axczs))
 - #### **Witch Head Nebula**
-    - ~75ly around **Witch Head Sector IR-W C1-9**
+    - ~75ly around **Witch Head Sector IR-W C1-9** >   Be warned that Witch Head is currently full of performance- and gamebreaking issues in Odyssey.
+{.is-warning}
+
 
 ## AX Conflict Zones (AXCZs)
 
@@ -51,6 +53,11 @@ California Sectors:
 - JH-V c2-12 - 1x Medium AXCZ near body 6 (~45Ls), functional.
 
 **We recommend the BA-A e6 High CZ or the JH-V c2-12 Medium CZ.**
+
+> View the [AX Conflict Zones Guide](/en/conflict-zones) to prepare beforehand. 
+> 
+> {.is-info}
+
 
 ## Карта активности
 **Примечание:** эта карта составлена до появления целей сообщества (ЦС) в туманности Угольный Мешок и ЦС, связанных с Salvation, которые вызвали появление НчИС в регионе туманности Угольный мешок и, соответственно расширение региона Плеяд.
