@@ -2,7 +2,7 @@
 title: Optional Internals & Utility Modules
 description: A short introduction to the use of various modules in AX.
 published: true
-date: 2024-09-24T14:33:38.293Z
+date: 2025-11-24T18:57:43.789Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:05:26.162Z
@@ -54,6 +54,25 @@ Once the largest MRP is destroyed, the smaller ones will be damaged very quickly
 
 *GMRPs are also supposed to prevent modules from being shut down by lightning attacks. Instead, they only add another module to the pool that can be shut down. We don’t recommend testing this out yourself*.
 
+## Repair Limpet Controller
+The repair limpet controller allows you to deploy a limpet from your cargo hold that will repair your ship's hull and canopy. The controller requires a cargo rack with at least 1x Limpet. The Limpet can also be sent to another player’s ship if it is within range. These are a staple of shieldless builds, allowing for a ship to return to 100% hull in between hearts.
+
+**D-rated Repair Limpet Controllers are generally recommended**, as these weigh less and use less power than all other ratings.  D-class Repair Limpet Controllers **repair the same amount of hull damage as all other ratings**, but the trade-off is that D-class Repair Limpet Controllers have a shorter range than A- or B-rated Controllers.  The Repair Limpet Controller is primarily for self-repairs, and wingmates can come to you if they need help with repairs.  
+
+Whilst Multi-function Limpet Controllers also include repair functionality, they do so at the cost of reduced capability,  extra weight and extra power consumption.  For example, a 7A Universal Limpet Controller repairs the same amount of hull damage as a Class 5 Repair Limpet Controller (310 hull points), but has a mass of 125T and a power draw of 1.1MW.  A 7D Repair Limpet Controller would fit in the same internal slot and repairs almost 50% more per limpet (450 hull points) and has a mass of only 32T and a power draw of 0.41MW.
+
+## Auto Field-Maintinence Unit (AFMU)
+The AFMU allows autonomous repair of internal modules without needing to return to a station. Used in combination with MRPs, the AFMU keeps your MRPs at full health, negating most of the damage to your other modules.
+
+A-rated AFMUs provide more efficient repairs, they repair more integrity per unit of Ammo used, so contrary to some popular believe they provide more total repair capacity than B-rated. Size increases the ammo capacity. Most shieldless builds will bring a class 1-3 AFMU, providing a good balance between repair capacity, power requirement and effective hull given up.
+
+
+## Experimental Weapons Stabilizer
+This module comes in two classes, class 3 and class 5, increasing the experimental weapon limit by 1 and 2 respectively.
+This module is very useful for ships using human AX weaponry. It is not very useful for meta ships using guardian tech, as the added weapons cannot be sustained by the power distributor for long in most cases. 
+
+There are however exceptional use cases, such as [speedrunbuilds](/en/speedrunbuilds) or orthrus hunters, which often run 5-6 guardian weapons.
+
 ## Guardian Shield Reinforcement Package
 
 Guardian Shield Reinforcement Packages (GSRP) increase your shield's total MJ capacity by a fixed amount. This also extends the recharge time accordingly.
@@ -64,20 +83,6 @@ GSRPs work best with bi-weaves because of the shield regeneration and recovery e
 
 *Credit to CMDR Vengefire and CMDR Jetlagged*
 
-## Repair Limpet Controller
-The repair limpet controller allows you to deploy a limpet from your cargo hold that will repair your ship's hull and canopy. The controller requires a cargo rack with at least 1x Limpet. The Limpet can also be sent to another player’s ship if it is within range. These are a staple of shieldless builds, allowing for a ship to return to 100% hull in between hearts.
-
-D-rated Repair Limpet Controllers are generally recommended, as these weigh less and use less power than all other ratings.  D-class Repair Limpet Controllers repair the same amount of hull damage as all other ratings, but the trade-off is that D-class Repair Limpet Controllers have a shorter range than A- or B-rated Controllers.  The Repair Limpet Controller is primarily for self-repairs, and wingmates can come to you if they need help with repairs.  
-
-Whilst Multi-function Limpet Controllers also include repair functionality, they do so at the cost of reduced capability,  extra weight and extra power consumption.  For example, a 7A Universal Limpet Controller repairs the same amount of hull damage as a Class 5 Repair Limpet Controller (310 hull points), but has a mass of 125T and a power draw of 1.1MW.  A 7D Repair Limpet Controller would fit in the same internal slot and repairs almost 50% more per limpet (450 hull points) and has a mass of only 32T and a power draw of 0.41MW. 
-
-## Experimental Weapons Stabilizer
-This module comes in two classes, class 3 and class 5, increasing the experimental weapon limit by 1 and 2 respectively.
-This module is very useful for ships using human AX weaponry. It is not very useful for ships using guardian tech, as the added weapons cannot be sustained by the power distributor in most cases.  There are however exceptional use cases, such as the ["CytoPlasmaConda" build](https://edsy.org/s/v0cjudk) used at [Thargoid Spire Sites](/Spire-Operations), which runs 6 Modiifed Plasma Chargers.
-
-## Auto Field-Maintinence Unit (AFMU)
-The AFMU allows autonomous repair of internal modules without needing to return to a station. Used in combination with MRPs, the AFMU keeps your MRPs at full health, negating most of the damage to your other modules.
-The repair speed of an AFMU is determined solely by its rating, with A rated AFMUs providing the fastest repair speed. Thus, the only difference in size is the repair capacity. Most shieldless builds will bring a class 1-3 AFMU, providing a good balance between repair capacity and effective hull lost.
 
 # Utility Modules
 
@@ -126,7 +131,7 @@ Generally, when you hear a shutdown pulse warning, dump pips to SYS, count to th
 ## Heatsink Launcher
 If your AX build doesn't have these, something is very wrong. Heatsinks are the only viable way of venting the extreme heat created by Guardian weaponry. They can either be bound to a firegroup or a dedicated hotkey. They require a small amount of SYS capacitor to use and provide 2 MW of WEP capacitor regeneration for their 10-second duration, in addition to providing rapid cooling. Heatsinks allow cold orbiting, which causes the Thargoid to miss most or all of its shots. For more information, see Cold Orbiting.
 
-"Sirius" Pre-engineered heatsinks can be purchased in unlimited supply from Sirius Corp. Megaships, and contain an additional two heatsinks per ammunition loadout.  One Sirius Heatsink costs the following in engineering materials:
+**"Sirius" Pre-engineered heatsinks** can be purchased in unlimited supply from Sirius Corp. Megaships, and contain an additional two heatsinks per ammunition loadout.  One **single** Sirius Heatsink costs the following in engineering materials:
 - **8 Mechanical Scrap**
 - **6 Niobium**
 - **6 Vanadium**
@@ -134,4 +139,5 @@ If your AX build doesn't have these, something is very wrong. Heatsinks are the 
 
 ## Caustic Sink Launcher
 Highly recommended for most AX ships, as nearly all Thargoid vessels employ some form of caustic weaponry. These sinks will quickly remove the caustic debuff from your ship automatically, only needing to be ejected when they are full.  They can be purchased with credits from Rescue Megaships.
-They are not recommended for solo Interceptor fights, as caustic missiles can be avoided using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95).
+
+They are not recommended for cold orbit solo builds, as caustic missiles can be entirely avoided using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95).
