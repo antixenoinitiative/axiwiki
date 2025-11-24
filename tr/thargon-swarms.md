@@ -2,7 +2,7 @@
 title: Thargon Swarmları
 description: Thargon Swarmlarının davranış ve mekaniklerine dair detaylı bilgiler
 published: true
-date: 2025-01-19T22:59:09.740Z
+date: 2025-11-24T01:08:06.221Z
 tags: thargoids, interceptors, swarms
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -38,61 +38,105 @@ Kalp parçalanmadan belirli bir süre geçerse Interceptor "enraged" dediğimiz 
 # Uçuş Düzeni
 Swarmlar çeşitli düzenlerde uçar ve buna bağlı olarak davranışları öngörülebilir.
 
-# {.tabset}
-## Top Düzeni
+## Standard
+
+## {.tabset}
+### Ball Formation
 ![embeddedimage_(1).png](/img/embeddedimage_(1).png) Soldan sağa: Cyclops Top, Medusa Topu
 
-Bu Cyclops'un, füze olmayan tek düzenidir ve diğer türler tarafından da (ancak daha nadiren, çünkü daha gelişmiş düzenler tercih ederler). Bu düzen yok edilmesi en kolay olanıdır ve sadece merkezine atılan birkaç isabetli atışla üstesinden gelinebilir.
+- This is the Cyclops’ only non-missile formation.
+- It is also used by the other variants (though more rarely as they prefer their more advanced formations).
+
+Bu düzen yok edilmesi en kolay olanıdır ve sadece merkezine atılan birkaç isabetli atışla üstesinden gelinebilir.
 
 
-## Halka Düzeni
-![embeddedimage_(2).png](/img/embeddedimage_(2).png) Soldan sağa: Medusa Halkası, Hydra Halkası
-
-Korkunç halka düzeni Medusa ve Hydra tarafından tercih edilen düzendir. Yok edilmesi çok daha zordur. Merkezden uzak nişan alınmış saldırılar ancak yok etmeyi başarabilir.
-
-
-## Külah/Sarmal Düzen
+### Cone/Spiral Formation
 ![embeddedimage_(3).png](/img/embeddedimage_(3).png) Soldan sağa: Basilisk Sarmalı, Medusa Sarmalı
 
-Külah ya da Sarmal düzen Basilisk tarafından kullanılmaya başlar ve daha güçlü türlerde çok nadir değildir. Top düzeni gibi bunu da merkeze atılmış birkaç atışla yok etmek kolaydır.
+- The Cone or Spiral formation is first used by the Basilisk.
+- Not uncommon with stronger variants.
 
+Top düzeni gibi bunu da merkeze atılmış birkaç atışla yok etmek kolaydır.
 
-## Ölüm Duvarı Düzeni
+### Ring Formation
+![embeddedimage_(2).png](/img/embeddedimage_(2).png) Soldan sağa: Medusa Halkası, Hydra Halkası
+
+- Korkunç halka düzeni Medusa ve Hydra tarafından tercih edilen düzendir.
+- The Basilisk also has a ring formation to offer, but it is not nearly as wide.
+
+It is significantly more difficult to destroy than other formations; any flak shells detonating in the hollow center will be ineffective. Widely offset flak (such as on the Cutter’s wings) or manually adjusting to aim offset from the reticle are necessary to deal with this form effectively.
+
+## Agitated
+
+## {.tabset}
+### Ölüm Duvarı Düzeni
 ![embeddedimage_(4).png](/img/embeddedimage_(4).png) Soldan sağa: Cyclops Ölüm Duvarı, Medusa Ölüm Duvarı
 
-Ölüm Duvarı, Cyclops'un tek füze düzenidir ve nadiren diğer türler tarafından da kullanılr.
+- The Death Wall (Flat Spiral) is the Cyclops’ only missile formation.
+- It is also used by the other variants (though more rarely as they prefer their more advanced formations).
 
 
-## Ölüm Sarmalı Düzeni
+### Ölüm Sarmalı Düzeni
 ![embeddedimage_(5).png](/img/embeddedimage_(5).png) Soldan sağa: Basilisk Ölüm Sarmalı, Hydra Ölüm Sarmalı
 
-Ölüm Sarmalı, Basilisk tarafından kullanılmaya başlanılan ancak daha güçlü türlerde de karşılaşılan füze düzenidir. Sıradan Külah/Sarmal düzenden farklı olaran bu düzen merkezinde bir boşluğa sahiptir ve yok edilmesi biraz daha zordur. Merkezde patlatılan Flak mermileri daha az hasara sebep olur.
+- The Death Spiral missile formation is first used by the Basilisk.
+- It is not uncommon with stronger variants.
+
+Unlike the regular Cone/Spiral, this formation has a small gap at the center so is more difficult to destroy. Flak shells detonating at the center will cause less damage (but still kill at least a few Thargons).
 
 
-## Ölüm Halkası Düzeni
+### Ölüm Halkası Düzeni
 ![embeddedimage_(6).png](/img/embeddedimage_(6).png) Soldan sağa: Medusa Ölüm Halkası, Hydra Ölüm Halkası
 
-Medusa ve Hydra tarafından sıkça kullanılan füze düzeni olan Ölüm Halkasını vurmaya çalışmak önerilmez. Çok fazla vakit ve mermi israfına sebep olur - bunun yerine füzeleri yemlemeli ve Swarm daha basit bir düzene geçince yok edilmelidir.
+- The Ring of Death is used commonly by the Medusa and Hydra
 
-# İleri Düzey Mekanikler
-## Durumlar
-Thargon Swarm iki durumdan birinde bulunabilir. Bu durumlar uçuş düzeninden bağımsızdır ve durum değişimini tetikleyen tek şey Swarm'ın bir geminin içinden geçmesidir. Bu durumlardan "standart" ve "huzursuz" olarak bahsedeceğiz.
+Attempting to destroy this ring is not recommended. It would cost too much time and ammunition - instead the missiles should be baited and the swarm destroyed in a un-agitated or changed formation.
 
-Bir Swarm her zaman standart durumda konuşlandırılır. Bu durumdayken asla füze düzenine geçmeyecektir, **Interceptor enraged bile olsa**. Buna ek olarak, Interceptor enraged durumundayken de standart Swarm konuşlandırır. Swarm durumu **yalnızca gemi içinden geçince değişir.** (Durum değişimi Swarm ortaya çıktıktan 30 saniye sonrasına kadar, Swarm bir gemi içinden geçse dahi gerçekleşmeyecekir.)
+Many Commanders at the Medusa and Hydra stage will also opt to choose a flakless flying style instead.
 
-Swarm, bir geminin içinden geçerse "huzursuz" durumunu alır. Görünüşünde, standart durumundan bir fark oluşmaz ancak Swarm bu durumdayken zaman zaman (20-30 saniyede bir) füze düzenini alır. Füze düzeni daha yavaş hareket eder (500 m/s yerine 360 m/s) ve Interceptor'ün menzilinde kaldığı sürece ve birkaç füze ateşlenene kadar (genellikle tam sayısının 10-15%'i kadar) bu halini korur. Füzeleri ateşledikten sonra normal düzenlerden birini alır ve huzursuz durumunu korur. Bu durum yalnızca, Swarm bir kez daha bir geminin içinden geçerse ya da mevcut Swarm öldürülür ve yenisi konuşlanırsa sona erer.
+# State Mechanics
+
+## Standard vs Agitated
+Thargon Swarm iki durumdan birinde bulunabilir. Bu durumlar uçuş düzeninden bağımsızdır ve durum değişimini tetikleyen tek şey Swarm'ın bir geminin içinden geçmesidir. We shall refer to these states as ‘**Standard**’ and ‘**Agitated**’.
+
+Bir Swarm her zaman standart durumda konuşlandırılır. Bu durumdayken asla füze düzenine geçmeyecektir, **Interceptor enraged bile olsa**. Buna ek olarak, Interceptor enraged durumundayken de standart Swarm konuşlandırır.
+
+Swarm durumu **yalnızca gemi içinden geçince değişir.** (Durum değişimi Swarm ortaya çıktıktan 30 saniye sonrasına kadar, Swarm bir gemi içinden geçse dahi gerçekleşmeyecekir.)
+
+Swarm, bir geminin içinden geçerse "huzursuz" durumunu alır. Görünüşünde, standart durumundan bir fark oluşmaz ancak Swarm bu durumdayken zaman zaman (20-30 saniyede bir) füze düzenini alır. Missile formations are slower than the regular ones (360m/s as opposed to 500m/s), and a swarm will remain in missile formation indefinitely as long as it remains in effective range of the Interceptor without getting recalled, or until it deploys several missiles (usually 10-15% of the swarm’s maximum number).
+
+Füzeleri ateşledikten sonra normal düzenlerden birini alır ve huzursuz durumunu korur. This state will only end if the swarm passes through a ship once more, "***un-agitation***", or if the swarm is killed and a new one takes its place.
 
 ## Karşı Manevralar
-Swarm, savaş boyunca standart durumda tutulabilir. Bu sebeple, Chieftain gibi çevik bir gemi kullanılarak (özellikle de kalkansız) Flak kullanımına gerek duyulmayabilir. Kalkansız hedeflere karşı caustic mermilerin düşük isabete sahip olması ve Thargon Füzleri'nin engellenmesi Swarm tehdidini büyük ölçüde ortadan kaldırır. Eğer Swarm herhangi bir noktada huzursuz durumuna geçerse füzeleri yemleyip Swarm'ın tekrar içinden geçerek standart durumuna döndürebilirsiniz.
+Swarm, savaş boyunca standart durumda tutulabilir. Bu sebeple, Chieftain gibi çevik bir gemi kullanılarak (özellikle de kalkansız) Flak kullanımına gerek duyulmayabilir. Kalkansız hedeflere karşı caustic mermilerin düşük isabete sahip olması ve Thargon Füzleri'nin engellenmesi Swarm tehdidini büyük ölçüde ortadan kaldırır.
 
-Yemlemenin en kolay yolu size ulaşmasına izin vermek (füze düzeni atış menzilindeyken ~360 m/s hızla hareket eder) ve 3 km menzile girdiğinde ateş etmesini sağlamaktır. 2.9 km menzili koruyarak yaklaşık 300 m/s hızla kaçarak füzelerin size ulaşmadan infilak etmesini sağlayabilirsiniz. Bunu takiben boostlayarak Swarm'ın içinden geçerek standart durumuna döndürün.
+Eğer Swarm herhangi bir noktada huzursuz durumuna geçerse füzeleri yemleyip Swarm'ın tekrar içinden geçerek standart durumuna döndürebilirsiniz.
 
-[Swarm nasıl yemlenir görmek için bu videoyu izleyin.](https://youtu.be/kTBdvXzyYx8)
+### Missile Baiting
 
+The safest and most effective way to un-agitate a Swarm. Easiest way to bait a swarm is to allow it to catch up (missile formation moves at around 360m/s when near firing range) and once it is within 3km missiles will begin to fire. Maintain distance of 2.9km reversing at around 300m/s and the missiles will expire before reaching you, most effectively done in "reverski". Bunu takiben boostlayarak Swarm'ın içinden geçerek standart durumuna döndürün.
+
+Mind that going beyond 3km range mid-missile barrage will interrupt it! Enter <2.9km range again to let the missile barrage finish before you boost through the Swarm!
+
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/kTBdvXzyYx8?si=wgEK7pSdSXPjLdFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
+</div>
 
 Interceptor enraged ise Swarm'ı düşük sayılara indirin (15-30) ve standart durumunu korumasını sağlayın. Eğer huzursuz durum tetiklenirse boostlayak uzaklaşın ve yemleme yöntemini uygulayın. Her birinin ateşlenmesini sağladığınızdan emin olun. Yeni Swarm normal durumda ortaya çıkacaktır.
 
-Ayrıca, Swarm Interceptor'den yaklaşık 10 km uzaklaşırsa arkasını dönüp Interceptor'e dönecektir.
+Ayrıca, Swarm Interceptor'den yaklaşık 10 km uzaklaşırsa arkasını dönüp Interceptor'e dönecektir. (Since Update 15 Interceptors can recall the Swarm much sooner if they lose track of you.)
+
+### Swarm Rerolling
+
+You can use the Interceptors recalling behavior to your advantage to reroll the current Swarm formation into a different one. Move to a medium distance (depending on ship 4-6.5km) and stay cold via silent running or heatsinks, do not beam the Interceptor. After a while the Interceptor should lose track of you, it will recall the swarm in preperation to leave. Wait until the Swarm gets close to its mothership, then gain back the attention of the interceptor by exiting silent-running, heating up or beaming it.
+
+Make sure you act fast - you do not want the Interceptor to leave the Instance by waking out!
+
+After you regained the attention the Swarm will change into an attack formation. It *can* roll the same as the previous one, but with any luck you rolled a new more desirable formation!
+
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/65iXP5w5S0Y?si=UfRxC-Zb95B-uCeq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
+</div>
 
 ## Interceptor ve Swarm'ın Yerlerini Değiştirme
 Bazı durumlarda, mesela Swarm çıktığında çok uzaktaysanız (6 km ötesi), Swarm Interceptor'ün arkasında kalabilir ve yok edilmesi güç hale gelebilir. Yerlerini değiştirmek için Interceptor'e doğru boostlayıp (tam üstüne değil) yanından geçin. Interceptor; arkasını dönüp takibe devam edene kadar, daha düşük ivmeye sahip olduğundan eylemsizliğiyle biraz daha fazla sürüklenecek ve daha keskin dönüş yapabilen Swarm'ın arkasında kalacaktır.
