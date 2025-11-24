@@ -2,7 +2,7 @@
 title: Ship Build Theory
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2025-11-24T18:27:59.642Z
+date: 2025-11-24T18:53:55.195Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -42,6 +42,8 @@ Avoid making these common mistakes listed [Here](/en/commonmistakes).
 
 
 # Core Internals
+
+Core Internals stay largely the same across different AX build types, similarly to other combat in Elite.
 
 ## Bulkheads
 
@@ -95,7 +97,9 @@ Avoid making these common mistakes listed [Here](/en/commonmistakes).
 
 # Optional Internals
 
-The optional internal loadout is where the main differences lie between build styles, and can even vary from Commander to Commander. Below are the three general loadouts of the three build types. For more information on the uses of each optional internal, refer to the [Core and Optional Internals](/en/internals) page.
+The optional internal loadout is where the main differences lie between build styles, and can even vary from Commander to Commander. Below are the three general loadouts to use: 
+
+For more information on specific optional internal modules, refer to the [Optionals & Utility Page](/en/optionals) page.
 
 
 ## Cold Orbiters
@@ -139,10 +143,7 @@ Engineering them with the Ammo Capacity blueprint gives one extra heatsink per l
 ## Caustic Sink Launchers
 These are highly recommended for AXCZs and Maelstroms, and not recommended for solo interceptor combat. This is because, using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95), caustic can be easily avoided in solo fights, and the loss of a heatsink is not worth the niche use.
 
-Shielded ships may also find them extra useful to get rid of caustic without overheating (and the dropped shield from silent-running when doing so).
-
-## Shield Boosters
-Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
+Shielded ships may find them extra useful to get rid of caustic without overheating (and the dropped shield from silent-running when doing so).
 
 ## Xeno Scanners
 Xeno Scanners currently come in three variants: the Xeno Scanner, Enhanced Xeno Scanner, and Pulse Wave Xeno Scanner.
@@ -153,5 +154,8 @@ While not recommended for use alongside guardian weaponry, bringing a scanner is
 ## Shutdown Field / Pulse Neutralizers
 There are two variants of neutralizers: the Shutdown Field Neutralizer (SFN) and the Thargoid Pulse Neutralizer (TPN). The SFN protects you and any other ships within 3km from standard Interceptor shutdown pulses. The TPN protects only your ship from Interceptor pulses, but also allows passage through the much more intense Titan shutdown wave.
 
+## Shield Boosters
+Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
+
 ## Other Modules
-For more information on Xeno Scanners and Shutdown Field Neutralizers, see the [Core and Optional Internals](/en/internals) page.
+For more detailed information and instructions on Xeno Scanners, Shutdown Field Neutralizers, and other optional and utility modules see the [Optionals & Utility](/en/optionals) page.
