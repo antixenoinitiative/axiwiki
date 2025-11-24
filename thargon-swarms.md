@@ -2,7 +2,7 @@
 title: Thargon Swarms
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: true
-date: 2025-11-24T00:48:54.928Z
+date: 2025-11-24T01:08:06.221Z
 tags: thargoids, interceptors, swarms
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -125,7 +125,9 @@ Easiest way to bait a swarm is to allow it to catch up (missile formation moves 
 
 Mind that going beyond 3km range mid-missile barrage will interrupt it! Enter <2.9km range again to let the missile barrage finish before you boost through the Swarm!
 
-[See this video for a visual example of how to bait the swarm.](https://youtu.be/kTBdvXzyYx8)
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/kTBdvXzyYx8?si=wgEK7pSdSXPjLdFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
+</div>
 
 If the Interceptor is enraged, bring the swarm down to low numbers (15-30 Thargons) and attempt to maintain the Standard state. If the Agitated state is triggered, boost away and bait the swarm. Make sure to cause every single one of them to launch. Afterwards a new swarm in the Standard state will be launched.
 
@@ -133,8 +135,17 @@ Also, should the swarm reach approximately 10km from the Thargoid, it will turn 
 
 ### Swarm Rerolling
 
+You can use the Interceptors recalling behavior to your advantage to reroll the current Swarm formation into a different one.
+Move to a medium distance (depending on ship 4-6.5km) and stay cold via silent running or heatsinks, do not beam the Interceptor.
+After a while the Interceptor should lose track of you, it will recall the swarm in preperation to leave. Wait until the Swarm gets close to its mothership, then gain back the attention of the interceptor by exiting silent-running, heating up or beaming it.
 
+Make sure you act fast - you do not want the Interceptor to leave the Instance by waking out!
 
+After you regained the attention the Swarm will change into an attack formation. It *can* roll the same as the previous one, but with any luck you rolled a new more desirable formation!
+
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/65iXP5w5S0Y?si=UfRxC-Zb95B-uCeq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
+</div>
 
 
 ## Switching Interceptor and Swarm Position
