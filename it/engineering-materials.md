@@ -2,7 +2,7 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2025-02-02T03:52:05.081Z
+date: 2025-11-24T18:16:40.401Z
 tags: engineering, outfitting, materials
 editor: markdown
 dateCreated: 2021-06-15T05:40:06.134Z
@@ -59,7 +59,8 @@ If the HGE Finder website doesn't have any systems listed for the material you'r
 
 ## Other Methods
 
-While HGEs are the fastest way to farm most manufactured materials, some CMDRs prefer other methods, such as Hot Jupiter, Big Boo, or [Dav's Hope](https://i.redd.it/jak5olaegui01.png).
+While HGEs are the fastest way to farm most manufactured materials, some CMDRs prefer other methods.
+Mission- and Powerplay-rewards can be a decent source of materials.
 
 # Encoded Materials
 
