@@ -2,7 +2,7 @@
 title: Теория сборки AX-корабля
 description: Подробное руководство по общей теории сборки АХ-кораблей
 published: опубликовано
-date: 2023-06-01T20:20:48.004Z
+date: 2025-11-24T18:53:55.195Z
 tags: сборка, теория, инженерные модификации, снаряжение
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -42,6 +42,8 @@ dateCreated: 2021-06-10T01:08:57.783Z
 
 # Основные системы
 
+Core Internals stay largely the same across different AX build types, similarly to other combat in Elite.
+
 ## Переборки
 
 **Базовая сборка:** «Композит военного класса» с модификацией «Толстая броня» и экспериментальным эффектом «Утолщённая броня». В сборке AX, сопротивление урону не имеет значения, поэтому военная толстая броня обеспечивает максимально возможный запас прочности корпуса. Укреплённые сплавы, если они модифицированы, напрямую уступают военным и лёгким сплавам, а композит с зеркальной или реактивной поверхностью только повышают стоимость повторной покупки и не дают никакого сверхпрочного корпуса.
@@ -70,7 +72,9 @@ dateCreated: 2021-06-10T01:08:57.783Z
 
 **Базовая сборка:** Рейтинг «A» в самом большом размере с применённым чертежом «Увеличенная дальность FSD» и экспериментальным эффектом «Распределитель гравитации». Таргоиды часто встречаются в "пузырях" пространства, поэтому способность перемещаться в небольшом радиусе действия необходима для боя АХ.
 
-**Альтернативный вариант:** 2D FSD с модификацией «Последовательность быстрого запуска FSD» первого класса и экспериментальным эффектом «Урезанный вариант» — даёт небольшой прирост скорости за счёт невозможности совершить прыжок на корабле на значительное расстояние.
+**Supercruise Overcharge (SCO):** It is absolutely worth replacing your old FSDs with new ones for AX! The extra bit of range is apreciated, but the faster supercruise adds great quality of life to signal source hunting!
+
+**Альтернативный вариант:** 2D FSD с модификацией «Последовательность быстрого запуска FSD» первого класса и экспериментальным эффектом «Урезанный вариант» — даёт небольшой прирост скорости за счёт невозможности совершить прыжок на корабле на значительное расстояние. This is generally not recommended unless absolute weight minmaxing is wished for.
 
 ## Система жизнеобеспечения
 
@@ -92,7 +96,9 @@ dateCreated: 2021-06-10T01:08:57.783Z
 
 # Дополнительное оборудование
 
-Необязательные внутренние модули — это то, в чём заключаются основные различия между стилями сборки, и даже может меняться от собственных вариантов сборок разных командиров. Ниже приведены три основных варианта снаряжения для трёх типов сборок. Более подробную информацию о применении каждого дополнительного внутреннего модуля можно найти на странице [Основные и дополнительные внутренние модули](/en/internals).
+Необязательные внутренние модули — это то, в чём заключаются основные различия между стилями сборки, и даже может меняться от собственных вариантов сборок разных командиров. Below are the three general loadouts to use:
+
+For more information on specific optional internal modules, refer to the [Optionals & Utility Page](/en/optionals) page.
 
 
 ## Холодные сборки
@@ -101,6 +107,11 @@ dateCreated: 2021-06-10T01:08:57.783Z
 - 2A БАПР
 - Наборы для усиления корпуса в остальных внутренних слотах
 
+> The best setup and method for beginners and experienced pilots alike. 
+> 
+> {.is-success}
+
+
 ## Гибридные сборки с двухпоточным щитогенератором
 - Самый большой из возможных двухпоточных щитогенераторов с чертежом «Усиленные щиты» и одним из экспериментальных эффектов «Быстрый заряд» или «Пониженное потребление».
 - 1A БАПР
@@ -108,13 +119,22 @@ dateCreated: 2021-06-10T01:08:57.783Z
 - Наборы для усиления корпуса в остальных слотах
 - Набор для усиления модуля Стражей в соответствии с личными предпочтениями
 
+> This setup is not recommended for beginners. If used it is better suited for wing-ops with concordant sequence, rather than solo. Even then there are caveats to consider. 
+> 
+> {.is-info}
+
+
 ## Бронированные корабли со щитами
 - Самый большой из возможных призматических щитов с чертежом «Усиленные щиты» и экспериментальным эффектом «Высокая ёмкость»
 - Большой щитонакопитель с чертежом «Адаптивный щитонакопитель» и экспериментальным эффектом «Босс-ячейки»
 - Один из двух наборов: для усиления модуля Стражей или для усиления модуля
-- При желании также можно установить контроллер дронов-очистителей
 - БАПР — размер в зависимости от предпочтений
 - В остальных слотах наборы для усиления корпуса
+
+> This setup is not recommended for beginners. 
+> 
+> {.is-info}
+
 
 # Внешнее оборудование
 
@@ -124,15 +144,17 @@ Essential for Cold Oribing vessels to dissipate the heat generation of their wea
 ## Caustic Sink Launchers
 These are highly recommended for AXCZs and Maelstroms, and not recommended for solo interceptor combat. This is because, using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95), caustic can be easily avoided in solo fights, and the loss of a heatsink is not worth the niche use.
 
-## Shield Boosters
-Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
+Shielded ships may find them extra useful to get rid of caustic without overheating (and the dropped shield from silent-running when doing so).
 
 ## Xeno Scanners
 Xeno Scanners currently come in three variants: the Xeno Scanner, Enhanced Xeno Scanner, and Pulse Wave Xeno Scanner. The Enhanced version is recommended for use in most cases, as it is a direct successor to the regular variant. The Pulse Wave Xeno Scanner, also known as the thargoid pulse scanner or TPS, is specifically designed to scan Thargoid Titians, and is recommended only for use in Titan dives. While not recommended for use alongside guardian weaponry, bringing a scanner is virtually required with the use of Enhanced AXMCs.
 
 
-## Shutdown Field Neutralizers
+## Shutdown Field / Pulse Neutralizers
 There are two variants of neutralizers: the Shutdown Field Neutralizer (SFN) and the Thargoid Pulse Neutralizer (TPN). The SFN protects you and any other ships within 3km from standard Interceptor shutdown pulses. The TPN protects only your ship from Interceptor pulses, but also allows passage through the much more intense Titan shutdown wave.
 
+## Shield Boosters
+Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
+
 ## Other Modules
-For more information on Xeno Scanners and Shutdown Field Neutralizers, see the [Core and Optional Internals](/en/internals) page.
+For more detailed information and instructions on Xeno Scanners, Shutdown Field Neutralizers, and other optional and utility modules see the [Optionals & Utility](/en/optionals) page.
