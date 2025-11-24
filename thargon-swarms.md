@@ -2,7 +2,7 @@
 title: Thargon Swarms
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: true
-date: 2025-11-24T00:06:48.984Z
+date: 2025-11-24T00:08:01.381Z
 tags: thargoids, interceptors, swarms
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -50,34 +50,34 @@ Left to Right: Cyclops Ball, Medusa Ball
 This formation is easiest to destroy, requiring only a very few well placed shots in the center of the ball.
 
 
-## Cone/Spiral Formation
+### Cone/Spiral Formation
 ![embeddedimage_(3).png](/img/embeddedimage_(3).png)
 Left to Right: Basilisk Cone, Medusa Cone
 
 The Cone or Spiral formation is first used by the Basilisk and it is not uncommon with stronger variants. Much like the Ball formation, this one is easy to destroy, with only several shots at the tip of the spiral needed.
 
-## Ring Formation
+### Ring Formation
 ![embeddedimage_(2).png](/img/embeddedimage_(2).png)
 Left to Right: Medusa Ring, Hydra Ring
 
 The dreaded ring formation is the preferred formation with the Medusae and Hydrae. It is significantly more difficult to destroy, with flak shells detonating in the center doing no damage whatsoever. Widely offset flak (such as on the Cutter’s wings) or manually aiming away from the reticle are necessary to deal with this form.
 
-
-## Death Wall Formation
+## {.tabset}
+### Death Wall Formation
 ![embeddedimage_(4).png](/img/embeddedimage_(4).png)
 Left to Right: Cyclops Death Wall, Medusa Death Wall
 
 The Death Wall (Flat Spiral) is the Cyclops’ only missile formation, and it is also used by the other variants (though more rarely as they prefer their more advanced formations)
 
 
-## Death Spiral Formation
+### Death Spiral Formation
 ![embeddedimage_(5).png](/img/embeddedimage_(5).png)
 Left to Right: Basilisk Death Spiral, Hydra Death Spiral
 
 The Death Spiral is a missile formation first used by the Basilisk, and it is not uncommon with stronger variants. Unlike the regular Cone/Spiral, this formation has a gap at the center so is more difficult to destroy. Flak shells detonating at the center will cause less damage (but still kill at least a few Thargons)
 
 
-## Ring of Death Formation
+### Ring of Death Formation
 ![embeddedimage_(6).png](/img/embeddedimage_(6).png)
 Left to Right: Medusa Ring Of Death, Hydra Ring Of Death
 
