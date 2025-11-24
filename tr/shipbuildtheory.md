@@ -2,7 +2,7 @@
 title: Gemi Donatım Teorisi
 description: Genel AX donatım teorisine yönelik kapsamlı rehber
 published: true
-date: 2023-06-01T20:20:48.004Z
+date: 2025-11-24T18:53:55.195Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -42,6 +42,8 @@ Thargoidler hızlı ve çeviktir ve bu yüzden azami hız ve manevra kabiliyeti 
 
 # Core Internals
 
+Core Internals stay largely the same across different AX build types, similarly to other combat in Elite.
+
 ## Bulkheads
 
 **Meta:** Military Grade Alloys - Heavy Duty ve Deep Plating mühendislikleriyle. AX'de dirençler önemsizdir, dolayısıyla HD Military en yüksek sağlık havuzuna sahip olmanızı sağlar. Reinforced Alloys; yükseltildikleri zaman Military ve Lightweight Alloys'lardan daha zayıftırlar ve Mirrored ve Reactive Composite'ler aynı dayanıklılığı daha yüksek fiyattan sağladıkları için sadece masrafınızı yükseltirler.
@@ -70,7 +72,9 @@ Thargoidler hızlı ve çeviktir ve bu yüzden azami hız ve manevra kabiliyeti 
 
 **Meta:** En büyük A sınıfı - Increased Range ve Mass Manager mühendislikleriyle. Thargoidler genel olarak uzaydaki belirli "baloncuklar" içerisinde bulunduklarından mesafe kat edebilen bir gemiye sahip olmak iyi bir fikirdir.
 
-**Alternatif:** 2D FSD Grade 1 Fast Boot ve Stripped Down mühendislikleriyle - geminizin sıçrama menzilini ortadan kaldırarak biraz daha süratli olmanızı sağlar.
+**Supercruise Overcharge (SCO):** It is absolutely worth replacing your old FSDs with new ones for AX! The extra bit of range is apreciated, but the faster supercruise adds great quality of life to signal source hunting!
+
+**Alternatif:** 2D FSD Grade 1 Fast Boot ve Stripped Down mühendislikleriyle - geminizin sıçrama menzilini ortadan kaldırarak biraz daha süratli olmanızı sağlar. This is generally not recommended unless absolute weight minmaxing is wished for.
 
 ## Life Support
 
@@ -92,7 +96,9 @@ Thargoidler hızlı ve çeviktir ve bu yüzden azami hız ve manevra kabiliyeti 
 
 # Optional Internals
 
-Burası gemiler arasındaki ana farkların oluşmaya başladığı yerdir ve kumandanların kendi tercihlerine göre farklılık gösterebilir. Aşağıda üç genel gemi tipi için donanım önerileri verilmiştir. Bu modüller hakkında daha detaylı bilgi için [Optional Internals](/en/internals) sayfasına göz atın.
+Burası gemiler arasındaki ana farkların oluşmaya başladığı yerdir ve kumandanların kendi tercihlerine göre farklılık gösterebilir. Below are the three general loadouts to use:
+
+For more information on specific optional internal modules, refer to the [Optionals & Utility Page](/en/optionals) page.
 
 
 ## Soğuk Yörüngeciler
@@ -101,6 +107,11 @@ Burası gemiler arasındaki ana farkların oluşmaya başladığı yerdir ve kum
 - 2A AFMU.
 - Geri kalan Optional Internal slotlarında HRP'ler.
 
+> The best setup and method for beginners and experienced pilots alike. 
+> 
+> {.is-success}
+
+
 ## Bi-Weave Hibritler
 - Alınabilecek en büyük Bi-Weave kalkanı - Reinforced ve Fast Charge/Lo-Draw mühendislikleriyle birlikte.
 - 1A AFMU
@@ -108,13 +119,22 @@ Burası gemiler arasındaki ana farkların oluşmaya başladığı yerdir ve kum
 - Diğer slotlarda HRP'ler.
 - GSRP'ler kişisel tercihe kalmış.
 
+> This setup is not recommended for beginners. If used it is better suited for wing-ops with concordant sequence, rather than solo. Even then there are caveats to consider. 
+> 
+> {.is-info}
+
+
 ## Kalkan Tankları
 - Alınabilecek en büyük Prismatic kalkan - Reinforced ve Hi-Capacity mühendislikleriyle.
 - Büyük SCB'ler - Specialized ve Boss Cells mühendislikleriyle.
 - Bir ya da iki adet GMRP veya MRP
-- Tercihen Decontamination Limpet Controller.
 - AFMU, boyutu tercihe kalmış.
 - Diğer slotlarda HRP'ler.
+
+> This setup is not recommended for beginners. 
+> 
+> {.is-info}
+
 
 # Utility Slots
 
@@ -124,15 +144,17 @@ Essential for Cold Oribing vessels to dissipate the heat generation of their wea
 ## Caustic Sink Launchers
 These are highly recommended for AXCZs and Maelstroms, and not recommended for solo interceptor combat. This is because, using [cold mechanics](https://youtu.be/f-2zN0f__HA?t=95), caustic can be easily avoided in solo fights, and the loss of a heatsink is not worth the niche use.
 
-## Shield Boosters
-Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
+Shielded ships may find them extra useful to get rid of caustic without overheating (and the dropped shield from silent-running when doing so).
 
 ## Xeno Scanners
 Xeno Scanners currently come in three variants: the Xeno Scanner, Enhanced Xeno Scanner, and Pulse Wave Xeno Scanner. The Enhanced version is recommended for use in most cases, as it is a direct successor to the regular variant. The Pulse Wave Xeno Scanner, also known as the thargoid pulse scanner or TPS, is specifically designed to scan Thargoid Titians, and is recommended only for use in Titan dives. While not recommended for use alongside guardian weaponry, bringing a scanner is virtually required with the use of Enhanced AXMCs.
 
 
-## Shutdown Field Neutralizers
+## Shutdown Field / Pulse Neutralizers
 There are two variants of neutralizers: the Shutdown Field Neutralizer (SFN) and the Thargoid Pulse Neutralizer (TPN). The SFN protects you and any other ships within 3km from standard Interceptor shutdown pulses. The TPN protects only your ship from Interceptor pulses, but also allows passage through the much more intense Titan shutdown wave.
 
+## Shield Boosters
+Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
+
 ## Other Modules
-For more information on Xeno Scanners and Shutdown Field Neutralizers, see the [Core and Optional Internals](/en/internals) page.
+For more detailed information and instructions on Xeno Scanners, Shutdown Field Neutralizers, and other optional and utility modules see the [Optionals & Utility](/en/optionals) page.
