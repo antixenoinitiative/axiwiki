@@ -2,7 +2,7 @@
 title: Перехватчики
 description: О таргоидских перехватчиках
 published: опубликовано
-date: 2025-01-21T22:12:56.775Z
+date: 2025-11-24T17:46:29.950Z
 tags: таргоиды, перехватчики
 editor: markdown
 dateCreated: 2021-06-15T10:23:32.433Z
@@ -70,6 +70,6 @@ Thargoid Interceptors come in five variants: **Cyclops**, **Basilisk**, **Medusa
 
 During its initial brief appearance, the Orthrus variant could be seen momentarily flying away from Palin's Base before High-Waking away. В то время как «Orthrus» не имел никакой техники боя и при уничтожении вызывал сбои в оборудовании корабля. Тип «Orthrus» по характеристикам был ближе к типу «Basilisk». После того как дроном-исследователем был взят образец, был получен «"Образец ткани таргоидского корабля "Василиск"».
 
-The Orthrus now fulfills an unknown purpose in the Thargoid fleet, as it is only spotted harvesting Thargoid Probes in NHSS Threat 4. It has no hearts, and flees when attacked. However, it has a powerful shield and will employ an anti-guardian field while trying to flee.
+The Orthrus is speculated to fulfill a sort of intelligence and logistics role within the Thargoid fleet. It is spotted harvesting Thargoid Probes in NHSS Threat 4, they frequently travel between Spiresites and Titans and are seen enter and exit both structures. It has no hearts, and flees when attacked. However, it has a powerful shield and will employ an anti-guardian field while trying to flee. *The Orthrus variant has disappeared together with the Titans and spire sites, for now.*
 
 **Hearts**: 0 **Max Speed**: 115 m/s **Payout**: 15,000,000 Cr
