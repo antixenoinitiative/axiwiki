@@ -2,7 +2,7 @@
 title: Thargoid War Museum
 description: Historic preservation of content tied to past thargoid conflict.
 published: true
-date: 2025-11-24T13:44:19.796Z
+date: 2025-11-24T13:45:24.458Z
 tags: thargoids
 editor: markdown
 dateCreated: 2025-11-24T13:44:19.796Z
@@ -15,7 +15,7 @@ dateCreated: 2025-11-24T13:44:19.796Z
 # Thargoid War Museum
 Historic preservation of content tied to past thargoid conflict.
 
-> Thargoid conflict system-states, mechanics and areas described here will often not be available on the Live version of the game.
+> Thargoid conflict states, mechanics and areas described here are no longer available on the Live version of the game.
 {.is-warning}
 
 # Second Thargoid War History
