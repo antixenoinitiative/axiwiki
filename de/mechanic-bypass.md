@@ -2,7 +2,7 @@
 title: Mechaniken überspringen
 description: Wie man bestimmte Mechaniken im Thargoid-Kampf überspringt
 published: true
-date: 2025-11-23T21:38:59.313Z
+date: 2025-11-25T13:17:53.168Z
 tags: Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
@@ -13,6 +13,10 @@ dateCreated: 2021-06-21T02:30:49.657Z
 Thargoid Interceptor haben einige Spezialangriffe (mehr dazu auf der Seite [Spezialangriffe](/en/special-attacks)), die sie einsetzen nachdem ein Herz zerstört wurde. Für kaustische Raketen, das Abschaltfeld und den Panikschild muss der Interceptor ein **Ziel aufgeschaltet** haben, damit er sie einsetzen kann (ähnlich zu Suchraketen).
 
 Nachdem ein Thargoid Herz zerstört wurde, versucht der Interceptor ein **Ziel aufzuschalten**. Der Interceptor kann nur **aufschalten**, wenn das jetztige aktive Ziel (am meisten Schaden gemacht) eine Hitzesignatur über dem **Mindest-Erfassungswert** (~20%) hat, oder innerhalb der **Mindest-Erfassungsreichweite** (~700m) ist.
+
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/f-2zN0f__HA?si=lKHzMmyW7qNVCct3&amp;start=89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
+</div>
 
 ## Sleep Phase
 
