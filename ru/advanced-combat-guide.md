@@ -2,7 +2,7 @@
 title: Расширенное боевое руководство
 description: Основано на доктрине CMDR Avasa Siuu
 published: true
-date: 2023-01-09T01:54:40.607Z
+date: 2025-11-25T01:08:25.070Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -17,11 +17,17 @@ dateCreated: 2021-06-17T03:49:32.855Z
 
 Эта доктрина также позволяет минимально сосредоточить внимание на управлении pip из-за того факта, что она касается полетов без щита, позволяет устанавливать свои энергетические приоритеты и сосредотачиваться на другой задаче.
 
-# Сборка корабля
+# Prepare your gear
 
+When attempting to undertake a task such as solo interceptor combat, it is cruicial to be prepared and bring the right tools for the job.
+
+## Сборка корабля
 Эта доктрина сосредоточена вокруг Chieaftain'а как главного корабля. Challenger может быть использован точно так же с незначительным изменениями. (Инструкция по сборке Challenger в разработке) Такие корабли, как Krait MK. II, Krait Phantom или FAS также могут быть использованы, но из-за дешевой входной стоимости Chieftain'а, его орудийных позиций и маневренности, он является основным направлением этой доктрины.
 
-## Основные системы
+> The Chieftain is arguably the best learning platform for FA Off AX combat and orbiting.
+
+## {.tabset}
+### Основные системы
 - Композит военного класса (Надежное/утолщенная броня)
 - 6А Силовая Установка (Бронированная/Распределение тепла)
 - 6А Маневровые (Грязная донастройка/Ускорители)
@@ -31,7 +37,7 @@ dateCreated: 2021-06-17T03:49:32.855Z
 - 4D Сенсоры (увеличенная дальность по желанию)
 - 4С Топливный бак
 
-## Дополнительные системы
+### Дополнительные системы
 - 5D Контроллер дрона ремонтника
 - 5D Guardian Module Reinforcement Package
 - 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate) **Military Slots Only**
@@ -40,22 +46,24 @@ dateCreated: 2021-06-17T03:49:32.855Z
 - 2D Guardian Module Reinforcement Package
 - 1D Guardian Moudle Reinforcement Package
 
-## Орудия
+### Орудия
 - 2B Орудие Гаусса стражей х2 (Установлены в 2 больших слота)
 - 2B Зенитная установка (Установлена в средний слот)
 - 1D Орудие Гаусса стражей х2 (Установлены в малые слоты слева и справа от больших)
 - 1E Пучковый лазер (Увеличенная дальность/Теплоотдача, установлено в малый слот под большими)
 
-## Наружние системы
+### Наружние системы
 - 3х OI Теплоотвод (Увеличенный боезапас)
 - Ксено сканер/Теплоотвод (Зависит от командира)
 
 Если у вас нет предпочтений для ксено сканера, особенно для низших вариантов, иметь четвертый теплоотвод поможет убедиться в том, что вам не придётся синтезировать теплоотводы.
 
-# Инженеринг
+## Инженеринг
 Цель перечисленных в списке инженеров заключается в сведении к минимуму необходимых инженеров для командиров начального уровня в эту доктрину, а также в том, чтобы более опытные командиры могли использовать других инженеров для максимального улучшения их корабля. Необходимые инженеры:
+## {.tabset}
 
-## Минимально:
+
+### Минимально:
 - The Dweller (Wyrd) - G5 распределитель питания (Быстрозаряжающийся/Сверхпроводники)
 - Selene Jean (Kuk) - G5 Набор для усиления корпуса (Надежный/Утолщенная броня)
 - G5 Броня (Надежный/Утолщенная броня)
@@ -64,13 +72,13 @@ dateCreated: 2021-06-17T03:49:32.855Z
 - Broo Tarquin (Muang) - G5 Пучковый лазер (Увеличенная дальность/Теплоотдача)
 - Ram Tah (Meene) - Теплоотвод (Увеличенный боезапас)
 
-## Дополнительно:
+### Дополнительно:
 - Felicity Farseer (Deciat) - G5 Рамочно Сместительный Двигатель
 - Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Сенсоры
 
 Видео:[Открытие инженеров от CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
-# Purpose of Ship and Engineering
+## Purpose of Ship and Engineering
 - With the fitting and engineers listed this is the baseline of the doctrine needed to fully utilize the fitting of the ship with the engineers available for each module. If utilizing all engineers you are fully maximizing the capabilities of the Chieftain to allow you to engage all Interceptor variants efficiently and effectively.
 - The speed of the Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 500 m/s which is more than needed to engage any Interceptor variant. Basilisks requires an additional maneuver to combat due to its speed. See Basilisk Considerations
 
@@ -147,15 +155,19 @@ The purpose of engaging the swarm first on the initial engagement is to remove t
 Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
 
 # Thargoid Sleep Mode
--The interceptor will enter a sleep mode after a destruction of a heart and the commander maintains his ships heat below 15%.
+- The interceptor will enter a sleep mode after a destruction of a heart and the commander maintains his ships heat below ~20%.
 
--The sleep mode will prevent the interceptor from launching its caustic missiles allowing the commander to completely avoid that stage of interceptor combat.
+- Uninterrupted, the sleep mode will prevent the interceptor from launching its caustic missiles allowing the commander to completely avoid that stage of interceptor combat.
 
--The sleep mode will also prevent the activation of the interceptors shut down field removing the need for a shut down field neutralizer and also removing the need from having to have flight assist off and boost away from the interceptor while shut down. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
+- The sleep mode will also prevent the activation of the interceptors shut down field removing the need for a shut down field neutralizer and also removing the need from having to have flight assist off and boost away from the interceptor while shut down. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
 
--The window the interceptor will be in sleep mode lasts approximately 30 seconds.
+- The window the interceptor will be in sleep mode lasts approximately 30-40 seconds.
 
--This is why the importance of the thermal vent beam laser comes into play allowing a ship to maintain 0% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks.
+> Learn more about [Special Attack Avoidance](/en/mechanic-bypass) during Interceptor combat. 
+> 
+> {.is-info}
+
+This is why the importance of the thermal vent beam laser comes into play; allowing a ship to maintain <20% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks. Mind this only applied when not firing other weapons that strain your distributor at the same time.
 
 
 `CREDITS
