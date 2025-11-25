@@ -2,7 +2,7 @@
 title: Mechanic Bypass Guide
 description: How to skip certain mechanics in a thargoid fight
 published: true
-date: 2025-11-23T21:38:59.313Z
+date: 2025-11-25T13:17:53.168Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
@@ -13,6 +13,10 @@ dateCreated: 2021-06-21T02:30:49.657Z
 Thargoid Interceptors use various special abilities (read more about these in our [Special Attacks](/en/special-attacks) page) which occur whenever a Thargoid Heart is broken. The Caustic Missiles, Shutdown Pulse and the Panic Shield Regeneration abilities require the Interceptor to have a **Target Lock** for it to be able to activate them (similar to how seeker missiles work).
 
 When the Thargoid Heart is broken, it will begin looking for a **Target Lock**. The Interceptor can only make a **Target Lock** when the current active target (most damage dealt) has a heat signature above the **minimum detection threshold** (~20%) or are within the **minimum detection range** (~700m).
+
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/f-2zN0f__HA?si=lKHzMmyW7qNVCct3&amp;start=89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
+</div>
 
 ## Sleep Phase
 
