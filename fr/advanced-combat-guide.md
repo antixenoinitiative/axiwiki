@@ -2,7 +2,7 @@
 title: Guide de Combat Avancé
 description: Basé sur la doctrine Odysseus par CMDR Avasa Siuu
 published: true
-date: 2023-01-09T01:54:40.607Z
+date: 2025-11-25T01:08:25.070Z
 tags: équipement, combat, thargoids, intercepteurs
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -17,11 +17,17 @@ Cette doctrine est centrée autour d'une boucle de combat - vous répéterez ess
 
 Cette doctrine permet également de se concentrer le moins possible sur la gestion des pips car elle concerne le vol sans bouclier, ce qui vous permet d'établir vos priorités de puissance sur le répartiteur puis de vous concentrer ailleurs.
 
-# Configuration du vaisseau
+# Prepare your gear
 
+When attempting to undertake a task such as solo interceptor combat, it is cruicial to be prepared and bring the right tools for the job.
+
+## Configuration du vaisseau
 Cette doctrine se concentre principalement sur le Chieftain. Le Challenger peut également être utilisé avec des modifications mineures de ses points d'emport. (Guide de configuration du Challenger en construction) Des vaisseaux tels que le Krait MKII, le Krait Phantom ou le FAS peuvent également être utilisés mais en raison du coût bon marché du Chieftain, de sa disposition de points d'emport et de sa manœuvrabilité, ce sera la priorité principale de cette doctrine.
 
-## Modules internes primordiaux
+> The Chieftain is arguably the best learning platform for FA Off AX combat and orbiting.
+
+## {.tabset}
+### Modules internes primordiaux
 - Composite de grade militaire (Lourd / épais)
 - 6A Générateur (Générateur blindé / Répartition thermique)
 - 6A Propulseurs (Optimisation de réacteur détériorante/débridage des réacteurs)
@@ -31,7 +37,7 @@ Cette doctrine se concentre principalement sur le Chieftain. Le Challenger peut 
 - 4D Capteurs (Longue portée optionnel)
 - 4C Réservoir de carburant
 
-## Modules internes optionnels
+### Modules internes optionnels
 - 5D Contrôleur de drones réparateurs
 - 5D Guardian Module Reinforcement Package
 - 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate) **Military Slots Only**
@@ -40,22 +46,24 @@ Cette doctrine se concentre principalement sur le Chieftain. Le Challenger peut 
 - 2D Guardian Module Reinforcement Package
 - 1D Guardian Moudle Reinforcement Package
 
-## Points d'emport
+### Points d'emport
 - 2B Canon de gauss gardien x2 (placés sur les deux emplacements larges)
 - 2B Lanceur antiaérien déclenché a distance (emplacement moyen)
 - 1D Canon de gauss gardien x2 (placés sur les deux petits emplacements à gauche et à droite de la coque)
 - 1G Rayon laser (Longue portée/ventilation thermique placé sur le petit emplacement d'arme au centre)
 
-## Utilitaires
+### Utilitaires
 - OI Dissipateurs thermiques x3 (chargeur grande capacité)
 - Détecteur de xénomorphes/dissipateur thermique (dépend de si le commandant souhait voir la coque du thargoid et le nombre de thargons restants de l'essaim)
 
 Si vous n'avez pas de préférence pour le détecteur de xénomorphes, avoir un 4ème dissipateur thermique vous assurera de ne jamais avoir besoin de faire des synthèses sur les variantes d'intercepteurs inférieures.
 
-# Modifications d'ingénieurs
+## Modifications d'ingénieurs
 L'objectif de cette liste est de minimiser les ingénieurs nécessaires pour les nouveaux commandants tout en permettant aux commandants plus expérimentés d'utiliser d'autres ingénieurs pour maximiser leur vaisseau. Les ingénieurs nécessaires aux modifications sont les suivants:
+## {.tabset}
 
-## Ingénieurs indispensables:
+
+### Ingénieurs indispensables:
 - The Dweller (Wyrd) - G5 Répartiteur de Puissance (Rapide/Super Conduits)
 - Selene Jean (Kuk) - G5 Renforts de coque (Lourd / épais)
 - G5 Blindage (Lourd / épais)
@@ -64,13 +72,13 @@ L'objectif de cette liste est de minimiser les ingénieurs nécessaires pour les
 - Broo Tarquin (Muang) - G5 Rayon laser (Longue portée/ventilation thermique)
 - Ram Tah (Meene) - Dissipateurs thermiques (chargeur grande capacité)
 
-## Ingénieurs optionnels:
+### Ingénieurs optionnels:
 - Felicity Farseer (Deciat) - G5 Réacteur FSD modifié
 - Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Capteurs modifiés
 
 Vidéo: [Débloquer les ingénieurs par CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
-# Objectif du vaisseau et des modifications
+## Objectif du vaisseau et des modifications
 - With the fitting and engineers listed this is the baseline of the doctrine needed to fully utilize the fitting of the ship with the engineers available for each module. If utilizing all engineers you are fully maximizing the capabilities of the Chieftain to allow you to engage all Interceptor variants efficiently and effectively.
 - The speed of the Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 500 m/s which is more than needed to engage any Interceptor variant. Basilisks requires an additional maneuver to combat due to its speed. See Basilisk Considerations
 
@@ -147,15 +155,19 @@ The purpose of engaging the swarm first on the initial engagement is to remove t
 Being outside of the orbit envelope may cost extra rounds from the Gauss cannons due to damage drop off and a waste of heat sinks will occur. Firing outside the engagement envelope is ill advised.
 
 # Thargoid Sleep Mode
--The interceptor will enter a sleep mode after a destruction of a heart and the commander maintains his ships heat below 15%.
+- The interceptor will enter a sleep mode after a destruction of a heart and the commander maintains his ships heat below ~20%.
 
--The sleep mode will prevent the interceptor from launching its caustic missiles allowing the commander to completely avoid that stage of interceptor combat.
+- Uninterrupted, the sleep mode will prevent the interceptor from launching its caustic missiles allowing the commander to completely avoid that stage of interceptor combat.
 
--The sleep mode will also prevent the activation of the interceptors shut down field removing the need for a shut down field neutralizer and also removing the need from having to have flight assist off and boost away from the interceptor while shut down. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
+- The sleep mode will also prevent the activation of the interceptors shut down field removing the need for a shut down field neutralizer and also removing the need from having to have flight assist off and boost away from the interceptor while shut down. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
 
--The window the interceptor will be in sleep mode lasts approximately 30 seconds.
+- The window the interceptor will be in sleep mode lasts approximately 30-40 seconds.
 
--This is why the importance of the thermal vent beam laser comes into play allowing a ship to maintain 0% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks.
+> Learn more about [Special Attack Avoidance](/en/mechanic-bypass) during Interceptor combat. 
+> 
+> {.is-info}
+
+This is why the importance of the thermal vent beam laser comes into play; allowing a ship to maintain <20% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks. Mind this only applied when not firing other weapons that strain your distributor at the same time.
 
 
 `CREDITS
