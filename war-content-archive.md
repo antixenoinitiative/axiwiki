@@ -1,12 +1,16 @@
 ---
-title: War Content Archive
-description: Storage facility for Page-Segments and Content that is no longer accessable after the end of the War.
+title: War Builds
+description: Builds that were related to war-specific content.
 published: false
-date: 2025-11-21T12:17:51.488Z
+date: 2025-11-25T23:28:16.699Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T10:54:53.633Z
 ---
+
+> Builds on this page are outdated and tied to content that is no longer available.
+{.is-danger}
+
 
 The absence of Titans (and maelstroms) and Spire sites have made these builds obsolete:
 - **Maelstrom Builds** - Heavily specialized for combat in the most extreme locations - where caustic clouds are thick, staying undetected is paramount, and guardian tech is useless. These build have the same base hull configuration as Solo Builds, but share little else.
