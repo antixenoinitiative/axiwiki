@@ -2,7 +2,7 @@
 title: Flight
 description: An introduction to advanced maneuvers and flight strategy for various anti-xeno activities.
 published: true
-date: 2025-11-25T00:11:58.568Z
+date: 2025-11-25T16:13:40.238Z
 tags:
 editor: markdown
 dateCreated: 2023-09-03T02:20:24.558Z
@@ -94,19 +94,29 @@ The Following short section contains named maneuvers. Each has an insight to sha
 1. Flip back to FA back OFF (if you used FA for part 1 and bank hard just before passing the goid; you want to use what’s left of your boost thrust to slow down by, if you turned say left, also now thrusting hard left;
 1. Now back on regular thrust, jam down and back thrust to-establish your orbit. The key is to limit the velocity out of your boost to no more than 350-400 ideally. More than that, and you’ll swing out of range instead of re-establishing an orbit.
 
-### The "Reverski"
+### "Reverski"
 Traveling in a certain direction in Flight Assist OFF, while having the ship face backwards. Particularly useful with an enemy like a thargoid interceptor and swarm in pursuit of you.
 
 Can use this technique during AX to deploy Flak against the Swarm or beam the interceptors' shield during repairs.
 
-### The Flip
+### The "Flip"
 (Not actually a flip) Flight Assist OFF, Boost, Hold Cargo Scoop, and any combination of pitch, roll, and/or yaw to turn rapidly with a small turn radius.
 
-### The Painbeaver
-From Mechan, “Probably the most famous "named maneuver", it involves chasing the swarm and flakking it while it's flying away from you (after flying over you.) It is one of the few ways that slow ships (notably the ‘Vette, but also the ‘Conda and FGS) can effectively deal with the swarm. Named after CMDR Painbeaver.” Demo: [The Painbeaver](https://youtu.be/nJFdd9AEjNI)<https://youtu.be/nJFdd9AEjNI>
+### The "Painbeaver"
 
-### The Muquuu
-From Mechan, "The ultimate "power ram". Using a heavy ship (likely 500t+, although it's possible to pull it off with 400t ships), and most commonly demonstrated in an Imperial Cutter, when the goid is lightning-chasing you, ram it head-on so that the momentum of the bonk pushes it outside of 800m, thus cutting the lightning zap short (and speeding up the fight.) Named after CMDR MuQuuu." Demo: [The Muquuu](https://www.youtube.com/watch?v=5_DPowS53hQ) same as: <https://www.youtube.com/watch?v=5_DPowS53hQ>
+Involves chasing the swarm and flakking it while it's flying away from you (after flying over you.) It is one of the few ways that slow ships (notably the ‘Vette, but also the ‘Conda and FGS) can effectively deal with the swarm.
+
+Named after CMDR Painbeaver. Demo: [The Painbeaver](https://youtu.be/nJFdd9AEjNI)
+
+ > Probably the most famous "named maneuver".
+
+### The "Muquuu"
+
+Using a heavy ship (likely 500t+, although it's possible to pull it off with 400t ships), and most commonly demonstrated in an Imperial Cutter, when the goid is lightning-chasing you, ram it head-on so that the momentum of the bonk pushes it outside of 800m, thus cutting the lightning zap short (and speeding up the fight.)
+
+Named after CMDR MuQuuu. Demo: [The Muquuu](https://www.youtube.com/watch?v=5_DPowS53hQ)
+
+> The ultimate "power ram".
 
 ## Planetary Overspeed
 
@@ -114,8 +124,6 @@ A planetary instance is any normal space instance at or under orbital cruise for
 
 The corrective action required to regain complete control is to thrust to redirect the ship’s current vector away from the planet. If at low enough radar-altitude, the point at which the ship regains control loses this overspeed condition is when the vertical speed indicator (VSI) indicates neutral or increasing.
 
-As a side, the Elite community has, in the past, organized several competitions built around this flight mechanic, abusing it to spectacular effect which we call  **speedball**, **speed bowling** and **gravity bowling**. CMDR Exigeous [What is Speedbowling?](https://youtu.be/vhbUZS3wiwY) same as: <https://youtu.be/vhbUZS3wiwY>
+As a side, the Elite community has, in the past, organized several competitions built around this flight mechanic, abusing it to spectacular effect which we call  **speedball**, **speed bowling** and **gravity bowling**.
 
----
-
-[Prev Topic: Recommended Controls](/en/recommended-controls) - End of Flight page - [Next Topic: Combat Guide](/en/advanced-combat-guide)
+CMDR Exigeous [What is Speedbowling?](https://youtu.be/vhbUZS3wiwY)
