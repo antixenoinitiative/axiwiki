@@ -2,7 +2,7 @@
 title: Basic Combat Guide
 description: The fundamental concepts of AX combat and how to fight an Interceptor.
 published: true
-date: 2025-11-23T18:56:02.231Z
+date: 2025-11-25T00:44:51.746Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:18:38.671Z
@@ -38,7 +38,8 @@ Ensure you have heatsink reloads, ax flak reloads, and gauss reloads.
 
 Once you drop into the [Non-Human Signal source](/en/nhss), the Thargoid will approach and scan you. Either let it scan you and turn away (if you wish to scan it), or begin firing just as it closes within 1.5 km while reversing slowly away. Stay within 1.5 km to avoid the damage falloff at range from gauss, deploy a heatsink, and begin firing, using the reload indicator on your hud to ensure you are firing immediately after your cannons reload (1.6 seconds). After you hear the sound of the heatsink eject, fire another.
 
-_Always ensure you are protected by a heatsink when attacking the Interceptor. Orbiting the interceptor while under 20% heat allows you to entirely dodge the main cannons so long as you remain roughly 10-15 degrees out of its bore sight with high angular momentum. i.e: moving sideways or orbiting._
+- Always ensure you are protected by a heatsink when attacking the Interceptor. Orbiting the interceptor while under 20% heat allows you to entirely dodge the main cannons so long as you remain roughly 10-15 degrees out of its bore sight with high angular momentum. i.e: moving sideways or orbiting.
+- Split your main guardian weapons to primary/secondary firegroups and fire them seperately to prevent your heat from rising above 20% after firing.\*
 
 The interceptor will begin firing on you; depending on your shield strength (and pip management skills) boost and begin an FA-off orbit to avoid some damage.
 
@@ -86,15 +87,16 @@ For a complete guide to swarm mechanics check out the [_Swarm Mechanics_](/en/th
 
 ## Exertion and Destruction of Subsequent Hearts
 
-By now, your shields, ammo, and heatsinks should be fully restored. Face the interceptor and monitor its approach. Transfer pips 3-0-3 or 0-2-4 depending on your build and boost towards and vertically from the Thargoid in FA-off. **Once you are within 4 km deploy a heatsink to reduce your heat signature below 20%. Your objective is to utilize your vertical thrusters in combination with your boost to “orbit” the interceptor within the effective range of your gauss, ~1.5 km. Remember, orbiting the interceptor while under 20% heat allows you to entirely dodge the main cannons so long as you remain roughly 15 degrees out of its bore sight.** Try to avoid getting closer than 1 km, else the Thargoid will try engage its lightning attack which will heavily damage your shields, render you immobile, and knock out your systems.
-
-_If you get hit by the lightning attack while a heart is exerted, do not try to flee, the Thargoid will be not moving and in the **perfect** position to destroy the heart and once it breaks you will have about 10-20 secs to fly away without any further damage._
+By now, your shields, ammo, and heatsinks should be fully restored. Face the interceptor and monitor its approach. Transfer pips 3-0-3 or 0-2-4 depending on your build and boost towards and vertically from the Thargoid in FA-off. **Once you are within 4 km deploy a heatsink to reduce your heat signature below 20%.** Your objective is to **utilize your vertical thrusters to “orbit” the interceptor within** the effective range of your gauss, **~1.5 km**. Remember, orbiting the interceptor while under 20% heat allows you to entirely dodge the main cannons so long as you remain roughly 15 degrees out of its bore sight.
 
 Continue pumping gauss damage into the Thargoid while orbiting and deploying heatsinks upon each heatsink ejection.
 
-_When fighting a Medusa or Hydra, try to time your shots as such to only fire your gauss after the Thargoid begins a salvo. This will ensure that your heat signature only raises above 20% while the interceptor is reloading. You can also map 1 or 2 of your gauss to the primary/secondary fire to prevent your heat from rising above 20% after firing._
+Try to **avoid getting closer than 1 km**, else the Thargoid will try engage its **lightning attack** at 700-800m, which will heavily damage your shields, render you immobile, and knock out your systems.
 
-After the heart is exerted quickly fire your gauss at the heart. The trade off between convergence and damage is best between 1-1.5 km. Prioritize aim and positioning rather than quantity. Once the heart is destroyed, transfer pips 2-4-0 and boost away. Your objective after the destruction of each heart is to get 3 km away from the Thargoid as to not trigger its special attack. Rinse and repeat until destruction of the last heart.
+- If you get hit by the lightning attack **while a heart is exerted**, do not try to flee, the Thargoid will be not moving, use the opportunity and trade blows to destroy the heart.
+- And once it breaks you will have about 10-20 secs to get away without any further damage.
+
+After the heart is exerted quickly fire your gauss at the heart. The trade off between convergence and damage is best between 1-1.5 km. Prioritize aim and positioning rather than quantity. Once the heart is destroyed, transfer pips 2-4-0 and boost away. Your objective after the destruction of each heart is to stay cold until you get 3 km away from the Thargoid as to not trigger its special attack. Rinse and repeat until destruction of the last heart.
 
 ## Following Destruction of the Last Heart
 
