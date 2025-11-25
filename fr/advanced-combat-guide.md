@@ -2,7 +2,7 @@
 title: Guide de Combat Avancé
 description: Basé sur la doctrine Odysseus par CMDR Avasa Siuu
 published: true
-date: 2025-11-25T01:08:25.070Z
+date: 2025-11-25T13:38:59.493Z
 tags: équipement, combat, thargoids, intercepteurs
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -17,14 +17,18 @@ Cette doctrine est centrée autour d'une boucle de combat - vous répéterez ess
 
 Cette doctrine permet également de se concentrer le moins possible sur la gestion des pips car elle concerne le vol sans bouclier, ce qui vous permet d'établir vos priorités de puissance sur le répartiteur puis de vous concentrer ailleurs.
 
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/70xUm6Jh5eg?si=vTNTIe6agkk55PqR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
+</div>
+
 # Prepare your gear
 
 When attempting to undertake a task such as solo interceptor combat, it is cruicial to be prepared and bring the right tools for the job.
 
 ## Configuration du vaisseau
-Cette doctrine se concentre principalement sur le Chieftain. Le Challenger peut également être utilisé avec des modifications mineures de ses points d'emport. (Guide de configuration du Challenger en construction) Des vaisseaux tels que le Krait MKII, le Krait Phantom ou le FAS peuvent également être utilisés mais en raison du coût bon marché du Chieftain, de sa disposition de points d'emport et de sa manœuvrabilité, ce sera la priorité principale de cette doctrine.
+Cette doctrine se concentre principalement sur le Chieftain. Le Challenger peut également être utilisé avec des modifications mineures de ses points d'emport. Ships such as the Krait MKII, Corsair or FAS may also be used but due to the cheap entry cost of the Chieftain, its hard point layout and maneuverability, it is the primary focus for this doctrine.
 
-> The Chieftain is arguably the best learning platform for FA Off AX combat and orbiting.
+> The Chieftain is arguably the best learning platform for FA Off AX combat and orbiting. View [Recommended Builds](/en/builds).
 
 ## {.tabset}
 ### Modules internes primordiaux
@@ -60,27 +64,29 @@ Si vous n'avez pas de préférence pour le détecteur de xénomorphes, avoir un 
 
 ## Modifications d'ingénieurs
 L'objectif de cette liste est de minimiser les ingénieurs nécessaires pour les nouveaux commandants tout en permettant aux commandants plus expérimentés d'utiliser d'autres ingénieurs pour maximiser leur vaisseau. Les ingénieurs nécessaires aux modifications sont les suivants:
+
+
+Vidéo: [Débloquer les ingénieurs par CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
+
 ## {.tabset}
 
 
 ### Ingénieurs indispensables:
-- The Dweller (Wyrd) - G5 Répartiteur de Puissance (Rapide/Super Conduits)
-- Selene Jean (Kuk) - G5 Renforts de coque (Lourd / épais)
-- G5 Blindage (Lourd / épais)
-- Hera Tani (Kuwemaki) - G5 Générateur (Générateur blindé / Répartition thermique)
-- Professor Palin (Arque) - G5 Propulseurs (Optimisation de réacteur détériorante/débridage des réacteurs)
-- Broo Tarquin (Muang) - G5 Rayon laser (Longue portée/ventilation thermique)
+- The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits), G3 Beam Laser (Long Range/Thermal Vent)
+- Professor Palin (Arque) - G5 Thrusters (Dirty/Drag Drives)
+- Marco Qwent (Sirius) - G4 Power Plant (Armored/Thermal Spread)
+- Selene Jean (Kuk) - G5 Hull Reinforcement Package, G5 Armor (Heavy Duty/Deep Plate)
 - Ram Tah (Meene) - Dissipateurs thermiques (chargeur grande capacité)
 
 ### Ingénieurs optionnels:
+- Broo Tarquin (Muang) - G5 Rayon laser (Longue portée/ventilation thermique)
+- Hera Tani (Kuwemaki) - G5 Générateur (Générateur blindé / Répartition thermique)
 - Felicity Farseer (Deciat) - G5 Réacteur FSD modifié
 - Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Capteurs modifiés
 
-Vidéo: [Débloquer les ingénieurs par CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
-
 ## Objectif du vaisseau et des modifications
 - With the fitting and engineers listed this is the baseline of the doctrine needed to fully utilize the fitting of the ship with the engineers available for each module. If utilizing all engineers you are fully maximizing the capabilities of the Chieftain to allow you to engage all Interceptor variants efficiently and effectively.
-- The speed of the Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 500 m/s which is more than needed to engage any Interceptor variant. Basilisks requires an additional maneuver to combat due to its speed. See Basilisk Considerations
+- The speed of the Meta Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 530 m/s which is more than needed to engage any Interceptor variant. Basilisks can require an additional maneuver to combat due to its speed. See Basilisk Considerations.
 
 - The purpose of using a repair limpet controller instead of a shield generator is to allow commanders to repair their ship in case of a mistake. The Thargon swarm also does more phasing damage to ships that are shielded compared to those that are unshielded providing a bit of an advantage against the swarm and for power purposes of the ship. Synthesis of limpets may be needed dependent on damage received especially with the higher variants
 
@@ -140,7 +146,7 @@ Vidéo: [Débloquer les ingénieurs par CMDR Exigeous](https://www.youtube.com/w
 - Another similar tactic to the cold boost would be to engage silent running and perform your boost maneuver 180 degrees past the Basilisk. (The options taken will be dependent upon the commander.) The purpose of this maneuver is to allow the commander to save a heat sink and achieve the same outcome while taking advantage of the shieldless build.
 
 ## Basilisk Considerations
-The Basilisk variant has a top speed of 530m/s. The doctrine chieftain can not outrun the Basilisk if followed to the fitting. A required maneuver of a cold boost (engaging a heat sink before boosting 180 degrees past the Basilisk) will allow you to gain valuable distance from the Basilisk to allow you to synthesize more heat sinks or ammo or perform any repairs to your ship before committing to your next combat loop. The Basilisk does not do well when it has to adjust its momentum from one direction to the opposite. Do take in mind this will put you in the path of the swarm also triggering its agitated state if you fly through it.
+The Basilisk variant has a top speed of 530m/s. The Meta Chieftain can barely outrun the Basilisk if followed to the fitting. A required maneuver of a cold boost (engaging a heat sink before boosting 180 degrees past the Basilisk) will allow you to gain valuable distance from the Basilisk to allow you to synthesize more heat sinks or ammo or perform any repairs to your ship before committing to your next combat loop. The Basilisk does not do well when it has to adjust its momentum from one direction to the opposite. Do take in mind this will put you in the path of the swarm, avoid flying through it as to not trigger its agitated state.
 
 # Swarm Management
 The purpose of engaging the swarm first on the initial engagement is to remove the “banked” swarm of the Interceptor from the equation. Whenever an Interceptor is engaged and the heart is destroyed first, the banked swarm will then launch forcing the commander to have to deal with a second swarm. Removing the banked swarm from the equation will allow the commander to efficiently use his time to focus on all subsequent hearts.
