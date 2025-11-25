@@ -2,7 +2,7 @@
 title: Guía de Combate Avanzada
 description: Basado en la Doctrina Odysseus de CMDR Avasa Siuu
 published: verdadero
-date: 2025-11-25T01:08:25.070Z
+date: 2025-11-25T13:38:59.493Z
 tags: equipamiento, combate, Thargoide, interceptores
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -17,14 +17,18 @@ Esta doctrina está centrada en un ciclo de combate en bucle, donde esencialment
 
 Esta doctrina permite también un enfoque mínimo en la gestión de los pips del Distribuidor de Energía puesto que la nave esta pensada en ser usada sin escudo, permitiendo así priorizar energía y atención en otros detalles o partes.
 
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/70xUm6Jh5eg?si=vTNTIe6agkk55PqR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
+</div>
+
 # Prepare your gear
 
 When attempting to undertake a task such as solo interceptor combat, it is cruicial to be prepared and bring the right tools for the job.
 
 ## Equipamiento de la nave
-Esta doctrina se centra principalmente en la Chieftain como su nave principal. El Challenger también se puede utilizar como un sustituto con cambios menores en sus Anclajes. (Guía de construcción de Challenger en construcción) También se pueden usar barcos como el Krait MKII, Krait Phantom o FAS, pero debido al costo barato de entrada del Chieftain, su convergencia de armas (Anclajes) y maniobrabilidad, es el enfoque principal de esta doctrina.
+Esta doctrina se centra principalmente en la Chieftain como su nave principal. El Challenger también se puede utilizar como un sustituto con cambios menores en sus Anclajes. Ships such as the Krait MKII, Corsair or FAS may also be used but due to the cheap entry cost of the Chieftain, its hard point layout and maneuverability, it is the primary focus for this doctrine.
 
-> The Chieftain is arguably the best learning platform for FA Off AX combat and orbiting.
+> The Chieftain is arguably the best learning platform for FA Off AX combat and orbiting. View [Recommended Builds](/en/builds).
 
 ## {.tabset}
 ### Internos Principales
@@ -60,27 +64,29 @@ Si no le da demasiada importancia al Escáner Xeno, puede asegurarse con un cuar
 
 ## Engineering (Ingeniar)
 El propósito de los ingenieros enumerados es minimizar los ingenieros necesarios para los comandantes de nivel de entrada en esta doctrina, mientras que también permite a los comandantes más experimentados utilizar más ingenieros para maximizar su nave. Los ingenieros necesarios para las modificaciones son los siguientes:
+
+
+VIDEO: [Desbloqueo de Ingenieros por CMDR Exigous,](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
+
 ## {.tabset}
 
 
 ### Ingenieros esenciales:
-- The Dweller (Wyrd) - G5 Distribuidor de Energía (Carga Mejorada/Superconductores)
-- Selene Jean (Kuk) - G5 Paquete de refuerzo Estructural (Alta Resistencia/Enchapado Profundo)
-- G5 Armazón "Blindaje" (Alta Resistencia/Enchapado Profundo)
-- Hera Tani (Kuwemaki) - G5 Núcleo de Energía (Blindado/Difusión Térmica)
-- Professor Palin (Arque) - G5 Impulsores (Sucio/de Arrastre)
-- Broo Tarquin (Muang) - G5 Láser Rayo (largo alcance/ventilacion térmico)
+- The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits), G3 Beam Laser (Long Range/Thermal Vent)
+- Professor Palin (Arque) - G5 Thrusters (Dirty/Drag Drives)
+- Marco Qwent (Sirius) - G4 Power Plant (Armored/Thermal Spread)
+- Selene Jean (Kuk) - G5 Hull Reinforcement Package, G5 Armor (Heavy Duty/Deep Plate)
 - Ram Tah (Meene) - Eyectores Térmicos(Capacidad de Munición)
 
 ### Ingenieros Opcionales:
+- Broo Tarquin (Muang) - G5 Láser Rayo (largo alcance/ventilacion térmico)
+- Hera Tani (Kuwemaki) - G5 Núcleo de Energía (Blindado/Difusión Térmica)
 - Felicity Farseer (Deciat) - G5 Ingeniera de Motor de Distorción
 - Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Ingeniería de sensores
 
-VIDEO: [Desbloqueo de Ingenieros por CMDR Exigous,](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
-
 ## Propósito de nave e ingeniería
 - Con el equipamiento y los ingenieros listados esta es la base de la doctrina necesaria para utilizar plenamente la instalación de la nave con los ingenieros disponibles para cada módulo. Si utilizas todos los ingenieros estás maximizando completamente las capacidades del Chieftain para permitirte combatir todas las variantes de Interceptor de manera eficiente y efectiva.
-- La velocidad del Chieftain cuando se mejora (engineered) a sus ajustes recomendados le permitirá alcanzar una velocidad mínima de aumento de 500 m/s que es más de lo necesario para cualquier variante de interceptor. Los basiliscos requieren un maniobra adicional para combatir debido a su velocidad. Vea Consideraciones de Basilisk
+- The speed of the Meta Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 530 m/s which is more than needed to engage any Interceptor variant. Basilisks can require an additional maneuver to combat due to its speed. See Basilisk Considerations.
 
 - El propósito de usar un controlador de Dron de reparación en lugar de un generador de escudos es permitir a los comandantes reparar su nave en caso de un error. El enjambre de Thargon también causa más daño por fases (perforante) a los barcos que tienen Escudos en comparación con los que no lo tienen, lo que proporciona una pequeña ventaja contra el enjambre y por el consumo reducido de energía de la Nave. La síntesis de Drones puede ser necesaria dependiendo del daño recibido, especialmente con las variantes más altas
 
@@ -101,7 +107,7 @@ VIDEO: [Desbloqueo de Ingenieros por CMDR Exigous,](https://www.youtube.com/watc
 -
 - Desactive su asistente de vuelo y dispare con su rayo láser. [Pips en: 0-4-2]
 -
-- Una vez que el Interceptor sea atacado, comenzará a lanzar su enjambre. Comience con un impulso(turbo) pasando el Interceptor y gane la distancia recomendada de 4-6km. [Pips en: 0-4-2]
+- Una vez que el Interceptor sea atacado, comenzará a lanzar su enjambre. Comience con un impulso(turbo) pasando el Interceptor y gane la distancia recomendada de 4-6km. [Pips at: 0-4-2]
 -
 - Una vez alcanzado, haz un giro de 180 grados mientras mantienes tu impulso hacia atrás para luchar contra el enjambre de Thargon. (Si se necesita el manejo de enjambres, consulte la sección V Gestión de enjambres) [Pips en: 0-4-2]
 -
@@ -140,7 +146,7 @@ VIDEO: [Desbloqueo de Ingenieros por CMDR Exigous,](https://www.youtube.com/watc
 - Otra táctica similar al impulso de frío sería ejecutar una carrera silenciosa y realizar su maniobra de impulso 180 grados pasando el basilisco. (Las opciones tomadas dependerán del comandante.) El propósito de esta maniobra es permitir que el comandante guarde un eyector de calor y logre el mismo resultado mientras aprovecha la construcción sin escudo.
 
 ## Consideraciones de Basilisk
-La variante Basilisk tiene una velocidad máxima de 530m/s. El Chieftain de la doctrina no puede correr más rápido que el basilisco si se sigue al pie de la letra. Una maniobra requerida de un impulso de frío (activar un eyector de calor antes de impulsar 180 grados más allá del basilisco) le permitirá ganar una valiosa distancia del basilisco para permitirle sintetizar más disipadores de calor o munición o realizar reparaciones en su barco antes de comprometerse a tu próximo bucle de combate. El basilisco tarda en girar. Tenga en cuenta que esto lo pondrá en el camino del enjambre y también activará su estado de agitación si lo atraviesa.
+La variante Basilisk tiene una velocidad máxima de 530m/s. The Meta Chieftain can barely outrun the Basilisk if followed to the fitting. Una maniobra requerida de un impulso de frío (activar un eyector de calor antes de impulsar 180 grados más allá del basilisco) le permitirá ganar una valiosa distancia del basilisco para permitirle sintetizar más disipadores de calor o munición o realizar reparaciones en su barco antes de comprometerse a tu próximo bucle de combate. El basilisco tarda en girar. Do take in mind this will put you in the path of the swarm, avoid flying through it as to not trigger its agitated state.
 
 # Afrontamiento del enjambre
 El propósito de atacar al enjambre primero en el enfrentamiento inicial es eliminar el enjambre "bancado" del Interceptor de la ecuación. Siempre que se activa un Interceptor y el corazón se destruye primero, el enjambre guardado se lanzará obligando al comandante a tener que lidiar con un segundo enjambre. Quitar el enjambre bancado de la ecuación permitirá al comandante utilizar eficientemente su tiempo para centrarse en todos los corazones posteriores.
