@@ -2,7 +2,7 @@
 title: Mekanik Atlama Rehberi
 description: Thargoid savaşlarında bazı mekanikler nasıl atlanır
 published: true
-date: 2025-11-23T21:38:59.313Z
+date: 2025-11-25T13:17:53.168Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
@@ -13,6 +13,10 @@ dateCreated: 2021-06-21T02:30:49.657Z
 Thargoid Interceptorler, Kalp parçalanmaları sonrası bazı özel yetenekler kullanırlar (bkz. [Özel Yetenekler](/en/special-attacks)). "Caustic Füzeler", "Shutdown Pulse" ve "Panik Kalkanları" yeteneklerini kullanmak için Interceptor'ün **Hedefe Kilitli** olması gerekir.
 
 Thargoid, Kalbi parçalandığı zaman **Hedefe Kilitli** durumuna geçmek ister. Thargoid Interceptor, yalnızca "mevcut hedef" (en yüksek hasar uygulamış)'in sıcaklığı **en düşük algılama eşiğinin üzerindeyse (>~20%)** ya da uzaklığı **en düşük algılama menzilinin içindeyse (<~700 m)** **"Hedefe Kilitli"** durumuna geçebilir.
+
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/f-2zN0f__HA?si=lKHzMmyW7qNVCct3&amp;start=89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
+</div>
 
 ## Sleep Phase
 
