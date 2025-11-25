@@ -2,7 +2,7 @@
 title: Guida al Combattimento Avanzato
 description: Basato sulla metodo Odysseus di CMDR Avasa Siuu
 published: true
-date: 2025-11-25T01:08:25.070Z
+date: 2025-11-25T13:38:59.493Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -17,14 +17,18 @@ Questo metodo è basato su un loop continuo - essenzialmente si sta ripetendo la
 
 Questo metodo, inoltre, permette di concentrarsi sul pip management, visto che le navi saranno tutte senza scudi, permettendo una maggiore liberta' in termini di power management.
 
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/70xUm6Jh5eg?si=vTNTIe6agkk55PqR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
+</div>
+
 # Prepare your gear
 
 When attempting to undertake a task such as solo interceptor combat, it is cruicial to be prepared and bring the right tools for the job.
 
 ## Come equipaggiare la nave
-Questo metodo usa la Chieftain come nave di riferimento. Si puo' usare anche la Challenger come sostituta, con leggere modifiche. (guida per come costruire una Challenger WIP) Navi come la Krait mk2, Krait phantom o FAS possono anche essere usate, ma per via del costo iniziale basso, la manovrabilita' e l'armamento della Chieftain, quest'ultima sara' quella su cui ci baseremo per questo metodo.
+Questo metodo usa la Chieftain come nave di riferimento. Si puo' usare anche la Challenger come sostituta, con leggere modifiche. Ships such as the Krait MKII, Corsair or FAS may also be used but due to the cheap entry cost of the Chieftain, its hard point layout and maneuverability, it is the primary focus for this doctrine.
 
-> The Chieftain is arguably the best learning platform for FA Off AX combat and orbiting.
+> The Chieftain is arguably the best learning platform for FA Off AX combat and orbiting. View [Recommended Builds](/en/builds).
 
 ## {.tabset}
 ### Core Internals
@@ -60,27 +64,29 @@ Se preferite non usare uno Xeno Scanner, in particolar modo per le varianti infe
 
 ## Ingenierizzazione
 Lo scopo degli ingegneri elencati e' quello di ridurne al minimo il numero necessario per i nuovi piloti; mentre allo stesso tempo permettere piloti con piu' esperienza di utilizzarli per massimizzare la loro nave. Gli ingegneri necessari per le modifiche sono i seguenti:
+
+
+VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
+
 ## {.tabset}
 
 
 ### Ingegneri essenziali:
-- The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
-- The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
-- G5 Armor (Heavy Duty/Deep Plate)
-- Hera Tani (Kuwemaki) - G5 Power Plant (Armored/Thermal Spread)
-- Professor Palin (Arque) - G5 Thrusters(Dirty/Drag Drives)
-- Broo Tarquin (Muang) - G5 Beam Laser (Long Range/Thermal Vent)
+- The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits), G3 Beam Laser (Long Range/Thermal Vent)
+- Professor Palin (Arque) - G5 Thrusters (Dirty/Drag Drives)
+- Marco Qwent (Sirius) - G4 Power Plant (Armored/Thermal Spread)
+- Selene Jean (Kuk) - G5 Hull Reinforcement Package, G5 Armor (Heavy Duty/Deep Plate)
 - Ram Tah (Meene) - Heat Sink Launcher (Ammo Capacity)
 
 ### Ingegneri opzionali:
+- Broo Tarquin (Muang) - G5 Beam Laser (Long Range/Thermal Vent)
+- Hera Tani (Kuwemaki) - G5 Power Plant (Armored/Thermal Spread)
 - Felicity Farseer (Deciat) - G5 Frame Shift Drive engineering
 - Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensors engineering
 
-VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
-
 ## Principi di configurazione ed ingegneria della nave
 - Con la configurazione e gli ingegneri elencati, questa e' la base necessaria per essere in grado di usare la nave al massimo delle sue capacita'. Se utilizzerete tutti gli ingegneri utilizzerete al massimo le capacita' della Chieftain, che vi permettera' di combattere tutte le varianti in maniera efficiente.
-- La velocita' della chieftain, se ingegnerizzata come consigliato sopra, superera' i 500 m/s, che sara' piu' del necessario a combattere qualsiasi variante. I Basilisk richiederanno una manovra in piu', per via della loro velocita' (vedi Misure necessarie per Basilisk).
+- The speed of the Meta Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 530 m/s which is more than needed to engage any Interceptor variant. Basilisks can require an additional maneuver to combat due to its speed. See Basilisk Considerations.
 
 - Lo scopo di utilizzare un repair limpet controller invece che uno scudo e' quello di permettere la riparazione della nave in caso di errori. Inoltre lo swarm causa maggior danno (phasing damage) alle navi che hanno uno scudo rispetto a quelle senza, e questo è un buon vantaggio per la gestione dello swarm. oltre a questo facilita il power management, semplificando la gestione dei pips. Potrebbe essere necessario sintetizzare dei limpets in base al danno ricevuto, specialmente contro le varianti piu' difficili.
 
@@ -101,7 +107,7 @@ VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lv
 -
 - Disabilita il Flight Assist, e usa il tuo laser per attaccare l'interceptor. [Pips a: 0-4-2]
 -
-- Una volta che l'Interceptor e' aggredito, rilascerà ' lo swarm. Guadagnate velocita' con un boost per allontanarvi dall'interceptor fino ad una distanza di 4-6km. [Pips a: 0-4-2]
+- Una volta che l'Interceptor e' aggredito, rilascerà ' lo swarm. Guadagnate velocita' con un boost per allontanarvi dall'interceptor fino ad una distanza di 4-6km. [Pips at: 0-4-2]
 -
 - Raggiunta la distanza consigliata (4-6km), ruotate la nave di 180 gradi, per poter ingaggiare lo swarm. (questa manovra e' anche chiamata "Reverski") (per swarm management vedi sezione V) [Pips a: 0-4-2]
 -
@@ -140,7 +146,7 @@ VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lv
 - Un'altra tattica simile alla spinta a freddo, sarebbe quella di ingaggiare in silent running, ed eseguire la manovra di boost 180 gradi oltre il Basilisco. (Le opzioni adottate dipenderanno dal comandante.) Lo scopo di questa manovra è permettere al comandante di salvare un dissipatore di calore e raggiungere lo stesso risultato sfruttando la costruzione senza scudo.
 
 ## Considerazioni sul Basilisk
-La variante Basilisk ha una velocità massima di 530 m/s. La build del chieftain non può superare il Basilisk se seguita alla lettera. Una manovra necessaria di una spinta a freddo (utilizzando un dissipatore di calore prima di bustare di 180 gradi oltre il Basilisk) ti permetterà di ottenere una distanza preziosa dal Basilisk per consentire di sintetizzare più dissipatori di calore o munizioni o di eseguire qualsiasi riparazione alla tua nave prima di effettuare il tuo prossimo ciclo di combattimento. Il Basilisk non si comporta benequando deve correggere il suo movimento da una direzione all'altra. Tenete a mente, questo vi metterà nel percorso dello sciame anche innescando il suo stato agitato se volerete attraverso di esso.
+La variante Basilisk ha una velocità massima di 530 m/s. The Meta Chieftain can barely outrun the Basilisk if followed to the fitting. Una manovra necessaria di una spinta a freddo (utilizzando un dissipatore di calore prima di bustare di 180 gradi oltre il Basilisk) ti permetterà di ottenere una distanza preziosa dal Basilisk per consentire di sintetizzare più dissipatori di calore o munizioni o di eseguire qualsiasi riparazione alla tua nave prima di effettuare il tuo prossimo ciclo di combattimento. Il Basilisk non si comporta benequando deve correggere il suo movimento da una direzione all'altra. Do take in mind this will put you in the path of the swarm, avoid flying through it as to not trigger its agitated state.
 
 # Gestione dello Sciame
 Lo scopo d'ingaggiare lo sciame per primo nel combattimento iniziale è rimuovere dall'equazione lo sciame "supplementare" dell'Interceptor. Ogni volta che un Interceptor viene ingaggiato e il cuore viene distrutto per primo, lo sciame supplementare si lancerà, costringendo il comandante a doversi confrontare con un secondo sciame. La rimozione dello sciame supplementare dall'equazione consentirà al comandante di utilizzare in modo efficiente il suo tempo per concentrarsi su tutti i cuori successivi.
