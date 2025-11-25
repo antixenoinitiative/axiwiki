@@ -2,7 +2,7 @@
 title: İleri Düzey Savaş Rehberi
 description: CMDR Avasa Siuu tarafından hazırlanan Odysseus Öğretisi'ne dayanmaktadır.
 published: true
-date: 2025-11-25T01:08:25.070Z
+date: 2025-11-25T13:38:59.493Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -17,14 +17,18 @@ Bu öğreti tekrar eden bir savaş stili etrafında şekillenmiştir. Temel olar
 
 Ayrıca bu öğreti "pip" yönetimine minimum gereksinim sağlar. Kalkansız bir gemi kullanacağınız için güç aktarımını ve odağınızı başka yerlerde tutabilirsiniz.
 
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/70xUm6Jh5eg?si=vTNTIe6agkk55PqR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
+</div>
+
 # Prepare your gear
 
 When attempting to undertake a task such as solo interceptor combat, it is cruicial to be prepared and bring the right tools for the job.
 
 ## Gemi Donanımı
-Bu öğretinin merkezinde Chieftain vardır. Challenger da hardpoint'lerdeki ufak değişiklerle kullanılabilir. (Challenger donanım rehberi şu an yapım aşamasında) Krait MKII, Krait Phantom ya da FAS gibi gemiler de kullanılabilir ancak Chieftain, hardpoint düzeni ve manevra kabiliyeti ve ucuz fiyatı sebebiyle bu öğretinin ana odağındadır.
+Bu öğretinin merkezinde Chieftain vardır. Challenger da hardpoint'lerdeki ufak değişiklerle kullanılabilir. Ships such as the Krait MKII, Corsair or FAS may also be used but due to the cheap entry cost of the Chieftain, its hard point layout and maneuverability, it is the primary focus for this doctrine.
 
-> The Chieftain is arguably the best learning platform for FA Off AX combat and orbiting.
+> The Chieftain is arguably the best learning platform for FA Off AX combat and orbiting. View [Recommended Builds](/en/builds).
 
 ## {.tabset}
 ### Core Internals
@@ -60,27 +64,29 @@ Not: Eğer Xeno Scanner tercih etmez de fazladan Heatsink Launcher alırsanız, 
 
 ## Mühendislik
 Burada listelenen mühendislerle giriş seviyesindeki kumandanlar için gereken mühendisliği en alt seviyede tutmak, ancak aynı zamanda da daha deneyimli kumandanların ileri düzey mühendislikle gemilerini en üst seviyeye çıkarabilmelerini sağlamak amaçlanmıştır. Gereken mühendisler aşağıda listelenmiştir:
+
+
+Video: CMDR Exigeous tarafından hazırlanan [Unlocking Engineers (Mühendisleri açmak - İngilizce)](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
+
 ## {.tabset}
 
 
 ### Minimum Mühendisler:
-- The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
-- Selene Jean (Kuk) - G5 Hull Reinforcement Package (Heavy Duty/Deep Plate)
-- G5 Armor (Heavy Duty/Deep Plate)
-- Hera Tani (Kuwemaki) - G5 Power Plant (Armored/Thermal Spread)
-- Professor Palin (Arque) - G5 Thrusters(Dirty/Drag Drives)
-- Broo Tarquin (Muang) - G5 Beam Laser (Long Range/Thermal Vent)
+- The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits), G3 Beam Laser (Long Range/Thermal Vent)
+- Professor Palin (Arque) - G5 Thrusters (Dirty/Drag Drives)
+- Marco Qwent (Sirius) - G4 Power Plant (Armored/Thermal Spread)
+- Selene Jean (Kuk) - G5 Hull Reinforcement Package, G5 Armor (Heavy Duty/Deep Plate)
 - Ram Tah (Meene) - Heatsink Launcher (Ammo Capacity)
 
 ### Opsiyonel Mühendisler:
+- Broo Tarquin (Muang) - G5 Beam Laser (Long Range/Thermal Vent)
+- Hera Tani (Kuwemaki) - G5 Power Plant (Armored/Thermal Spread)
 - Felicity Farseer (Deciat) - G5 Frame Shift Drive
 - Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensors
 
-Video: CMDR Exigeous tarafından hazırlanan [Unlocking Engineers (Mühendisleri açmak - İngilizce)](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
-
 ## Gemi ve Mühendisliğin Amacı
 - Verilen donanım ve mühendislik listesiyle, elinizdeki donanımdan mevcut olan mühendislik seçenekleriyle en etkin şekilde faydalanmayı sağlamak bu öğretinin temel noktasıdır. Mühendislerden tamamen faydalandığınız zaman Chieftain'in tüm kabiliyetlerine sahip olup, tüm Interceptor türleriyle etkin ve etkili çatışmaya girebilirsiniz.
-- Chieftain'in önerilen yükseltmeyle erişilen minimum 500 m/s boost sürati, herhangi bir Interceptor türüne karşı fazlasıya yeterlidir. Basilisk, hızı sebebiyle ek manevra gerektirir. Basilisk Hakkında Dikkat Edilecek Hususlar kısmına göz atın.
+- The speed of the Meta Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 530 m/s which is more than needed to engage any Interceptor variant. Basilisks can require an additional maneuver to combat due to its speed. See Basilisk Considerations.
 
 - Kalkan yerine "Repair Limpet Controller" kullanılmasının amacı kumandanların herhangi bir hata halinde gemilerini onarmalarına imkan sağlamaktır. Ayrıca Thargon Swarm, kalkanlı gemilere karşı ek olarak "phasing" hasarı da (kalkanı delip geçen hasar) uyguladığından kalkansız gemiler Swarm'a karşı biraz daha avantaj sahibidirler. Alınan hasara bağlı olarak, özellikle üst seviye türlere karşı, Limpet sentezlemek gerekebilir.
 
@@ -101,7 +107,7 @@ Video: CMDR Exigeous tarafından hazırlanan [Unlocking Engineers (Mühendisleri
 -
 - Flight Assist'i kapatın ve Beam Laser ile saldırıyı başlatın. [Pip: 0-4-2]
 -
-- Interceptor savaşa girdikten sonra Swarm'ını salmaya başlar. Interceptor'ün yanından boostlayıp geçin ve önerilen 4-6 km mesafeyi açın. [Pip: 0-4-2]
+- Interceptor savaşa girdikten sonra Swarm'ını salmaya başlar. Interceptor'ün yanından boostlayıp geçin ve önerilen 4-6 km mesafeyi açın. [Pips at: 0-4-2]
 -
 - Mesafe açtıktan sonra hareketinize devam ederken 180 derece dönün ve Thargon Swarm'ına saldırınızı başlatın. (Eğer Swarm yönetimi gerekiyorsa Bölüm V Swarm Yönetimi kısmına göz atın) [Pip: 0-4-2]
 -
@@ -140,7 +146,7 @@ Video: CMDR Exigeous tarafından hazırlanan [Unlocking Engineers (Mühendisleri
 - Soğuk boosta benzer başka bir taktik ise "silent running" uygulayarak Basilisk'in yanından boostlayıp geçmektir. (Kullanılacak seçenekler kumandanın kararına kalmıştır.) Bu manevranın amacı kumandanların heatsink harcamadan kalkansız geminin avantajını kullanarak aynı sonuca ulaşmalarını sağlamaktır.
 
 ## Basilisk Hakkında Dikkat Edilecek Hususlar
-Basilisk 530 m/s hıza çıkabilmektedir. Bu öğretideki Chieftain, eğer önerilen donanım kullanıldıysa Basilisk'ten hızlı kaçamaz. Gereken bir manevra olarak soğuk boost (heatsink ateşleyip Basilisk'in yanından boostlayıp geçmek) Basilisk'le aranızda değerli bir mesafe açarak, gerekli sentezleri ve/veya onarımları yapmanıza olanak tanıyacaktır. Basilisk bir yönde tam hız giderken zıt yöne dönmekte zorlanır. Genel olarak, Interceptorler çok süratli gidebilseler de bu sürati kazanmaları, fren yapmaları ve yön değiştirip tekrar hızlanmaları çok zaman alır. Unutmayın ki bu manevra sizi Swarm'ın uçuş yoluna sokabilir ve eğer Swarm'ın içinden geçecek olursanız Swarm'ın "huzursuz" durumunu tetikleyebilirsiniz.
+Basilisk 530 m/s hıza çıkabilmektedir. The Meta Chieftain can barely outrun the Basilisk if followed to the fitting. Gereken bir manevra olarak soğuk boost (heatsink ateşleyip Basilisk'in yanından boostlayıp geçmek) Basilisk'le aranızda değerli bir mesafe açarak, gerekli sentezleri ve/veya onarımları yapmanıza olanak tanıyacaktır. Basilisk bir yönde tam hız giderken zıt yöne dönmekte zorlanır. Genel olarak, Interceptorler çok süratli gidebilseler de bu sürati kazanmaları, fren yapmaları ve yön değiştirip tekrar hızlanmaları çok zaman alır. Do take in mind this will put you in the path of the swarm, avoid flying through it as to not trigger its agitated state.
 
 # Swarm Yönetimi
 İlk önce Swarm'a saldırmanın amacı, Interceptor'deki depolanan Swarm'ı olaya dahil etmemektir. İlk önce Interceptor'e saldırıp Kalbini parçalarsanız, ilk Swarm'ın üstüne bir de depolanmış Swarm'ını salarak sizi iki Swarm'la uğraşmaya itecektir. Depolanmış Swarm'ın olaya dahil oluşunu engellemek Kalp parçalamalar sonrasındaki zamanınızı daha iyi kullanmanıza ve kalan Kalplere odaklanmanıza yardımcı olacaktır.
