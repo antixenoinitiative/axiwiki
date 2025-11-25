@@ -2,7 +2,7 @@
 title: Flight
 description: An introduction to advanced maneuvers and flight strategy for various anti-xeno activities.
 published: true
-date: 2025-11-25T16:06:57.195Z
+date: 2025-11-25T16:13:40.238Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:20:24.558Z
@@ -100,22 +100,32 @@ The moment an interceptor “turns away” to rearm, boost. The boost has four p
 1. Now back on regular thrust, jam down and back thrust to-establish your orbit.
 The key is to limit the velocity out of your boost to no more than 350-400 ideally. More than that, and you’ll swing out of range instead of re-establishing an orbit.
 
-### The "Reverski"
+### "Reverski"
 Traveling in a certain direction in Flight Assist OFF, while having the ship face backwards.
 Particularly useful with an enemy like a thargoid interceptor and swarm in pursuit of you.
 
 Can use this technique during AX to deploy Flak against the Swarm or beam the interceptors' shield during repairs.
 
-### The Flip
+### The "Flip"
 (Not actually a flip) Flight Assist OFF, Boost, Hold Cargo Scoop, and any combination of pitch, roll, and/or yaw to turn rapidly with a small turn radius. 
 
-### The Painbeaver 
-From Mechan, “Probably the most famous "named maneuver", it involves chasing the swarm and flakking it while it's flying away from you (after flying over you.) It is one of the few ways that slow ships (notably the ‘Vette, but also the ‘Conda and FGS) can effectively deal with the swarm. Named after CMDR Painbeaver.”
- Demo: [The Painbeaver](<https://youtu.be/nJFdd9AEjNI>)<https://youtu.be/nJFdd9AEjNI>
+### The "Painbeaver"
 
-### The Muquuu
-From Mechan, "The ultimate "power ram". Using a heavy ship (likely 500t+, although it's possible to pull it off with 400t ships), and most commonly demonstrated in an Imperial Cutter, when the goid is lightning-chasing you, ram it head-on so that the momentum of the bonk pushes it outside of 800m, thus cutting the lightning zap short (and speeding up the fight.) Named after CMDR MuQuuu."
-Demo: [The Muquuu](<https://www.youtube.com/watch?v=5_DPowS53hQ>) same as: <https://www.youtube.com/watch?v=5_DPowS53hQ>
+Involves chasing the swarm and flakking it while it's flying away from you (after flying over you.) It is one of the few ways that slow ships (notably the ‘Vette, but also the ‘Conda and FGS) can effectively deal with the swarm. 
+
+Named after CMDR Painbeaver.
+ Demo: [The Painbeaver](<https://youtu.be/nJFdd9AEjNI>)
+ 
+ > Probably the most famous "named maneuver".
+
+### The "Muquuu"
+
+Using a heavy ship (likely 500t+, although it's possible to pull it off with 400t ships), and most commonly demonstrated in an Imperial Cutter, when the goid is lightning-chasing you, ram it head-on so that the momentum of the bonk pushes it outside of 800m, thus cutting the lightning zap short (and speeding up the fight.) 
+
+Named after CMDR MuQuuu.
+Demo: [The Muquuu](<https://www.youtube.com/watch?v=5_DPowS53hQ>)
+
+> The ultimate "power ram". 
 
 ## Planetary Overspeed
 
