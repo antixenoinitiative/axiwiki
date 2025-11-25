@@ -2,7 +2,7 @@
 title: Flight
 description: An introduction to advanced maneuvers and flight strategy for various anti-xeno activities.
 published: true
-date: 2025-11-25T00:11:58.568Z
+date: 2025-11-25T16:06:57.195Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:20:24.558Z
@@ -124,8 +124,5 @@ A planetary instance is any normal space instance at or under orbital cruise for
 The corrective action required to regain complete control is to thrust to redirect the ship’s current vector away from the planet. If at low enough radar-altitude, the point at which the ship regains control loses this overspeed condition is when the vertical speed indicator (VSI) indicates neutral or increasing. 
 
 As a side, the Elite community has, in the past, organized several competitions built around this flight mechanic, abusing it to spectacular effect which we call  **speedball**, **speed bowling** and **gravity bowling**.
-CMDR Exigeous [What is Speedbowling?](<https://youtu.be/vhbUZS3wiwY>) same as: <https://youtu.be/vhbUZS3wiwY>
 
----
-
-[Prev Topic: Recommended Controls](/en/recommended-controls) - End of Flight page - [Next Topic: Combat Guide](/en/advanced-combat-guide)
+CMDR Exigeous [What is Speedbowling?](<https://youtu.be/vhbUZS3wiwY>)
