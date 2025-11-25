@@ -2,7 +2,7 @@
 title: Advanced Combat Guide
 description: Based on the Odysseus Doctrine by CMDR Avasa Siuu
 published: true
-date: 2025-11-25T01:05:41.184Z
+date: 2025-11-25T01:08:25.070Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -60,10 +60,10 @@ If you have no preference for the Xeno Scanner especially for the lower variants
 
 ## Engineering
 The purpose of the engineers listed is to minimize the needed engineers for entry level commanders into this doctrine while also allowing the more experienced commanders to utilize further engineers to maximize their ship. The engineers needed for the modifications are as follows:
-# {.tabset}
+## {.tabset}
 
 
-## Minimum Engineers:
+### Minimum Engineers:
 - The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
 - Selene Jean (Kuk) - G5 Hull Reinforcement Package (Heavy Duty/Deep Plate)
 - G5 Armor (Heavy Duty/Deep Plate)
@@ -72,13 +72,13 @@ The purpose of the engineers listed is to minimize the needed engineers for entr
 - Broo Tarquin (Muang) - G5 Beam Laser (Long Range/Thermal Vent)
 - Ram Tah (Meene) - Heat Sink Launcher (Ammo Capacity)
 
-## Optional Engineers:
+### Optional Engineers:
 - Felicity Farseer (Deciat) - G5 Frame Shift Drive engineering
 - Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensors engineering
 
 VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
-# Purpose of Ship and Engineering
+## Purpose of Ship and Engineering
 - With the fitting and engineers listed this is the baseline of the doctrine needed to fully utilize the fitting of the ship with the engineers available for each module. If utilizing all engineers you are fully maximizing the capabilities of the Chieftain to allow you to engage all Interceptor variants efficiently and effectively.
 - The speed of the Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 500 m/s which is more than needed to engage any Interceptor variant. Basilisks requires an additional maneuver to combat due to its speed. See Basilisk Considerations
 
