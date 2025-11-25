@@ -1,9 +1,9 @@
 ---
 title: War Builds
 description: Builds that were related to war-specific content.
-published: false
-date: 2025-11-25T23:28:16.699Z
-tags: 
+published: true
+date: 2025-11-25T23:55:18.280Z
+tags: builds
 editor: markdown
 dateCreated: 2025-11-21T10:54:53.633Z
 ---
