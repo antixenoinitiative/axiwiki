@@ -2,7 +2,7 @@
 title: Guía de Combate Avanzada
 description: Basado en la Doctrina Odysseus de CMDR Avasa Siuu
 published: verdadero
-date: 2023-01-09T01:54:40.607Z
+date: 2025-11-25T01:08:25.070Z
 tags: equipamiento, combate, Thargoide, interceptores
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -17,11 +17,17 @@ Esta doctrina está centrada en un ciclo de combate en bucle, donde esencialment
 
 Esta doctrina permite también un enfoque mínimo en la gestión de los pips del Distribuidor de Energía puesto que la nave esta pensada en ser usada sin escudo, permitiendo así priorizar energía y atención en otros detalles o partes.
 
-# Equipamiento de la nave
+# Prepare your gear
 
+When attempting to undertake a task such as solo interceptor combat, it is cruicial to be prepared and bring the right tools for the job.
+
+## Equipamiento de la nave
 Esta doctrina se centra principalmente en la Chieftain como su nave principal. El Challenger también se puede utilizar como un sustituto con cambios menores en sus Anclajes. (Guía de construcción de Challenger en construcción) También se pueden usar barcos como el Krait MKII, Krait Phantom o FAS, pero debido al costo barato de entrada del Chieftain, su convergencia de armas (Anclajes) y maniobrabilidad, es el enfoque principal de esta doctrina.
 
-## Internos Principales
+> The Chieftain is arguably the best learning platform for FA Off AX combat and orbiting.
+
+## {.tabset}
+### Internos Principales
 - Compuesto de Clase Militar (Alta Resistencia/Enchapado Profundo)
 - 6A Núcleo de Energía (Blindado/Difusión Térmica)
 - 6A Impulsores (Sucio/de Arrastre)
@@ -31,7 +37,7 @@ Esta doctrina se centra principalmente en la Chieftain como su nave principal. E
 - 4D Sensores (Larga distancia "opcional")
 - 4C Tanque de Combustible
 
-## Internos Opcionales
+### Internos Opcionales
 - 5D Controlador de Drones de Reparacion
 - 5D Guardian Module Reinforcement Package
 - 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate) **Military Slots Only**
@@ -40,22 +46,24 @@ Esta doctrina se centra principalmente en la Chieftain como su nave principal. E
 - 2D Guardian Module Reinforcement Package
 - 1D Guardian Moudle Reinforcement Package
 
-## Anclajes
+### Anclajes
 - 2B Cañones de Gauss Guardián x2 (Equipados en los 2 Espacios Grandes)
 - 2B Lanzador Antiaéreo Remoto "Flak" (Anclaje Intermedio)
 - 1D Cañones de Gauss Guardián x2 (Equipado en los dos pequeñas Anclajes a la izquierda y derecha del Casco)
 - 1G Láser Rayo (largo alcance/ventilacion térmico instalado en el anclaje pequeña del medio)
 
-## Anclajes de Apoyo
+### Anclajes de Apoyo
 - 3x Eyectores Térmicos(Capacidad de Munición)
 - Escáner Xeno /Eyectores Térmicos (Depende del comandante si desean ver el casco y el enjambre del Thargoid)
 
 Si no le da demasiada importancia al Escáner Xeno, puede asegurarse con un cuarto Eyector Térmico que nunca tendrá que sintetizar Eyectores Térmicos con las variantes de Interceptor inferiores.
 
-# Engineering (Ingeniar)
+## Engineering (Ingeniar)
 El propósito de los ingenieros enumerados es minimizar los ingenieros necesarios para los comandantes de nivel de entrada en esta doctrina, mientras que también permite a los comandantes más experimentados utilizar más ingenieros para maximizar su nave. Los ingenieros necesarios para las modificaciones son los siguientes:
+## {.tabset}
 
-## Ingenieros esenciales:
+
+### Ingenieros esenciales:
 - The Dweller (Wyrd) - G5 Distribuidor de Energía (Carga Mejorada/Superconductores)
 - Selene Jean (Kuk) - G5 Paquete de refuerzo Estructural (Alta Resistencia/Enchapado Profundo)
 - G5 Armazón "Blindaje" (Alta Resistencia/Enchapado Profundo)
@@ -64,13 +72,13 @@ El propósito de los ingenieros enumerados es minimizar los ingenieros necesario
 - Broo Tarquin (Muang) - G5 Láser Rayo (largo alcance/ventilacion térmico)
 - Ram Tah (Meene) - Eyectores Térmicos(Capacidad de Munición)
 
-## Ingenieros Opcionales:
+### Ingenieros Opcionales:
 - Felicity Farseer (Deciat) - G5 Ingeniera de Motor de Distorción
 - Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Ingeniería de sensores
 
 VIDEO: [Desbloqueo de Ingenieros por CMDR Exigous,](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
-# Propósito de nave e ingeniería
+## Propósito de nave e ingeniería
 - Con el equipamiento y los ingenieros listados esta es la base de la doctrina necesaria para utilizar plenamente la instalación de la nave con los ingenieros disponibles para cada módulo. Si utilizas todos los ingenieros estás maximizando completamente las capacidades del Chieftain para permitirte combatir todas las variantes de Interceptor de manera eficiente y efectiva.
 - La velocidad del Chieftain cuando se mejora (engineered) a sus ajustes recomendados le permitirá alcanzar una velocidad mínima de aumento de 500 m/s que es más de lo necesario para cualquier variante de interceptor. Los basiliscos requieren un maniobra adicional para combatir debido a su velocidad. Vea Consideraciones de Basilisk
 
@@ -147,15 +155,19 @@ El propósito de atacar al enjambre primero en el enfrentamiento inicial es elim
 Estar fuera de la órbita puede costar rondas adicionales de los cañones Gauss debido a la caída de daños y se producirá un desperdicio de eyectores de calor. No es aconsejable disparar fuera de la distancia efectiva.
 
 # Modo de sueño Thargoid
--El interceptor entrará en modo de sueño después de una destrucción de un corazón si el comandante mantiene la temperatura de su Nave por debajo del 15%.
+- The interceptor will enter a sleep mode after a destruction of a heart and the commander maintains his ships heat below ~20%.
 
--El modo de sueño evitará que el interceptor lance sus misiles cáusticos permitiendo al comandante evitar por completo esa etapa de combate contra los interceptores.
+- Uninterrupted, the sleep mode will prevent the interceptor from launching its caustic missiles allowing the commander to completely avoid that stage of interceptor combat.
 
--The sleep mode will also prevent the activation of the interceptors shut down field removing the need for a shut down field neutralizer and also removing the need from having to have flight assist off and boost away from the interceptor while shut down. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
+- The sleep mode will also prevent the activation of the interceptors shut down field removing the need for a shut down field neutralizer and also removing the need from having to have flight assist off and boost away from the interceptor while shut down. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
 
--The window the interceptor will be in sleep mode lasts approximately 30 seconds.
+- The window the interceptor will be in sleep mode lasts approximately 30-40 seconds.
 
--This is why the importance of the thermal vent beam laser comes into play allowing a ship to maintain 0% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks.
+> Learn more about [Special Attack Avoidance](/en/mechanic-bypass) during Interceptor combat. 
+> 
+> {.is-info}
+
+This is why the importance of the thermal vent beam laser comes into play; allowing a ship to maintain <20% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks. Mind this only applied when not firing other weapons that strain your distributor at the same time.
 
 
 `CREDITS
