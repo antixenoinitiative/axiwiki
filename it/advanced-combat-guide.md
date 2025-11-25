@@ -2,7 +2,7 @@
 title: Guida al Combattimento Avanzato
 description: Basato sulla metodo Odysseus di CMDR Avasa Siuu
 published: true
-date: 2023-01-09T01:54:40.607Z
+date: 2025-11-25T01:08:25.070Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -17,11 +17,17 @@ Questo metodo è basato su un loop continuo - essenzialmente si sta ripetendo la
 
 Questo metodo, inoltre, permette di concentrarsi sul pip management, visto che le navi saranno tutte senza scudi, permettendo una maggiore liberta' in termini di power management.
 
-# Come equipaggiare la nave
+# Prepare your gear
 
+When attempting to undertake a task such as solo interceptor combat, it is cruicial to be prepared and bring the right tools for the job.
+
+## Come equipaggiare la nave
 Questo metodo usa la Chieftain come nave di riferimento. Si puo' usare anche la Challenger come sostituta, con leggere modifiche. (guida per come costruire una Challenger WIP) Navi come la Krait mk2, Krait phantom o FAS possono anche essere usate, ma per via del costo iniziale basso, la manovrabilita' e l'armamento della Chieftain, quest'ultima sara' quella su cui ci baseremo per questo metodo.
 
-## Core Internals
+> The Chieftain is arguably the best learning platform for FA Off AX combat and orbiting.
+
+## {.tabset}
+### Core Internals
 - Military Grade Composite (Heavy Duty/Deep Plate)
 - 6A Power Plant (Armored/Thermal Spread)
 - 6A Thrusters (Dirty/Drag Drives)
@@ -31,7 +37,7 @@ Questo metodo usa la Chieftain come nave di riferimento. Si puo' usare anche la 
 - 4D Sensors (Long range optional)
 - 4C Fuel Tank
 
-## Optional Internals
+### Optional Internals
 - 5D Repair Limpet Controller
 - 5D Guardian Module Reinforcement Package
 - 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate) **Military Slots Only**
@@ -40,22 +46,24 @@ Questo metodo usa la Chieftain come nave di riferimento. Si puo' usare anche la 
 - 2D Guardian Module Reinforcement Package
 - 1D Guardian Moudle Reinforcement Package
 
-## Hardpoints
+### Hardpoints
 - 2B Guardian Gauss Cannons x2 (montato nei 2 Large Slots)
 - 2B Remote Release Flak Launcher (Medium Slot)
 - 1D Guardian Gauss Cannons x2 (Montato nei due small slots a sinistra e a destra dello scafo)
 - 1G Beam Laser (Long Range/Thermal Vent montato nello slot arma medio/piccolo)
 
-## Utility
+### Utility
 - 3x OI Heat Sink Launchers (Ammo Capacity)
 - Xeno Scanner/Heat Sink Launcer ( in base alle preferenze del pilota, se preferisce avere le informazioni sulla hull del Thargoid e sul numero dei componenti dello swarm)
 
 Se preferite non usare uno Xeno Scanner, in particolar modo per le varianti inferiori, avere un quarto heatsink assicurera', nella maggior parte dei casi di non avere bisogno di sintetizzarli.
 
-# Ingenierizzazione
+## Ingenierizzazione
 Lo scopo degli ingegneri elencati e' quello di ridurne al minimo il numero necessario per i nuovi piloti; mentre allo stesso tempo permettere piloti con piu' esperienza di utilizzarli per massimizzare la loro nave. Gli ingegneri necessari per le modifiche sono i seguenti:
+## {.tabset}
 
-## Ingegneri essenziali:
+
+### Ingegneri essenziali:
 - The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
 - The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
 - G5 Armor (Heavy Duty/Deep Plate)
@@ -64,13 +72,13 @@ Lo scopo degli ingegneri elencati e' quello di ridurne al minimo il numero neces
 - Broo Tarquin (Muang) - G5 Beam Laser (Long Range/Thermal Vent)
 - Ram Tah (Meene) - Heat Sink Launcher (Ammo Capacity)
 
-## Ingegneri opzionali:
+### Ingegneri opzionali:
 - Felicity Farseer (Deciat) - G5 Frame Shift Drive engineering
 - Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensors engineering
 
 VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
-# Principi di configurazione ed ingegneria della nave
+## Principi di configurazione ed ingegneria della nave
 - Con la configurazione e gli ingegneri elencati, questa e' la base necessaria per essere in grado di usare la nave al massimo delle sue capacita'. Se utilizzerete tutti gli ingegneri utilizzerete al massimo le capacita' della Chieftain, che vi permettera' di combattere tutte le varianti in maniera efficiente.
 - La velocita' della chieftain, se ingegnerizzata come consigliato sopra, superera' i 500 m/s, che sara' piu' del necessario a combattere qualsiasi variante. I Basilisk richiederanno una manovra in piu', per via della loro velocita' (vedi Misure necessarie per Basilisk).
 
@@ -147,15 +155,19 @@ Lo scopo d'ingaggiare lo sciame per primo nel combattimento iniziale è rimuover
 Essere al di fuori dell'orbita utile può costare colpi extra dai cannoni Gauss a causa della diminuzione dei danni e si verificherà uno spreco di dissipatori di calore. È sconsigliato sparare al di fuori della area di ingaggio.
 
 # Modalità Sleep dei Thargoid
-- L'interceptor entrerà in modalità sospensione dopo la distruzione di un cuore e il comandante manterrà il calore della sua nave al di sotto del 15%.
+- The interceptor will enter a sleep mode after a destruction of a heart and the commander maintains his ships heat below ~20%.
 
-- La modalità sospensione impedirà all'intercettore di lanciare i suoi missili caustici consentendo al comandante di evitare completamente quella fase di combattimento dell'intercettore.
+- Uninterrupted, the sleep mode will prevent the interceptor from launching its caustic missiles allowing the commander to completely avoid that stage of interceptor combat.
 
-- La modalità di sospensione impedirà anche l'attivazione del campo di spegnimento degli intercettori, eliminando la necessità di un neutralizzatore di campo e rimuovendo anche la necessità di dover disattivare Flight Assist e allontanarsi dall'interceptor durante lo spegnimento. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
+- The sleep mode will also prevent the activation of the interceptors shut down field removing the need for a shut down field neutralizer and also removing the need from having to have flight assist off and boost away from the interceptor while shut down. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
 
-- La finestra in cui l'intercettore sarà in modalità di sospensione dura circa 30 secondi.
+- The window the interceptor will be in sleep mode lasts approximately 30-40 seconds.
 
-- Questo è il motivo per cui entra in gioco l'importanza del raggio laser con thermal vent che consente a una nave di mantenere lo 0% di calore senza la necessità di utilizzare dissipatori di calore, evitando la sintesi non necessaria di ulteriori dissipatori di calore.
+> Learn more about [Special Attack Avoidance](/en/mechanic-bypass) during Interceptor combat. 
+> 
+> {.is-info}
+
+This is why the importance of the thermal vent beam laser comes into play; allowing a ship to maintain <20% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks. Mind this only applied when not firing other weapons that strain your distributor at the same time.
 
 
 `CREDITS
