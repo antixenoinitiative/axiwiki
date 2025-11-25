@@ -2,7 +2,7 @@
 title: İleri Düzey Savaş Rehberi
 description: CMDR Avasa Siuu tarafından hazırlanan Odysseus Öğretisi'ne dayanmaktadır.
 published: true
-date: 2023-01-09T01:54:40.607Z
+date: 2025-11-25T01:08:25.070Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -17,11 +17,17 @@ Bu öğreti tekrar eden bir savaş stili etrafında şekillenmiştir. Temel olar
 
 Ayrıca bu öğreti "pip" yönetimine minimum gereksinim sağlar. Kalkansız bir gemi kullanacağınız için güç aktarımını ve odağınızı başka yerlerde tutabilirsiniz.
 
-# Gemi Donanımı
+# Prepare your gear
 
+When attempting to undertake a task such as solo interceptor combat, it is cruicial to be prepared and bring the right tools for the job.
+
+## Gemi Donanımı
 Bu öğretinin merkezinde Chieftain vardır. Challenger da hardpoint'lerdeki ufak değişiklerle kullanılabilir. (Challenger donanım rehberi şu an yapım aşamasında) Krait MKII, Krait Phantom ya da FAS gibi gemiler de kullanılabilir ancak Chieftain, hardpoint düzeni ve manevra kabiliyeti ve ucuz fiyatı sebebiyle bu öğretinin ana odağındadır.
 
-## Core Internals
+> The Chieftain is arguably the best learning platform for FA Off AX combat and orbiting.
+
+## {.tabset}
+### Core Internals
 - Military Grade Composite (Heavy Duty/Deep Plate)
 - 6A Power Plant (Armored/Thermal Spread)
 - 6A Thrusters (Dirty/Drag Drives)
@@ -31,7 +37,7 @@ Bu öğretinin merkezinde Chieftain vardır. Challenger da hardpoint'lerdeki ufa
 - 4D Sensors (Long range opsiyonel)
 - 4C Fuel Tank
 
-## Optional Internals
+### Optional Internals
 - 5D Repair Limpet Controller
 - 5D Guardian Module Reinforcement Package
 - 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate) **Military Slots Only**
@@ -40,22 +46,24 @@ Bu öğretinin merkezinde Chieftain vardır. Challenger da hardpoint'lerdeki ufa
 - 2D Guardian Module Reinforcement Package
 - 1D Guardian Moudle Reinforcement Package
 
-## Hardpoints
+### Hardpoints
 - 2B Guardian Gauss Cannons x2 (2 Large Slota)
 - 2B Remote Release Flak Launcher (Medium Slota)
 - 1D Guardian Gauss Cannons x2 (Sağ ve sol iki Small Slota)
 - 1G Beam Laser (Long Range/Thermal Vent - ortadaki Small Slota)
 
-## Utility
+### Utility
 - 3x OI Heatsink Launchers(Ammo Capacity)
 - Xeno Scanner/Heatsink Launcher (Tercihinize göre, eğer Thargoid'lerin HP'sini ya da Swarm'ın sayısını görmek isterseniz Xeno Scanner alın, yoksa Heatsink Launcher.)
 
 Not: Eğer Xeno Scanner tercih etmez de fazladan Heatsink Launcher alırsanız, düşük seviye Interceptor savaşlarında heatsink sentezlemeniz gerekmeyebilir.
 
-# Mühendislik
+## Mühendislik
 Burada listelenen mühendislerle giriş seviyesindeki kumandanlar için gereken mühendisliği en alt seviyede tutmak, ancak aynı zamanda da daha deneyimli kumandanların ileri düzey mühendislikle gemilerini en üst seviyeye çıkarabilmelerini sağlamak amaçlanmıştır. Gereken mühendisler aşağıda listelenmiştir:
+## {.tabset}
 
-## Minimum Mühendisler:
+
+### Minimum Mühendisler:
 - The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
 - Selene Jean (Kuk) - G5 Hull Reinforcement Package (Heavy Duty/Deep Plate)
 - G5 Armor (Heavy Duty/Deep Plate)
@@ -64,13 +72,13 @@ Burada listelenen mühendislerle giriş seviyesindeki kumandanlar için gereken 
 - Broo Tarquin (Muang) - G5 Beam Laser (Long Range/Thermal Vent)
 - Ram Tah (Meene) - Heatsink Launcher (Ammo Capacity)
 
-## Opsiyonel Mühendisler:
+### Opsiyonel Mühendisler:
 - Felicity Farseer (Deciat) - G5 Frame Shift Drive
 - Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensors
 
 Video: CMDR Exigeous tarafından hazırlanan [Unlocking Engineers (Mühendisleri açmak - İngilizce)](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
-# Gemi ve Mühendisliğin Amacı
+## Gemi ve Mühendisliğin Amacı
 - Verilen donanım ve mühendislik listesiyle, elinizdeki donanımdan mevcut olan mühendislik seçenekleriyle en etkin şekilde faydalanmayı sağlamak bu öğretinin temel noktasıdır. Mühendislerden tamamen faydalandığınız zaman Chieftain'in tüm kabiliyetlerine sahip olup, tüm Interceptor türleriyle etkin ve etkili çatışmaya girebilirsiniz.
 - Chieftain'in önerilen yükseltmeyle erişilen minimum 500 m/s boost sürati, herhangi bir Interceptor türüne karşı fazlasıya yeterlidir. Basilisk, hızı sebebiyle ek manevra gerektirir. Basilisk Hakkında Dikkat Edilecek Hususlar kısmına göz atın.
 
@@ -147,15 +155,19 @@ Basilisk 530 m/s hıza çıkabilmektedir. Bu öğretideki Chieftain, eğer öner
 Yörünge sınırları dışına çıkmak hedefle aranızdaki menzili artıracağından Gauss Cannon'ların hasarının düşmesine ve fazladan mermi harcamanızın gerekmesine sebep olabileceğinden heatsink ihtiyacı artabilir. Çatışma menzili dışından ateş etmek tavsiye edilmez.
 
 # Thargoid Uyku Modu
--The interceptor will enter a sleep mode after a destruction of a heart and the commander maintains his ships heat below 15%.
+- The interceptor will enter a sleep mode after a destruction of a heart and the commander maintains his ships heat below ~20%.
 
--The sleep mode will prevent the interceptor from launching its caustic missiles allowing the commander to completely avoid that stage of interceptor combat.
+- Uninterrupted, the sleep mode will prevent the interceptor from launching its caustic missiles allowing the commander to completely avoid that stage of interceptor combat.
 
--The sleep mode will also prevent the activation of the interceptors shut down field removing the need for a shut down field neutralizer and also removing the need from having to have flight assist off and boost away from the interceptor while shut down. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
+- The sleep mode will also prevent the activation of the interceptors shut down field removing the need for a shut down field neutralizer and also removing the need from having to have flight assist off and boost away from the interceptor while shut down. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
 
--The window the interceptor will be in sleep mode lasts approximately 30 seconds.
+- The window the interceptor will be in sleep mode lasts approximately 30-40 seconds.
 
--This is why the importance of the thermal vent beam laser comes into play allowing a ship to maintain 0% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks.
+> Learn more about [Special Attack Avoidance](/en/mechanic-bypass) during Interceptor combat. 
+> 
+> {.is-info}
+
+This is why the importance of the thermal vent beam laser comes into play; allowing a ship to maintain <20% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks. Mind this only applied when not firing other weapons that strain your distributor at the same time.
 
 
 `CREDITS
