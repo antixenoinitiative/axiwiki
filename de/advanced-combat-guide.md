@@ -2,7 +2,7 @@
 title: Fortgeschrittener Gefechtsleitfaden
 description: Basierend auf dem Odysseus-Leitfaden von CMDR Avasa Siuu
 published: true
-date: 2025-11-25T01:08:25.070Z
+date: 2025-11-25T13:38:59.493Z
 tags: Ausrüstung, Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -17,14 +17,18 @@ Dieser Leitfaden zentriert sich um einen Kampfzyklus - im Wesentlichen wiederhol
 
 Dieser Leitfaden erlaubt auch, das Pip-Management zu vernachlässigen, da man ohne Schutzschild fliegt. So kann man Energie und Konzentration für Wichtigeres verwenden.
 
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/70xUm6Jh5eg?si=vTNTIe6agkk55PqR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
+</div>
+
 # Prepare your gear
 
 When attempting to undertake a task such as solo interceptor combat, it is cruicial to be prepared and bring the right tools for the job.
 
 ## Schiffs Ausstattung
-Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der Challenger kann, mit geringfügigen Änderungen an seiner Bewaffnung, auch verwendet werden. (Challenger Ausstattung unfertig) Schiffe wie der Krait MKII, Krait Phantom oder FAS können auch verwendet werden, aber wegen der geringen Startkosten des Chieftains, seiner Bewaffnungs-Auslegung und Manövrierbarkeit, ist er der Hauptfokus für diesen Leitfaden.
+Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der Challenger kann, mit geringfügigen Änderungen an seiner Bewaffnung, auch verwendet werden. Ships such as the Krait MKII, Corsair or FAS may also be used but due to the cheap entry cost of the Chieftain, its hard point layout and maneuverability, it is the primary focus for this doctrine.
 
-> The Chieftain is arguably the best learning platform for FA Off AX combat and orbiting.
+> The Chieftain is arguably the best learning platform for FA Off AX combat and orbiting. View [Recommended Builds](/en/builds).
 
 ## {.tabset}
 ### Intern (Basis)
@@ -60,27 +64,29 @@ Wenn man nicht zu viel Wert auf den Xeno-Scanner legt, kann man mit einem 4ten K
 
 ## Engineering
 Der Zweck der aufgelisteten Ingenieure ist es, die notwendigen Ingenieure für Einsteiger in diesen Leitfaden zu minimieren und gleichzeitig den erfahrenen Kommandanten die Möglichkeit zu geben, weitere Ingenieure zu nutzen, um ihr Schiff weiter auszustatten. Die für die Änderungen erforderlichen Ingenieure sind wie folgt:
+
+
+VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
+
 ## {.tabset}
 
 
 ### Notwendige Ingenieure:
-- Der Dweller (Wyrd) - G5 Energieverteiler (Charge Enhanced/Super Conduits)
-- Selene Jean (Kuk) - G5 Rumpfhüllenverstärkung (Heavy Duty/Deep Plate)
-- G5 Panzerung (Heavy Duty/Deep Plate)
-- Hera Tani (Kuwemaki) - G5 Kraftwerk (Armored/Thermal Spread)
-- Professor Palin (Arque) - G5 Schubdüsen (Dirty/Drag Drives)
-- Broo Tarquin (Muang) - G5 Strahlenlaser (Große Reichweite/Thermische Entlastung)
+- The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits), G3 Beam Laser (Long Range/Thermal Vent)
+- Professor Palin (Arque) - G5 Thrusters (Dirty/Drag Drives)
+- Marco Qwent (Sirius) - G4 Power Plant (Armored/Thermal Spread)
+- Selene Jean (Kuk) - G5 Hull Reinforcement Package, G5 Armor (Heavy Duty/Deep Plate)
 - Ram Tah (Meene) - Kühlkörperwerfer (Ammo Capacity)
 
 ### Optionale Ingenieure:
+- Broo Tarquin (Muang) - G5 Strahlenlaser (Große Reichweite/Thermische Entlastung)
+- Hera Tani (Kuwemaki) - G5 Kraftwerk (Armored/Thermal Spread)
 - Felicity Farseer (Deciat) - G5 Frame Shift Antrieb engineering
 - Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensoren engineering
 
-VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
-
 ## Zweck des Schiffes und Ingenieurwesens
 - Mit der Montage und den aufgelisteten Ingenieuren ist dies der Grundstein des Leitfadens, der notwendig ist, um die Ausstattung des Schiffes mit den für jedes Modul verfügbaren Ingenieursarbeiten vollständig auszunutzen. Mit dem Einsatz aller Ingenieure maximiert man die Fähigkeiten des Chieftains, damit man alle Interceptor Varianten effizient und effektiv einsetzen kann.
-- Die Geschwindigkeit des Chieftains, mit den empfohlenen Einstellungen, ermöglicht es, eine minimale Schubgeschwindigkeit von 500 m/s zu erreichen, was mehr ist als erforderlich um jede Interceptor Variante zu bekämpfen. Basilisken benötigen aufgrund ihrer Geschwindigkeit ein zusätzliches Manöver. Siehe Basilisk Anpassungen
+- The speed of the Meta Chieftain when engineered to its recommended settings will allow you to achieve a minimum boost speed of 530 m/s which is more than needed to engage any Interceptor variant. Basilisks can require an additional maneuver to combat due to its speed. See Basilisk Considerations.
 
 - Der Zweck eines Reperaturdrohnen Steuerung anstelle eines Schildgenerators ist es, Kommandanten zu erlauben, ihr Schiff im Falle eines Fehlers zu reparieren. Der Thargon Schwarm verursacht außerdem mehr durchdringenden Schaden an Schiffen mit Schutzschild, was ungeschildeten Schiffen einen kleinen Vorteil gegenüber dem Schwarm bringt. Auch Leistungsvorteile bei der Energieverteilung bringt die Schutzschildlose Ausstattung. Die Synthese von Drohnen kann je nach erlittenem Schaden bei den höheren Interceptor Varianten erforderlich werden.
 
@@ -101,7 +107,7 @@ VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www
 -
 - Deaktiviere den Flugassistenten und greif mit dem Strahlenlaser an. [Pips auf: 0-4-2]
 -
-- Sobald der Interceptor angressivem Zustand ist setzt er seinen Schwarm frei. Fliege mit Schub am Interceptor vorbei und erreiche eine empfohlene Distanz von 4-6km. [Pips auf: 0-4-2]
+- Sobald der Interceptor angressivem Zustand ist setzt er seinen Schwarm frei. Fliege mit Schub am Interceptor vorbei und erreiche eine empfohlene Distanz von 4-6km. [Pips at: 0-4-2]
 -
 - Sobald erreicht, mache eine 180° Wende, während du dein rückwärtiges Momentum beibehältst, um den Thargon Schwarm zu bekämpfen. (Falls nähere Informationen zur Schwarm Bewältigung vonnöten sind; siehe Sektion V) [Punkteverteilung bei: 0-4-2]
 -
@@ -140,7 +146,7 @@ VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www
 - Eine weitere ähnliche Taktik wie der Kälteschub ist es, den stillen Lauf zu aktivieren und mit Schub 180° am Basilisken vorbei zu fliegen. (Die Optionen hängen vom Kommandanten ab.) Ziel dieses Manövers ist es, dem Kommandeur zu ermöglichen, Kühlkörper zu sparen und trotzdem dasselbe zu erreichen, wenn man Schutzschildlose Austattungen fliegt.
 
 ## Basilisk Anpassungen
-Die Basilisk Variante hat eine Höchstgeschwindigkeit von 530 m/s. Der Chieftain, nach Leitfaden gebaut, ist nicht so schnell wie der Basilisk. Ein nötiges Manöver namens Kälteschub (Kühlkörper aktivieren, bevor man 180° am Basilisk vorbeizieht) erlaubt einem Wertvolle Distanz zu gewinnen um benötigte Reparaturen und Synthesen vor dem nächsten Kampfzyklus durchzuführen. Der Basilisk ist langsam beim Wenden. Man muss unbedingt beachten, dass man dabei in Flugrichtung des Schwarms gerät und seinen erregten Zustand auslösen kann, wenn man hindruchfliegt.
+Die Basilisk Variante hat eine Höchstgeschwindigkeit von 530 m/s. The Meta Chieftain can barely outrun the Basilisk if followed to the fitting. Ein nötiges Manöver namens Kälteschub (Kühlkörper aktivieren, bevor man 180° am Basilisk vorbeizieht) erlaubt einem Wertvolle Distanz zu gewinnen um benötigte Reparaturen und Synthesen vor dem nächsten Kampfzyklus durchzuführen. Der Basilisk ist langsam beim Wenden. Do take in mind this will put you in the path of the swarm, avoid flying through it as to not trigger its agitated state.
 
 # Schwarm Bewältigung
 Der Zweck, beim Start des Kampfes, den Schwarm zuerst zu bekämpfen, besteht darin, den „ausbewahrten“ Schwarm des Interceptors aus dem Kampf zu nehmen. Immer wenn ein Interceptor angegriffen wird und das Herz zuerst zerstört wird, wird der aufbewahrte Schwarm zuerst freigesetzt und man müsste insgesammt mit zwei Schwärmen kämpfen. Den aufbewahrten Schwarm aus dem Kampf zu nehmen erlaubt sich in der gegebenen Zeit effektiver auf die folgenden Herzen zu fokussieren.
