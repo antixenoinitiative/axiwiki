@@ -2,7 +2,7 @@
 title: Advanced Combat Guide
 description: Based on the Odysseus Doctrine by CMDR Avasa Siuu
 published: true
-date: 2025-11-25T13:22:33.298Z
+date: 2025-11-25T13:32:48.400Z
 tags: outfitting, combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -64,23 +64,25 @@ If you have no preference for the Xeno Scanner especially for the lower variants
 
 ## Engineering
 The purpose of the engineers listed is to minimize the needed engineers for entry level commanders into this doctrine while also allowing the more experienced commanders to utilize further engineers to maximize their ship. The engineers needed for the modifications are as follows:
+
+
+VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
+
 ## {.tabset}
 
 
 ### Minimum Engineers:
-- The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits)
-- Selene Jean (Kuk) - G5 Hull Reinforcement Package (Heavy Duty/Deep Plate)
-- G5 Armor (Heavy Duty/Deep Plate)
-- Hera Tani (Kuwemaki) - G5 Power Plant (Armored/Thermal Spread)
-- Professor Palin (Arque) - G5 Thrusters(Dirty/Drag Drives)
-- Broo Tarquin (Muang) - G5 Beam Laser (Long Range/Thermal Vent)
+- The Dweller (Wyrd) - G5 Power Distributor (Charge Enhanced/Super Conduits), G3 Beam Laser (Long Range/Thermal Vent)
+- Professor Palin (Arque) - G5 Thrusters (Dirty/Drag Drives)
+- Marco Qwent (Sirius) - G4 Power Plant (Armored/Thermal Spread)
+- Selene Jean (Kuk) - G5 Hull Reinforcement Package, G5 Armor (Heavy Duty/Deep Plate)
 - Ram Tah (Meene) - Heat Sink Launcher (Ammo Capacity)
 
 ### Optional Engineers:
+- Broo Tarquin (Muang) - G5 Beam Laser (Long Range/Thermal Vent)
+- Hera Tani (Kuwemaki) - G5 Power Plant (Armored/Thermal Spread)
 - Felicity Farseer (Deciat) - G5 Frame Shift Drive engineering
 - Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensors engineering
-
-VIDEO: [Unlocking Engineers by CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
 ## Purpose of Ship and Engineering
 - With the fitting and engineers listed this is the baseline of the doctrine needed to fully utilize the fitting of the ship with the engineers available for each module. If utilizing all engineers you are fully maximizing the capabilities of the Chieftain to allow you to engage all Interceptor variants efficiently and effectively.
