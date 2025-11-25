@@ -2,7 +2,7 @@
 title: Fortgeschrittener Gefechtsleitfaden
 description: Basierend auf dem Odysseus-Leitfaden von CMDR Avasa Siuu
 published: true
-date: 2023-01-09T01:54:40.607Z
+date: 2025-11-25T01:08:25.070Z
 tags: Ausrüstung, Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -17,11 +17,17 @@ Dieser Leitfaden zentriert sich um einen Kampfzyklus - im Wesentlichen wiederhol
 
 Dieser Leitfaden erlaubt auch, das Pip-Management zu vernachlässigen, da man ohne Schutzschild fliegt. So kann man Energie und Konzentration für Wichtigeres verwenden.
 
-# Schiffs Ausstattung
+# Prepare your gear
 
+When attempting to undertake a task such as solo interceptor combat, it is cruicial to be prepared and bring the right tools for the job.
+
+## Schiffs Ausstattung
 Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der Challenger kann, mit geringfügigen Änderungen an seiner Bewaffnung, auch verwendet werden. (Challenger Ausstattung unfertig) Schiffe wie der Krait MKII, Krait Phantom oder FAS können auch verwendet werden, aber wegen der geringen Startkosten des Chieftains, seiner Bewaffnungs-Auslegung und Manövrierbarkeit, ist er der Hauptfokus für diesen Leitfaden.
 
-## Intern (Basis)
+> The Chieftain is arguably the best learning platform for FA Off AX combat and orbiting.
+
+## {.tabset}
+### Intern (Basis)
 - Millitär-Komposit (Heavy Duty/Deep Plate)
 - 6A Kraftwerk (Armored/Thermal Spread)
 - 6A Schubdüsen (Dirty/Drag Drives)
@@ -31,7 +37,7 @@ Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der C
 - 4D Sensoren (Long range optional)
 - 4C Treibstofftank
 
-## Intern (optional)
+### Intern (optional)
 - 5D Steuerung Reparaturdrohne
 - 5D Guardian Module Reinforcement Package
 - 4D Hull Reinforcement Package x3 (Heavy Duty/Deep Plate) **Military Slots Only**
@@ -40,22 +46,24 @@ Dieser Leitfaden konzentriert sich auf den Chieftain als sein Hauptschiff. Der C
 - 2D Guardian Module Reinforcement Package
 - 1D Guardian Moudle Reinforcement Package
 
-## Aufhängungen
+### Aufhängungen
 - 2B Guardian Gausskanone x2 (In den zwei Großen Slots)
 - 2B Flakwerfer mit Fernzündung (Mittlerer Slot)
 - 1D Guardian Gausskanone x2 (In den zwei kleinen slots links und rechts am Schiff)
 - 1G Strahlenlaser (große Reichweite/Thermische Entlastung in dem mittleren kleinen slot)
 
-## Werkzeuge
+### Werkzeuge
 - 3x OI Kühlkörperwerfer (Ammo Capacity)
 - Xeno Scanner/Kühlkörperwerfer (Kommt auf den Kommandanten an, ob er die Leben des Thargoids und die Größe des Schwarms sehen will.)
 
 Wenn man nicht zu viel Wert auf den Xeno-Scanner legt, kann man mit einem 4ten Kühlkörperwerfer sicherstellen, dass man bei den niedrigeren Interceptor Varianten nie synthetitisieren muss.
 
-# Engineering
+## Engineering
 Der Zweck der aufgelisteten Ingenieure ist es, die notwendigen Ingenieure für Einsteiger in diesen Leitfaden zu minimieren und gleichzeitig den erfahrenen Kommandanten die Möglichkeit zu geben, weitere Ingenieure zu nutzen, um ihr Schiff weiter auszustatten. Die für die Änderungen erforderlichen Ingenieure sind wie folgt:
+## {.tabset}
 
-## Notwendige Ingenieure:
+
+### Notwendige Ingenieure:
 - Der Dweller (Wyrd) - G5 Energieverteiler (Charge Enhanced/Super Conduits)
 - Selene Jean (Kuk) - G5 Rumpfhüllenverstärkung (Heavy Duty/Deep Plate)
 - G5 Panzerung (Heavy Duty/Deep Plate)
@@ -64,13 +72,13 @@ Der Zweck der aufgelisteten Ingenieure ist es, die notwendigen Ingenieure für E
 - Broo Tarquin (Muang) - G5 Strahlenlaser (Große Reichweite/Thermische Entlastung)
 - Ram Tah (Meene) - Kühlkörperwerfer (Ammo Capacity)
 
-## Optionale Ingenieure:
+### Optionale Ingenieure:
 - Felicity Farseer (Deciat) - G5 Frame Shift Antrieb engineering
 - Lei Cheung (Laksak)/Bill Turner (Alioth) - G5 Sensoren engineering
 
 VIDEO: [Leitfaden zum Freischalten der Ingenieure von CMDR Exigeous](https://www.youtube.com/watch?v=lvty7VY4pMw&list=PLRfYYnnOztJqCVfkiXZQHfX6CmHbXnLG6)
 
-# Zweck des Schiffes und Ingenieurwesens
+## Zweck des Schiffes und Ingenieurwesens
 - Mit der Montage und den aufgelisteten Ingenieuren ist dies der Grundstein des Leitfadens, der notwendig ist, um die Ausstattung des Schiffes mit den für jedes Modul verfügbaren Ingenieursarbeiten vollständig auszunutzen. Mit dem Einsatz aller Ingenieure maximiert man die Fähigkeiten des Chieftains, damit man alle Interceptor Varianten effizient und effektiv einsetzen kann.
 - Die Geschwindigkeit des Chieftains, mit den empfohlenen Einstellungen, ermöglicht es, eine minimale Schubgeschwindigkeit von 500 m/s zu erreichen, was mehr ist als erforderlich um jede Interceptor Variante zu bekämpfen. Basilisken benötigen aufgrund ihrer Geschwindigkeit ein zusätzliches Manöver. Siehe Basilisk Anpassungen
 
@@ -147,15 +155,19 @@ Der Zweck, beim Start des Kampfes, den Schwarm zuerst zu bekämpfen, besteht dar
 Abdriften aus optimaler Umlaufbahn führt zum Verbrauch von mehr Munition, wegen höherem Leistungsverlust bei größerem Abstand. Außerdem muss man mehr Kühlkörper nutzen. Außerhalb der effektiven Reichweite zu feuern ist nicht empfehlenswert.
 
 # Thargoid Schlafphase
--The interceptor will enter a sleep mode after a destruction of a heart and the commander maintains his ships heat below 15%.
+- The interceptor will enter a sleep mode after a destruction of a heart and the commander maintains his ships heat below ~20%.
 
--The sleep mode will prevent the interceptor from launching its caustic missiles allowing the commander to completely avoid that stage of interceptor combat.
+- Uninterrupted, the sleep mode will prevent the interceptor from launching its caustic missiles allowing the commander to completely avoid that stage of interceptor combat.
 
--The sleep mode will also prevent the activation of the interceptors shut down field removing the need for a shut down field neutralizer and also removing the need from having to have flight assist off and boost away from the interceptor while shut down. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
+- The sleep mode will also prevent the activation of the interceptors shut down field removing the need for a shut down field neutralizer and also removing the need from having to have flight assist off and boost away from the interceptor while shut down. Also having to prevent from having to boost outside the 10K max effective range of the shut down field which many ships will not achieve.
 
--The window the interceptor will be in sleep mode lasts approximately 30 seconds.
+- The window the interceptor will be in sleep mode lasts approximately 30-40 seconds.
 
--This is why the importance of the thermal vent beam laser comes into play allowing a ship to maintain 0% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks.
+> Learn more about [Special Attack Avoidance](/en/mechanic-bypass) during Interceptor combat. 
+> 
+> {.is-info}
+
+This is why the importance of the thermal vent beam laser comes into play; allowing a ship to maintain <20% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks. Mind this only applied when not firing other weapons that strain your distributor at the same time.
 
 
 `CREDITS
