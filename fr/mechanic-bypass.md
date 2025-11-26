@@ -2,7 +2,7 @@
 title: Mechanic Bypass Guide
 description: How to skip certain mechanics in a thargoid fight
 published: true
-date: 2025-11-25T13:17:53.168Z
+date: 2025-11-26T19:11:59.701Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
@@ -86,8 +86,13 @@ Additionally, once the shield is removed in this manner, everyone but the aggro-
 
 # Panic Shields
 
-*For a more detailed overview on panic shields, see* [***_Thargoid Shields_***](/en/shields)
+> For a more detailed overview on panic shields, please visit [Thargoid Shields](/en/shields). 
+> 
+> {.is-info}
 
-A Panic shield is an instantly-regenerated shield that the Thargoid Interceptor can create if the shield is broken too soon after losing a heart. The panic shield will also activate if the Interceptor shield is broken prior to the “Sleep Phase” ending, however this **requires** a **Target Lock** and if the ‘current target’ remains undetected, the shield will not regenerate.
+
+A Panic shield is an instantly-regenerated shield that the Thargoid Interceptor can create if the shield is broken too soon after losing a heart or through incoming overwhelming hull damage.
+
+Another way to trigger a panic shield is if the Interceptor shield is broken prior to the “Sleep Phase” ending, however this **requires** a **Target Lock**, if nearby pilots remains undetected the shield will not regenerate this way.
 
 Hence, if you break the shield before the end of the “Sleep Phase” you must ensure that the Interceptor is not able **wake** **up** from the “Sleep Phase” until it ends.
