@@ -2,7 +2,7 @@
 title: Flight
 description: An introduction to advanced maneuvers and flight strategy for various anti-xeno activities.
 published: true
-date: 2025-11-25T16:13:40.238Z
+date: 2025-11-26T11:53:56.210Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-03T02:20:24.558Z
@@ -100,14 +100,18 @@ The moment an interceptor “turns away” to rearm, boost. The boost has four p
 1. Now back on regular thrust, jam down and back thrust to-establish your orbit.
 The key is to limit the velocity out of your boost to no more than 350-400 ideally. More than that, and you’ll swing out of range instead of re-establishing an orbit.
 
-### "Reverski"
-Traveling in a certain direction in Flight Assist OFF, while having the ship face backwards.
+### The Reverski
+Traveling in a certain direction, best in Flight Assist OFF, while having the ship face backwards.
 Particularly useful with an enemy like a thargoid interceptor and swarm in pursuit of you.
 
 Can use this technique during AX to deploy Flak against the Swarm or beam the interceptors' shield during repairs.
 
-### The "Flip"
+### The Flip
 (Not actually a flip) Flight Assist OFF, Boost, Hold Cargo Scoop, and any combination of pitch, roll, and/or yaw to turn rapidly with a small turn radius. 
+
+## CMDR named maneuvers
+
+A select number of maneuvers named after the commanders who established them in a major way.
 
 ### The "Painbeaver"
 
