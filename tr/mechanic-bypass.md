@@ -2,7 +2,7 @@
 title: Mekanik Atlama Rehberi
 description: Thargoid savaşlarında bazı mekanikler nasıl atlanır
 published: true
-date: 2025-11-25T13:17:53.168Z
+date: 2025-11-26T19:11:59.701Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
@@ -86,8 +86,13 @@ Ek olarak; bu şekildeki bir kalkan kırmanın ardından, aggro sahibi hariç he
 
 # Panik Kalkanları
 
-*Panik kalkanları için detaylı bili için bkz.* [***_Thargoid Kalkanları_***](/en/shields)
+> For a more detailed overview on panic shields, please visit [Thargoid Shields](/en/shields). 
+> 
+> {.is-info}
 
-Panik kalkanı; Thargoid Interceptor'ün, bir Kalbi kaybettikten sonra ortaya çıkardığı kalkanını çok erken sürede kaybederse ortaya bir anda çıkardığı kalkandır. Ayrıca, kalkanlar uyku evresi bitmeden önce kırılırsa da panik kalkanı tetiklenebilir. Ancak bunun için kalkanı kıran hedefin mevcut hedef olması ve **Hedefe Kilitli** durumu gerekir.
+
+A Panic shield is an instantly-regenerated shield that the Thargoid Interceptor can create if the shield is broken too soon after losing a heart or through incoming overwhelming hull damage.
+
+Another way to trigger a panic shield is if the Interceptor shield is broken prior to the “Sleep Phase” ending, however this **requires** a **Target Lock**, if nearby pilots remains undetected the shield will not regenerate this way.
 
 Dolayısıyla, kalkanları uyku evresinden önce yok ederseniz Interceptor'ün bu evre bitmeden önce **uyanmayacağına** emin olmalısınız.
