@@ -2,7 +2,7 @@
 title: Basic Combat Guide
 description: The fundamental concepts of AX combat and how to fight an Interceptor.
 published: true
-date: 2025-11-25T13:14:32.584Z
+date: 2025-11-26T12:11:03.680Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:18:38.671Z
@@ -43,7 +43,7 @@ Once you drop into the [Non-Human Signal source](/en/nhss), the Thargoid will ap
 
 The interceptor will begin firing on you; depending on your shield strength (and pip management skills) boost and begin an FA-off orbit to avoid some damage.
 
-Continue firing until the heart is exerted (glows red and is listed as exerted if you have a [xeno scanner equipped](/en/internals)). At this point aim at the heart and fire. It should only take 3 direct gauss impacts for a Cyclops, 4 for a Basilisk, 5 for a Medusa, and 12.5 for a Hydra with regular ammunition.
+Continue firing until the heart is exerted (glows red and is listed as exerted if you have a [xeno scanner equipped](/en/optionals)). At this point aim at the heart and fire. It should only take 3 direct gauss impacts for a Cyclops, 4 for a Basilisk, 5 for a Medusa, and 12.5 for a Hydra with regular ammunition.
 
 Once the heart has been destroyed, transfer pips 2-4-0. Boost past the Thargoid if within 1 km, and away from the Thargoid if outside of 1 km. The Thargoid will charge yellow and begin chasing you, if it gets within range you will be hit by the [lightning](/en/special-attacks) which will disrupt your systems, kill your momentum (Regardless of FA-OFF), and drain your shields.
 
