@@ -2,15 +2,13 @@
 title: Multi-Goid Combat Guide
 description: How to take on multiple interceptors simultaneously
 published: true
-date: 2021-06-24T23:53:38.588Z
+date: 2025-11-26T16:39:32.925Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T05:44:58.820Z
 ---
 
 # Multi-Thargoid Combat Manual
-
-*By CMDR EuanAB*
 
 When dealing with multiple thargoids at once there are certain strategies and techniques you will need to account for to make sure you don’t end on a rebuy. This guide will be broken in to 4 parts:
 
@@ -48,3 +46,5 @@ Basilisks go around 530m/s, which is faster than the swarm, making it potentiall
 Having these all together means the Basilisk(s) will fly ahead. It is convenient to kill them, as outrunning them will mean the others fall behind and can despawn, or wake out. The order thus is Basilisk > Cyclops > Medusa > Hydra.
 
 For any multikills in ships that can't outrun any of them (Corvette, Anaconda) try to kill as many interceptors as fast as possible while taking the absolute least amount of damage possible, making sure you do not try to reboot as they will be able to get to you faster and kill you without shields. Once there is only one thargoid left, you may resume normal kill tactics.
+
+*`By CMDR EuanAB`*
