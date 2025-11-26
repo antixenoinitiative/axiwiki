@@ -2,13 +2,15 @@
 title: Nichtmenschliche Signalquellen (NHSS)
 description: Über Nichtmenschliche Signalquellen und wie man Thargoids findet
 published: true
-date: 2021-08-25T23:17:11.754Z
+date: 2025-11-26T12:26:24.257Z
 tags: Thargoids, Interceptors, Scouts
 editor: markdown
 dateCreated: 2021-06-15T10:51:53.374Z
 ---
 
 # Nichtmenschliche Signalquellen
+As a preface for using NHSS as a targeted farming method, they are only reliable in spawns outside of the war systems. The Pleiades and coalsack nebulae are the common spots for these.
+
 Nichtmenschliche Signalquellen sind eine spezielle Signalquellen, die in Bereichen von Thargoid-Aktivität gefunden werden können. Beim Finden und Betreten einer NHSS besteht die Chance, dass man eine von drei Situationen antrifft:
 
 - Ein einzelner Thargoid Interceptor (Cyclops, Basilisk, Medusa, oder Hydra)
@@ -36,24 +38,25 @@ Abhängig von der Bedrohungsstufe der NHSS finden sich verschiedene Arten von In
 
 Bedrohungsstufen:
 
-- **[Bedrohung 2]** - 1x Thargoidsonde
 - **[Bedrohung 3]** - 2x Scouts
-- **[Bedrohung 4]** - 4-7x Scouts oder 1-2x Menschliche Schiffe + 4-7x Scouts (normalerweise 4 Scouts)
+- **[Threat 4]** - 4-7x Scouts + 0-2x Human Ships
 - **[Bedrohung 5]** - 1x Cyclops oder 4-8x Scouts
 - **[Bedrohung 6]** - 1x Basilisk oder 1x Cyclops + 4x Scouts
 - **[Bedrohung 7]** - 1x Medusa oder 1x Basilisk + 4x Scouts
-- **[Bedrohung 8]** - 1x Hydra* oder 1x Medusa + 4x Scouts
+- **[Threat 8]** - 1x Hydra OR 1x Medusa + 4x Scouts
 - **[Bedrohung 9]** - 1x Hydra + 4x Scouts
 
-> Einzelne Hydras können durch NHSS derzeit nur im Coalsack Nebel angetoffen werden. Jede Stufe 8 Bedrohung im Pleiades- oder Witch Head Nebel enthält 1x Medusa + 4x Scouts. **Mit einer Ausnahme**: Das Pleiades Sector MI-S B4-0 -System beinhaltet einzelne Hydras, in normalen und garantierten Signalquellen der Bedrohungsstufe 8. 
-> 
-> {.is-info}
+At some times in the past, NHSS Threat 0 and 2 have appeared, which spawn Thargoid Probes. These currently cannot be found in-game.
+
 
 ## Garantierte Signalquellen für Interceptors
 Wenn eine NHSS ein **Bergung**-Symbol im Navigations-Panel hat, wird man IMMER einen einzelnen Interceptor gemäß der Bedrohungsstufe antreffen. Zum Beispiel; hier eine garantierte **Basilisk** Signalquelle. Außerdem sind diese Instanzen leicht anders, sie beinhalten nur kleine Trümmer und keine grüne Wolke. ![nhss.png](/img/nhss.png) Hinweis: Das kleine Kanister-Symbol auf der Linken.
 
 ## Full-Spectrum Scanner
-The FSS can also be used to identify the contents of a NHSS instance, read more [here](https://wiki.antixenoinitiative.com/en/nhssviafss).
+> The FSS can also be used to identify **the contents** of a NHSS instance, read more [here](https://wiki.antixenoinitiative.com/en/nhssviafss). 
+> 
+> {.is-info}
+
 
 !\[signalsourcesboth.png\](/signalsourcesboth.png =600x)
 
