@@ -2,7 +2,7 @@
 title: Mechanic Bypass Guide
 description: How to skip certain mechanics in a thargoid fight
 published: true
-date: 2025-11-26T19:09:25.297Z
+date: 2025-11-26T19:11:59.701Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
@@ -85,7 +85,7 @@ Additionally, once the shield is removed in this manner, everyone but the aggro-
 
 # Panic Shields
 
-> For a more detailed overview on panic shields, please visit [_Thargoid Shields_](/en/shields).
+> For a more detailed overview on panic shields, please visit [Thargoid Shields](/en/shields).
 {.is-info}
 
 
