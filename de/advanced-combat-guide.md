@@ -2,7 +2,7 @@
 title: Fortgeschrittener Gefechtsleitfaden
 description: Basierend auf dem Odysseus-Leitfaden von CMDR Avasa Siuu
 published: true
-date: 2025-11-25T13:38:59.493Z
+date: 2025-11-26T16:40:45.283Z
 tags: Ausrüstung, Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:49:32.855Z
@@ -176,9 +176,9 @@ Abdriften aus optimaler Umlaufbahn führt zum Verbrauch von mehr Munition, wegen
 This is why the importance of the thermal vent beam laser comes into play; allowing a ship to maintain <20% ship heat without the need of using heat sinks preventing unnecessary synthesis of further heat sinks. Mind this only applied when not firing other weapons that strain your distributor at the same time.
 
 
-`CREDITS
+*`CREDITS:
 Thank you to the Anti-Xeno Initiative discord for assistance in refining this doctrine and to the following AXI Commanders for their contribution:
 CMDR Mgram,
 CMDR BADRACINGDRIVER,
 CMDR Mackenheimer,
-CMDR vini500300`
+CMDR vini500300`*
