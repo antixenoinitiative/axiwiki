@@ -2,7 +2,7 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2025-11-25T23:53:41.385Z
+date: 2025-11-26T11:25:50.571Z
 tags:
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
@@ -51,7 +51,7 @@ Like any military logistics base, spire sites are patrolled and guarded by a var
 
 - **Medusa** - A pack of medusas will spawn if a spire is completely sabotaged.
 
-> Please see our [thargoids](/en/thargoids) page for a more in-depth explanation thargoid craft types.
+> Please see our [thargoids](/en/thargoids) page for a more in-depth explanation of thargoid craft types.
 
 ## "Inbound" and "outbound" orthrus - what's the difference?
 
@@ -85,11 +85,9 @@ The general principle of ship-based combat is to destroy as many Orthrus as you 
 
 - **Heavy weapons** - A ship with a good power plant and distributor can bring guardian weapons to bear, which are particularly effective against thargoid interceptors but are vulnerable to the orthrus' anti-guardian field.  Guardian weapons need to be either engineered by Ram Tah to be able to withstand this, or you will need to bring an auto field maintenance unit to repair them from time to time.
 
-- **Support** - A ship with a large hold full of limpets and a repair limpet controller is always welcome at a spire site.  There is also a limited role for a ship with conconrdant and regeneration sequence lasers, as shielded builds are not common at spire sites.
-
 It's generally not possible to equip a single ship to be able to carry out all of these roles for a sustained period of time, due to ammunition consumption.  As a consequence, spire operations are typically a wing-based activity.
 
-> Please see our [recommended builds](/en/builds) page for a more in-depth explanation of suggested spire combat builds.
+> Please see our [war builds](/en/war-builds) page for a more in-depth explanation of suggested spire combat builds.
 
 ## Ship-based combat etiquette
 
