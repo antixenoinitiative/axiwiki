@@ -2,7 +2,7 @@
 title: Non-Human Signal Sources
 description: About Non-Human Signal Sources and Finding Thargoids
 published: true
-date: 2023-07-10T09:37:44.987Z
+date: 2025-11-26T12:26:24.257Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:51:53.374Z
@@ -55,7 +55,9 @@ If a NHSS has a **Salvage** icon next to it in the navigation panel, you will AL
 Note: The small canister symbol on the left.
 
 ## Full-Spectrum Scanner
-The FSS can also be used to identify the contents of a NHSS instance, read more [here](https://wiki.antixenoinitiative.com/en/nhssviafss).
+> The FSS can also be used to identify **the contents** of a NHSS instance, read more [here](https://wiki.antixenoinitiative.com/en/nhssviafss).
+{.is-info}
+
 
 ![signalsourcesboth.png](/signalsourcesboth.png =600x)
 
