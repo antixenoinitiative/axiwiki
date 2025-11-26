@@ -2,7 +2,7 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2025-11-24T20:11:49.472Z
+date: 2025-11-26T16:02:44.360Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -311,6 +311,6 @@ A collection of more advanced and custom tailored builds.
 
 View them by visiting our [Ship Build Repository](/en/buildrepository), a large collection of ship builds built by experienced AXI pilots.
 
-> WARNING: Some of these fits are out-of-date and will be updated at some point. 
+> Some of these fits may not always be up-to-date. 
 > 
 > {.is-warning}
