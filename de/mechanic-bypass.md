@@ -2,7 +2,7 @@
 title: Mechaniken überspringen
 description: Wie man bestimmte Mechaniken im Thargoid-Kampf überspringt
 published: true
-date: 2025-11-25T13:17:53.168Z
+date: 2025-11-26T19:11:59.701Z
 tags: Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
@@ -86,8 +86,13 @@ Außerdem kann, sobald der Schild zerstört wurde jeder außer der mit Aggro auf
 
 # Panikschilde
 
-*Für einen detailierteren Überblick über Panikschilde, besuche* [***_Thargoid-Schilde_***](/en/shields)
+> For a more detailed overview on panic shields, please visit [Thargoid Shields](/en/shields). 
+> 
+> {.is-info}
 
-Ein Panikschild ist ein sofort zurückgesetzter Schild, der der Thargoid Interceptor einsetzen kann, wenn der alte Schild zu schnell durchbrochen wurde. Der Panikschild aktiviert sich auch, wenn der alte Schild zerstört wurde, bevor der Interceptor in den "Schlafzustand" verlassen hat, was aber ein **aufgeschaltetes Ziel** **voraussetzt**; und wenn das 'jetzige Ziel' unsichtbar bleibt, wird sich der Schild nicht regenerieren.
+
+A Panic shield is an instantly-regenerated shield that the Thargoid Interceptor can create if the shield is broken too soon after losing a heart or through incoming overwhelming hull damage.
+
+Another way to trigger a panic shield is if the Interceptor shield is broken prior to the “Sleep Phase” ending, however this **requires** a **Target Lock**, if nearby pilots remains undetected the shield will not regenerate this way.
 
 Also wenn man den Schild zerstört, bevor die Schlafphase vorbei ist, muss man sichergehen, dass der Interceptor nicht **aufwachen** kann bevor die Phase aufhört.
