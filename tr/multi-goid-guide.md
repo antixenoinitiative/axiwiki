@@ -2,15 +2,13 @@
 title: Çoklu-Goid Savaş Rehberi
 description: Aynı anda birden fazla Interceptor'le nasıl başa çıkabilirsiniz.
 published: true
-date: 2021-06-24T23:53:38.588Z
+date: 2025-11-26T16:39:32.925Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T05:44:58.820Z
 ---
 
 # Çoklu-Thargoid Savaş Rehberi
-
-*CMDR EuanAB tarafından.*
 
 Birden fazla Thargoid'le savaşırken, sonunuzun rebuy ekranı olmaması için ele almanız gereken bazı strateji ve teknikler vardır. Bu rehber 4 bölüme ayrılabilir:
 
@@ -19,7 +17,7 @@ Birden fazla Thargoid'le savaşırken, sonunuzun rebuy ekranı olmaması için e
 -   Çok Sayıda Yavaş Thargoid ve Basilisk
 -   Genel Taktikler
 
-## Genel Taktikler
+## General Tactics
 
 Ortamda bulunan bir Interceptor'e, Meta-Alloy gibi 5 adet Thargoid teknolojisi vererek bir Cyclops daha gelmesini sağlayabilirsiniz. Bu şekilde, hyperdictiona maruz kalmayı beklemeden, Distress Call sinyallerini kullanarak üç adet Cyclops elde edebilirsiniz. Ancak yalnızca bir adet çağrılabilir. Daha fazla Thargoid çağırmak için 3+ Interceptor tarafından hyperdictiona uğramak ve onlara 15+ Meta-Alloy sağlamaktır. Sıklıkla Meta-Alloy'ları paylaşamayıp sizi sorumlu tutup saldırıya geçerler. Bunu engellemek için ya heatsink ya da silent running kullanarak sıcaklığınızı gizlemelisiniz. Interceptorlerin Meta-Alloy kapışmasına bağlı olarak 3 adede kadar çağrılabilir. Meta-Alloy'ları bırakırken etrafınızda dönme hareketi yaparak farklı yerlere dağılmalarını sağlamak Interceptorlerin aynı Meta-Alloy için kapışmasını engelleyebilir.
 
@@ -48,3 +46,5 @@ Basiliskler yaklaşık 530 m/s hıza çıkar, bu Swarm'ın hızından fazladır 
 Bu durumda Basiliskler gruptan hızla ayrılacaklardır. İlk önce onları öldürmek mantıklıdır. Çünkü çok uzaklaşırsanız diğerleri geride kalıp ortadan kaybolabilir ya da bölgeyi terk edebilirler. Dolayısıyla öldürme sırası: Basilisk > Cyclops > Medusa > Hydra.
 
 Hiçbir Thargoid'den hızlı kaçamayacak bir gemideyseniz (Anaconda, Corvette) en az hasarı alıp en kısa sürede olabildiğince Thargoid öldürmeye çalışmalı, kalkansız kolayca yok edilebileceğiniz için yeniden başlatmalardan kaçınmalısınız. Tek bir Thargoid kaldığı zaman normal savaş taktiklerini uygulayabilirsiniz.
+
+*`CMDR EuanAB tarafından.`*
