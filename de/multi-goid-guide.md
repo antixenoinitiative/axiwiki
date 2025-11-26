@@ -2,15 +2,13 @@
 title: Multi-Thargoid-Kampfleitfaden
 description: Wie man mehrere Interceptor gleichzeitig bekämpft
 published: true
-date: 2021-06-24T23:53:38.588Z
+date: 2025-11-26T16:39:32.925Z
 tags: Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-17T05:44:58.820Z
 ---
 
 # Multi-Thargoid-Kampfleitfaden
-
-*Von CMDR EuanAB*
 
 Während du gegen mehrere Thargoids gleichzeitig antrittst, gibt es besondere Strategien und Techniken, die du beachten musst, damit du nicht abkratzt. Dieser Leitfaden gliedert sich in vier Teile:
 
@@ -19,7 +17,7 @@ Während du gegen mehrere Thargoids gleichzeitig antrittst, gibt es besondere St
 -   Mehrere langsame Thargoids und Basilisks
 -   Allgemeine Taktiken
 
-## Allgemeine Taktiken
+## General Tactics
 
 Man kann einen Interceptor in die Instanz rufen, indem du irgendeinen Interceptor mit 5 Einheiten an Thargoid Technologie, wie z. B. Meta-Legierungen versorgst. Das kann man nutzten, um einen dreifachen Cyclops zu kriegen, ohne hyperdictet werden zu müssen, indem man in einen Notruf geht. Es kann aber nur einer gerufen werden. Der einzige Weg wie man mehr als nur einen Thargoid ruft, ist indem man von 3+ Interceptoren abgefangen wird und denen dann 15+ Meta-Legierungen gibt. Sie werden dann häufig über die Meta-Legierungen streiten und Aggro werden bevor sie irgendwelche Interceptor holen. Und um das zu verhindern, muss man seine Hitzesignatur mit Kühlkörpern oder der Schleichfahrt verbergen. Bis zu drei können geholt werden, je nachdem wie viele sich Interceptoren über die Legierungen streiten. Wenn du mehr Interceptors haben willst, dann dreh dich während du die Legierungen abwirfst, damit es wahrscheinlicher wird, dass sie sich nicht streiten.
 
@@ -48,3 +46,5 @@ Basilisken fliegen mit circa 530m/s, was schneller als der Schwarm ist und es sc
 Alle auf einmal zu haben, bedeutet, dass der/die Basilisk(en) vorraus fliegen werden. Es ist vorteilhaft sie zu töten, da vor ihnen weglaufen bedeuten würde, dass die anderen nach hinten fallen und despawnen oder wegspringen könnten. Deshalb ist die Reihenfolge Basilisk > Cyclops > Medusa > Hydra.
 
 Für Multikills in Schiffen, die vor keinem Thargoid weglaufen können (Corvette, Anaconda), versuche soviele Interceptor so schnell wie möglich zu töten, während du so wenig Schaden wie möglich nimmst, und geh sicher, dass du dein Schiff nicht neustartest, da sie dich ohne Schild schneller zerstören können. Sobald nur noch ein Thargoid übrig bleibt, kannst du den Kampf wie üblich kämpfen.
+
+*`Von CMDR EuanAB`*
