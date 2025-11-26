@@ -2,11 +2,14 @@
 title: Spire Operations
 description: Spire site guide
 published: true
-date: 2024-08-04T21:13:57.782Z
+date: 2025-11-25T23:53:41.385Z
 tags:
 editor: markdown
 dateCreated: 2024-05-28T07:24:13.337Z
 ---
+
+> There are no active Spire Sites left in the current game. They were tied to the thargoid war mechanics in 3309-3310.
+> {.is-danger}
 
 # Spire Operations
 
