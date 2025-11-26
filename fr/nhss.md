@@ -2,13 +2,15 @@
 title: Non-Human Signal Sources
 description: About Non-Human Signal Sources and Finding Thargoids
 published: true
-date: 2021-08-25T23:17:11.754Z
+date: 2025-11-26T12:26:24.257Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:51:53.374Z
 ---
 
 # Non-Human Signal Sources
+As a preface for using NHSS as a targeted farming method, they are only reliable in spawns outside of the war systems. The Pleiades and coalsack nebulae are the common spots for these.
+
 Non-Human Signal Sources are a special type of signal source that can be found in areas of Thargoid activity, Upon finding and entering a NHSS there is a chance you will get one of three outcomes:
 
 - A single Thargoid Interceptor (Cyclops, Basilisk, Medusa or Hydra)
@@ -36,24 +38,25 @@ Depending on the Threat Level of the NHSS you will find different types of Inter
 
 Threat Levels:
 
-- **[Threat 2]** - 1x Thargoid Probe
 - **[Threat 3]** - 2x Scouts
-- **[Threat 4]** - 4-7x Scouts OR 1-2x Human Ships + 4-7x Scouts (Typically 4 Scouts)
+- **[Threat 4]** - 4-7x Scouts + 0-2x Human Ships
 - **[Threat 5]** - 1x Cyclops OR 4-8x Scouts
 - **[Threat 6]** - 1x Basilisk OR 1x Cyclops + 4x Scouts
 - **[Threat 7]** - 1x Medusa OR 1x Basilisk + 4x Scouts
-- **[Threat 8]** - 1x Hydra* OR 1x Medusa + 4x Scouts
+- **[Threat 8]** - 1x Hydra OR 1x Medusa + 4x Scouts
 - **[Threat 9]** - 1x Hydra + 4x Scouts
 
-> Lone Hydras can only currently be found in the Coalsack Nebula. Every Threat 8 in the Pleiades Nebula or the Witch Head Nebula will contain 1x Medusa + 4x Scouts. **With one exception**: The system Pleiades Sector MI-S B4-0 contains Solo Hydras, present in both regular and guaranteed Threat 8 signal sources 
-> 
-> {.is-info}
+At some times in the past, NHSS Threat 0 and 2 have appeared, which spawn Thargoid Probes. These currently cannot be found in-game.
+
 
 ## Guaranteed Interceptor Signals
 If a NHSS has a **Salvage** icon next to it in the navigation panel, you will ALWAYS get a solo Interceptor based of the list above. For example, here is a guaranteed **Basilisk** signal source. Additionally, this instance is slightly different, as it only includes small debris and no green cloud. ![nhss.png](/img/nhss.png) Note: The small canister symbol on the left.
 
 ## Full-Spectrum Scanner
-The FSS can also be used to identify the contents of a NHSS instance, read more [here](https://wiki.antixenoinitiative.com/en/nhssviafss).
+> The FSS can also be used to identify **the contents** of a NHSS instance, read more [here](https://wiki.antixenoinitiative.com/en/nhssviafss). 
+> 
+> {.is-info}
+
 
 !\[signalsourcesboth.png\](/signalsourcesboth.png =600x)
 
