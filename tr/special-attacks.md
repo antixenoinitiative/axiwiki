@@ -2,30 +2,48 @@
 title: Thargoid Özel Yetenekleri
 description: Thargoid özel yetenekleri hakkında detaylı bilgiler
 published: true
-date: 2021-09-19T11:14:41.284Z
+date: 2025-11-27T02:38:55.433Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T01:05:26.462Z
 ---
 
 # Thargoid Özel Yetenekleri
-Kalp parçalamaları sonrası farklı özel yetenekler kullanılır. Hangi saldırıların ne zaman gerçekleşeceğini bu tabloda kısaca görebilirsiniz.
+Thargoids employ a variety of special attacks apart from their main cannons. Interceptor combat variants use various attacks after one of their hearts is destroyed, while Orthrus Interceptors and Glaive Hunters employ other special attacks at will.
 
-> Detaylı analizler için [**Thargoid Özellikleri Çizelgesi**](/en/thargoid-specs)ni inceleyebilirsiniz. 
+> For detailed breakdown of Thargoid Attack values and other stats, visit our [**Thargoid Spec Sheet**](/en/thargoid-specs). 
 > 
 > {.is-info}
 
 !\[attack_pattern.png\](/img/attack_pattern.png =550x){.align-center}
 
+
 ## Şimşek
-İlk Kalbi parçalandıktan sonra, Interceptor, şimşek saldırısını kullanma teşebbüsüyle peşinizden gelip 800 m menzile girmeye çalışacaktır. Bu saldırı kalkanlarınıza devasa hasar verir, rastgele seçilen bazı modüllerinizi geçici olarak devre dışı bırakır ve hareketinizi kısıtlar. İticileriniz işlevselliklerini bir miktar koruyabilseler de saldırı sonrası kısa bir süre için hızlanmakta zorlanacak, sürekli bir **frenleme** etkisi altında olacaksınız ve FA kapatmak bu etkiye engel olmaz.
+After the destruction of the first heart, Interceptors will enter a "**lightning-chase** phase". During this time, lasting 30-40 seconds, they will attempt to chase you down to catch you with this attack.
+
+Being caught **within 700-800 m** will have the lightning attach to your ship, **rendering you immobile** and knocking out one of your systems at random. Although your engines may still somewhat function, for a small period of time after the attack, you will struggle to build up speed as your ship will be under a **braking effect**, FA-OFF does not cancel out this effect.
+
+The Lightning attack has very low armor penetration, meaning its damage to hull is usually not devastating by itself. However it will do **massive damage to shields and significant module damage**. Another indirect danger of lightning is the swarm; which will often intersect, agitate on, and missile your ship while immobile.
+
+Interceptors also unlock this ability to be **used at any time during the rest of the fight** following the destruction of the first heart and if you come close enough, although they require a longer charge time than during the "lightning-chase" after the first heart.
+
+The Hunter Glaive has a special variant of lightning, which will recharge its shields when it connects with a ship.
 
 ## Caustic Füzeler
-İkinci Kalbi parçalandıktan sonra, Interceptor, caustic füzeler fırlatacaktır. Bu füzeler düşük hıza (~350 m/s) sahiptirler ve isabet halinde gövdenize **kalıcı DoT (zaman içerisinde uygulanan hasar)** uygular. Caustik hasar; sıcaklığınızı 180%'nin üzerinde birkaç saniye tutarak, 250% sıcaklıkta anında veya Decontamination Limpet kullanarak temizlenebilir. Bu sıcaklıklara çıkmak için SCB kullanabilir, Gauss'larınızı ateşleyebilir veya kalkanlarınızı kaybetmeyi göze alıyorsanız silent running kullanabilirsiniz.
+After the second heart is desroyed, the interceptor will use caustic missiles, which are slow-moving (~350 m/s) missiles that applies a **permanent damage over time (DoT) effect** on your hull. Caustic damage can be removed by bringing your heat above 180% for several seconds, or to 250% for instant removal, or by using a decontamination limpet. Bu sıcaklıklara çıkmak için SCB kullanabilir, Gauss'larınızı ateşleyebilir veya kalkanlarınızı kaybetmeyi göze alıyorsanız silent running kullanabilirsiniz.
 
-Sıcaklığınızı tekrar 100%'ün altına hızlıca düşürebilmek için yeterli heatsink ve SYS kapasiteniz olduğuna emin olun. Bu esnada Interceptor ıskalamayacaktır. Alternatif olarak istasyona iniş yaptığınızda da caustic hasarı temizlenir. Caustic füzeler yeteneğinin tetiklenmesi, sıcaklığınızı 20% eşiğinin altında tutarak ya da en az 3 km mesafede kalarak engellenebilir. Decontamination Limpetleri de caustic temizlemede kullanılabilir ancak bu yöntem daha yavaş olabilir ve ek modül ile kargo gerektirir.
+Sıcaklığınızı tekrar 100%'ün altına hızlıca düşürebilmek için yeterli heatsink ve SYS kapasiteniz olduğuna emin olun. Bu esnada Interceptor ıskalamayacaktır. Alternatif olarak istasyona iniş yaptığınızda da caustic hasarı temizlenir.
 
-## Shutdown Field
-Sondan ikinci Kalbini kaybettiğinde, Interceptor, bir EMP (Shutdown Field) saldırısıyla geminizin tüm sistemlerini 30 saniyeliğine devre dışı bırakır (wing beacon'ınız da bu sebeple kapanacaktır). Aynı şekilde bu yeteneği de, **tetiklenmeden önce** 3 km mesafenin dışına çıkarak ya da 20% sıcaklık eşiğinin altında kalarak **atlayabilirsiniz**. Saldırı tetiklendikten sonra, 10 km menzilli bu yetenek tarafından vurulmaktan kurtulamazsınız. Shutdown Field Neutralizer'ınız yoksa, FA kapalı tutun ve Interceptor ile Swarm'dan uzağa olabildiğince boostlayın.
+The launch of caustic missiles **can be entirely avoided by keeping a low temperature (below 20%) or being outside of 3km**. Decontamination Limpetleri de caustic temizlemede kullanılabilir ancak bu yöntem daha yavaş olabilir ve ek modül ile kargo gerektirir.
 
-Şimşek saldırısı hariç hiçbir saldırı Thargoid, Swarm'ını konuşlandırdıktan sonra gerçekleştirilmeyecektir. (Kalp Döngüsü Yenileme Bug'ı ile karşılaşmadığınız müddetçe)
+Glaive Hunters will also fire weak caustic missiles at regular intervals once their hull has been damaged enough.
+
+## Shutdown Pulse
+On the second-to-last heart destruction, the interceptor will attempt to use EMP (shut-down field), which **will render your ship inoperable** for 30 seconds or so (your wing beacon will also turn off because of this).
+
+You can **avoid triggering** the EMP field **by being outside of 3 km** before it attempts to initiate the attack, **or by keeping a low temperature** (below 20%). Saldırı tetiklendikten sonra, 10 km menzilli bu yetenek tarafından vurulmaktan kurtulamazsınız. Shutdown Field Neutralizer'ınız yoksa, FA kapalı tutun ve Interceptor ile Swarm'dan uzağa olabildiğince boostlayın.
+
+Interceptors will also fire a shuitdown pulse when entering an AXCZ, or after a nebula-hyperdiction.
+
+## Anti-Guardian Field
+The Orthrus Interceptor and Hunter Glaive employ a special Anti-Guardian field, which will slowly degrade the guardian modules of any ships within a large radius of them. Since these fields are actve as long as the vessel is in combat, using un-protected guardian weaponry against these vessels is ill-advised unless properly prepared.
