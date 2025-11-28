@@ -2,7 +2,7 @@
 title: Théorie pour l'Equipement de Vaisseaux
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2025-11-24T18:53:55.195Z
+date: 2025-11-28T19:16:40.273Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -34,6 +34,15 @@ Thargoid weapons ignore all resistances (besides caustic resistance) thus you sh
 ## Speed and Maneuverability
 
 Thargoids are fast and agile, hence top speed and maneuverability heavily influences our ship recommendations. An AX ship should be able to boost over 450m/s minimum, with any extra speed being an added bonus, ideally you will want to be able to achieve over 500m/s to be able to handle Basilisk Variant Interceptors more easily
+
+## Ship Anatomy & Convergence
+
+The placement of your hardpoints matters, especially when it comes to sniping exerted interceptor hearts. Some ships just have better placed hardpoints than others, which should go into your considerations when choosing a ship. Do take care when equipping your fixed AX weapons to pick the slots with the best convergence.
+
+> A great tool to see your ship's anatomy & hardpoint convergence is [EDSA](https://siriuscorp.cc/edsa/). 
+> 
+> {.is-info}
+
 
 ## Common Mistakes
 
