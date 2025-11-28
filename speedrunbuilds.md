@@ -2,7 +2,7 @@
 title: Speedrun Builds
 description: Ship builds designed for killing Thargoids quickly
 published: true
-date: 2025-11-28T17:31:47.623Z
+date: 2025-11-28T17:34:26.869Z
 tags: builds, outfitting, speedrunning
 editor: markdown
 dateCreated: 2021-06-10T03:49:40.037Z
@@ -23,7 +23,7 @@ There are several differences between a general-purpose AX build and a speedrunn
 - Shields, while offering excellent protection from ramming damage, are useless if utilizing Silent Running - an extremely valuable tool in the speedrunner's arsenal.
 - Shutdown Field Neutralizers can be useful as some techniques involve triggering the EMP/Caustics on purpose to accelerate the fight.
 - Thermal vent beam lasers are less important as the builds can rely on Silent Running for short periods of time, and there is almost no kiting involved in these fights
-- Some builds may use mirrored surface composite Armor, the reason being that it lessens the heat-damage taken from overheating.
+- Some builds may use mirrored surface composite Armor, the reason being that it lessens the heat-damage taken from overheating. These can be replaced with military grade when not desired.
 
 Note that there are roughly 2 main types of speedruns:
 
