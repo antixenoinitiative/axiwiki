@@ -2,7 +2,7 @@
 title: Schiffs Build Theorie
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2025-11-24T18:53:55.195Z
+date: 2025-11-28T19:16:40.273Z
 tags: Builds, Theorie, Engineering, Ausrüstung
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -34,6 +34,15 @@ Die Waffen der Thargoid ignorieren alle Resistenzen (außer kaustische Resistenz
 ## Geschwindigkeit und Manövrierfähigkeit
 
 Thargoids sind schnell und agil, weshalb Höchstgeschwindigkeit und Beweglichkeit unsere Schiff-Empfehlungen stark beeinflusst. Ein AX-Schiff sollte mit Boost auf über 450m/s kommen; mehr Geschwindigkeit ist ein Bonus. Am besten ist es, wenn man über 500m/s kommt, damit man es leichter gegen Basilisken hat.
+
+## Ship Anatomy & Convergence
+
+The placement of your hardpoints matters, especially when it comes to sniping exerted interceptor hearts. Some ships just have better placed hardpoints than others, which should go into your considerations when choosing a ship. Do take care when equipping your fixed AX weapons to pick the slots with the best convergence.
+
+> A great tool to see your ship's anatomy & hardpoint convergence is [EDSA](https://siriuscorp.cc/edsa/). 
+> 
+> {.is-info}
+
 
 ## Häufige Fehler
 
