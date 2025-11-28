@@ -2,7 +2,7 @@
 title: Guía de velocidad
 description: '¿Pueden matar goids? ¿Sí? Pero, ¿pueden matarlos rápidamente?'
 published: verdadero
-date: 2025-11-24T12:47:53.580Z
+date: 2025-11-28T03:17:37.820Z
 tags:
 editor: markdown
 dateCreated: 2021-06-10T13:56:57.206Z
@@ -55,8 +55,10 @@ If overwhelming damage to reach the exert treshhold was done during this time pe
 
 Whenever an interceptor's heart is destroyed it will enter a 35-40 second sleep phase. The exact time differs between Variants. (Except after the first heart, here the interceptor will enter the lightning phase unless the second heart is destroyed before activation.)
 
+The interceptor will try to position itself exactly 1km away when in its vicinity - moving backwards or forwards as needed.
+
 During the sleep phase the interceptor is looking for a target for its caustic missile or shutdown-field special attack.  
-Avoiding detection will let the sleep phase play out fully.
+Avoiding a target-lock will let the sleep phase play out fully.
 
 # Técnicas Speedrunning
 
@@ -124,13 +126,13 @@ Stunlocking while silent running will mean you can freely fire away your weapons
 SR is the easiest way to avoid detection during the fight, but firing weapons under silent running comes with constant **overheating**, causing:
 
 -   Hull damage over time
--   Internal Module damage over time
+-   Module damage over time
 
 ### Cold Locking 
 
-Cold Locking can always be used, but becomes necessary when stunlocking Hydras. Their survivability simply drags out the fight too long to get away with the internal damage dealt by overheating during silent running.
+Cold Locking can always be used, but becomes more necessary when stunlocking high tier Interceptors. Their survivability drags out the fight too long to get away with the internal damage dealt by overheating during silent running over extended periods of time.
 
-To cold lock you need to deal the damage required for stunlocking while also maintaining a **temperature of >20%** using heatsinks (20% is a rule of thumb and differs by ship).
+To cold lock you need to deal the damage required for stunlocking while also maintaining a **temperature of less than 20%** using heatsinks (20% is a rule of thumb and differs by ship).
 
 ## Doublehearting
 
@@ -139,6 +141,8 @@ Destroying the next heart and skipping the shield phase of the previous heart.
 ### “Impossible Shot” or “Lightning skip”
 
 Destroying the second heart **before** the first shield comes up and therefore skipping the lightning phase.
+
+The name "Impossible Shot" is a keepsake of the days when gauss still dominated the speedrunning scene (as better options were not available yet). Back then you had a 2 second window of opportunity for this, and taking the 1.25s charge up time of gauss into account, this was indeed a difficult thing to pull off.
 
 # Construcciones de speedrunning
 
