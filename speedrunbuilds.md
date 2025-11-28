@@ -2,7 +2,7 @@
 title: Speedrun Builds
 description: Ship builds designed for killing Thargoids quickly
 published: true
-date: 2025-11-28T17:34:26.869Z
+date: 2025-11-28T17:35:57.098Z
 tags: builds, outfitting, speedrunning
 editor: markdown
 dateCreated: 2021-06-10T03:49:40.037Z
@@ -76,7 +76,9 @@ These are not mutually exclusive, but some speedrunning builds are built to spec
   
   #### **Federal Gunship**
 
- The FGS has been a staple of medium ship speedrunning for a long time. With many hardpoints and a class 7 distrubotor to feed them. Though it has been superseded by some newer ships, it is still a very fun ship to use. Fans of the FAS will find it to be an easy switch.
+ The FGS has been a staple of medium ship speedrunning for a long time. With many hardpoints and a class 7 distrubotor to feed them. Though it has been superseded by some newer ships, it is still a very fun ship to use. 
+ 
+Fans of the FAS will find it to be an easy switch.
   
   [Stunlock Build](https://edsy.org/#/L=JR00000H4C0S80,LYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLXIG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvExiG09K_W0,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9ooG05I_W0AAAG03I_W0APoG05I_W0AdtG05J_W0AtyG03G_W0BAEG03L_W0BNCG05G_W0Bb600,15OG05I_W015OG05I_W015OG05I_W0,25S0025S003Ju0012GG05I_W020m001-C00)
 
