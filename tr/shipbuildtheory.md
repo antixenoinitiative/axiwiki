@@ -2,7 +2,7 @@
 title: Gemi Donatım Teorisi
 description: Genel AX donatım teorisine yönelik kapsamlı rehber
 published: true
-date: 2025-11-24T18:53:55.195Z
+date: 2025-11-28T19:16:40.273Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -34,6 +34,15 @@ Thargoid silahları, sahip olduğunuz tüm dirençleri (caustic hariç) yok saya
 ## Hız ve Manevra Kabiliyeti
 
 Thargoidler hızlı ve çeviktir ve bu yüzden azami hız ve manevra kabiliyeti önerdiğimiz gemiler için önemli noktalardır. Bir AX gemisi en azından 450 m/s hıza boostlayabilmelidir ve ideal olarak 500 m/s üzerine çıkmayı hedeflemelisiniz ki Basilisk ile daha rahat baş edebilesiniz.
+
+## Ship Anatomy & Convergence
+
+The placement of your hardpoints matters, especially when it comes to sniping exerted interceptor hearts. Some ships just have better placed hardpoints than others, which should go into your considerations when choosing a ship. Do take care when equipping your fixed AX weapons to pick the slots with the best convergence.
+
+> A great tool to see your ship's anatomy & hardpoint convergence is [EDSA](https://siriuscorp.cc/edsa/). 
+> 
+> {.is-info}
+
 
 ## Yaygın Hatalar
 
