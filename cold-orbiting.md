@@ -2,7 +2,7 @@
 title: Cold Orbiting
 description: How to avoid damage using cold orbiting
 published: true
-date: 2025-11-25T12:59:31.607Z
+date: 2025-12-01T23:15:51.764Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:18:39.016Z
@@ -36,8 +36,8 @@ In order to keep control of your heat here are a few tips:
     <iframe src="https://www.youtube.com/embed/qlfBwcsqEY0?si=RL5ZdDENKrvpwABx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
 </div><div>
 </div><div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/fefFYJg3RGU?si=k_82AIsNCNfhlRci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+</div><div class="iframeContainer">
     <iframe src="https://www.youtube.com/embed/cWr_ixTAKWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div><div>
-</div><div class="iframeContainer">
-    <iframe src="https://www.youtube.com/embed/f-2zN0f__HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
