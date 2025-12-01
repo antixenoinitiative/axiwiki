@@ -2,7 +2,7 @@
 title: Mechanic Bypass Guide
 description: How to skip certain mechanics in a thargoid fight
 published: true
-date: 2025-11-26T19:11:59.701Z
+date: 2025-12-01T23:37:28.667Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
@@ -25,7 +25,7 @@ The Interceptor will continue to try and get a **Target Lock** on the current ta
 > If the current target can **maintain minimum distance** and **stay cold/silent running**, the Thargoid Interceptor will not be able to get a **Target Lock** and will not deploy its **special abilities**.
 {.is-info}
 
-The ‘Current Target’ can change while the Thargoid is in the “Sleep Phase”. If the new target is not cold enough or too close, the Thargoid will **wake up** and use its special abilities. Ensure your teammates know this so they do not pull aggro while hot or attack the target during the sleep phase.
+The ‘Current Target’ can change while the Thargoid is in the “Sleep Phase”. If the new target is not cold enough or too close, the Thargoid will **wake up** and use its special abilities. Ensure your teammates know this and also avoid detection.
 
 If you destroyed the previous swarm **during** the current sleep phase, the Thargoid will fire **one volley of main-cannon fire** before deploying the next swarm. If you destroyed the previous swarm **before** the current sleep phase began, this will not happen and the Thargoid will deploy the swarm immediately.
 
