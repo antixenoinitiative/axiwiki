@@ -2,7 +2,7 @@
 title: Cold Orbiting
 description: How to avoid damage using cold orbiting
 published: true
-date: 2025-11-25T12:59:31.607Z
+date: 2025-12-01T23:24:20.013Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:18:39.016Z
@@ -29,6 +29,10 @@ In order to keep control of your heat here are a few tips:
 
 - Split your Gauss firegroups in half, firing 2x Gauss cannons at a time. This will prevent the heat from temporarily spiking above 20% allowing the goid to hit you. (if done fast enough this can be done without losing appreciable DPS)
 
+## Tutorial videos
+
+Some things are easiest explained with some visual demonstrations tied to them, here is a collection of Tutorials that AX Commanders have created over the years. You can find even more on YouTube!
+
 </div><div class="iframeContainer">
     <iframe src="https://www.youtube.com/embed/TpMPMzQFTD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
 </div><div>
@@ -36,8 +40,11 @@ In order to keep control of your heat here are a few tips:
     <iframe src="https://www.youtube.com/embed/qlfBwcsqEY0?si=RL5ZdDENKrvpwABx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
 </div><div>
 </div><div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/pziSAAzUWWY?si=zt3i8X9W8EFcszCP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
+</div><div>
+</div><div class="iframeContainer">
     <iframe src="https://www.youtube.com/embed/cWr_ixTAKWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div><div>
 </div><div class="iframeContainer">
-    <iframe src="https://www.youtube.com/embed/f-2zN0f__HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    <iframe src="https://www.youtube.com/embed/fefFYJg3RGU?si=k_82AIsNCNfhlRci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
