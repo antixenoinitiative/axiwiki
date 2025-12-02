@@ -2,7 +2,7 @@
 title: Mechaniken überspringen
 description: Wie man bestimmte Mechaniken im Thargoid-Kampf überspringt
 published: true
-date: 2025-11-26T19:11:59.701Z
+date: 2025-12-01T23:37:28.667Z
 tags: Gefecht, Thargoids, Interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
@@ -26,7 +26,7 @@ Der Interceptor wird **35** ** Sekunden** lang versuchen ein **Ziel aufzuschalte
 > 
 > {.is-info}
 
-Das 'aktuelle Ziel' kann sich ändern, während sich der Thargoid im Schlafzustand befindet. Wenn das neue Ziel nicht kalt genug oder zu nah ist, wird der Thargoid **aufwachen** und seine Fähigkeiten einsetzen. Stell sicher, dass deine Mitspieler das wissen, damit sie kein Aggro ziehen oder das Ziel während dem Schlafzustand angreifen.
+Das 'aktuelle Ziel' kann sich ändern, während sich der Thargoid im Schlafzustand befindet. Wenn das neue Ziel nicht kalt genug oder zu nah ist, wird der Thargoid **aufwachen** und seine Fähigkeiten einsetzen. Ensure your teammates know this and also avoid detection.
 
 Wenn du den vorherigen Schwarm **während** der aktuellen Schlafphase zerstörst, feuert der Thargoid **eine Salve der Hauptkanone ab** und lässt dann einen Schwarm frei. Wenn du den vorherigen Schwarm zerstörst **bevor** die aktuelle Schlafphase begonnen hat, wird das alles nicht passieren und die Thargoid wird den Schwarm sofort bereitstellen.
 
