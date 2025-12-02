@@ -2,7 +2,7 @@
 title: Versetztes Gauss-Kanonen Feuer
 description: Vorteile und verschiedene Herangehensweisen, beim versetzten Abfeuern von Gauss-Kanonen.
 published: true
-date: 2025-12-01T14:59:30.377Z
+date: 2025-12-02T17:40:00.129Z
 tags: combat, weapons, controls
 editor: markdown
 dateCreated: 2021-06-24T06:27:14.908Z
@@ -49,7 +49,7 @@ This is the “ultimate” tecnique. it offers the best sdps, with the best heat
     <iframe src="https://www.youtube.com/embed/KclGzsahbPU?si=Q998LLHnGBM5geCr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
 </div>
 
-## Minigun / Gattling
+## Minigun / Gatling
 
 The gauss minigun is different. It requires a macro to switch your firegroups. The purpose of it is to spread out your damage as much as possible while still maintaning max dps to get the best heat caracteristics and the most spread out distro draw out of all the firing modes. This was invented by CMDR Aranionros Stormrage.
 
