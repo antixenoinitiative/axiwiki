@@ -2,7 +2,7 @@
 title: Mekanik Atlama Rehberi
 description: Thargoid savaşlarında bazı mekanikler nasıl atlanır
 published: true
-date: 2025-11-26T19:11:59.701Z
+date: 2025-12-01T23:37:28.667Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:30:49.657Z
@@ -26,7 +26,7 @@ Interceptor **35** **saniye** boyunca **Hedefe Kilitli** olabilmek için mevcut 
 > 
 > {.is-info}
 
-Uyku Evresi'ndeyken Thargoid'in mevcut hedefi değişebilir. Eğer yeterince soğuk olmayan veya çok yaklaşan bir hedef bulursa Thargoid **uyanır** ve özel yeteneklerini kullanır. Tüm takım arkadaşlarınızın uyku evresini bozmamaları gerektiğinin farkında olduğundan emin olun.
+Uyku Evresi'ndeyken Thargoid'in mevcut hedefi değişebilir. Eğer yeterince soğuk olmayan veya çok yaklaşan bir hedef bulursa Thargoid **uyanır** ve özel yeteneklerini kullanır. Ensure your teammates know this and also avoid detection.
 
 Önceden kalmış bir Swarm varsa ve şu anki uyku evresi **sürerken** yok ederseniz; Thargoid, yeni Swarm'ı konuşlandırmadan önce **bir yaylım ana silah atışı** yapacaktır. Uyku evresinden **önce** yok ederseniz bu olmayacak ve Swarm uyku evresinden hemen sonra konuşlandırılacaktır.
 
