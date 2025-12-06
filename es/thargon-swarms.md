@@ -2,7 +2,7 @@
 title: Enjambres de Thargons
 description: Comportamiento detallado y mecánica de los Enjambres Thargon
 published: verdadero
-date: 2025-11-24T01:08:06.221Z
+date: 2025-12-06T22:25:09.387Z
 tags: thargoides, interceptores, enjambres
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -31,6 +31,8 @@ Además del primer enjambre lanzado al comienzo de la lucha, el Interceptor pued
 
 ## Recargas
 El Interceptor puede enviar una llamada de 'recarga' en cualquier momento, generalmente si el enjambre es bajo en número, lo que hará que el enjambre responda con un sonido chirriante y regrese al Interceptor rellenando completamente sus números. Esto no cuenta contra el enjambre bancado (en reserva), y no tiene que haber un enjambre bancado para que ocurra una recarga.
+
+Refill calls are more rare since Update 15. If the Interceptor loses interest due to losing your signature it will recall the Swarm fully in preperation to jump out, be mindful of that.
 
 ## Enfurecido
 Después de que pase algún tiempo sin que un corazón sea destruido, el Interceptor entrará en un estado de "enfurecido". El temporizador para esto es de 6 minutos para el Cíclope, 7 minutos para el Basilisco y Medusa, y 8 minutos para la Hydra. El temporizador comienza en el momento en que el Interceptor entra en combate, y se restablece cada vez que se destruye un corazón. Upon triggering the enrage, replacement swarms are immediately released upon one’s destruction. Additionally, if a Thargon swarm is in missile formation and a kamikaze missile attack is triggered, the entire swarm will turn into missiles at the same time. Este ataque es normalmente fatal a menos que se evite.
