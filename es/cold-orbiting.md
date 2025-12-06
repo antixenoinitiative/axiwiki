@@ -2,7 +2,7 @@
 title: Cold Orbiting
 description: How to avoid damage using cold orbiting
 published: true
-date: 2025-12-01T23:24:20.013Z
+date: 2025-12-06T22:34:46.696Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:18:39.016Z
@@ -31,7 +31,7 @@ In order to keep control of your heat here are a few tips:
 
 ## Tutorial videos
 
-Some things are easiest explained with some visual demonstrations tied to them, here is a collection of Tutorials that AX Commanders have created over the years. You can find even more on YouTube!
+Cold Orbiting is a very dense topic; here is a collection of Tutorials that AX Commanders have created over the years, sharing many different insights on it. You can find even more on YouTube!
 
 </div><div class="iframeContainer">
     <iframe src="https://www.youtube.com/embed/TpMPMzQFTD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
