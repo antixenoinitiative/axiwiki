@@ -2,7 +2,7 @@
 title: Thargon Schwärme
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: ja
-date: 2025-11-24T01:08:06.221Z
+date: 2025-12-06T22:25:09.387Z
 tags: thargoids, interceptors, schwärme
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -31,6 +31,8 @@ Zusaützlich zum anfänglich freigesetzten Schwarm, kann der Interceptor bei jed
 
 ## Auffüllen
 Der Interceptor kann jederzeit einen Ruf zum Auffüllen machen, normalerweise wenn der Schwarm nur noch gering bestückt ist. Dies führt zu einer kreischenden Antwort des Schwarms und der Rückkehr zum Interceptor, für komplettes Auffüllen seiner Anzahl. Dies zieht in keiner Weise von einem möglich aufbewahrten Schwarm.
+
+Refill calls are more rare since Update 15. If the Interceptor loses interest due to losing your signature it will recall the Swarm fully in preperation to jump out, be mindful of that.
 
 ## Wütend
 Nach einiger vergangener Zeit ohne Zerstörung eines Herzens, wird der Interceptor in einen wütenden Status wechseln. Die Zeitspanne beträgt 6 Minuten beim Cyclops, 7 Minuten beim Basilisk und der Medusa, und 8 Minuten bei der Hydra. Die Zeitspanne beginnt in dem Moment in dem der Interceptor in den Kampf tritt und setzt sich bei jeder Zerstörung eines Herzens zurück. Upon triggering the enrage, replacement swarms are immediately released upon one’s destruction. Additionally, if a Thargon swarm is in missile formation and a kamikaze missile attack is triggered, the entire swarm will turn into missiles at the same time. Dieser Angriff ist normalerweise, falls nicht ausgewichen, fatal.
