@@ -2,7 +2,7 @@
 title: Enjambres de Thargons
 description: Comportamiento detallado y mecánica de los Enjambres Thargon
 published: verdadero
-date: 2025-12-06T22:25:09.387Z
+date: 2025-12-08T23:29:05.085Z
 tags: thargoides, interceptores, enjambres
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -17,7 +17,7 @@ Durante los combates planetarios, el Interceptor no desplegará enjambres.
 **El enjambre de Thargon tiene dos métodos para infligir daño:**
 
 - **Proyectiles cáusticos** que hacen un gran daño a los escudos y los penetran, infligiendo daño al casco. Contra objetivos sin escudo, estos proyectiles son muy inexactos y el enjambre fallará la mayoría de sus disparos. La firma de calor no afecta visiblemente a su precisión, pero cambiar rápidamente su vector o rodar lo protegerá un poco. Este ataque tiene un alcance máximo de alrededor de 2 km. A pesar del nombre, estos no causan efectos cáusticos, sino que infligen daño cáustico directo, que puede ser minimizado por módulos como el Paquete de Refuerzo del Casco Guardián.
-- **Misiles Kamikaze** que matan al Thargon, pero infligen daños masivos en el casco y el módulo. Los misiles son rápidos (aproximadamente 600 m/s) pero de corta duración. Contra un objetivo sin Escudos, estos harán un daño tremendo, pero una construcción con Escudos y con 4 pips a SIS debería sobrevivir a una volea de misil regular con relativa facilidad. Sin escudos, estos pueden potencialmente destruir módulos de 1 disparo incluso a través de un paquete de refuerzo de módulo guardián. Estos misiles parecen causar daños por colisión, ya que no interrumpen la síntesis ni reinicios. Este ataque se dispara dentro de los 3 km de alcance, y solo si el enjambre está en formación de misiles.
+- **Kamikaze missiles** that kill the individual Thargon, but inflict massive hull and module damage. Los misiles son rápidos (aproximadamente 600 m/s) pero de corta duración. Contra un objetivo sin Escudos, estos harán un daño tremendo, pero una construcción con Escudos y con 4 pips a SIS debería sobrevivir a una volea de misil regular con relativa facilidad. Sin escudos, estos pueden potencialmente destruir módulos de 1 disparo incluso a través de un paquete de refuerzo de módulo guardián. Estos misiles parecen causar daños por colisión, ya que no interrumpen la síntesis ni reinicios. Este ataque se dispara dentro de los 3 km de alcance, y solo si el enjambre está en formación de misiles.
 
 Si el espacio personal de un Interceptor no agresivo es invadido (500m), desplegará un enjambre de advertencia, así como brillará de color rojo y 'amenazará' al piloto que se acercó demasiado. Este enjambre no atacará inmediatamente, sino que rodeará al Interceptor, listo para participar en cualquier momento. Si la amenaza retrocede, el Interceptor llamará al enjambre de vuelta y continuará sus acciones anteriores. Si no lo hace, el enjambre se separará y comenzará la batalla.
 
@@ -35,7 +35,11 @@ El Interceptor puede enviar una llamada de 'recarga' en cualquier momento, gener
 Refill calls are more rare since Update 15. If the Interceptor loses interest due to losing your signature it will recall the Swarm fully in preperation to jump out, be mindful of that.
 
 ## Enfurecido
-Después de que pase algún tiempo sin que un corazón sea destruido, el Interceptor entrará en un estado de "enfurecido". El temporizador para esto es de 6 minutos para el Cíclope, 7 minutos para el Basilisco y Medusa, y 8 minutos para la Hydra. El temporizador comienza en el momento en que el Interceptor entra en combate, y se restablece cada vez que se destruye un corazón. Upon triggering the enrage, replacement swarms are immediately released upon one’s destruction. Additionally, if a Thargon swarm is in missile formation and a kamikaze missile attack is triggered, the entire swarm will turn into missiles at the same time. Este ataque es normalmente fatal a menos que se evite.
+Después de que pase algún tiempo sin que un corazón sea destruido, el Interceptor entrará en un estado de "enfurecido". The timer for this is **6 minutes for the Cyclops, 7 minutes for the Basilisk and Medusa, and 8 minutes for the Hydra**. El temporizador comienza en el momento en que el Interceptor entra en combate, y se restablece cada vez que se destruye un corazón.
+
+- **Enraged Interceptors will continue releasing replacement swarms** immediately upon one’s destruction.
+- If a Thargon swarm is in missile formation and a kamikaze missile attack is triggered, the **entire swarm will turn into missiles** at the same time. This attack is usually fatal unless avoided.
+- Interceptor **enrage** does **NOT** mean the swarm will be **agitated** by default. You can prevent any kamikaze missiles from triggering by not agitating the swarm.
 
 # Formaciones
 Los enjambres usarán varias formaciones, estas pueden decirnos información sobre su comportamiento y cómo reaccionará.
