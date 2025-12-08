@@ -2,7 +2,7 @@
 title: Thargon Schwärme
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: ja
-date: 2025-12-06T22:25:09.387Z
+date: 2025-12-08T23:29:05.085Z
 tags: thargoids, interceptors, schwärme
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -17,7 +17,7 @@ Bei planetarischen Gefechten wird ein Interceptor keinen Schwarm einsetzen.
 **Der Thargon Schwarm verfügt über zwei Methoden, um Schaden zu Verursachen:**
 
 - **Kaustische Geschosse** die Schutzschilde schwer beschädigen, sie durchdringen und Schaden am Rumpf verursachen. Gegen Schutzschildlose Ziele sind diese Geschosse sehr ungenau und der Schwarm wird die meisten seiner Schüsse verfehlen. Die Wärmesignatur scheint ihre Genauigkeit nicht zu beeinflussen, aber deinen Flugvektor rapide zu verändern oder das Schiff zu rollen kann behilflich sein. Dieser kaustische Geschoss Angriff hat eine maximale Reichweite von etwa 2km. Ungeachtet des Namens, verursachen diese Geschosse keinen kaustischen Effekt, sondern Direktschaden von kaustischer Art, welcher von Widerständen, die Guardian Module geben können, beeinflusst wird.
-- **Kamikaze Flügkörper** die den Thargon selbst zerstören, aber massiven Rumpf- und Modulschaden verursachen. Die Flugkörper sind schnell (ca. 600m/s) aber kurzlebig. Gegen ein Schutzschildloses Ziel verursachen diese vernichtenden Schaden. Ein Schiff mit Schutzschilden und 4 Punkten in SYS sollte gegen solch eine Salve jedoch solide bestehen. Ohne Schutzschilde besteht die Gefahr, dass solch eine Salve Module, sogar trotz Guardian Modul Widerstände, sofort zerstört. Der durch die Flugkörper verursachte Schaden ist anscheinden reiner Kollisionsschaden, da weder Synthese noch Neustarts unterbrochen werden. Dieser Angriff wird nur innerhalb von 3km und während Flugkörper-Formation des Schwarms ausgelöst.
+- **Kamikaze missiles** that kill the individual Thargon, but inflict massive hull and module damage. Die Flugkörper sind schnell (ca. 600m/s) aber kurzlebig. Gegen ein Schutzschildloses Ziel verursachen diese vernichtenden Schaden. Ein Schiff mit Schutzschilden und 4 Punkten in SYS sollte gegen solch eine Salve jedoch solide bestehen. Ohne Schutzschilde besteht die Gefahr, dass solch eine Salve Module, sogar trotz Guardian Modul Widerstände, sofort zerstört. Der durch die Flugkörper verursachte Schaden ist anscheinden reiner Kollisionsschaden, da weder Synthese noch Neustarts unterbrochen werden. Dieser Angriff wird nur innerhalb von 3km und während Flugkörper-Formation des Schwarms ausgelöst.
 
 Falls in den persönlichen Bereich (500m) eines nicht-agressiven Interceptors eingedrungen wird, wird dieser einen Warn-Schwarm freisetzen, rot leuchten und den Piloten bedrohen. Dieser Schwarm wird nicht sofort angreifen, sondern um den Interceptor kreisen, jederzeit bereit zum Angriff. Falls die Bedrohung weicht, ruft der Interceptor den Schwarm zurück und nimmt seine vorherige Beschäftigung wieder auf. Andernfalls löst sich der Schwarm und die Schlacht beginnt.
 
@@ -35,7 +35,11 @@ Der Interceptor kann jederzeit einen Ruf zum Auffüllen machen, normalerweise we
 Refill calls are more rare since Update 15. If the Interceptor loses interest due to losing your signature it will recall the Swarm fully in preperation to jump out, be mindful of that.
 
 ## Wütend
-Nach einiger vergangener Zeit ohne Zerstörung eines Herzens, wird der Interceptor in einen wütenden Status wechseln. Die Zeitspanne beträgt 6 Minuten beim Cyclops, 7 Minuten beim Basilisk und der Medusa, und 8 Minuten bei der Hydra. Die Zeitspanne beginnt in dem Moment in dem der Interceptor in den Kampf tritt und setzt sich bei jeder Zerstörung eines Herzens zurück. Upon triggering the enrage, replacement swarms are immediately released upon one’s destruction. Additionally, if a Thargon swarm is in missile formation and a kamikaze missile attack is triggered, the entire swarm will turn into missiles at the same time. Dieser Angriff ist normalerweise, falls nicht ausgewichen, fatal.
+Nach einiger vergangener Zeit ohne Zerstörung eines Herzens, wird der Interceptor in einen wütenden Status wechseln. The timer for this is **6 minutes for the Cyclops, 7 minutes for the Basilisk and Medusa, and 8 minutes for the Hydra**. Die Zeitspanne beginnt in dem Moment in dem der Interceptor in den Kampf tritt und setzt sich bei jeder Zerstörung eines Herzens zurück.
+
+- **Enraged Interceptors will continue releasing replacement swarms** immediately upon one’s destruction.
+- If a Thargon swarm is in missile formation and a kamikaze missile attack is triggered, the **entire swarm will turn into missiles** at the same time. This attack is usually fatal unless avoided.
+- Interceptor **enrage** does **NOT** mean the swarm will be **agitated** by default. You can prevent any kamikaze missiles from triggering by not agitating the swarm.
 
 # Formationen
 Schwärme nutzen eine Anzahl verschiedener Formationen, diese geben uns Anzeichen über sein Verhalten und seine Reaktionsweisen.
