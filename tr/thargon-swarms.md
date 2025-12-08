@@ -2,7 +2,7 @@
 title: Thargon Swarmları
 description: Thargon Swarmlarının davranış ve mekaniklerine dair detaylı bilgiler
 published: true
-date: 2025-12-06T22:25:09.387Z
+date: 2025-12-08T23:29:05.085Z
 tags: thargoids, interceptors, swarms
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -17,7 +17,7 @@ Gezegen yakını savaşlarda Interceptorler Swarm kullanmaz.
 **Thargon Swarm'ı hasar vermek için iki yöntem kullanır:**
 
 - **Caustic mermiler** kalkanlarınıza yüksek hasar verir ve bir miktar delip geçerek gövdenize vurabilirler. Kalkansız hedeflere karşı bu mermiler düşük isabete sahiptirler ve çoğu oranda ıskalarlar. Sıcaklığınız, isabet oranını etkilemez ancak hızlıca yön değiştirmek veya yuvarlanmak faydalı olabilir. Bu saldırının azami menzili 2 km civarındadır. İsmine karşın bu saldırı caustic kirlenme birikimine sebep olmaz ancak caustic hasar türüne sahiptir.
-- **Kamikaze füzeler**, Thargonların intihar saldırısı düzenleyerek devasa gövde ve iç modül hasarı uygular. Bu füzeler hızlıdır (~600 m/s) ama kısa ömre sahiptir. Kalkansız bir hedefe karşı bu saldırı devasa bir hasar uygular ama kalkanlı bir gemi, SYS'e 4 pip kaydırarak bu saldırıya kolayca dayanabilir. Kalkansız gemilerde, GMRP bile olsa, bu saldırı modüllere tek atabilir. Bu füzeler çarpma hasarı uyguluyor gibi gözüküyor çünkü sentez ve yeniden başlatmayı etkilemiyorlar. Bu saldırı 3 km menzil içindeyken tetiklenir ve sadece, Swarm füze düzenindeyken yapılır.
+- **Kamikaze missiles** that kill the individual Thargon, but inflict massive hull and module damage. Bu füzeler hızlıdır (~600 m/s) ama kısa ömre sahiptir. Kalkansız bir hedefe karşı bu saldırı devasa bir hasar uygular ama kalkanlı bir gemi, SYS'e 4 pip kaydırarak bu saldırıya kolayca dayanabilir. Kalkansız gemilerde, GMRP bile olsa, bu saldırı modüllere tek atabilir. Bu füzeler çarpma hasarı uyguluyor gibi gözüküyor çünkü sentez ve yeniden başlatmayı etkilemiyorlar. Bu saldırı 3 km menzil içindeyken tetiklenir ve sadece, Swarm füze düzenindeyken yapılır.
 
 Eğer saldırgan olmayan bir Interceptor'ün kişisel alanı (500 m) taciz edilirse bir uyarı Swarm'ı konuşlandırır, kırmızı ışıklar yakarak yaklaşan pilotlara uyarı verirler. Bu Swarm hemen saldırıya başlamayacak, Interceptor çevresinde her an saldırıya hazır dolanacaktır. Eğer tehdit uzaklaşırsa, Interceptor Swarm'ını geri çağıracak ve işine kaldığı yerden devam edecektir. Aksi takdirde Swarm Interceptor'den ayrılacak ve savaş başlayacaktır.
 
@@ -35,7 +35,11 @@ Swarm'ın sayısı azaltığında Interceptor, Swarm'ı takviye için geri çağ
 Refill calls are more rare since Update 15. If the Interceptor loses interest due to losing your signature it will recall the Swarm fully in preperation to jump out, be mindful of that.
 
 ## Enrage
-Kalp parçalanmadan belirli bir süre geçerse Interceptor "enraged" dediğimiz bir duruma girer. Bu süre Cyclops için 6 dakika, Basilisk ve Medusa için 7 ve Hydra için 8 dakikadır. Bu geri sayım, Interceptor savaşa girer girmez başlar ve her Kalp parçalanışında yenilenir. Upon triggering the enrage, replacement swarms are immediately released upon one’s destruction. Additionally, if a Thargon swarm is in missile formation and a kamikaze missile attack is triggered, the entire swarm will turn into missiles at the same time. Bu saldırı kaçınılmadığı takdirde genelde ölümcüldür.
+Kalp parçalanmadan belirli bir süre geçerse Interceptor "enraged" dediğimiz bir duruma girer. The timer for this is **6 minutes for the Cyclops, 7 minutes for the Basilisk and Medusa, and 8 minutes for the Hydra**. Bu geri sayım, Interceptor savaşa girer girmez başlar ve her Kalp parçalanışında yenilenir.
+
+- **Enraged Interceptors will continue releasing replacement swarms** immediately upon one’s destruction.
+- If a Thargon swarm is in missile formation and a kamikaze missile attack is triggered, the **entire swarm will turn into missiles** at the same time. This attack is usually fatal unless avoided.
+- Interceptor **enrage** does **NOT** mean the swarm will be **agitated** by default. You can prevent any kamikaze missiles from triggering by not agitating the swarm.
 
 # Uçuş Düzeni
 Swarmlar çeşitli düzenlerde uçar ve buna bağlı olarak davranışları öngörülebilir.
