@@ -2,7 +2,7 @@
 title: Таргонский рой
 description: Подробное поведение и механика таргонского роя
 published: опубликовано
-date: 2025-12-06T22:25:09.387Z
+date: 2025-12-08T23:29:05.085Z
 tags: таргоиды, перехватчики, рой
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -17,7 +17,7 @@ dateCreated: 2021-06-15T11:56:01.753Z
 **Рой имеет 2 метода нанесения урона:**
 
 - **Едкие снаряды**, которые наносят сильный урон щитам и проходят сквозь них, нанося урон корпусу. Против целей без щита эти снаряды очень не точные и рой промахнётся большинством снарядов. Количество выделяемого кораблём тепла не влияет на их точность, но изменение вектора поможет избежать попадания снарядов. Дальность действия роя имеет максимальную дистанцию около 2 км. Несмотря на это название, они не применяют едкое вещество, а скорее наносят едкие повреждения, от которого можно защищаться такими модулями, как усиление корпуса Стражей.
-- **Kamikaze missiles** that kill the Thargon, but inflict massive hull and module damage. The missiles are fast (roughly 600m/s) but short-lived. Against an unshielded target, these will do tremendous damage, but a shielded build with 4 pips to SYS should survive a regular missile volley with relative ease. Without shields these can potentially 1-shot modules even through a Guardian Module Reinforcement Package. These missiles appear to do collision damage, as they do not interrupt synthesis or reboots. This attack triggers within 3km range, and only if the swarm is in missile formation.
+- **Kamikaze missiles** that kill the individual Thargon, but inflict massive hull and module damage. The missiles are fast (roughly 600m/s) but short-lived. Against an unshielded target, these will do tremendous damage, but a shielded build with 4 pips to SYS should survive a regular missile volley with relative ease. Without shields these can potentially 1-shot modules even through a Guardian Module Reinforcement Package. These missiles appear to do collision damage, as they do not interrupt synthesis or reboots. This attack triggers within 3km range, and only if the swarm is in missile formation.
 
 If a non-aggressive Interceptor’s personal space is invaded (500m), it will deploy a warning swarm as well as glow red and ‘threaten’ the pilot who got too close. This swarm will not immediately attack, but instead will circle around the Interceptor, ready to engage at a moment’s notice. If the threat backs away, the Interceptor will recall the swarm and continue its previous actions. If it does not, the swarm will detach and the battle begins.
 
@@ -35,7 +35,11 @@ The Interceptor may send out a ‘refill’ call at any time, usually if the swa
 Refill calls are more rare since Update 15. If the Interceptor loses interest due to losing your signature it will recall the Swarm fully in preperation to jump out, be mindful of that.
 
 ## Enrage
-After some time passes without a heart being destroyed, the Interceptor will enter an ‘enraged’ state. The timer for this is 6 minutes for the Cyclops, 7 minutes for the Basilisk and Medusa, and 8 minutes for the Hydra. The timer starts the moment the Interceptor enters combat, and is reset every time a heart is destroyed. Upon triggering the enrage, replacement swarms are immediately released upon one’s destruction. Additionally, if a Thargon swarm is in missile formation and a kamikaze missile attack is triggered, the entire swarm will turn into missiles at the same time. This attack is usually fatal unless avoided.
+After some time passes without a heart being destroyed, the Interceptor will enter an ‘enraged’ state. The timer for this is **6 minutes for the Cyclops, 7 minutes for the Basilisk and Medusa, and 8 minutes for the Hydra**. The timer starts the moment the Interceptor enters combat, and is reset every time a heart is destroyed.
+
+- **Enraged Interceptors will continue releasing replacement swarms** immediately upon one’s destruction.
+- If a Thargon swarm is in missile formation and a kamikaze missile attack is triggered, the **entire swarm will turn into missiles** at the same time. This attack is usually fatal unless avoided.
+- Interceptor **enrage** does **NOT** mean the swarm will be **agitated** by default. You can prevent any kamikaze missiles from triggering by not agitating the swarm.
 
 # Формации
 Рой будет использовать различные формации, чем могут сообщить нам информацию о своём поведении и о том, как рой будет реагировать.
