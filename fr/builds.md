@@ -2,7 +2,7 @@
 title: Équipements Recommandés
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2025-11-26T16:02:44.360Z
+date: 2025-12-21T12:31:59.699Z
 tags: équipement
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -177,7 +177,7 @@ Because of the presence of variables outside one's control (NPCs, other Players)
 
   Engineering Note: Can comfortably use the same power plant as meta chieftain or even unengineered 6A or 7A, depending on your preferences between power priorities, speed and material or rebuy cost. Check EDSY for minimum engineering based on your specific build.
 
-  [Shieldless AXCZ Build, Shard Cannons](https://edsy.org/#/L=JH00000H4C0S40,LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEkgG07P_W0LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEjGG07P_W0,CjxG02G_W0EBD00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABkG02q_W0ARMG05I_W0AdtJ-bJ0060upD6upD8qpDE_PcGzcQKsPcArw00BAEG03L_W0BOmG05G_W0Bcg00,,0ABG0W000016yG05I_W016yG05I_W016yG05I_W025S006kK200M22013qG05I_W020m001-C00,AXCZ_0Corsair,AXI)
+  [Shieldless AXCZ Build, Shard Cannons](https://edsy.org/#/L=JH00000H4C0S40,LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEkgG07P_W0LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEjGG07P_W0,CjxG02G_W0EBD00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABkG02q_W0ARMG05I_W0AdtJ-bJ0060upD6upD8qpDE_PcGzcQKsPcArw00BAEG03L_W0BOmG05G_W0Bcg00,,0AA0016yG05I_W016yG05I_W016yG05I_W025S006kK200M22013qG05I_W020m001-C00,AXCZ_0Corsair,AXI)
 
 
  ### Alliance Chieftain (Shieldless)
