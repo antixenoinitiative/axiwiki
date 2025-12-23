@@ -1,8 +1,8 @@
 ---
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
-published: true
-date: 2025-12-23T19:00:17.333Z
+published: false
+date: 2025-12-23T19:01:30.801Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
