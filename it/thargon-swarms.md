@@ -2,7 +2,7 @@
 title: Thargon Swarms
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: true
-date: 2025-12-08T23:29:05.085Z
+date: 2025-12-27T20:01:51.844Z
 tags: thargoids, interceptors, swarms
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -109,9 +109,17 @@ When a swarm is deployed, it is always in the Standard state. While in this stat
 
 This state changes **only if the swarm passes through a ship**. (The state won’t change to Agitated for a short time after the swarm is released for a period of up to 30s, even if a ship boosts through the swarm).
 
-When the swarm passes through a ship it enters the Agitated state. This state is visually indistinguishable from the Standard state, but it differs in the fact that while in this state the swarm will periodically (every 20-30s) enter a missile formation. Missile formations are slower than the regular ones (360m/s as opposed to 500m/s), and a swarm will remain in missile formation indefinitely as long as it remains in effective range of the Interceptor without getting recalled, or until it deploys several missiles (usually 10-15% of the swarm’s maximum number).
+When the swarm passes through a ship it enters the Agitated state. This state is visually indistinguishable from the Standard state, but it differs in the fact that while in this state the swarm will periodically (every 20-30s) enter a missile formation cycle.
+
+Missile formations are slower than the regular ones (360m/s as opposed to 500m/s), a swarm will remain in missile formation for the entire cycle as long as it remains in effective range of the Interceptor without getting recalled, or until it deploys several missiles (usually 10-15% of the swarm’s maximum number).
 
 After deploying missiles it will revert to a random regular formation and remain in Agitated state. This state will only end if the swarm passes through a ship once more, "***un-agitation***", or if the swarm is killed and a new one takes its place.
+
+## Basic Attack
+
+The swarm can use its regular **caustic projectile** spam attack when in range of ~3.5km as long as it is in one of the regular formations and not a missile formation cycle.
+
+While doing this attack the swarm will oscilate and attempt to avoid incoming fire.
 
 ## Maneuvers and counters
 A swarm can be kept in the Standard state for the entire duration of the fight. This means that agile ships such as the chieftain (particularly shieldless versions) can avoid using flak altogether. The low accuracy of the swarm’s caustic projectiles against shieldless targets combined with the lack of Thargon Missiles eliminates the threat that the swarm presents.
