@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-27T15:03:35.574Z
+date: 2025-12-27T15:37:57.002Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -34,13 +34,12 @@ A good and reliable maneuver to kite interceptors and their swarms.
 
 **Passing the Interceptor to put the swarm between you and the interceptor.**
 
-1. Turn FA-Off, face the interceptor,
-2. Transfer pips to ENG and boost directly towards it. Passing by it closely.
-Make sure to avoid getting hit by lightning.
+1. Turn FA-Off, face straight away from the interceptor, make sure the Interceptor is at the 180 degree mark on your Radar.
+2. Transfer pips to ENG and boost away.
+
 3. Deploy a heatsink around 4 km and do a barrel roll if the swarm begins firing on you.
 This disrupts the aim of the swarm. Use this same strategy if at any point you cannot outrun the Thargoid(s).
-
-**If the swarm is between you and the interceptor, turn around in FA-off and face the swarm.**
+4. **If the swarm is between you and the interceptor, turn around in FA-off and face the swarm.**
 Keep an eye on your distance to the interceptor so it doesn't get too close.
 
 ## Missile Baiting
@@ -52,9 +51,7 @@ Follow this up with a boost through the swarm after it reverts to a non-missile 
 
 Mind that going beyond 3km range mid-missile barrage will interrupt it! Enter <2.9km range again to let the missile barrage finish before you boost through the Swarm!
 
-<div class="iframeContainer">
-    <iframe src="https://www.youtube.com/embed/kTBdvXzyYx8?si=wgEK7pSdSXPjLdFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
-</div>
+- Demo: [Missile Baiting](<https://www.youtube.com/watch?v=kTBdvXzyYx8>)
 
 ## Swarm Rerolling
 
