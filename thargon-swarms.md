@@ -2,7 +2,7 @@
 title: Thargon Swarms
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: true
-date: 2025-12-27T20:00:42.337Z
+date: 2025-12-27T20:01:51.844Z
 tags: thargoids, interceptors, swarms
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -124,6 +124,8 @@ After deploying missiles it will revert to a random regular formation and remain
 ## Basic Attack
 
 The swarm can use its regular **caustic projectile** spam attack when in range of ~3.5km as long as it is in one of the regular formations and not a missile formation cycle.
+
+While doing this attack the swarm will oscilate and attempt to avoid incoming fire.
 
 ## Maneuvers and counters
 A swarm can be kept in the Standard state for the entire duration of the fight. This means that agile ships such as the chieftain (particularly shieldless versions) can avoid using flak altogether. The low accuracy of the swarm’s caustic projectiles against shieldless targets combined with the lack of Thargon Missiles eliminates the threat that the swarm presents. 
