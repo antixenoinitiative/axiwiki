@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: false
-date: 2025-12-23T19:01:30.801Z
+date: 2025-12-27T14:22:09.698Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -25,39 +25,7 @@ This article contains several methods to deal with the swarm, but to fully grasp
 
 There are several ways to deal with the Swarm. Some are aimed at destroying the Swarm, but not all.
 
-## Destroying the Swarm
-
-The only effective weapon against the Swarm is the remote release Flak Launcher. All techniques to destroy the Swarm require this weapon to be fitted.
-
-### How to use Flak
-
-TBD
-
-- Demo: [Using Flak](<>)
-
-### Ring Flakking
-
-Rings are a swarm formation first used by the Medusa and very common with Medusa and Hydra swarms.
-It is more difficult to flak because of the hollow area in the center, flak shots need to be aimed in a certain manner to hit the outer rim of the ring reliably.
-
-TBD
-
-- Demo: [Ring Flakking](<>)
-
-### Painbeavering
-
-A more advanced technique.
-
-Involves chasing the swarm and flakking it while it's flying away from you (after flying over you.)
-
-It is one of the few ways that slow ships (notably the ‘Vette, but also the ‘Conda and FGS) can effectively deal with the swarm.
-But it can also be employed by faster ships to deal with the swarm quickly and effectively.
-
-This technique avoids having to flak the Ring on higher tier interceptors as the swarm will temporarily enter a tighter form when employing this technique, no matter its current formation.
-
-Named after CMDR Painbeaver.
- - Demo: [The Painbeaver, large ship](<https://youtu.be/nJFdd9AEjNI>)
-## Counter Techniques and Maneuvers
+## Techniques & Counters
 
 General methods of dealing with the Swarms behavior and mechanics.
 
@@ -109,3 +77,41 @@ After you regained the attention the Swarm will change into an attack formation.
 In some cases, such as when the player is too far away from the Interceptor when the swarm is released (beyond 6km), the swarm will stay behind the Interceptor and engaging it will be impossible without taking fire from the Interceptor. To switch their positions, boost past the Interceptor (but not directly at it). Its inertia will cause it to drift away and take a long time to turn but the swarm will make a much sharper turn.
 
 [See this video for a visual example of how to switch Interceptor and Swarm positions.](https://youtu.be/nvEDF6eI1z8)
+
+## Destroying the Swarm
+
+The only effective weapon against the Swarm is the remote release Flak Launcher. All techniques to destroy the Swarm require this weapon to be fitted.
+
+### How to use Flak
+
+TBD
+TBD
+TBD
+TBD
+
+- Demo: [Using Flak](<>)
+
+### Ring Flakking
+
+Rings are a swarm formation first used by the Medusa and very common with Medusa and Hydra swarms.
+It is more difficult to flak because of the hollow area in the center, flak shots need to be aimed in a certain manner to hit the outer rim of the ring reliably.
+
+TBD
+TBD
+TBD
+
+- Demo: [Ring Flakking](<>)
+
+### Painbeavering
+
+A more advanced technique.
+
+Involves chasing the swarm and flakking it while it's flying away from you (after flying over you.)
+
+It is one of the few ways that slow ships (notably the ‘Vette, but also the ‘Conda and FGS) can effectively deal with the swarm.
+But it can also be employed by faster ships to deal with the swarm quickly and effectively.
+
+This technique avoids having to flak the Ring on higher tier interceptors as the swarm will temporarily enter a tighter form when employing this technique, no matter its current formation.
+
+Named after CMDR Painbeaver.
+ - Demo: [The Painbeaver, large ship](<https://youtu.be/nJFdd9AEjNI>)
