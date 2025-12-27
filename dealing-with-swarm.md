@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-27T14:41:37.888Z
+date: 2025-12-27T15:03:35.574Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -21,15 +21,13 @@ This article contains several methods to deal with the swarm, but to fully grasp
 > Visit the [Thargon Swarms](/en/thargon-swarms) page to learn how it functions in detail. 
 {.is-info}
 
-# Swarm Management
-
 There are several ways to deal with the Swarm. Some are aimed at destroying the Swarm, but not all.
 
-## Techniques & Counters
+# Techniques & Counters
 
 General methods of dealing with the Swarms behavior and mechanics.
 
-### The Reverski
+## The Reverski
 
 Traveling in a certain direction, in Flight Assist OFF, while having the ship face backwards.
 A good and reliable maneuver to kite interceptors and their swarms.
@@ -45,7 +43,7 @@ This disrupts the aim of the swarm. Use this same strategy if at any point you c
 **If the swarm is between you and the interceptor, turn around in FA-off and face the swarm.**
 Keep an eye on your distance to the interceptor so it doesn't get too close.
 
-### Missile Baiting
+## Missile Baiting
 
 The safest and most effective way to un-agitate a Swarm and avoiding the missile-strike.
 
@@ -58,7 +56,7 @@ Mind that going beyond 3km range mid-missile barrage will interrupt it! Enter <2
     <iframe src="https://www.youtube.com/embed/kTBdvXzyYx8?si=wgEK7pSdSXPjLdFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
 </div>
 
-### Swarm Rerolling
+## Swarm Rerolling
 
 You can use the Interceptors recalling behavior to your advantage to reroll the current Swarm formation into a different one.
 Move to a medium distance (depending on ship 4-6.5km) and stay cold via silent running or heatsinks, do not beam the Interceptor.
@@ -68,21 +66,20 @@ Make sure you act fast - you do not want the Interceptor to leave the Instance b
 
 After you regained the attention the Swarm will change into an attack formation. It *can* roll the same as the previous one, but with any luck you rolled a new more desirable formation!
 
-<div class="iframeContainer">
-    <iframe src="https://www.youtube.com/embed/65iXP5w5S0Y?si=UfRxC-Zb95B-uCeq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
-</div>
+- Demo: [Swarm Rerolling](<https://youtu.be/65iXP5w5S0Y?si=zpoNUXHhD2IFHedX>)
 
 
-### Switching Interceptor and Swarm Position
-In some cases, such as when the player is too far away from the Interceptor when the swarm is released (beyond 6km), the swarm will stay behind the Interceptor and engaging it will be impossible without taking fire from the Interceptor. To switch their positions, boost past the Interceptor (but not directly at it). Its inertia will cause it to drift away and take a long time to turn but the swarm will make a much sharper turn.
+## Switching Interceptor and Swarm Position
+In some cases, such as when the player is too far away from the Interceptor when the swarm is released (beyond 6km), the swarm will stay behind the Interceptor and engaging it will be impossible without taking fire from the Interceptor. To switch their positions, boost past the Interceptor (but not directly at it). Its inertia will cause it to drift away and take a long time to turn, while the swarm will make a much sharper turn.
 
-[See this video for a visual example of how to switch Interceptor and Swarm positions.](https://youtu.be/nvEDF6eI1z8)
+- Demo: [Swarm - Interceptor Realignment / Pass](<https://youtu.be/nvEDF6eI1z8>)
 
-## Destroying the Swarm
+
+# Destroying the Swarm
 
 The only effective weapon against the Swarm is the remote release Flak Launcher. All techniques to destroy the Swarm require this weapon to be fitted.
 
-### How to use Flak
+## How to use Flak
 
 TBD
 TBD
@@ -102,7 +99,7 @@ TBD
 
 - Demo: [Ring Flakking](<>)
 
-### Painbeavering
+## Painbeavering
 
 A more advanced technique.
 
