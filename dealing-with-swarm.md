@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-27T15:37:57.002Z
+date: 2025-12-27T15:49:42.910Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -35,11 +35,15 @@ A good and reliable maneuver to kite interceptors and their swarms.
 **Passing the Interceptor to put the swarm between you and the interceptor.**
 
 1. Turn FA-Off, face straight away from the interceptor, make sure the Interceptor is at the 180 degree mark on your Radar.
-2. Transfer pips to ENG and boost away.
 
-3. Deploy a heatsink around 4 km and do a barrel roll if the swarm begins firing on you.
-This disrupts the aim of the swarm. Use this same strategy if at any point you cannot outrun the Thargoid(s).
-4. **If the swarm is between you and the interceptor, turn around in FA-off and face the swarm.**
+2. Transfer pips to ENG, throttle forwards and boost away.
+Keep boosting until you are at the maximum range you can be without the Interceptor losing interest.
+Typically around 6 - 7.5km in most ships.
+
+3. Pitch to rotate your ship 180 degrees and face in the opposite direction of your movement vector.
+You want to keep moving away while facing your pursuers, so make sure you do NOT accidently throttle forwards leadding you in the opposite direction now.
+
+4. You can now fire your flak, beams or employ other techniques.
 Keep an eye on your distance to the interceptor so it doesn't get too close.
 
 ## Missile Baiting
