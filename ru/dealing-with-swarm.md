@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-27T17:11:45.862Z
+date: 2025-12-27T19:39:47.347Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -17,7 +17,7 @@ The Thargon Swarm is a major component of most Thargoid Interceptors' kit. Knowi
 
 This article contains several methods to deal with the swarm, but to fully grasp them it is advisable to learn the full mechanics and behavior of the swarm first.
 
-> Visit the [Thargon Swarms](/en/thargon-swarms) page to learn how it functions in detail.
+> Visit the [Thargon Swarms](/en/thargon-swarms) page to learn about it's functions and mechanics in detail.
 > {.is-info}
 
 There are several ways to deal with the Swarm. Some are aimed at destroying the Swarm, but not all.
@@ -70,7 +70,9 @@ After you regained the attention the Swarm will change into an attack formation.
 
 ## Switching Interceptor and Swarm Position
 
-In some cases, such as when the player is too far away from the Interceptor when the swarm is released (beyond 6km), the swarm will stay behind the Interceptor and engaging it will be impossible without taking fire from the Interceptor. To switch their positions, boost past the Interceptor (but not directly at it). Its inertia will cause it to drift away and take a long time to turn, while the swarm will make a much sharper turn.
+In some cases, such as when the player is too far away from the Interceptor when the swarm is released (beyond 6km), the swarm will stay behind the Interceptor and engaging it will be impossible without taking fire from the Interceptor.
+This can also commonly happen with the Basilisk, which is faster than the swarm and can overtake it.
+To switch their positions, boost past the Interceptor (but not directly at it). Its inertia will cause it to drift away and take a long time to turn, while the swarm will make a much sharper turn.
 
 - Demo: [Swarm - Interceptor Realignment / Pass](https://youtu.be/nvEDF6eI1z8)
 
@@ -82,10 +84,24 @@ The only effective weapon against the Swarm is the remote release Flak Launcher.
 
 ## How to use Flak
 
-TBD
-TBD
-TBD
-TBD
+The remote release Flak Launcher only comes in the class 2 hardpoint size.
+After firing the weapon you hold down and then release to detonate it.
+
+> Set your games targeting sights to "Leading" when using flak.
+> {.is-info}
+
+During traveltime the flak projectile will have a visual targeting rectangle made up of a circle and 3 triangle corners.
+The circle will fill and the corners will light up as the projectile aproaches its estimated target. There is also a beeping audio que. The released pellets will destroy any thargons in a short area of effect.
+
+Your leading sights rectangle will generally provide you with information to estimate where the swarm is heading and where you should fire your flak projectile.
+
+When you are within the Swarms regular caustic projectile range of roughly 3.5 kilometers it will move in an oscillating pattern while firing upon you.
+During this pattern the swarm will have peaks and valleys in its swaying motion before changing direction. The thargons change of direction is an ideal window of opportunity to inflict damage.
+
+To hit the flak more consistently you want to fire your flak to where you **predict** the swarms sway will be peaking.
+An easy rule of thumb for beginners is drawing a mental line in between the center of the Swarm and the leading rectangle and then firing your flak at a ~2/3rds mark of that line.
+
+- IMG of the line trick
 
 - Demo: [Using Flak]()
 
@@ -94,11 +110,10 @@ TBD
 Rings are a swarm formation first used by the Medusa Interceptor and very common with both it and the  Hydra.
 It is more difficult to hit flak with, because of the hollow area in the center, flak shots need to be aimed in a certain manner to hit the outer rim of the ring reliably.
 
-TBD
-TBD
-TBD
+A good trick for beginner is imagining 2 broad columns of area mapping the sides of the ring that are oriented with the direction of movement the swarm currently has.
+Firing at these off-center columns increases your likelyhood of hitting the thargons positioned on the outer ring along these sides of the ring and makes prediction easier.
 
-- Demo: [Ring Flakking]()
+- Demo: [Ring Flakking](https://youtu.be/V0dfGzY-6Lo?si=MOtCV_3ysztTUp7B)
 
 ## Painbeavering
 
