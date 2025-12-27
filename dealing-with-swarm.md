@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-27T19:38:28.652Z
+date: 2025-12-27T19:39:47.347Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -18,7 +18,7 @@ The Thargon Swarm is a major component of most Thargoid Interceptors' kit. Knowi
 
 This article contains several methods to deal with the swarm, but to fully grasp them it is advisable to learn the full mechanics and behavior of the swarm first.
 
-> Visit the [Thargon Swarms](/en/thargon-swarms) page to learn how it functions in detail. 
+> Visit the [Thargon Swarms](/en/thargon-swarms) page to learn about it's functions and mechanics in detail. 
 {.is-info}
 
 There are several ways to deal with the Swarm. Some are aimed at destroying the Swarm, but not all.
