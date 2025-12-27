@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-27T14:33:29.538Z
+date: 2025-12-27T14:41:37.888Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -116,4 +116,4 @@ This technique avoids having to flak the Ring on higher tier interceptors as the
 Named after CMDR Painbeaver.
  - Demo: [The Painbeaver, large ship](<https://youtu.be/nJFdd9AEjNI>)
  
- - Demo: [The Painbeaver, medium ship](<https://youtu.be/g-88R0XW9pM>)
+ - Demo: [The Painbeaver, medium ship](<https://youtu.be/HgRVCNmFny4>)
