@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-27T17:11:45.862Z
+date: 2025-12-27T19:07:00.906Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -84,10 +84,26 @@ The only effective weapon against the Swarm is the remote release Flak Launcher.
 
 ## How to use Flak
 
-TBD
-TBD
-TBD
-TBD
+The remote release Flak Launcher only comes in the class 2 hardpoint size.
+After firing the weapon you hold down and then release to detonate it.
+
+> Set your games targeting sights to "Leading" when using flak.
+{.is-info}
+
+During traveltime the flak projectile will have a visual targeting rectangle made up of a circle and 3 triangle corners.
+The circle will fill and the corners will light up as the projectile aproaches its estimated target. There is also a beeping audio que. The released pellets will destroy any thargons in a short area of effect.
+
+Your leading sights rectangle will generally provide you with information to estimate where the swarm is heading and where you should fire your flak projectile.
+
+When you are within the Swarms regular caustic projectile range of roughly 3.5 kilometers it will move in an oscillating pattern while firing upon you.
+During this pattern the swarm will have peaks and valleys in its swaying motion before changing direction. The thargons change of direction is an ideal window of opportunity to inflict damage.
+
+To hit the flak more consistently you want to fire your flak where you **predict** the swarms sway will be peaking.
+An easy rule of thumb for beginners is drawing a mental line in between the center of the Swarm and the leading rectangle and then firing your flak at a ~2/3rds mark of that line.
+
+
+
+
 
 - Demo: [Using Flak](<>)
 
