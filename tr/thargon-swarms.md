@@ -2,7 +2,7 @@
 title: Thargon Swarmları
 description: Thargon Swarmlarının davranış ve mekaniklerine dair detaylı bilgiler
 published: true
-date: 2025-12-08T23:29:05.085Z
+date: 2025-12-27T20:01:51.844Z
 tags: thargoids, interceptors, swarms
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -109,9 +109,17 @@ Bir Swarm her zaman standart durumda konuşlandırılır. Bu durumdayken asla f�
 
 Swarm durumu **yalnızca gemi içinden geçince değişir.** (Durum değişimi Swarm ortaya çıktıktan 30 saniye sonrasına kadar, Swarm bir gemi içinden geçse dahi gerçekleşmeyecekir.)
 
-Swarm, bir geminin içinden geçerse "huzursuz" durumunu alır. Görünüşünde, standart durumundan bir fark oluşmaz ancak Swarm bu durumdayken zaman zaman (20-30 saniyede bir) füze düzenini alır. Missile formations are slower than the regular ones (360m/s as opposed to 500m/s), and a swarm will remain in missile formation indefinitely as long as it remains in effective range of the Interceptor without getting recalled, or until it deploys several missiles (usually 10-15% of the swarm’s maximum number).
+Swarm, bir geminin içinden geçerse "huzursuz" durumunu alır. This state is visually indistinguishable from the Standard state, but it differs in the fact that while in this state the swarm will periodically (every 20-30s) enter a missile formation cycle.
 
-Füzeleri ateşledikten sonra normal düzenlerden birini alır ve huzursuz durumunu korur. This state will only end if the swarm passes through a ship once more, "***un-agitation***", or if the swarm is killed and a new one takes its place.
+Missile formations are slower than the regular ones (360m/s as opposed to 500m/s), a swarm will remain in missile formation for the entire cycle as long as it remains in effective range of the Interceptor without getting recalled, or until it deploys several missiles (usually 10-15% of the swarm’s maximum number).
+
+After deploying missiles it will revert to a random regular formation and remain in Agitated state. This state will only end if the swarm passes through a ship once more, "***un-agitation***", or if the swarm is killed and a new one takes its place.
+
+## Basic Attack
+
+The swarm can use its regular **caustic projectile** spam attack when in range of ~3.5km as long as it is in one of the regular formations and not a missile formation cycle.
+
+While doing this attack the swarm will oscilate and attempt to avoid incoming fire.
 
 ## Karşı Manevralar
 Swarm, savaş boyunca standart durumda tutulabilir. Bu sebeple, Chieftain gibi çevik bir gemi kullanılarak (özellikle de kalkansız) Flak kullanımına gerek duyulmayabilir. Kalkansız hedeflere karşı caustic mermilerin düşük isabete sahip olması ve Thargon Füzleri'nin engellenmesi Swarm tehdidini büyük ölçüde ortadan kaldırır.
