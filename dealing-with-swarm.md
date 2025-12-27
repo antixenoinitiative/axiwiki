@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-27T15:49:42.910Z
+date: 2025-12-27T17:11:45.862Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -25,7 +25,7 @@ There are several ways to deal with the Swarm. Some are aimed at destroying the 
 
 # Techniques & Counters
 
-General methods of dealing with the Swarms behavior and mechanics.
+This is a list of general methods of dealing with the Swarms behavior and mechanics during an Interceptor fight. These can used in a variety of scenarios by both beginners and advanced pilots.
 
 ## The Reverski
 
@@ -71,12 +71,14 @@ After you regained the attention the Swarm will change into an attack formation.
 
 
 ## Switching Interceptor and Swarm Position
+
 In some cases, such as when the player is too far away from the Interceptor when the swarm is released (beyond 6km), the swarm will stay behind the Interceptor and engaging it will be impossible without taking fire from the Interceptor. To switch their positions, boost past the Interceptor (but not directly at it). Its inertia will cause it to drift away and take a long time to turn, while the swarm will make a much sharper turn.
 
 - Demo: [Swarm - Interceptor Realignment / Pass](<https://youtu.be/nvEDF6eI1z8>)
 
-
 # Destroying the Swarm
+
+There are a number of ways to destroy the swarm during an Interceptor fight. Many commanders opt to fly flakless later on, but it is advisable to start out using flak and then decide on which advanced flying methods or swarm management techniques to use later on.
 
 The only effective weapon against the Swarm is the remote release Flak Launcher. All techniques to destroy the Swarm require this weapon to be fitted.
 
@@ -91,8 +93,8 @@ TBD
 
 ### Ring Flakking
 
-Rings are a swarm formation first used by the Medusa and very common with Medusa and Hydra swarms.
-It is more difficult to flak because of the hollow area in the center, flak shots need to be aimed in a certain manner to hit the outer rim of the ring reliably.
+Rings are a swarm formation first used by the Medusa Interceptor and very common with both it and the  Hydra.
+It is more difficult to hit flak with, because of the hollow area in the center, flak shots need to be aimed in a certain manner to hit the outer rim of the ring reliably.
 
 TBD
 TBD
@@ -106,10 +108,10 @@ A more advanced technique.
 
 Involves chasing the swarm and flakking it while it's flying away from you (after flying over you.)
 
-It is one of the few ways that slow ships (notably the ‘Vette, but also the ‘Conda and FGS) can effectively deal with the swarm.
+It is one of the few ways in that slow ships (notably the ‘Vette, but also the ‘Conda and FGS) can effectively deal with the swarm.
 But it can also be employed by faster ships to deal with the swarm quickly and effectively.
 
-This technique avoids having to flak the Ring on higher tier interceptors as the swarm will temporarily enter a tighter form when employing this technique, no matter its current formation.
+This technique also avoids having to flak the more difficult Ring-formation on higher tier interceptors as the swarm will temporarily enter a tighter shape when employing this technique, no matter its current formation.
 
 Named after CMDR Painbeaver.
  - Demo: [The Painbeaver, large ship](<https://youtu.be/nJFdd9AEjNI>)
