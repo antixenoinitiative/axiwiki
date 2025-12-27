@@ -2,7 +2,7 @@
 title: Thargon Schwärme
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: ja
-date: 2025-12-08T23:29:05.085Z
+date: 2025-12-27T20:01:51.844Z
 tags: thargoids, interceptors, schwärme
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -109,9 +109,17 @@ Wenn ein Schwarm freigesetzt wird, ist er immer im Standard Zustand. In diesem Z
 
 Dieser Zustand verändert sich **nur beim Durchfliegen des Schwarms**. (Der Zustand ändert sich in den ersten 30 Sekunden nach Freisetzung auch nicht wenn ein Schiff durch den Schwarm fliegt).
 
-Wenn der Schwarm ein Schiff durchfliegt, tritt er in den erregten Zustand. Der Zustand ist visuel nicht zu erkennen, aber bringt den Schwarm dazu periodisch (alle 20-30s) eine Flugkörper Formation anzunehmen. Missile formations are slower than the regular ones (360m/s as opposed to 500m/s), and a swarm will remain in missile formation indefinitely as long as it remains in effective range of the Interceptor without getting recalled, or until it deploys several missiles (usually 10-15% of the swarm’s maximum number).
+Wenn der Schwarm ein Schiff durchfliegt, tritt er in den erregten Zustand. This state is visually indistinguishable from the Standard state, but it differs in the fact that while in this state the swarm will periodically (every 20-30s) enter a missile formation cycle.
 
-Nach dem Einsatz von Flugkörpern kehrt der Schwarm in Standard Formation zurück und bleibt in erregtem Zustand. This state will only end if the swarm passes through a ship once more, "***un-agitation***", or if the swarm is killed and a new one takes its place.
+Missile formations are slower than the regular ones (360m/s as opposed to 500m/s), a swarm will remain in missile formation for the entire cycle as long as it remains in effective range of the Interceptor without getting recalled, or until it deploys several missiles (usually 10-15% of the swarm’s maximum number).
+
+After deploying missiles it will revert to a random regular formation and remain in Agitated state. This state will only end if the swarm passes through a ship once more, "***un-agitation***", or if the swarm is killed and a new one takes its place.
+
+## Basic Attack
+
+The swarm can use its regular **caustic projectile** spam attack when in range of ~3.5km as long as it is in one of the regular formations and not a missile formation cycle.
+
+While doing this attack the swarm will oscilate and attempt to avoid incoming fire.
 
 ## Manöver und Gegenmaßnahmen
 Der Schwarm kann während des gesammten Kampfes in Standard Zustand gehalten werden. Dies bedeutet, dass agile Schiffe wie der Chieftain (vorallem Schutzschildlose Versionen) das nutzen von Flak komplett umgehen können. Die niedrige Genauigkeit der kaustischen Geschosse gegenüber Schutzschildlosen Zielen, kombiniert mit dem Fehlen von Thargon Flugkörpern eliminiert die Gefahr des Schwarms.
