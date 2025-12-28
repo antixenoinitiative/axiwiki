@@ -2,7 +2,7 @@
 title: Basic Combat Guide
 description: The fundamental concepts of AX combat and how to fight an Interceptor.
 published: true
-date: 2025-11-26T12:11:03.680Z
+date: 2025-12-28T21:12:21.604Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:18:38.671Z
@@ -35,6 +35,10 @@ Only one swarm can be banked at a time.
 Ensure you have heatsink reloads, ax flak reloads, and gauss reloads.
 
 ## The Opening
+
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/gNdhLo8hx1E?si=08pMx874PP0OcSas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
+</div>
 
 Once you drop into the [Non-Human Signal source](/en/nhss), the Thargoid will approach and scan you. Either let it scan you and turn away (if you wish to scan it), or begin firing just as it closes within 1.5 km while reversing slowly away. Stay within 1.5 km to avoid the damage falloff at range from gauss, deploy a heatsink, and begin firing, using the reload indicator on your hud to ensure you are firing immediately after your cannons reload (1.6 seconds). After you hear the sound of the heatsink eject, fire another.
 
