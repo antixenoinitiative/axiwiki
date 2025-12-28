@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-28T18:48:46.599Z
+date: 2025-12-28T21:48:27.220Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -20,7 +20,7 @@ This article contains several methods to deal with the swarm, but to fully grasp
 > Visit the [Thargon Swarms](/en/thargon-swarms) page to learn about it's functions and mechanics in detail.
 > {.is-info}
 
-There are several ways to deal with the Swarm. Some are aimed at destroying the Swarm, but not all.
+There are several of ways to destroy the swarm during an Interceptor fight. Many commanders choose to fly without flak at some point, but it is advisable to start out using flak and then making the decision on what style or techniques you want to transition to later on.
 
 A swarm can be kept in the Standard state for the entire duration of the fight. This means that agile ships such as the chieftain (particularly shieldless versions) can avoid using flak altogether. The low accuracy of the swarm’s caustic projectiles against shieldless targets combined with the lack of Thargon Missiles eliminates the threat that the swarm presents.
 
@@ -86,7 +86,6 @@ To switch their positions, boost past the Interceptor (but not directly at it). 
 
 # Destroying the Swarm
 
-There are a number of ways to destroy the swarm during an Interceptor fight. Many commanders opt to fly flakless at some point, but it is advisable to start out using flak and then making the decision on what style or swarm-management techniques you want to transition to later on.
 The only effective weapon against the Swarm is the remote release Flak Launcher. All techniques to destroy the Swarm require this weapon to be fitted.
 
 ## How to use the Flak Launcher
@@ -98,11 +97,10 @@ After firing the weapon you hold down and then release to detonate it.
 > {.is-info}
 
 During traveltime the flak projectile will have a visual targeting indicator made up of a circle and 3 triangle corners.
-The circle will fill and the corners will light up as the projectile aproaches its estimated target. There is also a beeping audio que. The released flak will destroy any thargons in a short area of effect.
+
+As the projectile aproaches targets in its blast radius, the circle will fill and the corners will light up. There is also a beeping audio que. You may need to adjust your release timing based on distance, closing speeds, and your own reaction time. The released flak will destroy any thargons in a short area of effect.
 
 Your leading sights indicator will generally provide you with information to estimate where the swarm is heading and where you should fire your flak projectile.
-
-Considering travel time of the projectile and shrapnel that is released by the flak, and the speed of the swarm itself moving towards you, it is often advisable to release the flak a bit before the indicator fully lights up.
 
 ### Medium Range flakking
 
