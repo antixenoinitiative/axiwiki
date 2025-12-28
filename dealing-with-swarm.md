@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-28T21:37:13.245Z
+date: 2025-12-28T21:48:27.220Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -101,11 +101,11 @@ After firing the weapon you hold down and then release to detonate it.
 {.is-info}
 
 During traveltime the flak projectile will have a visual targeting indicator made up of a circle and 3 triangle corners.
-The circle will fill and the corners will light up as the projectile aproaches its estimated target. There is also a beeping audio que. The released flak will destroy any thargons in a short area of effect.
+
+As the projectile aproaches targets in its blast radius, the circle will fill and the corners will light up. There is also a beeping audio que. You may need to adjust your release timing based on distance, closing speeds, and your own reaction time. The released flak will destroy any thargons in a short area of effect.
 
 Your leading sights indicator will generally provide you with information to estimate where the swarm is heading and where you should fire your flak projectile.
 
-Considering travel time of the projectile and shrapnel that is released by the flak, and the speed of the swarm itself moving towards you, it is often advisable to release the flak a bit before the indicator fully lights up.
 
 ### Medium Range flakking
 
