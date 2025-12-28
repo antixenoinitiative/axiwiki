@@ -2,7 +2,7 @@
 title: Thargon Swarms
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: true
-date: 2025-12-28T12:00:13.577Z
+date: 2025-12-28T12:42:36.391Z
 tags: thargoids, interceptors, swarms
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -17,6 +17,7 @@ During planetary engagements, the Interceptor will not deploy swarms.
 **The Thargon swarm has two methods of inflicting damage:**
 
 - **Caustic projectiles** that do heavy damage to shields and penetrate them, dealing hull damage. Against shieldless targets, these projectiles are very inaccurate and the swarm will miss most of its shots. Heat signature does not visibly affect their accuracy, but rapidly changing your vector or rolling will protect you somewhat. This attack has a maximum range of around 2km. Despite the name, these do not apply caustic stacks but rather deal caustic damage, which is effected by modules such as the Guardian Hull Reinforcement Package.
+
 - **Kamikaze missiles** that kill the individual Thargon, but inflict massive hull and module damage. The missiles are fast (roughly 600m/s) but short-lived. Against an unshielded target, these will do tremendous damage, but a shielded build with 4 pips to SYS should survive a regular missile volley with relative ease. Without shields these can potentially 1-shot modules even through a Guardian Module Reinforcement Package. These missiles appear to do collision damage, as they do not interrupt synthesis or reboots. This attack triggers within 3km range, and only if the swarm is in missile formation.
 
 If a non-aggressive Interceptor’s personal space is invaded (500m), it will deploy a warning swarm as well as glow red and ‘threaten’ the pilot who got too close. This swarm will not immediately attack, but instead will circle around the Interceptor, ready to engage at a moment’s notice. If the threat backs away, the Interceptor will recall the swarm and continue its previous actions. If it does not, the swarm will detach and the battle begins.
@@ -109,7 +110,48 @@ Attempting to destroy this ring is usually not recommended. It can cost much tim
 
 Many Commanders at the Medusa and Hydra stage will also opt to choose a flakless flying style instead. This is entirely optional.
 
+## Idle
 
+## {.tabset}
+
+### Idle
+
+![swarm_idle_form.png](/swarm_idle_form.png =300x220)
+Basilisk Swarm Idle Mode
+
+- The idle mode is used by all variants
+
+This mode is not part of what we call "regular" formations. 
+Swarms will take on this mode when "retreating", after being recalled or when attempting to gain distance from the pilot's ship after a state-change.
+
+This behavior can be taken advantage of in more advanced swarm-management techniques.
+
+### Warning
+
+![basilisk_with_warning_swarm.webp](/basilisk_with_warning_swarm.webp =400x220)
+Basilisk with warning swarm
+
+- Warning swarms can be used by all variants
+
+This form is not part of any hostile formations during combat. Released when an Interceptor feels threatend but has not entered combat yet.
+
+Can be taken advantage of by letting part of the swarm destroy itself by hitting debris in signal sources and distress-calls.
+
+
+
+
+# State Mechanics
+
+## Base behavior
+
+When outside of roughly 3.5km range of its target, the swarm will usually behave in what we refer to as "pursuit" mode. It will take on a regular formation and move straightline at ~500m/s, trying to reduce the distance to its target.
+
+When inside of roughly 3.5 km range of its target, the swarm will slow down and get ready to attack. It will oscillate, swaying back and forth in different directions.
+
+The swarm will use its regular **caustic projectile** spam attack when in range of ~2km as long as it is in one of the standard-formations. Similar to Interceptors - the Swarm will periodicly break off to rearm / cooldown after firing these.
+
+If the swarm ventures too far from the interceptor that spawned it, or the interceptor loses the signature of the pilot's ship, or the interceptor wants to refill it; the swarm can be recalled.
+When recalled (and when attempting to gain distance after a state-change) the swarm behaves in what some refer to as "retreat or fleeing". During this it will break the current formation to its idle-mode. 
 
 ## Standard vs Agitated
 The Thargon swarm can exist in one of two states. These states are independent of formations, and the only thing that triggers a state change is the swarm passing through a ship. We shall refer to these states as ‘**Standard**’ and ‘**Agitated**’.
