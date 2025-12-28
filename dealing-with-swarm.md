@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-28T18:48:46.599Z
+date: 2025-12-28T21:37:13.245Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -21,11 +21,13 @@ This article contains several methods to deal with the swarm, but to fully grasp
 > Visit the [Thargon Swarms](/en/thargon-swarms) page to learn about it's functions and mechanics in detail. 
 {.is-info}
 
-There are several ways to deal with the Swarm. Some are aimed at destroying the Swarm, but not all.
+There are several of ways to destroy the swarm during an Interceptor fight. Many commanders choose to fly without flak at some point, but it is advisable to start out using flak and then making the decision on what style or techniques you want to transition to later on.
 
 A swarm can be kept in the Standard state for the entire duration of the fight. This means that agile ships such as the chieftain (particularly shieldless versions) can avoid using flak altogether. The low accuracy of the swarm’s caustic projectiles against shieldless targets combined with the lack of Thargon Missiles eliminates the threat that the swarm presents.
 
 If the swarm at any point enters an Agitated state, one can bait the missiles before boosting through the swarm, reverting it back to the Standard state.
+
+
 
 # Techniques & Counters
 
@@ -88,7 +90,6 @@ To switch their positions, boost past the Interceptor (but not directly at it). 
 
 # Destroying the Swarm
 
-There are a number of ways to destroy the swarm during an Interceptor fight. Many commanders opt to fly flakless at some point, but it is advisable to start out using flak and then making the decision on what style or swarm-management techniques you want to transition to later on.
 The only effective weapon against the Swarm is the remote release Flak Launcher. All techniques to destroy the Swarm require this weapon to be fitted.
 
 ## How to use the Flak Launcher
