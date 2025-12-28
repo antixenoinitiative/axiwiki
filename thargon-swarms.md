@@ -2,7 +2,7 @@
 title: Thargon Swarms
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: true
-date: 2025-12-28T11:57:29.029Z
+date: 2025-12-28T12:00:13.577Z
 tags: thargoids, interceptors, swarms
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -99,7 +99,6 @@ Left to Right: Basilisk Death Spiral, Hydra Death Spiral
 Unlike the regular Cone/Spiral, this formation has a small gap at the center so is more difficult to destroy. Flak shells detonating at the center will cause less damage (but still kill at least a few Thargons).
 
 
-
 ### Ring of Death Formation
 ![embeddedimage_(6).png](/img/embeddedimage_(6).png =600x220)
 Left to Right: Medusa Ring Of Death, Hydra Ring Of Death
@@ -110,32 +109,7 @@ Attempting to destroy this ring is usually not recommended. It can cost much tim
 
 Many Commanders at the Medusa and Hydra stage will also opt to choose a flakless flying style instead. This is entirely optional.
 
-## Idle
 
-![swarm_idle_form.png](/swarm_idle_form.png =300x220)
-Basilisk Swarm Idle Formation
-
-- The idle Formation is used by all variants
-
-This form is not part of the regular formations during combat, but it exists nonetheless.
-Swarms will take on this form when "retreating", after being recalled or when attempting to gain distance from the pilot's ship after a state-change.
-
-This behavior can be abused in more advanced swarm-management techniques.
-
-
-# State Mechanics
-
-## Base behavior
-
-When outside of roughly 3.5km range of its target, the swarm will usually behave in what we refer to as "pursuit" mode. It will take on a regular formation and move straightline at ~500m/s, trying to reduce the distance to its target.
-
-When inside of roughly 3.5 km range of its target, the swarm will slow down (~360m/s) and get ready to attack. It will oscillate, swaying back and forth in different directions.
-
-The swarm will use its regular **caustic projectile** spam attack when in range of ~2km as long as it is in one of the standard-formations. Similar to Interceptors - the Swarm will periodicly break off to rearm / cooldown after firing these.
-
-If the swarm ventures too far from the interceptor that spawned it, or the interceptor loses the signature of the pilot's ship; the swarm can be recalled.
-
-When recalled (and when attempting to gain distance after a state-change) the swarm behaves in what some refer to as "retreat or fleeing". During this it will break the current formation to its idle-form. 
 
 ## Standard vs Agitated
 The Thargon swarm can exist in one of two states. These states are independent of formations, and the only thing that triggers a state change is the swarm passing through a ship. We shall refer to these states as ‘**Standard**’ and ‘**Agitated**’.
