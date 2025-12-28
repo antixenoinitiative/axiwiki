@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-28T18:05:50.724Z
+date: 2025-12-28T18:47:20.631Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -104,6 +104,7 @@ The circle will fill and the corners will light up as the projectile aproaches i
 
 Your leading sights indicator will generally provide you with information to estimate where the swarm is heading and where you should fire your flak projectile.
 
+Considering travel time of the projectile and shrapnel that is released by the flak, and the speed of the swarm itself moving towards you, it is often advisable to release the flak a bit before the indicator fully lights up.
 
 ### Medium Range flakking
 
@@ -128,8 +129,16 @@ A good trick for beginners is **offsetting your aim** by the radius of the ring 
 
 ## Painbeavering
 
-A more advanced technique. Not recommended to less experienced AX pilots..
-Involves chasing the swarm and flakking it while it's retreating away from you in its "idle" mode after agitation. This technique therefore also avoids having to flak more difficult Ring-formations on higher tier interceptors.
+A more advanced technique. Not recommended for less experienced AX pilots..
+
+Involves agitating the swarm on purpose and then chasing it down. This comes with some risk as failure means you end up with an agitated swarm, all while often being in the immediate vicinity of the Interceptor and its weapons. 
+This technique however does avoid having to flak more difficult Ring-formations on higher tier interceptors, as you force it into an easier form to hit.
+
+- Fly through the swarm, agitating it in the process
+- Flip your ship and chase the swarm
+- The swarm will break formation and enter its clustered "idle / retreat" mode, while attempting to gain a 2 kilometer distance from you in order for it to switch to missile mode.
+- Fire your flak at the straightlining swarm while you keep chasing it. 
+Consider the swarms movement away from you as you decide how long to hold the flak - holding it a bit longer than you are used to before release, to ensure the shrapnel hits as many thargons as possible, is advised.
 
 It is one of the few ways in that slow ships (notably the ‘Vette, but also the ‘Conda and FGS) can effectively deal with the swarm.
 But it can also be employed by faster ships to deal with the swarm quickly and effectively.
