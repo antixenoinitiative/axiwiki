@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-28T18:47:51.814Z
+date: 2025-12-28T18:48:35.440Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -138,7 +138,7 @@ This technique however does avoid having to flak more difficult Ring-formations 
 - Flip your ship and chase the swarm
 - The swarm will break formation and enter its clustered "idle / retreat" mode, while attempting to gain a 2 kilometer distance from you in order for it to switch to missile mode.
 - Fire your flak at the straightlining swarm while you keep chasing it. 
-Consider the swarms movement away from you as you decide how long to hold the flak - hold a bit longer than you are used to before release, to ensure the shrapnel hits as many thargons as possible, is advised.
+Consider the swarms movement away from you as you trigger the flak - hold a bit longer than you are used to before release, to ensure the shrapnel hits as many thargons as possible, is advised.
 
 It is one of the few ways in that slow ships (notably the ‘Vette, but also the ‘Conda and FGS) can effectively deal with the swarm.
 But it can also be employed by faster ships to deal with the swarm quickly and effectively.
