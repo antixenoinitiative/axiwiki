@@ -2,7 +2,7 @@
 title: Thargon Schwärme
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: ja
-date: 2025-12-27T20:01:51.844Z
+date: 2025-12-28T12:42:36.391Z
 tags: thargoids, interceptors, schwärme
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -16,8 +16,9 @@ Bei planetarischen Gefechten wird ein Interceptor keinen Schwarm einsetzen.
 
 **Der Thargon Schwarm verfügt über zwei Methoden, um Schaden zu Verursachen:**
 
-- **Kaustische Geschosse** die Schutzschilde schwer beschädigen, sie durchdringen und Schaden am Rumpf verursachen. Gegen Schutzschildlose Ziele sind diese Geschosse sehr ungenau und der Schwarm wird die meisten seiner Schüsse verfehlen. Die Wärmesignatur scheint ihre Genauigkeit nicht zu beeinflussen, aber deinen Flugvektor rapide zu verändern oder das Schiff zu rollen kann behilflich sein. Dieser kaustische Geschoss Angriff hat eine maximale Reichweite von etwa 2km. Ungeachtet des Namens, verursachen diese Geschosse keinen kaustischen Effekt, sondern Direktschaden von kaustischer Art, welcher von Widerständen, die Guardian Module geben können, beeinflusst wird.
-- **Kamikaze missiles** that kill the individual Thargon, but inflict massive hull and module damage. Die Flugkörper sind schnell (ca. 600m/s) aber kurzlebig. Gegen ein Schutzschildloses Ziel verursachen diese vernichtenden Schaden. Ein Schiff mit Schutzschilden und 4 Punkten in SYS sollte gegen solch eine Salve jedoch solide bestehen. Ohne Schutzschilde besteht die Gefahr, dass solch eine Salve Module, sogar trotz Guardian Modul Widerstände, sofort zerstört. Der durch die Flugkörper verursachte Schaden ist anscheinden reiner Kollisionsschaden, da weder Synthese noch Neustarts unterbrochen werden. Dieser Angriff wird nur innerhalb von 3km und während Flugkörper-Formation des Schwarms ausgelöst.
+- **Caustic projectiles** that do heavy damage to shields and penetrate them, dealing hull damage. Against shieldless targets, these projectiles are very inaccurate and the swarm will miss most of its shots. Heat signature does not visibly affect their accuracy, but rapidly changing your vector or rolling will protect you somewhat. This attack has a maximum range of around 2km. Despite the name, these do not apply caustic stacks but rather deal caustic damage, which is effected by modules such as the Guardian Hull Reinforcement Package.
+
+- **Kamikaze missiles** that kill the individual Thargon, but inflict massive hull and module damage. The missiles are fast (roughly 600m/s) but short-lived. Against an unshielded target, these will do tremendous damage, but a shielded build with 4 pips to SYS should survive a regular missile volley with relative ease. Without shields these can potentially 1-shot modules even through a Guardian Module Reinforcement Package. These missiles appear to do collision damage, as they do not interrupt synthesis or reboots. This attack triggers within 3km range, and only if the swarm is in missile formation.
 
 Falls in den persönlichen Bereich (500m) eines nicht-agressiven Interceptors eingedrungen wird, wird dieser einen Warn-Schwarm freisetzen, rot leuchten und den Piloten bedrohen. Dieser Schwarm wird nicht sofort angreifen, sondern um den Interceptor kreisen, jederzeit bereit zum Angriff. Falls die Bedrohung weicht, ruft der Interceptor den Schwarm zurück und nimmt seine vorherige Beschäftigung wieder auf. Andernfalls löst sich der Schwarm und die Schlacht beginnt.
 
@@ -32,7 +33,9 @@ Zusaützlich zum anfänglich freigesetzten Schwarm, kann der Interceptor bei jed
 ## Auffüllen
 Der Interceptor kann jederzeit einen Ruf zum Auffüllen machen, normalerweise wenn der Schwarm nur noch gering bestückt ist. Dies führt zu einer kreischenden Antwort des Schwarms und der Rückkehr zum Interceptor, für komplettes Auffüllen seiner Anzahl. Dies zieht in keiner Weise von einem möglich aufbewahrten Schwarm.
 
-Refill calls are more rare since Update 15. If the Interceptor loses interest due to losing your signature it will recall the Swarm fully in preperation to jump out, be mindful of that.
+Refill calls are much more rare since Update 15. Sometimes only happening if the swarm is in agitated state.
+
+If the Interceptor loses interest due to losing your signature it will recall the Swarm fully in preperation to jump out, be mindful of that.
 
 ## Wütend
 Nach einiger vergangener Zeit ohne Zerstörung eines Herzens, wird der Interceptor in einen wütenden Status wechseln. The timer for this is **6 minutes for the Cyclops, 7 minutes for the Basilisk and Medusa, and 8 minutes for the Hydra**. Die Zeitspanne beginnt in dem Moment in dem der Interceptor in den Kampf tritt und setzt sich bei jeder Zerstörung eines Herzens zurück.
@@ -42,13 +45,14 @@ Nach einiger vergangener Zeit ohne Zerstörung eines Herzens, wird der Intercept
 - Interceptor **enrage** does **NOT** mean the swarm will be **agitated** by default. You can prevent any kamikaze missiles from triggering by not agitating the swarm.
 
 # Formationen
-Schwärme nutzen eine Anzahl verschiedener Formationen, diese geben uns Anzeichen über sein Verhalten und seine Reaktionsweisen.
+Swarms will use various formations, these can tell us information about it's behaviour and how it will react.
 
 ## Standard
 
 ## {.tabset}
+
 ### Ball Formation
-![embeddedimage_(1).png](/img/embeddedimage_(1).png) Links nach Rechts: Cyclops Kugel, Medusa Kugel
+!\[embeddedimage_(1).png\](/img/embeddedimage_(1).png =600x220) Left to Right: Cyclops Ball, Medusa Ball
 
 - This is the Cyclops’ only non-missile formation.
 - It is also used by the other variants (though more rarely as they prefer their more advanced formations).
@@ -57,7 +61,7 @@ Die Formation ist die am einfachsten zu zerstörende, nur wenige gut platzierte 
 
 
 ### Cone/Spiral Formation
-![embeddedimage_(3).png](/img/embeddedimage_(3).png) Links nach Rechts: Basilisk Kegel, Medusa Kegel
+!\[embeddedimage_(3).png\](/img/embeddedimage_(3).png =600x220) Left to Right: Basilisk Cone, Medusa Cone
 
 - The Cone or Spiral formation is first used by the Basilisk.
 - Not uncommon with stronger variants.
@@ -65,7 +69,7 @@ Die Formation ist die am einfachsten zu zerstörende, nur wenige gut platzierte 
 Wie auch bei der Kugel Formation, ist diese einfach zu zerstören. Einige mittige Schüsse in die Spitze des Kegels reichen schon aus.
 
 ### Ring Formation
-![embeddedimage_(2).png](/img/embeddedimage_(2).png) Links nach Rechts: Medusa Ring, Hydra Ring
+!\[embeddedimage_(2).png\](/img/embeddedimage_(2).png =600x220) Left to Right: Medusa Ring, Hydra Ring
 
 - Die gefürchtete Ring Formation ist die bevorzugte Formation der Medusa und Hydra.
 - The Basilisk also has a ring formation to offer, but it is not nearly as wide.
@@ -76,14 +80,14 @@ It is significantly more difficult to destroy than other formations; any flak sh
 
 ## {.tabset}
 ### Todeswellen Formation
-![embeddedimage_(4).png](/img/embeddedimage_(4).png) Links nach Rechts: Cyclops Todeswelle, Medusa Todeswelle
+!\[embeddedimage_(4).png\](/img/embeddedimage_(4).png =600x220) Left to Right: Cyclops Death Wall, Medusa Death Wall
 
 - The Death Wall (Flat Spiral) is the Cyclops’ only missile formation.
 - It is also used by the other variants (though more rarely as they prefer their more advanced formations).
 
 
 ### Todesspiralen Formation
-![embeddedimage_(5).png](/img/embeddedimage_(5).png) Links nach Rechts: Basilisk Todesspirale, Hydra Todesspriale
+!\[embeddedimage_(5).png\](/img/embeddedimage_(5).png =600x220) Left to Right: Basilisk Death Spiral, Hydra Death Spiral
 
 - The Death Spiral missile formation is first used by the Basilisk.
 - It is not uncommon with stronger variants.
@@ -92,15 +96,52 @@ Unlike the regular Cone/Spiral, this formation has a small gap at the center so 
 
 
 ### Todesring Formation
-![embeddedimage_(6).png](/img/embeddedimage_(6).png) Links nach Rechts: Medusa Todesring, Hydra Todesring
+!\[embeddedimage_(6).png\](/img/embeddedimage_(6).png =600x220) Left to Right: Medusa Ring Of Death, Hydra Ring Of Death
 
 - The Ring of Death is used commonly by the Medusa and Hydra
 
-Attempting to destroy this ring is not recommended. It would cost too much time and ammunition - instead the missiles should be baited and the swarm destroyed in a un-agitated or changed formation.
+Attempting to destroy this ring is usually not recommended. It can cost much time and ammunition for less experienced flak users - instead the missiles should be baited and the swarm destroyed in a un-agitated or changed formation.
 
-Many Commanders at the Medusa and Hydra stage will also opt to choose a flakless flying style instead.
+Many Commanders at the Medusa and Hydra stage will also opt to choose a flakless flying style instead. This is entirely optional.
+
+## Idle
+
+## {.tabset}
+
+### Idle
+
+!\[swarm_idle_form.png\](/swarm_idle_form.png =300x220) Basilisk Swarm Idle Mode
+
+- The idle mode is used by all variants
+
+This mode is not part of what we call "regular" formations. Swarms will take on this mode when "retreating", after being recalled or when attempting to gain distance from the pilot's ship after a state-change.
+
+This behavior can be taken advantage of in more advanced swarm-management techniques.
+
+### Warning
+
+!\[basilisk_with_warning_swarm.webp\](/basilisk_with_warning_swarm.webp =400x220) Basilisk with warning swarm
+
+- Warning swarms can be used by all variants
+
+This form is not part of any hostile formations during combat. Released when an Interceptor feels threatend but has not entered combat yet.
+
+Can be taken advantage of by letting part of the swarm destroy itself by hitting debris in signal sources and distress-calls.
+
+
+
 
 # State Mechanics
+
+## Base behavior
+
+When outside of roughly 3.5km range of its target, the swarm will usually behave in what we refer to as "pursuit" mode. It will take on a regular formation and move straightline at ~500m/s, trying to reduce the distance to its target.
+
+When inside of roughly 3.5 km range of its target, the swarm will slow down and get ready to attack. It will oscillate, swaying back and forth in different directions.
+
+The swarm will use its regular **caustic projectile** spam attack when in range of ~2km as long as it is in one of the standard-formations. Similar to Interceptors - the Swarm will periodicly break off to rearm / cooldown after firing these.
+
+If the swarm ventures too far from the interceptor that spawned it, or the interceptor loses the signature of the pilot's ship, or the interceptor wants to refill it; the swarm can be recalled. When recalled (and when attempting to gain distance after a state-change) the swarm behaves in what some refer to as "retreat or fleeing". During this it will break the current formation to its idle-mode.
 
 ## Standard vs Agitated
 Der Thargon Schwarm kann in einem von zwei Zuständen sein. Dieser Status ist unabhängig von Formationen und das einzige was eine Änderung bewirkt, ist das Durchfliegen des Schwarmes. We shall refer to these states as ‘**Standard**’ and ‘**Agitated**’.
@@ -114,12 +155,6 @@ Wenn der Schwarm ein Schiff durchfliegt, tritt er in den erregten Zustand. This 
 Missile formations are slower than the regular ones (360m/s as opposed to 500m/s), a swarm will remain in missile formation for the entire cycle as long as it remains in effective range of the Interceptor without getting recalled, or until it deploys several missiles (usually 10-15% of the swarm’s maximum number).
 
 After deploying missiles it will revert to a random regular formation and remain in Agitated state. This state will only end if the swarm passes through a ship once more, "***un-agitation***", or if the swarm is killed and a new one takes its place.
-
-## Basic Attack
-
-The swarm can use its regular **caustic projectile** spam attack when in range of ~3.5km as long as it is in one of the regular formations and not a missile formation cycle.
-
-While doing this attack the swarm will oscilate and attempt to avoid incoming fire.
 
 ## Manöver und Gegenmaßnahmen
 Der Schwarm kann während des gesammten Kampfes in Standard Zustand gehalten werden. Dies bedeutet, dass agile Schiffe wie der Chieftain (vorallem Schutzschildlose Versionen) das nutzen von Flak komplett umgehen können. Die niedrige Genauigkeit der kaustischen Geschosse gegenüber Schutzschildlosen Zielen, kombiniert mit dem Fehlen von Thargon Flugkörpern eliminiert die Gefahr des Schwarms.
