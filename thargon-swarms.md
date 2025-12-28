@@ -2,7 +2,7 @@
 title: Thargon Swarms
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: true
-date: 2025-12-28T11:54:41.171Z
+date: 2025-12-28T11:55:32.309Z
 tags: thargoids, interceptors, swarms
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -112,9 +112,6 @@ Many Commanders at the Medusa and Hydra stage will also opt to choose a flakless
 
 ## Idle
 
-## {.tabset}
-
-### Idle Formation
 ![swarm_idle_form.png](/swarm_idle_form.png =300x220)
 Basilisk Swarm Idle Formation
 
