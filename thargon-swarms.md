@@ -2,7 +2,7 @@
 title: Thargon Swarms
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: true
-date: 2025-12-28T11:53:49.650Z
+date: 2025-12-28T11:54:41.171Z
 tags: thargoids, interceptors, swarms
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -134,7 +134,7 @@ When outside of roughly 3.5km range of its target, the swarm will usually behave
 
 When inside of roughly 3.5 km range of its target, the swarm will slow down (~360m/s) and get ready to attack. It will oscillate, swaying back and forth in different directions.
 
-The swarm will use its regular **caustic projectile** spam attack when in range of ~2km as long as it is in one of the standard-formations. Similar to Interceptors - the Swarm will periodicly break off to rearm / cooldown when firing.
+The swarm will use its regular **caustic projectile** spam attack when in range of ~2km as long as it is in one of the standard-formations. Similar to Interceptors - the Swarm will periodicly break off to rearm / cooldown after firing these.
 
 If the swarm ventures too far from the interceptor that spawned it, or the interceptor loses the signature of the pilot's ship; the swarm can be recalled.
 
