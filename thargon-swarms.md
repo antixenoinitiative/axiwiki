@@ -2,7 +2,7 @@
 title: Thargon Swarms
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: true
-date: 2025-12-28T11:55:32.309Z
+date: 2025-12-28T11:57:29.029Z
 tags: thargoids, interceptors, swarms
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -117,10 +117,10 @@ Basilisk Swarm Idle Formation
 
 - The idle Formation is used by all variants
 
-This form is not part of the traditional formations during combat, but it exists nonetheless.
+This form is not part of the regular formations during combat, but it exists nonetheless.
 Swarms will take on this form when "retreating", after being recalled or when attempting to gain distance from the pilot's ship after a state-change.
 
-This behavior can be used in more advanced swarm-management techniques.
+This behavior can be abused in more advanced swarm-management techniques.
 
 
 # State Mechanics
