@@ -2,7 +2,7 @@
 title: Enjambres de Thargons
 description: Comportamiento detallado y mecánica de los Enjambres Thargon
 published: verdadero
-date: 2025-12-28T12:42:36.391Z
+date: 2025-12-28T18:52:58.570Z
 tags: thargoides, interceptores, enjambres
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -108,7 +108,7 @@ Many Commanders at the Medusa and Hydra stage will also opt to choose a flakless
 
 ## {.tabset}
 
-### Idle
+### Idle / Retreat
 
 !\[swarm_idle_form.png\](/swarm_idle_form.png =300x220) Basilisk Swarm Idle Mode
 
