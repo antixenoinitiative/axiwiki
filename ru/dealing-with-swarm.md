@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-29T17:30:39.036Z
+date: 2025-12-29T20:35:28.141Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -13,7 +13,7 @@ dateCreated: 2025-12-23T19:00:17.333Z
 
 # Dealing with the Swarm
 
-The Thargon Swarm is a major component of AX combat and knowing how to deal with it is important to fight interceptors effectively. There are two main methods in this regard; using the **remote release flak launcher** to destroy the swarm, and flying **flakless** while avoiding the swarm entirely. While both methods have their pros and cons, it is advised to learn how to use the flak launcher when starting out. As you gain experience, you may decide if flak, flakless, or a mix of both is right for you. This article contains several methods to deal with the swarm, but to fully grasp them it is advisable to learn the full mechanics and behavior of the swarm first.
+The Thargon Swarm is a major component of AX combat and knowing how to deal with it is important to fight interceptors effectively. There are two main methods in this regard; using the **remote release flak launcher** to destroy the swarm, and flying **flakless** while avoiding the swarm entirely. While both methods have their pros and cons, it is advisable to learn how to use the flak launcher when starting out. As you gain experience, you may decide if flak, flakless, or a mix of both is right for you. This article contains several methods to deal with the swarm, but to fully grasp them it is advisable to learn the full mechanics and behavior of the swarm first.
 
 > Visit the [Thargon Swarms](/en/thargon-swarms) page to learn about it's functions and mechanics in detail.
 > {.is-info}
@@ -28,26 +28,23 @@ Reversing directly away from the interceptor is known as the "reverski". It is a
 
 **To initiate a reverski:**
 
-- Turn FA-Off, transfer pips to ENG if needed, and boost in a straight line directly away from the interceptor.
+1. Turn FA-Off, transfer pips to ENG if needed, and boost in a straight line directly away from the interceptor.
+   _The goal here is to gain more than 3km of distance from the interceptor, which will put you outside of it's main cannon range.
+   Keep boosting until you are at the maximum range you can be without the Interceptor losing interest. (Typically around 6km, but can be even closer)_
 
-_The goal here is to gain more than 3km of distance from the interceptor, which will put you outside of it's main cannon range.
-Keep boosting until you are at the maximum range you can be without the Interceptor losing interest. (Typically around 6km, but can be even closer)_
+2. Once at a comfortable distance, flip your ship 180° and face in the opposite direction of your movement vector.
+   _You should now be moving in a straight line backwards while still facing the interceptor, this is the 'reverski' part.
+   Be sure not to accidentally thrust forward and cancel your backwards momentum, which would allow the interceptor to quickly catch you._
 
-- Once at a comfortable distance, flip your ship 180° and face in the opposite direction of your movement vector.
+3. You can now fire your flak and/or beam(s) or safely repair hull and modules.
+   _Keep an eye on the distance to the interceptor, remember that allowing it to close to 3km puts you in danger of its main cannon.
+   The interceptor will also make an audible droning noise when closing into cannon range._
 
-_You should now be moving in a straight line backwards while still facing the interceptor, this is the 'reverski' part.
-Be sure not to accidentally thrust forward and cancel your backwards momentum, which would allow the interceptor to quickly catch you._
-
-- You can now fire your flak and/or beam(s) or safely repair hull and modules.
-
-_Keep an eye on the distance to the interceptor, remember that allowing it to close to 3km puts you in danger of its main cannon.
-The interceptor will also make an audible droning noise when closing into cannon range._
-
-- If the interceptor begins to get too close, you may need to repeat steps 1-2.
-
-- **YOUR DEMO HERE**
+4. If the interceptor begins to get too close, you may need to repeat steps 1-2.
 
 _Alternatively, you might consider a "boost pass" to gain range instead_
+
+- **YOUR DEMO HERE**
 
 ## Boost Pass / Switching Interceptor & Swarm Position
 
@@ -61,10 +58,10 @@ To boost pass, engage silent runnning (or drop a heatsink if shielded), then boo
 
 An effective way to avoid the swarm's missile strike and reset the swarm to the standard state. Strong situational awareness is advised when employing this technique, as you have a limited amount of time to identify a safe vector after agitating the swarm.
 
-- Gain more than 3km range from the swarm
-- Enter Reverski, allow it to catch up slowly (missile formation moves at around 360m/s when near firing range) and once it is within 3km the missiles will begin to fire.
-- Maintain distance of 2.5 - 2.9km, reversing at around 300m/s - the missiles will expire before reaching you.
-- Follow this up with a boost through the swarm after it reverts to a non-missile formation to reset it's state.
+1. Gain more than 3km range from the swarm
+2. Enter Reverski, allow it to catch up slowly (missile formation moves at around 360m/s when near firing range) and once it is within 3km the missiles will begin to fire.
+3. Maintain distance of 2.5 - 2.9km, reversing at around 300m/s - the missiles will expire before reaching you.
+4. Follow this up with a boost through the swarm after it reverts to a non-missile formation to reset it's state.
 
 Mind that accidently going beyond 3km range mid-missile barrage will interrupt it! Slowly enter within 3km range again and let the missile barrage finish **before** you boost through the swarm!
 
@@ -74,11 +71,11 @@ Mind that accidently going beyond 3km range mid-missile barrage will interrupt i
 
 You can use the interceptors recalling behavior to your advantage to reroll the current swarm formation into a different, maybe more desirable, one. This is usually done to avoid needing to flak the difficult ring formation used by Medusa and Hydra swarms.
 
-- Move to a medium distance (depending on ship 4-6km) and stay cold via silent running or heatsinks, do not beam the Interceptor.
-- After about 5 seconds the Interceptor should lose track of you and recall the swarm in preperation to leave.
-  The recall will cause the swarm to break formation. Wait until you see the swarm enter retreat mode, then gain back the attention of the interceptor by exiting silent-running, heating up or beaming it.
-- Depending on initial distance and relative speed between you and the interceptor, multiple recall reroll attempts may be done while in reverski.
-- Make sure you act fast - you do not want the interceptor to leave the instance by waking out!
+1. Move to a medium distance (depending on ship 4-6km) and stay cold via silent running or heatsinks, do not beam the Interceptor.
+2. After about 5 seconds the Interceptor should lose track of you and recall the swarm in preperation to leave.
+   _The recall will cause the swarm to break formation. Wait until you see the swarm enter retreat mode, then gain back the attention of the interceptor by exiting silent-running, heating up or beaming it._
+3. Depending on initial distance and relative speed between you and the interceptor, multiple recall reroll attempts may be done while in reverski.
+4. Make sure you act fast - you do not want the interceptor to leave the instance by waking out!
 
 After you regained the attention the swarm will change into a regular formation again. It _can_ roll the same as the previous one, but with any luck you rolled a new formation! Note that this 'recall' reroll is not possible in Legacy.
 
@@ -92,22 +89,26 @@ The only effective weapon against the Swarm is the remote release Flak Launcher.
 
 ## How to use the Flak Launcher
 
+The remote release Flak Launcher only comes in the class 2 hardpoint size. Choose the fixed variant.
+
+![flak_fixed_outfitting.png](/flak_fixed_outfitting.png)
+
 > Set your ship's targeting sights to "Leading" in the right systems panel when using flak.
 > {.is-info}
 
-The remote release Flak Launcher only comes in the class 2 hardpoint size. Choose the fixed variant. It may also help beginners to equip a xeno scanner when learning how to flak in order to be able to see the exact count of the thargon swarm and thus see how effective each individual flak shot is. The flak launcher is a very unique weapon, and the swarm is a tricky target, so lots of practice is required to gain proficiency in using it.
+It may also help beginners to equip a xeno scanner when learning how to flak in order to be able to see the exact count of the thargon swarm and thus see how effective each individual flak shot is, but that is optional. The flak launcher is a very unique weapon, and the swarm is a tricky target, so some practice is required to gain proficiency in using it.
 
-- After firing the weapon, continue holding down your firing key, and then release it to detonate the fired projectile.
+1. After firing the weapon, continue holding down your firing trigger, and then release it to detonate the fired round.
 
-- While traveling the flak projectile will have a visual targeting indicator made up of a circle and 3 triangle corners.
+2. While traveling the flak round will have a visual targeting indicator made up of a circle and 3 triangle corners.
 
-- As the projectile aproaches targets in its blast radius, the circle will fill with color in a clockwise direction. There is also a rising pitch audio tone.
+3. As the flak round aproaches targets in its blast radius, the circle will fill with color in a clockwise direction. There is also a rising beeping audio cue.
 
-- Once the circle is filled completely, the triangle will flash red and the tone will beep, indicating there is something in the flak round's blast radius.
+4. Once the circle is filled completely, the triangle will flash red and the audio cue will turn into a high pitch, indicating there is something in the flak round's blast radius.
 
-- **SHORT DEMO OF RETICLE HERE**
+- Demo: Flak Indicator
 
-_Detonating the flak at this point will destroy any thargons in it's blast radius. Depending on the relative closing speed between the swarm and flak round, this "release window" may only be a fraction of a second. You will need to adjust your release timing based on distance, closing speeds, and your own reaction time._
+_Detonating the flak at this point will destroy any thargons in it's blast radius. Depending on the relative closing speed between the swarm and flak projectile, this "release window" may only be a fraction of a second. You will need to adjust your release timing based on distance, closing speeds, and your own reaction time._
 
 Your leading sights indicator will generally provide you with information to estimate where the swarm is heading and where you should fire your flak projectile.
 
@@ -138,15 +139,11 @@ A more advanced technique. Not recommended for less experienced AX pilots. Invol
 This comes with some **risk** as you are often in range of the interceptor's main cannon, and failure can mean you end up with an agitated swarm while locked in a lightning attack.
 This technique however does **reward** you with an extremely easy to hit, densely packed swarm that can destroy even a Hydra swarm in 5 flak rounds.
 
-- Fly through the swarm with some speed so they do not stay and 'hover' around your ship.
-
-- The swarm will break formation and enter its clustered "idle / retreat" mode, while attempting to gain a 2km distance from you in order for it to switch to missile mode.
-
-- Flip your ship and chase the swarm while it is in retreat, taking care you don't get farther than 2km away.
-
-- Fire your flak at the straightlining swarm while you keep chasing it.
-
-Consider the swarms movement away from you as you trigger the flak - hold a bit longer than you are used to before release, to ensure the shrapnel hits as many thargons as possible.
+1. Fly through the swarm with some speed so they do not stay and 'hover' around your ship.
+2. The swarm will break formation and enter its clustered "idle / retreat" mode, while attempting to gain a 2km distance from you in order for it to switch to missile mode.
+3. Flip your ship and chase the swarm while it is in retreat, taking care you don't get farther than 2km away.
+4. Fire your flak at the straightlining swarm while you keep chasing it.
+   _Consider the swarms movement away from you as you trigger the flak - hold a bit longer than you are used to before release, to ensure the shrapnel hits as many thargons as possible._
 
 It is one of the few ways in that slow ships (notably the ‘Vette, but also the ‘Conda and FGS) can effectively deal with the swarm.
 But it can also be employed by faster ships to deal with the swarm quickly and effectively.
@@ -156,7 +153,7 @@ Named after CMDR Painbeaver.
 - Demo: [The Painbeaver, large ship](https://youtu.be/nJFdd9AEjNI)
 
 - Demo: [The Painbeaver, medium ship](https://youtu.be/HgRVCNmFny4)
-  Note that a shield-ram is not necessary to use this technique to get rid of a swarm - but it is often paired with it by experienced commanders to accelerate a fight.
+  _Note that a shield-ram is not necessary to use this technique to get rid of a swarm - but it is often paired with it by experienced commanders to accelerate a fight._
 
 # Flakless Flying
 
