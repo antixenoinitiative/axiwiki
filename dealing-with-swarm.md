@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-29T20:35:28.141Z
+date: 2025-12-29T21:12:11.916Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -44,7 +44,7 @@ The interceptor will also make an audible droning noise when closing into cannon
 
 *Alternatively, you might consider a "boost pass" to gain range instead*
 
-- **YOUR DEMO HERE**
+- Several AX Guides will demonstrate this technique
 
 ## Boost Pass / Switching Interceptor & Swarm Position 
 
@@ -96,7 +96,7 @@ The remote release Flak Launcher only comes in the class 2 hardpoint size. Choos
 > Set your ship's targeting sights to "Leading" in the right systems panel when using flak.
 {.is-info}
 
-It may also help beginners to equip a xeno scanner when learning how to flak in order to be able to see the exact count of the thargon swarm and thus see how effective each individual flak shot is, but that is optional. The flak launcher is a very unique weapon, and the swarm is a tricky target, so some practice is required to gain proficiency in using it.
+It may also help beginners to equip a xeno scanner when learning how to flak in order to be able to see the exact count of the thargon swarm and thus see how effective each individual flak shot is, but that is optional. The flak launcher is an unusual weapon, and the swarm is a tricky target, so some practice is required to gain proficiency in using it.
 
 1. After firing the weapon, continue holding down your firing trigger, and then release it to detonate the fired round.
 
@@ -105,7 +105,7 @@ It may also help beginners to equip a xeno scanner when learning how to flak in 
 3. As the flak round aproaches targets in its blast radius, the circle will fill with color in a clockwise direction. There is also a rising beeping audio cue. 
 4. Once the circle is filled completely, the triangle will flash red and the audio cue will turn into a high pitch, indicating there is something in the flak round's blast radius.
 
-- Demo: [Flak Indicator]()
+![flak_indicator_release_demo_comp.gif](/flak_indicator_release_demo_comp.gif)
 
 *Detonating the flak at this point will destroy any thargons in it's blast radius. Depending on the relative closing speed between the swarm and flak projectile, this "release window" may only be a fraction of a second. You will need to adjust your release timing based on distance, closing speeds, and your own reaction time.*
 
