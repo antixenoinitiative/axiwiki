@@ -2,7 +2,7 @@
 title: Thargon Schwärme
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: ja
-date: 2025-12-30T11:44:36.411Z
+date: 2025-12-30T13:40:00.454Z
 tags: thargoids, interceptors, schwärme
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -164,7 +164,7 @@ A swarm can be kept in the standard state for the entire duration of the fight, 
 
 If the swarm at any point enters an agitated state, one can bait the missiles before boosting through the swarm, reverting it back to the Standard state.
 
-> Visit the [Dealing with the Swarm](/en/dealing-with-swarm) to learn about techniques and counters to handle the swarm, as well as a guide on using the Flak Launcher. 
+> Visit the [Dealing with the Swarm](/en/dealing-with-swarm) page to learn about techniques and counters to handle the swarm, as well as a guide on using the Flak Launcher. 
 > 
 > {.is-info}
 
