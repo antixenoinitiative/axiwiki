@@ -2,14 +2,14 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-29T21:12:11.916Z
+date: 2025-12-29T23:57:03.228Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
 ---
 
 > Article Under Construction
-> {.is-danger}
+> {.is-warning}
 
 # Dealing with the Swarm
 
@@ -20,7 +20,7 @@ The Thargon Swarm is a major component of AX combat and knowing how to deal with
 
 # Techniques & Counters
 
-This is a list of general methods and tips about relevant mechanics to handle the swarm. These can used in a variety of scenarios by both beginners and advanced pilots.
+This is a list of general methods and tips about relevant mechanics to handle the swarm. These can be used in a variety of scenarios by both beginners and advanced AX pilots.
 
 ## The Reverski
 
