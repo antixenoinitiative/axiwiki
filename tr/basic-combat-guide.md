@@ -2,7 +2,7 @@
 title: Basic Combat Guide
 description: The fundamental concepts of AX combat and how to fight an Interceptor.
 published: true
-date: 2025-12-28T21:12:21.604Z
+date: 2025-12-30T17:16:07.655Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-17T03:18:38.671Z
@@ -36,10 +36,6 @@ Ensure you have heatsink reloads, ax flak reloads, and gauss reloads.
 
 ## The Opening
 
-<div class="iframeContainer">
-    <iframe src="https://www.youtube.com/embed/gNdhLo8hx1E?si=08pMx874PP0OcSas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
-</div>
-
 Once you drop into the [Non-Human Signal source](/en/nhss), the Thargoid will approach and scan you. Either let it scan you and turn away (if you wish to scan it), or begin firing just as it closes within 1.5 km while reversing slowly away. Stay within 1.5 km to avoid the damage falloff at range from gauss, deploy a heatsink, and begin firing, using the reload indicator on your hud to ensure you are firing immediately after your cannons reload (1.6 seconds). After you hear the sound of the heatsink eject, fire another.
 
 - Always ensure you are protected by a heatsink when attacking the Interceptor. Orbiting the interceptor while under 20% heat allows you to entirely dodge the main cannons so long as you remain roughly 10-15 degrees out of its bore sight with high angular momentum. i.e: moving sideways or orbiting.
@@ -59,19 +55,13 @@ Prior to attacking the next heart, you have a set time period during which the T
 
 After you have cleared ~4 km, transfer pips to 4-2-0 and continue boosting. Your maximum speed without boost is likely less than the 450-530 m/s top speed of the interceptor and [_swarm_](/en/thargon-swarms). This time period is an opportunity to deploy a repair limpet, utilize your AFMU, and replenish your heatsinks/gauss cannons/flak launcher ammo (in roughly that order). If you have managed to put at least 6 km distance between you and the interceptor, check the position of the swarm.
 
+If you are using shields, it is imperative you do not engage the swarm until your shields are recharged and you have at least one heatsink available.
 4-2-0 pips will ensure your shields regenerate as quickly as possible while still allowing you to remain outside the interceptor’s weapon range of 3 km.
 
-If you are not using shields, you will not need to worry about regenerating shields, but make sure to recharge your SYS cap fully.
+If you are not using shields, you will not need to worry about regenerating shields, but make sure to recharge your SYS cap fully, as your heatsinks do use SYS charge.
 
-Often due to the speed of the Interceptor (specifically, the Basilisk variant), you can find the Interceptor between you and the swarm. It is imperative you do not engage the swarm until your shields are recharged and you have at least one heatsink available.
-
-**To put the swarm between you and the interceptor.**
-
-1. Turn FA-Off, face the interceptor,
-2. Transfer pips 4-2-0, and boost directly towards it.
-3. Deploy a heatsink around 4 km and do a barrel roll if the swarm begins firing on you.
-
-This disrupts the aim of the swarm. Use this same strategy if at any point you cannot outrun the Thargoid(s). Shields are encouraged, but optional.
+Often, due to the speed of the Interceptor (specifically, the Basilisk variant), you can find the Interceptor between you and the swarm. In a slower ship you might also be generally outpaced by the Interceptor or struggle to gain distance.
+In that case you will want to perform what we call a boost-pass. You can find instructions on our "Dealing with the Swarm" and "flight maneuvers" pages.
 
 **If the swarm is between you and the interceptor, turn around in FA-off and face the swarm.** You are now in a maneuver known as the **reverski** (demonstration right). Keep an eye on your distance to the interceptor, if it gets closer than 5 km, put it directly behind you and boost.
 
