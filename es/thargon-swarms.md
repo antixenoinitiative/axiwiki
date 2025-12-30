@@ -2,7 +2,7 @@
 title: Enjambres de Thargons
 description: Comportamiento detallado y mecánica de los Enjambres Thargon
 published: verdadero
-date: 2025-12-28T18:52:58.570Z
+date: 2025-12-30T11:44:36.411Z
 tags: thargoides, interceptores, enjambres
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -156,38 +156,17 @@ Missile formations are slower than the regular ones (360m/s as opposed to 500m/s
 
 After deploying missiles it will revert to a random regular formation and remain in Agitated state. This state will only end if the swarm passes through a ship once more, "***un-agitation***", or if the swarm is killed and a new one takes its place.
 
-## Maniobras y contadores
-Un enjambre se puede mantener en el estado Estándar durante toda la lucha. Esto significa que las naves ágiles como el chieftain (particularmente las versiones sin escudo) pueden evitar el uso de flak por completo. La baja precisión de los proyectiles cáusticos del enjambre contra objetivos sin escudo combinada con la falta de misiles Thargon elimina la amenaza que presenta el enjambre.
+# Dealing with the Swarm
 
-Si el enjambre en cualquier punto entra en un estado agitado, uno puede cebar los misiles antes de impulsar con un Turbo a través del enjambre, revirtiendo de nuevo al estado estándar.
+There are two main methods in this regard; using the remote release flak launcher to destroy the swarm, and flying flakless while avoiding the swarm entirely. While both methods have their pros and cons, it is advisable to learn how to use the flak launcher when starting out. As you gain experience, you may decide if flak, flakless, or a mix of both is right for you.
 
-### Missile Baiting
+A swarm can be kept in the standard state for the entire duration of the fight, simply by never agitating the swarm. This means that agile ships can avoid using flak altogether. The low accuracy of the swarm’s caustic projectiles against shieldless targets combined with the lack of thargon missiles eliminates a large portion of the threat that the swarm presents. This does require a fair bit of situational awareness and orbital finesse, as pilots must adjust their orbit around the interceptor to prevent agitations. **Watch your radar contacts closely.**
 
-The safest and most effective way to un-agitate a Swarm. Easiest way to bait a swarm is to allow it to catch up (missile formation moves at around 360m/s when near firing range) and once it is within 3km missiles will begin to fire. Maintain distance of 2.9km reversing at around 300m/s and the missiles will expire before reaching you, most effectively done in "reverski". Siga esto con un impulso a través del enjambre después de que vuelve a una formación no misil.
+If the swarm at any point enters an agitated state, one can bait the missiles before boosting through the swarm, reverting it back to the Standard state.
 
-Mind that going beyond 3km range mid-missile barrage will interrupt it! Enter <2.9km range again to let the missile barrage finish before you boost through the Swarm!
+> Visit the [Dealing with the Swarm](/en/dealing-with-swarm) to learn about techniques and counters to handle the swarm, as well as a guide on using the Flak Launcher. 
+> 
+> {.is-info}
 
-<div class="iframeContainer">
-    <iframe src="https://www.youtube.com/embed/kTBdvXzyYx8?si=wgEK7pSdSXPjLdFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
-</div>
 
-Si el Interceptor está enfurecido, reduzca el enjambre a números bajos (15-30 Thargons) e intente mantener el estado Estándar. Si se activa el estado de agitación, aleja y ceba al enjambre. Asegúrese de hacer que dispara cada uno de ellos. Posteriormente se lanzará un nuevo enjambre en el estado Estándar.
 
-Además, si el enjambre llega a aproximadamente 10 km del Thargoid, se dará la vuelta y volará de regreso al Interceptor. (Since Update 15 Interceptors can recall the Swarm much sooner if they lose track of you.)
-
-### Swarm Rerolling
-
-You can use the Interceptors recalling behavior to your advantage to reroll the current Swarm formation into a different one. Move to a medium distance (depending on ship 4-6.5km) and stay cold via silent running or heatsinks, do not beam the Interceptor. After a while the Interceptor should lose track of you, it will recall the swarm in preperation to leave. Wait until the Swarm gets close to its mothership, then gain back the attention of the interceptor by exiting silent-running, heating up or beaming it.
-
-Make sure you act fast - you do not want the Interceptor to leave the Instance by waking out!
-
-After you regained the attention the Swarm will change into an attack formation. It *can* roll the same as the previous one, but with any luck you rolled a new more desirable formation!
-
-<div class="iframeContainer">
-    <iframe src="https://www.youtube.com/embed/65iXP5w5S0Y?si=UfRxC-Zb95B-uCeq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
-</div>
-
-## Cambio de posición de Interceptor y Enjambre
-En algunos casos, como cuando el jugador está demasiado lejos del Interceptor cuando se suelta el enjambre (más allá de los 6 km), el enjambre permanecerá detrás del Interceptor y será imposible atacarlo sin recibir fuego del Interceptor. Para cambiar sus posiciones, impulse pasando el Interceptor (pero no directamente hacia él). Su inmovilidad hará que se aleje, pero el enjambre hará un giro mucho más brusco.
-
-[Vea este video para un ejemplo visual de cómo cambiar las posiciones de Interceptor y Enjambre.](https://youtu.be/nvEDF6eI1z8)
