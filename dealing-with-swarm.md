@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-30T00:08:20.127Z
+date: 2025-12-30T00:50:40.578Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -91,7 +91,7 @@ The only effective weapon against the Swarm is the remote release Flak Launcher.
 
 ## How to use the Flak Launcher
 
-The remote release Flak Launcher only comes in the class 2 hardpoint size. Choose the fixed variant. Make doubly sure you are ***NOT*** using the **Festive Flak Launcher**! They will appear as **pre-engineered** flak launcher with a decorative color blueprint.
+The remote release Flak Launcher only comes in the class 2 hardpoint size. Choose the fixed variant. Make doubly sure you are ***NOT*** using the **Festive Flak Launcher!** it will appear as **pre-engineered** flak launcher with a decorative color blueprint. Similarly, Do not use the remote release **flechette** launcher, as that is not an AX weapon and has a completely different use.
 
 ![flak_fixed_outfitting.png](/flak_fixed_outfitting.png)
 
