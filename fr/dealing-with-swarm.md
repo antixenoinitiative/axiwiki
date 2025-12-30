@@ -2,21 +2,18 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-30T00:50:40.578Z
+date: 2025-12-30T11:11:00.417Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
 ---
-
-> Article Under Construction
-> {.is-warning}
 
 # Dealing with the Swarm
 
 The Thargon Swarm is a major component of AX combat and knowing how to deal with it is important to fight interceptors effectively. There are two main methods in this regard; using the **remote release flak launcher** to destroy the swarm, and flying **flakless** while avoiding the swarm entirely. While both methods have their pros and cons, it is advisable to learn how to use the flak launcher when starting out. As you gain experience, you may decide if flak, flakless, or a mix of both is right for you. This article contains several methods to deal with the swarm, but to fully grasp them it is advisable to learn the full mechanics and behavior of the swarm first.
 
 > Visit the [Thargon Swarms](/en/thargon-swarms) page to learn about it's functions and mechanics in detail.
-> {.is-info}
+> {.is-warning}
 
 # Techniques & Counters
 
@@ -89,11 +86,13 @@ The only effective weapon against the Swarm is the remote release Flak Launcher.
 
 ## How to use the Flak Launcher
 
-The remote release Flak Launcher only comes in the class 2 hardpoint size. Choose the fixed variant. Make doubly sure you are _**NOT**_ using the **Festive Flak Launcher!** it will appear as **pre-engineered** flak launcher with a decorative color blueprint. Similarly, Do not use the remote release **flechette** launcher, as that is not an AX weapon and has a completely different use.
+The remote release Flak Launcher only comes in the class 2 hardpoint size. Choose the fixed variant.
+
+- _Make sure you are _**not**_ using the **Festive Flak Launcher!** it will appear as a **pre-engineered** flak launcher with a decorative color blueprint. Similarly, do **not** use the remote release **flechette** launcher, as that is not an AX weapon and has a completely different use._
 
 ![flak_fixed_outfitting.png](/flak_fixed_outfitting.png)
 
-> Set your ship's targeting sights to "Leading" in the right systems panel when using flak.
+> Set your ship's targeting sights to "**Leading**" in the right systems panel when using flak.
 > {.is-info}
 
 It may also help beginners to equip a xeno scanner when learning how to flak in order to be able to see the exact count of the thargon swarm and thus see how effective each individual flak shot is, but that is optional. The flak launcher is an unusual weapon, and the swarm is a tricky target, so some practice is required to gain proficiency in using it.
