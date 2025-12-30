@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-30T11:11:00.417Z
+date: 2025-12-30T11:44:39.762Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -156,7 +156,7 @@ Named after CMDR Painbeaver.
 
 # Flakless Flying
 
-A swarm can be kept in the standard state for the entire duration of the fight, simply by never agitating the swarm. This means that agile ships can avoid using flak altogether. The low accuracy of the swarm’s caustic projectiles against shieldless targets combined with the lack of thargon missiles eliminates the a large portion of the threat that the swarm presents. This does require a fair bit of situational awareness and orbital finesse, as pilots must adjust their orbit around the interceptor to prevent agitations. **Watch your radar contacts closely.**
+A swarm can be kept in the standard state for the entire duration of the fight, simply by never agitating the swarm. This means that agile ships can avoid using flak altogether. The low accuracy of the swarm’s caustic projectiles against shieldless targets combined with the lack of thargon missiles eliminates a large portion of the threat that the swarm presents. This does require a fair bit of situational awareness and orbital finesse, as pilots must adjust their orbit around the interceptor to prevent agitations. **Watch your radar contacts closely.**
 
 If the swarm at any point enters an agitated state, one can bait the missiles before boosting through the swarm, reverting it back to the Standard state.
 
