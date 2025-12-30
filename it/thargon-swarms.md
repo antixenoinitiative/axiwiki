@@ -2,7 +2,7 @@
 title: Thargon Swarms
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: true
-date: 2025-12-28T18:52:58.570Z
+date: 2025-12-30T11:44:36.411Z
 tags: thargoids, interceptors, swarms
 editor: markdown
 dateCreated: 2021-06-15T11:56:01.753Z
@@ -156,38 +156,17 @@ Missile formations are slower than the regular ones (360m/s as opposed to 500m/s
 
 After deploying missiles it will revert to a random regular formation and remain in Agitated state. This state will only end if the swarm passes through a ship once more, "***un-agitation***", or if the swarm is killed and a new one takes its place.
 
-## Maneuvers and counters
-A swarm can be kept in the Standard state for the entire duration of the fight. This means that agile ships such as the chieftain (particularly shieldless versions) can avoid using flak altogether. The low accuracy of the swarm’s caustic projectiles against shieldless targets combined with the lack of Thargon Missiles eliminates the threat that the swarm presents.
+# Dealing with the Swarm
 
-If the swarm at any point enters an Agitated state, one can bait the missiles before boosting through the swarm, reverting it back to the Standard state.
+There are two main methods in this regard; using the remote release flak launcher to destroy the swarm, and flying flakless while avoiding the swarm entirely. While both methods have their pros and cons, it is advisable to learn how to use the flak launcher when starting out. As you gain experience, you may decide if flak, flakless, or a mix of both is right for you.
 
-### Missile Baiting
+A swarm can be kept in the standard state for the entire duration of the fight, simply by never agitating the swarm. This means that agile ships can avoid using flak altogether. The low accuracy of the swarm’s caustic projectiles against shieldless targets combined with the lack of thargon missiles eliminates a large portion of the threat that the swarm presents. This does require a fair bit of situational awareness and orbital finesse, as pilots must adjust their orbit around the interceptor to prevent agitations. **Watch your radar contacts closely.**
 
-The safest and most effective way to un-agitate a Swarm. Easiest way to bait a swarm is to allow it to catch up (missile formation moves at around 360m/s when near firing range) and once it is within 3km missiles will begin to fire. Maintain distance of 2.9km reversing at around 300m/s and the missiles will expire before reaching you, most effectively done in "reverski". Follow this up with a boost through the swarm after it reverts to a non-missile formation.
+If the swarm at any point enters an agitated state, one can bait the missiles before boosting through the swarm, reverting it back to the Standard state.
 
-Mind that going beyond 3km range mid-missile barrage will interrupt it! Enter <2.9km range again to let the missile barrage finish before you boost through the Swarm!
+> Visit the [Dealing with the Swarm](/en/dealing-with-swarm) to learn about techniques and counters to handle the swarm, as well as a guide on using the Flak Launcher. 
+> 
+> {.is-info}
 
-<div class="iframeContainer">
-    <iframe src="https://www.youtube.com/embed/kTBdvXzyYx8?si=wgEK7pSdSXPjLdFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
-</div>
 
-If the Interceptor is enraged, bring the swarm down to low numbers (15-30 Thargons) and attempt to maintain the Standard state. If the Agitated state is triggered, boost away and bait the swarm. Make sure to cause every single one of them to launch. Afterwards a new swarm in the Standard state will be launched.
 
-Also, should the swarm reach approximately 10km from the Thargoid, it will turn around and fly back to the Interceptor. (Since Update 15 Interceptors can recall the Swarm much sooner if they lose track of you.)
-
-### Swarm Rerolling
-
-You can use the Interceptors recalling behavior to your advantage to reroll the current Swarm formation into a different one. Move to a medium distance (depending on ship 4-6.5km) and stay cold via silent running or heatsinks, do not beam the Interceptor. After a while the Interceptor should lose track of you, it will recall the swarm in preperation to leave. Wait until the Swarm gets close to its mothership, then gain back the attention of the interceptor by exiting silent-running, heating up or beaming it.
-
-Make sure you act fast - you do not want the Interceptor to leave the Instance by waking out!
-
-After you regained the attention the Swarm will change into an attack formation. It *can* roll the same as the previous one, but with any luck you rolled a new more desirable formation!
-
-<div class="iframeContainer">
-    <iframe src="https://www.youtube.com/embed/65iXP5w5S0Y?si=UfRxC-Zb95B-uCeq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
-</div>
-
-## Switching Interceptor and Swarm Position
-In some cases, such as when the player is too far away from the Interceptor when the swarm is released (beyond 6km), the swarm will stay behind the Interceptor and engaging it will be impossible without taking fire from the Interceptor. To switch their positions, boost past the Interceptor (but not directly at it). Its inertia will cause it to drift away but the swarm will make a much sharper turn.
-
-[See this video for a visual example of how to switch Interceptor and Swarm positions.](https://youtu.be/nvEDF6eI1z8)
