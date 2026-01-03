@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2025-12-30T11:44:39.762Z
+date: 2026-01-03T16:39:07.780Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -74,7 +74,7 @@ You can use the interceptors recalling behavior to your advantage to reroll the 
 3. Depending on initial distance and relative speed between you and the interceptor, multiple recall reroll attempts may be done while in reverski.
 4. Make sure you act fast - you do not want the interceptor to leave the instance by waking out!
 
-After you regained the attention the swarm will change into a regular formation again. It _can_ roll the same as the previous one, but with any luck you rolled a new formation! Note that this 'recall' reroll is not possible in Legacy.
+After you regain the interceptor's attention the swarm will change into a regular formation again. It _can_ roll the same as the previous one, but with any luck you will have rolled a new formation! Note that this 'recall' reroll is not possible in Legacy.
 
 Another method to reroll swarms that works in both Live and Legacy servers is to purposefully fly through the swarm, as each time forces a formation reroll. This can safely be done during the grace period where the swarm will not agitate 30 seconds after deployment.
 
