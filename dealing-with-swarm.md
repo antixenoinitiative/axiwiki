@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2026-01-03T16:39:07.780Z
+date: 2026-01-12T22:10:31.841Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -108,7 +108,7 @@ It may also help beginners to equip a xeno scanner when learning how to flak in 
 
 *Detonating the flak at this point will destroy any thargons in it's blast radius. Depending on the relative closing speed between the swarm and flak projectile, this "release window" may only be a fraction of a second. You will need to adjust your release timing based on distance, closing speeds, and your own reaction time.*
 
-Your leading sights indicator will generally provide you with information to estimate where the swarm is heading and where you should fire your flak projectile.
+Your leading sights indicator will generally provide you with information to estimate where the swarm is heading and where you should fire your flak projectile. Try to predict changes in the swarms' trajectory when leading your shots.
 
 
 ### Medium Range flakking
