@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2026-01-12T22:10:31.841Z
+date: 2026-01-17T21:22:28.387Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -92,7 +92,8 @@ The remote release Flak Launcher only comes in the class 2 hardpoint size. Choos
 
 ![flak_fixed_outfitting.png](/flak_fixed_outfitting.png)
 
-> Set your ship's targeting sights to "**Leading**" in the right systems panel when using flak.
+> Set your ship's targeting sights to **Leading** in the right systems panel when using flak.
+> **Nightvision** can also be very helpful when observing the swarm under dark conditions.
 {.is-info}
 
 It may also help beginners to equip a xeno scanner when learning how to flak in order to be able to see the exact count of the thargon swarm and thus see how effective each individual flak shot is, but that is optional. The flak launcher is an unusual weapon, and the swarm is a tricky target, so some practice is required to gain proficiency in using it.
