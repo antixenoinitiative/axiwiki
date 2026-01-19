@@ -2,7 +2,7 @@
 title: Finding Thargoids
 description: How to find Thargoids in Elite Dangerous, from solo interceptors to AX Conflict zones and everything in between
 published: true
-date: 2025-11-23T23:55:24.836Z
+date: 2026-01-19T22:21:43.133Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T10:50:27.574Z
@@ -17,7 +17,7 @@ Thargoids can be found in various locations, such as:
 - [Non-Human Signal Sources (NHSS)](/en/nhss) (Pleaides, Witch Head and Coalsack Nebulae)
 - [AX Conflict Zones](/en/finding-thargoids#ax-conflict-zones-axczs) (currently only California Nebula)
 - [Hyperdictions](/en/hyperdictions) (Pleaides, Witch Head and Coalsack Nebulae)
-- [Static Signal Sources](/en/static-signals) (Bubble, Pleaides, Witch Head and Coalsack Nebulae)
+- [Static Signal Sources](/en/static-signals) (Bubble, Pleaides, Witch Head)
 - [Thargoid Structures](https://canonn.science/codex/the-unknown-structure/?highlight=structure) (Pleaides, Witch Head and Coalsack Nebulae)
 - **Megaships** (Bubble, Pleiades Nebula)
 
@@ -26,8 +26,8 @@ Take note - **hyperdictions** will happen in and around these regions, although 
 - #### **Pleiades Nebula**
   - *Has stations if you don't have a Fleet Carrier and are close to the Bubble, and Sterope II is a recommended Hydra hunting ground*
   - ~175ly around **Merope**
-  - **Pleiades Sector MI-S B4-0**: *Historically known as The Zoo, this was known for being the only system to spawn solo, no-scout Hydras in both “guaranteed” (triple icon / debris field) and non-guaranteed (single icon / green cloud) instances; it is still a recommended Hydra hunting ground but not the only place that Hydras can be found.*
-    - We recommend: **Asterope**, **Merope**, **Sterope II**
+  - **Pleiades Sector MI-S B4-0**: *Historically known as **The Zoo**, was known for being the only system to spawn solo, no-scout Hydras in both “guaranteed” (triple icon / debris field) and non-guaranteed (single icon / green cloud) instances in the past. This is no longer the case. Today, since the advent of System colonisation, **The Zoo** has become a highly developed System containing the AXI and XSF Headquarters, containing virtually no NHSS anymore.*
+    - We recommend: **Asterope**, **Sterope II**, **Merope**
 - #### **Coalsack Nebula**
   - *No station in-system or nearby, but contains high spawn density of higher-threat NHSSes if you have a Fleet Carrier to operate out of, and also has material traders within approximately ~30 LY's*
   - ~60ly around **Musca Dark Region PJ-P B6-1**
