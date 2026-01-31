@@ -2,7 +2,7 @@
 title: Speedrun Schiffsausstattungen
 description: Ship builds designed for killing Thargoids quickly
 published: true
-date: 2025-11-28T17:35:57.098Z
+date: 2026-01-31T12:25:08.715Z
 tags: builds, outfitting, speedrunning
 editor: markdown
 dateCreated: 2021-06-10T03:49:40.037Z
@@ -64,7 +64,7 @@ These are not mutually exclusive, but some speedrunning builds are built to spec
 
   The Corsair is an amazing medium ship with a generous hardpoint layout, a size 7 distributor and unmatched survivability amongst mediums (and even some larges).
 
-  It does have slightly worse heat characteristics than the krait, a thing you may want to consider when attempting modshard cold-locking in the corsair.
+  Its high (Reverse-) Speed makes certain speedrun tactics more comfortable to pull off.
 
   [Stunlock Build](https://edsy.org/#/L=JH00000H4C0S00,LYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXv,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9ooG05I_W0ABkG03K_W0ARMG05I_W0AdtG05J_W0AsOG03G_W0BAEG03L_W0BOmG05G_W0Bcg00,,16yG05I_W016yG05I_W016yG05I_W03Ju0025S0025S0015OG05I_W013qG05I_W020m0010i00)
 
