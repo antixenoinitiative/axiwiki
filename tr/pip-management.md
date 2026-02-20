@@ -2,7 +2,7 @@
 title: Pip Yönetimi Rehberi
 description: Thargoid savaşlarında en iyi pip yönetimi nasıl olmalıdır
 published: true
-date: 2025-11-23T17:14:28.779Z
+date: 2026-02-20T17:39:39.638Z
 tags: combat, controls
 editor: markdown
 dateCreated: 2021-06-21T02:36:55.841Z
@@ -49,9 +49,16 @@ Makro kullanımı, 4-0-2 ve 0-2-4 arasında hızlı geçişler yapmanızı sağl
 
 Pip yönetimini kendiniz yapabileceğiniz gibi daha etkili bir yöntem olarak bir makro programı da kullanabilirsiniz, örneğin AutoHotKey (https://autohotkey.com/). AHK, piplerinizi neredeyse anında ve isabetli bir şekilde düzenleyerek en deneyimli pilotlardan bile daha iyi iş çıkarır. Voice Attack da ister sesli komutlarla (yavaş olacağından önerilmez), isterseniz fare/fonksiyon tuş atamalarıyla pip yönetimi için kullanılabilir.
 
-Bu AHK scripti, yaygın kullanılan pip dağılımlarını F1-F8 arasındaki fonksiyon tuşlarına atar. Daha sonra farenizin yazılımını kullanarak bu fonksiyon tuşlarını fare tuşlarınıza atayıp kullanabilirsiniz.
+### Basic Pip AHK Macro to download
 
-[Download AutoHotkey Script](https://cdn.discordapp.com/attachments/641134486003777536/703747638062874634/AutoHotkey.ahk) to assign F-key pip macros.
+The following AHK script binds some of the most common pip distributions to function keys F1-F3:
+
+0-2-4, 1-4-1 and 4-2-0.
+
+It also binds Shift + Exit to exit the running Script. You can edit this file to your liking.
+
+*In Addition you can use your mouse’s software to bind additional mouse keys (side buttons for example) to the desired function keys.*
+
+- [Download Autohotkey Script](/pip_management_ax_v1.2.ahk) for Function-Key Pip Macros.
 
 
-![pips.png](/img/pips.png) {.align-center}
