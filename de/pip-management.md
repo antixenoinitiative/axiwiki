@@ -2,7 +2,7 @@
 title: Leitfaden für Pip-Management
 description: Wie man Pips am besten im Thargoid-Kampf steuern kann
 published: true
-date: 2025-11-23T17:14:28.779Z
+date: 2026-02-20T17:39:39.638Z
 tags: Gefecht, Steuerung
 editor: markdown
 dateCreated: 2021-06-21T02:36:55.841Z
@@ -49,9 +49,16 @@ Mit Hilfe von Makros kann man schnell von 4-0-2 auf 0-2-4 umschalten, um die max
 
 Pip-Management kann manuell durchgeführt werden, aber es ist wesentlich effektiver, ein Makro-Programm wie AutoHotKey (https://autohotkey.com/) zu verwenden. AHK kann Ihre Pips fast sofort genauer ausbalancieren als der am besten ausgebildete Pilot. Voice attack kann auch für die Pip-Verwaltung verwendet werden, entweder über Sprachbefehle (aufgrund der Geschwindigkeit nicht empfohlen) oder durch Bindung an Maus-/Funktionstasten.
 
-Das folgende AHK-Skript bindet die gängigsten Pip-Distributionen an Funktionstasten F1-F8. Man kann dann die Software der Maus verwenden, um zusätzliche Maustasten (z. B. Seitentasten) mit einer Auswahl von Funktionstasten zu belegen, die zum persönlichen Spielstil passt.
+### Basic Pip AHK Macro to download
 
-[Download AutoHotkey Script](https://cdn.discordapp.com/attachments/641134486003777536/703747638062874634/AutoHotkey.ahk) to assign F-key pip macros.
+The following AHK script binds some of the most common pip distributions to function keys F1-F3:
+
+0-2-4, 1-4-1 and 4-2-0.
+
+It also binds Shift + Exit to exit the running Script. You can edit this file to your liking.
+
+*In Addition you can use your mouse’s software to bind additional mouse keys (side buttons for example) to the desired function keys.*
+
+- [Download Autohotkey Script](/pip_management_ax_v1.2.ahk) for Function-Key Pip Macros.
 
 
-![pips.png](/img/pips.png) {.align-center}
