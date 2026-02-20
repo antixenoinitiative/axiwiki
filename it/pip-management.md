@@ -2,7 +2,7 @@
 title: Pip Management Guide
 description: How to best manage pips in Thargoid Combat
 published: true
-date: 2025-11-23T17:14:28.779Z
+date: 2026-02-20T17:39:39.638Z
 tags: combat, controls
 editor: markdown
 dateCreated: 2021-06-21T02:36:55.841Z
@@ -49,9 +49,16 @@ Using macros can allow you to quickly switch from 4-0-2 to 0-2-4, to maintain ma
 
 Pip management can be performed manually, but it is significantly more effective to utilize a macro program such as AutoHotKey (https://autohotkey.com/). AHK can almost instantaneously rebalance your pips more accurately than even the most trained pilot. Voice attack can also be used for pip management, either via voice commands (not recommended due to speed) or binding to mouse/function keys.
 
-The following AHK script binds the most common pip distributions to function keys F1-F8. You can then use your mouse’s software to bind additional mouse keys (side buttons for example) to a selection of function keys that suits your playstyle.
+### Basic Pip AHK Macro to download
 
-[Download AutoHotkey Script](https://cdn.discordapp.com/attachments/641134486003777536/703747638062874634/AutoHotkey.ahk) to assign F-key pip macros.
+The following AHK script binds some of the most common pip distributions to function keys F1-F3:
+
+0-2-4, 1-4-1 and 4-2-0.
+
+It also binds Shift + Exit to exit the running Script. You can edit this file to your liking.
+
+*In Addition you can use your mouse’s software to bind additional mouse keys (side buttons for example) to the desired function keys.*
+
+- [Download Autohotkey Script](/pip_management_ax_v1.2.ahk) for Function-Key Pip Macros.
 
 
-![pips.png](/img/pips.png) {.align-center}
