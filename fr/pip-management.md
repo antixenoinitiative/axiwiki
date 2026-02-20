@@ -2,7 +2,7 @@
 title: Gestion des Pips
 description: Comment gérer les pips au mieux en combat contre les Thargoids
 published: true
-date: 2025-11-23T17:14:28.779Z
+date: 2026-02-20T17:39:39.638Z
 tags: combat, contrôles
 editor: markdown
 dateCreated: 2021-06-21T02:36:55.841Z
@@ -49,9 +49,16 @@ L'utilisation de macros permet de changer rapidement entre les configurations 4-
 
 La gestion des pips peut se faire manuellement, mais il est bien plus efficace d'utiliser un macro via un programme comme AutoHotKey (https://autohotkey.com/). AHK peut réajuster vos pips presque instantanément, et plus précisément que même le pilote le plus entraîné. Voice Attack peut aussi être utilisé, soit par commande vocale (déconseillé à cause du temps de réponse), soit en y assignant une touche fonction ou de la souris.
 
-Le script AHK suivant associe les positions de pips usuelles aux touches de F1 à F8. Il est ensuite possible d'utiliser le logiciel de votre souris pour associer les boutons latéraux, par exemple, à une séléction de touches fonction qui correspondent à votre style de jeu.
+### Basic Pip AHK Macro to download
 
-[Download AutoHotkey Script](https://cdn.discordapp.com/attachments/641134486003777536/703747638062874634/AutoHotkey.ahk) to assign F-key pip macros.
+The following AHK script binds some of the most common pip distributions to function keys F1-F3:
+
+0-2-4, 1-4-1 and 4-2-0.
+
+It also binds Shift + Exit to exit the running Script. You can edit this file to your liking.
+
+*In Addition you can use your mouse’s software to bind additional mouse keys (side buttons for example) to the desired function keys.*
+
+- [Download Autohotkey Script](/pip_management_ax_v1.2.ahk) for Function-Key Pip Macros.
 
 
-![pips.png](/img/pips.png) {.align-center}
