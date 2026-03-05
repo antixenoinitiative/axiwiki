@@ -2,7 +2,7 @@
 title: Recommended Control Scheme
 description: Best suggested controls for Combat in Elite
 published: true
-date: 2026-03-05T23:55:02.845Z
+date: 2026-03-05T23:58:15.358Z
 tags: combat, controls
 editor: markdown
 dateCreated: 2021-06-21T04:46:46.489Z
@@ -28,7 +28,7 @@ On top of the thruster binds you will need:
 - Select Target ahead
 -   Shutdown field neutralizer (for builds that include it)
 
-## Mouse Settings
+# Mouse & Keyboard Settings
 
 The following are recommended mouse settings which **enable relative mouse control** (the cursor returns to the center of the reticule without player input). This dramatically increases your aim, because it makes it easier to make small adjustments in FA-off. 
 
@@ -38,7 +38,7 @@ Rebind **Yaw to mouse X axis** and **Roll to Q & E** for QWERTY keyboards **or A
 
 Maneuvering in supercruise with relative mouse enabled is tedious. There are two main solutions this. The above image shows a disable relative mouse, which can be made a toggle or hold down. The second option is to bind pitch yaw and roll somewhere else on your inputs, like a number pad.
 
-## Fire Groups & Binds
+# Fire Groups & Binds
 
 The other main leg of ship setup involves fire groups, night vision, and lights. Night vision and ship lights come down to personal preference, but in many combat areas the lighting will be poor and limit overall visibility. It is recommended that at least night vision is turned on to combat this poor lighting, and increase the thargoid heart visibility. This is done by opening up the right hand ship panel (default for this on keyboard is 4 on the number row). It will be inside the SHIP tab and is a simple toggle. Ship lights are in the same tab, and help some but are not necessary.   
   
