@@ -2,7 +2,7 @@
 title: Recommended Control Scheme
 description: Best suggested controls for Combat in Elite
 published: true
-date: 2025-11-23T16:31:34.799Z
+date: 2026-03-05T23:58:15.358Z
 tags: combat, controls
 editor: markdown
 dateCreated: 2021-06-21T04:46:46.489Z
@@ -10,31 +10,35 @@ dateCreated: 2021-06-21T04:46:46.489Z
 
 # Recommended Controls Scheme
 
-**Keyboard and mouse provides superior control to HOTAS.** This is well known amongst the PVP community, and the same holds true for Thargoid hunting. The ability to decouple your flight vector from your attack vector is paramount. A commonly used AX tactic requires maintaining a heat signature below 20% and a high angular velocity relative to the interceptor. This results in dramatically diminished aim of the interceptor’s main cannon. Without FA-off, it is nearly impossible to keep the interceptor in your weapon’s field of fire while maintaining a flight path that does not bring you dangerously close to the interceptor, or kill your angular velocity to the interceptor.
+The ability to decouple your flight vector from your attack vector is paramount. A commonly used AX tactic requires maintaining a heat signature below 20% and a high angular velocity relative to the interceptor. This results in dramatically diminished aim of the interceptor’s main cannon. Without FA-off, it is nearly impossible to keep the interceptor in your weapon’s field of fire while maintaining a flight path that does not bring you dangerously close to the interceptor, or kill your angular velocity to the interceptor.
 
-For those new to anti-xeno or combat in general, there are a number of binds which are necessary for Thargoid combat that may not be easily accessible or bound at all without doing it manually. These binds will be used regularly and should be comfortable to reach from a neutral hand position over thrust controls, or from your mouse.
+> **Keyboard and mouse provides superior precision to Analogue.** This is well known amongst the PVP community, and the same holds true for Thargoid hunting. _Although KBM is typically the most precise input form, you may find a different setup is more suited to yourself, find what works for you, experiment!_
 
-On top of the standard thruster binds you will need:
+For those new to anti-xeno or combat in general, there are a number of binds which are necessary for Thargoid combat that may not be easily accessible or bound at all without doing it manually. These binds will be used regularly and should be comfortable to reach from a neutral hand position over thrust controls and without messing with your aim during combat!
 
+On top of the thruster binds you will need:
+
+- Relative Mouse toggle (when using KBM)
+- Flight Assist toggle
 - Cycle next fire group and/or Cycle previous fire group (only one is necessary but both is nice)
+- Deploy heatsink (see firegroup information below for bind limited input methods)
 - Silent running
-- Deploy heatsink (See firegroup information below for bind limited input methods)
 - All pip management binds
-- Shutdown field neutralizer (for builds that include it)
-- Flight assist
 - Boost
+- Select Target ahead
+- Shutdown field neutralizer (for builds that include it)
 
-## Mouse Settings
+# Mouse & Keyboard Settings
 
-The following are recommended mouse settings which **enable relative mouse control** (the cursor returns to the center of the reticule without player input). This dramatically increases your aim because it makes it easier to make small adjustments in FA-off. **Rebind yaw to mouse X axis and roll to the Q and E for QWERTY keyboards or A and D for AZERTY keyboards.** Ensure that **flight assist is** **set to toggle**.
+The following are recommended mouse settings which **enable relative mouse control** (the cursor returns to the center of the reticule without player input). This dramatically increases your aim, because it makes it easier to make small adjustments in FA-off.
 
-_Although KBM is typically the most precise input form, you may find a different setup is more suited to yourself, find what works for you, experiment!_
+Rebind **Yaw to mouse X axis** and **Roll to Q & E** for QWERTY keyboards **or A & D** for AZERTY keyboards.\*\* Ensure that **flight assist is** **set to toggle**.
 
 ![](/mousecontrolstoggle.png)
 
 Maneuvering in supercruise with relative mouse enabled is tedious. There are two main solutions this.The above image shows a disable relative mouse, which can be made a toggle or hold down. The second option is to bind pitch yaw and roll somewhere else on your inputs, like a number pad.
 
-## Fire Groups & Binds
+# Fire Groups & Binds
 
 The other main leg of ship setup involves fire groups, night vision, and lights. Night vision and ship lights come down to personal preference, but in many combat areas the lighting will be poor and limit overall visibility. It is recommended that at least night vision is turned on to combat this poor lighting, and increase the thargoid heart visibility. This is done by opening up the right hand ship panel (default for this on keyboard is 4 on the number row). It will be inside the SHIP tab and is a simple toggle. Ship lights are in the same tab, and help some but are not necessary.
 
@@ -50,13 +54,13 @@ Secondary to heat management and directly related to input method, is how your h
 
 Lastly to consider is ease of use. Your guardian weapons will be separate fire groups from your utility, but how you mix and match your utility depends on your specific loadout. In a full build with flak, repairs, and thermal vent beams, the general guidance is to place repair limpets and your beams, on primary and secondary of the same group, and have flak and beam on a separate group. This allows you to keep your ship cool without sinks any time you are in beam range of the thargoid, and separates flak and repairs, since you are more likely to be hit while killing the swarm.
 
-> Example of standard K&M or HOTAS / HOSAS firegroups, which leave heatsinks to their own bind. (Remember to bind a hotkey for Heatsinks in Settings.) {.is-success}
+> Example of standard KBM or HOTAS / HOSAS firegroups, which leave heatsinks to their own bind. (Remember to bind a hotkey for Heatsinks in Settings.)
+> ![](/k&mfiregroups.jpg =600x)
+> {.is-success}
 
-![](/k&mfiregroups.jpg =600x)
-
-> Example of limited input firegroup to allow easy use of heatsinks. (For example if your input device or setup does not allow for the use of more hotkey binds.)
-
-![](/controllerfiregroups.jpg =250x)
+> Example of limited input firegroup to allow easy use of heatsinks via firegroups rather than hotkeys. (For example if your input device or setup does not allow for the use of more hotkey binds.)
+> ![](/controllerfiregroups.jpg =250x)
+> {.is-warning}
 
 # Keybinds Backup
 
