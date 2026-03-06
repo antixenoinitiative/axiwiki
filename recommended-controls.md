@@ -2,7 +2,7 @@
 title: Recommended Control Scheme
 description: Best suggested controls for Combat in Elite
 published: true
-date: 2026-03-05T23:58:15.358Z
+date: 2026-03-06T01:43:22.726Z
 tags: combat, controls
 editor: markdown
 dateCreated: 2021-06-21T04:46:46.489Z
@@ -28,7 +28,9 @@ On top of the thruster binds you will need:
 - Select Target ahead
 -   Shutdown field neutralizer (for builds that include it)
 
-# Mouse & Keyboard Settings
+# Input Settings
+# {.tabset}
+## Mouse
 
 The following are recommended mouse settings which **enable relative mouse control** (the cursor returns to the center of the reticule without player input). This dramatically increases your aim, because it makes it easier to make small adjustments in FA-off. 
 
@@ -37,6 +39,27 @@ Rebind **Yaw to mouse X axis** and **Roll to Q & E** for QWERTY keyboards **or A
 ![](/mousecontrolstoggle.png)
 
 Maneuvering in supercruise with relative mouse enabled is tedious. There are two main solutions this. The above image shows a disable relative mouse, which can be made a toggle or hold down. The second option is to bind pitch yaw and roll somewhere else on your inputs, like a number pad.
+
+## Stick
+
+Optimal stick settings are more individual than mouse settings. The exact model of the stick, ergonomics, personal preference and what other input device(s) make up your setup are all factors.
+
+Easy to reach binds are even more important with sticks than with mouse. Any finger-movement or hand-adjustment to reach a button or hat will skew with your stick movement and therefore aim.
+Make sure any binds you need during combat are well placed!
+
+### Response Curves
+
+Many players find it difficult to precisely control their ship with linear input by default. Even more so with the very fine-tune back and forth adjustments that are required to stay & aim steadily during Flight-Assist Off flying.
+
+A lot of practice can let players adjust to that, but another good option, to make this easier, are response curves. The goal with response curves in this case is to soften the initial input rate of the axis' center on your stick. This will make the small fine-tune inputs required for precise FA Off flying easier, while still allowing for high rate input further along the outer part of the axis.
+
+Elite Dangerous does not have an option for response curves, so you will need other software. Some sticks will have their own software from the manufacturer, but this will not always be the case and sometimes these softwares can be lackluster.
+
+Our recommended third party alternative is the open-source software [Joystick Gremlin](https://whitemagic.github.io/JoystickGremlin/download.html), together with [vJoy](https://sourceforge.net/projects/vjoystick/).
+
+1. Setup vJoy. Your device inputs will be mapped to virtual device inputs.
+2. Setup Joystick Gremlin. Select the vJoy virtual inputs and make  response curves for your virtual axis.
+3. Bind the newly setup virtual axis inputs in your Elite Dangerous Settings. Use the Input Repeater option within Joystick Gremlin to let Elite detect the virtual inputs seperately. Elite will detect both your analogue and virtual inputs otherwise.
 
 # Fire Groups & Binds
 
