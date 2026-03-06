@@ -2,7 +2,7 @@
 title: Recommended Control Scheme
 description: Best suggested controls for Combat in Elite
 published: true
-date: 2026-03-06T01:43:22.726Z
+date: 2026-03-06T01:46:27.246Z
 tags: combat, controls
 editor: markdown
 dateCreated: 2021-06-21T04:46:46.489Z
@@ -51,7 +51,7 @@ Make sure any binds you need during combat are well placed!
 
 Many players find it difficult to precisely control their ship with linear input by default. Even more so with the very fine-tune back and forth adjustments that are required to stay & aim steadily during Flight-Assist Off flying.
 
-A lot of practice can let players adjust to that, but another good option, to make this easier, are response curves. The goal with response curves in this case is to soften the initial input rate of the axis' center on your stick. This will make the small fine-tune inputs required for precise FA Off flying easier, while still allowing for high rate input further along the outer part of the axis.
+A lot of practice can let players adjust to that, but another good option, to make this easier, are response curves. The goal with response curves, in this case, is to soften the initial input rate of the axis' center on your stick. This will make the small fine-tune inputs required for precise FA Off flying easier, while still allowing for high rate input further along the outer part of the axis.
 
 Elite Dangerous does not have an option for response curves, so you will need other software. Some sticks will have their own software from the manufacturer, but this will not always be the case and sometimes these softwares can be lackluster.
 
