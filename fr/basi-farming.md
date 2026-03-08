@@ -1,14 +1,14 @@
 ---
-title: Goid Opals
+title: Basilisk Farming
 description: A comprehensive guide on the NHSS looping Basilisk farm method
 published: true
-date: 2026-03-08T19:33:53.870Z
+date: 2026-03-08T20:46:56.226Z
 tags:
 editor: markdown
 dateCreated: 2026-03-08T19:06:46.197Z
 ---
 
-# Basi Farming Overview
+# "Goid Opal Mining"
 
 Basilisk farming, commonly referred to as ”Goid Opal Mining,” is one of the best methods to get credits solo in Elite Dangerous. It requires a bespoke ship, some unlocks, and a bit of practice to make it work.
 
@@ -19,7 +19,9 @@ it is easy enough to perform a basic stun-lock but can be refined to an art form
 
 # Ship Builds
 
-## Modhsards
+_This is a highly specialised task, and as such requires a specialised ship._
+
+## Modshards
 
 _If you are already familiar with modified shard cannons and their differences in acquisition from regular tech broker shards, skip this section._
 
@@ -65,6 +67,8 @@ If you understand signal source looping you will already be aware that using thi
 
 # The basics of locking and looping
 
+_Where and how to find your Goid Opal Mining hotspots efficiently!_
+
 ## Signal Source Looping
 
 If you are already familiar with signal source looping and the 5 minute reset time, skip this section.
@@ -99,3 +103,84 @@ _If you are already familiar with the basics of AX combat, such as exerting and 
 Thargoids are not like regular ships, their hull can regenerate. This regeneration means that shooting it mindlessly will not result in it dying. Therefore, to kill a Thargoid, we must remove all its hearts; a Basilisk has Five Hearts.
 To destroy a heart it must first become ”exerted”, which is done by damaging the Basilisk’s hull. The exerted heart will glow red as shown below. Once exerted, the heart can be shot and destroyed. To kill a Basilisk, all five of its
 hearts must be destroyed.
+
+![heart.png](/heart.png =300x){.align-center}
+
+<center><small> A Basilisk with an exerted heart at the bottom right </small></center>
+
+### Thargoid Shields
+
+Unlike regular shields, Thargoid shields do not regenerate. A Thargoid throws up a full shield after a heart is destroyed (as long as it is not in the sleep phase. There are both audio and visual cues that can be noticed, however the easiest way to tell if a shield is up is by looking at the bottom left of your HUD, where the targeted ship appears, and looking for the ”Shield Flare” or "Blue Dots" (seen below) that appears when you shoot the Thargoid . Shields must be destroyed before further hearts can be exerted, but modshards are excellent shield removal weapons too.
+
+![shield-flare-dots.pdf](/shield-flare-dots.pdf =300x){.align-center}
+
+<center><small> The ”Shield Flare” that appears when shooting a Thargoid shield </small></center>
+
+## How to Stunlock
+
+A basic stun-lock can be broken down into three rules that must be followed. This guide will also explain WHY
+these rules are in place, but if you learn one thing from this section, learn this:
+
+- **Always stay outside of 700 meters of the Thargoid**
+- **Activate ”Silent Running” after you destroy the second heart**
+- **Always have 4 pips to weapons and use at least 2 heat sinks when shooting (even when using Silent Running).**
+
+Now onto the why. Stun-locking makes use of the sleep phase that comes after destroying any heart beyond heart one (Hearts will be referred to as H1, H2, H3... from now on). A Thargoid in sleep phase will not try to move and will not fire back, allowing the shield to be quickly stripped and a heart (or even two!) to be taken.
+**A Basilisk sleeps for 33 seconds** starting from when the shield is damageable, which is plenty of time to break it and take at least one heart. If a heart has been destroyed during a sleep phase, the Thargoid won’t wake up and will instead
+deploy another shield and stay asleep; this is the principle of stun-locking.
+
+Maintaining the sleep phase requires the Thargoid to not detect you. It can ”see” you at any point you are above 20% heat between 3 km and 700 m, or at any heat if you get closer than 700 m. If it ”sees” you, it wakes up. We cannot use sinks to stay below 20% heat while shooting so we instead use silent running, which makes our heat signature appear as 0% to the Basilisk. **This is why we use Silent Running and stay farther than 700 m.**
+
+The heat sinks are used, not just for cooling, but to provide distributor charge for your weapons capacity, so two sinks are needed even in silent running for stun-locking.
+
+Finally, destroying the first heart will trigger a lightning phase instead of a sleep phase. **You want it to hit you with lightning.** As soon as the Interceptor turns yellow (ideally before you get zapped) start shooting the shield.
+The lightning phase is shorter than a normal sleep phase so you have to be faster now than you would be for H3 onwards.
+Please note that the lightning has a chance to disable your thrusters for a few seconds, do not panic and keep shooting the Thargoid until it exerts. Once your thrusters re-activate, take the heart as normal.
+
+[Click here](https://youtu.be/wxKSfuDV7Oo?si=1_RMASvV8FQ_I1YI) for a sample beginner stun-lock performed by CMDR BadgerNoah. It's highly recommend giving this a watch if you still have questions.
+
+## Common Mistakes
+
+The three most common reasons for beginner stun-lockers to lose runs are: Not taking heart 1 or heart 2 fast enough, causing a panic shield, and drifting too close to the Thargoid.
+The first is caused by the Thargoid moving erratically during the start of the fight, the easiest fix for which is to start outside of mass-lock, however this can slow down profit per hour. Avoiding mass-lock is a good starting point but should be phased out with time. After some practice you can take heart 1 faster and then stick with the Thargoid so it can lightning you faster, which helps ensure heart 2 dies quick enough.
+
+The fix to the second issue, panic shielding, is to never attack the Thargoid while the heart is exerted, or right
+after one has been destroyed. If you wish to empty your clips, do so into space and not into the Basilisk. The final
+issue is fixed by paying attention to the range between you and the Thargoid at all times, which also comes with practice.
+
+# Advanced stun-locking techniques
+
+> Please wait until you are consistently getting Basilisk kills before reading this section.{.is-danger}
+
+## Double-hearting and the NEI
+
+By now, you may have noticed that you can take more than one heart per sleep phase, most easily H4 and H5 in one shield. This is called double-hearting. Double-hearting speeds up kills dramatically and learning it is the first step to becoming a top-notch speedrunner and stun-locker. The first step to double-hearting consistently is to understand the **Non-Exert Interval, or NEI**, for short.
+
+The NEI is a ten-second after a heart has been destroyed where no matter how much damage is done, another heart cannot be exerted. Beginners will often cause a panic shield by shooting the Basilisk excessively during this time.
+To land double hearts consistently count to ten after a heart is destroyed before shooting again, and while you’re counting make sure to **empty your clips so you have a full five shots when the NEI is over.**
+
+## Lightning Skip
+
+On a fundamental level, lightning skip is just a much harder double-heart. If heart two is destroyed before the lightning phase is started, the Basilisk enters sleep and does not attempt to zap you. The time window to make this happen is tight, giving only a few seconds of error between first shot hitting the Basilisk and H2 being destroyed.
+When this trick is pulled off you must enter silent running after H2 as normal. **A good way to count the 10 second NEI is to destroy the heart and empty your clips, wait until the guns are shown to have reloaded, and then count to four.** Between the five-second reload, the time taken to empty the clips, and the four second count, this is a good approximation of the 10 second NEI that many people find reduces error.
+
+Lightning skipping is very intricate and even the best stun-lockers cannot do it 100% of the time; there is a reason double-hearts like this are sometimes called ”Impossible Shots”. With this in mind, an optimal sub-70-second Basilisk speedrun consists of a lightning skip, double-hearting H3 and H4 together, and then destroying H5 and finishing off the Basilisk in two shields total. [Click here](https://youtu.be/rCTFInt0vxs?si=2dGJK_dDkYFFb4fN) for a sub 70 second speedrun example.
+
+## Stun-Locking Medusas
+
+Medusa stun-locks are much the same in theory, with a few major differences. The first is that there is much less room for error on the first heart-snipe, and it is common to need more than one full clip to get the exert and take the heart, making lightning skip excessively more difficult.
+The second difference is that the medusa has an extra heart and larger shields, which means your stun-lock ship of choice will begin to struggle and your shards will likely malfunction or burn-off entirely.
+The final difference between Medusas and Basilisks is that a Medusa sleep phase is four seconds shorter.
+
+These factors result in Medusa speedruns being RNG dependent as missile damage and heat damage can reduce your own shard damage output too quickly, resulting in a failed attempt. **Even the best stun-lockers say they are only around 90% consistent with Medusa speedruns.**
+This, along with the almost double fight length, is why we do not favour farming Medusas. A typical Medusa speedrun will be around 2 mins and 10-20 seconds (although it can be faster with practice), whereas an optimised Basilisk speedrun rarely takes longer than 70 seconds.
+
+The most advanced farmers, will only pivot to looping Medusa signal sources if both Sterope II and Asterope run out of Basilisk signal sources. While this provides a lower theoretical payout per hour, it helps reduce downtime and makes the upper figure of 450 mill/hr much more consistently achievable.
+
+> **Acknowledgements**
+>
+> I love AX and both speedrunning and stun-locking got me into it, if you enjoy this gameplay loop I implore you to seek other forms of AX combat and give it a try.
+> I would like to thank CMDRs 7652 and Nimogrea for teaching me and getting me into stun-locking. Several people helped proof read this document and I would like to thank CMDRs Ivarya, HaellowGrig, AlexMG1, and Edwardga1108 especially for doing so.
+> A special thanks to CMDR Aranionros Stormrage for his huge contribution to the spelling and grammar. Also obligatory shout-out to CMDR D0van for being a total bloke.
+>
+> \-- CMDR Jabba66
