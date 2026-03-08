@@ -2,7 +2,7 @@
 title: Basilisk Farming
 description: A comprehensive guide on the NHSS looping Basilisk farm method
 published: true
-date: 2026-03-08T21:30:26.600Z
+date: 2026-03-08T21:43:59.443Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-08T19:06:46.197Z
@@ -106,7 +106,7 @@ hearts must be destroyed.
 
 Unlike regular shields, Thargoid shields do not regenerate. A Thargoid throws up a full shield after a heart is destroyed (as long as it is not in the sleep phase. There are both audio and visual cues that can be noticed, however the easiest way to tell if a shield is up is by looking at the bottom left of your HUD, where the targeted ship appears, and looking for the ”Shield Flare” or "Blue Dots" (seen below) that appears when you shoot the Thargoid . Shields must be destroyed before further hearts can be exerted, but modshards are excellent shield removal weapons too.
 
-![shield-flare-dots.pdf](/shield-flare-dots.pdf =300x){.align-center}
+![shieldflaredots.jpg](/shieldflaredots.jpg =300x){.align-center}
 <center><small> The ”Shield Flare” that appears when shooting a Thargoid shield </small></center>
 
 ## How to Stunlock
