@@ -2,7 +2,7 @@
 title: Goid Opals
 description: A comprehensive guide on the NHSS looping Basilisk farm method
 published: true
-date: 2026-03-08T19:06:46.197Z
+date: 2026-03-08T19:24:46.610Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-08T19:06:46.197Z
@@ -72,6 +72,16 @@ Please be aware that signal sources near a station will shift as the station orb
 
 ## Locating Signal Sources
 
-Thargoid signal sources can be found in the four local nebula of the galaxy. The closest and best one is the Pleiades Nebula. **It is recommended to farm in Sterope II and Asterope**, jumping from one to another when the Basilisk
-signal sources dry up. 
+Thargoid signal sources can be found in the four local nebulae of the galaxy. The closest and best one is the Pleiades Nebula. **It is recommended to farm in Sterope II and Asterope**, jumping from one to another when the Basilisk signal sources dry up. 
 But how do you know which signals contain a Basilisk? Easy, ”Threat 6” signal sources with a faction listed on the top right of the screen are potential Basilisk spawns, and if the faction is listed as ”none” then the signal often contains Scouts. These signals with a listed faction can be empty, but they are the signals you want to be looping. The below image shows the difference between a Scout signal and a Basilisk signal.
+
+![signalsource_faction_nofaction.pdf](/signalsource_faction_nofaction.pdf){.align-center}
+<center> Two signals compared: Top is a Scout signal source, bottom is an Interceptor signal source. </center>
+
+To easily identify these signals, use the FSS scanner, but tune it to the far right of the ”blob” associated with non-
+human signal sources. Any signal scanned with this method will have a faction associated with it and will not be
+scouts. A visual description of the trick is below.
+
+
+![fsstrick.png](/fsstrick.png){.align-center}
+<center> Example of the FSS trick </center>
