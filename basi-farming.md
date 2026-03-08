@@ -2,7 +2,7 @@
 title: Goid Opals
 description: A comprehensive guide on the NHSS looping Basilisk farm method
 published: true
-date: 2026-03-08T19:24:46.610Z
+date: 2026-03-08T19:33:53.870Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-08T19:06:46.197Z
@@ -28,7 +28,7 @@ Biotech” in game faction which is done through trade profit or exploration dat
 For help finding an Azimuth Biotech controlled station please use Inara and for help gathering materials use [this link](https://sites.google.com/view/elite-materials/home?authuser=0).
 
 ![fig2.png](/fig2.png){.align-center}
- <center> Medium modshard material & cargo requirements, taken from Inara. </center>
+ <center><small> Medium modshard material & cargo requirements, taken from Inara. </small></center>
 
 ## Ship Build Theory
 
@@ -50,7 +50,7 @@ This guide has three recommended builds that will be evaluated below, but other 
 The three builds recommended by this guide are the [Bare-bones Anaconda](https://edsy.org/#/L=J65jTpJv0H4C0S00,LYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvHNk00HNk00,Cjw00Cjw00Cjw00Cjw00Cjw00Cjw00Cjw00Cjw00,9on10ADI10ARM05AfR00Aty05BBoG53Lo00BRu05Bcg15,16y15,16y1516y1516y1516y1525S103Ju0525S1523u0023u1515O100nG051-C10,BareBones_0conda), the [Fully Engineered Corsair](https://edsy.org/#/L=JH00000H4C0S00,LYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXv,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABkG03K_W0ARMG05I_W0AdtG-bG0060upD6upD8qpDE_PcGzcQKsPcAsOG03G_W0BAEG03L_W0BOmG03G_W0Bcg00,,16yG05I_W016yG05I_W016yG05I_W016yG05I_W03Ju0025S0023u0022K0020m000nG00,Full_0Corsair), and the [Fully Engineered Anaconda](https://edsy.org/#/L=J65jTpJv0H4C0S00,LYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOG-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvHNkG0BM_W0HNkG0BM_W0,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00EAk00,9onH05I_W0ADIH03K_W0ARMG55I_W0AfRG-bG0060upD6upD8qpDE_PcGzcQKsPcAtyG53G_W0BBoG53Lo00BRuG53G_W0Bcg15,16yH55I_W0,16yH55I_W016yH55I_W016yH55I_W016yH55I_W025S103Ju0525S1515OG05I_W023u1523u1520m000nG05,Full_0anaconda) (Click for EDSY link). The graphic below outlines the pros and cons of each, but if you have no interest in other AX content or setting a leaderboard-worthy speedrun the best option is the Bare-bones Anaconda.
 
 ![basi_farming_builds_table.pdf](/basi_farming_builds_table.pdf){.align-center}
- <center> Table of the three recommended ship builds, evaluated </center>
+ <center><small> Table of the three recommended ship builds, evaluated </small></center>
  
  ## Premium Ammo
 
@@ -75,13 +75,21 @@ Please be aware that signal sources near a station will shift as the station orb
 Thargoid signal sources can be found in the four local nebulae of the galaxy. The closest and best one is the Pleiades Nebula. **It is recommended to farm in Sterope II and Asterope**, jumping from one to another when the Basilisk signal sources dry up. 
 But how do you know which signals contain a Basilisk? Easy, ”Threat 6” signal sources with a faction listed on the top right of the screen are potential Basilisk spawns, and if the faction is listed as ”none” then the signal often contains Scouts. These signals with a listed faction can be empty, but they are the signals you want to be looping. The below image shows the difference between a Scout signal and a Basilisk signal.
 
-![signalsource_faction_nofaction.pdf](/signalsource_faction_nofaction.pdf){.align-center}
-<center> Two signals compared: Top is a Scout signal source, bottom is an Interceptor signal source. </center>
+![signalsource_faction_nofaction.pdf](/signalsource_faction_nofaction.pdf =300x){.align-center}
+<center><small> Two signals compared: Top is a Scout signal source, bottom is an Interceptor signal source. </small></center>
 
-To easily identify these signals, use the FSS scanner, but tune it to the far right of the ”blob” associated with non-
-human signal sources. Any signal scanned with this method will have a faction associated with it and will not be
-scouts. A visual description of the trick is below.
+To easily identify these signals, use the FSS scanner, but tune it to the far right of the ”blob” associated with non-human signal sources. Any signal properly scanned with this method will have a faction associated with it and will not be scouts. A visual description of the trick is below.
 
 
-![fsstrick.png](/fsstrick.png){.align-center}
-<center> Example of the FSS trick </center>
+![fsstrick.png](/fsstrick.png =300x){.align-center}
+<center><small> Example of the FSS trick </small></center>
+
+## Introduction to Thargoid Mechanics
+
+*If you are already familiar with the basics of AX combat, such as exerting and taking hearts, as well as Thargoid shields, skip this section.*
+
+### Exerting and Heart-Sniping
+
+Thargoids are not like regular ships, their hull can regenerate. This regeneration means that shooting it mindlessly will not result in it dying. Therefore, to kill a Thargoid, we must remove all its hearts; a Basilisk has Five Hearts.
+To destroy a heart it must first become ”exerted”, which is done by damaging the Basilisk’s hull. The exerted heart will glow red as shown below. Once exerted, the heart can be shot and destroyed. To kill a Basilisk, all five of its
+hearts must be destroyed.
