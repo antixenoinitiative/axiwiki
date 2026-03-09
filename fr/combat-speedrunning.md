@@ -2,7 +2,7 @@
 title: Guide du Speedrun
 description: Vous pouvez tuer des thargoids ? Oui ? Mais pouvez-vous les tuer rapidement ?
 published: true
-date: 2025-11-28T03:17:37.820Z
+date: 2026-03-09T14:56:31.968Z
 tags:
 editor: markdown
 dateCreated: 2021-06-10T13:56:57.206Z
@@ -10,9 +10,9 @@ dateCreated: 2021-06-10T13:56:57.206Z
 
 # Introduction
 
-Speedrunning is not for newcomer pilots to Anti-Xeno combat.
+We generally recommend CMDRs attain at least the Serpent’s Nemesis rank (Medusa solo) before they focus on learning any advanced techniques involved in speedrunning.
 
-We generally recommend CMDRs attain at least the Serpent’s Nemesis rank (Medusa solo) before they focus on learning any techniques involved in speedrunning.
+Stunlocking up until Basilisks, under correct guidance, is not too difficult to achieve and is an efficient method to farm Credits in Elite. However, gaining flying experience and learning Interceptor Mechanics through regular AX combat first, is better for personal AX progession.
 
 # Rangs en speedrun
 
@@ -22,6 +22,7 @@ Submissions for any of our speedrun ranks are done via the **/speedrun** command
 
 All approved speedruns go into our database. The 10 fastest runs in each division are displayed on our [Leaderboards](https://antixenoinitiative.com/medals/leaderboards-new/) on the website.
 
+# {.tabset}
 ## Myrmidon - “Silver” color
 
 Myrmidon is the speedrunning rank in our regular challenge-rank lineup. Whereas Vanguard requires you to do a complex or off-meta kill, but gives you no time limit, Myrmidon allows you to use a meta ship, but gives you a strict time limit.
@@ -55,16 +56,16 @@ If overwhelming damage to reach the exert treshhold was done during this time pe
 
 Whenever an interceptor's heart is destroyed it will enter a 35-40 second sleep phase. The exact time differs between Variants. (Except after the first heart, here the interceptor will enter the lightning phase unless the second heart is destroyed before activation.)
 
-The interceptor will try to position itself exactly 1km away when in its vicinity - moving backwards or forwards as needed.
+The interceptor will try to position itself exactly 1km away from you, when you are in its vicinity - moving backwards or forwards as required.
 
 During the sleep phase the interceptor is looking for a target for its caustic missile or shutdown-field special attack.  
-Avoiding a target-lock will let the sleep phase play out fully.
+Avoiding a target-lock will let the sleep phase run its coursek.
 
 # Speedrunning Techniques
 
 ## Shield Ramming
 
-Shield ramming can be used in any type of speedrun whether it's **cold orbiting** or **stunlocking**. Ramming interceptor's shield most of the time implies triggering **special attack** as a result of violating minimum range for:
+Shield ramming can be used in any type of speedrun whether it's **cold orbiting** or **stunlocking**. Ramming an interceptor's shield usually triggers a **special attack** as a result of violating minimum range for:
 
 - **Lightning** if interceptor is active;
 
@@ -74,31 +75,31 @@ Shield ramming can be used in any type of speedrun whether it's **cold orbiting*
 
 Let's break down the most common shieldrams:
 
-### Shield after first heart.
+### Shield after first heart
 
-After destroying first heart interceptor initiates a **lightning chase** which:
+After destroying the first heart the interceptor initiates a **lightning chase**, which:
 
-- Encourages us to ram it's shield;
+- Encourages us to ram its shield;
 
-- Blocks interceptor's ability to deploy **panic shield** regardless of how fast this shield will get destroyed.
+- Blocks the interceptor's ability to deploy new **panic shields** regardless of how fast this shield will get destroyed.
 
-Lightning does insignificant amount of hull damage because of it's low AP so it's a common trade of ship hull for instant shield removal.
+Lightning does low amounts of hull damage because of low Armour-Pen. A ram trades off ship hull for instant interceptor-shield removal.
 
-To successfully ram shield off you need to:
+To ram off the shield sucessfully you should:
 
-- Back off a little bit from interceptor after destroying it's first heart;
+- Back off a little after destroying the interceptors first heart;
 
-- Line up and boost into the interceptor so you ram shield before zap kills your momentum.
+- Line up and boost into the interceptor, so you ram the shield before the lightning-zap kills your momentum.
 
-Usually lightning duration is enough to exert and destroy next heart after successful shieldram.
+Usually lightning duration is enough to exert and destroy the next heart after a successful shield-ram.
 
-### Shield after all other hearts.
+### Shield after all other hearts
 
-As we already know, after every heart destruction except first one, interceptor falls into **sleep phase** meanwhile deploying new shield. If you want to ram this shield off, you should expect interrupting **sleep phase** because of violating **minimum detection range** (roughly 700m).
+As we already know, **after every heart destruction except the first one, the interceptor falls into sleep phase**, meanwhile deploying a new shield. If you want to ram this shield off, you should expect interrupting **sleep phase** because of violating **minimum detection range** (roughly 700m).
 
 And that's where it's getting more complicated, because without full knowledge on how panic shields are triggered, you will end up causing exactly that.
 
-To successfully ram shield off you need:
+To successfully ram the shield off you need:
 
 - Count to 7 (every second) from the moment when shield got deployed (cue: green dots and lights along with "exhale" noise)
 
@@ -121,7 +122,7 @@ In order to not wake the interceptor up it is necessary to **avoid detection**. 
 
 ### Silent Running Lock
 
-Stunlocking while silent running will mean you can freely fire away your weapons at maximum possible output.
+Stunlocking while silent running will mean you can freely fire away your weapons at maximum possible output. Silent Running closes your  heatvents, essentially making your ship appear as 0% heat output to onlookers, including interceptors.
 
 SR is the easiest way to avoid detection during the fight, but firing weapons under silent running comes with constant **overheating**, causing:
 
@@ -130,9 +131,9 @@ SR is the easiest way to avoid detection during the fight, but firing weapons un
 
 ### Cold Locking 
 
-Cold Locking can always be used, but becomes more necessary when stunlocking high tier Interceptors. Their survivability drags out the fight too long to get away with the internal damage dealt by overheating during silent running over extended periods of time.
+To cold lock you need to deal the damage required for stunlocking while also maintaining a **temperature of less than 20% using heatsinks** (20% is a rule of thumb and differs by ship).
 
-To cold lock you need to deal the damage required for stunlocking while also maintaining a **temperature of less than 20%** using heatsinks (20% is a rule of thumb and differs by ship).
+Cold Locking becomes relevant when stunlocking high tier Interceptors. Their survivability drags out the fight too long to get away with the accumulative overheating-damage of silent running.
 
 ## Doublehearting
 
@@ -144,14 +145,18 @@ Destroying the second heart **before** the first shield comes up and therefore s
 
 The name "Impossible Shot" is a keepsake of the days when gauss still dominated the speedrunning scene (as better options were not available yet). Back then you had a 2 second window of opportunity for this, and taking the 1.25s charge up time of gauss into account, this was indeed a difficult thing to pull off.
 
-# Speedrunning builds
+# Speedrunning Builds
 
 View the [Speedrun Builds](/en/speedrunbuilds) page for a collection of recommended builds specialised for speedruns.
 
-# Speedrunning Tutorial
+# Speedrunning Guides
 
-A great Tutorial Video for newcomers to stunlocking: [https://www.youtube.com/watch?v=cdvLDxQReq0](https://www.youtube.com/watch?v=cdvLDxQReq0)
+A great Tutorial Video on YouTube for newcomers to stunlocking:
+- [https://www.youtube.com/watch?v=cdvLDxQReq0](https://www.youtube.com/watch?v=cdvLDxQReq0)
 
 <div class="iframeContainer">
     <iframe src="https://www.youtube.com/embed/cdvLDxQReq0?si=MSvLJMwSFs--qRim" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
 </div>
+
+A comprehensive guide on NHSS loop Baslisk farming:
+- ["Goid Opal Mining" - Basilisk Farming](/en/basi-farming)
