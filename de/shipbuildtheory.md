@@ -2,7 +2,7 @@
 title: Schiffs Build Theorie
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2026-03-11T18:15:15.697Z
+date: 2026-03-11T19:14:35.107Z
 tags: Builds, Theorie, Engineering, Ausrüstung
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -52,9 +52,10 @@ Vermeide häufige Fehler, die man [hier](/en/commonmistakes) finden kann.
 
 
 # Intern (Basis)
-# {.tabset}
 
 Core Internals stay largely the same across different AX build types, similarly to other combat in Elite.
+
+# {.tabset}
 
 ## Hüllenpanzerung
 
@@ -102,9 +103,9 @@ Core Internals stay largely the same across different AX build types, similarly 
 
 ## Sensoren
 
-**The Meta:** D-rated with Long Range experimental. Thargoiden emittieren immer ein Signal, das mit der maximalen Reichweite des Sensors erkannt werden kann, was bedeutet, dass Klasse-A Sensoren keine Vorteile im Vergleich zu Klasse-D haben, sondern mehr wiegen und mehr Leistung brauchen.
+**The Meta:** D-rated with Long Range. Acive Interceptors always emit a signal that can be detected at maximum sensor range, meaning that A-rated sensors provide no benefits to D-rated, but weigh more and cost more power. In some cases long-range will let you pick up in-active Thargoids,  Anomalies and patrolling Hunters from further away.
 
-**Alternativen:** Keine
+**Alternatives:** No Engineering to save materials. Lightweight when necessary.
 
 # Intern (optional)
 
@@ -112,14 +113,17 @@ Beim optionalen internen Loadout liegt der Hauptunterschied zwischen verschieden
 
 For more information on specific optional internal modules, refer to the [Optionals & Utility Page](/en/optionals) page.
 
+# {.tabset}
 
 ## Kalte Orbiter
-- Größte mögliche Reparaturdrohnen Steuerung der d-klasse und 16t oder 64t Laderaum.
-- One class four or five GMRP and two smaller MRPs
-- 2A AFMU
-- HRPs in the rest of the internal slots
+- Largest possible D-rated repair limpet controller and 16t or 64t worth of cargo rack space
+- **3 !!** Module Reinforcement Packages. One class four or five GMRP and two smaller MRPs (class one or two)
+<i style="color: none"> Do NOT place any Module Reinforcements in military-slots, as modules in those slots take damage last. You want your largest Module Reinforcement to be the buffer that soaks up the bulk of module damage taken, while your two small MRPs are there to add additional %-Module-Resistance. Keep the buffer & resistance intact by regularly repairing your MRPs with your AFMU </i>
 
-> The best setup and method for beginners and experienced pilots alike. 
+- 2A or 3A AFMU
+- Hull Reinforcement Packages in the rest of the internal slots, fill military-slots first
+
+> The best setup and method for beginners and most experienced pilots alike. 
 > 
 > {.is-success}
 
