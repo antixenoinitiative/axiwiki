@@ -2,7 +2,7 @@
 title: Gemi Donatım Teorisi
 description: Genel AX donatım teorisine yönelik kapsamlı rehber
 published: true
-date: 2025-11-28T19:16:40.273Z
+date: 2026-03-11T18:15:15.697Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -17,9 +17,11 @@ Bu aşağıda belirtilen her donanım türlerine yönelik hazırlanmış, genel 
 
 # Genel Hususlar
 
+Considerations for all AX Ships fighting in Signal-Sources and AX-Conflict-Zones.
+
 ## Mühendislik
 
-Bir Anti-Xeno gemisindeki **tüm bileşenler** en yüksek performans için **mühendislikle tamamen yükseltilmiş** olmalıdır. Thargoidler ileri düzey düşmanlardır ve herhangi bir insan NPC'sine kıyasla çok daha fazla hasar verirler. Bunun yanın hazırlıklı olmayan gemileri darmadağın edecek özel yetenek saldırılarına sahiptirler. Eğer ki herhangi bir sebeple geminizdeki her bileşeni tamamen yükseltemiyorsanız en azından yükseltmeniz gerekenler:
+Bir Anti-Xeno gemisindeki **tüm bileşenler** en yüksek performans için **mühendislikle tamamen yükseltilmiş** olmalıdır. Thargoidler ileri düzey düşmanlardır ve herhangi bir insan NPC'sine kıyasla çok daha fazla hasar verirler. Bunun yanın hazırlıklı olmayan gemileri darmadağın edecek özel yetenek saldırılarına sahiptirler. If you are unable to engineer everything due to constraints, **the bare minimum is:**
 - Thrusters
 - Power Distributor
 - Hull Reinforcements
@@ -29,7 +31,7 @@ Bir Anti-Xeno gemisindeki **tüm bileşenler** en yüksek performans için **mü
 
 ## Dirençler
 
-Thargoid silahları, sahip olduğunuz tüm dirençleri (caustic hariç) yok sayar. Bu yüzden tüm zırh ve kalkan güçlendirmeleriniz **safi dayanıklıklarını** artırmaya yönelik olmalıdır.
+Thargoid weapons ignore all resistances (besides caustic resistance) thus you should be aiming to have all armour and shields engineered for the maximum **raw** hull/shield amounts.
 
 ## Hız ve Manevra Kabiliyeti
 
@@ -50,6 +52,7 @@ The placement of your hardpoints matters, especially when it comes to sniping ex
 
 
 # Core Internals
+# {.tabset}
 
 Core Internals stay largely the same across different AX build types, similarly to other combat in Elite.
 
