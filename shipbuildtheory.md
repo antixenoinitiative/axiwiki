@@ -2,7 +2,7 @@
 title: Ship Build Theory
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2026-03-11T19:06:51.326Z
+date: 2026-03-11T19:14:35.107Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -124,7 +124,7 @@ For more information on specific optional internal modules, refer to the [Option
 - 2A or 3A AFMU
 - Hull Reinforcement Packages in the rest of the internal slots, fill military-slots first
 
-> The best setup and method for beginners and experienced pilots alike.
+> The best setup and method for beginners and most experienced pilots alike.
 {.is-success}
 
 
