@@ -2,7 +2,7 @@
 title: Ship Build Theory
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2026-03-11T19:02:46.820Z
+date: 2026-03-11T19:04:33.387Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -121,7 +121,7 @@ For more information on specific optional internal modules, refer to the [Option
 - **3 !!** Module Reinforcement Packages. One class four or five GMRP and two smaller MRPs (class one or two) 
 <i style="color: none"> Do NOT place any Module Reinforcements in military-slots, as modules in those slots take damage last. You want your largest Module Reinforcement to be the buffer that soaks up the bulk of module damage taken, while your two small MRPs are there to add additional %-Module-Resistance </i>
 
-- 2A AFMU
+- 2A or 3A AFMU
 - Hull Reinforcement Packages in the rest of the internal slots, fill military-slots first
 
 > The best setup and method for beginners and experienced pilots alike.
