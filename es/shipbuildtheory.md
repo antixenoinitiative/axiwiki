@@ -2,7 +2,7 @@
 title: Ship Build Theory
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2025-11-28T19:16:40.273Z
+date: 2026-03-11T18:15:15.697Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -17,9 +17,11 @@ This is a comprehensive guide on general AX build theory, for each of the build 
 
 # General Themes
 
+Considerations for all AX Ships fighting in Signal-Sources and AX-Conflict-Zones.
+
 ## Engineering
 
-**All components** of an Anti-Xeno ship **should be fully engineered** for maximum performance. Thargoids are incredibly advanced and deal far more damage than any human NPC in the game. Not only this, but they have a slew of special attacks that can devastate a ship that is not properly prepared. If you are unable to engineer everything due to constraints, the bare minimum is:
+**All components** of an Anti-Xeno ship **should be fully engineered** for maximum performance. Thargoids are incredibly advanced and deal far more damage than any human NPC in the game. Not only this, but they have a slew of special attacks that can devastate a ship that is not properly prepared. If you are unable to engineer everything due to constraints, **the bare minimum is:**
 - Thrusters
 - Power Distributor
 - Hull Reinforcements
@@ -29,7 +31,7 @@ This is a comprehensive guide on general AX build theory, for each of the build 
 
 ## Resistances
 
-Thargoid weapons ignore all resistances (besides caustic resistance) thus you should be aiming to have all armour and shields engineered for maximum **raw** hull/shield MJ.
+Thargoid weapons ignore all resistances (besides caustic resistance) thus you should be aiming to have all armour and shields engineered for the maximum **raw** hull/shield amounts.
 
 ## Speed and Maneuverability
 
@@ -50,6 +52,7 @@ Avoid making these common mistakes listed [Here](/en/commonmistakes).
 
 
 # Core Internals
+# {.tabset}
 
 Core Internals stay largely the same across different AX build types, similarly to other combat in Elite.
 
