@@ -2,7 +2,7 @@
 title: Schiffs Build Theorie
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2025-11-28T19:16:40.273Z
+date: 2026-03-11T18:15:15.697Z
 tags: Builds, Theorie, Engineering, Ausrüstung
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -17,9 +17,11 @@ Das hier ist ein umfassender Leitfaden zur allgemeinen AX-Build-Theorie, für je
 
 # Allgemeine Aspekte
 
+Considerations for all AX Ships fighting in Signal-Sources and AX-Conflict-Zones.
+
 ## Engineering
 
-**Alle Module** in einem Anti-Xeno Schiff **sollten komplett modifiziert sein** für maximale Leistung. Thargoids sind extrem fortschrittlich und machen mehr Schaden als irgendein menschlicher NPC im Spiel. Nicht nur das, sie haben ebenfalls eine Reihe an speziellen Angriffen, die ein unvorbereitetes Schiff auslöschen. Aber wenn du wegen Einschräkungen nicht alles upgraden kannst, ist das das Minimum:
+**Alle Module** in einem Anti-Xeno Schiff **sollten komplett modifiziert sein** für maximale Leistung. Thargoids sind extrem fortschrittlich und machen mehr Schaden als irgendein menschlicher NPC im Spiel. Nicht nur das, sie haben ebenfalls eine Reihe an speziellen Angriffen, die ein unvorbereitetes Schiff auslöschen. If you are unable to engineer everything due to constraints, **the bare minimum is:**
 - Schubdüsen
 - Energieverteiler
 - Hüllenverstärkungen
@@ -29,7 +31,7 @@ Das hier ist ein umfassender Leitfaden zur allgemeinen AX-Build-Theorie, für je
 
 ## Widerstände
 
-Die Waffen der Thargoid ignorieren alle Resistenzen (außer kaustische Resistenzen), weswegen man lieber die Rüstung und Schilde auf größtmögliche **absolute** Hülle/ Schild-MJ auslegen sollte.
+Thargoid weapons ignore all resistances (besides caustic resistance) thus you should be aiming to have all armour and shields engineered for the maximum **raw** hull/shield amounts.
 
 ## Geschwindigkeit und Manövrierfähigkeit
 
@@ -50,6 +52,7 @@ Vermeide häufige Fehler, die man [hier](/en/commonmistakes) finden kann.
 
 
 # Intern (Basis)
+# {.tabset}
 
 Core Internals stay largely the same across different AX build types, similarly to other combat in Elite.
 
