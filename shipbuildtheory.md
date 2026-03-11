@@ -2,7 +2,7 @@
 title: Ship Build Theory
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2026-03-11T18:44:43.717Z
+date: 2026-03-11T19:02:46.820Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -118,9 +118,8 @@ For more information on specific optional internal modules, refer to the [Option
 
 ## Cold Orbiters
 - Largest possible D-rated repair limpet controller and 16t or 64t worth of cargo rack space
-- **3 !!** Module Reinforcement Packages. One class four or five GMRP and two smaller MRPs (class one or two)
-<p style= "background-color: #1f1f1f; border-radius: 0.6rem; padding: 0.6rem;">
-Do NOT place any Module Reinforcements in military-slots, as modules in those slots take damage last. You want your largest Module Reinforcement to be the buffer that soaks up the bulk of module damage taken, while your two small MRPs are there to add additional %-Module-Resistance </p>
+- **3 !!** Module Reinforcement Packages. One class four or five GMRP and two smaller MRPs (class one or two) 
+<i style="color: none"> Do NOT place any Module Reinforcements in military-slots, as modules in those slots take damage last. You want your largest Module Reinforcement to be the buffer that soaks up the bulk of module damage taken, while your two small MRPs are there to add additional %-Module-Resistance </i>
 
 - 2A AFMU
 - Hull Reinforcement Packages in the rest of the internal slots, fill military-slots first
