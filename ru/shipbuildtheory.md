@@ -2,7 +2,7 @@
 title: Теория сборки AX-корабля
 description: Подробное руководство по общей теории сборки АХ-кораблей
 published: опубликовано
-date: 2026-03-11T19:14:35.107Z
+date: 2026-03-13T21:55:29.723Z
 tags: сборка, теория, инженерные модификации, снаряжение
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -118,10 +118,13 @@ For more information on specific optional internal modules, refer to the [Option
 ## Холодные сборки
 - Largest possible D-rated repair limpet controller and 16t or 64t worth of cargo rack space
 - **3 !!** Module Reinforcement Packages. One class four or five GMRP and two smaller MRPs (class one or two)
-<i style="color: none"> Do NOT place any Module Reinforcements in military-slots, as modules in those slots take damage last. You want your largest Module Reinforcement to be the buffer that soaks up the bulk of module damage taken, while your two small MRPs are there to add additional %-Module-Resistance. Keep the buffer & resistance intact by regularly repairing your MRPs with your AFMU </i>
+<div style="margin-left: 3rem; margin-top: 1rem;"> 
+Your largest Module Reinforcement is the buffer that soaks up the bulk of module damage taken, while your two small MRPs stack additional %-Module-Resistance. Keep the buffer & resistance intact by regularly repairing your MRPs with your AFMU</div>
+<div style="margin-left: 3rem; margin-top: 1rem;"> 
+Do NOT place any Module Reinforcements in military-slots, as modules in those slots take damage last </div>
 
 - 2A or 3A AFMU
-- Hull Reinforcement Packages in the rest of the internal slots, fill military-slots first
+- Hull Reinforcement Packages in the rest of the internal slots, fill military-slots with HRPs first
 
 > The best setup and method for beginners and most experienced pilots alike. 
 > 
