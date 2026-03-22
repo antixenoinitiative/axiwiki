@@ -2,7 +2,7 @@
 title: Recommended Control Scheme
 description: Best suggested controls for Combat in Elite
 published: true
-date: 2026-03-22T04:12:27.751Z
+date: 2026-03-22T15:22:30.584Z
 tags: combat, controls
 editor: markdown
 dateCreated: 2021-06-21T04:46:46.489Z
@@ -29,6 +29,9 @@ On top of the thruster binds you will need:
 -   Shutdown field neutralizer (for builds that include it)
 
 # Input Settings
+
+Recommended Ship Control Options and Input Setups for Mouse, Stick (main-hand) and Controller.
+
 # {.tabset}
 ## Mouse
 
@@ -60,7 +63,7 @@ This is once again a very personal choice that will depend on preference, as is 
 
 When used for space-sim games such as Elite, with Flight-Assist off and mostly fixed weapons in mind, the broad default recommendations are:
 - **Soft-Center to Medium-Center Cams**
-For Space-sim flight (especially with FA off and aiming in mind) we do not require much centering effect nor bump. Smoother cross-axis motion and fine-tune range in the center is preferable.
+For Space-sim flight (especially with FA off and aiming in mind) we do not require much centering effect nor bump. Smoother cross-axes motion and fine-tune range in the center is preferable.
 - **Medium-strength Springs**
 Do not use springs that are too weak, especially when already using a softer clam for smoothness. Let the spring give you some feedback on your motion.
 <span></span>
@@ -68,19 +71,29 @@ But consider that the Stick will sometimes be held in a certain position for ext
 <span></span>
 A spring in the medium ranges is often prefered.
 
-### Response Curves
+### Response/Power Curves
 
 Many players find it difficult to precisely control their ship with linear input by default. Even more so with the very fine-tune back and forth adjustments that are required to fly & aim steadily during Flight-Assist Off flying.
 
-A lot of practice can let players adjust to that, but another good option, to make this easier, are response curves. The goal with response curves, in this case, is to soften the initial input rate of the axis' center on your stick. This will make the small fine-tune inputs required for precise FA Off flying easier, while still allowing for high rate input further along the outer part of the axis.
+A lot of practice can let players adjust to that, but another good option, to make this easier, are response curves. The goal with response curves, in this case, is to soften the initial input rate of the axes' center on your stick. This will make the small fine-tune inputs required for precise FA Off flying easier, while still allowing for high rate input further along the outer part of the axis.
 
 Elite Dangerous does not have an option for response curves, so you will need other software. Some sticks will have their own software from the manufacturer, but this will not always be the case and sometimes these softwares can be lackluster.
 
 Our recommended third party alternative is the open-source software [Joystick Gremlin](https://whitemagic.github.io/JoystickGremlin/download.html), together with [vJoy](https://sourceforge.net/projects/vjoystick/).
 
 1. Setup vJoy. Your device inputs will be mapped to virtual device inputs.
-2. Setup Joystick Gremlin. Select the vJoy virtual inputs and make  response curves for the virtual axis you want to modify.
-3. Bind the newly setup virtual axis-inputs inside your Elite Dangerous settings. Use the Input Repeater option within Joystick Gremlin and let Elite detect the virtual inputs repeated after your analogue inputs seperately, during the re-binding process. After binding the virtual axis in-game you can turn off the Input Repeater.
+2. Setup Joystick Gremlin. Select the vJoy virtual inputs and make  response curves for the virtual axes you want to modify.
+3. Bind the newly setup virtual axes-inputs inside your Elite Dangerous settings. Use the Input Repeater option within Joystick Gremlin and let Elite detect the virtual inputs repeated after your analogue inputs seperately, during the re-binding process. After binding the virtual axis in-game you can turn off the Input Repeater.
+
+## Controller (Gamepad)
+
+These Controller Settings were made with the intent to emulate axes from shooter games to make it intuitive, and controls were remapped from scratch specifically for cold orbiting.
+- All the aim on one stick, and forward/back movement on the other.
+- Roll is important to give an analogue axis to, so it gets put in the last available axis on the sticks. 
+- Up/down thrust gets very heavy use and needs to be put somewhere that is comfortable to hold while still being able to use both analogue sticks; That's the shoulder buttons. 
+- Lateral thrusters are kind of an odd one out, not _needed_ for AX, but still useful for landing etc. The only available place remaining is clicking the analogue stick anyway.
+
+![controller.webp](/controller.webp)
 
 # Fire Groups & Binds
 
