@@ -2,7 +2,7 @@
 title: AX Ship Engineering
 description: An AX-focused engineer unlocking and travel guide.
 published: true
-date: 2026-03-24T14:33:02.709Z
+date: 2026-03-24T14:37:10.247Z
 tags: engineering
 editor: markdown
 dateCreated: 2023-02-13T17:37:07.496Z
@@ -46,12 +46,14 @@ While Farseer does not provide any unique grade five blueprints, it is highly re
 # How To Unlock
 A few guides exist on how to unlock engineers. The rough overview is that each engineer needs two things met: some achivement, and some cargo delivery.
 
+An overview of Engineer referals and requirements can be found [here](https://inara.cz/elite/engineers/#tab_engineersunlocks).
+
 > <a style='font-size: 1.25rem;'>Unclassified Relic Skip</a>
 <span></span>
 It should be noted that bringing an Unclassified Relic (guardian-thargoid hybrid) to Arque or Meene bypasses Palin's and Ram Tah's meeting-requirements and referals.  
 You will still need to do their delivery task.
 <span></span>
-You may be able to acquire such a relic by asking in the [Anti-Xeno Initiative Discord](https://discord.gg/antixenoinitiative)'s training-channels.
+You may be able to acquire such a relic by asking in the [Anti-Xeno Initiative Discord](https://discord.gg/antixenoinitiative) training-channels.
 For making your own Unclassified Relic you will need a regular Guardian Relic and transform it at an active Thargoid-Surface Site.
 
 Some CMDRs, particularly those purchasing the game after the release of the Odyssey expansion, report having access to certain engineers without meeting the prerequisites for unlock. These include:
