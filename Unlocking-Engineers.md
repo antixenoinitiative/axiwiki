@@ -2,17 +2,14 @@
 title: AX Ship Engineering
 description: An AX-focused engineer unlocking and travel guide.
 published: true
-date: 2025-01-27T20:34:45.021Z
+date: 2026-03-24T14:33:02.709Z
 tags: engineering
 editor: markdown
 dateCreated: 2023-02-13T17:37:07.496Z
 ---
 
 # Unlocking AX Engineers
-This guide aims to provide the most efficient ways for unlocking engineers neccesary for anti-xeno combat.
-
-> You DO NOT have to max out the previous grade of an engineering blueprint before applying the next. A module only stores one grade of engineering, so each higher grade replaces previous ones.
-{.is-warning}
+This guide aims to provide the most efficient ways for unlocking engineers ***neccesary for anti-xeno combat***.
 
 # Required Engineers
 For a shieldless ship, the following components should be engineered at a minimum:
@@ -38,7 +35,7 @@ When starting out, some engineers can be skipped. This gives us a minimal list o
 ## Full List
 Since many of these engineers have pre-requisites, the full list of engineers who must be unlocked is much longer.
 The full list is as follows (> denotes referrals):
-- Elvira Martuuk > Marco Qwent > Professor Palin
+- Elvira Martuuk > Marco Qwent > Professor Palin (Palin pre-requisites can be skipped with a trick, see further below)
 - Felicity Farseer (optional, but highly recommended)
 - The Dweller > Lei Cheung
 - Todd McQuinn > Selene Jean
@@ -48,9 +45,14 @@ While Farseer does not provide any unique grade five blueprints, it is highly re
 
 # How To Unlock
 A few guides exist on how to unlock engineers. The rough overview is that each engineer needs two things met: some achivement, and some cargo delivery.
-A guide for unlocking engineers can be found [here](https://cmdrs-toolbox.com/guides/engineering-unlock).
 
-> It should be noted that bringing a guardian-thargoid hybrid relic to Arque bypasses Palin's 5000ly travel requirement.  You may be able to acquire such a relic bi asking in the [Anti-Xeno Initiative Discord](https://discord.gg/antixenoinitiative).
+> <a style='font-size: 1.25rem;'>Unclassified Relic Skip</a>
+<span></span>
+It should be noted that bringing an Unclassified Relic (guardian-thargoid hybrid) to Arque or Meene bypasses Palin's and Ram Tah's meeting-requirements and referals.  
+You will still need to do their delivery task.
+<span></span>
+You may be able to acquire such a relic by asking in the [Anti-Xeno Initiative Discord](https://discord.gg/antixenoinitiative)'s training-channels.
+For making your own Unclassified Relic you will need a regular Guardian Relic and transform it at an active Thargoid-Surface Site.
 
 Some CMDRs, particularly those purchasing the game after the release of the Odyssey expansion, report having access to certain engineers without meeting the prerequisites for unlock. These include:
 
