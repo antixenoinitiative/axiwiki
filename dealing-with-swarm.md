@@ -2,7 +2,7 @@
 title: Dealing with the Swarm
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2026-03-27T02:58:43.357Z
+date: 2026-03-27T03:18:23.131Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -166,14 +166,16 @@ The low accuracy of the swarm’s caustic projectiles against shieldless targets
 
 ## Flakless Orbit
 
-This does require a fair bit of situational awareness and orbital finesse, as pilots must adjust their orbit around the interceptor to prevent agitations. **Watch your radar contacts closely.**
+This does require a fair bit of situational awareness and orbital finesse, as pilots must adjust their orbit around the interceptor to prevent agitations. **Watch your radar contacts closely**.
+
+The guiding principal of flakless orbit is that we **orient the travel path of our orbit, so that we move away from the swarm and do not  intersect it**, while firing on the Interceptor.
 
 ### Orientation
 
-The main vector in a traditional orbit is downwards. The easiest way to manage the swarms position is to orient your ship to keep the swarm above you as you orbit. The swarm will try to follow you but never catch up and not intersect with you, if you keep this up correctly.
+The main vector in a traditional orbit is downwards. The easiest way to manage the swarms position is to orient your ship to keep the swarm above you as you orbit. The swarm will try to follow you, but not catch up and not intersect with you, if you keep this up correctly.
  
 Use roll to adjust your orientation - **you want the swarm to stay at the top (or above) of your screen while orbiting**. 
-(Take care not to over-roll, quick 180° flips or full 360° rolls, while mainting downwards thrust, will risk stalling as your former vector will work against your current thrust direction.)
+(Take care not to over-roll, you can risk stalling as your former vector will work against your current thrust direction if they flip.)
 
 ### Insert
 
@@ -181,7 +183,7 @@ When inserting into an Orbit with the swarm present, it is good to have a mapped
 
 One of the easiest and safest methods is to do a clean insert from distance by beginning in reverski;
 - Take note of the swarms and interceptors position
-- Orient your ship like described previously
+- Orient your ship like described previously, swarm above
 - Give downwards thrust to build a vector of movement
 - Slow down and let the Interceptor slowly catch up to you
 - Use a little roll to ensure the swarm does not intersect as you aproach, keep it at the top / side of your screen
