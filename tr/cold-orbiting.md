@@ -2,7 +2,7 @@
 title: Cold Orbiting
 description: How to avoid damage using cold orbiting
 published: true
-date: 2025-12-08T23:45:17.819Z
+date: 2026-04-24T07:09:30.834Z
 tags: combat, thargoids, interceptors
 editor: markdown
 dateCreated: 2021-06-21T02:18:39.016Z
@@ -36,18 +36,7 @@ Cold Orbiting is a very dense topic; here is a collection of Tutorials that AX C
 <div class="iframeContainer">
     <iframe src="https://www.youtube.com/embed/TpMPMzQFTD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
 </div>
-<div class="iframeContainer">
-    <iframe src="https://www.youtube.com/embed/qlfBwcsqEY0?si=RL5ZdDENKrvpwABx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
-</div>
-<div class="iframeContainer">
-    <iframe src="https://www.youtube.com/embed/pziSAAzUWWY?si=zt3i8X9W8EFcszCP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
-</div>
-<div class="iframeContainer">
-    <iframe src="https://www.youtube.com/embed/cofy2Vrx6LQ?si=m5SgXoTqNjMXIupf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
+
 <div class="iframeContainer">
     <iframe src="https://www.youtube.com/embed/fefFYJg3RGU?si=k_82AIsNCNfhlRci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
-</div><div class="iframeContainer">
-    <iframe src="https://www.youtube.com/embed/zFbqkSZAr8E?si=CLfD0nnWk28-DpOm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
