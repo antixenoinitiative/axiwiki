@@ -2,7 +2,7 @@
 title: Guide du Speedrun
 description: Vous pouvez tuer des thargoids ? Oui ? Mais pouvez-vous les tuer rapidement ?
 published: true
-date: 2026-03-09T14:56:31.968Z
+date: 2026-04-24T07:10:54.971Z
 tags:
 editor: markdown
 dateCreated: 2021-06-10T13:56:57.206Z
@@ -150,13 +150,6 @@ The name "Impossible Shot" is a keepsake of the days when gauss still dominated 
 View the [Speedrun Builds](/en/speedrunbuilds) page for a collection of recommended builds specialised for speedruns.
 
 # Speedrunning Guides
-
-A great Tutorial Video on YouTube for newcomers to stunlocking:
-- [https://www.youtube.com/watch?v=cdvLDxQReq0](https://www.youtube.com/watch?v=cdvLDxQReq0)
-
-<div class="iframeContainer">
-    <iframe src="https://www.youtube.com/embed/cdvLDxQReq0?si=MSvLJMwSFs--qRim" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture; encrypted-media" allowfullscreen=""></iframe>
-</div>
 
 A comprehensive guide on NHSS loop Baslisk farming:
 - ["Goid Opal Mining" - Basilisk Farming](/en/basi-farming)
