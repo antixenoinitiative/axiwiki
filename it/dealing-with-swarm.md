@@ -1,8 +1,8 @@
 ---
-title: Dealing with the Swarm
+title: Swarm Management
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2026-03-27T03:18:23.131Z
+date: 2026-06-17T11:19:11.840Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
