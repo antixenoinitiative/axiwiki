@@ -2,7 +2,7 @@
 title: Gemi Donatım Teorisi
 description: Genel AX donatım teorisine yönelik kapsamlı rehber
 published: true
-date: 2026-03-13T21:55:29.723Z
+date: 2026-06-17T11:34:18.697Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -49,6 +49,12 @@ The placement of your hardpoints matters, especially when it comes to sniping ex
 ## Yaygın Hatalar
 
 [Burada](/en/commonmistakes) bahsettiğimiz yaygın görülen hataları yapmaktan kaçının.
+
+# AX Weapons
+
+> Please view our dedicated [Weapons Page](/en/weapons). 
+> 
+> {.is-info}
 
 
 # Core Internals
@@ -107,11 +113,14 @@ Core Internals stay largely the same across different AX build types, similarly 
 
 **Alternatives:** No Engineering to save materials. Lightweight when necessary.
 
-# Optional Internals
+# Optional Internal Loadout
 
 Burası gemiler arasındaki ana farkların oluşmaya başladığı yerdir ve kumandanların kendi tercihlerine göre farklılık gösterebilir. Below are the three general loadouts to use:
 
-For more information on specific optional internal modules, refer to the [Optionals & Utility Page](/en/optionals) page.
+> For more information on specific optional internal modules, refer to the [Optionals & Utility Page](/en/optionals) page. 
+> 
+> {.is-info}
+
 
 # {.tabset}
 
@@ -157,6 +166,11 @@ Do NOT place any Module Reinforcements in military-slots, as modules in those sl
 
 # Utility Slots
 
+> For more details and instructions on Xeno Scanners, Shutdown Field Neutralizers, and other optional and utility modules see the [Optionals & Utility](/en/optionals) page. 
+> 
+> {.is-info}
+
+
 ## Heatsink Launcher
 Essential for Cold Oribing vessels to dissipate the heat generation of their weapons. Bi-Weave Hibritleri ve Soğuk Yörüngeciler'in, tamamı olmasa da çoğu slotuna bunlar yüklenecektir. Ammo Capacity mühendisliğiyle yükseltmek fazladan bir adet heatsink daha taşımalarını sağlar (sentezlediğinizde de bu fazladan heatsinke sahip olursunuz). There is also a pre-engienered variant, called "Sirius sinks," which come with two extra heatsinks per launcher.
 
@@ -174,6 +188,3 @@ There are two variants of neutralizers: the Shutdown Field Neutralizer (SFN) and
 
 ## Shield Boosters
 Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
-
-## Other Modules
-For more detailed information and instructions on Xeno Scanners, Shutdown Field Neutralizers, and other optional and utility modules see the [Optionals & Utility](/en/optionals) page.
