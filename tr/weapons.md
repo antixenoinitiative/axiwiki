@@ -2,7 +2,7 @@
 title: Silahlar
 description: Anti-Xeno silahlarına dair detaylı analizler
 published: true
-date: 2026-06-17T10:45:49.634Z
+date: 2026-06-17T11:17:45.967Z
 tags: outfitting, modules
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
@@ -45,7 +45,7 @@ Currently the only effective weapon to deal with Thargon Swarms. And limited to 
 
 **Note:** Does not count against the 4 experimental weapon limit.
 
-# Guardian Unlock
+# Guardian
 
 Regular Guardian Weapons are one-time unlocks at Guardian Techbrokers, after which they become available to purchase for credits inside outfitting. Highly recommended.
 
@@ -73,7 +73,7 @@ Similar to a Plasma Accelerator, but poor armour penetration value makes it less
 
 **Note:** Turreted version not viable/working
 
-# Default Outfitting
+# Human
 
 Regular Human AX Weapons are available in outfitting by default. Greatly outclassed by Guardian weapons and Modified versions, but the lowest barrier of entry to AX.
 
