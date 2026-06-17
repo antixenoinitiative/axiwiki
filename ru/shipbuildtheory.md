@@ -2,7 +2,7 @@
 title: Теория сборки AX-корабля
 description: Подробное руководство по общей теории сборки АХ-кораблей
 published: опубликовано
-date: 2026-03-13T21:55:29.723Z
+date: 2026-06-17T11:34:18.697Z
 tags: сборка, теория, инженерные модификации, снаряжение
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -49,6 +49,12 @@ The placement of your hardpoints matters, especially when it comes to sniping ex
 ## Распространённые ошибки
 
 Избегайте этих распространённых ошибок, перечисленных [здесь](/en/commonmistakes).
+
+# AX Weapons
+
+> Please view our dedicated [Weapons Page](/en/weapons). 
+> 
+> {.is-info}
 
 
 # Основные системы
@@ -107,11 +113,14 @@ Core Internals stay largely the same across different AX build types, similarly 
 
 **Alternatives:** No Engineering to save materials. Lightweight when necessary.
 
-# Дополнительное оборудование
+# Optional Internal Loadout
 
 Необязательные внутренние модули — это то, в чём заключаются основные различия между стилями сборки, и даже может меняться от собственных вариантов сборок разных командиров. Below are the three general loadouts to use:
 
-For more information on specific optional internal modules, refer to the [Optionals & Utility Page](/en/optionals) page.
+> For more information on specific optional internal modules, refer to the [Optionals & Utility Page](/en/optionals) page. 
+> 
+> {.is-info}
+
 
 # {.tabset}
 
@@ -157,6 +166,11 @@ Do NOT place any Module Reinforcements in military-slots, as modules in those sl
 
 # Внешнее оборудование
 
+> For more details and instructions on Xeno Scanners, Shutdown Field Neutralizers, and other optional and utility modules see the [Optionals & Utility](/en/optionals) page. 
+> 
+> {.is-info}
+
+
 ## Теплоотводная катапульта
 Essential for Cold Oribing vessels to dissipate the heat generation of their weapons. Большинство, если не все слоты внешнего оборудования будут заполнены ими на кораблях сборок для «Холодной орбиты» и гибридных сборок с двухпоточным щитом. Применяемая для них модификация «Вместимость припасов теплоотвода» даёт один дополнительный теплоотвод на пусковую установку. There is also a pre-engienered variant, called "Sirius sinks," which come with two extra heatsinks per launcher.
 
@@ -174,6 +188,3 @@ There are two variants of neutralizers: the Shutdown Field Neutralizer (SFN) and
 
 ## Shield Boosters
 Obviously useless on Cold Orbiters, Bi-Weave hybrids usually run 1-2 while Large Shield Tanks run 6-7. Engineering them with Heavy Duty blueprint and Super Capacitors experimental provides the most raw MJ boost.
-
-## Other Modules
-For more detailed information and instructions on Xeno Scanners, Shutdown Field Neutralizers, and other optional and utility modules see the [Optionals & Utility](/en/optionals) page.
