@@ -2,7 +2,7 @@
 title: Théorie pour l'Equipement de Vaisseaux
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2026-06-18T16:05:27.331Z
+date: 2026-06-18T16:24:05.675Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -145,8 +145,8 @@ The optional internal loadout is where the main differences lie between build st
 3. Do NOT place any Module Reinforcements in military-slots, as modules in those slots take damage last
 </div>
 
-- 2A or 3A AFMU
-- Hull Reinforcement Packages in the rest of the internal slots, fill military-slots with HRPs first
+- **2A or 3A AFMU**. The usual sweet spot of slot-size and need. Requiring more during solo fights should be the exception, and can be resolved with synthing. AXCZ-builds can equip more to meet their needs if necessary
+- Hull Reinforcement Packages in the rest of the internal slots, **fill military-slots with HRPs first**
 
 > The best setup and method for beginners and most experienced pilots alike. 
 > 
