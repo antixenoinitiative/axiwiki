@@ -2,7 +2,7 @@
 title: Ship Build Theory
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2026-06-17T11:34:18.697Z
+date: 2026-06-18T12:30:47.278Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -76,9 +76,8 @@ Core Internals stay largely the same across different AX build types, similarly 
 
 **Alternatives:** 
 
-- Monstered Experimental - provides a little extra juice when needed, at the cost of slightly worse thermals.
-- Low Emissions blueprint with Monstered experimental - A high grade of LE can allow a ship to idle under 20% heat.
-- Overcharged blueprint  - should only be used when absolutely necessary, and to the lowest grade possible.
+- Monstered Experimental - provides a little extra juice when needed, at the cost of slightly worse passive thermals.
+- Overcharged blueprint  - use when necessary.
 
 ## Thrusters
 
@@ -124,12 +123,18 @@ The optional internal loadout is where the main differences lie between build st
 # {.tabset}
 
 ## Cold Orbiters
-- Largest possible D-rated repair limpet controller and 16t or 64t worth of cargo rack space
-- **3 !!** Module Reinforcement Packages. One class four or five GMRP and two smaller MRPs (class one or two) 
-<div style="margin-left: 3rem; margin-top: 1rem;"> 
-Your largest Module Reinforcement is the buffer that soaks up the bulk of module damage taken, while your two small MRPs stack additional %-Module-Resistance. Keep the buffer & resistance intact by regularly repairing your MRPs with your AFMU</div> 
-<div style="margin-left: 3rem; margin-top: 1rem;"> 
-Do NOT place any Module Reinforcements in military-slots, as modules in those slots take damage last </div>
+- **Largest possible D-rated repair limpet controller** and some cargo rack space to carry limpets. *(Usually 16t - 64t on meta builds)*
+- **`3` D-rated Module Reinforcement Packages**. 1 as large as is practical, 2 in smaller slots. *(For example; a meta-chieftain carries one 5D, a 2D and 1D MRPs. Ships with little internal space can make due with 2 MRPs if absolutely necessary)*
+<div style="margin-left: 3rem; margin-top: 0rem;">
+  
+1. D-rated MRPs each grant 60% Module resistance. Our goal is to stack those resistances on shieldless ships. 3 MRPs grant us ~94% through multiplicative stacking. 
+
+2. The largest Module Reinforcement is the buffer that soaks up the bulk of module damage taken. The two smaller MRPs are mostly there for stacking the resistance percentage. 
+  
+3. Keep the buffer & resistance intact by regularly repairing your MRPs with your AFMU.
+  
+3. Do NOT place any Module Reinforcements in military-slots, as modules in those slots take damage last
+</div>
 
 - 2A or 3A AFMU
 - Hull Reinforcement Packages in the rest of the internal slots, fill military-slots with HRPs first
