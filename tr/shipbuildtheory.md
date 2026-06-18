@@ -2,7 +2,7 @@
 title: Gemi Donatım Teorisi
 description: Genel AX donatım teorisine yönelik kapsamlı rehber
 published: true
-date: 2026-06-17T11:34:18.697Z
+date: 2026-06-18T12:30:47.278Z
 tags: builds, theory, engineering, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:08:57.783Z
@@ -77,9 +77,8 @@ Core Internals stay largely the same across different AX build types, similarly 
 
 **Alternatifler:**
 
-- Monstered deneyseli - Daha fazla güç ihtiyacınız varsa, biraz daha kötü termal performans sunar.
-- Low Emissions ve Monstered mühendislikleri - Yüksek seviye LE mühendisliği geminizin rölantide 20% sıcaklığın altında kalmasını sağlar.
-- Overcharged yükseltmesi - Yalnızca başka çareniz yoksa, gereken en düşük seviyede alınmalıdır.
+- Monstered Experimental - provides a little extra juice when needed, at the cost of slightly worse passive thermals.
+- Overcharged blueprint  - use when necessary.
 
 ## Thrusters
 
@@ -125,12 +124,18 @@ Burası gemiler arasındaki ana farkların oluşmaya başladığı yerdir ve kum
 # {.tabset}
 
 ## Soğuk Yörüngeciler
-- Largest possible D-rated repair limpet controller and 16t or 64t worth of cargo rack space
-- **3 !!** Module Reinforcement Packages. One class four or five GMRP and two smaller MRPs (class one or two)
-<div style="margin-left: 3rem; margin-top: 1rem;"> 
-Your largest Module Reinforcement is the buffer that soaks up the bulk of module damage taken, while your two small MRPs stack additional %-Module-Resistance. Keep the buffer & resistance intact by regularly repairing your MRPs with your AFMU</div>
-<div style="margin-left: 3rem; margin-top: 1rem;"> 
-Do NOT place any Module Reinforcements in military-slots, as modules in those slots take damage last </div>
+- **Largest possible D-rated repair limpet controller** and some cargo rack space to carry limpets. *(Usually 16t - 64t on meta builds)*
+- **`3` D-rated Module Reinforcement Packages**. 1 as large as is practical, 2 in smaller slots. *(For example; a meta-chieftain carries one 5D, a 2D and 1D MRPs. Ships with little internal space can make due with 2 MRPs if absolutely necessary)*
+<div style="margin-left: 3rem; margin-top: 0rem;">
+  
+1. D-rated MRPs each grant 60% Module resistance. Our goal is to stack those resistances on shieldless ships. 3 MRPs grant us ~94% through multiplicative stacking. 
+
+2. The largest Module Reinforcement is the buffer that soaks up the bulk of module damage taken. The two smaller MRPs are mostly there for stacking the resistance percentage. 
+  
+3. Keep the buffer & resistance intact by regularly repairing your MRPs with your AFMU.
+  
+3. Do NOT place any Module Reinforcements in military-slots, as modules in those slots take damage last
+</div>
 
 - 2A or 3A AFMU
 - Hull Reinforcement Packages in the rest of the internal slots, fill military-slots with HRPs first
@@ -155,7 +160,7 @@ Do NOT place any Module Reinforcements in military-slots, as modules in those sl
 ## Kalkan Tankları
 - Alınabilecek en büyük Prismatic kalkan - Reinforced ve Hi-Capacity mühendislikleriyle.
 - Büyük SCB'ler - Specialized ve Boss Cells mühendislikleriyle.
-- Bir ya da iki adet GMRP veya MRP
+- One or two GMRPs or MRPs
 - AFMU, boyutu tercihe kalmış.
 - Diğer slotlarda HRP'ler.
 
