@@ -2,7 +2,7 @@
 title: Waffen
 description: Detailed breakdown of Anti-Xeno Weaponry
 published: true
-date: 2026-06-17T11:17:45.967Z
+date: 2026-06-18T20:01:28.958Z
 tags: Ausrüsten, Module
 editor: markdown
 dateCreated: 2021-06-10T04:04:18.230Z
@@ -85,9 +85,9 @@ AXMCs come in two types - Turreted and Fixed, and in two sizes - Medium and Larg
 
 ## Enhanced AX Multi-Cannon
 
-These improved AXMCs currently only come in fixed, gimballed, and turreted forms. They come with a marginal increase to damage, as well as a large  increase in shot speed. Overall, they are a small upgrade from regular AXMCs, but still better in all regards and far more usable. The gimballed variants are the best, dealing nearly as much damage as fixed and coming with a great tracking arc. With a xeno scan, these can even be effective at killing cyclops.
+These improved AXMCs come in fixed, gimballed, and turreted forms. They come with a marginal increase to damage, as well as a large  increase in shot speed. Overall, they are a small upgrade from regular AXMCs, better in all regards and far more usable. The gimballed variants are the best, dealing nearly as much damage as fixed and coming with a great tracking arc. With a xeno scan, these can even be effective at killing cyclops.
 
-**Recommendation:** Great for scouts, viable for cyclops
+**Recommendation:** Great for scouts, viable for cyclops-basilisk
 
 **Note:** Large Hardpoint (Class 3) EAXMCs outperform medium hardpoint (Class 2) EAXMCs very significantly.
 
