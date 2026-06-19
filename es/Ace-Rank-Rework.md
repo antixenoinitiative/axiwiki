@@ -2,11 +2,16 @@
 title: Ace Rank Rework of September 2021
 description:
 published: true
-date: 2022-09-26T21:45:25.143Z
+date: 2026-06-19T18:54:34.330Z
 tags: admin
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
 ---
+
+> Archived, the Ace rank has been retired. 
+> 
+> {.is-danger}
+
 
 # La reforma del Rango de Ace (As) de Septiembre de 2021
 Esta página contiene la historia y detalles detrás de la Calculadora de Puntaje de Ace, para que futuros CMDRs accedan para referencia.
