@@ -2,11 +2,16 @@
 title: Eylül 2021 Ace Rütbesi Yenilenmesi
 description:
 published: true
-date: 2022-09-26T21:45:25.143Z
+date: 2026-06-19T18:54:34.330Z
 tags: admin
 editor: markdown
 dateCreated: 2021-09-03T01:21:34.494Z
 ---
+
+> Archived, the Ace rank has been retired. 
+> 
+> {.is-danger}
+
 
 # Eylül 2021 Ace Rütbesi Yenilenmesi
 Bu sayfa, Ace Skor Hesaplayıcısı'nın geçmişi ve detayları hakkında bilgi içerir.
