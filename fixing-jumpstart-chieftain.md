@@ -2,7 +2,7 @@
 title: AX Jumpstart Chieftain
 description: Learn about the things wrong with the jumpstart build, and how to fix them.
 published: true
-date: 2026-08-16T17:45:02.814Z
+date: 2026-08-16T17:46:39.750Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T17:45:02.814Z
@@ -18,9 +18,9 @@ The mixed loadout, sacrificed internal-space, and shielded setup do not make use
 
 The jumpstart prebuild is fundamentally flawed, and the effort required to fix it largely negates the intended shortcut for all but the newest Commanders. **There are better ways to spend your ARX.**
 
-### What to do with the Prebuild
+### What to do with the Prebuild if you already have it
 
-Okay, you already bought it, what now? 
+Okay, you already purchased it, what now? 
 The Chieftain is a great AX ship, the prebuild can be saved, but it will take some work. 
 
 The engineered Thrusters are its best aspect. The cheaper rebuy may be useful for very new Commanders, even if it does little to offset the build's poor effectiveness and survivability, often leading to more deaths overall in its stock configuration. 
