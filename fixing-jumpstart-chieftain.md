@@ -2,7 +2,7 @@
 title: AX Jumpstart Chieftain
 description: Learn about the things wrong with the jumpstart build, and how to fix them.
 published: true
-date: 2026-08-16T18:22:32.170Z
+date: 2026-08-16T18:55:32.749Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T17:45:02.814Z
@@ -80,6 +80,7 @@ List of the minimum recommended engineering steps.
 	Long-Range engineering (at least G3) **+ Thermal Vent Experimental**. Up to Grade 3 can be done in `WYRD by The Dweller`.
 2. The Distributor is (together with Thrusters) the most important module for AX. Engineer it with Charge Enhanced + Super Conduits Experimental. This can also be done in `WYRD by The Dweller`.
 3. Engineer your Heatsinks with Ammo capacity. This can be done in `MEENE by Ram Tah`.
+	Alternatively, the pre-engineered Sirius Heatsinks are the best option available.. for a price. Find out more with /preengineered on our discord!
 4. Engineer your Power Plant to supply your upgraded modules with enough power. Armored Engineering will do the trick. `Felicity Farseer in DECIAT` offers G1, `Marco Qwent in SIRIUS` G4. Both are accessible very early.
 5. A Frameshift Drive with Longer Range adds a lot of quality-of-life. `Felicity Farseer in DECIAT`.
 
