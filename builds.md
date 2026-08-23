@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2026-08-23T14:27:30.855Z
+date: 2026-08-23T14:34:06.205Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -64,6 +64,8 @@ Recommended: [Meta Build](https://edsy.org/#/L=J900000H4C0S40,LYS10LYS10L3I10LXC
 
   The Corsair, while not as maneuverable as the chief or challenger, provides great damage output, versatility and speed. The Corsairs' massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively. It is the recommended medium with the most survivability. This is also a great platform for mounting Enhanced AXMCs for commanders who do not yet have access to guardian tech.
 
+The recommended medium ship with the most durability and versatility.
+
   - Speed: ⭐⭐⭐⭐⭐
   - Agility: ⭐⭐⭐
   - Armour: ⭐⭐⭐⭐⭐
@@ -98,6 +100,8 @@ Also known as the “Easy Mode” Corsair. Two medium Modplasmas combined with t
   #### **Krait Mk.II (Shieldless)**
 
   The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively (when dropping Flak). This is also a great platform for mounting Enhanced AXMCs for commanders who do not yet have access to guardian tech.
+
+Very versatile and an excellent boost-orbiter.
 
   - Speed: ⭐⭐⭐⭐⭐
   - Agility: ⭐⭐⭐
