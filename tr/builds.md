@@ -2,7 +2,7 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2025-12-21T12:31:59.699Z
+date: 2026-08-23T14:25:17.093Z
 tags: builds
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -52,7 +52,35 @@ When starting out, stick to the tried and true. These are our Meta picks. The mo
   - Kalkan:
   - Firepower: ⭐⭐⭐⭐
 
-  [Meta Build](https://edsy.org/#/L=J900000H4C0S40,LYS10LYS10L3I10LXC10LXC10EhtH07P_W0,CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00,9onG05I_W0AAAG03K_W0APoG05I_W0AdtG05J_W0AtyJ03G_W0B8gG03L_W0BLeG05G_W0Bb600,15OG05I_W015OG05I_W015OG05I_W0,25T006kK20072000Iw2020n001-D00,Meta_0AX_0Chieftan,AXIN)
+Recommended: [Meta Build](https://edsy.org/#/L=J900000H4C0S40,LYS10LYS10L3I10LXC10LXC10EhtH07P_W0,CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00,9onG05I_W0AAAG03K_W0APoG05I_W0AdtG05J_W0AtyJ03G_W0B8gG03L_W0BLeG05G_W0Bb600,15OG05I_W015OG05I_W015OG05I_W0,25T006kK20072000Iw2020n001-D00,Meta_0AX_0Chieftan,AXIN)
+
+
+  ### Corsair (Shieldless) !\[corsair.png\](/img/corsair.png =250x){.align-right} #### **Corsair (Shieldless)**
+
+  The Corsair, while not as maneuverable as the chief or challenger, provides great damage output, versatility and speed. The Corsairs' massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively. It is the recommended medium with the most survivability. This is also a great platform for mounting Enhanced AXMCs for commanders who do not yet have access to guardian tech.
+
+  - Speed: ⭐⭐⭐⭐⭐
+  - Agility: ⭐⭐⭐
+  - Armour: ⭐⭐⭐⭐⭐
+  - Shield:
+  - Firepower: ⭐⭐⭐⭐⭐
+
+  Engineering Note: Can comfortably use the same power plant as meta chieftain or even unengineered 6A or 7A, depending on your preferences between power priorities, speed and material or rebuy cost. Check EDSY for minimum engineering based on your specific build.
+
+Recommended Build:  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JH00000H4C0S40,LYS10LYS10EkhG07P_W0LYS10LYS10L3I00,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABk00ARMG05I_W0AdtJ-bJ0060upD6upD8qpDE_PcGzcQKsPcAsO00BAEG03L_W0BOmG05G_W0Bcg00,,6kK0016yG05I_W016yG05I_W016yG05I_W016yG05I_W025S00072200KU2020m201-C00,Solo_0Corsair,AXI)
+
+<details>
+  <summary>Alternative Loudouts</summary>
+
+Our default recommendation are **Guardian Gauss cannons**, as one-time unlocks they pose a low entry bar. They are highly effective and using them teaches good habits for any AX pilot’s progression journey.
+
+The Corsair as a platform can wield other effective loadouts we can recommend to CMDRs looking for alternative weapon setups. `Note these require significantly more materials and effort to acquire.`
+
+- [Shieldless Build, Modified Shard Cannons](https://edsy.org/#/L=JH00000H4C0S40,LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEkhG07P_W0LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvL3I00,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABk00ARMG05I_W0AdtJ-bJ0060upD6upD8qpDE_PcGzcQKsPcAsO00BAEG03L_W0BOmG05G_W0Bcg00,,6kK0016yG05I_W016yG05I_W016yG05I_W016yG05I_W025S00072200KU2020m201-C00,Solo_0Corsair,AXI) Replaces medium Gauss Cannons with medium Modified Shard Cannons.
+
+- [Shieldless Build, Modified Plasma Chargers](https://edsy.org/#/L=JH00000H4C0S40,LYVH-YG0060vBh4zHx8y00Cw00H800KvLLEkhG07P_W0EkhG07P_W0LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvL3I00,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABk00ARMG05I_W0AdtJ-bJ0060upD6upD8qpDE_PcGzcQKsPcAsO00BAEG03L_W0BOmG05G_W0Bcg00,,6kK0016yG05I_W016yG05I_W016yG05I_W016yG05I_W025S00072200KU2020m201-C00,Solo_0Corsair,AXI) Three medium Modplasmas, positioned in the upper three hardpoints with the best convergence.
+
+- [Shieldless Build, Hybrid Weaponry](https://edsy.org/#/L=JH00000H4C0S40,L5110L5110L5110LYVH-YGxq60vBh4zHx8y00Cw00H800KvLLLYVH-YGxq60vBh4zHx8y00Cw00H800KvLLEjHG07P_W0,EAk00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABk00ARMG05I_W0AdtH-bJ0060upD6upD8qpDE_PcGzcQKsPcArw00BAEG03L_W0BOm00Bcg00,,0AA0016yG05I_W016yG05I_W016yG05I_W025S006kK200M2303Gm0020m001-C00,HYBRID_0Corsair,AXI) Also known as the “Easy Mode” Corsair. Two medium Modplasmas combined with three large gimballed pre-engineered Enhanced AX Multicannons. Note this build does not have flak and cannot destroy swarms. See a full [Video Guide](https://youtu.be/VrSiME2Mm7Y?is=Zlq-C9Ckvg4oCrjV) on this build. </details>
 
 
 
@@ -64,23 +92,30 @@ When starting out, stick to the tried and true. These are our Meta picks. The mo
   The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively (when dropping Flak). This is also a great platform for mounting Enhanced AXMCs for commanders who do not yet have access to guardian tech.
 
   - Speed: ⭐⭐⭐⭐⭐
-  - Agility: ⭐⭐⭐
+  - Çeviklik: ⭐⭐⭐
   - Armour: ⭐⭐⭐⭐
   - Shield:
   - Firepower: ⭐⭐⭐⭐⭐
 
-  You may drop flak for a fourth Gauss Cannon if you wish. Recommendation: Also great for modified shard cannons and plasma chargers.
-
   Engineering Note: Can comfortably use the same power plant as meta chieftain or even unengineered 6A or 7A, depending on your preferences between power priorities, speed and material or rebuy cost. Check EDSY for minimum engineering based on your specific build.
 
-  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JEA0000H4C0SC0,LYS17EkhH77P_W0LYS17L3I17LYS17,CjwG-YG002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwH-2G002P000S_00,9onG75I_W0AAA00APoGA5I_W0AdtJ05J_W0AsOHA3G_W0BAEGA3L_W0BOmHA5G_W0Bcg0A,,16yG75I_W016yG75I_W025S076kK20072000KU2713qG75I_W020m071-C07,Meta_0Krait,AXIN)
+Recommended:  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JEA0000H4C0SC0,LYS17EkhH77P_W0LYS17L3I17LYS17,CjwG-YG002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwH-2G002P000S_00,9onG75I_W0AAA00APoGA5I_W0AdtJ05J_W0AsOHA3G_W0BAEGA3L_W0BOmHA5G_W0Bcg0A,,16yG75I_W016yG75I_W025S076kK20072000KU2713qG75I_W020m071-C07,Meta_0Krait,AXIN) or flak-less: [Shieldless Build, 4 Gauss Cannons](https://edsy.org/#/L=JE00000H4C0S80,LYS10LYS10EkhG07P_W0LYS10LYS10,CjwG02G_W0CjwG02G_W0CjwG02G_W0CjwG02G_W0,9onG05I_W0ABk00APoG05I_W0AdsO05J_W0AsOG03G_W0BAEG03L_W0BOmG05G_W0Bcg00,,25T006kK0016yG05I_W016yG05I_W00720013qG05I_W00KU0020n001-D00,Solo_0Krait_04m)
+
+<details>
+  <summary>Alternative Loudouts</summary>
+
+Our default recommendation are **Guardian Gauss cannons**, as one-time unlocks they pose a low entry bar. They are highly effective and using them teaches good habits for any AX pilot’s progression journey.
+
+The Corsair as a platform can wield other effective loadouts we can recommend to CMDRs looking for alternative weapon setups. `Note these require significantly more materials and effort to acquire.`
+
+- [Shieldless Build, Modified Shard Cannons](https://edsy.org/#/L=JE00000H4C0S80,LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEkhG07P_W0LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXv,CjwG02G_W0CjwG02G_W0CjwG02G_W0CjwG02G_W0,9onG05I_W0ABk00APoG05I_W0AdsO05J_W0AsOG03G_W0BAEG03L_W0BOmG05G_W0Bcg00,,25T006kK0016yG05I_W016yG05I_W00720013qG05I_W00KU0020n001-D00,Solo_0Krait_04mSC) Note this build uses 4 guardian weapons and does not have Flak. It cannot destroy the swarm.
+
+- [Shieldless Build, Modified Plasma Chargers](https://edsy.org/#/L=JH00000H4C0S40,LYVH-YG0060vBh4zHx8y00Cw00H800KvLLEkhG07P_W0EkhG07P_W0LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvL3I00,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABk00ARMG05I_W0AdtJ-bJ0060upD6upD8qpDE_PcGzcQKsPcAsO00BAEG03L_W0BOmG05G_W0Bcg00,,6kK0016yG05I_W016yG05I_W016yG05I_W016yG05I_W025S00072200KU2020m201-C00,Solo_0Corsair,AXI) Replaces three medium Gauss Cannons with Modplasmas.
+
+</details>
 
 
-
-  ### Alliance Challenger (Shieldless)
-  !\[alliance-challenger.png\](/img/alliance-challenger.png =250x){.align-right}
-
-  #### **Alliance Challenger (Shieldless)**
+  ### Alliance Challenger (Shieldless) !\[alliance-challenger.png\](/img/alliance-challenger.png =250x){.align-right} #### **Alliance Challenger (Shieldless)**
 
   The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower alternative with higher damage output against an interceptor’s shields. Depending on preference, it can also have more raw hull than a standard Chieftain build. Its three medium hardpoints with good convergence make it a better platform for running modified Shard Cannons or Plasma Chargers, hence it is a popular option for AXCZ's as well.
 
@@ -92,29 +127,21 @@ When starting out, stick to the tried and true. These are our Meta picks. The mo
   - Shield:
   - Firepower: ⭐⭐⭐⭐
 
-  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JD50000H4C0S40,L3I17LYS17LYS17LYS17EhtH57P_W0EhtH77P_W0EhtH77P_W0,CjwG-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00,9onG75I_W0AAAG53K_W0APoG55I_W0AdtJ05J_W0AtyH53G_W0B8gG53L_W0BLeH55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T076kK2005U0A05U070Iw2A20n071-D07) [Shieldless Build, Shard Cannons](https://edsy.org/#/L=JD50000H4C0S40,LYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEhtH57P_W0EhtH77P_W0EhtH77P_W0,CjwG-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00,9onG75I_W0AAAG53K_W0APoG55I_W0AdtJ05J_W0AtyH53G_W0B8gG53L_W0BLeH55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T076kK2005U0A05U070Iw2A20n071-D07)
+Recommended:  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JD50000H4C0S40,L3I17LYS17LYS17LYS17EhtH57P_W0EhtH77P_W0EhtH77P_W0,CjwG-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00,9onG75I_W0AAAG53K_W0APoG55I_W0AdtJ05J_W0AtyH53G_W0B8gG53L_W0BLeH55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T076kK2005U0A05U070Iw2A20n071-D07)
 
+<details>
+  <summary>Alternative Loudouts</summary>
 
+Our default recommendation are **Guardian Gauss cannons**, as one-time unlocks they pose a low entry bar. They are highly effective and using them teaches good habits for any AX pilot’s progression journey.
 
+The Alliance Challenger as a platform can wield other effective loadouts we can recommend to CMDRs looking for alternative weapon setups. `Note these require significantly more materials and effort to acquire.`
 
-  ### Corsair (Shieldless)
-  !\[corsair.png\](/img/corsair.png =250x){.align-right}
+- [Shieldless Build, Modified Shard Cannons](https://edsy.org/#/L=JD50000H4C0S40,LYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEhtH57P_W0EhtH77P_W0EhtH77P_W0,CjwG-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00,9onG75I_W0AAAG53K_W0APoG55I_W0AdtJ05J_W0AtyH53G_W0B8gG53L_W0BLeH55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T076kK2005U0A05U070Iw2A20n071-D07) Note this build replaces the Flak with a fourth guardian weapon, and cannot destroy swarms. You can use three Modshards instead.
 
-  #### **Corsair (Shieldless)**
+- [Shieldless Build, Modified Plasma Chargers](https://edsy.org/#/L=JD50000H4C0S40,L3I17LYVH-YG0060vBh4zHx8y00Cw00H800KvLLLYVH-YG0060vBh4zHx8y00Cw00H800KvLLLYVH-YG0060vBh4zHx8y00Cw00H800KvLLEhtH57P_W0EhtH77P_W0EhtH77P_W0,CjwG-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00,9onG75I_W0AAAG53K_W0APoG55I_W0AdtJ05J_W0AtyH53G_W0B8gG53L_W0BLeH55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T076kK2005U0A05U070Iw2A20n071-D07) Replaces medium Gauss Cannons in the optimal three hardpoints at the bottom with Modplasmas. Note the c6 Distributor's output is relatively weak for the demands of three Modplasmas.
 
-  The Corsair, while not as maneuverable as the chief or challenger, provides great damage output, versatility and speed. The Corsairs' massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively. It is the recommended medium with the most survivability. This is also a great platform for mounting Enhanced AXMCs for commanders who do not yet have access to guardian tech.
+</details>
 
-  - Speed: ⭐⭐⭐⭐⭐
-  - Çeviklik: ⭐⭐⭐
-  - Armour: ⭐⭐⭐⭐⭐
-  - Shield:
-  - Firepower: ⭐⭐⭐⭐⭐
-
-  Recommendation: Also great for modified shard cannons and plasma chargers.
-
-  Engineering Note: Can comfortably use the same power plant as meta chieftain or even unengineered 6A or 7A, depending on your preferences between power priorities, speed and material or rebuy cost. Check EDSY for minimum engineering based on your specific build.
-
-  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JH00000H4C0S40,LYS10LYS10EkhG07P_W0LYS10LYS10L3I00,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABk00ARMG05I_W0AdtJ-bJ0060upD6upD8qpDE_PcGzcQKsPcAsO00BAEG03L_W0BOmG05G_W0Bcg00,,6kK0016yG05I_W016yG05I_W016yG05I_W016yG05I_W025S00072200KU2020m201-C00,Solo_0Corsair,AXI)
 
 
 # Anti-Xeno Conflict Zone Builds
