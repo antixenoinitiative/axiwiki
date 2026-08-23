@@ -2,7 +2,7 @@
 title: Construcciones Recomendadas
 description: Recommended Anti-Xeno Ship Builds
 published: verdadero
-date: 2026-08-23T14:41:05.766Z
+date: 2026-08-23T21:51:50.660Z
 tags: construcciones
 editor: markdown
 dateCreated: 2021-06-08T12:52:54.657Z
@@ -76,7 +76,7 @@ Recommended Build:  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JH000
 
 Our default recommendation are **Guardian Gauss cannons**, as one-time unlocks they pose a low entry bar. They are highly effective and using them teaches good habits for any AX pilot’s progression journey.
 
-The Corsair as a platform can wield other effective loadouts we can recommend to CMDRs looking for alternative weapon setups. `Note these require significantly more materials and effort to acquire.`
+The Krait Mk II as a platform can wield other effective loadouts we can recommend to CMDRs looking for alternative weapon setups. `Note these require significantly more materials and effort to acquire.`
 
 - [Shieldless Build, Modified Shard Cannons](https://edsy.org/#/L=JH00000H4C0S40,LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEkhG07P_W0LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvL3I00,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABk00ARMG05I_W0AdtJ-bJ0060upD6upD8qpDE_PcGzcQKsPcAsO00BAEG03L_W0BOmG05G_W0Bcg00,,6kK0016yG05I_W016yG05I_W016yG05I_W016yG05I_W025S00072200KU2020m201-C00,Solo_0Corsair,AXI) Replaces medium Gauss Cannons with medium Modified Shard Cannons.
 
