@@ -2,7 +2,7 @@
 title: Thargoid Specifications
 description: Details specs of Thargoid Interceptors
 published: true
-date: 2025-01-19T23:01:45.004Z
+date: 2026-09-11T06:22:36.628Z
 tags: thargoids, interceptors, scouts
 editor: markdown
 dateCreated: 2021-06-15T11:27:45.002Z
@@ -35,7 +35,7 @@ Please note that HP and damage values are approximately calculated based on test
 # Interceptors
 
 |     | **Cyclops** | **Basilisk** | **Medusa** | **Hydra** | **Orthrus** |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | **Number of Hearts** |4   | 5   | 6   | 8   | 0   |
 | **Top Speed** | 450 m/s | 530 m/s | 450 m/s | 450 m/s | 113 m/s |
 | **Swarm Size** |32  | 64  | 96  | 128 | N/A |
