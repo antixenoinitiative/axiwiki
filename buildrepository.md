@@ -2,7 +2,7 @@
 title: Build Repository
 description: Repository of submitted Anti-Xeno Ship Builds
 published: true
-date: 2026-09-13T13:28:05.925Z
+date: 2026-09-13T15:04:41.135Z
 tags: builds, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:55:54.301Z
@@ -61,9 +61,23 @@ placeholder.
 
   <div id="axi-builds-official-corsair" class="axi-build-panel">
 
-#### Corsair
+![corsair.png](/img/corsair.png =220x){.align-right}
 
-placeholder.
+#### Corsair{.axi-med-title}
+
+The Corsair, while not as maneuverable as the chief or challenger, provides great damage output, versatility and speed. The Corsairs' massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively.
+    
+It is the recommended medium with the most survivability. 
+    
+This is also a great platform for mounting Enhanced AXMCs for commanders who do not yet have access to guardian tech.
+    
+
+| Variant | Weapons | Difficulty 1–5 | Link | :gear: | :rocket: | :wrench: | :shield: | Distributor | Possible Alterations |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Solo | Gauss | — | — | — | — | — | — | — | — |
+| AXCZ | ModShards | — | — | — | — | — | — | — | — |
+| Hybrid (Easy Mode) | EAX-Multicannons, ModPlasmas | — | — | — | — | — | — | — | — |
+    
 
   </div>
 
