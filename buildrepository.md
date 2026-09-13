@@ -2,7 +2,7 @@
 title: Build Repository
 description: Repository of submitted Anti-Xeno Ship Builds
 published: true
-date: 2026-09-13T11:10:29.898Z
+date: 2026-09-13T11:12:21.507Z
 tags: builds, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:55:54.301Z
@@ -53,7 +53,7 @@ There are many different ways to build an Anti-Xeno Ship. The **AXI Ship Build R
 
   <div id="axi-builds-official-chief" class="axi-build-panel">
 
-## Chieftain
+#### Chieftain
 
 placeholder.
 
@@ -61,7 +61,7 @@ placeholder.
 
   <div id="axi-builds-official-" class="axi-build-panel">
 
-## Challenge Rank Builds
+#### Corsair
 
 placeholder.
 
@@ -69,7 +69,7 @@ placeholder.
 
   <div id="axi-builds-official-kraitmk2" class="axi-build-panel">
 
-## User-Submitted Builds
+#### Krait Mk II
 
 placeholder.
 
