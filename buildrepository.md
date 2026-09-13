@@ -2,7 +2,7 @@
 title: Build Repository
 description: Repository of submitted Anti-Xeno Ship Builds
 published: true
-date: 2026-09-13T13:21:45.884Z
+date: 2026-09-13T13:28:05.925Z
 tags: builds, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:55:54.301Z
