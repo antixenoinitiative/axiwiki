@@ -2,7 +2,7 @@
 title: Build Repository
 description: Repository of submitted Anti-Xeno Ship Builds
 published: true
-date: 2026-09-13T15:04:41.135Z
+date: 2026-09-13T15:17:55.468Z
 tags: builds, outfitting
 editor: markdown
 dateCreated: 2021-06-10T01:55:54.301Z
@@ -28,7 +28,7 @@ There are many different ways to build an Anti-Xeno Ship. The **AXI Ship Build R
   
   
   ## Official Builds
-  ![axi_logo_new2.png](/axi_logo_new2.png =180x){.align-right}
+  ![axi_logo_new2.png](/axi_logo_new2.png =125x){.align-right}
   
   ### **Official Ship Builds**{.axi-large-title}
   
@@ -53,24 +53,36 @@ There are many different ways to build an Anti-Xeno Ship. The **AXI Ship Build R
 
   <div id="axi-builds-official-chief" class="axi-build-panel">
 
-#### Chieftain
+#### Chieftain{.axi-med-title} 
+![corsair.png](/img/alliance-chieftain.png =250x){.align-right}
 
-placeholder.
+The shieldless Alliance Chieftain is the undisputed AX meta. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. 
+    
+Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
+
+Unarguably the best ship and build style for learning AX combat.
+
+<br>    
+
+| Variant | Weapons | Difficulty 1–5 | Link | :gear: | :rocket: | :wrench: | :shield: | Distributor | Possible Alterations |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Solo Meta | Gauss | — | — | — | — | — | — | — | — |
+| AXCZ | Gauss | — | — | — | — | — | — | — | — |
 
   </div>
 
   <div id="axi-builds-official-corsair" class="axi-build-panel">
 
-![corsair.png](/img/corsair.png =220x){.align-right}
-
-#### Corsair{.axi-med-title}
+#### Corsair{.axi-med-title} 
+![corsair.png](/img/corsair.png =250x){.align-right}
 
 The Corsair, while not as maneuverable as the chief or challenger, provides great damage output, versatility and speed. The Corsairs' massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively.
     
 It is the recommended medium with the most survivability. 
     
 This is also a great platform for mounting Enhanced AXMCs for commanders who do not yet have access to guardian tech.
-    
+
+<br>    
 
 | Variant | Weapons | Difficulty 1–5 | Link | :gear: | :rocket: | :wrench: | :shield: | Distributor | Possible Alterations |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
