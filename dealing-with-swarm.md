@@ -2,7 +2,7 @@
 title: Swarm Management
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: 2026-06-17T11:19:11.840Z
+date: 2026-09-30T20:37:21.635Z
 tags: combat, thargoids, swarms, flak
 editor: markdown
 dateCreated: 2025-12-23T19:00:17.333Z
@@ -16,6 +16,13 @@ The Thargon Swarm is a major component of AX combat and knowing how to deal with
 
 > Visit the [Thargon Swarms](/en/thargon-swarms) page to learn about it's functions and mechanics in detail. 
 {.is-warning}
+
+Thanks to CMDR Squirg for helping create this page. His video (linked below) covers much of mechanics and techniques described here!
+
+<div class="iframeContainer">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2nyjHrqLwS4?si=Yz_nACo7BtFljpxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
 # Techniques & Counters
 
