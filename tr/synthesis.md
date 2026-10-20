@@ -2,7 +2,7 @@
 title: Sentezleme
 description: AX savaşlarında sentezleme hakkında bilgiler.
 published: true
-date: 2026-10-20T16:27:27.284Z
+date: 2026-10-20T17:57:40.244Z
 tags: engineering
 editor: markdown
 dateCreated: 2021-06-10T04:08:01.614Z
@@ -272,7 +272,7 @@ For most commanders in the late-game, credit cost is trivial compared to materia
 
 **Clicking the rearm option at a station loads full basic ammo!**
 
-A few weapons will not respawn with a complete magazine or clip, which will make the rearm option available - be careful upon respawning with any of these weapons. You can use the advanced maintenance menu to be more selective about reloading modules like pre-engineered Heatsinks - which also do not respawn with a complete set.
+A few weapons will not respawn with a complete magazine or clip - be careful upon respawning with any of these weapons. You can use the advanced maintenance menu to be more selective about reloading modules like pre-engineered Heatsinks - which also do not respawn with a complete set.
 
 AX weapons to note are:
 - Modified Plasma Charger
