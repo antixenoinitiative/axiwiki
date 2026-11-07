@@ -2,10 +2,14 @@
 title: Ship Build Theory
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2021-10-06T05:38:39.779Z
-tags: builds, theory, engineering, outfitting
+date: '2021-10-06T05:38:39.779Z'
+tags:
+  - builds
+  - theory
+  - engineering
+  - outfitting
 editor: markdown
-dateCreated: 2021-10-06T05:38:37.247Z
+dateCreated: '2021-10-06T05:38:37.247Z'
 ---
 
 # Ship Build Theory

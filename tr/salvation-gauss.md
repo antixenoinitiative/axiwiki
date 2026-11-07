@@ -1,11 +1,16 @@
 ---
 title: Salvation Gauss Cannonları
-description: Salvation Değiştirilmiş Guardian Gauss Cannonları hakkında şu ana kadar bildiklerimiz.
+description: >-
+  Salvation Değiştirilmiş Guardian Gauss Cannonları hakkında şu ana kadar
+  bildiklerimiz.
 published: true
-date: 2021-11-02T02:55:25.718Z
-tags: builds, weapons, guardians
+date: '2021-11-02T02:55:25.718Z'
+tags:
+  - builds
+  - weapons
+  - guardians
 editor: markdown
-dateCreated: 2021-10-06T05:50:33.229Z
+dateCreated: '2021-10-06T05:50:33.229Z'
 ---
 
 # Salvation Gauss Cannonları
@@ -65,3 +70,4 @@ Aşağıdaki bilgiler, [Anti-Xeno Initiative Discord](https://discord.gg/bqmDxdm
 - Nihayetinde istediğiniz kadar silaha sahip olabileceksiniz.
 
 ![](https://cdn.discordapp.com/attachments/625989888432537611/888450639967965184/unknown.png) ![](https://cdn.discordapp.com/attachments/625989888432537611/888450754115952650/unknown.png) ![](https://cdn.discordapp.com/attachments/625989888432537611/888450900094517308/unknown.png) ![](https://cdn.discordapp.com/attachments/625989888432537611/888451081028390942/unknown.png)
+

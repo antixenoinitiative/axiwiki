@@ -2,10 +2,13 @@
 title: Multi-Thargoid-Kampfleitfaden
 description: Wie man mehrere Interceptor gleichzeitig bekämpft
 published: true
-date: 2021-08-19T13:13:37.544Z
-tags: thargoids, interceptors, gefecht
+date: '2021-08-19T13:13:37.544Z'
+tags:
+  - thargoids
+  - interceptors
+  - gefecht
 editor: markdown
-dateCreated: 2021-06-25T10:51:58.052Z
+dateCreated: '2021-06-25T10:51:58.052Z'
 ---
 
 # Multi-Thargoid-Kampfleitfaden

@@ -2,10 +2,13 @@
 title: Thargon Schwärme
 description: Detailed behaviour and mechanics of Thargon Swarms
 published: true
-date: 2021-10-06T05:37:49.709Z
-tags: thargoids, interceptors, schwärme
+date: '2021-10-06T05:37:49.709Z'
+tags:
+  - thargoids
+  - interceptors
+  - schwärme
 editor: markdown
-dateCreated: 2021-06-24T12:24:30.240Z
+dateCreated: '2021-06-24T12:24:30.240Z'
 ---
 
 # Thargoid Schwärme

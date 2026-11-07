@@ -2,10 +2,15 @@
 title: Tehdit Yönetimi
 description: Thargoid Interceptor Tehdit Yönetimini Anlamak
 published: true
-date: 2021-11-02T02:55:56.038Z
-tags: combat, guide, thargoids, interceptors, threat
+date: '2021-11-02T02:55:56.038Z'
+tags:
+  - combat
+  - guide
+  - thargoids
+  - interceptors
+  - threat
 editor: markdown
-dateCreated: 2021-10-06T05:51:23.269Z
+dateCreated: '2021-10-06T05:51:23.269Z'
 ---
 
 # Tehdit Yönetimi
@@ -25,3 +30,4 @@ Bu duruma iyi bir örnek olarak:
 1. CMDR1 Hedef Değişim Kilidi sürecinden faydalanarak şimşek saldırısına uğrama riski olmadan Thargoid'in kalkanlarını toslayarak parçalıyor.
 
 [Tehdit yönetimi uygulamasını görmek için bu videoyu izleyin.](https://youtu.be/pGBnAZDxVCU)
+

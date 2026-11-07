@@ -2,10 +2,13 @@
 title: Thargon Swarmları
 description: Thargon Swarmlarının davranış ve mekaniklerine dair detaylı bilgiler
 published: true
-date: 2021-11-02T02:55:53.363Z
-tags: thargoids, interceptors, swarms
+date: '2021-11-02T02:55:53.363Z'
+tags:
+  - thargoids
+  - interceptors
+  - swarms
 editor: markdown
-dateCreated: 2021-10-06T05:51:19.291Z
+dateCreated: '2021-10-06T05:51:19.291Z'
 ---
 
 # Thargon Swarmları
@@ -49,37 +52,37 @@ Swarmlar çeşitli düzenlerde uçar ve buna bağlı olarak davranışları öng
 
 ## Top Düzeni
 
-![embeddedimage_(1).png](</img/embeddedimage_(1).png>) Soldan sağa: Cyclops Top, Medusa Topu
+![embeddedimage_(1).png](</img/embeddedimage-1.png>) Soldan sağa: Cyclops Top, Medusa Topu
 
 Bu Cyclops'un, füze olmayan tek düzenidir ve diğer türler tarafından da (ancak daha nadiren, çünkü daha gelişmiş düzenler tercih ederler). Bu düzen yok edilmesi en kolay olanıdır ve sadece merkezine atılan birkaç isabetli atışla üstesinden gelinebilir.
 
 ## Halka Düzeni
 
-![embeddedimage_(2).png](</img/embeddedimage_(2).png>) Soldan sağa: Medusa Halkası, Hydra Halkası
+![embeddedimage_(2).png](</img/embeddedimage-2.png>) Soldan sağa: Medusa Halkası, Hydra Halkası
 
 Korkunç halka düzeni Medusa ve Hydra tarafından tercih edilen düzendir. Yok edilmesi çok daha zordur. Merkezden uzak nişan alınmış saldırılar ancak yok etmeyi başarabilir.
 
 ## Külah/Sarmal Düzen
 
-![embeddedimage_(3).png](</img/embeddedimage_(3).png>) Soldan sağa: Basilisk Sarmalı, Medusa Sarmalı
+![embeddedimage_(3).png](</img/embeddedimage-3.png>) Soldan sağa: Basilisk Sarmalı, Medusa Sarmalı
 
 Külah ya da Sarmal düzen Basilisk tarafından kullanılmaya başlar ve daha güçlü türlerde çok nadir değildir. Top düzeni gibi bunu da merkeze atılmış birkaç atışla yok etmek kolaydır.
 
 ## Ölüm Duvarı Düzeni
 
-![embeddedimage_(4).png](</img/embeddedimage_(4).png>) Soldan sağa: Cyclops Ölüm Duvarı, Medusa Ölüm Duvarı
+![embeddedimage_(4).png](</img/embeddedimage-4.png>) Soldan sağa: Cyclops Ölüm Duvarı, Medusa Ölüm Duvarı
 
 Ölüm Duvarı, Cyclops'un tek füze düzenidir ve nadiren diğer türler tarafından da kullanılr.
 
 ## Ölüm Sarmalı Düzeni
 
-![embeddedimage_(5).png](</img/embeddedimage_(5).png>) Soldan sağa: Basilisk Ölüm Sarmalı, Hydra Ölüm Sarmalı
+![embeddedimage_(5).png](</img/embeddedimage-5.png>) Soldan sağa: Basilisk Ölüm Sarmalı, Hydra Ölüm Sarmalı
 
 Ölüm Sarmalı, Basilisk tarafından kullanılmaya başlanılan ancak daha güçlü türlerde de karşılaşılan füze düzenidir. Sıradan Külah/Sarmal düzenden farklı olaran bu düzen merkezinde bir boşluğa sahiptir ve yok edilmesi biraz daha zordur. Merkezde patlatılan Flak mermileri daha az hasara sebep olur.
 
 ## Ölüm Halkası Düzeni
 
-![embeddedimage_(6).png](</img/embeddedimage_(6).png>) Soldan sağa: Medusa Ölüm Halkası, Hydra Ölüm Halkası
+![embeddedimage_(6).png](</img/embeddedimage-6.png>) Soldan sağa: Medusa Ölüm Halkası, Hydra Ölüm Halkası
 
 Medusa ve Hydra tarafından sıkça kullanılan füze düzeni olan Ölüm Halkasını vurmaya çalışmak önerilmez. Çok fazla vakit ve mermi israfına sebep olur - bunun yerine füzeleri yemlemeli ve Swarm daha basit bir düzene geçince yok edilmelidir.
 
@@ -110,3 +113,4 @@ Ayrıca, Swarm Interceptor'den yaklaşık 10 km uzaklaşırsa arkasını dönüp
 Bazı durumlarda, mesela Swarm çıktığında çok uzaktaysanız (6 km ötesi), Swarm Interceptor'ün arkasında kalabilir ve yok edilmesi güç hale gelebilir. Yerlerini değiştirmek için Interceptor'e doğru boostlayıp (tam üstüne değil) yanından geçin. Interceptor; arkasını dönüp takibe devam edene kadar, daha düşük ivmeye sahip olduğundan eylemsizliğiyle biraz daha fazla sürüklenecek ve daha keskin dönüş yapabilen Swarm'ın arkasında kalacaktır.
 
 [Interceptor ve Swarm'ın yerleri nasıl değiştirilir görmek için bu videoyu izleyin.](https://youtu.be/nvEDF6eI1z8)
+

@@ -2,10 +2,13 @@
 title: Caustic Blocking
 description: Advanced guide to blocking caustic missiles
 published: true
-date: 2021-06-24T12:26:58.638Z
-tags: combat, interceptors, caustic missiles
+date: '2021-06-24T12:26:58.638Z'
+tags:
+  - combat
+  - interceptors
+  - caustic missiles
 editor: markdown
-dateCreated: 2021-06-24T12:26:56.995Z
+dateCreated: '2021-06-24T12:26:56.995Z'
 ---
 
 # Caustic Missile Blocking

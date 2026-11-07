@@ -1,0 +1,70 @@
+---
+title: Pip Management Guide
+description: How to best manage pips in Thargoid Combat
+published: true
+date: '2026-02-20T17:39:46.806Z'
+tags:
+  - combat
+  - controls
+editor: markdown
+dateCreated: '2021-06-21T02:36:55.841Z'
+---
+
+# Pip Management Guide
+
+Pip management is essential to effectively utilize your ships different equipment and functionality. Many important functions of your ship are tied to one of 3 capacitors. Here is a list of the most important combat related things:
+
+- **SYS** - Utility Modules like Heatsinks, shield draw, 4 set SYS pips also increases shield strength in the moment.
+- **ENG** - Engines, boost cost & frequency, the amount of set ENG pips also influences your ships agility in the moment.
+- **WEP** - Hardpoints, energy weapons draw a lot of power from the capacitor.
+## Pip combos
+
+[Click here](https://gist.github.com/Kubuxu/62990a1b5a582e3b7d54) for a great resource on which input combinations will lead you to which pip combos.
+
+### Attacking
+
+0-2-4 is the prefered pip setting for attack runs on most shieldless meta ships.
+This will supply your weapons with the power they need while still maximizing agility with the remaining pips.
+
+When firing gauss, make sure you keep 3-4 pips in WEP to reduce the amount of heat generated with each shots draw. The default should be full pips in WEP during attack runs, only experiment with lowering the amount once you are familiar with your ship loadout.
+
+Shielded ships will require a lot more juggling to maintain SYS capacity.
+
+### Kiting & Repairing
+
+When kiting the Thargoid and tackling the swarm, it is beneficial to put a higher amount of pips into ENG for agility and capacity-recharge for boosts.
+
+Now is also a good time to refill SYS capacity to make sure your Heatsinks will remain to function.
+SYS management also minimizes the time necessary for restoration of your shields *if you have any*.
+
+If you are using a thermal vent beam on the thargoid make sure you have enough WEP pips to sustain full weapon charge - if it drops too low the draw might heat you up.
+
+### Shielded
+
+Any time spent with no pips in systems with shields at less than 100% is less shield strength available when fighting the Thargoid.
+
+Shielded ships need to actively manage their pip settings a lot more during all parts of the fight.
+
+Another example of the benefits: Transferring 4 pips to sys right before impact of the interceptor cannon leads to a 60% increase to shield damage resistance, which translates to an ~2.6x increase in shield strength. 
+
+Using macros can allow you to quickly switch from 4-0-2 to 0-2-4, to maintain maximum recharge rate on your gauss, keep your engine constantly boosting, and ensure your shields are always at peak resistance. Always avoid running out of systems energy as this will prevent you from firing a heatsink.
+
+## Macros
+
+Pip management can be performed manually, but it is significantly more effective to utilize a macro program such as AutoHotKey (https://autohotkey.com/). AHK can almost instantaneously rebalance your pips more accurately than even the most trained pilot. Voice attack can also be used for pip management, either via voice commands (not recommended due to speed) or binding to mouse/function keys.
+
+### Basic Pip AHK Macro to download
+
+The following AHK script binds some of the most common pip distributions to function keys F1-F3:
+
+0-2-4, 1-4-1 and 4-2-0.
+
+It also binds Shift + Exit to exit the running Script.
+You can edit this file to your liking.
+
+*In Addition you can use your mouse’s software to bind additional mouse keys (side buttons for example) to the desired function keys.*
+
+- [Download Autohotkey Script](/pip-management-ax-v1.2.ahk) for Function-Key Pip Macros.
+
+
+

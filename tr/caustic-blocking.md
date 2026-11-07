@@ -2,10 +2,13 @@
 title: Caustic Engelleme
 description: Caustic füzeleri engellemeye yönelik ileri düzey rehber
 published: true
-date: 2021-11-02T02:54:12.462Z
-tags: combat, interceptors, caustic missiles
+date: '2021-11-02T02:54:12.462Z'
+tags:
+  - combat
+  - interceptors
+  - caustic missiles
 editor: markdown
-dateCreated: 2021-10-06T05:48:45.967Z
+dateCreated: '2021-10-06T05:48:45.967Z'
 ---
 
 # Caustic Füze Engelleme
@@ -19,3 +22,4 @@ Eğer ki Interceptor yaylımı hazırladıysa ancak belli bir CMDR için **Hedef
 Olur da bekletilen yaylımın hedefi savaşın sonuna kadar soğuk ve tespit edilemez kalırsa **Interceptor daha fazla Caustic Füze ateşleyemeyecektir.**
 
 Belirtilmelidir ki yaylımı tetiklemiş olmanın aksine (3 km menzil içinde bulunmanızı gerektirir), eğer size bir yaylım atandıysa ve mesela 3 füzeden 2'si siz tespit edilemez duruma gelmeden önce ateşlendiyse kalan son füze sıcaklığınız tespit eşiğinin üzerine çıktığı anda herhangi bir mesafe ve zamanda ateşlenebilir.
+

@@ -2,10 +2,14 @@
 title: Les cœurs thargoids
 description: Explanation of Thargoid Hearts and related mechanics
 published: true
-date: 2021-10-06T05:39:24.282Z
-tags: combat, thargoids, interceptors, hearts
+date: '2021-10-06T05:39:24.282Z'
+tags:
+  - combat
+  - thargoids
+  - interceptors
+  - hearts
 editor: markdown
-dateCreated: 2021-06-24T12:25:25.718Z
+dateCreated: '2021-06-24T12:25:25.718Z'
 ---
 
 # Les cœurs thargoids
@@ -39,7 +43,7 @@ Le cœur ayant une très petite hitbox, vous devez être très précis pour lui 
 
 Les cœurs Thargoid sont situés dans les pétales de l'intercepteur. Ils sont placés de manière semi-constante pour chaque variante, mais ils seront extraits dans un ordre aléatoire à chaque fois.
 
-Vous pouvez cibler les cœurs si vous faites un scan complet avec un détecteur de xénomorphes sur l'intercepteur. Cela vous permettra également de voir l'état de tous les cœurs dans le panneau des cibles.![heart_location.png](/img/heart_location.png)
+Vous pouvez cibler les cœurs si vous faites un scan complet avec un détecteur de xénomorphes sur l'intercepteur. Cela vous permettra également de voir l'état de tous les cœurs dans le panneau des cibles.![heart_location.png](/img/heart-location.png)
 
 # Récolter les cœurs
 

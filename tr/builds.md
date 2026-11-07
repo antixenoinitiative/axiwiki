@@ -2,10 +2,11 @@
 title: Önerilen Gemiler
 description: Önerilen Anti-Xeno Gemileri
 published: true
-date: 2022-01-20T10:15:26.194Z
-tags: builds
+date: '2022-01-20T10:15:26.194Z'
+tags:
+  - builds
 editor: markdown
-dateCreated: 2021-10-06T05:48:42.427Z
+dateCreated: '2021-10-06T05:48:42.427Z'
 ---
 
 # Önerilen Gemiler
@@ -253,3 +254,4 @@ Ve savaşa hazırsınız!
 - Alternatif olarak 2 adet Large Multi-Cannon'ın yanında 2 adet Medium Gauss Cannon kuşanabilir. (Gauss'la nişan alma pratiği yapmanıza olanak sağlar ve beceri kazandığınızda Gauss'la Scout öldürmek daha etkili hale gelir.)
 - Hedefleri menzilde tutmak ve gerektiğinde savaştan ayrılabilmeyi sağlayan yüksek çeviklik.
 - Çevikliği sayesinde Bi-Weave kalkan kullanımına olanak sağlar, savaştan uzaklaşıp kalkanlarınızı yeniden şarj edebilirsiniz.
+

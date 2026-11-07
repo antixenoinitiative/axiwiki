@@ -2,10 +2,13 @@
 title: Thargoid-Spezialangriffe
 description: Detailed explanation of Thargoid special attacks and abilities
 published: true
-date: 2021-10-06T05:37:39.877Z
-tags: thargoids, interceptors, gefecht
+date: '2021-10-06T05:37:39.877Z'
+tags:
+  - thargoids
+  - interceptors
+  - gefecht
 editor: markdown
-dateCreated: 2021-06-24T12:24:08.630Z
+dateCreated: '2021-06-24T12:24:08.630Z'
 ---
 
 # Thargoid-Spezialangriffe
@@ -15,7 +18,7 @@ Nach dem Zerstören eines jeden Herzens eines Thargoid Interceptors treten versc
 > 
 > {.is-info}
 
-!\[attack_pattern.png\](/img/attack_pattern.png =550x){.align-center}
+!\[attack_pattern.png\](/img/attack-pattern.png =550x){.align-center}
 
 ## Blitz
 Nach Zerstörung des ersten Herzens wird der Interceptor, bei Näherung auf 800m, einen Blitzangriff starten, dieser verursacht schweren Schaden am Schutzschild und macht manövrierunfähig. Obwohl die Schubdüsen vielleicht noch funktionieren, wird für eine bestimmte Zeit ein <strong x-id=“1“>abbremsender</strong> Effekt wirken, F/A-OFF wirkt sich darauf nicht aus.

@@ -2,10 +2,13 @@
 title: Speedrun Builds
 description: Ship builds designed for killing Thargoids quickly
 published: true
-date: 2021-10-06T05:40:51.937Z
-tags: builds, outfitting, speedrunning
+date: '2021-10-06T05:40:51.937Z'
+tags:
+  - builds
+  - outfitting
+  - speedrunning
 editor: markdown
-dateCreated: 2021-06-24T12:28:15.527Z
+dateCreated: '2021-06-24T12:28:15.527Z'
 ---
 
 # Speedrun Builds

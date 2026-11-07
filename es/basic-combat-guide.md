@@ -1,0 +1,100 @@
+---
+title: Basic Combat Guide
+description: The fundamental concepts of AX combat and how to fight an Interceptor.
+published: true
+date: '2021-06-27T22:10:49.977Z'
+tags:
+  - combat
+  - thargoids
+  - interceptors
+editor: visual
+dateCreated: '2021-06-24T23:36:01.639Z'
+---
+
+# Guía de Combate Thargoide Básica
+
+Los Thargoides representan una amenaza de combate importante en Elite: Dangerous. Para destruir efectivamente Thargoides es imperativo que los jugadores conozcan las mecánicas y los fundamentos del combate AX.
+
+> Luchar contra los Thargoides es difícil hasta que es fácil. Prepárate para morir y afrontar la pantalla de recompra. Las naves medianas son más rápidas, baratas para (re)comprar, requieren menos ingeniería, y poseen aproximadamente la misma potencia de fuego que las naves grandes debido al límite en las armas experimentales (4). Volar sin usar la configuración recomendada, te coloca a ti y a tus copilotos en riesgo. ¡Sé cortés con tus compañeros pilotos! La ingeniería no es opcional y no se recomienda volar sin Gauss Guardian. Como siempre, nunca volar sin una recompra. Para obtener información sobre cómo crear una nave AX, dirígete a nuestra sección [Construcción de naves](/en/builds).
+
+## Lo Básico
+
+Para destruir un Thargoide, es importante entender su capacidad de regeneración de escudo. Hay cuatro variantes de Interceptores Thargoides: Cíclope, Basilisco, Medusa e Hydra. Los [Interceptores Thargoide](/en/interceptors) están protegidos por un escudo que se deteriora con el tiempo. El escudo de un Cíclope, tarda 1 minuto 45 segundos en caer, 3 minutos para un Basilisco, 4 minutos para una Medusa y 5 minutos para la Hydra. La regla general es 2, 3, 4, 5. El escudo decaerá por si solo; no desperdicies munición en los escudos.
+
+El interceptor no desplegará escudos hasta después de la destrucción del primer corazón. Utilice el cronómetro de vuelo en la parte superior derecha de su HUD para temporizar el escudo.
+
+Una vez que el escudo está caído, debes dañar el casco del interceptor para “ejercer” el corazón. En este punto, uno de los “pétalos” brillará rojo (o generará humo en el caso de la Hydra). Debes acertar a la parte resplandeciente del pétalo para dañar el corazón. Sabrás cuando lo hayas destruido.
+
+Las armas Thargoide infligen daño por fases, lo que significa que infligirán un porcentaje del daño directamente a través de tu escudo, ignorando todas las resistencias.
+
+Cuando te enfrentas a un Thargoide, desplegará un enjambre. El Thargoide también desplegará otro enjambre cada vez que se destruya un corazón. Sin embargo, si un enjambre todavía está activo cuando se destruye un corazón, el Thargoide lo ladeará, sujetándolo hasta que el otro enjambre sea destruido o agotado a un número muy bajo (que luego procederá a rellenar con el nuevo enjambre). El Thargoide también desplegará otro enjambre cada vez que se destruya un corazón. Sin embargo, si un enjambre todavía está activo cuando se destruye un corazón, el Thargoide lo ladeará, sujetándolo hasta que el otro enjambre sea destruido o agotado a un número muy bajo (que luego procederá a rellenar con el nuevo enjambre).
+
+Solo se puede almacenar un enjambre a la vez.
+
+Asegúrese de tener recargas de disipadores de calor, recargas de hachas antiaéreas y recargas de gauss.
+
+## La apertura
+
+Una vez que ingrese a la Señal de origen no Humano, el Thargoide se acercará y lo escaneará. Deje que lo escanee y se aleje (si desea escanearlo), o comience a disparar justo cuando se cierre dentro de 1,5 km mientras retrocede lentamente. Manténgase dentro de los 1,5 km para evitar la caída del daño en el rango de gauss, despliegue un disipador de calor y comience a disparar, utilizando el indicador de recarga en su hud para asegurarse de que está disparando inmediatamente después de que sus cañones se recarguen (1,6 segundos). Después de escuchar el sonido de la expulsión del disipador de calor, dispare otro.
+
+*Siempre asegúrese de estar protegido por un disipador de calor cuando ataque al Interceptor. Orbitar el interceptor mientras esté por debajo del 20% de calor le permite esquivar completamente los cañones principales, siempre y cuando permanezca aproximadamente 10-15 grados fuera de su vista con un alto impulso angular. es decir, moviendo lateralmente u orbitando.*
+
+El interceptor comenzará a disparar sobre ti; dependiendo de la fuerza de tu escudo (y de las habilidades de manejo de pips) refuerza e inicia una órbita FA-off para evitar algún daño.
+
+Continúa disparando hasta que el corazón se ejerza (brilla en rojo, tambien se muestra cuando tienes un escaner de xeno [equipado](/en/internals)). En este punto apuntan al corazón y dispara. Sólo debe tomar 3 impactos directos de gauss para un ciclope, 4 para un Basilisco, 5 para un Medusa y 12. para una Hydra con munición regular.
+
+Una vez que el corazón haya sido destruido, transfiera pips 2-4-0. Aumenta más allá del Thargoide si está a menos de 1 km, y lejos del Thargoide si está fuera de 1 km. El Thargoide cargará amarillo y comenzará a perseguirte, si está dentro del rango será golpeado por el relámpago [](/en/special-attacks)el cual interrumpirá sus sistemas. mata tu impulso (independientemente de FA-OFF), y agota tus escudos.
+
+A partir de este punto, las luchas se dividen en dos fases: [destruir enjambre](/en/thargon-swarms) y destrucción del corazón. Cada Thargoide tiene un número fijo de “corazones” (4 en un Cyclope, 5 en un Basilisco, 6 en un Medusa, 8 en un Hydra). Después de la apertura, si destruiste un corazón y duraste aprox. ~7 minutos hasta que el Thargoide se enfurece. Un Thargoide enfurecido lanzará un nuevo enjambre, y seguirá reemplazándolo tan pronto como sea destruido. Todo el pantano también se convertirá en misiles a la vez, destruyendo barcos menos blindados en el exterior. Enfurecido significa que probablemente has perdido.
+
+Antes de atacar el siguiente corazón, tienes un periodo de tiempo establecido durante el cual el Thargoide está protegido por un escudo (2, 3, 4, 5 minutos para la respectiva variante Thargoide). En este periodo de tiempo tienes tres objetivos, destruye el enjambre, vuelve a armar y recarga tus escudos. Después de este período y antes de la marca de 6 minutos (7 para Basilisco y Medusa, 8 para Hydra), debes ejercer y destruir el próximo corazón. De lo contrario, el Thargoid se enfurecerá.
+
+## Cometeando el Enjambre
+
+Después de limpiar ~4 km, transferir pips a 4-2-0 y continuar optimizando. Tu velocidad máxima sin aumento es probablemente menor que la velocidad máxima del interceptor de 450-530 m/s y [Enjambres](/en/thargon-swarms). Este período de tiempo es una oportunidad para desplegar una munición de reparación, utilizar su AFMU y reponer la munición de sus cañones/lanzadores de Gauss de calor (en aproximadamente ese pedido). Si ha conseguido poner al menos 6 km de distancia entre usted y el interceptor, compruebe la posición del enjambre.
+
+Los 4-2-0 pips asegurarán que tus escudos se regeneren lo antes posible, al tiempo que te permitirán permanecer fuera del alcance del arma del interceptor de 3 km.
+
+Si no estás usando escudos, no tendrás que preocuparte por regenerar escudos, pero asegúrate de recargar tu tope de SYS completamente.
+
+A menudo debido a la velocidad del Interceptor (específicamente, la variante Basilisco), usted puede encontrar el Interceptor entre usted y el enjambre. Es imperativo que usted no se comprometa con el Enjambre hasta que sus escudos sean recargados y usted tenga al menos una capa de escudo disponible.
+
+**Poner el Enjambre entre usted y el interceptor.**
+
+1.  Desactivar FA-Of o Asistente de vuelo, frente al interceptor,
+2.  Transfiere pips 4-2-0, y acelera directamente hacia él.
+3.  Despliegue un disipador de calor a unos 4 km y haga un rollo de cañón si el Enjambre empieza a disparar contra ti.
+
+Esto perturba el objetivo del Enjambre. Utilice esta misma estrategia si en cualquier momento no puede exceder al Thargoide(s). Los escudos bi-wave son recomendables, pero opcionales.
+
+**Si el enjambre está entre tú y el interceptor, gira en FA-off y enfréntate al enjambre.** Ahora estás en una maniobra conocida como **reverski** (derecho de demostración). Mantenga un ojo en su distancia hasta el interceptor, si se acerca más de 5 km, póngalo directamente detrás de usted e impulse.
+
+**Nota:** Espera hasta que tu potenciador termine para hacer cualquier ajuste de curso, de lo contrario tu potenciador matará parcialmente tu velocidad relativa al interceptor.
+
+A pesar de tu estado de arma en el HUD, puedes apuntar y atacar al Enjambre con un Lanzador Anti-Aereo Remoto a distancia con un alcance efectivo de 7 km. Cuando el Enjambre esté entre 4 y 6 km de distancia, procederá en una línea recta hacia usted. Dispara el Antiaéreo y suelta el botón cuando se vuelva rojo (acompañado de un pitido). Deberías ver "chispa" verde mientras el Enjambre es destruido. Una vez que el Enjambre esté más cerca, comenzará maniobras evasivas. **En este punto, intentar notar el patrón de movimiento y disparar de forma preventiva, hacia donde se dirija el enjambre, dispara mas adelante.**
+
+Tenga en cuenta que el enjambre, al igual que el Interceptor, también periódicamente va a “rearmar”. Un ataque dura 25 segundos, después de los cuales el Enjambre se alejará de ti durante 5 segundos y luego se reanudará persiguiéndote. Mientras esté volando, **no intente atacarlos.** Es prácticamente imposible golpear, así que espere hasta que reanude su movimiento normal.
+
+Hay algunas diferencias importantes en los Cyclopes, Basilisco, Medusa y Hydra. El número de Thargons o tamaño de enjambre aumenta de 32, 64, 96 y 128. Esto incrementa su producción de daño y el tiempo necesario para destruirlos.
+
+*Los Enjambres de Medusa e Hydra también son capaces de formar un anillo. Si te disparas al retirarte mientras el anillo se mueve directamente hacia ti, el Antiaéreo AX no afectará a los miembros del anillo. (véase:* [*Mecánica de Enjambre*](/en/thargon-swarms)*)*
+
+*Una punta clave para golpear a la formación del anillo es situar el centro del “retiro objetivo principal”. aproximadamente la distancia a uno de los dos “paréntesis” en su HUD. Eche un vistazo al vídeo de Reverski Maneuver para un ejemplo visual.*
+
+Para obtener una guía completa de mecánicas de Enjambre consulte la guía [Mecánica de Swarm](/en/thargon-swarms).
+
+## Ejercer y disolución de corazones posteriores
+
+A estas alturas, sus escudos, municiones y disipadores de calor deberían estar completamente restaurados. Enfréntate al interceptor y controla su enfoque. Transfiere pips 3-0-3 o 0-2-4 dependiendo de tu construcción y potenciar hacia y verticalmente desde el Thargoide en FA-off {Asistente de vuelo desactivado}. **Una vez que esté a menos de 4 km despliegue un eyector termico para reducir su firma de calor por debajo del 20%, en lo posible utilice un laser beam ingenierizado con efecto de ventilacion termica. Tu objetivo es utilizar tus impulsores verticales en combinación con tu potenciador para "orbitar" al interceptor dentro del rango efectivo de tus gausas, ~1. km. Recordar, orbitando al interceptor mientras esté bajo un 20% de calor le permite esquivar por completo los cañones principales siempre y cuando permanezca a unos 15 grados fuera de la vista de abrazo.** Intenta evitar acercarte más a 1 km, de lo contrario el Thargoide intentará atacar su relámpago que dañará mucho tus escudos, renderizarle inmóvil y expulsar sus sistemas.
+
+*Si te golpean con el ligero ataque mientras se ejerce un corazón, no intentes huir, el Thargoide no se moverá y en la posición **perfecta** para destruir el corazón y una vez que se rompe, tendrás unos 10 segundos para volar sin más daño.*
+
+Continúa dañando al Thargoide con los cañones Gauss mientras orbitas y despliega los eyectores térmicos.
+
+*Al luchar contra un Medusa o Hydra, trata de programar tus disparos como tales para disparar tus gauss sólo después de que el Thargoide comience a curarse. Esto asegurará que su firma de calor sólo aumente por encima del 20% mientras el interceptor se recarga. También puede mapear 1 o 2 de sus cañones gauss al fuego primario/secundario para evitar que su calor aumente por encima del 20% después de disparar.*
+
+Después de ejercitar el corazón, dispara rápidamente tu gauss al corazón. La compensación entre convergencia y daño es mejor entre 1-1,5 km. Priorice el objetivo y el posicionamiento en lugar de la cantidad. Una vez que se destruye el corazón, transfiera los pips 2-4-0 y aumente. Tu objetivo tras la destrucción de cada corazón es alejarte 3 km del Thargoide para no desencadenar su ataque especial. Recargue Armas y repita hasta la destrucción del último corazón.
+
+## Después de la destrucción del último corazón
+
+Dispara gauss directamente a cualquier parte del Thargoide lo más rápido posible. Debería poder obtener aproximadamente dos rondas antes de que regresen los escudos (después de la destrucción del último corazón, el interceptor no se regenerará). Esto debería ser suficiente para destruir un cíclope. Impulsa y comete el enjambre, espera la degradación del escudo del interceptor y dispara tu gauss hasta que el Thargoide sea destruido.

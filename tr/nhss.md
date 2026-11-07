@@ -2,10 +2,13 @@
 title: Non-Human Signal Sources
 description: Non-Human Signal Sources sinyalleri ve Thargoidleri bulmaya dair
 published: true
-date: 2021-11-02T02:55:12.714Z
-tags: thargoids, interceptors, scouts
+date: '2021-11-02T02:55:12.714Z'
+tags:
+  - thargoids
+  - interceptors
+  - scouts
 editor: markdown
-dateCreated: 2021-10-06T05:50:13.185Z
+dateCreated: '2021-10-06T05:50:13.185Z'
 ---
 
 # Non-Human Signal Source Sinyalleri
@@ -64,3 +67,4 @@ NHSS içeriğini öngörmek için FSS de kullanılabilir, [buradan](/tr/nhssviaf
 ## NHSS Doğurma Tablosu
 
 ![nhsstable.png](/img/nhsstable.png)
+

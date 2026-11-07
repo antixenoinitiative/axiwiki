@@ -2,10 +2,13 @@
 title: Incursion'lar
 description: Thargoid Incursion ve Infestation'larına dair
 published: true
-date: 2021-11-23T03:07:27.622Z
-tags: thargoids, incursions, infestations
+date: '2021-11-23T03:07:27.622Z'
+tags:
+  - thargoids
+  - incursions
+  - infestations
 editor: markdown
-dateCreated: 2021-10-06T05:49:43.590Z
+dateCreated: '2021-10-06T05:49:43.590Z'
 ---
 
 # Thargoid Infestation
@@ -45,3 +48,4 @@ The **GalNet Thargoid Activity report** will provide an up-to-date report on the
 Once a system has been cleared, damaged starports will enter the **Repairing** state at the next weekly tick.
 
 Damaged starports may enter the repairing state before the Incursion is cleared and they will destroyed again at the next tick if the Incursion persists.
+

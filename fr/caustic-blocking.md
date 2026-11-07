@@ -2,10 +2,13 @@
 title: Blocage du caustique
 description: Guide avancé sur le blocages des missiles caustiques
 published: true
-date: 2021-06-27T22:11:11.254Z
-tags: combat, intercepteurs, missiles caustiques
+date: '2021-06-27T22:11:11.254Z'
+tags:
+  - combat
+  - intercepteurs
+  - missiles caustiques
 editor: markdown
-dateCreated: 2021-06-24T12:24:53.904Z
+dateCreated: '2021-06-24T12:24:53.904Z'
 ---
 
 # Blocage des missiles caustiques

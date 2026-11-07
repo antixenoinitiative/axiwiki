@@ -2,10 +2,12 @@
 title: Hyperdiction'lar
 description: Thargoid Hyperdiction'ları hakkında
 published: true
-date: 2021-11-02T02:54:47.410Z
-tags: thargoids, interceptors
+date: '2021-11-02T02:54:47.410Z'
+tags:
+  - thargoids
+  - interceptors
 editor: markdown
-dateCreated: 2021-10-06T05:49:37.446Z
+dateCreated: '2021-10-06T05:49:37.446Z'
 ---
 
 # Hyperdiction'lar
@@ -72,3 +74,4 @@ CMDR Maligno tarafından hazırlanan raporun tamamın buradan ulaşabilirsiniz: 
 CMDR Katie Byrne, Hyperdictionlar hakkında kapsamlı bir rehber hazırladı. Çoklu Thargoid Interceptor ortamlarında yeteneklerinizi test etmek istiyorsanız onun önerilerini dinlemeniz şiddetle tavsiye edilir.
 
 [Hyperdiction Savaş Rehberi](https://youtu.be/MpC02cetBlY)
+

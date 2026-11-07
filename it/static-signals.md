@@ -2,10 +2,13 @@
 title: Static Signal Sources
 description: Static Thargoid Locations
 published: true
-date: 2021-08-29T14:12:25.008Z
-tags: thargoids, interceptors, scouts
+date: '2021-08-29T14:12:25.008Z'
+tags:
+  - thargoids
+  - interceptors
+  - scouts
 editor: markdown
-dateCreated: 2021-06-24T12:28:20.479Z
+dateCreated: '2021-06-24T12:28:20.479Z'
 ---
 
 # Static Thargoid Signal Sources

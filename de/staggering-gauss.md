@@ -1,11 +1,16 @@
 ---
 title: Versetztes Gauss-Kanonen Feuer
-description: Vorteile und verschiedene Herangehensweisen, beim versetzten Abfeuern von Gauss-Kanonen.
+description: >-
+  Vorteile und verschiedene Herangehensweisen, beim versetzten Abfeuern von
+  Gauss-Kanonen.
 published: true
-date: 2021-06-30T04:42:40.999Z
-tags: combat, weapons, controls
+date: '2021-06-30T04:42:40.999Z'
+tags:
+  - combat
+  - weapons
+  - controls
 editor: markdown
-dateCreated: 2021-06-24T12:24:13.533Z
+dateCreated: '2021-06-24T12:24:13.533Z'
 ---
 
 # Gauss-Kanonen Feuer versetzen

@@ -2,10 +2,12 @@
 title: Waffen
 description: Detailed breakdown of Anti-Xeno Weaponry
 published: true
-date: 2021-10-30T10:50:53.036Z
-tags: ausrüsten, module
+date: '2021-10-30T10:50:53.036Z'
+tags:
+  - ausrüsten
+  - module
 editor: markdown
-dateCreated: 2021-06-24T12:24:35.155Z
+dateCreated: '2021-06-24T12:24:35.155Z'
 ---
 
 # AX Waffen
@@ -93,3 +95,4 @@ Another one of Salvation's pet projects, the stats for this weapon remain to be 
 **Recommendation:** None yet, although it is expected to be powerful.
 
 Note: See [Salvation Gauss](https://wiki.antixenoinitiative.com/es/salvation-gauss) for more information
+

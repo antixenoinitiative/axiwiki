@@ -2,10 +2,12 @@
 title: Scouts
 description: Zu Thargoid Scouts
 published: true
-date: 2021-08-03T05:03:58.181Z
-tags: thargoids, scouts
+date: '2021-08-03T05:03:58.181Z'
+tags:
+  - thargoids
+  - scouts
 editor: markdown
-dateCreated: 2021-06-24T12:24:03.773Z
+dateCreated: '2021-06-24T12:24:03.773Z'
 ---
 
 # Scouts

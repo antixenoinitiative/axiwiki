@@ -2,10 +2,11 @@
 title: Équipements Recommandés
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2022-01-20T10:13:55.961Z
-tags: équipement
+date: '2022-01-20T10:13:55.961Z'
+tags:
+  - équipement
 editor: markdown
-dateCreated: 2021-06-24T12:24:51.347Z
+dateCreated: '2021-06-24T12:24:51.347Z'
 ---
 
 # Equipements Recommandés
@@ -253,3 +254,4 @@ And you’re good to go!
 - Alternatively can fit 2x AX Multi-Cannons in large hardpoints, and 2x Guardian Gauss Cannons in the medium hardpoints (allows for Gauss aim practice and becomes more effective once the user is proficient with Gauss)
 - High mobility to keep targets in range or disengage.
 - Mobility allows for use of Bi-Weave shields, disengaging for shield regen.
+

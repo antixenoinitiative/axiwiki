@@ -2,10 +2,14 @@
 title: Thargoid Herzen
 description: Explanation of Thargoid Hearts and related mechanics
 published: true
-date: 2021-10-06T05:37:12.951Z
-tags: thargoids, interceptors, gefecht, herzen
+date: '2021-10-06T05:37:12.951Z'
+tags:
+  - thargoids
+  - interceptors
+  - gefecht
+  - herzen
 editor: markdown
-dateCreated: 2021-06-24T12:23:25.597Z
+dateCreated: '2021-06-24T12:23:25.597Z'
 ---
 
 # Thargoid Herzen
@@ -39,7 +43,7 @@ Das Herz hat eine recht kleine Hitbox und man muss sehr genau sein, um ihm Schad
 
 Thargoid Herzen befinden sich in den "Blütenblättern" des Interceptors. Sie erscheinen in einem semi-festen Muster für jede Variante, aber treten in einer zufälligen Reihenfolge hervor.
 
-Man kann die Herzen als Subziele auswählen, wenn man den Interceptor mithilfe eines Xeno-Scanners erfasst hat. Auf diese Weise kann man auch den Status aller Herzen im Kontakt-Panel der Armatur sehen.![heart_location.png](/img/heart_location.png)
+Man kann die Herzen als Subziele auswählen, wenn man den Interceptor mithilfe eines Xeno-Scanners erfasst hat. Auf diese Weise kann man auch den Status aller Herzen im Kontakt-Panel der Armatur sehen.![heart_location.png](/img/heart-location.png)
 
 # Herzen aufsammeln
 

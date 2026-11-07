@@ -2,10 +2,11 @@
 title: Known Bugs
 description: A list of known bugs and issues that affect AX
 published: true
-date: 2021-10-30T10:51:19.572Z
-tags: bugs
+date: '2021-10-30T10:51:19.572Z'
+tags:
+  - bugs
 editor: markdown
-dateCreated: 2021-10-30T10:51:17.710Z
+dateCreated: '2021-10-30T10:51:17.710Z'
 ---
 
 # Known Bugs
@@ -62,5 +63,6 @@ These are the bugs which we request you vote for/confirm first, as they are the 
 - [Thargoid Interceptors Don't Release Swarms Near Planet Surface](https://issues.frontierstore.net/issue-detail/237)
 - [Low Canopy Integrity](https://issues.frontierstore.net/issue-detail/1081)
 - [Turret Ax multicannon not firing unles Thargoid under 2k from ship](https://issues.frontierstore.net/issue-detail/3632)
+
 
 

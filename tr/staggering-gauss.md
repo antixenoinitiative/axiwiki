@@ -2,10 +2,13 @@
 title: Gauss Atışlarını Bölmek
 description: Gauss atışlarını bölmenin faydaları ve farklı yolları.
 published: true
-date: 2021-11-02T02:55:39.171Z
-tags: combat, weapons, controls
+date: '2021-11-02T02:55:39.171Z'
+tags:
+  - combat
+  - weapons
+  - controls
 editor: markdown
-dateCreated: 2021-10-06T05:50:55.589Z
+dateCreated: '2021-10-06T05:50:55.589Z'
 ---
 
 # Gauss Atışlarını Bölmek
@@ -38,3 +41,4 @@ Nihai yöntemdir. En iyi SDPS'i sunarken en iyi termal performansa sahiptir (mak
 ## Taramalı
 
 Taramalı Gauss biraz değişiktir. Atış gruplarınızı hızlıca değiştirebilmek için makro atamanızı gerektirir. Bu yöntemin amacı hasarınızı ve distribütör yükünü yayıp en iyi termal performans elde ederken en yüksek DPS'e de sahip olmanızdır. CMDR Aranionros Stormrage tarafından icat edilmiştir.
+

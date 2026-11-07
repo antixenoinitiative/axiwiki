@@ -2,10 +2,13 @@
 title: Thargoids
 description: Zu Thargoids
 published: true
-date: 2021-08-03T05:04:05.489Z
-tags: thargoids, interceptors, scouts
+date: '2021-08-03T05:04:05.489Z'
+tags:
+  - thargoids
+  - interceptors
+  - scouts
 editor: markdown
-dateCreated: 2021-06-24T12:24:27.807Z
+dateCreated: '2021-06-24T12:24:27.807Z'
 ---
 
 # Thargoids
@@ -35,3 +38,4 @@ Glücklicherweise hat die Menschheit nicht nur eine eigene Reihe von AX (Anti-Xe
 [**Lies mehr zu den Interceptors**](/en/interceptors)
 
 [**Lies mehr zu den Scouts**](/en/scouts)
+

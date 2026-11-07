@@ -2,10 +2,12 @@
 title: Optional Internals
 description: AX'da kullanılan modüllere kısa bir giriş
 published: true
-date: 2021-11-02T02:54:56.832Z
-tags: outfitting, modules
+date: '2021-11-02T02:54:56.832Z'
+tags:
+  - outfitting
+  - modules
 editor: markdown
-dateCreated: 2021-10-06T05:49:50.329Z
+dateCreated: '2021-10-06T05:49:50.329Z'
 ---
 
 # Optional Internals
@@ -111,3 +113,4 @@ SFN ayrıca 3 km yarıçapında menzile sahip olup bu hacim içerisindeki tüm g
 ## Heatsink Launcher
 
 AX donanımınızda bu modül yoksa çok yanlış yapıyorsunuz. Heatsinkler, Gauss'ların ortaya çıkardığı yüksek sıcaklıktan kurtulmanın tek etkin yoludur. Atış grubuna atayabilir ya da kısayol tuşuyla kullanabilirsiniz. Düşük miktarda SYS kapasitörü çekerken 10 saniyede hızlı soğuma sağlayıp WEP kapasitörüne 2 MW güç sağlarlar. Heatsinkler cold orbiting'e imkan sağlayarak, Thargoidlerin çoğu atışlarını ıskalamalarına sebep olur. Daha fazla bilgi için Cold Orbiting sayfasına göz atın.
+

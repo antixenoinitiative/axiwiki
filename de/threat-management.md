@@ -2,10 +2,15 @@
 title: Bedrohung steuern
 description: Understanding Thargoid Interceptor Threat Management
 published: true
-date: 2021-10-06T05:37:52.428Z
-tags: combat, guide, thargoids, interceptors, threat
+date: '2021-10-06T05:37:52.428Z'
+tags:
+  - combat
+  - guide
+  - thargoids
+  - interceptors
+  - threat
 editor: markdown
-dateCreated: 2021-06-24T12:24:32.745Z
+dateCreated: '2021-06-24T12:24:32.745Z'
 ---
 
 # Bedrohung steuern

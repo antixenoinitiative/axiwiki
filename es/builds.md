@@ -2,10 +2,11 @@
 title: Construcciones Recomendadas
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2022-06-20T04:11:34.001Z
-tags: construcciones
+date: '2022-06-20T04:11:34.001Z'
+tags:
+  - construcciones
 editor: markdown
-dateCreated: 2021-06-24T23:36:09.096Z
+dateCreated: '2021-06-24T23:36:09.096Z'
 ---
 
 # Construcciones Recomendadas
@@ -253,3 +254,4 @@ Y últimamente, debido a la naturaleza simple de la caza de exploradores, casi c
 - Alternativamente puede equipar 2 Multi Cañones AX en anclajes grandes y 2 Cañones Gauss Guardian en los anclajes medianos (permite la práctica de la puntería de Gauss y se vuelve más eficaz una vez que el piloto es competente con Gauss)
 - Alta movilidad para mantener los objetivos dentro o fuera del alcance segun desea el piloto.
 - La movilidad permite el uso de escudos Entrelazados, saliendo de combate para la regeneración del escudo.
+

@@ -2,10 +2,13 @@
 title: Fuentes de Señales Permanentes
 description: Ubicaciones fijas de Thargoides
 published: true
-date: 2021-08-29T14:12:20.190Z
-tags: scouts, interceptores, thargoides
+date: '2021-08-29T14:12:20.190Z'
+tags:
+  - scouts
+  - interceptores
+  - thargoides
 editor: markdown
-dateCreated: 2021-06-24T23:37:34.589Z
+dateCreated: '2021-06-24T23:37:34.589Z'
 ---
 
 # Señales Fijas de Thargoides

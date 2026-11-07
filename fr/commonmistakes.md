@@ -2,10 +2,13 @@
 title: Erreurs fréquentes
 description: Common mistakes to avoid when hunting Thargoids
 published: true
-date: 2021-10-06T05:39:16.576Z
-tags: builds, outfitting, engineer
+date: '2021-10-06T05:39:16.576Z'
+tags:
+  - builds
+  - outfitting
+  - engineer
 editor: markdown
-dateCreated: 2021-06-24T12:25:03.902Z
+dateCreated: '2021-06-24T12:25:03.902Z'
 ---
 
 # Erreurs fréquentes de modules

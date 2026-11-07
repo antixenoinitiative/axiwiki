@@ -2,10 +2,12 @@
 title: Оружие
 description: Подробная информация о AX-оружии
 published: true
-date: 2022-01-20T10:15:22.789Z
-tags: модули, снаряжение
+date: '2022-01-20T10:15:22.789Z'
+tags:
+  - модули
+  - снаряжение
 editor: markdown
-dateCreated: 2021-06-24T12:30:43.806Z
+dateCreated: '2021-06-24T12:30:43.806Z'
 ---
 
 # АХ-оружие
@@ -93,3 +95,4 @@ Another one of Salvation's pet projects, the stats for this weapon remain to be 
 **Recommendation:** None yet, although it is expected to be powerful.
 
 Note: See [Salvation Gauss](https://wiki.antixenoinitiative.com/es/salvation-gauss) for more information
+

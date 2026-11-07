@@ -2,10 +2,11 @@
 title: Empfohlene Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: 2022-01-20T10:13:48.833Z
-tags: builds
+date: '2022-01-20T10:13:48.833Z'
+tags:
+  - builds
 editor: markdown
-dateCreated: 2021-06-10T08:08:05.460Z
+dateCreated: '2021-06-10T08:08:05.460Z'
 ---
 
 # Empfohlene Builds
@@ -253,3 +254,4 @@ Und das wär's.
 - Kann alternativ zwei AX Geschützte in großen, und zwei Gauss Kannonen in mittleren Slots ausrüsten (Gauss erlaubt es mit ihnen zu üben und die Kannonen werden mit steigendem Können rentabler)
 - Hohe Mobilität, um Ziele in Reichweite zu behalten oder zu flüchten.
 - Die Mobilität ermöglicht den Einsatz von Bi-Weave-Schildern, wo man zur Schildregenerierung gehen kann.
+

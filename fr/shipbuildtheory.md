@@ -2,10 +2,14 @@
 title: Théorie pour l'Equipement de Vaisseaux
 description: Comprehensive guide on general AX build theory
 published: true
-date: 2021-10-06T05:39:45.038Z
-tags: builds, theory, engineering, outfitting
+date: '2021-10-06T05:39:45.038Z'
+tags:
+  - builds
+  - theory
+  - engineering
+  - outfitting
 editor: markdown
-dateCreated: 2021-10-06T05:39:42.543Z
+dateCreated: '2021-10-06T05:39:42.543Z'
 ---
 
 # Théorie pour l'Equipement de Vaisseaux

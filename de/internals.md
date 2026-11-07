@@ -2,10 +2,12 @@
 title: Optionale Einbauteile
 description: Eine kurze Einführung in die Verwendung der verschiedenen Module in AX.
 published: true
-date: 2021-08-26T04:18:52.968Z
-tags: module, ausrüstung
+date: '2021-08-26T04:18:52.968Z'
+tags:
+  - module
+  - ausrüstung
 editor: markdown
-dateCreated: 2021-06-24T12:23:37.154Z
+dateCreated: '2021-06-24T12:23:37.154Z'
 ---
 
 # Intern (optional)

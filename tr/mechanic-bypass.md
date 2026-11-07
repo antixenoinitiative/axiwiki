@@ -2,10 +2,13 @@
 title: Mekanik Atlama Rehberi
 description: Thargoid savaşlarında bazı mekanikler nasıl atlanır
 published: true
-date: 2021-11-02T02:55:03.955Z
-tags: combat, thargoids, interceptors
+date: '2021-11-02T02:55:03.955Z'
+tags:
+  - combat
+  - thargoids
+  - interceptors
 editor: markdown
-dateCreated: 2021-10-06T05:50:00.586Z
+dateCreated: '2021-10-06T05:50:00.586Z'
 ---
 
 # Uyku Evresi Mekanikleri
@@ -74,3 +77,4 @@ _Panik kalkanları için detaylı bili için bkz._ [**_*Thargoid Kalkanları*_**
 Panik kalkanı; Thargoid Interceptor'ün, bir Kalbi kaybettikten sonra ortaya çıkardığı kalkanını çok erken sürede kaybederse ortaya bir anda çıkardığı kalkandır. Ayrıca, kalkanlar uyku evresi bitmeden önce kırılırsa da panik kalkanı tetiklenebilir. Ancak bunun için kalkanı kıran hedefin mevcut hedef olması ve **Hedefe Kilitli** durumu gerekir.
 
 Dolayısıyla, kalkanları uyku evresinden önce yok ederseniz Interceptor'ün bu evre bitmeden önce **uyanmayacağına** emin olmalısınız.
+

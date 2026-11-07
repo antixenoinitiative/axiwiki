@@ -2,10 +2,11 @@
 title: Synthèse
 description: Informations sur la Synthèse en combat AX.
 published: true
-date: 2021-08-03T05:04:52.355Z
-tags: ingénierie
+date: '2021-08-03T05:04:52.355Z'
+tags:
+  - ingénierie
 editor: markdown
-dateCreated: 2021-06-24T12:26:20.035Z
+dateCreated: '2021-06-24T12:26:20.035Z'
 ---
 
 # Synthèse
@@ -94,4 +95,5 @@ Nous conseillons de n'utiliser que des réapprovisionnement MAE basiques, les sy
 - Zinc x2
 - Chrome x2
 - Vanadium x3
+
 

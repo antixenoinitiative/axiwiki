@@ -2,10 +2,13 @@
 title: Non-Human Signal Sources
 description: About Non-Human Signal Sources and Finding Thargoids
 published: true
-date: 2021-08-26T04:19:08.193Z
-tags: thargoids, interceptors, scouts
+date: '2021-08-26T04:19:08.193Z'
+tags:
+  - thargoids
+  - interceptors
+  - scouts
 editor: markdown
-dateCreated: 2021-06-24T12:25:52.457Z
+dateCreated: '2021-06-24T12:25:52.457Z'
 ---
 
 # Non-Human Signal Sources

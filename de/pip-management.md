@@ -2,10 +2,12 @@
 title: Leitfaden für Pip-Management
 description: Wie man Pips am besten im Thargoid-Kampf steuern kann
 published: true
-date: 2021-06-29T22:11:30.456Z
-tags: gefecht, steuerung
+date: '2021-06-29T22:11:30.456Z'
+tags:
+  - gefecht
+  - steuerung
 editor: markdown
-dateCreated: 2021-06-24T12:23:54.046Z
+dateCreated: '2021-06-24T12:23:54.046Z'
 ---
 
 # Leitfaden für Pip-Management
@@ -22,3 +24,4 @@ Beim Abfeuern von Gauss ist darauf zu achten, 3-4 Pips in WEP zu halten, um die 
 Ein weiteres Beispiel für die Vorteile: Die Übertragung von 4 Pips auf sys kurz vor dem Aufprall der Geschosse des Interceptors führt zu einer 60%igen Erhöhung der Schildschadensresistenz, was einer ~2,6-fachen Erhöhung der Schildstärke entspricht. Mit Hilfe von Makros kann man schnell von 4-0-2 auf 0-2-4 umschalten, um die maximale Wiederaufladungsrate der Gauss aufrechtzuerhalten, den Antrieb konstant aufzuladen und sicherzustellen, dass die Schilde immer auf dem maximalen Widerstand sind. Immer vermeiden, dass die Energie in System zur Neige geht, da sonst kein Kühlkörper gezündet werden kann.
 
 ![pips.png](/img/pips.png) {.align-center}
+

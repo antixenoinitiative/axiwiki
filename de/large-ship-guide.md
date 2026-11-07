@@ -1,0 +1,147 @@
+---
+title: Large Ship Guide
+description: Combat guide for Large Ships
+published: true
+date: '2021-07-07T13:28:32.282Z'
+tags:
+  - combat
+  - thargoids
+editor: visual
+dateCreated: '2021-06-24T12:23:39.634Z'
+---
+
+# Leitfaden für grosse Schiffe
+
+von CMDR Aterius in Zusammenarbeit mit CMDR Aranionros Stormrage und CMDR Painbeaver.
+
+Grosse Schiffe können anhand der Höchstgeschwindigkeit in zwei Kategorien eingeteilt werden. Der Imperial Cutter ist im Gegensatz zur Anaconda, Federal Corvette, Beluga und Type-10 in der Lage, eine Hydra, Medusa, Cyclops und den Thargon-Schwarm (mit Ausnahme des Basilisken) zu überholen. Dies gibt dem Cutter Zeit, Kühlkörper zu synthetisieren, Module zu reparieren und den Schwarm zu rückwärts driftend zu bekämpfen(siehe [AX Flight Manual](/en/basic-combat-guide)). Andere Schiffe müssen den Thargoiden für die gesamte Dauer des Kampfes tanken oder strategisch mit Hilfe von Kalt-Umkreisen kiten.
+
+*Seit Patch 3.3 können die schiffsgestarteten Kampfjets nicht mehr die Aggro des Interceptors übernehmen!*
+
+## Wahl des Schiffes
+
+Die besten grossen Schiffe für den AX-Kampf sind der Cutter, die Corvette und die Anaconda in (ungefähr) dieser Reihenfolge. Der Hauptvorteil des Cutters ist seine Geschwindigkeit und die grosse Schildkapazität, allerdings sind die an den Tragflächen montierten Waffen nur für Flak-Werfer geeignet.
+
+Die Corvette übertrifft die Anaconda deutlich durch ihre Manövrierfähigkeit, zwei zusätzliche interne Slots der Grösse 7, in die grössere Schildzellenbänke (SCBs) eingebaut werden können, einen viel höheren Basis-Schildwert und eine viel bessere Waffenplatzierung, obwohl sie theoretisch etwas weniger DPS hat, da sie kleine Gauss-Kanonen verwendet (in der Praxis ist der Unterschied nicht allzu signifikant).
+
+Hier sind einige empfohlene Konfigurationen:
+
+[**AX Cutter**](https://www.google.com/url?q=https%3A%2F%2Fcoriolis.io%2Foutfit%2Fimperial_cutter%3Fcode%3DA2putuFplxdusCf60H0v0H0H0Hx8x80202040404040404p7615n5n2d2d2d2d2d2Jm508.AwRj4yvZS4g%253D.EwBj4yvBGHuEA%253D%253D%253D.H4sIAAAAAAAAA42SPUsDQRCGJ58aE3O5Sy65xHxpLgZSSCyFgJUgomCnpf4AwULBIoU2Ym1hZZGfYCFokdIfYGkhFtYWFkGCnDu%252BE5LtAnvFw8D77Oze7pCaI6K%252FGBDcAslBmGjxMkVkH6JynpNE%252FjBExCG1qc0eMP%252BSILK6P8z5voU8rPI6PwMs%252F5c59wW4knsPUaLGaQFmRJW0eTE1xzvlei7MdyQcVesiRSU%252F%252Bkb%252B%252BMnMMdXVS6%252BAhCxdECwLVlKKuSmbrHZsNImr46nuZFpEa9tD5uJuBVFCHehOVaC9T5PfHe9fFJ0t1RQpAtBNdtKkLBVnZke22tKt7%252BX80tDpnKO13FntLQ3JMZGyJlLORHJNpLyJVFB7WjoBwl7AHJfXTW7gNuwPwBXTH2C02FM703sKroFQHxMzfnHvFXmrjqQxGuFti8ZmydhcUm192DsZ7yeU6XoZ55TKkcn0peKysVkxNqvGZs3YZJr1%252FQN884sEywMAAA%253D%253D.EweloBhAWEoUwIYHMA28QgIwV3fEQA%253D%253D%26bn%3DAX%2520Cutter&sa=D&sntz=1&usg=AFQjCNGl9umaUi4BtXqUrnKpOFP-0ei9Jg)
+
+[**AX Cutter mit Reparatur**](https://www.google.com/url?q=https%3A%2F%2Fcoriolis.io%2Foutfit%2Fimperial_cutter%3Fcode%3DA2putuFplxdusCf60H0v0H0H0Hx8x80202040404040404p7615n5n059v2d2d2dm7m508.AwRj4yuziA%253D%253D.EwBj4yvBGHuEA%253D%253D%253D.H4sIAAAAAAAAA42SPUsDQRCGJ596JuZyl1xyCfnSXAykkFgKAStBRMFOS%252F0BgoWCRQrTiLWFlUV%252BgoWgRUp%252FgKWFWFhbWAQJEnd8JyRbKewVDwPvs7N7u0Nqjoh%252BYsD4GkgMwkSLF0ki5wCV%252B5ggCoYhIg6pDW12gfkni8jufDHn%252BjbysMrp%252FBSwg2%252Fm7AfgSe7fRYnqJ3mYEVXU5vnMnOyU7XowX5FwVK2JFJX88BP5%252FTszx1RHL%252B0BlixdECwJlpOKuSGbrLQdNImro5nupptEq1tD5sJOGZGl9nWnCtDao%252BnvTvYviM62aogUAegqM21SkorT%252F0eO2tStb%252BX80tBtn6G13Fn1JQXJNZEyJlLWRPJMpJyJlFe7WjoGwv6YOS6vm1jHbThvgCdmMMBosa%252B2Z%252Fc0vgRCfUzM5MX9Z%252BTNGpL6aIS3LRibRWOzrFr6sDcy3g8oU7USzimVK5MZSMUVY7NqbDL9%252Ff0CfP19E3UDAAA%253D.EweloBhAWEDZYFMCGBzANokICMF8hRFA%26bn%3DAX%2520Cutter%2520%28With%2520Repairs%29&sa=D&sntz=1&usg=AFQjCNG19oaFfJTuhLIOHWncIYs2CpHn7A) **-** [](https://www.google.com/url?q=https%3A%2F%2Fcoriolis.io%2Foutfit%2Fimperial_cutter%3Fcode%3DA2putuFplxdusCf60H0v0H0H0Hx8x80202040404040404p7615n5n059v2d2d2dm7m508.AwRj4yuziA%253D%253D.EwBj4yvBGHuEA%253D%253D%253D.H4sIAAAAAAAAA42SPUsDQRCGJ596JuZyl1xyCfnSXAykkFgKAStBRMFOS%252F0BgoWCRQrTiLWFlUV%252BgoWgRUp%252FgKWFWFhbWAQJEnd8JyRbKewVDwPvs7N7u0Nqjoh%252BYsD4GkgMwkSLF0ki5wCV%252B5ggCoYhIg6pDW12gfkni8jufDHn%252BjbysMrp%252FBSwg2%252Fm7AfgSe7fRYnqJ3mYEVXU5vnMnOyU7XowX5FwVK2JFJX88BP5%252FTszx1RHL%252B0BlixdECwJlpOKuSGbrLQdNImro5nupptEq1tD5sJOGZGl9nWnCtDao%252BnvTvYviM62aogUAegqM21SkorT%252F0eO2tStb%252BX80tBtn6G13Fn1JQXJNZEyJlLWRPJMpJyJlFe7WjoGwv6YOS6vm1jHbThvgCdmMMBosa%252B2Z%252Fc0vgRCfUzM5MX9Z%252BTNGpL6aIS3LRibRWOzrFr6sDcy3g8oU7USzimVK5MZSMUVY7NqbDL9%252Ff0CfP19E3UDAAA%253D.EweloBhAWEDZYFMCGBzANokICMF8hRFA%26bn%3DAX%2520Cutter%2520%28With%2520Repairs%29&sa=D&sntz=1&usg=AFQjCNG19oaFfJTuhLIOHWncIYs2CpHn7A)Hinweis: Sobald die C8-Bank erschöpft ist, sollte sie ausgeschaltet und die C6-Bank zu zweit verwendet werden.
+
+[**AX Corvette**](https://www.google.com/url?q=https%3A%2F%2Fcoriolis.io%2Foutfit%2Ffederal_corvette%3Fcode%3DA2putpFklkdzsxf50H0H0vx8x8yLyL0202040404040404p05s5s2d2d2d2d2d2d2bm7m508.Iw18ZVA%253D.IwBj4yu6g%253D%253D%253D.H4sIAAAAAAAAA42SO0sDURCFJ0%252FNw2yyySabmJdmYyCFxFIIWAkiCnZaam9hoWCRQhuxtrCyyE%252BwELQIqfwBlhZiYW1hESRIvOOZkNxCCNwtDgfOd2fuzh1Sc0T0G4KMbiCxnp9o4SJOlDqAs59iRN7AR8Q%252BtaHJDmT%252BOUJktb%252BZs10LuV9ldX4Ksbwf5swnxJHcvQ8S1U5yIAOqoMnzKTnulOk4IN%252BQcFCtCRSU%252FPAL%252BcMHM4dUWx%252B9hETkaFRkSWQ5rpjr0mSllUKRsDqa4nayQbS6NWDO75QQRdW%252BrlSGNPdo8rvj%252FnnB2VJ1gQIQuk5PihTFcXJ2lFKbuvSd3F8K2q0zlJaZVV4TgGwTKG0CZUwgxwTKmkA5tauhY4jfHTGH5XVj65hG6h3iCOn1sFrsqu3pnEZXEF8XGzN%252BcfcFeaOKpDYc4m3zxmRBNfUVbmVpH2ET1SK6i7Nl3zxxvGhMFo3JkjFZNiYrxmT1P9nXZF%252BT4php5vcH7DwcjvYDAAA%253D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%253D%253D%26bn%3DAX%2520Corvette&sa=D&sntz=1&usg=AFQjCNHhMnPfS6ApdC7sUqxQslCzT7wSvA)
+
+[**AX-Corvette mit Reparatur**](https://www.google.com/url?q=https%3A%2F%2Fcoriolis.io%2Foutfit%2Ffederal_corvette%3Fcode%3DA2putpFklkdzsxf50H0H0vx8x8yLyL0202040404040404p05sy4055n2d2d2d2d2bm7m509.AwRj4yu6g%253D%253D%253D.Aw18ZVA%253D.H4sIAAAAAAAAA42SO0sDURCFJ0%252FNQze7ySYbzUuzMZBCYikErAQRBTsttbewULBIoY1YW1hZ5CdYCFqEVP4ASwuxsLawCBIk3vFMSG4hBO4WhwPnuzN35w6pGSL6jUCGN5BEN0g0d5Eksg%252FgnKcEkd8PEHFAbWiyDZl9jhFZrW%252FmbMdCHlRZnZ9CLP%252BHOfMJcSX37sNE1ZMcyJBa0OT5hBx1yrRdkG9IOKzWBApLfviF%252FOGDmSOqpY9eQmJyNC6yJLKcVMw1abLStFEkqo4muJOqE61u9ZnzO0VEcbWvK5UgjT0a%252F%252B6of15wtlRNoBCErtPjIgVxnJoe2WpTl76T%252B0tBp3mG0jKz8us8IMcESptAGRPINYGyJlBO7WroGBL0hsxRed3EOqZhv0NcIf0uVos9tT2Z0%252FAKEuhgY0Yv7r0gr1eQVAcDvO2iMVlQDX2FW1naR9j5SgHdxTmyb744LhqTJWOybExW%252FpM9TfY0KY6Zpnx%252Fjh%252FFA6ADAAA%253D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%253D%253D%26bn%3DAX%2520Corvette%2520%28With%2520Repairs%29&sa=D&sntz=1&usg=AFQjCNHVSZo3KG0dgGmX1_k80xduheM-Zw)
+
+[**AX Anaconda**](https://www.google.com/url?q=https%3A%2F%2Fcoriolis.io%2Foutfit%2Fanaconda%3Fcode%3DA2putpFklkdzsxf50H0H0H0Hx8x80p0p0202040404040404p05n5n2d2d2d2d2d2b2bm72G08.AwRj4yuzRI%253D%253D.Aw18ZXEA.H4sIAAAAAAAAA42SO0sDURCFJ0%252BNidnsJptsYh4b3RhIIbEUAlaCiEI6LbVPYaEgIYU2Ym1hZZGfYCFokdIfYGkhFlaWFkGCxhlnFnOLQOBucRg43525c%252FcAzgHAb4RlfM0SHwQBFs8TAOYBV9ZjHMAbBgAogJuK7LHMP8UAjNYXUbZvsB%252FErPJPWIz2D1HGGRPZ4jsfIYCVqzSTISwo8kxI75vIn5Tp2Uy%252BskNhXBcoLP7hJ%252Fv370QUwZY6esESk6MLIlWR5QQS1Y5zAKtNk5tE8WiCW6k6wNr2kCi%252FW2IrifuqU5ml0Yb%252Fdf35ecHJ0IFSWBOI1wOQ%252FfxJRX9Tc7Zl4ZZqfStLSkOrecqt5WErL0mG0jpQRgeydaCsDpTTgRzcU1CHJSg5iN7x34xv8GuYbyy2kN6A80d53Jm80%252FiSJdDnWPmxcJ7Zr7uSndGIA1DQJpewoa5wI8l%252B4DLpFnm6VJaE0pOKitpkSZssT5MdRXYUKRVVtEl3muwqsqtIqaiqTRLM%252Fv4AR9wToBwEAAA%253D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%253D%253D%26bn%3DAX%2520Conda&sa=D&sntz=1&usg=AFQjCNHJJE34VFSolHWTB5ADQJIAStgmQg)
+
+[**AX Anaconda mit Reparatur**](https://www.google.com/url?q=https%3A%2F%2Fcoriolis.io%2Foutfit%2Fanaconda%3Fcode%3DA2putpFklkdzsxf50H0H0H0Hx8x80p0p0202040404040404p05n5n05y32d2d2d2b2bm7m308.AwRj4yuzRI%253D%253D.Aw18ZXEA.H4sIAAAAAAAAA42SO0sDURCFJ0%252BNidnsJptsQh4b3RhIIbEUAlaCiEI6LbVPYaEgIUVsxNrCyiI%252FwULQIqU%252FwNJCLKwsLYIEjTPOLOYWgcDd4jBwvjtz5%252B4BXACA3wjL5JolPgwCLPcTAOYhV9ZjHMAbBQAogFuK7LEsPsUAjNYXUXZgsB%252FErPJPWYz2D1HGmRDZ4jsfIYDVqzSTISwo8lxI75vIn5Tp2Uy%252BskNh3BAoLP7RJ%252Fv370QUwZY6esESk6NLIlWRlQQS1U5yAGtNk5tE8XiKW6k6wPrOiCi%252FV2IriQeqU5ml0Yb%252Fdf35ecHJ0IFSWBOI1wOQ%252FfxJRX9Tc75l4bZqfStLSkOrecat5WErL0mG0jpQRgeydaCsDpTTgRzcV1CHJSg5iN7x34xv8muYbyy2kN6Q80d53J2%252B0%252BSSJTDgWPmxcJ7Zr7uSnfGYA1DQJkvYUFe4kWQ%252FcJl0izxdKktC6UlF5Vmyo8iOIqWiijbpzpJdRXYVKRVVtUmCed8feR%252BLyMYDAAA%253D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%253D%253D%26bn%3DAX%2520Conda%2520%28Repair%2520Limpets%29&sa=D&sntz=1&usg=AFQjCNF_cIMw-as115uGCg0pDGRRoJNXxg)
+
+**HINWEIS:**
+
+Prismatische oder A-klassifizierte Schilde sind austauschbar (obwohl Prismatische besser sind)
+
+Anstelle von Schildverstärkern kann man auch einen Abschaltfeld-Neutralisator oder einen Xeno-Scanner verwenden. Ein Xeno-Scanner ist funktionell eine Verschwendung von Slots in Solokämpfen, aber es ist ratsam, dass mindestens eine Person einen Scanner in den Teamkampf mitbringt.
+
+### Sonstige grosse Schiffe
+
+Die anderen grossen Schiffe sind, offen gesagt, schrecklich für den AX Interceptor Kampf. Der T-10 hat eine miserable Konvergenz, ist sehr langsam und hat fast keine Manövrierfähigkeit. FDev hat gelogen, der T-10 ist nicht die Meta für AX Interceptor-Kampf (obwohl sehr passabel für Scouts). Der T-9 leidet noch mehr unter den gleichen Mängeln. Die Beluga ist ein Passagierschiff. Obwohl man sie technisch für den AX-Kampf ausrüsten könnte, hat sie einen unterdimensionierten Verteiler und ist nicht so tanky, daher eher für mittlere Schiffsstrategien geeignet, die im AXFM behandelt werden. Der Imperial Clipper und der Orca sind zwar schnell, aber im Wesentlichen mittelgrosse Schiffe mit der Dimension eines grossen Schiffes.
+
+## Strategie für grosse Schiffe
+
+Siehe [Abschnitt Strategie](/en/basic-combat-guide) für Details zum grundlegenden Interceptor-Kampf. Das Grundmuster der Schwarmzerstörung, Herzhervortretung, Herzzerstörung ist das gleiche. Anders als bei kleinen/mittleren Schiffen kann ein grosses Schiff im Wesentlichen den Schaden der Hauptkanone des Interceptors aufnehmen. Der Schlüssel zum Erfolg liegt darin, den Schwarm rechtzeitig anzugreifen, SCB konsequent zu nutzen, die Pips zu verwalten und den Blitzangriff zu vermeiden, indem man einen angemessenen Abstand einhält.
+
+### Das erste Herz
+
+Für das erste Herz gibt es zwei Möglichkeiten. Man kann entweder das erste Herz sofort zerstören, während der Schwarm (relativ) stationär ist, oder sich zuerst um den Schwarm kümmern. Während dieser Anfangszeit ist man vor dem Blitzangriff sicher, und es dauert nur etwa 30 Sekunden, um den ersten Schwarm zu zerstören. Nachdem man den ersten Schwarm zerstört hat, kann man leicht mehrere Schüsse in den zweiten Schwarm abfeuern, wenn dieser gerade dabei ist zu erscheinen. Der Nachteil, den Schwarm zu zerstören, bevor man das Herz angreift, ist, dass man mehr Schaden von der Interceptor-Kanone nimmt. Angesichts der Stärke der Schilde wird dieser Schaden vernachlässigbar sein.
+
+Nachdem man das erste Herz zerstört hat, muss man sich mit zwei Blitzangriffen auseinandersetzen.
+
+Sofort 4 Pips auf Triebwerke setzen und wegboosten. Wenn es sich um einen Cutter handelt, sind Sie schnell genug, um den Blitzen ganz auszuweichen. Wenn nicht, dreht man im FA-Off um und verlangsamt auf ~100m/s und wenn der Interceptor bis auf 1,5km herankommt, boostet man an ihm vorbei. Der Blitz sollte einen nur für ein paar Sekunden erwischen, dann driftet man weg. Wenn die Schilde nicht voll sind, sollte man SCBs einsetzen, bevor man sich dem Interceptor nähert, um sicherzustellen, dass er nicht ausfällt. Sicherstellen, dass man 4 Pips auf SYS hat (jetzt und immer dann, wenn man erwartet, von einem Blitzangriff erwischt zu werden).
+
+### Vermeidung des Blitzes
+
+Der Blitz richtet im Vergleich zum Kanonenangriff des Interceptors massiven Schildschaden an (er richtet jedoch fast keinen Schaden an der Hülle an).
+
+**Cyclops** \- 8 sec - 800 Schaden
+
+**Basilisk** \- 10 sec - 1700 Schaden
+
+**Medusa** \- 12 sec - 2800 Schaden
+
+**Hydra** \- 14 sec - 4400 Schaden
+
+Da man sich auf Schildtanking verlässt, sollte ein großes Schiff den Blitzangriff um jeden Preis vermeiden. Interceptoren folgen einer Angriffsphase vom ersten Schuss auf das Schiff bis zu dem Zeitpunkt, an dem es sich von einem abwendet und nicht mehr angreift; dies wird umgangssprachlich als "Wiederbewaffnungsphase" bezeichnet. Der Interceptor setzt den Blitzangriff nur einmal pro dieser Angriffsläufe ein.
+
+*Die effektivste Strategie ist daher, den Blitz bei jedem Angriffslauf zu entladen, indem man innerhalb von 800m mit einer hohen Relativgeschwindigkeit am Interceptor vorbeifliegt, um zu verhindern, dass er diesen Spezialangriff tatsächlich einsetzt.*
+
+Der Interceptor zeigt zwei verschiedene Verhaltensweisen, nachdem er nach seiner "Wiederbewaffnung" anzugreifen beginnt, abhängig von der eigenen Entfernung zu dem Zeitpunkt, an dem der Thargoid seinen Angriffslauf beendet (sich von einem abwendet), was man nutzen kann, um seinen Blitzangriff zu entschärfen. Die beste Strategie ist es, während jeder Wiederbewaffnungsphase vorrangig ausserhalb von 1,5 km zu bleiben, um Szenario 1 auszulösen.
+
+**Szenario 1 um 1,5 km oder grösser**: Der Interceptor dreht sich auf das Schiff zu und beginnt mit hoher Geschwindigkeit direkt auf das Schiff zuzufahren, mit Schwung. Man kann entweder an ihm vorbeiboosten oder stationär bleiben.
+
+**Weniger als 1,5 km:** Der Interceptor könnte seinen Blitzangriff nicht sofort auslösen. Man sollte vorsichtig sein und sich darauf vorbereiten, an dem Thargoid in FA-off vorbeizuboosten, wenn er zum Angriff ansetzt. Oder wenn man in der Lage ist, ein Herz auszuschalten, bevor die Dauer des Blitzes endet, sollte man dies tun und dann einen Kalt-Neustart durchführen, um die Schilde sofort wiederherzustellen.
+
+### Blitz-Ramme
+
+Eine alternative und wohl effektivere Methode, um dem ersten Blitzangriff weitgehend auszuweichen, ist das Manöver "Blitzramme". Wenn man den Thargoid mit ausreichend hoher Geschwindigkeit rammt, kann man ihn aus der Blitzreichweite drängen und so den Blitz abkürzen und dabei den Schild abbauen.  
+  
+Siehe das eingebettete Video für ein visuelles Beispiel.
+
+**HINWEIS: Dies funktioniert nur für den ersten Blitzangriff nach dem ersten Herz! (Während der Phase "Glühendes Gelb") Zu jeder anderen Zeit wird es schwierig sein, den Thargoiden mitten im Angriffslauf zu rammen und/oder ihn nicht aus der Reichweite zu bringen!**
+
+### Den Schwarm angreifen
+
+Nach der Zerstörung des Herzens ist es das erste Ziel, den Schwarm zu vernichten. Wenn man in einem Cutter sitzt, kann man nach dem AXFM vorgehen (Rückwärtsgleiten, um den Schwarm vom Interceptor wegzulocken, und Angriff). In einer Conda oder Corvette wird die Situation schwieriger. Da man nicht schnell genug ist, um dem Schwarm zu entkommen, hat man mehrere Möglichkeiten.
+
+**Option 1: Nahkampf mit dem Schwarm (besser für Anaconda/Corvette)**  
+Nachdem der Schwarm durch das Schiff geflogen ist, fliegt er noch etwa 2 km weiter, bis er seinen Kurs korrigiert. Wenn man eine Fa-Off-Drehung einsetzt und den Schwarm verfolgt, wird er in einer geraden Linie, eng gruppiert, weiterziehen, solange er unter 2 km vom Schiff entfernt bleibt. Mit Boosting und Pip-Management bleibt man innerhalb dieses Abstands, wobei der optimale Abstand ca. 600 m beträgt.  
+Während des Nahkampfs mit dem Schwarm ist es wichtig, dass man den Blitzstatus des Interceptors verfolgt. Man sollte darauf achten, dass man nach jedem Blitzangriffslauf (siehe oben) wartet, bis der Thargoid seinen Blitzangriff abbricht, um den Schwarm direkt anzugreifen.  
+Wenn der Schwarm zum Interceptor zurückkehrt, während man ihn jagt, und nicht mehr viele von ihnen übrig sind, kann man nach vorne boosten, sich fa-off umdrehen und rückwärtsgleiten.
+
+Wenn sich der Schwarm den 2 km nähert oder diese überschreitet, sollte nicht geboostet werden. Der Schwarm wird schnell den Kurs wechseln und angreifen. Diese Gelegenheit sollten man nutzen, um die Verfolgung des Schwarms wieder aufzunehmen. Wenn man boostet, wird man nicht in der Lage sein, die 2 km Abstand zu halten, nachdem der Schwarm wieder an einem vorbeigezogen ist.
+
+**Option 2: Rückwärtsgleitend den Schwarm angreifen (Besser für Cutter)**  
+Wenn man wegboostet und sich im fa-off umdreht, kann man Flak auf den Schwarm schiessen, während man sich entfernt. Der Cutter ist schnell genug, um dies sicher tun zu können, Conda/Corvette sind langsam und werden dem Feuer des Interceptors oder des Schwarms ausgesetzt sein
+
+### Schäden vermeiden
+
+Grosse Schiffe sind nicht manövrierfähig genug, um mit Tarnkappentechniken dem Feuer des Interceptors zu entgehen, und sie haben genügend Schilde und starke Hüllen, um es zu verkraften. Allerdings sollte man immer so viel Schaden wie möglich vermeiden, und grosse Schiffe können dies durch Rückwärtsgleiten und den Einsatz von vertikalen + seitlichen Schubdüsen erreichen, um einen Halborbit zu erreichen, der hier [gezeigt wird](https://youtu.be/RaISfj3LRqg).
+
+### Verwendung der SCB
+
+Für ein grosses Schiff sind die Schilde die beste (und wirklich einzige) Verteidigung. Large ships rely on slow regenerating shields which will not regenerate quickly once broken, requiring a reboot to regenerate in a timely manner. Es ist immer darauf zu achten, dass die SCB mit mindestens zwei vollen Ringen verwendet wird. Wenn ein Schaden am zweiten Ring des Schildes auftritt, muss die Anzahl verdoppelt werden. Dies beinhaltet das Zünden des ersten SCBs, das Zünden eines Kühlkörpers und dann das Zünden eines zweiten SCBs.
+
+### Utilizing Thermal Vent Beams to cool your Ship
+
+Map your beam lasers to a secondary fire group and utilize liberally to minimize reliance on heatsinks. Die primäre Funktion dieser Strahlen besteht darin, dass man nach dem Zerstören eines Herzens in der Nähe des Interceptors bleiben kann, um Schaden durch Semi-Orbiting zu vermeiden (mit einer Wärmesignatur nahe 0 werden die Sekundärangriffedes Interceptors deaktiviert (Kaustik/EMP). Die Laser helfen dabei, kalt zu bleiben, neu zu starten, Kühlkörper/Ammo zu synthetisieren und den Schild zu rammen.
+
+### Kalte Neustarts
+
+Im Gegensatz zu einem regulären Neustart ist ein kalter Neustart zuverlässiger erfolgreich, aber er kann nur unmittelbar nach der Zerstörung eines Herzens durchgeführt werden. Man setzt einen Kühlkörper ein, um die Wärme auf 0 zu reduzieren, und schaltet FA-on + 0 Gas ein, um den Schwung schnell zu beenden und zum Stillstand zu kommen. Der Interceptor wird versuchen, sich in einer Entfernung von ~1 km von zu positionieren, obwohl er manchmal näher driftet. (Wenn nicht ein Abstand von mindestens 750 m zwischen Interceptor und Schiff besteht), wird er das Schiff unabhängig von der Hitze sehen und kaustische Raketen abschießen können, was den Neustart unterbricht. Weiterhin den thermischen Entlastungslaser feuern (sicherstellen, dass der Waffenkondensator voll ist, um die Kühlung zu maximieren), und den Neustart einleiten. Wenn es vorbei ist, werden die Laser weiter abgefeuert, bis der Interceptor seinen Schwarm freigibt.
+
+Der Neustart unterbricht die Synthese nicht, so dass die Stillstandszeit für die Synthese der Kühlkörper genutzt werden kann.
+
+Wenn man schnell genug ist, bleibt auch noch Zeit, nach dem Neustart Flak-Munition zu synthetisieren.
+
+**Nach dem ersten Herz kann kein Kaltneustart durchgeführt werden!**
+
+### Ramm-Geschwindigkeit
+
+Durch einen Kaltstart bringt man sich in die perfekte Position, um den Interceptor zu rammen und seinen Schild zu zerstören, was die Zeit zum Kiten eliminiert und die Dauer des Kampfes dramatisch verkürzt. (Sehr nützlich für Anaconda/Corvette, da sie nicht so leicht über längere Zeiträume kiten können)
+
+**Auf keinen Fall dem Interceptor nähern, bis er seinen Schwarm freigibt!** Nachdem der Rammvorgang abgeschlossen wurde, kann man sich mit dem Schwarm befassen. Man ihn entweder sofort jagen oder wegboosten und ihn rückwärts gleitend bekämpfen.
+
+### Verwalten der Pips
+
+Anders als bei mittleren Schiffen sind die Schilde eine bessere Verteidigung als die Manövrierfähigkeit. Utilize the ~2.6x damage reduction from running pips 4-0-2 while exerting the heart. Bei der Anaconda und der Corvette bleibt damit genug Energie übrig, um das Herz mit 4 Gauss hervortreten zu lassen und es dann mit nur 2 Gauss zu töten (getrennte Feuergruppen verwenden) **nachdem der Schild bereits ausgefallen ist**. Wenn nötig, kann mithilfe von Makros auf 2-0-4 umgeschaltet werden, um die Gauss wieder aufzuladen, wodurch das Schiff kontinuierlich feuern kann.
+
+### Vermeiden des Abschaltfeldes
+
+Nach der Zerstörung des vorletzten Herzens wird der Thargoid versuchen, ein Abschaltfeld (EMP) zu erzeugen. Dieser EMP hat eine effektive Reichweite von 10 km, daher ist es unwahrscheinlich, dass man die Wirkung vermeiden kann, es ist jedoch möglich, die Auslösung ganz zu vermeiden. Es gibt zwei Hauptstrategien:
+
+**Option 1:** Einen Kühlkörper verwenden. Der EMP wird nicht ausgelöst, wenn die Hitze weniger als 15 % beträgt (dies gilt auch für kaustische Raketen). Verwendung des thermischen Entlastungslasers, um die Temperatur niedrig zu halten und in der Nähe zu bleiben, oder wegboosten und Option 2 folgen.
+
+**Option 2:** Nach der Zerstörung des Herzens ausserhalb von 3 km bleiben, bis der Interceptor einen Schwarm absetzt (und damit signalisiert, dass er den EMP nicht abfeuern wird).
+
+Wenn der EMP ausgelöst wird, hört man die Warnung "Energy surge detected" (manchmal im Teamkampf fehlerhaft). FA-Off aktivieren und direkt vom Thargoiden wegboosten, während ein Kühlkörper eingesetzt wird (falls möglich). Aufladung und Abfeuern des Abschaltfeld-Neutralisators (falls vorhanden) oder 4 Pips auf die Schilde und Abfeuern der SCBs (falls die Schilde niedrig sind) und wegdriften.

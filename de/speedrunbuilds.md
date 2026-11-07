@@ -2,10 +2,13 @@
 title: Speedrun Schiffsausstattungen
 description: Ship builds designed for killing Thargoids quickly
 published: true
-date: 2021-10-06T05:37:42.382Z
-tags: builds, outfitting, speedrunning
+date: '2021-10-06T05:37:42.382Z'
+tags:
+  - builds
+  - outfitting
+  - speedrunning
 editor: markdown
-dateCreated: 2021-06-24T12:24:11.055Z
+dateCreated: '2021-06-24T12:24:11.055Z'
 ---
 
 # Speedrun Schiffausstattungen

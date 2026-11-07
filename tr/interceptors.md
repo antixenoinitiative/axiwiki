@@ -2,10 +2,12 @@
 title: Interceptorler
 description: Thargoid Interceptorler hakkında
 published: true
-date: 2021-11-02T02:54:54.431Z
-tags: thargoids, interceptors
+date: '2021-11-02T02:54:54.431Z'
+tags:
+  - thargoids
+  - interceptors
 editor: markdown
-dateCreated: 2021-10-06T05:49:46.805Z
+dateCreated: '2021-10-06T05:49:46.805Z'
 ---
 
 # Thargoid Interceptorler
@@ -90,3 +92,4 @@ Bir canlı yayında Topluluk Yöneticisi Stephen Bendetti, Orthrus'un bir hata o
 "Sadece bir bug" Video: https://www.twitch.tv/videos/533401140 Timestamp: 41:15 (Ne yazık ki klip artık mevcut değil.)
 
 Frontier Developments geliştiricilerinden "KSE"; "Orthrus oyunda hiç olmamalıydı" diyerek Orthrus'un oyunda yeri olmadığını doğrulamıştır.
+

@@ -2,10 +2,10 @@
 title: Speedrun Rehberi
 description: Goidleri öldürebilir misiniz? Evet? Ama çabuk öldürebilir misiniz?
 published: true
-date: 2021-11-02T02:54:19.193Z
-tags: 
+date: '2021-11-02T02:54:19.193Z'
+tags: []
 editor: markdown
-dateCreated: 2021-10-06T05:48:55.439Z
+dateCreated: '2021-10-06T05:48:55.439Z'
 ---
 
 # Giriş
@@ -77,3 +77,4 @@ Bakınız [Speedrun Gemileri](/tr/speedrunbuilds)
 # Speedrun Eğitimi
 
 -Yapım Aşamasında-
+

@@ -2,10 +2,12 @@
 title: Scoutlar
 description: Thargoid Scoutlar Hakkında
 published: true
-date: 2021-11-02T02:55:27.954Z
-tags: thargoids, scouts
+date: '2021-11-02T02:55:27.954Z'
+tags:
+  - thargoids
+  - scouts
 editor: markdown
-dateCreated: 2021-10-06T05:50:37.002Z
+dateCreated: '2021-10-06T05:50:37.002Z'
 ---
 
 # Scoutlar
@@ -45,3 +47,4 @@ Inciterlar da aynı şekilde ek özel yeteneğe sahiptir. Kullanıldığında bi
 Scout avlamak savaş rütbesi yükseltmek için çok etkili bir yöntemdir. Normal silahlara karşı sahip oldukları 77% direnç sebebiyle bu silahları onlara karşı kullanmak son derece etkisizdir. Öngörülemez uçuş stilleri sebebiyle Scoutlara karşı "Large Turreted Anti-Xeno Multi-Cannon"ları öneriyoruz.
 
 Bu silahlar 77% dirençten etkilenmedikleri, hedefe kilitli kalabildikleri ve mermileri verimli kullandıkları için çok uygundurlar. Gemi başına 4 adet AX silahı sınırı olduğunu unutmayın.
+

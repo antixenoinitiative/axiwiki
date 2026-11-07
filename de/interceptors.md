@@ -2,10 +2,12 @@
 title: Interceptoren
 description: Über Thargoid-Interceptoren
 published: true
-date: 2021-08-03T05:03:56.423Z
-tags: thargoids, interceptors
+date: '2021-08-03T05:03:56.423Z'
+tags:
+  - thargoids
+  - interceptors
 editor: markdown
-dateCreated: 2021-06-24T12:23:34.632Z
+dateCreated: '2021-06-24T12:23:34.632Z'
 ---
 
 # Über Thargoid-Interceptors
@@ -81,3 +83,4 @@ Während eines "Let's Play"-Livestreams bestätigte Community Manager Stephen Be
 "Nur ein Fehler" Video: https://www.twitch.tv/videos/533401140 Zeitstempel: 41:15 (Leider ist der Clip nicht mehr verfügbar.)
 
 Frontier Developments Entwickler "KSE" hat bestätigt, dass "der Orthrus nie im Spiel erscheinen sollte" und somit nicht mehr zur Story gehört.
+

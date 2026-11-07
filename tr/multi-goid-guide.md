@@ -2,10 +2,13 @@
 title: Çoklu-Goid Savaş Rehberi
 description: Aynı anda birden fazla Interceptor'le nasıl başa çıkabilirsiniz.
 published: true
-date: 2021-11-02T02:55:10.502Z
-tags: combat, thargoids, interceptors
+date: '2021-11-02T02:55:10.502Z'
+tags:
+  - combat
+  - thargoids
+  - interceptors
 editor: markdown
-dateCreated: 2021-10-06T05:50:09.297Z
+dateCreated: '2021-10-06T05:50:09.297Z'
 ---
 
 # Çoklu-Thargoid Savaş Rehberi
@@ -48,3 +51,4 @@ _Diğer yavaş Thargoidlerle birlikte Basilisklerin de bulunduğu savaşları ka
 Bu durumda Basiliskler gruptan hızla ayrılacaklardır. İlk önce onları öldürmek mantıklıdır. Çünkü çok uzaklaşırsanız diğerleri geride kalıp ortadan kaybolabilir ya da bölgeyi terk edebilirler. Dolayısıyla öldürme sırası: Basilisk > Cyclops > Medusa > Hydra.
 
 Hiçbir Thargoid'den hızlı kaçamayacak bir gemideyseniz (Anaconda, Corvette) en az hasarı alıp en kısa sürede olabildiğince Thargoid öldürmeye çalışmalı, kalkansız kolayca yok edilebileceğiniz için yeniden başlatmalardan kaçınmalısınız. Tek bir Thargoid kaldığı zaman normal savaş taktiklerini uygulayabilirsiniz.
+

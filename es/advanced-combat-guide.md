@@ -2,10 +2,14 @@
 title: Guía de Combate Avanzada
 description: Basado en la Doctrina Odysseus de CMDR Avasa Siuu
 published: true
-date: 2021-07-22T12:55:05.868Z
-tags: equipamiento, combate, thargoide, interceptores
+date: '2021-07-22T12:55:05.868Z'
+tags:
+  - equipamiento
+  - combate
+  - thargoide
+  - interceptores
 editor: markdown
-dateCreated: 2021-06-24T23:35:58.901Z
+dateCreated: '2021-06-24T23:35:58.901Z'
 ---
 
 # Guía avanzada de combate Thargoid

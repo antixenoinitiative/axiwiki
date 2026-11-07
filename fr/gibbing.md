@@ -1,0 +1,19 @@
+---
+title: Gibbing
+description: How to Insta-Gib Thargoids
+published: true
+date: '2021-07-18T02:19:16.661Z'
+tags:
+  - combat
+  - gibbing
+editor: visual
+dateCreated: '2021-06-24T12:25:21.094Z'
+---
+
+# Gibbing (Insta-gib)
+
+Le Gibbing (ou Instagibbing) est un terme désignant l'utilisation d'une puissance de feu écrasante pour détruire un Intercepteur Thargoïd avant qu'il ne puisse réagir. En attaquant un Thargoïd avec une puissance de feu suffisante, il est possible de réduire sa coque à 0 avant que sa régénération de vie ne puisse le guérir. Généralement, cette technique nécessite qu'un grand nombre de pilotes attaque l'Intercepteur simultanément.
+
+Il est également possible de Gib un Cyclops en solo. Cependant, cela ne fonctionne qu'avec **4 canons à fragmentation larges** et **des munitions premium.**
+
+[Vidéo : Premier Insta-Gib d'Hydra](https://youtu.be/Kvr-TyFCNyE)

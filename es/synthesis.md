@@ -2,10 +2,11 @@
 title: Synthesis
 description: Information on Sythnesis in AX combat.
 published: true
-date: 2021-08-03T05:04:30.836Z
-tags: engineering
+date: '2021-08-03T05:04:30.836Z'
+tags:
+  - engineering
 editor: markdown
-dateCreated: 2021-06-24T23:37:37.018Z
+dateCreated: '2021-06-24T23:37:37.018Z'
 ---
 
 # Synthesis
@@ -94,4 +95,5 @@ We recommend only using Basic AFM refills as there is no useful benefit to stand
 - 2x Zinc
 - 2x Chromium
 - 3x Vanadium
+
 

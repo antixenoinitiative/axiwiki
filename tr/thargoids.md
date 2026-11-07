@@ -2,10 +2,13 @@
 title: Thargoidler
 description: Thargoidler Hakkında
 published: true
-date: 2021-11-02T02:55:51.004Z
-tags: thargoids, interceptors, scouts
+date: '2021-11-02T02:55:51.004Z'
+tags:
+  - thargoids
+  - interceptors
+  - scouts
 editor: markdown
-dateCreated: 2021-10-06T05:51:15.788Z
+dateCreated: '2021-10-06T05:51:15.788Z'
 ---
 
 # Thargoidler
@@ -39,3 +42,4 @@ Neyse ki insanoğlu, kendi AX (Anti-Xeno) silahlarını geliştirmenin yanı sı
 >
 > [**Scoutlar hakkında daha fazla bilgi için**](/tr/scouts) {.align.middle}
 > {.is-info}
+

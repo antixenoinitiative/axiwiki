@@ -2,10 +2,12 @@
 title: Gestion des Pips
 description: Comment gérer les pips au mieux en combat contre les Thargoids
 published: true
-date: 2021-06-27T22:11:25.005Z
-tags: combat, contrôles
+date: '2021-06-27T22:11:25.005Z'
+tags:
+  - combat
+  - contrôles
 editor: markdown
-dateCreated: 2021-06-24T12:25:54.905Z
+dateCreated: '2021-06-24T12:25:54.905Z'
 ---
 
 # Gestion des Pips
@@ -22,3 +24,4 @@ Il est fortement conseillé de garder 3 ou 4 pips dans les armements (ARM) penda
 Un autre exemple des bénéfices: transférer 4 pips dans les systèmes (SYS) juste avant d'encaisser les tirs du canon de l'intercepteur donne aux boucliers 60% de résistance supplémentaire, ce qui correspond à une multiplication de leur force par 2,6. L'utilisation de macros permet de changer rapidement entre les configurations 4-0-2 et 0-2-4, pour maintenir un taux de recharge maximal sur les Canons de Gauss, de rendre le turbo accessible à tout instant et d'assurer la résistance maximale des boucliers. A noter qu'il faut toujours avoir de l'énergie dans le capaciteur systèmes (SYS), car s'il est vide il est impossible de lancer un dissipateur thermique.
 
 ![pips.png](/img/pips.png) {.align-center}
+

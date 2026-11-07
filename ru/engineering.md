@@ -2,10 +2,13 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: 2021-10-06T05:41:27.286Z
-tags: engineering, outfitting, materials
+date: '2021-10-06T05:41:27.286Z'
+tags:
+  - engineering
+  - outfitting
+  - materials
 editor: markdown
-dateCreated: 2021-06-24T12:29:21.746Z
+dateCreated: '2021-06-24T12:29:21.746Z'
 ---
 
 # Engineering Materials Guide
@@ -98,3 +101,4 @@ When trading you will always lose some value. You will lose even more if you tra
 **Ideally you want to gather materials at the highest grade possible and trade downwards.**
 
 ![convert1.png](/img/convert1.png) ![convert2.png](/img/convert2.png)
+

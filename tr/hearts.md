@@ -2,10 +2,14 @@
 title: Thargoid Kalpleri
 description: Thargoid Kalpleri ve mekanikleri hakkında bilgiler
 published: true
-date: 2021-11-02T02:54:40.720Z
-tags: combat, thargoids, interceptors, hearts
+date: '2021-11-02T02:54:40.720Z'
+tags:
+  - combat
+  - thargoids
+  - interceptors
+  - hearts
 editor: markdown
-dateCreated: 2021-10-06T05:49:28.228Z
+dateCreated: '2021-10-06T05:49:28.228Z'
 ---
 
 # Thargoid Kalpleri
@@ -39,7 +43,7 @@ Kalplerin boyutları küçüktür ve hasar vermek için iyi nişan almanız gere
 
 Interceptorlerin yapraklarında yer alırlar. Her türün yarı-tutarlı Kalp düzeni vardır ancak Kalplerin pörtleme sıraları değişiklik gösterir.
 
-Xeno Scanner taraması yaparsanız sol menüdeki "sub-target" sekmesinden Kalpleri seçip nişan alabilirsiniz. Bu panelde Kalplerin durumu hakkında bilgileri de görebilirsiniz.![heart_location.png](/img/heart_location.png)
+Xeno Scanner taraması yaparsanız sol menüdeki "sub-target" sekmesinden Kalpleri seçip nişan alabilirsiniz. Bu panelde Kalplerin durumu hakkında bilgileri de görebilirsiniz.![heart_location.png](/img/heart-location.png)
 
 # Kalpleri Toplamak
 

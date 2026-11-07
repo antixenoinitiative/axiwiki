@@ -2,10 +2,13 @@
 title: Thargoids
 description: About Thargoids
 published: true
-date: 2021-08-03T05:04:32.585Z
-tags: thargoids, interceptors, scouts
+date: '2021-08-03T05:04:32.585Z'
+tags:
+  - thargoids
+  - interceptors
+  - scouts
 editor: markdown
-dateCreated: 2021-06-24T23:37:46.666Z
+dateCreated: '2021-06-24T23:37:46.666Z'
 ---
 
 # Thargoids
@@ -35,3 +38,4 @@ Thankfully humanity has not only developed their own line of AX (Anti-Xeno) weap
 [**Read more about Interceptors**](/en/interceptors)
 
 [**Read more about Scouts**](/en/scouts)
+

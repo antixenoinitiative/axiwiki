@@ -1,17 +1,20 @@
 ---
 title: Home
-description: Welcome to the Anti-Xeno Initiative Wiki. Your complete repository for Anti-Xeno Combat.
+description: >-
+  Welcome to the Anti-Xeno Initiative Wiki. Your complete repository for
+  Anti-Xeno Combat.
 published: true
-date: 2022-01-20T10:17:48.621Z
-tags: admin
+date: '2022-01-20T10:17:48.621Z'
+tags:
+  - admin
 editor: markdown
-dateCreated: 2021-06-24T23:36:45.566Z
+dateCreated: '2021-06-24T23:36:45.566Z'
 ---
 
 <div class="mainbox">
   <div class="contentbox">
     <div id="titlebox">
-      <img id="titleimg" src="/img/axi_insignia_hypen_512.png" alt="Logo de AXI" />
+      <img id="titleimg" src="/img/axi-insignia-hypen-512.png" alt="Logo de AXI" />
       <div>
         <h1 id="title">Wiki Anti-Xeno</h1>
         <div id="subtitle">Por la Iniciativa AntiXeno</div>

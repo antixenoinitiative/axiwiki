@@ -1,0 +1,33 @@
+---
+title: Unlock Guardian Weapons and Modules
+description: How to unlock guardian weapons and modules
+published: true
+date: '2021-06-29T22:11:47.793Z'
+tags:
+  - builds
+  - outfitting
+editor: visual
+dateCreated: '2021-06-24T12:25:23.396Z'
+---
+
+# Débloquer les armes et modules Guardians
+
+Pour récupérer des armes et modules Guardians, les joueurs devront visiter les sites Guardians et collecter un certain nombre de matériaux. Ceux-ci comprennent: les plans (spécifiques au type de module), les composants et les données. Pour collecter ces éléments vous aurez besoin d'un vaisseau avec un VRS et une portée de saut décente (les sites Guardians ne sont pas à la porte à côté).
+
+**Nous vous conseillons d'emporter un VRS de rechange ainsi qu'un module de Défense Ponctuelle sur votre vaisseau. La Défense Ponctuelle abattra les missiles des Sentinelles Guardians, ce qui facilitera la tâche.**
+
+Différents sites Guardians donneront différents plans (pour module, arme ou chasseur). Pour récolter les plans vous aurez besoin de réussir un petit mini-jeu qui implique de tirer sur des orbes sur une série de pilier dans un court laps de temps. Une fois le mini-jeu terminé vous devrez ramasser une Relique Ancienne de Guardian et la déposer sur le podium où vous le commencez. À partir de là un grand orbe apparaîtra, vous pouvez le scanner avec un Détecteur de liaison de données qui vous donnera un plan. Si vous avez besoin de plusieurs plans, vous pouvez ensuite vous éloigner du site, vous déconnecter puis reconnecter au jeu, et recommencer.
+
+En traversant le site vous rencontrerez des Sentinelles Guardians. Elles vous tireront dessus avec des projectiles puis lanceront des missiles à tête chercheuse dans les airs. Prenez votre temps et abattez-les une par une et vous n'aurez pas de problèmes à compléter le site.
+
+Voici certains sites Guardians où vous pourrez récupérer les plans pour les armes et les modules :
+
+## SYNUEFE EU-Q C21-10 planète A 3 (armes)
+
+![guardwepblue.jpg](/img/guardwepblue.jpg)
+
+## SYNUEFE NL-N C23-4 planète B 3 (modules)
+
+![guardmodblue.jpg](/img/guardmodblue.jpg)
+
+## Guide vidéo

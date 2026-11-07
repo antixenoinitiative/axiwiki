@@ -2,10 +2,11 @@
 title: Sentezleme
 description: AX savaşlarında sentezleme hakkında bilgiler.
 published: true
-date: 2021-11-02T02:55:44.102Z
-tags: engineering
+date: '2021-11-02T02:55:44.102Z'
+tags:
+  - engineering
 editor: markdown
-dateCreated: 2021-10-06T05:51:02.879Z
+dateCreated: '2021-10-06T05:51:02.879Z'
 ---
 
 # Sentezleme
@@ -105,3 +106,4 @@ Standart ve premium seviyeleri herhangi bir fayda sağlamadığı için yalnızc
 - 2x Zinc
 - 2x Chromium
 - 3x Vanadium
+

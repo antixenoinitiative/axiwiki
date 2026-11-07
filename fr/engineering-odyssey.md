@@ -2,10 +2,12 @@
 title: Modifications d'ingénieur sur Odyssey
 description: Guide to engineering suits and on-foot weapons
 published: true
-date: 2021-10-06T05:39:19.196Z
-tags: engineering, guide
+date: '2021-10-06T05:39:19.196Z'
+tags:
+  - engineering
+  - guide
 editor: markdown
-dateCreated: 2021-06-24T12:25:13.505Z
+dateCreated: '2021-06-24T12:25:13.505Z'
 ---
 
 # **__Comment farmer des matériaux sur Odyssey__**

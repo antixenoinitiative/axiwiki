@@ -1,0 +1,69 @@
+---
+title: Distress Call Analysis
+description: A in-depth review of Thargoid Attacked Distress Calls
+published: true
+date: '2021-08-19T13:13:27.614Z'
+tags:
+  - interceptors
+  - distress call
+editor: visual
+dateCreated: '2021-06-24T12:23:10.988Z'
+---
+
+# Notruf-Spawn-Analyse
+
+*Durch CMDR Avasa Siuu*
+
+Dieser Bericht zeigt die Ergebnisse der Thargoid-Interceptor-Spawn-Rate innerhalb des Notruf-Signals in HR 1185. Der Zweck der Forschung war es, die Unterschiede in die Spawnrate der Abfänger zwischen den drei beobachteten Spawnpunkten für Abfänger zu finden und zu beobachten. Dieser Bericht wird es Kommandanten ermöglichen, auch mehr über die Möglichkeit zu erfahren, einen bestimmten Abfangjäger zu finden, den sie bekämpfen möchten.
+
+Die gesammelten Daten sind zwischen mir und CMDR Maligno auch, der über hundert protokollierte Beobachtungen der Instanz. Damit können die Daten nicht verwendet werden, um zu messen, ob es einen Mechaniker gibt, der sicherstellt, dass Sie nach so vielen Wiederholungen auf eine bestimmte Instanz stoßen
+
+## Spot Spawns
+
+Das Bild unten zeigt die verschiedenen Positionen innerhalb der Not Anruf, die die Interceptors spawnen. Die Spot-Terminologie in meinen Bedingungen entstanden durch die USA. Marineplätze an Bord eines Marineschiffes, auf dem Hubschrauber oder VTOL-Jets starten oder landen (Wer damit vertraut ist)
+
+![](./img/distress-call-interceptor-spot-spawns.png)
+
+## Gesamtzahl der durchgeführten Iterationen
+
+Die Gesamtzahl der durchgeführte Iterationen, d.h. die Anzahl der Abmeldung aus dem Hauptmenü zurück in das ausgewählte Spielmodus-Menü wird unten angezeigt. Der offene Modus wurde nicht in Betracht gezogen, aber basierend auf den Ergebnissen zwischen dem Privatmodus und dem Solomodus kann man mit Sicherheit sagen, dass das Umblättern der Site und das Betreten eines bestimmten Modus keinen Einfluss auf die Änderung der Spawnrate haben.
+
+![](./img/distress-call-iterations.png)
+
+## Interceptor Variante Spawnrate
+
+Die folgenden Daten zeigen die Wahrscheinlichkeit der Begegnung mit den verschiedenen Varianten während der Flips der Standort. Es ist interessant zu bemerken, dass es eine progressive Wahrscheinlichkeitssteigerung von 5-6% gibt, da die Letalität der Interceptorvariante zunimmt. Diese Daten zeigen auch, dass es keinen Unterschied zwischen Solo- und Privatmodus gibt, und es wird sicher sein, anzunehmen, dass auch der offene Modus nicht betroffen ist. Die Daten zeigen auch, dass es sehr selten ist, eine doppelt Interceptorinstanz zu finden. Unabhängig von der Zusammensetzung der Instanz besteht eine Wahrscheinlichkeit von ungefähr 40% auf mindestens 1 Interceptor.
+
+![](./img/distress-call-spawn-rates.png)
+
+## Doppelte Interceptor Begegnungschance
+
+Die folgenden Daten zeigen die Wahrscheinlichkeit, dass es zu einer bestimmten doppelten Interceptorinstanz kommt. Wie die Daten zeigen, ist die Chance auf zwei gleichartige Interceptoren viel seltener als zwei verschiedene Arten von Interceptoren. Diese Daten werden auch manuell in die Datenbank eingegeben, so dass ich mit mir menschlich bin, da die Daten zeigen, dass ich ein paar doppelte Interceptorvarianten verpasst habe. die Kombination Hydra und Medusa, die von einer Reihe von Kommandeuren gemeldet wurde.
+
+![](./img/distress-call-double-chance.png)
+
+## **Spot Spawn Rate**
+
+Die folgenden Daten in der Tabelle unten zeigen die Rate an, von der der Interceptoren an einem bestimmten Spawnpunkt in der Instanz spawnen. Interessant ist mit diesen Daten der Spot 2 welche die Chance hat, eine niedrigere Variante zu spawnen hat eine geringere Chance auf Spawnen ein Interceptor als Spot 3, die bisher für die tödlicheren Varianten reserviert ist. Jetzt sind die Zahlen so nah an einander, dass wenn weitere Iterationen durchgeführt werden würden, es die Wahrscheinlichkeit besteht, dass sie die Zahlen sich so annähern, dass der Unterschied zwischen Stelle 2 und 3 so minimal ist, dass es keinen Unterschied macht.
+
+![](./img/distress-call-spot-spawn-table.png)
+
+## Interceptor Spawnrate je Stelle
+
+Die folgenden Daten zeigen an, wie jeder einzelne Interceptor in einer bestimmten Stelle in der Instanz spawnt. Wie die Daten unten zeigen, spawnen die schwächeren Varianten (Cyclops und Basilisk) nur in Stelle 1 und 2, während die stäkeren Varianten (Medusa und Hydra) in Stellen 2 und 3 spawnen. Interessant ist, dass die Hydra-Variante die Möglichkeit hat in jeden der drei Stellen zu spawnen. Die beobachteten schwächeren Varianten spawnen nur in Stelle 1 und 2, was bedeutet, dass diese Stelle für schwächere Varianten reserviert ist.
+
+![](./img/distress-call-spawn-per-spot.png)
+
+## Andere Beobachtung/Undokumentierte Beobachtungen
+
+CMDR Malingo berichtet, dass er eine Hydra und Medusa hat spawnen sehen. Obwohl meine Daten dies nicht wiederspiegeln, kann ich es nicht wagen seine Erkenntnisse zu diskreditieren. Die Möglichkeit dieser Kombination zu begegnen ist mit unseren bisherigen Daten ungewiss, aber dank CMDR Maligno ist es eine Möglichkeit.
+
+Mit den aktuellen Daten zeigt sich, dass der Interceptor, der in der Regel die schwächere Variante ist, immer der ist, der den Scan durchführt. Nun hatte ich zwei konkrete Fälle, in denen dies nicht der Fall war. Zweimal hat die stärkere Variante in der anderen Position den Scan durchgeführt. Diese Daten zeigen, dass jede Stelle auf einem buchstäblich zufälligen Zahlengenerator basiert, die aber auch einer festgelegten Nummer folgt, wie die Interceptoren in jeder Stelle spawnt und sich verhält. Die Chancen, dies zu erleben, wurden als sehr gering erwiesen.
+
+![](./img/distress-call-variability.png)
+
+[Originales Forschungsdokument](https://docs.google.com/spreadsheets/d/1-Oo55b_ivfD_ivm92KXV2jDXJhHq7Ahl7r4PfeSnqOU/edit#gid=1576988058)
+
+[Originaler Bericht](https://docs.google.com/document/d/1nw5opV1ydOWXi2GXARAJ6JAE8qCKhtW6_IWYG7Gbjz0/edit)
+
+*Vielen Dank an CMDR Maligno und CMDR Mechan für die Unterstützung bei dieser tiefgehenden Studie über den Notruf in HR 1185. - CMDR Avasa Siuu*

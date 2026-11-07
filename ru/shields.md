@@ -2,10 +2,14 @@
 title: Thargoid Shields
 description: Explanation of Thargoid Shields and related mechanics
 published: true
-date: 2021-10-06T05:41:44.831Z
-tags: combat, thargoids, interceptors, shields
+date: '2021-10-06T05:41:44.831Z'
+tags:
+  - combat
+  - thargoids
+  - interceptors
+  - shields
 editor: markdown
-dateCreated: 2021-06-24T12:30:14.251Z
+dateCreated: '2021-06-24T12:30:14.251Z'
 ---
 
 # Thargoid Shields

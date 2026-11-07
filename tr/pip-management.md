@@ -2,10 +2,12 @@
 title: Pip Yönetimi Rehberi
 description: Thargoid savaşlarında en iyi pip yönetimi nasıl olmalıdır
 published: true
-date: 2021-11-02T02:55:17.189Z
-tags: combat, controls
+date: '2021-11-02T02:55:17.189Z'
+tags:
+  - combat
+  - controls
 editor: markdown
-dateCreated: 2021-10-06T05:50:19.953Z
+dateCreated: '2021-10-06T05:50:19.953Z'
 ---
 
 # Pip Yönetimi Rehberi
@@ -23,3 +25,4 @@ Gauss ateşlerken WEP'te 3-4 pip bulundurarak olabildiğince az ısı çıkardı
 Bir başka örnek ise: Interceptor'ün ana silahından hasar almadan hemen önce SYS'e 4 pip aktarmak kalkanlarınızın hasar direncini %60 yükselterek kalkan gücünüzde ~2.6 kat artış sağlar. Makro kullanımı, 4-0-2 ve 0-2-4 arasında hızlı geçişler yapmanızı sağlayarak hasar alırken en iyi kalkan gücüne, saldırı yaparken en iyi silah durumuna sahip olmanıza imkan sağlar. SYS kapasitörünün boşalmasına asla izin vermeyin zira heatsink kullanamazsınız.
 
 ![pips.png](/img/pips.png) {.align-center}
+

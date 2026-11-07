@@ -2,10 +2,13 @@
 title: Speedrun Gemileri
 description: Thargoidleri hızlıca yok etmek için tasarlanmış gemiler
 published: true
-date: 2021-11-02T02:55:37.024Z
-tags: builds, outfitting, speedrunning
+date: '2021-11-02T02:55:37.024Z'
+tags:
+  - builds
+  - outfitting
+  - speedrunning
 editor: markdown
-dateCreated: 2021-10-06T05:50:52.210Z
+dateCreated: '2021-10-06T05:50:52.210Z'
 ---
 
 # Speedrun Gemileri
@@ -64,3 +67,4 @@ Yüksek dayanıklılık, ateş gücü, manevra kabiliyeti ve Anaconda veya Corve
 #### Donatımlar:
 
 - https://s.orbis.zone/chzm
+

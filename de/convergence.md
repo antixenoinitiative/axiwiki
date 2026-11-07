@@ -1,11 +1,15 @@
 ---
 title: Konvergenz
-description: Ein kurzer Leitfaden zu Konvergenz und wie sie sich auf befestigte Waffen auswirkt
+description: >-
+  Ein kurzer Leitfaden zu Konvergenz und wie sie sich auf befestigte Waffen
+  auswirkt
 published: true
-date: 2021-07-07T13:28:26.961Z
-tags: outfitting, weapons
+date: '2021-07-07T13:28:26.961Z'
+tags:
+  - outfitting
+  - weapons
 editor: markdown
-dateCreated: 2021-06-24T12:23:08.586Z
+dateCreated: '2021-06-24T12:23:08.586Z'
 ---
 
 # Konvergenz
@@ -32,3 +36,4 @@ Die Aufh√§ngungen konvergieren nur sehr weit auseinander oder garnicht (z.B. Au√
 ## Weitere Beispiele
 
 Corvette vs Anaconda Konvergenz ![convergence.jpg](/img/convergence.jpg)
+

@@ -2,10 +2,12 @@
 title: Convergence
 description: Un petit guide sur la convergence et comment elle affecte les armes fixes
 published: true
-date: 2021-06-27T22:11:21.476Z
-tags: outfitting, weapons
+date: '2021-06-27T22:11:21.476Z'
+tags:
+  - outfitting
+  - weapons
 editor: markdown
-dateCreated: 2021-06-24T12:25:08.742Z
+dateCreated: '2021-06-24T12:25:08.742Z'
 ---
 
 # Convergence
@@ -32,3 +34,4 @@ Les points d'emport aux extrémités du Cutter ont une très mauvaise convergenc
 ## Autres exemples
 
 Convergence de la Corvette vs de l'Anaconda ![convergence.jpg](/img/convergence.jpg)
+

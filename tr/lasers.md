@@ -2,10 +2,12 @@
 title: Lazerler
 description: AX savaşlarında lazer kullanmak
 published: true
-date: 2021-11-02T02:55:01.524Z
-tags: outfitting, modules
+date: '2021-11-02T02:55:01.524Z'
+tags:
+  - outfitting
+  - modules
 editor: markdown
-dateCreated: 2021-10-06T05:49:57.295Z
+dateCreated: '2021-10-06T05:49:57.295Z'
 ---
 
 # Lazerler
@@ -51,3 +53,4 @@ Regeneration Sequence lazerleri ile wing arkadaşlarınızın kalkanlarını hı
 ### Concordant Sequence Lasers
 
 Concordant Sequence deneysel mühendislik etkisi, hedef geminin sahip olduğu doğal kalkan yenilemesine kısa bir süreliğine yüksek miktarda destek olarak çalışırlar. Dolayısıyla en işlevsel oldukları kalkanlar, halihazırda yüksek yenilenme hızlarına sahip Bi-Weave kalkanlarıdır. Unutmayın, iyi bir destek modülü olsalar da tamamen düşmüş kalkanlarda işe yaramazlar. En belirgin özellikleri hedefe sürekli ateş etmek zorunda kalmadan, sadece kısa bir atışla geliştirme uygulamanız diyebiliriz. Long Range Pulse Laser'ler; Concordant Sequence sadece tek bir atış gerektirdiği ve Pulse'lar en düşük enerji gereksinimine sahip oldukları için en iyi seçenektir.
+

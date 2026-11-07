@@ -2,10 +2,11 @@
 title: Synthese
 description: Informationen zu Synthese im AX-Gefecht.
 published: true
-date: 2021-08-03T05:04:03.697Z
-tags: engineering
+date: '2021-08-03T05:04:03.697Z'
+tags:
+  - engineering
 editor: markdown
-dateCreated: 2021-06-24T12:24:18.377Z
+dateCreated: '2021-06-24T12:24:18.377Z'
 ---
 
 # Synthese
@@ -94,4 +95,5 @@ Nur einfache AFMU Synthesen werden empfohlen, da Standard und Premium keinen wir
 - 2x Zink
 - 2x Chromium
 - 3x Vanadium
+
 

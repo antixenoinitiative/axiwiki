@@ -2,10 +2,14 @@
 title: Wing Savaş Rehberi
 description: Thargoidlerle wingle nasıl savaşılır.
 published: true
-date: 2021-11-02T02:56:01.202Z
-tags: combat, thargoids, interceptors, wing
+date: '2021-11-02T02:56:01.202Z'
+tags:
+  - combat
+  - thargoids
+  - interceptors
+  - wing
 editor: markdown
-dateCreated: 2021-10-06T05:51:30.816Z
+dateCreated: '2021-10-06T05:51:30.816Z'
 ---
 
 # Wing Savaş Rehberi
@@ -108,3 +112,4 @@ Savaşa katılan tüm pilotlar AX ile ilgili buglara hakim olmalı ve olabildiğ
 - Ne yaptığınızı bilmiyorsanız toslamaktan kaçınmak.
 - UPnP kullanımın aksine "port forwarding" yöntemini etkinleştirmek: Port Forwarding Mega Rehberi
 - İletişim
+

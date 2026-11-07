@@ -2,10 +2,14 @@
 title: Gemi Donatım Teorisi
 description: Genel AX donatım teorisine yönelik kapsamlı rehber
 published: true
-date: 2021-11-02T02:55:32.576Z
-tags: builds, theory, engineering, outfitting
+date: '2021-11-02T02:55:32.576Z'
+tags:
+  - builds
+  - theory
+  - engineering
+  - outfitting
 editor: markdown
-dateCreated: 2021-10-06T05:50:44.775Z
+dateCreated: '2021-10-06T05:50:44.775Z'
 ---
 
 # Gemi Donatım Teorisi
@@ -133,3 +137,4 @@ Soğuk Yörüngeciler'de bariz olarak kullanışsızlar, Bi-Weave Hibritler gene
 ## Diğer Modüller
 
 Xeno Scanner ve Shutdown Field Neutralizer hakkında bilgi için [Optional Internals](/tr/internals) sayfasına göz atın. Bu iki modül bazı özel durumlar dışında önerilmezler ve bunlar yerine fazladan heatsink ya da shield booster almanız daha iyi olacaktır.
+

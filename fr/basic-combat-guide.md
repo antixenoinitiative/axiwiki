@@ -1,0 +1,100 @@
+---
+title: Basic Combat Guide
+description: The fundamental concepts of AX combat and how to fight an Interceptor.
+published: true
+date: '2021-06-29T22:11:39.233Z'
+tags:
+  - combat
+  - thargoids
+  - interceptors
+editor: visual
+dateCreated: '2021-06-24T12:24:44.252Z'
+---
+
+# Guide basique de combat thargoid
+
+Les thargoïds représentent une menace importante en combat dans Elite: Dangerous. Pour détruire efficacement les thargoïds, il est impératif que les joueurs connaissent des mécanismes et des fondamentaux du combat AX.
+
+> Combattre les thargoïds est difficile jusqu'à ce que ce soit facile. Préparez-vous à mourir et à faire face à l'écran de rachat. Les vaisseaux de taille moyenne sont plus rapides, moins coûteux à (r)acheter, nécessitent moins de modifications d'ingénieur, et possèdent à peu près la même puissance de feu que les plus grands vaisseaux en raison de la limite d'armes expérimentales sur un même vaisseau (4). Voler sans utiliser un équipement recommandé met en danger à la fois vous-mêmes et vos compagnons d'escadrille. Soyez courtois envers vos camarades pilotes! Les modifications d'ingénieur ne sont pas optionnelles, et le vol sans canon de Gauss guardien n'est pas recommandé. Comme toujours, ne volez jamais sans avoir de quoi racheter votre vaisseau. Pour plus d'informations sur comment faire un vaisseau AX, dirigez-vous vers notre section [équipements de vaisseaux](/en/builds).
+
+## Les Principes de Bases
+
+Pour détruire un thargoïd, il est important de comprendre ses capacités de bouclier et de régénération. Il y a quatre variantes d'intercepteurs thargoïds : Cyclops, Basilisk, Medusa et Hydra. [Les intercepteurs thargoïds](/en/interceptors) sont protégés par un bouclier qui se détériore au fil du temps. Il faut 1 minute et 45 secondes pour qu'un bouclier Cyclops tombe, 3 minutes pour un Basilisk, 4 minutes pour un Médusa et 5 minutes pour l'Hydra. La règle simplifiée est 2, 3, 4, 5. Le bouclier se détériore tout seul; ne gaspillez donc pas de munitions dessus.
+
+L'intercepteur ne déploiera pas de boucliers avant la destruction du premier cœur. Utilisez l'horloge en haut à droite de votre HUD pour calculer l'état du bouclier.
+
+Une fois le bouclier détruit, vous devez faire suffisamment de dégâts à la coque de l’intercepteur pour « extraire » un cœur. A ce moment-là, un des « pétales » brillera en rouge (ou fumera dans le cas de l’hydra). Vous devez toucher la partie lumineuse du pétale pour endommager le cœur. Vous saurez quand vous l'aurez détruit.
+
+Les armes thargoïds infligent des dégâts perçant, ce qui signifie qu'elles infligeront un pourcentage de dégâts directement à travers votre bouclier, ignorant toutes les résistances.
+
+Quand vous engagez le combat contre un thargoïd, il déploiera un essaim. Le thargoïd déploiera également un autre essaim à chaque fois qu’un cœur est détruit. Cependant, si un essaim est toujours actif quand un cœur est détruit, le thargoïd conservera l'essaim en le gardant jusqu'à ce que l'autre essaim soit détruit ou réduit à un très faible nombre (qu'il va ensuite recharger avec l'essaim conservé).
+
+Un seul essaim peut être conservé à la fois.
+
+Assurez-vous que vous avez des munitions de dissipateur thermiques, de lanceurs antiaérien déclenché à distance et de gauss.
+
+## Le début d'un combat
+
+Une fois que vous entrez dans la [source de signal non-humaine](/en/nhss), le Thargoid s'approchera et vous analysera. Soit le laisser vous analyser et se retourner (si vous souhaitez l'analyser), ou commencer à tirer quand elle approche environ 1.5 km pendant que vous reculer doucement. Restez à moins de 1,5 km pour éviter la réduction de dégâts liée à la portée des gauss, déployez un dissipateur thermique et commencez à tirer, en utilisant l'indicateur de rechargement de votre HUD pour vous assurer que vous tirez immédiatement après le rechargement de vos canons (toutes les 1,6 secondes). Dès que vous entendez le son de l'éjection du dissipateur thermique, déployez-en un autre.
+
+*Assurez-vous que vous êtes en permanence protégé par un dissipateur thermique lorsque vous attaquez l'Intercepteur. Orbiter autour de l'intercepteur alors que vous êtes à moins de 20% de chaleur vous permet d'esquiver la totalité de ses tirs, et ce tant que vous restez à un angle d'environ 10-15 degrés par rapport à ce qu'il "vise" et que vous gardez un élan élevé dans cette trajectoire. c'est-à-dire: se déplacer latéralement ou orbiter*
+
+L'intercepteur commencera à vous tirer dessus; en fonction de votre bouclier (et de votre gestion des pips), boostez et commencez à orbiter sans assistance de vol pour éviter certains dégâts.
+
+Continuez à tirer jusqu'à ce que le cœur soit extrait (il brille alors en rouge et est indiqué comme extrait si vous avez un [détecteur de xénomorphes équipé](/en/internals)). À ce moment-là, visez le cœur et tirez. Cela ne devrait nécessiter que 3 tirs directs de gauss pour un Cyclops, 4 pour un Basilisk, 5 pour un Médusa et 12,5 pour un Hydra avec des munitions basiques.
+
+Une fois que le cœur a été détruit, transférez vos pips en 2-4-0. Boostez pour dépasser le Thargoïd si vous en êtes à moins de 1 km, ou boostez à l'opposé du Thargoïd si vous en êtes à plus de 1 km. Le Thargoïd deviendra jaune et commencera à vous poursuivre. Si il se situe à portée, vous serez touché par un [éclair](/en/special-attacks) qui perturbera vos systèmes, stoppera votre élan (même sans assistance de vol), et videra vos boucliers.
+
+À partir de là, les combats sont divisés en deux phases : [essaim](/en/thargon-swarms) et destruction de cœur. Chaque Thargoïd a un certain nombre de "cœurs" (4 sur un Cyclops, 5 sur un Basilisk, 6 sur un Medusa, 8 sur un Hydra). Après le début du combat, vous avez détruit un cœur et vous disposez de ~7 minutes avant ce que le thargoïd devienne « enragé ». Un thargoïd enragé lancera un nouvel essaim et continuera à le remplacer à chaque fois qu'il sera détruit. L’essaim tout entier se transformera également subitement en missiles, détruisant complètement les vaisseaux avec moins de coque. Si le thargoïd devient enragé, vous aurez alors probablement perdu.
+
+Avant d'attaquer le prochain cœur, vous avez une période de temps déterminée au cours de laquelle le thargoïd est protégé par un bouclier (2, 3, 4, 5 minutes respectivement pour chaque variante). Pendant cette période, vous avez trois objectifs : détruire l'essaim, faire des synthèses et recharger vos boucliers. Après cette période et avant les 6 minutes (7 pour le Basilisk et le Medusa, 8 pour l'Hydra), vous devez extraire et détruire le cœur suivant. Dans le cas contraire, le thargoïd deviendra enragé.
+
+## Détruire l'essaim à distance (kiting)
+
+Une fois que vous vous êtes éloigné à ~4 km, transférez les pips en 4-2-0 et continuez à booster. Votre vitesse maximale sans boost est probablement inférieure à la vitesse maximale de 450-530 m/s de l'intercepteur et de [l'essaim](/en/thargon-swarms). Cette période de temps est l'occasion de déployer un drone réparateur, d'utiliser votre unité de maintenance, et de réapprovisionner vos dissipateurs thermiques/canons de gauss/munitions de lanceur antiaérien déclenché à distance (à peu près dans cet ordre). Si vous avez réussi à établir une distance d'au moins 6 km entre vous et l'intercepteur, vérifiez la position de l'essaim.
+
+Les pips en 4-2-0 vous assurent la régénération la plus rapide possible de vos boucliers tout en vous permettant de rester en dehors de la portée de tir de l'intercepteur (3 km).
+
+Si vous n’utilisez pas de boucliers, vous n’aurez pas à vous soucier de leur régénération, mais assurez-vous tout de même de recharger complètement votre pip SYS.
+
+Souvent en raison de la vitesse de l'Intercepteur (en particulier de celle des Basilisks), vous pouvez trouver l'intercepteur entre vous et l'essaim. Il est impératif que vous n'engagiez pas l'essaim avant que vos boucliers ne soit rechargés et que vous ayez au moins un dissipateur thermique disponible.
+
+**Pour mettre l'essaim entre vous et l'intercepteur.**
+
+1.  Désactivez l'assistance de vol, tournez-vous face à l'intercepteur,
+2.  Transférez vos pips en 4-2-0, et boostez directement vers lui.
+3.  Déployez un dissipateur thermique à environ 4 km et faites un tonneau si l'essaim commence à vous tirer dessus.
+
+Cela perturbe la visée de l’essaim. Utilisez cette même stratégie si à un moment ou à un autre vous ne pouvez pas distancer le ou les thargoïd(s). Nous encourageons de posséder des boucliers, mais ils restent optionnels.
+
+**Si l’essaim se situe entre vous et l’intercepteur, tournez sans assistance de vol et placez-vous face à l’essaim.** Vous êtes maintenant dans une manœuvre connue sous le nom de **reverski** (démonstration à droite). Gardez un œil sur votre distance avec l’intercepteur. S’il se rapproche à moins de 5 km, mettez-le directement derrière vous et boostez.
+
+**Remarque :** Attendez que votre boost se termine pour effectuer des ajustements de trajectoire, sinon votre boost stoppera partiellement votre vitesse relative à l'intercepteur.
+
+Malgré le statut de votre arme sur le HUD, vous pouvez cibler et attaquer l'essaim avec un lanceur antiaérien déclenché à distance sur une portée effective de 7 km. Lorsque l’essaim se trouve entre 4 à 6 km de vous, il se dirigera vers vous en ligne droite. Tirez avec votre lanceur antiaérien déclenché à distance et relâchez le bouton lorsque le réticule devient rouge (accompagnée d'un "bip"). Vous devriez voir des « étincelles » vertes si l’essaim est touché. Une fois que l’essaim sera plus proche, il commencera des manœuvres d'esquive. **À ce moment-là, essayez d'observer le schéma de mouvement de l'essaim et de tirer vers la direction où le réticule ciblé se dirige plutôt que vers l'endroit où il pointe actuellement.**
+
+Gardez à l’esprit que l’essaim, tout comme l’Intercepteur, s'en va aussi périodiquement pour se « recharger ». Une phase d'attaque dure 25 secondes, après quoi l’essaim s'en ira pendant 5 secondes avant de recommencer à attaquer. Quand il s'en va, **n'essayez pas de tirer dessus.** Il est pratiquement impossible de le toucher, alors attendez juste qu'il reprenne son schéma mouvement habituel.
+
+Il y a quelques différences importantes entre les essaims de Cyclops, de Basilisk, de Medusa et d’Hydra. Le nombre de thargons dans un essaim est respectivement de 32, 64, 96 et 128. Cela augmente les dégâts qu'ils infligent et le temps nécessaire pour les détruire.
+
+*Les essaims de Medusa et d'Hydra sont également capables d'adopter une formation en anneau. Si vous tirez sur le réticule alors que l’anneau se dirige directement vers vous, vous ne toucherez aucun membre de l'anneau. (voir:* [*Mécaniques de l'essaim*](/en/thargon-swarms)*)*
+
+*Une astuce clé pour toucher la formation en anneau est de positionner votre réticule de visée hors du centre, à une distance d'environ un des repères en forme de parenthèse sur votre HUD. Regardez la vidéo sur le Reverski pour un exemple visuel.*
+
+Pour un guide complet sur les mécaniques de l'essaim, consultez le guide [Mécaniques de l'essaim](/en/thargon-swarms).
+
+## Extraction et Destruction des cœurs suivants
+
+À présent, vos boucliers, munitions et dissipateurs thermiques devraient être entièrement restaurés. Placez-vous face à l'intercepteur et surveillez son approche. Transférer vos pips en 3-0-3 ou en 0-2-4 selon votre équipement et boostez en direction et verticalement par rapport au Thargoid sans assistance de vol. **Une fois que vous êtes à moins de 4 km de l'intercepteur, déployez un dissipateur thermique pour réduire votre signature thermique à moins de 20 %. Votre objectif est d’utiliser vos propulseurs verticaux et votre boost pour « orbiter » autour de l’intercepteur à la portée optimale de vos canons gauss, ~1,5 km. Souvenez-vous, orbiter autour de l'intercepteur alors que vous êtes à moins de 20% de chaleur vous permet d'esquiver la totalité de ses tirs, et ce tant que vous restez à un angle d'environ 15 degrés par rapport à ce qu'il "vise".** Essayez d'éviter de vous rapprocher à moins de 1 km, sinon le Thargoïd essayera d'utiliser son éclair qui endommagera considérablement vos boucliers, vous rendra immobile, et perturbera vos systèmes.
+
+*Si vous êtes touché par l'éclair alors qu'un cœur est extrait, n'essayez pas de fuir, le Thargoïd ne se déplacera pas et sera dans la position **parfaite** pour détruire son cœur. Une fois qu'il sera détruit, vous aurez environ 10 à 20 secondes pour vous éloigner sans avoir subi aucun dommage supplémentaire.*
+
+Continuez à tirer aux gauss sur le Thargoïd en orbitant et en déployant des dissipateurs thermiques après chaque éjection.
+
+*Lorsque vous combattez un Medusa ou un Hydra, essayez de calculer vos tirs afin de ne tirer qu'après que le Thargoïd commence une salve. Ainsi, votre signature thermique ne pourra augmenter à plus de 20 % que pendant le rechargement de l'intercepteur. Vous pouvez aussi associer 1 ou 2 de vos gauss aux tirs primaire et secondaire pour éviter que votre chaleur ne monte à plus de 20 % après chaque tir.*
+
+Après que le cœur soit extrait, tirez rapidement dessus. Le compromis entre la convergence et les dommages est le meilleur entre 1 et 1,5 km. Prioriser la précision et le positionnement à la quantité. Une fois le cœur détruit, transférez les pips en 2-4-0 et boostez pour vous éloigner. Votre objectif après la destruction de chaque cœur est de vous éloigner de 3 km du Thargoïd pour ne pas déclencher son attaque spéciale. Répétez les mêmes étapes jusqu'à la destruction du dernier cœur.
+
+## Après la destruction du Dernier Coeur
+
+Tirez le plus vite possible sur n'importe quelle partie du thargoïd. Vous devriez être en mesure de tirer environ deux fois avant qu'il ne récupère son bouclier (après la destruction du dernier cœur, l'intercepteur ne se régénérera plus). Cela devrait être assez pour détruire un Cyclops. Boostez pour vous éloigner et détruisez l'essaim, attendez la destruction du bouclier de l'intercepteur puis tirez lui dessus avec vos gauss jusqu'à ce que le thargoïd soit détruit.

@@ -2,10 +2,12 @@
 title: Odyssey Engineering
 description: Guide to engineering suits and on-foot weapons
 published: true
-date: 2021-10-06T05:38:14.894Z
-tags: engineering, guide
+date: '2021-10-06T05:38:14.894Z'
+tags:
+  - engineering
+  - guide
 editor: markdown
-dateCreated: 2021-06-24T23:36:31.051Z
+dateCreated: '2021-06-24T23:36:31.051Z'
 ---
 
 # **__How to farm materials is Odyssey__**

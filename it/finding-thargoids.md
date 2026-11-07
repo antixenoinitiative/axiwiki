@@ -2,10 +2,13 @@
 title: Finding Thargoids
 description: How to find Thargoids in Elite Dangerous
 published: true
-date: 2021-11-23T03:07:09.022Z
-tags: thargoids, interceptors, scouts
+date: '2021-11-23T03:07:09.022Z'
+tags:
+  - thargoids
+  - interceptors
+  - scouts
 editor: markdown
-dateCreated: 2021-06-24T12:27:21.644Z
+dateCreated: '2021-06-24T12:27:21.644Z'
 ---
 
 # Finding Thargoids
@@ -34,3 +37,4 @@ Thargoids can be found in various locations, such as:
 ![thargoidmap.png](/img/thargoidmap.png)
 
 [Click here for a full sized image](https://cdn.discordapp.com/attachments/625989888432537611/854310144946208808/Thargoid_Activity_Map_v0.5.png)
+

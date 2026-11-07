@@ -2,10 +2,13 @@
 title: Поиск таргоидов
 description: Как найти таргоидов в Elite Dangerous
 published: true
-date: 2022-01-20T10:14:26.361Z
-tags: перехватчики, таргоиды, разведчики
+date: '2022-01-20T10:14:26.361Z'
+tags:
+  - перехватчики
+  - таргоиды
+  - разведчики
 editor: markdown
-dateCreated: 2021-06-24T12:29:24.265Z
+dateCreated: '2021-06-24T12:29:24.265Z'
 ---
 
 # Поиск таргоидов
@@ -34,3 +37,4 @@ dateCreated: 2021-06-24T12:29:24.265Z
 ![thargoidmap.png](/img/thargoidmap.png)
 
 [Нажмите сюда для просмотра полноразмерного изображения](https://cdn.discordapp.com/attachments/625989888432537611/854310144946208808/Thargoid_Activity_Map_v0.5.png)
+

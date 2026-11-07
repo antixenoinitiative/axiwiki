@@ -2,10 +2,12 @@
 title: Láseres
 description: Usando Láseres en combate AX.
 published: true
-date: 2021-07-03T01:54:36.438Z
-tags: equipamiento, módulos
+date: '2021-07-03T01:54:36.438Z'
+tags:
+  - equipamiento
+  - módulos
 editor: markdown
-dateCreated: 2021-06-24T23:37:00.497Z
+dateCreated: '2021-06-24T23:37:00.497Z'
 ---
 
 # Láseres

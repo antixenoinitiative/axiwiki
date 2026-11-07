@@ -2,10 +2,13 @@
 title: Mechanic Bypass Guide
 description: How to skip certain mechanics in a thargoid fight
 published: true
-date: 2021-08-26T04:19:06.042Z
-tags: combat, thargoids, interceptors
+date: '2021-08-26T04:19:06.042Z'
+tags:
+  - combat
+  - thargoids
+  - interceptors
 editor: markdown
-dateCreated: 2021-06-24T12:25:45.379Z
+dateCreated: '2021-06-24T12:25:45.379Z'
 ---
 
 # Sleep Phase Mechanics

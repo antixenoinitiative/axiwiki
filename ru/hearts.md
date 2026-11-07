@@ -2,10 +2,14 @@
 title: Thargoid Hearts
 description: Explanation of Thargoid Hearts and related mechanics
 published: true
-date: 2021-10-06T05:41:29.664Z
-tags: combat, thargoids, interceptors, hearts
+date: '2021-10-06T05:41:29.664Z'
+tags:
+  - combat
+  - thargoids
+  - interceptors
+  - hearts
 editor: markdown
-dateCreated: 2021-06-24T12:29:31.520Z
+dateCreated: '2021-06-24T12:29:31.520Z'
 ---
 
 # Thargoid Hearts
@@ -39,7 +43,7 @@ The Heart has a very small hit-box and you must be very precise in-order to deal
 
 Thargoid Hearts are located in the petals of the Interceptor. They spawn in a semi-consistent pattern for each variant however they will be exerted in a random pattern for each kill.
 
-You can sub-target the hearts if you use a Xeno-Scanner on the Interceptor and complete a full-scan. This will also allow you to see the status of all hearts in the contacts panel.![heart_location.png](/img/heart_location.png)
+You can sub-target the hearts if you use a Xeno-Scanner on the Interceptor and complete a full-scan. This will also allow you to see the status of all hearts in the contacts panel.![heart_location.png](/img/heart-location.png)
 
 # Collecting Hearts
 

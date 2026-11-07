@@ -2,10 +2,14 @@
 title: Расширенное боевое руководство
 description: Основано на доктрине CMDR Avasa Siuu
 published: true
-date: 2021-07-18T02:19:21.712Z
-tags: outfitting, combat, thargoids, interceptors
+date: '2021-07-18T02:19:21.712Z'
+tags:
+  - outfitting
+  - combat
+  - thargoids
+  - interceptors
 editor: markdown
-dateCreated: 2021-06-24T12:28:47.300Z
+dateCreated: '2021-06-24T12:28:47.300Z'
 ---
 
 # Расширенное боевое руководство

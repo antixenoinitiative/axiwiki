@@ -2,10 +2,11 @@
 title: FSS akorduyla NHSS içeriğini öngörmek
 description: FSS kullanarak tüm NHSS içeriklerini tahmin etmek mümkündür
 published: true
-date: 2021-11-02T02:55:14.920Z
-tags: nhss
+date: '2021-11-02T02:55:14.920Z'
+tags:
+  - nhss
 editor: markdown
-dateCreated: 2021-10-06T05:50:16.575Z
+dateCreated: '2021-10-06T05:50:16.575Z'
 ---
 
 # FSS akorduyla NHSS içeriğini öngörmek
@@ -37,3 +38,4 @@ Bu yöntemi kullanarak FSS ile NHSS'leri tahmin etmek ve okuma yapmak mümkünd�
 Verileri buradan inceleyebilirsiniz: [Xarionn’un Çizelgesi](https://docs.google.com/spreadsheets/d/14Ik0S1fV8FHJR5iJQpiSbJ1t_yntRJVBB6axeL3XErk/edit#gid=0)
 
 Görseller: CMDR Orlandu
+

@@ -1,0 +1,38 @@
+---
+title: Caustic Resistance Study
+description: An in-depth study into Thargoid Caustic Resistance and Phasing Damage
+published: true
+date: '2021-10-06T05:39:13.823Z'
+tags:
+  - thargoids
+  - caustic missiles
+  - study
+editor: visual
+dateCreated: '2021-06-24T12:24:56.338Z'
+---
+
+# Étude de la résistance caustique
+
+*Par CMDR Maligno*
+
+Le but de cette étude est de confirmer à nouveau les deux questions suivantes :
+
+Les dégâts perçants (à travers les boucliers) provenant du canon principal d'un intercepteur Thargoïd sont-ils réduits par une coque avec une résistance caustique ? (Renforts de coque Guardian)
+
+La résistance caustique offerte par les renforts de coque gardien retient-elle les dégâts de manière linéaire ou non-linéaire ?
+
+## Première expérience
+
+Chaque configuration de vaisseau a été testée contre un Medusa après élimination de son essaim (de loin pour ne pas subir de dégâts). Avant que les boucliers ne tombent, dans chaque cas, la coque a été réduite à 48%, ce qui signifie que les dégâts perçants des canons de l'intercepteur ignorent la résistance caustique de la coque.
+
+## Deuxième expérience
+
+Test de chaque configuration sans boucliers cette fois-ci contre un Medusa, après élimination de son essaim. Encore une fois, on a pris soin de ne pas prendre de dégâts. Comme le montre l'image ci-dessous, le test effectué avec une résistance caustique a mitigé les dégâts par le montant estimé. Il y a 0.9 % d'erreur dans les mesures, plus une légère différence dans la coque entre les deux configurations (seulement 4 points de vie), et les tirs manqués de temps en temps par l'Intercepteur.
+
+![](./img/caustic-resistance-study.png)
+
+## Conclusion
+
+Non, les dégâts perçants ne sont pas réduits par la résistance caustique, comme on le pensait précédemment.
+
+Oui, les résistances caustiques semblent fonctionner comme imaginé précédemment et documenté dans EDSY en se cumulant de manière non-linéaire. Voir [Modules](/en/internals) pour plus de détails.

@@ -1,11 +1,16 @@
 ---
 title: Salvation Gauss Cannons
-description: Everything we currently know about the Salvation Modified Guardian Gauss Cannons
+description: >-
+  Everything we currently know about the Salvation Modified Guardian Gauss
+  Cannons
 published: true
-date: 2021-10-06T05:37:29.351Z
-tags: builds, weapons, guardians
+date: '2021-10-06T05:37:29.351Z'
+tags:
+  - builds
+  - weapons
+  - guardians
 editor: markdown
-dateCreated: 2021-09-19T04:39:14.982Z
+dateCreated: '2021-09-19T04:39:14.982Z'
 ---
 
 # Salvation Gauss Cannons

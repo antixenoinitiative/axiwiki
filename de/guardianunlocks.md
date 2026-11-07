@@ -1,0 +1,33 @@
+---
+title: Unlock Guardian Weapons and Modules
+description: How to unlock guardian weapons and modules
+published: true
+date: '2021-06-27T22:10:19.990Z'
+tags:
+  - builds
+  - outfitting
+editor: visual
+dateCreated: '2021-06-24T12:23:23.139Z'
+---
+
+# Freischalten von Guardian-Waffen und -Modulen
+
+Um die Guardian-Module und -Waffen zu sammeln, müssen die Spieler die Guardian-Stätten besuchen und eine Vielzahl von Materialien sammeln. Dazu gehören: Blaupausen (spezifisch für den Modultyp), Komponenten und Daten. Um diese zu sammeln, benötigt man ein Schiff mit einem SRV und einer anständigen Sprungreichweite (Guardian-Standorte sind etwas abgelegen).
+
+**Wir empfehlen ausserdem, ein Ersatz-SRV und ein Punktverteidigungsmodul auf dem Schiff mitzuführen. Die Punktverteidigung wird die Guardian Sentinel-Raketen abschießen, was dies wesentlich erleichtert.**
+
+Verschiedene Guardian-Standorte geben unterschiedliche Blaupausen (Modul, Waffe, Fighter). Um die Blaupausen zu sammeln, müssen man ein kleines Minispiel absolvieren, bei dem man innerhalb eines kleinen Zeitfensters Energiekugeln auf eine Sammlung von Pylonen schießen müssen. Danach muss man sich ein uraltes Guardian Relikt schnappen und es auf das Podest legen, auf dem man das Minispiel begonnen hat. Von hier aus wird eine große Kugel erscheinen, die man mit einem Data-Link-Scanner scannen muss, um eine Blaupause zu erhalten. Wenn man mehrere Blaupausen benötigt, kan man dann vom Standort wegfahren, sich aus dem Spiel aus- und wieder einloggen und erneut beginnen.
+
+Beim Erkunden des Geländes trifft man auf Guardian Sentinels. Diese schiessen mit Projektilen auf den Spieler und feuern Suchraketen in die Luft. Nimmt man sich einfach Zeit und schaltet man diese nacheinander aus, wird man kaum Probleme haben, einen Guardian-Standort zu entschärfen.
+
+Hier sind einige Guardian-Standorte, die verwendet werden können, um Module und Waffen zu erhalten:
+
+## SYNUEFE EU-Q C21-10 Planet A 3 (Waffen)
+
+![guardwafblau.jpeg](/img/guardwepblue.jpg)
+
+## SYNUEFE NL-N C23-4 Planet B 3 (Module)
+
+![guardmodblau.jpeg](/img/guardmodblue.jpg)
+
+## Video-Anleitung

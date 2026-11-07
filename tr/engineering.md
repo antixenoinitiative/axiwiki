@@ -2,10 +2,13 @@
 title: Mühendislik Materyalleri Rehberi
 description: Geminizi mühendislikle yükseltmek için gereken materyalleri elde etme rehberi
 published: true
-date: 2021-11-02T02:54:30.626Z
-tags: engineering, outfitting, materials
+date: '2021-11-02T02:54:30.626Z'
+tags:
+  - engineering
+  - outfitting
+  - materials
 editor: markdown
-dateCreated: 2021-10-06T05:49:14.833Z
+dateCreated: '2021-10-06T05:49:14.833Z'
 ---
 
 # Mühendislik Materyalleri Rehberi
@@ -109,3 +112,4 @@ Takas sırasında her zaman değer kaybı yaşarsınız. Özellikle farklı kate
 **En iyi yöntem, en yüksek seviye materyalleri toplayıp gerektiğinde düşüklerini almak için kullanmaktır. Aynı tip materyaller farklı kategorilere sahip olabilir. İstediğiniz materyalin kategorisinden (aynı satırda listelenir) bir materyal takas etmeye dikkat ederseniz en düşük kaybı yaşarsınız.**
 
 ![convert1.png](/img/convert1.png) ![convert2.png](/img/convert2.png)
+

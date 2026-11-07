@@ -2,10 +2,13 @@
 title: Sabit Sinyal Kaynakları
 description: Sabit Thargoid Yerleşkeleri
 published: true
-date: 2021-11-02T02:55:41.698Z
-tags: thargoids, interceptors, scouts
+date: '2021-11-02T02:55:41.698Z'
+tags:
+  - thargoids
+  - interceptors
+  - scouts
 editor: markdown
-dateCreated: 2021-10-06T05:50:59.225Z
+dateCreated: '2021-10-06T05:50:59.225Z'
 ---
 
 # Sabit Thargoid Sinyal Kaynakları
@@ -29,3 +32,4 @@ Listenin devamı için: [Thargoid Saldırıları Çizelgesi](https://docs.google
 Liste ve Proje Lideri: CMDR Melting Cube
 
 Destekleyenler: CMDR Aranionros Stormrage ve CMDR Darth Vader
+

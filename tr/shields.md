@@ -2,10 +2,14 @@
 title: Thargoid Kalkanları
 description: Thargoid kalkanları ve mekanikleri hakkında bilgiler
 published: true
-date: 2021-11-02T02:55:30.122Z
-tags: combat, thargoids, interceptors, shields
+date: '2021-11-02T02:55:30.122Z'
+tags:
+  - combat
+  - thargoids
+  - interceptors
+  - shields
 editor: markdown
-dateCreated: 2021-10-06T05:50:40.860Z
+dateCreated: '2021-10-06T05:50:40.860Z'
 ---
 
 # Thargoid Kalkanları
@@ -62,3 +66,4 @@ Bazı durumlarda, Kalp parçalanmalarından bağımsız olarak, Interceptorler k
 3. **Tedbir Konuşlandırması** - Eğer Interceptor caustic füze yaylımı gerçekleştirdiğinde kalkanı düşmüşse yenisini üretir.
 
 Bu, genelde senaryo 2'de belirtilen durumlarda ortaya çıkar ancak 10 saniye sürecinden sonra da oluşabilir. Örneğin; eğer ki uyku evresinde kalkanı düşürmek için wing taktikleri kullanılmışsa ancak kalkan düştükten sonra aggro sahibi tespit edilirse caustic yaylım ateşiyle beraber yeni bir kalkan üretilir.
+

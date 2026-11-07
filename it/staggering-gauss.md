@@ -2,10 +2,13 @@
 title: Staggering Gauss Fire
 description: The advantages and different ways you can stagger gauss fire.
 published: true
-date: 2021-06-24T12:28:19.694Z
-tags: combat, weapons, controls
+date: '2021-06-24T12:28:19.694Z'
+tags:
+  - combat
+  - weapons
+  - controls
 editor: markdown
-dateCreated: 2021-06-24T12:28:18.027Z
+dateCreated: '2021-06-24T12:28:18.027Z'
 ---
 
 # Staggering Gauss

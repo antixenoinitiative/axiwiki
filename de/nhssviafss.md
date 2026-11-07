@@ -2,10 +2,11 @@
 title: NHSS-Inhalt durch FSS-Tuning vorhersagen
 description: Man kann NHSS vorhersagen und auf dem Spektrum des FSS zuordenen
 published: true
-date: 2021-08-19T13:13:39.447Z
-tags: nhss
+date: '2021-08-19T13:13:39.447Z'
+tags:
+  - nhss
 editor: markdown
-dateCreated: 2021-08-04T11:19:57.677Z
+dateCreated: '2021-08-04T11:19:57.677Z'
 ---
 
 # NHSS-Inhalt durch FSS-Tuning vorhersagen

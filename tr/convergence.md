@@ -2,10 +2,12 @@
 title: Yakınsaklık
 description: Yakınsaklık ve sabit silahları nasıl etkilediğine dair kısa bir rehber
 published: true
-date: 2021-11-02T02:54:23.652Z
-tags: outfitting, weapons
+date: '2021-11-02T02:54:23.652Z'
+tags:
+  - outfitting
+  - weapons
 editor: markdown
-dateCreated: 2021-10-06T05:49:05.125Z
+dateCreated: '2021-10-06T05:49:05.125Z'
 ---
 
 # Yakınsaklık
@@ -31,3 +33,4 @@ Cutter'ın dış hardpointleri kötü bir yakınsaklığa sahip. ![convergebad.p
 ## Diğer Örnekler
 
 Corvette ile Anaconda karşılaştırması ![convergence.jpg](/img/convergence.jpg)
+

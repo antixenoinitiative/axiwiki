@@ -2,10 +2,13 @@
 title: Systemstatus - Eindringen & Seuche
 description: Zu Thargoid-Eindringen und Seuchen
 published: true
-date: 2021-11-23T03:06:53.011Z
-tags: thargoids, incursions, infestations
+date: '2021-11-23T03:06:53.011Z'
+tags:
+  - thargoids
+  - incursions
+  - infestations
 editor: markdown
-dateCreated: 2021-06-24T12:23:32.197Z
+dateCreated: '2021-06-24T12:23:32.197Z'
 ---
 
 # Thargoid-Eindringen

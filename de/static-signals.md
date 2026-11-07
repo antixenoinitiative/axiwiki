@@ -2,10 +2,13 @@
 title: Permanente Signalquellen
 description: Permanente Thargoid-Standorte
 published: true
-date: 2021-10-30T10:50:50.960Z
-tags: thargoids, interceptors, scouts
+date: '2021-10-30T10:50:50.960Z'
+tags:
+  - thargoids
+  - interceptors
+  - scouts
 editor: markdown
-dateCreated: 2021-06-24T12:24:15.963Z
+dateCreated: '2021-06-24T12:24:15.963Z'
 ---
 
 # Permanente Thargoid-Signalquellen

@@ -2,10 +2,12 @@
 title: Odyssey Mühendisliği
 description: Kıyafet ve piyade silahları mühendisliği rehberi
 published: true
-date: 2021-11-02T02:54:28.302Z
-tags: engineering, guide
+date: '2021-11-02T02:54:28.302Z'
+tags:
+  - engineering
+  - guide
 editor: markdown
-dateCreated: 2021-10-06T05:49:11.672Z
+dateCreated: '2021-10-06T05:49:11.672Z'
 ---
 
 # ****Odyssey'de nasıl materyal farmlanır****
@@ -85,3 +87,4 @@ Plasma için, Executioner/Oppressor/Intimidator/Tormentor G3'lerini dükkandan a
 > - Ionised Gas yerine Compression-Liquified Gas
 > - Chemical Superbases yerine Tungsten Carbide ve
 > - Microelectrodes yerine Weapon Components kullanacaksınız.
+
