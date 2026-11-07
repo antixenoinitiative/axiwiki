@@ -2,7 +2,7 @@
 title: Port Forwarding Guide
 description: implementing Port Forwarding and Mitigating Game Networking Issues
 published: true
-date: '2023-08-07T05:14:56.222Z'
+date: '2026-11-07T04:16:23.007Z'
 tags:
   - port forwarding
 editor: markdown
@@ -11,27 +11,27 @@ dateCreated: '2023-08-07T05:14:48.808Z'
 
 # Elite:Dangerous - Port Forwarding Mega Guide
 
-### Preface
+## Preface
 
 Hi! My name is CMDR Mgram and I frequently take part in Wing Anti-Xeno combat as part of the Anti-Xeno Initative. Unfortunatly Elite Dangerous sufferes multiple crippling issues that frequently make this type of content very difficult, this mostly relates to how the game handles people in Open and Private Group game modes. Spurred on by this I have spent many hours testing alternative methods to try reduce these issues and believe we have found very solid solution.
 
-### What is Port Forwarding?
+## What is Port Forwarding?
 
 Put simply, Port Forwarding is creating special rules that your computer and router will follow to more easily allow Elite:Dangerous traffic to enter your local network (Your internet at home).
 
 Elite:Dangerous does support this but by default it is disabled and uses another system called uPnP (google this if you want to learn more), This is because it is more universally compatible with everyone's system but bring some unfortunate down-sides, uPnP is less reliable and appears to experience some issues with Elite:Dangerous instancing in particular.
 
-### Who is this for?
+## Who is this for?
 
 This guide is intended for players who often take part in multiplayer content in elite dangerous and frequently have issues with grouping up and instancing (entering the same location) with other players.
 
 If you are content playing solo then this won't make much of a difference for you.
 
-### Does it work?
+## Does it work?
 
 From my testing, I would say with 97% certainty that this makes a difference, If you have any experience with AX combat you may be familiar with terms such as "Desync, Heart Bug, Extra Shield/Swarm, etc, etc" all of which are incredibly annoying and game-breaking bugs that occur solely because of networking issues. These issues almost entirely dissapear once Port Forwarding is correctly configured on all wing members systems. I have already recommended this to my squadron.
 
-### Why?
+## Why?
 
 Good question! Elite:Dangerous is a bit special, Unlike most games that communicate with a server for ALL online gameplay, E:D only uses servers for certain tasks, like Logging into the game, or registering transactions in stations and such. All direct player interactions (such as combat, wing and multicrew) are done by a special type of connection called Peer-to-Peer. This is where your computer communicates directly to the other player's computer.
 
@@ -43,11 +43,11 @@ Typically your home router acts as a gateway and masks your internal network beh
 
 Port Forwarding creates a pathway that allows external connections to send information directly to your computer from external locations, even when the traffic is not expected. If you have ever tried to host a minecraft server from home you will have had to setup port forwarding to your server machine in order to let other users join your server. The same thing is required to allow other users to connect to you in Elite:Dangerous.
 
-### Is it safe?
+## Is it safe?
 
 YES and NO, As people have mentioned in the comments below there are tradeoffs for both, uPnP can be insecure if incorrectly configured and Port Forwarding can also act as a hole into your network if identified. I cannot guarantee 100% security by either method, if you are unsure take some time to google the risks
 
-### How?
+# How?
 
 Okay now we are gonna get a bit technical. Not to worry, most modern routers can help us out here and will make this a bit easier. I will be refering to a few third party sources as unfortunatly no guide can cover EVERY possible router out there. Experiences may vary greatly.
 
