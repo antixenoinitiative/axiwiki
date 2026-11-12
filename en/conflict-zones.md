@@ -2,7 +2,7 @@
 title: Conflict Zones Guide
 description: A guide to AX Conflict Zones
 published: true
-date: '2026-11-06T04:30:46.305Z'
+date: '2026-11-12T14:08:54.748Z'
 tags:
   - combat
   - interceptors
