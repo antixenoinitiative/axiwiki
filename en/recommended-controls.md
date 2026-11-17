@@ -2,7 +2,7 @@
 title: Recommended Control Scheme
 description: Best suggested controls for Combat in Elite
 published: true
-date: '2026-11-02T11:29:45.283Z'
+date: '2026-11-17T13:25:10.826Z'
 tags:
   - combat
   - controls
@@ -140,9 +140,9 @@ The default file path for a steam installation will be \[C:\\Users\\USER\\AppDat
 ## Reference Keybinds (Odyssey only! These will not work with Legacy)
 
 These are "reference" (mouse and keyboard only) binds which can be used as the basis to edit and add additional devices. They should always load, and work well out-of-the-box:
-[mechan_mkb_v6.4.2.binds](/mechan-mkb-v6.4.2.binds)
+[mechan_mkb_v6.4.2.binds](/_files/mechan-mkb-v6.4.2.binds)
 
 This is a Joystick Gremlin configuration file for Winwing Ursa Minor HOSAS dual sticks (right handed), and the in-game binds file. It adds curves, pip macros, and a heatsink macro.
-[mechan_winwing_hosas_v6.4.2.xml](/mechan-winwing-hosas-v6.4.2.xml)
-[mechan_winwing_hosas_v6.4.2.binds](/mechan-winwing-hosas-v6.4.2.binds)
+[mechan_winwing_hosas_v6.4.2.xml](/_files/mechan-winwing-hosas-v6.4.2.xml)
+[mechan_winwing_hosas_v6.4.2.binds](/_files/mechan-winwing-hosas-v6.4.2.binds)
 Note: These will only work when configured through vJoy/Hidhide/Gremlin - they will NOT work with "native" Joysticks (without using vJoy)!
