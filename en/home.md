@@ -4,7 +4,7 @@ description: >-
   Welcome to the Anti-Xeno Initiative Wiki. Your complete repository for
   Anti-Xeno Combat.
 published: true
-date: '2026-11-05T13:12:53.859Z'
+date: '2026-11-20T21:56:54.784Z'
 tags: []
 editor: markdown
 dateCreated: '2021-06-08T12:40:49.911Z'
@@ -23,13 +23,13 @@ dateCreated: '2021-06-08T12:40:49.911Z'
   </div>
 </div>
 
-> Your knowledgebase for everything AX
-
-Welcome to the Anti-Xeno Initiative Wiki. The primary repository for the Anti-Xeno Initiative, here you will find tutorials, guides and detailed breakdowns of Thargoid Combat and Thargoids in Elite: Dangerous.
-
-The Anti-Xeno Wiki is a collection of articles and guides written by the experienced Pilots and Mentors of the Anti-Xeno Initiative Community, you can join the community for any further questions or assistance from the many talented and friendly commanders.
-
-Want to contribute? if you know a thing or two about AX combat you can help edit the wiki. Log in with your Discord account and contact a staff of the AXI discord server to get the editor role.
+> **Your knowledgebase for everything AX**
+> 
+> Welcome to the Anti-Xeno Initiative Wiki — the primary knowledge base for Anti-Xeno (AX) combat in Elite: Dangerous. Curated and maintained by experienced pilots, mentors, and researchers of the AXI community, these guides take you from your first Scout kill to soloing a Hydra.
+>
+> **New to Thargoid combat?** Start with popular topics below, go throug the guides or connect directly with active AX pilots in the official [AXI Discord Server](https://antixenoinitiative.com/discord){target="_blank"} for mentoring and help.
+>
+>  **Want to contribute?** if you know a thing or two about AX combat you can help edit the wiki. Log in with your Discord account and contact a staff of the AXI discord server to get the editor role.
 
 
 
