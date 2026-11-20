@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: '2026-11-20T22:42:17.489Z'
+date: '2026-11-20T22:46:07.069Z'
 tags:
   - builds
 editor: markdown
@@ -77,11 +77,11 @@ When starting out, stick to the tried and true. These are our Meta picks. The mo
   - Shield: 
   - Firepower: ⭐⭐⭐⭐⭐
 
->> Recommended:  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JH00000H4C0S40,LYS10LYS10EkhG07P_W0LYS10LYS10L3I00,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABk00ARMG05I_W0AdtJ-bJ0060upD6upD8qpDE_PcGzcQKsPcAsO00BAEG03L_W0BOmG05G_W0Bcg00,,6kK0016yG05I_W016yG05I_W016yG05I_W016yG05I_W025S00072200KU2020m201-C00,Solo_0Corsair,AXI)  {.is-success}
->
->  Our default recommendation are **Guardian Gauss cannons**, as one-time unlocks they pose a low entry bar. They are highly effective and using them teaches good habits for any AX pilot’s progression journey.
->
->  ***Engineering Note:** Can use the same power plant as meta chieftain, even unengineered 6A or 7A - depending on usecase, preference and material or rebuy cost. Check EDSY for minimum engineering based on your build!*
+> Recommended:  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JH00000H4C0S40,LYS10LYS10EkhG07P_W0LYS10LYS10L3I00,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABk00ARMG05I_W0AdtJ-bJ0060upD6upD8qpDE_PcGzcQKsPcAsO00BAEG03L_W0BOmG05G_W0Bcg00,,6kK0016yG05I_W016yG05I_W016yG05I_W016yG05I_W025S00072200KU2020m201-C00,Solo_0Corsair,AXI)  {.is-success}
+
+ Our default recommendation are **Guardian Gauss cannons**, as one-time unlocks they pose a low entry bar. They are highly effective and using them teaches good habits for any AX pilot’s progression journey.
+
+***Engineering Note:** Can use the same power plant as meta chieftain, even unengineered 6A or 7A - depending on usecase, preference and material or rebuy cost. Check EDSY for minimum engineering based on your build!*
 
 
 
@@ -121,9 +121,10 @@ Also known as the “Easy Mode” Corsair. Two medium Modplasmas combined with t
 
 > Recommended:  [Shieldless Build, 3 Gauss Cannons, Flak](https://edsy.org/#/L=JEA0000H4C0SC0,LYS17EkhH77P_W0LYS17L3I17LYS17,CjwG-YG002P000S_00CjwG-2G002P000S_00CjwG-2G002P000S_00CjwH-2G002P000S_00,9onG75I_W0AAA00APoGA5I_W0AdtJ05J_W0AsOHA3G_W0BAEGA3L_W0BOmHA5G_W0Bcg0A,,16yG75I_W016yG75I_W025S076kK20072000KU2713qG75I_W020m071-C07,Meta_0Krait,AXIN) 
 > Or: [Shieldless Build, 4 Gauss Cannons](https://edsy.org/#/L=JE00000H4C0S80,LYS10LYS10EkhG07P_W0LYS10LYS10,CjwG02G_W0CjwG02G_W0CjwG02G_W0CjwG02G_W0,9onG05I_W0ABk00APoG05I_W0AdsO05J_W0AsOG03G_W0BAEG03L_W0BOmG05G_W0Bcg00,,25T006kK0016yG05I_W016yG05I_W00720013qG05I_W00KU0020n001-D00,Solo_0Krait_04m) - choose between flak or beam laser.  {.is-success}
->>  Our default recommendation are **Guardian Gauss cannons**, as one-time unlocks they pose a low entry bar. They are highly effective and using them teaches good habits for any AX pilot’s progression journey.
-  >>
-  >>  ***Engineering Note:** Can use the same power plant as meta chieftain, even unengineered 6A or 7A - depending on usecase, preference and material or rebuy cost. Check EDSY for minimum engineering based on your build!* 
+
+ Our default recommendation are **Guardian Gauss cannons**, as one-time unlocks they pose a low entry bar. They are highly effective and using them teaches good habits for any AX pilot’s progression journey.
+
+  ***Engineering Note:** Can use the same power plant as meta chieftain, even unengineered 6A or 7A - depending on usecase, preference and material or rebuy cost. Check EDSY for minimum engineering based on your build!* 
   
 ::block-axi-details{label="Alternative Builds"}
 
@@ -158,7 +159,8 @@ Replaces three medium Gauss Cannons with Modplasmas.
   - Firepower: ⭐⭐⭐⭐
 
 > Recommended:  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JD50000H4C0S40,L3I17LYS17LYS17LYS17EhtH57P_W0EhtH77P_W0EhtH77P_W0,CjwG-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00CjwH-YG002P000S_00,9onG75I_W0AAAG53K_W0APoG55I_W0AdtJ05J_W0AtyH53G_W0B8gG53L_W0BLeH55G_W0Bb605,15OG55I_W015OG55I_W015OG55I_W0,25T076kK2005U0A05U070Iw2A20n071-D07) {.is-success}
->>  Our default recommendation are **Guardian Gauss cannons**, as one-time unlocks they pose a low entry bar. They are highly effective and using them teaches good habits for any AX pilot’s progression journey.
+
+Our default recommendation are **Guardian Gauss cannons**, as one-time unlocks they pose a low entry bar. They are highly effective and using them teaches good habits for any AX pilot’s progression journey.
 
 ::block-axi-details{label="Alternative Builds"}
 
@@ -202,10 +204,11 @@ Because of the presence of variables outside one's control (NPCs, other Players)
 
   
 
-  > Recommended: [Shieldless AXCZ Build, Shard Cannons](https://edsy.org/#/L=JH00000H4C0S40,LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEkgG07P_W0LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEjGG07P_W0,CjxG02G_W0EBD00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABkG02q_W0ARMG05I_W0AdtJ-bJ0060upD6upD8qpDE_PcGzcQKsPcArw00BAEG03L_W0BOmG05G_W0Bcg00,,0AA0016yG05I_W016yG05I_W016yG05I_W025S006kK200M22013qG05I_W020m001-C00,AXCZ_0Corsair,AXI)  {.is-success}
-  >>  While Gauss cannons are an excellent choice for solo fights, their limited ammunition capacity can leave something to be desired during lengthy scenarios like conflict-zones.
-  >>
-  >>  ***Engineering Note:** Can use the same power plant as meta chieftain, even unengineered 7A - depending on usecase, preference and material or rebuy cost. Check EDSY for minimum engineering based on your build!*
+> Recommended: [Shieldless AXCZ Build, Shard Cannons](https://edsy.org/#/L=JH00000H4C0S40,LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEkgG07P_W0LYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-YG0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEjGG07P_W0,CjxG02G_W0EBD00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABkG02q_W0ARMG05I_W0AdtJ-bJ0060upD6upD8qpDE_PcGzcQKsPcArw00BAEG03L_W0BOmG05G_W0Bcg00,,0AA0016yG05I_W016yG05I_W016yG05I_W025S006kK200M22013qG05I_W020m001-C00,AXCZ_0Corsair,AXI)  {.is-success}
+ 
+ While Gauss cannons are an excellent choice for solo fights, their limited ammunition capacity can leave something to be desired during lengthy scenarios like conflict-zones.
+
+ ***Engineering Note:** Can use the same power plant as meta chieftain, even unengineered 7A - depending on usecase, preference and material or rebuy cost. Check EDSY for minimum engineering based on your build!*
 
 ::block-axi-details{label="Alternative Builds"}
  
@@ -240,9 +243,10 @@ Also known as the “Easy Mode” Corsair. Two medium Modplasmas combined with t
 
 
   > Recommended: [Shieldless AXCZ Build, Shard Cannons](https://edsy.org/#/L=JE00000H4C0S40,LYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEkgH07P_W0LYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOH-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXv,CjwG-2G002P000S_00CjwG-2G002P000S_00CjxG02G_W0EBD00,9p3G05I_W0ABk00APoG05I_W0AdtJ05J_W0AsOG03G_W0BAEG03L_W0BOmG05G_W0Bcg00,,0AA206kK2016yG05I_W025S2015OG05I_W013qG05I_W00KU2020m001-C00,AXCZ_0Krait,AXI) {.is-success}
-  >>  While Gauss cannons are an excellent choice for solo fights, their limited ammunition capacity can leave something to be desired during lengthy scenarios like conflict-zones.
-  >>
-  >>  ***Engineering Note:** Can use the same power plant as meta chieftain, even unengineered 7A - depending on usecase, preference and material or rebuy cost. Check EDSY for minimum engineering based on your build!*
+
+While Gauss cannons are an excellent choice for solo fights, their limited ammunition capacity can leave something to be desired during lengthy scenarios like conflict-zones.
+
+***Engineering Note:** Can use the same power plant as meta chieftain, even unengineered 7A - depending on usecase, preference and material or rebuy cost. Check EDSY for minimum engineering based on your build!*
 
 ::block-axi-details{label="Alternative Builds"}
 
@@ -273,7 +277,8 @@ Three medium Modplasmas are the limit of what the distributor can handle effecti
   - Firepower: ⭐⭐⭐⭐
 
   > Recommended: [Shieldless AXCZ Build, Shard Cannons](https://edsy.org/#/L=JD00000H4C0S40,LYOI-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOI-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOI-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvLYOI-2G0090y0051Cp98HkDFm0H058K_7YP4JAV700YpXvEhsI07P_W0EhsI07P_W0EhsI07P_W0,CjwH-2G002P000S_00CjwH-2G002P000S_00CjxH02G_W0EBD10,9p3G05I_W0AAAG03K_W0APoG05I_W0AdtJ05J_W0AtyG03G_W0B8gG03L_W0BLeG05G_W0Bb600,15OG05I_W015OG05I_W015OG05I_W0,25S006kK1005U0005U000Iw2020m001-C00,AXCZ_0Challenger,AXI)  {.is-success}
-  >>  While Gauss cannons are an excellent choice for solo fights, their limited ammunition capacity can leave something to be desired during lengthy scenarios like conflict-zones.
+  
+While Gauss cannons are an excellent choice for solo fights, their limited ammunition capacity can leave something to be desired during lengthy scenarios like conflict-zones.
 
 ::block-axi-details{label="Alternative Builds"}
 
