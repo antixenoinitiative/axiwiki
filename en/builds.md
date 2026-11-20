@@ -2,7 +2,7 @@
 title: Recommended Builds
 description: Recommended Anti-Xeno Ship Builds
 published: true
-date: '2026-11-20T22:41:07.223Z'
+date: '2026-11-20T22:42:17.489Z'
 tags:
   - builds
 editor: markdown
@@ -77,12 +77,11 @@ When starting out, stick to the tried and true. These are our Meta picks. The mo
   - Shield: 
   - Firepower: ⭐⭐⭐⭐⭐
 
-  >
-  >> Recommended:  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JH00000H4C0S40,LYS10LYS10EkhG07P_W0LYS10LYS10L3I00,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABk00ARMG05I_W0AdtJ-bJ0060upD6upD8qpDE_PcGzcQKsPcAsO00BAEG03L_W0BOmG05G_W0Bcg00,,6kK0016yG05I_W016yG05I_W016yG05I_W016yG05I_W025S00072200KU2020m201-C00,Solo_0Corsair,AXI)  {.is-success}
-  >
-  >  Our default recommendation are **Guardian Gauss cannons**, as one-time unlocks they pose a low entry bar. They are highly effective and using them teaches good habits for any AX pilot’s progression journey.
-  >
-  >  ***Engineering Note:** Can use the same power plant as meta chieftain, even unengineered 6A or 7A - depending on usecase, preference and material or rebuy cost. Check EDSY for minimum engineering based on your build!*
+>> Recommended:  [Shieldless Build, Gauss Cannons](https://edsy.org/#/L=JH00000H4C0S40,LYS10LYS10EkhG07P_W0LYS10LYS10L3I00,CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00CjwG-YG002P000S_00,9onG05I_W0ABk00ARMG05I_W0AdtJ-bJ0060upD6upD8qpDE_PcGzcQKsPcAsO00BAEG03L_W0BOmG05G_W0Bcg00,,6kK0016yG05I_W016yG05I_W016yG05I_W016yG05I_W025S00072200KU2020m201-C00,Solo_0Corsair,AXI)  {.is-success}
+>
+>  Our default recommendation are **Guardian Gauss cannons**, as one-time unlocks they pose a low entry bar. They are highly effective and using them teaches good habits for any AX pilot’s progression journey.
+>
+>  ***Engineering Note:** Can use the same power plant as meta chieftain, even unengineered 6A or 7A - depending on usecase, preference and material or rebuy cost. Check EDSY for minimum engineering based on your build!*
 
 
 
