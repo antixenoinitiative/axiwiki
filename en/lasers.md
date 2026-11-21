@@ -2,7 +2,7 @@
 title: Lasers
 description: Using laser in AX combat.
 published: true
-date: '2026-11-21T17:32:41.159Z'
+date: '2026-11-21T20:00:56.133Z'
 tags:
   - outfitting
   - modules
@@ -11,7 +11,6 @@ dateCreated: '2021-06-10T04:07:02.325Z'
 ---
 
 # Lasers
-`Guide by CMDR Naddesh and CMDR Ghosti`
 
 Overall human weapons are largely useless in Anti-Xeno combat. There are however a few exceptions which give added utility and allow for certain special tactics that can greatly improve your combat prowess.
 
