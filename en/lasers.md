@@ -2,7 +2,7 @@
 title: Lasers
 description: Using laser in AX combat.
 published: true
-date: '2026-11-21T16:23:14.525Z'
+date: '2026-11-21T16:27:48.470Z'
 tags:
   - outfitting
   - modules
@@ -55,6 +55,8 @@ A third usage case, specific to large ship combat, is using TV beams in combinat
 The secondary function of a TV beam is damaging the shields of Interceptors. While Interceptor shields deteriorate over time, it is possible to speed up the process by shooting at the shield. It is a waste of ammo to use your Gauss for that purpose, but lasers are the perfect solution as they have unlimited ammo and greater range than the Interceptor’s cannon. Just remember that even though the shield itself will take damage from lasers, the Interceptor’s hull has 99.97% resistance to human weapons.
 
 ## Mounts
+
+Which type of mount you choose is preference, below we describe the advantages and disadvantages of each:
 
 > **Gimballed** beam lasers generate the most heat (thus have the best reverse cooling effect by a slim margin) and are much easier to maintain on target. {.is-success}
 
