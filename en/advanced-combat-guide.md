@@ -2,7 +2,7 @@
 title: Advanced Combat Guide
 description: Based on the Odysseus Doctrine by CMDR Avasa Siuu
 published: true
-date: '2026-11-03T01:30:42.531Z'
+date: '2026-11-23T23:48:11.991Z'
 tags:
   - outfitting
   - combat
