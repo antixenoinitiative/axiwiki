@@ -2,7 +2,7 @@
 title: Basic Combat Guide
 description: The fundamental concepts of AX combat and how to fight an Interceptor.
 published: true
-date: '2026-11-02T01:14:57.285Z'
+date: '2026-11-23T23:47:43.697Z'
 tags:
   - combat
   - thargoids
