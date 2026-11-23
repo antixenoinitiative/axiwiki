@@ -2,7 +2,7 @@
 title: Pip Management Guide
 description: How to best manage pips in Thargoid Combat
 published: true
-date: '2026-02-20T17:39:46.806Z'
+date: '2026-11-23T23:53:37.425Z'
 tags:
   - combat
   - controls
