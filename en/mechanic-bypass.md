@@ -2,7 +2,7 @@
 title: Mechanic Bypass Guide
 description: How to skip certain mechanics in a thargoid fight
 published: true
-date: '2026-11-02T11:38:41.665Z'
+date: '2026-11-23T23:56:09.630Z'
 tags:
   - combat
   - thargoids
