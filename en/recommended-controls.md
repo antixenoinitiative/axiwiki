@@ -2,7 +2,7 @@
 title: Recommended Control Scheme
 description: Best suggested controls for Combat in Elite
 published: true
-date: '2026-11-17T13:25:10.826Z'
+date: '2026-11-23T23:49:17.983Z'
 tags:
   - combat
   - controls
