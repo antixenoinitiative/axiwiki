@@ -4,7 +4,7 @@ description: >-
   Welcome to the Anti-Xeno Initiative Wiki. Your complete repository for
   Anti-Xeno Combat.
 published: true
-date: '2026-11-20T21:56:54.784Z'
+date: '2026-11-23T23:42:45.904Z'
 tags: []
 editor: markdown
 dateCreated: '2021-06-08T12:40:49.911Z'
