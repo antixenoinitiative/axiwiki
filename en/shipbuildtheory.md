@@ -2,7 +2,7 @@
 title: Ship Build Theory
 description: Comprehensive guide on general AX build theory
 published: true
-date: '2026-11-06T03:52:07.560Z'
+date: '2026-11-23T23:45:12.072Z'
 tags:
   - builds
   - theory
