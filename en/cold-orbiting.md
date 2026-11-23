@@ -2,7 +2,7 @@
 title: Cold Orbiting
 description: How to avoid damage using cold orbiting
 published: true
-date: '2026-11-02T11:37:36.468Z'
+date: '2026-11-23T23:55:36.848Z'
 tags:
   - combat
   - thargoids
