@@ -343,11 +343,8 @@ These are best suited as they are not affected by the 77% resistance, can active
 Ultimately, due to the simple nature of scout hunting, almost any ship can be retrofitted for the task quite easily. A simple rule of thumb is….
 
 - Decent Hull
-
 - Decent Shields
-
 - As many AX Multi-Cannons as you can fit
-
 - Decontamination Limpets
 
 ## Scout Builds
