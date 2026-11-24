@@ -2,7 +2,7 @@
 title: Thargoid Special Attacks
 description: Detailed explanation of Thargoid special attacks and abilities
 published: true
-date: '2025-11-27T02:39:00.872Z'
+date: '2026-11-24T11:47:19.490Z'
 tags:
   - combat
   - thargoids
