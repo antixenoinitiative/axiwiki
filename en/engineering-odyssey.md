@@ -2,7 +2,7 @@
 title: Odyssey Engineering
 description: Guide to engineering suits and on-foot weapons
 published: true
-date: '2024-05-02T16:45:53.057Z'
+date: '2026-11-24T12:17:50.302Z'
 tags:
   - engineering
   - guide
