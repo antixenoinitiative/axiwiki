@@ -2,7 +2,7 @@
 title: Thargoid Specifications
 description: Details specs of Thargoid Interceptors
 published: true
-date: '2026-09-11T06:22:38.556Z'
+date: '2026-11-24T11:47:41.075Z'
 tags:
   - thargoids
   - interceptors
