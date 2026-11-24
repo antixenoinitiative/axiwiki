@@ -2,7 +2,7 @@
 title: Large Ship Guide
 description: Combat guide for Large Ships
 published: true
-date: '2025-11-23T16:09:29.772Z'
+date: '2026-11-24T11:41:15.656Z'
 tags:
   - combat
   - thargoids
