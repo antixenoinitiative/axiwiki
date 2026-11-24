@@ -2,7 +2,7 @@
 title: Unlock Guardian Weapons and Modules
 description: How to unlock guardian weapons and modules
 published: true
-date: '2026-11-02T23:58:19.924Z'
+date: '2026-11-24T12:15:07.966Z'
 tags:
   - builds
   - outfitting
