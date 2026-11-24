@@ -4,7 +4,7 @@ description: >-
   An introduction to advanced maneuvers and flight strategy for various
   anti-xeno activities.
 published: true
-date: '2025-11-26T11:54:01.789Z'
+date: '2026-11-24T11:41:01.340Z'
 tags: []
 editor: markdown
 dateCreated: '2023-09-03T02:20:24.558Z'
