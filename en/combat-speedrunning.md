@@ -2,7 +2,7 @@
 title: Speedrunning Guide
 description: Can kill goids? Yes? But can you kill them quick?
 published: true
-date: '2026-11-03T00:16:32.635Z'
+date: '2026-11-24T11:38:03.572Z'
 tags: []
 editor: markdown
 dateCreated: '2021-06-10T13:56:57.206Z'
