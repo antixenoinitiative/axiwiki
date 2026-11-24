@@ -2,7 +2,7 @@
 title: Synthesis
 description: Information on Sythnesis in AX combat.
 published: true
-date: '2026-10-20T17:57:42.037Z'
+date: '2026-11-24T12:16:51.464Z'
 tags:
   - engineering
 editor: markdown
