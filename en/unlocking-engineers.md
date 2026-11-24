@@ -2,7 +2,7 @@
 title: AX Ship Engineering
 description: An AX-focused engineer unlocking and travel guide.
 published: true
-date: '2026-11-06T04:07:48.941Z'
+date: '2026-11-24T12:14:00.660Z'
 tags:
   - engineering
 editor: markdown
