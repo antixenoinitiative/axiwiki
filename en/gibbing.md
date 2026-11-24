@@ -2,7 +2,7 @@
 title: Gibbing
 description: How to Insta-Gib Thargoids
 published: true
-date: '2023-08-29T18:16:46.651Z'
+date: '2026-11-24T11:41:26.603Z'
 tags:
   - combat
   - gibbing
