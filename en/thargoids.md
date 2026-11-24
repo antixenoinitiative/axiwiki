@@ -2,7 +2,7 @@
 title: Thargoids
 description: About Thargoids
 published: true
-date: '2026-04-02T11:56:54.799Z'
+date: '2026-11-24T11:15:17.419Z'
 tags:
   - thargoids
   - interceptors
