@@ -2,7 +2,7 @@
 title: Engineering Materials Guide
 description: Guide on gathering and collecting materials for engineering your ship
 published: true
-date: '2025-11-24T18:16:45.688Z'
+date: '2026-11-24T12:16:33.728Z'
 tags:
   - engineering
   - outfitting
