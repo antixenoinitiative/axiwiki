@@ -2,7 +2,7 @@
 title: Thargoid Hearts
 description: Explanation of Thargoid Hearts and related mechanics
 published: true
-date: '2026-11-06T03:45:23.584Z'
+date: '2026-11-24T11:45:24.857Z'
 tags:
   - combat
   - thargoids
