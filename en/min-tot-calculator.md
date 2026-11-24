@@ -2,7 +2,7 @@
 title: Min Theo. ToT
 description: Calculate Minimum Theoretical Time on Target.
 published: true
-date: '2021-09-19T08:34:25.717Z'
+date: '2026-11-24T23:44:48.703Z'
 tags:
   - combat
   - calculator
