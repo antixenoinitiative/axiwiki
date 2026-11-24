@@ -2,7 +2,7 @@
 title: Weapons
 description: Detailed breakdown of Anti-Xeno Weaponry
 published: true
-date: '2026-06-18T20:01:34.895Z'
+date: '2026-11-24T12:06:56.542Z'
 tags:
   - outfitting
   - modules
