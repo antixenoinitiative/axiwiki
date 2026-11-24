@@ -2,7 +2,7 @@
 title: Multi-Goid Combat Guide
 description: How to take on multiple interceptors simultaneously
 published: true
-date: '2025-11-26T16:39:38.379Z'
+date: '2026-11-24T11:40:15.626Z'
 tags:
   - combat
   - thargoids
