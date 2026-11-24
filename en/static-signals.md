@@ -2,7 +2,7 @@
 title: Static Signal Sources
 description: Static Thargoid Locations
 published: true
-date: '2025-04-21T17:47:12.766Z'
+date: '2026-11-24T23:36:21.174Z'
 tags:
   - thargoids
   - interceptors
@@ -18,7 +18,8 @@ Relogging (exit to menu and log in) will cause these locations to refresh with p
 
 A few notable locations:
 
-- **HR 1185** - Permanent Distress Call (Very useful to find multi-goid fights or solo Hydras outside of the Witch Head Nebula) - Read about the HR 1185 Distress Call Spawns [here](https://wiki.antixenoinitiative.com/en/distress-call-analysis).
+- **HR 1185** - Permanent Distress Call
+  - **Body 1A** - Wrecked Imperial Capitalship (Very useful to find multi-goid fights or solo Hydras outside of the Witch Head Nebula) - Read about the HR 1185 Distress Call Spawns [here](https://wiki.antixenoinitiative.com/en/distress-call-analysis).
 - **Deciat** - A few damaged Megaships (Scenarios around these can spawn Interceptors)
 - **Gree** - This systems contains 2 megaships that can be used to summon Thargoids.
 
