@@ -2,7 +2,7 @@
 title: Synthesis Calculator
 description: Calculate materials required for Synthesis of AX Ammo
 published: true
-date: '2026-11-03T00:08:07.416Z'
+date: '2026-11-24T23:49:18.177Z'
 tags:
   - engineering
   - synthesis
@@ -15,9 +15,11 @@ dateCreated: '2021-06-10T06:24:19.342Z'
 <p>Calculator by CMDR Th3Hero. Calculate the amount of materials you require for a specific amount of Synthesis reloads</p>
 <p></p>
 <div>
-  <div class="iframeContainer">
-    <iframe src="https://th3-hero.github.io/AX-Synthesis-Calculator/"
-      ></iframe>
-  </div>
+  <div class="axi-synthesis-calculator">
+  <iframe
+    src="https://th3-hero.github.io/AX-Synthesis-Calculator/"
+    title="AX Synthesis Calculator">
+  </iframe>
+</div>
 </div>
 <p>Github Repo: <a href="https://github.com/Th3-Hero/AX-Synthesis-Calculator">https://github.com/Th3-Hero/AX-Synthesis-Calculator</a></p>
