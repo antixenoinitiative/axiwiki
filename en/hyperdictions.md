@@ -2,7 +2,7 @@
 title: Hyperdictions
 description: About Thargoid Hyperdictions
 published: true
-date: '2025-11-22T19:04:40.392Z'
+date: '2026-11-24T23:39:23.365Z'
 tags:
   - thargoids
   - interceptors
