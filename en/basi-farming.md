@@ -2,7 +2,7 @@
 title: Basilisk Farming
 description: A comprehensive guide on the NHSS looping Basilisk farm method
 published: true
-date: '2026-03-08T21:44:05.363Z'
+date: '2026-11-24T11:40:46.976Z'
 tags: []
 editor: markdown
 dateCreated: '2026-03-08T19:06:46.197Z'
