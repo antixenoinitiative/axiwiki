@@ -2,7 +2,7 @@
 title: Swarm Management
 description: Techniques to deal with the Thargon Swarm.
 published: true
-date: '2026-11-06T04:00:17.201Z'
+date: '2026-11-24T11:38:38.334Z'
 tags:
   - combat
   - thargoids
