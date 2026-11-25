@@ -4,7 +4,7 @@ description: >-
   Welcome to the Anti-Xeno Initiative Wiki. Your complete repository for
   Anti-Xeno Combat.
 published: true
-date: '2026-11-23T23:42:45.904Z'
+date: '2026-11-25T00:26:20.651Z'
 tags: []
 editor: markdown
 dateCreated: '2021-06-08T12:40:49.911Z'
@@ -91,7 +91,7 @@ dateCreated: '2021-06-08T12:40:49.911Z'
   icon: 'mdi:radar'
 - title: Thargoid Interceptors
   url: /en/interceptors
-  icon: 'mdi:alien-outline'
+  icon: 'axi-icons:cyclops-interceptor'
 - title: Thargoid Special Attacks
   url: /en/special-attacks
   icon: 'mdi:thunder'
